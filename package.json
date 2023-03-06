@@ -15,7 +15,9 @@
   "devDependencies": {
     "style-dictionary": "^3.7.2",
     "@tokens-studio/sd-transforms": "^0.4.4",
-    "token-transformer": "^0.0.30"
+    "token-transformer": "^0.0.30",
+    "lerna": "^4.0.0"
+
   },
   "description": "This repository contains code to transform design tokens exported from Figma using token-transformer and style-dictionary, and create output for Android, iOS and the web.",
   "main": "config.js",
