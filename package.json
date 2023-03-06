@@ -1,0 +1,17 @@
+{
+  "name": "art-basel-design-token-poc",
+  "private": true,
+  "version": "0.0.9",
+  "type": "commonjs",
+  "license" :"UNLICENSED",
+  "scripts": {
+    "build": "npm run clean && npm run convert && style-dictionary clean && style-dictionary build --config config.js",
+    "convert": "token-transformer tokens.json tokens/tokens-studio.json",
+    "clean": "rm -rf build/ tokens/tokens-studio.json"
+  },
+  "devDependencies": {
+    "style-dictionary": "^3.7.2",
+    "@tokens-studio/sd-transforms": "^0.4.4",
+    "token-transformer": "^0.0.30"
+  }
+}

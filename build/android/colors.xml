@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--
+  Do not edit directly
+  Generated on Thu, 02 Mar 2023 14:23:41 GMT
+-->
+<resources>
+  <color name="color-base-primary-mch-black">#ff1d2327</color>
+  <color name="color-base-primary-mch-white">#ffffffff</color>
+  <color name="color-base-secondary-mch-grey-500">#ff444749</color>
+  <color name="color-base-secondary-mch-grey-400">#ff757575</color>
+  <color name="color-base-secondary-mch-grey-300">#ffbabfc4</color>
+  <color name="color-base-secondary-mch-grey-200">#fff0f2f5</color>
+  <color name="color-base-secondary-mch-grey-100">#fff7f7f7</color>
+  <color name="color-supporting-orange">#fff19d00</color>
+  <color name="color-supporting-orange-text">#ffbf8519</color>
+  <color name="color-supporting-red">#ffff003b</color>
+  <color name="color-supporting-red-text">#ffc9012f</color>
+  <color name="color-supporting-green">#ff019f53</color>
+  <color name="color-supporting-green-text">#ff018661</color>
+  <color name="color-supporting-status-light-error">#ffc9012f</color>
+  <color name="color-supporting-status-light-success">#ff018661</color>
+  <color name="color-supporting-status-dark-alert">#fff4a32f</color>
+  <color name="color-supporting-status-dark-error">#ffff979d</color>
+  <color name="color-supporting-status-dark-success">#ff7cc492</color>
+  <color name="color-extended-sub-brands-basel">#ff00a0cf</color>
+  <color name="color-extended-sub-brands-miami">#ff00c18b</color>
+  <color name="color-extended-sub-brands-hong-kong">#ffe0004d</color>
+  <color name="color-extended-sub-brands-cities">#fffa4616</color>
+  <color name="color-extended-sub-brands-paris">#ff1e1e1e</color>
+  <color name="color-extended-sectors-film">#fff7dce9</color>
+  <color name="color-extended-sectors-parcour-public">#ffcddff2</color>
+  <color name="color-extended-sectors-unlimited-encounters-meridians">#ffdff0cb</color>
+  <color name="color-extended-sectors-discoveries-statements-positions">#ffd2d3ec</color>
+  <color name="color-extended-sectors-galleries">#ffcdcdcd</color>
+  <color name="color-extended-sectors-feature-nova">#ffd8eeeb</color>
+  <color name="color-extended-sectors-edition">#fffff7bf</color>
+  <color name="color-extended-sectors-kabinett">#fffcdfaa</color>
+  <color name="color-extended-sectors-insights-survey">#fffcd5d7</color>
+  <color name="color-extended-sectors-dialogues">#ffdcdcdc</color>
+  <color name="color-extended-opacity-dark-overlay-30">#4d1d2327</color>
+  <color name="color-extended-opacity-tile-overlay-5">#0d1d2327</color>
+  <color name="color-extended-opacity-light-fill-hover-60">#99f7f7f7</color>
+  <color name="color-extended-opacity-dark-fill-hover-50">#80444749</color>
+  <color name="color-extended-opacity-border-50">#80babfc4</color>
+  <color name="color-extended-opacity-border-disabled-25">#40babfc4</color>
+  <color name="color-extended-opacity-dark-carousel-background-95">#f21d2327</color>
+  
+</resources>
