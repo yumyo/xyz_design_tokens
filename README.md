@@ -1,4 +1,4 @@
-# Art Basel Design Token POC
+# Art Basel Design Tokens POC
 This repository contains code to transform design tokens exported from Figma using token-transformer and style-dictionary, and create output for Android, iOS and the web.
 
 The `tokens.json` file in the root is generated from Figma using [Tokens Studio for Figma (Figma Tokens)](https://tokens.studio/)
