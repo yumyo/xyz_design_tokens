@@ -1,0 +1,101 @@
+image: node:14-slim
+clone:
+  depth: full
+options:
+  max-time: 30 # maximum amount of minutes a step can execute
+definitions:
+  caches:
+    sonar: /root/.sonar/cache
+
+stepdefinitions:
+  - lint: &lint
+      name: Lint
+      caches:
+        - node
+      script:
+        - yarn install
+        - yarn lint
+  - test: &test
+      name: Test and Analyze
+      caches:
+        - node
+      script:
+        - yarn install
+        - yarn test
+      artifacts: # defining the artifacts to be passed to each future step.
+        - packages/components/coverage/**
+  - sonar: &sonar
+      name: Sonar Analysis
+      caches:
+        - node
+      script:
+        - npm install -g sonarqube-scanner
+        - sonar-scanner -Dsonar.login=$SONAR_TOKEN
+          -Dsonar.organization=$SONAR_ORGANIZATION
+          -Dsonar.projectKey=$SONAR_PROJECT_KEY
+          -Dsonar.branch.name=$BITBUCKET_BRANCH
+
+  - audit: &audit
+      name: Audit (yarn)
+      caches:
+        - node
+      script:
+        - yarn audit || true 
+  - build: &build
+      name: Build
+      caches:
+        - node
+      script:
+        - apt update 
+        - yarn install
+        - yarn build
+
+pipelines:
+  pull-requests:
+    '**':
+      - parallel:
+        - step: *lint
+        - step: *test
+        - step: *audit
+      - step: *build
+  branches:
+    main_core:
+      - parallel:
+          - step: *lint
+          - step: *test
+          - step: *audit
+      - step: *build
+      - step:
+          name: "Publish packages"
+          script:
+            - apt update && apt install -y git
+            - yarn install
+            - npm install --global lerna@4.0.0
+            - npm config set @mch-group:registry https://registry.npmjs.org && npm config set //registry.npmjs.org/:_authToken=${NPM_TOKEN}
+            - git config --unset core.hooksPath
+            - git config user.name "Chanthoan"
+            - git config user.email "ckha@dminc.com"
+            - git config push.default current
+            - git remote set-url origin https://${BITBUCKET_CKHA_USER}:${BITBUCKET_CKHA_API_TOKEN}@bitbucket.org/${BITBUCKET_REPO_OWNER}/${BITBUCKET_REPO_SLUG}
+            - lerna init
+            - lerna version --conventional-commits --yes
+            - lerna publish from-package --yes
+      - step:
+          name: "Send email Changelog Components"
+          script:
+          - EMAIL_LIST="$(tr '\n' ',' < email_list.txt)"
+          - apt update && apt install -y markdown
+          - markdown CHANGELOG.md > CHANGELOG.html
+          - pipe: atlassian/email-notify:0.5.0
+            variables:
+              USERNAME: $EMAIL_USERNAME
+              PASSWORD: $EMAIL_CORE_PASSWORD
+              FROM: $EMAIL_CORE_FROM
+              TO: $EMAIL_LIST
+              HOST: $EMAIL_HOST
+              SUBJECT: 'MCH Artbasel Design Token - Components Changelog'
+              BODY_HTML: 'CHANGELOG.html'
+          condition:
+            changesets:
+                includePaths:
+                  - "CHANGELOG.md"
