@@ -84,7 +84,7 @@ pipelines:
           script:
           - EMAIL_LIST="$(tr '\n' ',' < email_list.txt)"
           - apt update && apt install -y markdown
-          - markdown CHANGELOG.md > CHANGELOG.html
+          - markdown packages/tokens/CHANGELOG.md > packages/tokens/CHANGELOG.html
           - pipe: atlassian/email-notify:0.5.0
             variables:
               USERNAME: $EMAIL_USERNAME
@@ -92,9 +92,9 @@ pipelines:
               FROM: $EMAIL_CORE_FROM
               TO: $EMAIL_LIST
               HOST: $EMAIL_HOST
-              SUBJECT: 'MCH Artbasel Design Token - Components Changelog'
-              BODY_HTML: 'CHANGELOG.html'
+              SUBJECT: 'MCH Artbasel Design Tokens - Components Changelog'
+              BODY_HTML: 'packages/tokens/CHANGELOG.html'
           condition:
             changesets:
                 includePaths:
-                  - "CHANGELOG.md"
+                  - "packages/tokens/CHANGELOG.md"
