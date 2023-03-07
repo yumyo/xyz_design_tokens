@@ -7,7 +7,6 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 **Note:** Version bump only for package @mch-group/design-tokens
 
-
 ## 0.126.2 (2023-03-07)
 
 **Note:** Version bump only for package @mch-group/design-tokens
