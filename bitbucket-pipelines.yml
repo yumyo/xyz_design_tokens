@@ -72,7 +72,6 @@ pipelines:
             - yarn install
             - npm install --global lerna@4.0.0
             - npm config set @mch-group:registry https://registry.npmjs.org && npm config set //registry.npmjs.org/:_authToken=${NPM_TOKEN}
-            - git config --unset core.hooksPath
             - git config user.name "Chanthoan"
             - git config user.email "ckha@dminc.com"
             - git config push.default current
