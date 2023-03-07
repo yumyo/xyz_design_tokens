@@ -1,5 +1,5 @@
 {
-  "name": "art-basel-design-token-poc",
+  "name": "art-basel-design-tokens-poc",
   "private": true,
   "version": "0.0.9",
   "type": "commonjs",
@@ -83,17 +83,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@bitbucket.org/mchappsrvcs/artbasel-design-token.git"
+    "url": "git+ssh://git@bitbucket.org/mchappsrvcs/artbasel-design-tokens.git"
   },
   "keywords": [
-    "design_token"
+    "design_tokens"
   ],
   "author": "DMI",
   "workspaces": [
     "packages/**"
   ],
   "bugs": {
-    "url": "https://bitbucket.org/mchappsrvcs/artbasel-design-token/issues"
+    "url": "https://bitbucket.org/mchappsrvcs/artbasel-design-tokens/issues"
   },
-  "homepage": "https://bitbucket.org/mchappsrvcs/artbasel-design-token#readme"
+  "homepage": "https://bitbucket.org/mchappsrvcs/artbasel-design-tokens#readme"
 }

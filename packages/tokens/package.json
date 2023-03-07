@@ -1,19 +1,19 @@
 {
   "name": "@mch-group/design-tokens",
-  "description": "MCH UI Themes",
-  "version": "0.126.2",
-  "bugs": "https://bitbucket.org/mchappsrvcs/artbasel-design-tokensg/issues",
+  "description": "MCH Design Tokens",
+  "version": "0.0.1",
+  "bugs": "https://bitbucket.org/mchappsrvcs/artbasel-design-tokens/issues",
   "repository": {
     "type": "git",
-    "url": "https://bitbucket.org/mchappsrvcs/artbasel-design-tokensg.git",
+    "url": "https://bitbucket.org/mchappsrvcs/artbasel-design-tokens.git",
     "directory": "packages/themes"
   },
-  "homepage": "https://bitbucket.org/mchappsrvcs/artbasel-design-tokensg",
+  "homepage": "https://bitbucket.org/mchappsrvcs/artbasel-design-tokens",
   "keywords": [
     "sass",
     "css",
     "bootstrap",
-    "token"
+    "tokens"
   ],
   "license": "ISC",
   "author": "DMI",
