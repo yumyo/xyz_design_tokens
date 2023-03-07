@@ -23,7 +23,7 @@ stepdefinitions:
         - yarn install
         - yarn test
       artifacts: # defining the artifacts to be passed to each future step.
-        - packages/components/coverage/**
+        - packages/tokens/**
   - sonar: &sonar
       name: Sonar Analysis
       caches:
