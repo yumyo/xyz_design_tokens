@@ -85,7 +85,7 @@ pipelines:
           - EMAIL_LIST="$(tr '\n' ',' < email_list.txt)"
           - apt update && apt install -y markdown
           - markdown packages/tokens/CHANGELOG.md > packages/tokens/CHANGELOG.html
-          - pipe: atlassian/email-notify:0.5.0
+          - pipe: atlassian/email-notify:0.8.0
             variables:
               USERNAME: $EMAIL_USERNAME
               PASSWORD: $EMAIL_CORE_PASSWORD
