@@ -1,9 +1,29 @@
 {
-  "name": "art-basel-design-token-poc",
-  "private": true,
-  "version": "0.0.9",
-  "type": "commonjs",
-  "license" :"UNLICENSED",
+  "name": "@mch-group/design-tokens",
+  "description": "MCH UI Themes",
+  "version": "0.126.1",
+  "bugs": "https://bitbucket.org/mchappsrvcs/artbasel-design-tokensg/issues",
+  "repository": {
+    "type": "git",
+    "url": "https://bitbucket.org/mchappsrvcs/artbasel-design-tokensg.git",
+    "directory": "packages/themes"
+  },
+  "homepage": "https://bitbucket.org/mchappsrvcs/artbasel-design-tokensg",
+  "keywords": [
+    "sass",
+    "css",
+    "bootstrap",
+    "token"
+  ],
+  "license": "ISC",
+  "author": "DMI",
+  "publishConfig": {
+    "access": "restricted"
+  },
+  "engines": {
+    "node": ">= 14.0.0"
+  },
+  
   "scripts": {
     "build": "npm run clean && npm run convert && style-dictionary clean && style-dictionary build --config config.js",
     "convert": "token-transformer tokens.json tokens/tokens-studio.json",
