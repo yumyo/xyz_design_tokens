@@ -58,7 +58,7 @@ module.exports = {
         }
         ,{
           filter: function(prop) {
-            return prop.attributes.category === 'color';
+            return prop.attributes.category === 'Color';
           },
           resourceType: "color",
           destination: "colors.xml",
@@ -86,7 +86,7 @@ module.exports = {
         packageName: "StyleDictionaryColor",
         filter: {
           attributes: {
-            category: "color"
+            category: "Color"
           }
         }
       },{
@@ -112,7 +112,7 @@ module.exports = {
         type: "StyleDictionaryColorName",
         filter: {
           attributes: {
-            category: "color"
+            category: "Color"
           }
         }
       },{
@@ -122,7 +122,7 @@ module.exports = {
         type: "StyleDictionaryColorName",
         filter: {
           attributes: {
-            category: "color"
+            category: "Color"
           }
         }
       },{
@@ -181,7 +181,7 @@ module.exports = {
         className: "StyleDictionaryColor",
         filter: {
           attributes: {
-            category: "color"
+            category: "Color"
           }
         }
       },{

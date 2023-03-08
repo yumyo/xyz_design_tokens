@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Thu, 02 Mar 2023 14:23:41 GMT
+// Generated on Wed, 08 Mar 2023 13:34:57 GMT
 
 
 #import <UIKit/UIKit.h>
@@ -17,17 +17,6 @@ ColorBaseSecondaryMchGrey400,
 ColorBaseSecondaryMchGrey300,
 ColorBaseSecondaryMchGrey200,
 ColorBaseSecondaryMchGrey100,
-ColorSupportingOrange,
-ColorSupportingOrangeText,
-ColorSupportingRed,
-ColorSupportingRedText,
-ColorSupportingGreen,
-ColorSupportingGreenText,
-ColorSupportingStatusLightError,
-ColorSupportingStatusLightSuccess,
-ColorSupportingStatusDarkAlert,
-ColorSupportingStatusDarkError,
-ColorSupportingStatusDarkSuccess,
 ColorExtendedSubBrandsBasel,
 ColorExtendedSubBrandsMiami,
 ColorExtendedSubBrandsHongKong,
@@ -49,7 +38,18 @@ ColorExtendedOpacityLightFillHover60,
 ColorExtendedOpacityDarkFillHover50,
 ColorExtendedOpacityBorder50,
 ColorExtendedOpacityBorderDisabled25,
-ColorExtendedOpacityDarkCarouselBackground95
+ColorExtendedOpacityDarkCarouselBackground95,
+ColorSupportingOrange,
+ColorSupportingOrangeText,
+ColorSupportingRed,
+ColorSupportingRedText,
+ColorSupportingGreen,
+ColorSupportingGreenText,
+ColorSupportingStatusLightError,
+ColorSupportingStatusLightSuccess,
+ColorSupportingStatusDarkAlert,
+ColorSupportingStatusDarkError,
+ColorSupportingStatusDarkSuccess
 };
 
 @interface StyleDictionaryColor : NSObject
