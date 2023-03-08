@@ -1,15 +1,15 @@
 
 //
-// StyleDictionary+Enum.swift
+// StyleDictionary+Class.swift
 //
 
 // Do not edit directly
-// Generated on Wed, 08 Mar 2023 13:34:57 GMT
+// Generated on Wed, 08 Mar 2023 13:45:35 GMT
 
 
 import UIKit
 
-public enum StyleDictionaryEnum {
+public class StyleDictionaryClass {
     public static let colorBasePrimaryMchBlack = #1d2327
     public static let colorBasePrimaryMchWhite = #ffffff
     public static let colorBaseSecondaryMchGrey100 = #f7f7f7
