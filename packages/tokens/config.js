@@ -158,81 +158,10 @@ module.exports = {
         }
       ]
     },
-    compose: {
-      transformGroup: "compose",
-      buildPath: "build/compose/",
-      files: [{
-        destination: "StyleDictionaryColor.kt",
-        format: "compose/object",
-        className: "StyleDictionaryColor",
-        packageName: "StyleDictionaryColor",
-        filter: {
-          attributes: {
-            category: "Color"
-          }
-        }
-      },{
-        destination: "StyleDictionarySize.kt",
-        format: "compose/object",
-        className: "StyleDictionarySize",
-        packageName: "StyleDictionarySize",
-        type: "float",
-        filter: {
-          attributes: {
-            category: "size"
-          }
-        }
-      }]
-    },
-    ios: {
-      transformGroup: "ios",
-      buildPath: "build/ios/",
-      files: [{
-        destination: "StyleDictionaryColor.h",
-        format: "ios/colors.h",
-        className: "StyleDictionaryColor",
-        type: "StyleDictionaryColorName",
-        filter: {
-          attributes: {
-            category: "Color"
-          }
-        }
-      },{
-        destination: "StyleDictionaryColor.m",
-        format: "ios/colors.m",
-        className: "StyleDictionaryColor",
-        type: "StyleDictionaryColorName",
-        filter: {
-          attributes: {
-            category: "Color"
-          }
-        }
-      },{
-        destination: "StyleDictionarySize.h",
-        format: "ios/static.h",
-        className: "StyleDictionarySize",
-        type: "float",
-        filter: {
-          attributes: {
-            category: "size"
-          }
-        }
-      },{
-        destination: "StyleDictionarySize.m",
-        format: "ios/static.m",
-        className: "StyleDictionarySize",
-        type: "float",
-        filter: {
-          attributes: {
-            category: "size"
-          }
-        }
-      }]
-    },
     iosSwift: {
       // transformGroup: "ios-swift",
       transforms: ["attribute/cti","name/cti/camel","color/UIColorSwift","content/swift/literal","asset/swift/literal","size/swift/remToCGFloat","font/swift/literal","font-family/quote","font-weigth/quote","text-decoration/quote","remove/pindent/px","remove/space/px","remove/letterspacing/%"],
-      buildPath: "build/ios-swift/",
+      buildPath: "../swift/Sources/ab-design-tokens/",
       files: [{
         destination: "StyleDictionary+Class.swift",
         format: "ios-swift/class.swift",
@@ -255,28 +184,5 @@ module.exports = {
         }
       }]
     },
-    "ios-swift-separate-enums": {
-      transformGroup: "ios-swift-separate",
-      buildPath: "build/ios-swift/",
-      files: [{
-        destination: "StyleDictionaryColor.swift",
-        format: "ios-swift/enum.swift",
-        className: "StyleDictionaryColor",
-        filter: {
-          attributes: {
-            category: "Color"
-          }
-        }
-      },{
-        destination: "StyleDictionarySize.swift",
-        format: "ios-swift/enum.swift",
-        className: "StyleDictionarySize",
-        filter: {
-          attributes: {
-            category: "size"
-          }
-        }
-      }]
-    }
   }
 }
