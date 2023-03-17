@@ -2,23 +2,23 @@
 
 <!--
   Do not edit directly
-  Generated on Thu, 09 Mar 2023 14:55:29 GMT
+  Generated on Fri, 17 Mar 2023 11:23:15 GMT
 -->
 <resources>
-  <dimen name="font-size-0">12sp</dimen>
-  <dimen name="font-size-1">14sp</dimen>
-  <dimen name="font-size-2">16sp</dimen>
-  <dimen name="font-size-3">18sp</dimen>
-  <dimen name="font-size-4">20sp</dimen>
-  <dimen name="font-size-5">24sp</dimen>
-  <dimen name="font-size-6">26sp</dimen>
-  <dimen name="font-size-7">30sp</dimen>
-  <dimen name="font-size-8">32sp</dimen>
-  <dimen name="font-size-9">34sp</dimen>
-  <dimen name="font-size-10">36sp</dimen>
-  <dimen name="font-size-11">38sp</dimen>
-  <dimen name="font-size-12">40sp</dimen>
-  <dimen name="font-size-13">42sp</dimen>
-  <dimen name="font-size-14">48sp</dimen>
+  <dimen name="font_size_0">12sp</dimen>
+  <dimen name="font_size_1">14sp</dimen>
+  <dimen name="font_size_2">16sp</dimen>
+  <dimen name="font_size_3">18sp</dimen>
+  <dimen name="font_size_4">20sp</dimen>
+  <dimen name="font_size_5">24sp</dimen>
+  <dimen name="font_size_6">26sp</dimen>
+  <dimen name="font_size_7">30sp</dimen>
+  <dimen name="font_size_8">32sp</dimen>
+  <dimen name="font_size_9">34sp</dimen>
+  <dimen name="font_size_10">36sp</dimen>
+  <dimen name="font_size_11">38sp</dimen>
+  <dimen name="font_size_12">40sp</dimen>
+  <dimen name="font_size_13">42sp</dimen>
+  <dimen name="font_size_14">48sp</dimen>
   
 </resources>

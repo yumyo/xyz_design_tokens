@@ -42,6 +42,7 @@ The generated files will be located in the `build/` directory.
 ## Related resources
 
 - [figma tokens style dictionary config](https://gist.github.com/six7/9cbce8bcbb16b308c5c87f3729392d21)
+- [lukasoppermann/style-dictionary-utils: Utilities to use in your style dictionary config](https://github.com/lukasoppermann/style-dictionary-utils)
 
 ## License
 This project is **UNLICENSED**.
