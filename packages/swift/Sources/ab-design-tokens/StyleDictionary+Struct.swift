@@ -4,52 +4,52 @@
 //
 
 // Do not edit directly
-// Generated on Thu, 09 Mar 2023 14:55:29 GMT
+// Generated on Fri, 17 Mar 2023 11:23:15 GMT
 
 
 import UIKit
 
 internal struct StyleDictionaryStruct {
-    internal static let colorBasePrimaryMchBlack = #1d2327
-    internal static let colorBasePrimaryMchWhite = #ffffff
-    internal static let colorBaseSecondaryMchGrey100 = #f7f7f7
-    internal static let colorBaseSecondaryMchGrey200 = #f0f2f5
-    internal static let colorBaseSecondaryMchGrey300 = #babfc4
-    internal static let colorBaseSecondaryMchGrey400 = #757575
-    internal static let colorBaseSecondaryMchGrey500 = #444749
-    internal static let colorExtendedOpacityBorder50 = #babfc480
-    internal static let colorExtendedOpacityBorderDisabled25 = #babfc440
-    internal static let colorExtendedOpacityDarkCarouselBackground95 = #1d2327f2
-    internal static let colorExtendedOpacityDarkFillHover50 = #44474980
-    internal static let colorExtendedOpacityDarkOverlay30 = #1d23274d
-    internal static let colorExtendedOpacityLightFillHover60 = #f7f7f799
-    internal static let colorExtendedOpacityTileOverlay5 = #1d23270d
-    internal static let colorExtendedSectorsDialogues = #dcdcdc
-    internal static let colorExtendedSectorsDiscoveriesStatementsPositions = #d2d3ec
-    internal static let colorExtendedSectorsEdition = #fff7bf
-    internal static let colorExtendedSectorsFeatureNova = #d8eeeb
-    internal static let colorExtendedSectorsFilm = #f7dce9
-    internal static let colorExtendedSectorsGalleries = #cdcdcd
-    internal static let colorExtendedSectorsInsightsSurvey = #fcd5d7
-    internal static let colorExtendedSectorsKabinett = #fcdfaa
-    internal static let colorExtendedSectorsParcourPublic = #cddff2
-    internal static let colorExtendedSectorsUnlimitedEncountersMeridians = #dff0cb
-    internal static let colorExtendedSubBrandsBasel = #00a0cf
-    internal static let colorExtendedSubBrandsCities = #fa4616
-    internal static let colorExtendedSubBrandsHongKong = #e0004d
-    internal static let colorExtendedSubBrandsMiami = #00c18b
-    internal static let colorExtendedSubBrandsParis = #1e1e1e
-    internal static let colorSupportingGreen = #019f53
-    internal static let colorSupportingGreenText = #018661
-    internal static let colorSupportingOrange = #f19d00
-    internal static let colorSupportingOrangeText = #bf8519
-    internal static let colorSupportingRed = #ff003b
-    internal static let colorSupportingRedText = #c9012f
-    internal static let colorSupportingStatusDarkAlert = #f4a32f
-    internal static let colorSupportingStatusDarkError = #ff979d
-    internal static let colorSupportingStatusDarkSuccess = #7cc492
-    internal static let colorSupportingStatusLightError = #c9012f
-    internal static let colorSupportingStatusLightSuccess = #018661
+    internal static let colorBasePrimaryMchBlack = UIColor(red: 0.114, green: 0.137, blue: 0.153, alpha: 1)
+    internal static let colorBasePrimaryMchWhite = UIColor(red: 1.000, green: 1.000, blue: 1.000, alpha: 1)
+    internal static let colorBaseSecondaryMchGrey100 = UIColor(red: 0.969, green: 0.969, blue: 0.969, alpha: 1)
+    internal static let colorBaseSecondaryMchGrey200 = UIColor(red: 0.941, green: 0.949, blue: 0.961, alpha: 1)
+    internal static let colorBaseSecondaryMchGrey300 = UIColor(red: 0.729, green: 0.749, blue: 0.769, alpha: 1)
+    internal static let colorBaseSecondaryMchGrey400 = UIColor(red: 0.459, green: 0.459, blue: 0.459, alpha: 1)
+    internal static let colorBaseSecondaryMchGrey500 = UIColor(red: 0.267, green: 0.278, blue: 0.286, alpha: 1)
+    internal static let colorExtendedOpacityBorder50 = UIColor(red: 0.729, green: 0.749, blue: 0.769, alpha: 0.5019607843137255)
+    internal static let colorExtendedOpacityBorderDisabled25 = UIColor(red: 0.729, green: 0.749, blue: 0.769, alpha: 0.25098039215686274)
+    internal static let colorExtendedOpacityDarkCarouselBackground95 = UIColor(red: 0.114, green: 0.137, blue: 0.153, alpha: 0.9490196078431372)
+    internal static let colorExtendedOpacityDarkFillHover50 = UIColor(red: 0.267, green: 0.278, blue: 0.286, alpha: 0.5019607843137255)
+    internal static let colorExtendedOpacityDarkOverlay30 = UIColor(red: 0.114, green: 0.137, blue: 0.153, alpha: 0.30196078431372547)
+    internal static let colorExtendedOpacityLightFillHover60 = UIColor(red: 0.969, green: 0.969, blue: 0.969, alpha: 0.6)
+    internal static let colorExtendedOpacityTileOverlay5 = UIColor(red: 0.114, green: 0.137, blue: 0.153, alpha: 0.050980392156862744)
+    internal static let colorExtendedSectorsDialogues = UIColor(red: 0.863, green: 0.863, blue: 0.863, alpha: 1)
+    internal static let colorExtendedSectorsDiscoveriesStatementsPositions = UIColor(red: 0.824, green: 0.827, blue: 0.925, alpha: 1)
+    internal static let colorExtendedSectorsEdition = UIColor(red: 1.000, green: 0.969, blue: 0.749, alpha: 1)
+    internal static let colorExtendedSectorsFeatureNova = UIColor(red: 0.847, green: 0.933, blue: 0.922, alpha: 1)
+    internal static let colorExtendedSectorsFilm = UIColor(red: 0.969, green: 0.863, blue: 0.914, alpha: 1)
+    internal static let colorExtendedSectorsGalleries = UIColor(red: 0.804, green: 0.804, blue: 0.804, alpha: 1)
+    internal static let colorExtendedSectorsInsightsSurvey = UIColor(red: 0.988, green: 0.835, blue: 0.843, alpha: 1)
+    internal static let colorExtendedSectorsKabinett = UIColor(red: 0.988, green: 0.875, blue: 0.667, alpha: 1)
+    internal static let colorExtendedSectorsParcourPublic = UIColor(red: 0.804, green: 0.875, blue: 0.949, alpha: 1)
+    internal static let colorExtendedSectorsUnlimitedEncountersMeridians = UIColor(red: 0.875, green: 0.941, blue: 0.796, alpha: 1)
+    internal static let colorExtendedSubBrandsBasel = UIColor(red: 0.000, green: 0.627, blue: 0.812, alpha: 1)
+    internal static let colorExtendedSubBrandsCities = UIColor(red: 0.980, green: 0.275, blue: 0.086, alpha: 1)
+    internal static let colorExtendedSubBrandsHongKong = UIColor(red: 0.878, green: 0.000, blue: 0.302, alpha: 1)
+    internal static let colorExtendedSubBrandsMiami = UIColor(red: 0.000, green: 0.757, blue: 0.545, alpha: 1)
+    internal static let colorExtendedSubBrandsParis = UIColor(red: 0.118, green: 0.118, blue: 0.118, alpha: 1)
+    internal static let colorSupportingGreen = UIColor(red: 0.004, green: 0.624, blue: 0.325, alpha: 1)
+    internal static let colorSupportingGreenText = UIColor(red: 0.004, green: 0.525, blue: 0.380, alpha: 1)
+    internal static let colorSupportingOrange = UIColor(red: 0.945, green: 0.616, blue: 0.000, alpha: 1)
+    internal static let colorSupportingOrangeText = UIColor(red: 0.749, green: 0.522, blue: 0.098, alpha: 1)
+    internal static let colorSupportingRed = UIColor(red: 1.000, green: 0.000, blue: 0.231, alpha: 1)
+    internal static let colorSupportingRedText = UIColor(red: 0.788, green: 0.004, blue: 0.184, alpha: 1)
+    internal static let colorSupportingStatusDarkAlert = UIColor(red: 0.957, green: 0.639, blue: 0.184, alpha: 1)
+    internal static let colorSupportingStatusDarkError = UIColor(red: 1.000, green: 0.592, blue: 0.616, alpha: 1)
+    internal static let colorSupportingStatusDarkSuccess = UIColor(red: 0.486, green: 0.769, blue: 0.573, alpha: 1)
+    internal static let colorSupportingStatusLightError = UIColor(red: 0.788, green: 0.004, blue: 0.184, alpha: 1)
+    internal static let colorSupportingStatusLightSuccess = UIColor(red: 0.004, green: 0.525, blue: 0.380, alpha: 1)
     internal static let fontFamiliesArtBaselHeadline = "Art Basel Headline"
     internal static let fontFamiliesArtBaselText = "Art Basel Text"
     internal static let fontFamiliesIvarDisplay = "Ivar Display"
@@ -68,11 +68,11 @@ internal struct StyleDictionaryStruct {
     internal static let fontSize7 = 30
     internal static let fontSize8 = 32
     internal static let fontSize9 = 34
-    internal static let fontWeightsArtBaselHeadline0 = "Bold"
-    internal static let fontWeightsArtBaselText3 = "Regular"
-    internal static let fontWeightsArtBaselText4 = "Bold"
-    internal static let fontWeightsIvarDisplay1 = "Regular"
-    internal static let fontWeightsIvarDisplay2 = "SemiBold"
+    internal static let fontWeightsArtBaselHeadline0 = 700
+    internal static let fontWeightsArtBaselText3 = 400
+    internal static let fontWeightsArtBaselText4 = 700
+    internal static let fontWeightsIvarDisplay1 = 400
+    internal static let fontWeightsIvarDisplay2 = 600
     internal static let letterSpacing0 = 0
     internal static let letterSpacing1 = 0
     internal static let letterSpacing2 = 0.5
@@ -161,7 +161,7 @@ internal struct StyleDictionaryStruct {
     internal static let textDecorationUnderline = "underline"
     internal static let typographyBodyTextLargeFontFamily = "Art Basel Text"
     internal static let typographyBodyTextLargeFontSize = 18
-    internal static let typographyBodyTextLargeFontWeight = "Regular"
+    internal static let typographyBodyTextLargeFontWeight = 400
     internal static let typographyBodyTextLargeLetterSpacing = 0
     internal static let typographyBodyTextLargeLineHeight = 24
     internal static let typographyBodyTextLargeParagraphIndent = 0
@@ -170,7 +170,7 @@ internal struct StyleDictionaryStruct {
     internal static let typographyBodyTextLargeTextDecoration = "none"
     internal static let typographyBodyTextMediumFontFamily = "Art Basel Text"
     internal static let typographyBodyTextMediumFontSize = 16
-    internal static let typographyBodyTextMediumFontWeight = "Regular"
+    internal static let typographyBodyTextMediumFontWeight = 400
     internal static let typographyBodyTextMediumLetterSpacing = 0
     internal static let typographyBodyTextMediumLineHeight = 22
     internal static let typographyBodyTextMediumParagraphIndent = 0
@@ -179,7 +179,7 @@ internal struct StyleDictionaryStruct {
     internal static let typographyBodyTextMediumTextDecoration = "none"
     internal static let typographyBodyTextSmallFontFamily = "Art Basel Text"
     internal static let typographyBodyTextSmallFontSize = 14
-    internal static let typographyBodyTextSmallFontWeight = "Regular"
+    internal static let typographyBodyTextSmallFontWeight = 400
     internal static let typographyBodyTextSmallLetterSpacing = 0
     internal static let typographyBodyTextSmallLineHeight = 18
     internal static let typographyBodyTextSmallParagraphIndent = 0
@@ -188,7 +188,7 @@ internal struct StyleDictionaryStruct {
     internal static let typographyBodyTextSmallTextDecoration = "none"
     internal static let typographyEditorialHeadingsCommonH1XlFontFamily = "Ivar Display"
     internal static let typographyEditorialHeadingsCommonH1XlFontSize = 48
-    internal static let typographyEditorialHeadingsCommonH1XlFontWeight = "SemiBold"
+    internal static let typographyEditorialHeadingsCommonH1XlFontWeight = 600
     internal static let typographyEditorialHeadingsCommonH1XlLetterSpacing = 0
     internal static let typographyEditorialHeadingsCommonH1XlLineHeight = 64
     internal static let typographyEditorialHeadingsCommonH1XlParagraphIndent = 0
@@ -197,7 +197,7 @@ internal struct StyleDictionaryStruct {
     internal static let typographyEditorialHeadingsCommonH1XlTextDecoration = "none"
     internal static let typographyEditorialHeadingsCommonH1XsSmFontFamily = "Ivar Display"
     internal static let typographyEditorialHeadingsCommonH1XsSmFontSize = 30
-    internal static let typographyEditorialHeadingsCommonH1XsSmFontWeight = "SemiBold"
+    internal static let typographyEditorialHeadingsCommonH1XsSmFontWeight = 600
     internal static let typographyEditorialHeadingsCommonH1XsSmLetterSpacing = 0
     internal static let typographyEditorialHeadingsCommonH1XsSmLineHeight = 42
     internal static let typographyEditorialHeadingsCommonH1XsSmParagraphIndent = 0
@@ -206,7 +206,7 @@ internal struct StyleDictionaryStruct {
     internal static let typographyEditorialHeadingsCommonH1XsSmTextDecoration = "none"
     internal static let typographyEditorialHeadingsCommonH2XlFontFamily = "Ivar Display"
     internal static let typographyEditorialHeadingsCommonH2XlFontSize = 42
-    internal static let typographyEditorialHeadingsCommonH2XlFontWeight = "SemiBold"
+    internal static let typographyEditorialHeadingsCommonH2XlFontWeight = 600
     internal static let typographyEditorialHeadingsCommonH2XlLetterSpacing = 0
     internal static let typographyEditorialHeadingsCommonH2XlLineHeight = 54
     internal static let typographyEditorialHeadingsCommonH2XlParagraphIndent = 0
@@ -215,7 +215,7 @@ internal struct StyleDictionaryStruct {
     internal static let typographyEditorialHeadingsCommonH2XlTextDecoration = "none"
     internal static let typographyEditorialHeadingsCommonH2XsSmFontFamily = "Ivar Display"
     internal static let typographyEditorialHeadingsCommonH2XsSmFontSize = 26
-    internal static let typographyEditorialHeadingsCommonH2XsSmFontWeight = "SemiBold"
+    internal static let typographyEditorialHeadingsCommonH2XsSmFontWeight = 600
     internal static let typographyEditorialHeadingsCommonH2XsSmLetterSpacing = 0
     internal static let typographyEditorialHeadingsCommonH2XsSmLineHeight = 30
     internal static let typographyEditorialHeadingsCommonH2XsSmParagraphIndent = 0
@@ -224,7 +224,7 @@ internal struct StyleDictionaryStruct {
     internal static let typographyEditorialHeadingsCommonH2XsSmTextDecoration = "none"
     internal static let typographyEditorialHeadingsCommonH3XlFontFamily = "Ivar Display"
     internal static let typographyEditorialHeadingsCommonH3XlFontSize = 36
-    internal static let typographyEditorialHeadingsCommonH3XlFontWeight = "SemiBold"
+    internal static let typographyEditorialHeadingsCommonH3XlFontWeight = 600
     internal static let typographyEditorialHeadingsCommonH3XlLetterSpacing = 0
     internal static let typographyEditorialHeadingsCommonH3XlLineHeight = 48
     internal static let typographyEditorialHeadingsCommonH3XlParagraphIndent = 0
@@ -233,7 +233,7 @@ internal struct StyleDictionaryStruct {
     internal static let typographyEditorialHeadingsCommonH3XlTextDecoration = "none"
     internal static let typographyEditorialHeadingsCommonH3XsSmFontFamily = "Ivar Display"
     internal static let typographyEditorialHeadingsCommonH3XsSmFontSize = 24
-    internal static let typographyEditorialHeadingsCommonH3XsSmFontWeight = "SemiBold"
+    internal static let typographyEditorialHeadingsCommonH3XsSmFontWeight = 600
     internal static let typographyEditorialHeadingsCommonH3XsSmLetterSpacing = 0
     internal static let typographyEditorialHeadingsCommonH3XsSmLineHeight = 32
     internal static let typographyEditorialHeadingsCommonH3XsSmParagraphIndent = 0
@@ -242,7 +242,7 @@ internal struct StyleDictionaryStruct {
     internal static let typographyEditorialHeadingsCommonH3XsSmTextDecoration = "none"
     internal static let typographyEditorialHeadingsCommonH4XlFontFamily = "Ivar Display"
     internal static let typographyEditorialHeadingsCommonH4XlFontSize = 30
-    internal static let typographyEditorialHeadingsCommonH4XlFontWeight = "SemiBold"
+    internal static let typographyEditorialHeadingsCommonH4XlFontWeight = 600
     internal static let typographyEditorialHeadingsCommonH4XlLetterSpacing = 0
     internal static let typographyEditorialHeadingsCommonH4XlLineHeight = 42
     internal static let typographyEditorialHeadingsCommonH4XlParagraphIndent = 0
@@ -251,7 +251,7 @@ internal struct StyleDictionaryStruct {
     internal static let typographyEditorialHeadingsCommonH4XlTextDecoration = "none"
     internal static let typographyEditorialHeadingsCommonH4XsSmFontFamily = "Ivar Display"
     internal static let typographyEditorialHeadingsCommonH4XsSmFontSize = 20
-    internal static let typographyEditorialHeadingsCommonH4XsSmFontWeight = "SemiBold"
+    internal static let typographyEditorialHeadingsCommonH4XsSmFontWeight = 600
     internal static let typographyEditorialHeadingsCommonH4XsSmLetterSpacing = 0
     internal static let typographyEditorialHeadingsCommonH4XsSmLineHeight = 24
     internal static let typographyEditorialHeadingsCommonH4XsSmParagraphIndent = 0
@@ -260,7 +260,7 @@ internal struct StyleDictionaryStruct {
     internal static let typographyEditorialHeadingsCommonH4XsSmTextDecoration = "none"
     internal static let typographyEditorialHeadingsCommonH5XlFontFamily = "Ivar Display"
     internal static let typographyEditorialHeadingsCommonH5XlFontSize = 24
-    internal static let typographyEditorialHeadingsCommonH5XlFontWeight = "SemiBold"
+    internal static let typographyEditorialHeadingsCommonH5XlFontWeight = 600
     internal static let typographyEditorialHeadingsCommonH5XlLetterSpacing = 0
     internal static let typographyEditorialHeadingsCommonH5XlLineHeight = 32
     internal static let typographyEditorialHeadingsCommonH5XlParagraphIndent = 0
@@ -269,7 +269,7 @@ internal struct StyleDictionaryStruct {
     internal static let typographyEditorialHeadingsCommonH5XlTextDecoration = "none"
     internal static let typographyEditorialHeadingsCommonH5XsSmFontFamily = "Ivar Display"
     internal static let typographyEditorialHeadingsCommonH5XsSmFontSize = 18
-    internal static let typographyEditorialHeadingsCommonH5XsSmFontWeight = "SemiBold"
+    internal static let typographyEditorialHeadingsCommonH5XsSmFontWeight = 600
     internal static let typographyEditorialHeadingsCommonH5XsSmLetterSpacing = 0
     internal static let typographyEditorialHeadingsCommonH5XsSmLineHeight = 20
     internal static let typographyEditorialHeadingsCommonH5XsSmParagraphIndent = 0
@@ -278,7 +278,7 @@ internal struct StyleDictionaryStruct {
     internal static let typographyEditorialHeadingsCommonH5XsSmTextDecoration = "none"
     internal static let typographyEditorialHeadingsOtherH1LgFontFamily = "Ivar Display"
     internal static let typographyEditorialHeadingsOtherH1LgFontSize = 42
-    internal static let typographyEditorialHeadingsOtherH1LgFontWeight = "SemiBold"
+    internal static let typographyEditorialHeadingsOtherH1LgFontWeight = 600
     internal static let typographyEditorialHeadingsOtherH1LgLetterSpacing = 0
     internal static let typographyEditorialHeadingsOtherH1LgLineHeight = 54
     internal static let typographyEditorialHeadingsOtherH1LgParagraphIndent = 0
@@ -287,7 +287,7 @@ internal struct StyleDictionaryStruct {
     internal static let typographyEditorialHeadingsOtherH1LgTextDecoration = "none"
     internal static let typographyEditorialHeadingsOtherH1MdFontFamily = "Ivar Display"
     internal static let typographyEditorialHeadingsOtherH1MdFontSize = 36
-    internal static let typographyEditorialHeadingsOtherH1MdFontWeight = "SemiBold"
+    internal static let typographyEditorialHeadingsOtherH1MdFontWeight = 600
     internal static let typographyEditorialHeadingsOtherH1MdLetterSpacing = 0
     internal static let typographyEditorialHeadingsOtherH1MdLineHeight = 48
     internal static let typographyEditorialHeadingsOtherH1MdParagraphIndent = 0
@@ -296,7 +296,7 @@ internal struct StyleDictionaryStruct {
     internal static let typographyEditorialHeadingsOtherH1MdTextDecoration = "none"
     internal static let typographyEditorialHeadingsOtherH2LgFontFamily = "Ivar Display"
     internal static let typographyEditorialHeadingsOtherH2LgFontSize = 36
-    internal static let typographyEditorialHeadingsOtherH2LgFontWeight = "SemiBold"
+    internal static let typographyEditorialHeadingsOtherH2LgFontWeight = 600
     internal static let typographyEditorialHeadingsOtherH2LgLetterSpacing = 0
     internal static let typographyEditorialHeadingsOtherH2LgLineHeight = 48
     internal static let typographyEditorialHeadingsOtherH2LgParagraphIndent = 0
@@ -305,7 +305,7 @@ internal struct StyleDictionaryStruct {
     internal static let typographyEditorialHeadingsOtherH2LgTextDecoration = "none"
     internal static let typographyEditorialHeadingsOtherH2MdFontFamily = "Ivar Display"
     internal static let typographyEditorialHeadingsOtherH2MdFontSize = 30
-    internal static let typographyEditorialHeadingsOtherH2MdFontWeight = "SemiBold"
+    internal static let typographyEditorialHeadingsOtherH2MdFontWeight = 600
     internal static let typographyEditorialHeadingsOtherH2MdLetterSpacing = 0
     internal static let typographyEditorialHeadingsOtherH2MdLineHeight = 42
     internal static let typographyEditorialHeadingsOtherH2MdParagraphIndent = 0
@@ -314,7 +314,7 @@ internal struct StyleDictionaryStruct {
     internal static let typographyEditorialHeadingsOtherH2MdTextDecoration = "none"
     internal static let typographyEditorialHeadingsOtherH3LgFontFamily = "Ivar Display"
     internal static let typographyEditorialHeadingsOtherH3LgFontSize = 30
-    internal static let typographyEditorialHeadingsOtherH3LgFontWeight = "SemiBold"
+    internal static let typographyEditorialHeadingsOtherH3LgFontWeight = 600
     internal static let typographyEditorialHeadingsOtherH3LgLetterSpacing = 0
     internal static let typographyEditorialHeadingsOtherH3LgLineHeight = 42
     internal static let typographyEditorialHeadingsOtherH3LgParagraphIndent = 0
@@ -323,7 +323,7 @@ internal struct StyleDictionaryStruct {
     internal static let typographyEditorialHeadingsOtherH3LgTextDecoration = "none"
     internal static let typographyEditorialHeadingsOtherH3MdFontFamily = "Ivar Display"
     internal static let typographyEditorialHeadingsOtherH3MdFontSize = 26
-    internal static let typographyEditorialHeadingsOtherH3MdFontWeight = "SemiBold"
+    internal static let typographyEditorialHeadingsOtherH3MdFontWeight = 600
     internal static let typographyEditorialHeadingsOtherH3MdLetterSpacing = 0
     internal static let typographyEditorialHeadingsOtherH3MdLineHeight = 36
     internal static let typographyEditorialHeadingsOtherH3MdParagraphIndent = 0
@@ -332,7 +332,7 @@ internal struct StyleDictionaryStruct {
     internal static let typographyEditorialHeadingsOtherH3MdTextDecoration = "none"
     internal static let typographyEditorialHeadingsOtherH4LgFontFamily = "Ivar Display"
     internal static let typographyEditorialHeadingsOtherH4LgFontSize = 26
-    internal static let typographyEditorialHeadingsOtherH4LgFontWeight = "SemiBold"
+    internal static let typographyEditorialHeadingsOtherH4LgFontWeight = 600
     internal static let typographyEditorialHeadingsOtherH4LgLetterSpacing = 0
     internal static let typographyEditorialHeadingsOtherH4LgLineHeight = 36
     internal static let typographyEditorialHeadingsOtherH4LgParagraphIndent = 0
@@ -341,7 +341,7 @@ internal struct StyleDictionaryStruct {
     internal static let typographyEditorialHeadingsOtherH4LgTextDecoration = "none"
     internal static let typographyEditorialHeadingsOtherH4MdFontFamily = "Ivar Display"
     internal static let typographyEditorialHeadingsOtherH4MdFontSize = 24
-    internal static let typographyEditorialHeadingsOtherH4MdFontWeight = "SemiBold"
+    internal static let typographyEditorialHeadingsOtherH4MdFontWeight = 600
     internal static let typographyEditorialHeadingsOtherH4MdLetterSpacing = 0
     internal static let typographyEditorialHeadingsOtherH4MdLineHeight = 32
     internal static let typographyEditorialHeadingsOtherH4MdParagraphIndent = 0
@@ -350,7 +350,7 @@ internal struct StyleDictionaryStruct {
     internal static let typographyEditorialHeadingsOtherH4MdTextDecoration = "none"
     internal static let typographyEditorialHeadingsOtherH5LgFontFamily = "Ivar Display"
     internal static let typographyEditorialHeadingsOtherH5LgFontSize = 24
-    internal static let typographyEditorialHeadingsOtherH5LgFontWeight = "SemiBold"
+    internal static let typographyEditorialHeadingsOtherH5LgFontWeight = 600
     internal static let typographyEditorialHeadingsOtherH5LgLetterSpacing = 0
     internal static let typographyEditorialHeadingsOtherH5LgLineHeight = 32
     internal static let typographyEditorialHeadingsOtherH5LgParagraphIndent = 0
@@ -359,7 +359,7 @@ internal struct StyleDictionaryStruct {
     internal static let typographyEditorialHeadingsOtherH5LgTextDecoration = "none"
     internal static let typographyEditorialHeadingsOtherH5MdFontFamily = "Ivar Display"
     internal static let typographyEditorialHeadingsOtherH5MdFontSize = 20
-    internal static let typographyEditorialHeadingsOtherH5MdFontWeight = "SemiBold"
+    internal static let typographyEditorialHeadingsOtherH5MdFontWeight = 600
     internal static let typographyEditorialHeadingsOtherH5MdLetterSpacing = 0
     internal static let typographyEditorialHeadingsOtherH5MdLineHeight = 24
     internal static let typographyEditorialHeadingsOtherH5MdParagraphIndent = 0
@@ -368,7 +368,7 @@ internal struct StyleDictionaryStruct {
     internal static let typographyEditorialHeadingsOtherH5MdTextDecoration = "none"
     internal static let typographyEditorialQuoteQuote2XlFontFamily = "Ivar Display"
     internal static let typographyEditorialQuoteQuote2XlFontSize = 42
-    internal static let typographyEditorialQuoteQuote2XlFontWeight = "Regular"
+    internal static let typographyEditorialQuoteQuote2XlFontWeight = 400
     internal static let typographyEditorialQuoteQuote2XlLetterSpacing = 0
     internal static let typographyEditorialQuoteQuote2XlLineHeight = 54
     internal static let typographyEditorialQuoteQuote2XlParagraphIndent = 0
@@ -377,7 +377,7 @@ internal struct StyleDictionaryStruct {
     internal static let typographyEditorialQuoteQuote2XlTextDecoration = "none"
     internal static let typographyEditorialQuoteQuoteLgFontFamily = "Ivar Display"
     internal static let typographyEditorialQuoteQuoteLgFontSize = 36
-    internal static let typographyEditorialQuoteQuoteLgFontWeight = "Regular"
+    internal static let typographyEditorialQuoteQuoteLgFontWeight = 400
     internal static let typographyEditorialQuoteQuoteLgLetterSpacing = 0
     internal static let typographyEditorialQuoteQuoteLgLineHeight = 48
     internal static let typographyEditorialQuoteQuoteLgParagraphIndent = 0
@@ -386,7 +386,7 @@ internal struct StyleDictionaryStruct {
     internal static let typographyEditorialQuoteQuoteLgTextDecoration = "none"
     internal static let typographyEditorialQuoteQuoteMdFontFamily = "Ivar Display"
     internal static let typographyEditorialQuoteQuoteMdFontSize = 34
-    internal static let typographyEditorialQuoteQuoteMdFontWeight = "Regular"
+    internal static let typographyEditorialQuoteQuoteMdFontWeight = 400
     internal static let typographyEditorialQuoteQuoteMdLetterSpacing = 0
     internal static let typographyEditorialQuoteQuoteMdLineHeight = 42
     internal static let typographyEditorialQuoteQuoteMdParagraphIndent = 0
@@ -395,7 +395,7 @@ internal struct StyleDictionaryStruct {
     internal static let typographyEditorialQuoteQuoteMdTextDecoration = "none"
     internal static let typographyEditorialQuoteQuoteXlFontFamily = "Ivar Display"
     internal static let typographyEditorialQuoteQuoteXlFontSize = 38
-    internal static let typographyEditorialQuoteQuoteXlFontWeight = "Regular"
+    internal static let typographyEditorialQuoteQuoteXlFontWeight = 400
     internal static let typographyEditorialQuoteQuoteXlLetterSpacing = 0.5
     internal static let typographyEditorialQuoteQuoteXlLineHeight = 50
     internal static let typographyEditorialQuoteQuoteXlParagraphIndent = 0
@@ -404,7 +404,7 @@ internal struct StyleDictionaryStruct {
     internal static let typographyEditorialQuoteQuoteXlTextDecoration = "none"
     internal static let typographyEditorialQuoteQuoteXsSmFontFamily = "Ivar Display"
     internal static let typographyEditorialQuoteQuoteXsSmFontSize = 32
-    internal static let typographyEditorialQuoteQuoteXsSmFontWeight = "Regular"
+    internal static let typographyEditorialQuoteQuoteXsSmFontWeight = 400
     internal static let typographyEditorialQuoteQuoteXsSmLetterSpacing = 0
     internal static let typographyEditorialQuoteQuoteXsSmLineHeight = 42
     internal static let typographyEditorialQuoteQuoteXsSmParagraphIndent = 0
@@ -413,7 +413,7 @@ internal struct StyleDictionaryStruct {
     internal static let typographyEditorialQuoteQuoteXsSmTextDecoration = "none"
     internal static let typographyHeadingsCommonH1XlFontFamily = "Art Basel Headline"
     internal static let typographyHeadingsCommonH1XlFontSize = 42
-    internal static let typographyHeadingsCommonH1XlFontWeight = "Bold"
+    internal static let typographyHeadingsCommonH1XlFontWeight = 700
     internal static let typographyHeadingsCommonH1XlLetterSpacing = 0
     internal static let typographyHeadingsCommonH1XlLineHeight = 48
     internal static let typographyHeadingsCommonH1XlParagraphIndent = 0
@@ -422,7 +422,7 @@ internal struct StyleDictionaryStruct {
     internal static let typographyHeadingsCommonH1XlTextDecoration = "none"
     internal static let typographyHeadingsCommonH1XsSmFontFamily = "Art Basel Headline"
     internal static let typographyHeadingsCommonH1XsSmFontSize = 30
-    internal static let typographyHeadingsCommonH1XsSmFontWeight = "Bold"
+    internal static let typographyHeadingsCommonH1XsSmFontWeight = 700
     internal static let typographyHeadingsCommonH1XsSmLetterSpacing = 0
     internal static let typographyHeadingsCommonH1XsSmLineHeight = 35
     internal static let typographyHeadingsCommonH1XsSmParagraphIndent = 0
@@ -431,7 +431,7 @@ internal struct StyleDictionaryStruct {
     internal static let typographyHeadingsCommonH1XsSmTextDecoration = "none"
     internal static let typographyHeadingsCommonH2XlFontFamily = "Art Basel Headline"
     internal static let typographyHeadingsCommonH2XlFontSize = 36
-    internal static let typographyHeadingsCommonH2XlFontWeight = "Bold"
+    internal static let typographyHeadingsCommonH2XlFontWeight = 700
     internal static let typographyHeadingsCommonH2XlLetterSpacing = 0
     internal static let typographyHeadingsCommonH2XlLineHeight = 42
     internal static let typographyHeadingsCommonH2XlParagraphIndent = 0
@@ -440,7 +440,7 @@ internal struct StyleDictionaryStruct {
     internal static let typographyHeadingsCommonH2XlTextDecoration = "none"
     internal static let typographyHeadingsCommonH2XsSmFontFamily = "Art Basel Headline"
     internal static let typographyHeadingsCommonH2XsSmFontSize = 26
-    internal static let typographyHeadingsCommonH2XsSmFontWeight = "Bold"
+    internal static let typographyHeadingsCommonH2XsSmFontWeight = 700
     internal static let typographyHeadingsCommonH2XsSmLetterSpacing = 0
     internal static let typographyHeadingsCommonH2XsSmLineHeight = 30
     internal static let typographyHeadingsCommonH2XsSmParagraphIndent = 0
@@ -449,7 +449,7 @@ internal struct StyleDictionaryStruct {
     internal static let typographyHeadingsCommonH2XsSmTextDecoration = "none"
     internal static let typographyHeadingsCommonH3XlFontFamily = "Art Basel Headline"
     internal static let typographyHeadingsCommonH3XlFontSize = 30
-    internal static let typographyHeadingsCommonH3XlFontWeight = "Bold"
+    internal static let typographyHeadingsCommonH3XlFontWeight = 700
     internal static let typographyHeadingsCommonH3XlLetterSpacing = 0
     internal static let typographyHeadingsCommonH3XlLineHeight = 34
     internal static let typographyHeadingsCommonH3XlParagraphIndent = 0
@@ -458,7 +458,7 @@ internal struct StyleDictionaryStruct {
     internal static let typographyHeadingsCommonH3XlTextDecoration = "none"
     internal static let typographyHeadingsCommonH3XsSmFontFamily = "Art Basel Headline"
     internal static let typographyHeadingsCommonH3XsSmFontSize = 24
-    internal static let typographyHeadingsCommonH3XsSmFontWeight = "Bold"
+    internal static let typographyHeadingsCommonH3XsSmFontWeight = 700
     internal static let typographyHeadingsCommonH3XsSmLetterSpacing = 0
     internal static let typographyHeadingsCommonH3XsSmLineHeight = 28
     internal static let typographyHeadingsCommonH3XsSmParagraphIndent = 0
@@ -467,7 +467,7 @@ internal struct StyleDictionaryStruct {
     internal static let typographyHeadingsCommonH3XsSmTextDecoration = "none"
     internal static let typographyHeadingsCommonH4XlFontFamily = "Art Basel Headline"
     internal static let typographyHeadingsCommonH4XlFontSize = 24
-    internal static let typographyHeadingsCommonH4XlFontWeight = "Bold"
+    internal static let typographyHeadingsCommonH4XlFontWeight = 700
     internal static let typographyHeadingsCommonH4XlLetterSpacing = 0
     internal static let typographyHeadingsCommonH4XlLineHeight = 28
     internal static let typographyHeadingsCommonH4XlParagraphIndent = 0
@@ -476,7 +476,7 @@ internal struct StyleDictionaryStruct {
     internal static let typographyHeadingsCommonH4XlTextDecoration = "none"
     internal static let typographyHeadingsCommonH4XsSmFontFamily = "Art Basel Headline"
     internal static let typographyHeadingsCommonH4XsSmFontSize = 20
-    internal static let typographyHeadingsCommonH4XsSmFontWeight = "Bold"
+    internal static let typographyHeadingsCommonH4XsSmFontWeight = 700
     internal static let typographyHeadingsCommonH4XsSmLetterSpacing = 0
     internal static let typographyHeadingsCommonH4XsSmLineHeight = 23
     internal static let typographyHeadingsCommonH4XsSmParagraphIndent = 0
@@ -485,7 +485,7 @@ internal struct StyleDictionaryStruct {
     internal static let typographyHeadingsCommonH4XsSmTextDecoration = "none"
     internal static let typographyHeadingsCommonH5XlFontFamily = "Art Basel Headline"
     internal static let typographyHeadingsCommonH5XlFontSize = 18
-    internal static let typographyHeadingsCommonH5XlFontWeight = "Bold"
+    internal static let typographyHeadingsCommonH5XlFontWeight = 700
     internal static let typographyHeadingsCommonH5XlLetterSpacing = 0
     internal static let typographyHeadingsCommonH5XlLineHeight = 21
     internal static let typographyHeadingsCommonH5XlParagraphIndent = 0
@@ -494,7 +494,7 @@ internal struct StyleDictionaryStruct {
     internal static let typographyHeadingsCommonH5XlTextDecoration = "none"
     internal static let typographyHeadingsCommonH5XsSmFontFamily = "Art Basel Headline"
     internal static let typographyHeadingsCommonH5XsSmFontSize = 18
-    internal static let typographyHeadingsCommonH5XsSmFontWeight = "Bold"
+    internal static let typographyHeadingsCommonH5XsSmFontWeight = 700
     internal static let typographyHeadingsCommonH5XsSmLetterSpacing = 0
     internal static let typographyHeadingsCommonH5XsSmLineHeight = 21
     internal static let typographyHeadingsCommonH5XsSmParagraphIndent = 0
@@ -503,7 +503,7 @@ internal struct StyleDictionaryStruct {
     internal static let typographyHeadingsCommonH5XsSmTextDecoration = "none"
     internal static let typographyHeadingsFixed01FontFamily = "Art Basel Headline"
     internal static let typographyHeadingsFixed01FontSize = 18
-    internal static let typographyHeadingsFixed01FontWeight = "Bold"
+    internal static let typographyHeadingsFixed01FontWeight = 700
     internal static let typographyHeadingsFixed01LetterSpacing = 4
     internal static let typographyHeadingsFixed01LineHeight = 21
     internal static let typographyHeadingsFixed01ParagraphIndent = 0
@@ -512,7 +512,7 @@ internal struct StyleDictionaryStruct {
     internal static let typographyHeadingsFixed01TextDecoration = "none"
     internal static let typographyHeadingsFixed02FontFamily = "Art Basel Headline"
     internal static let typographyHeadingsFixed02FontSize = 14
-    internal static let typographyHeadingsFixed02FontWeight = "Bold"
+    internal static let typographyHeadingsFixed02FontWeight = 700
     internal static let typographyHeadingsFixed02LetterSpacing = 1
     internal static let typographyHeadingsFixed02LineHeight = 18
     internal static let typographyHeadingsFixed02ParagraphIndent = 0
@@ -521,7 +521,7 @@ internal struct StyleDictionaryStruct {
     internal static let typographyHeadingsFixed02TextDecoration = "none"
     internal static let typographyHeadingsOtherH1LgFontFamily = "Art Basel Headline"
     internal static let typographyHeadingsOtherH1LgFontSize = 40
-    internal static let typographyHeadingsOtherH1LgFontWeight = "Bold"
+    internal static let typographyHeadingsOtherH1LgFontWeight = 700
     internal static let typographyHeadingsOtherH1LgLetterSpacing = 0
     internal static let typographyHeadingsOtherH1LgLineHeight = 46
     internal static let typographyHeadingsOtherH1LgParagraphIndent = 0
@@ -530,7 +530,7 @@ internal struct StyleDictionaryStruct {
     internal static let typographyHeadingsOtherH1LgTextDecoration = "none"
     internal static let typographyHeadingsOtherH1MdFontFamily = "Art Basel Headline"
     internal static let typographyHeadingsOtherH1MdFontSize = 36
-    internal static let typographyHeadingsOtherH1MdFontWeight = "Bold"
+    internal static let typographyHeadingsOtherH1MdFontWeight = 700
     internal static let typographyHeadingsOtherH1MdLetterSpacing = 0
     internal static let typographyHeadingsOtherH1MdLineHeight = 41
     internal static let typographyHeadingsOtherH1MdParagraphIndent = 0
@@ -539,7 +539,7 @@ internal struct StyleDictionaryStruct {
     internal static let typographyHeadingsOtherH1MdTextDecoration = "none"
     internal static let typographyHeadingsOtherH2LgFontFamily = "Art Basel Headline"
     internal static let typographyHeadingsOtherH2LgFontSize = 36
-    internal static let typographyHeadingsOtherH2LgFontWeight = "Bold"
+    internal static let typographyHeadingsOtherH2LgFontWeight = 700
     internal static let typographyHeadingsOtherH2LgLetterSpacing = 0
     internal static let typographyHeadingsOtherH2LgLineHeight = 42
     internal static let typographyHeadingsOtherH2LgParagraphIndent = 0
@@ -548,7 +548,7 @@ internal struct StyleDictionaryStruct {
     internal static let typographyHeadingsOtherH2LgTextDecoration = "none"
     internal static let typographyHeadingsOtherH2MdFontFamily = "Art Basel Headline"
     internal static let typographyHeadingsOtherH2MdFontSize = 30
-    internal static let typographyHeadingsOtherH2MdFontWeight = "Bold"
+    internal static let typographyHeadingsOtherH2MdFontWeight = 700
     internal static let typographyHeadingsOtherH2MdLetterSpacing = 0
     internal static let typographyHeadingsOtherH2MdLineHeight = 35
     internal static let typographyHeadingsOtherH2MdParagraphIndent = 0
@@ -557,7 +557,7 @@ internal struct StyleDictionaryStruct {
     internal static let typographyHeadingsOtherH2MdTextDecoration = "none"
     internal static let typographyHeadingsOtherH3LgFontFamily = "Art Basel Headline"
     internal static let typographyHeadingsOtherH3LgFontSize = 30
-    internal static let typographyHeadingsOtherH3LgFontWeight = "Bold"
+    internal static let typographyHeadingsOtherH3LgFontWeight = 700
     internal static let typographyHeadingsOtherH3LgLetterSpacing = 0
     internal static let typographyHeadingsOtherH3LgLineHeight = 35
     internal static let typographyHeadingsOtherH3LgParagraphIndent = 0
@@ -566,7 +566,7 @@ internal struct StyleDictionaryStruct {
     internal static let typographyHeadingsOtherH3LgTextDecoration = "none"
     internal static let typographyHeadingsOtherH3MdFontFamily = "Art Basel Headline"
     internal static let typographyHeadingsOtherH3MdFontSize = 26
-    internal static let typographyHeadingsOtherH3MdFontWeight = "Bold"
+    internal static let typographyHeadingsOtherH3MdFontWeight = 700
     internal static let typographyHeadingsOtherH3MdLetterSpacing = 0
     internal static let typographyHeadingsOtherH3MdLineHeight = 30
     internal static let typographyHeadingsOtherH3MdParagraphIndent = 0
@@ -575,7 +575,7 @@ internal struct StyleDictionaryStruct {
     internal static let typographyHeadingsOtherH3MdTextDecoration = "none"
     internal static let typographyHeadingsOtherH4LgFontFamily = "Art Basel Headline"
     internal static let typographyHeadingsOtherH4LgFontSize = 24
-    internal static let typographyHeadingsOtherH4LgFontWeight = "Bold"
+    internal static let typographyHeadingsOtherH4LgFontWeight = 700
     internal static let typographyHeadingsOtherH4LgLetterSpacing = 0
     internal static let typographyHeadingsOtherH4LgLineHeight = 28
     internal static let typographyHeadingsOtherH4LgParagraphIndent = 0
@@ -584,7 +584,7 @@ internal struct StyleDictionaryStruct {
     internal static let typographyHeadingsOtherH4LgTextDecoration = "none"
     internal static let typographyHeadingsOtherH4MdFontFamily = "Art Basel Headline"
     internal static let typographyHeadingsOtherH4MdFontSize = 24
-    internal static let typographyHeadingsOtherH4MdFontWeight = "Bold"
+    internal static let typographyHeadingsOtherH4MdFontWeight = 700
     internal static let typographyHeadingsOtherH4MdLetterSpacing = 0
     internal static let typographyHeadingsOtherH4MdLineHeight = 28
     internal static let typographyHeadingsOtherH4MdParagraphIndent = 0
@@ -593,7 +593,7 @@ internal struct StyleDictionaryStruct {
     internal static let typographyHeadingsOtherH4MdTextDecoration = "none"
     internal static let typographyHeadingsOtherH5LgFontFamily = "Art Basel Headline"
     internal static let typographyHeadingsOtherH5LgFontSize = 18
-    internal static let typographyHeadingsOtherH5LgFontWeight = "Bold"
+    internal static let typographyHeadingsOtherH5LgFontWeight = 700
     internal static let typographyHeadingsOtherH5LgLetterSpacing = 0
     internal static let typographyHeadingsOtherH5LgLineHeight = 21
     internal static let typographyHeadingsOtherH5LgParagraphIndent = 0
@@ -602,7 +602,7 @@ internal struct StyleDictionaryStruct {
     internal static let typographyHeadingsOtherH5LgTextDecoration = "none"
     internal static let typographyHeadingsOtherH5MdFontFamily = "Art Basel Headline"
     internal static let typographyHeadingsOtherH5MdFontSize = 18
-    internal static let typographyHeadingsOtherH5MdFontWeight = "Bold"
+    internal static let typographyHeadingsOtherH5MdFontWeight = 700
     internal static let typographyHeadingsOtherH5MdLetterSpacing = 0
     internal static let typographyHeadingsOtherH5MdLineHeight = 21
     internal static let typographyHeadingsOtherH5MdParagraphIndent = 0
@@ -611,7 +611,7 @@ internal struct StyleDictionaryStruct {
     internal static let typographyHeadingsOtherH5MdTextDecoration = "none"
     internal static let typographyLinksButtonMediumFontFamily = "Art Basel Text"
     internal static let typographyLinksButtonMediumFontSize = 14
-    internal static let typographyLinksButtonMediumFontWeight = "Bold"
+    internal static let typographyLinksButtonMediumFontWeight = 700
     internal static let typographyLinksButtonMediumLetterSpacing = 0
     internal static let typographyLinksButtonMediumLineHeight = 18
     internal static let typographyLinksButtonMediumParagraphIndent = 0
@@ -620,7 +620,7 @@ internal struct StyleDictionaryStruct {
     internal static let typographyLinksButtonMediumTextDecoration = "none"
     internal static let typographyLinksExternalLinkMediumDefaultFontFamily = "Art Basel Text"
     internal static let typographyLinksExternalLinkMediumDefaultFontSize = 16
-    internal static let typographyLinksExternalLinkMediumDefaultFontWeight = "Bold"
+    internal static let typographyLinksExternalLinkMediumDefaultFontWeight = 700
     internal static let typographyLinksExternalLinkMediumDefaultLetterSpacing = 0
     internal static let typographyLinksExternalLinkMediumDefaultLineHeight = 20
     internal static let typographyLinksExternalLinkMediumDefaultParagraphIndent = 0
@@ -629,7 +629,7 @@ internal struct StyleDictionaryStruct {
     internal static let typographyLinksExternalLinkMediumDefaultTextDecoration = "none"
     internal static let typographyLinksTextLinkMediumDefaultFontFamily = "Art Basel Text"
     internal static let typographyLinksTextLinkMediumDefaultFontSize = 16
-    internal static let typographyLinksTextLinkMediumDefaultFontWeight = "Bold"
+    internal static let typographyLinksTextLinkMediumDefaultFontWeight = 700
     internal static let typographyLinksTextLinkMediumDefaultLetterSpacing = 0
     internal static let typographyLinksTextLinkMediumDefaultLineHeight = 20
     internal static let typographyLinksTextLinkMediumDefaultParagraphIndent = 0
@@ -638,7 +638,7 @@ internal struct StyleDictionaryStruct {
     internal static let typographyLinksTextLinkMediumDefaultTextDecoration = "none"
     internal static let typographyLinksTextLinkMediumHoverFontFamily = "Art Basel Text"
     internal static let typographyLinksTextLinkMediumHoverFontSize = 16
-    internal static let typographyLinksTextLinkMediumHoverFontWeight = "Bold"
+    internal static let typographyLinksTextLinkMediumHoverFontWeight = 700
     internal static let typographyLinksTextLinkMediumHoverLetterSpacing = 0
     internal static let typographyLinksTextLinkMediumHoverLineHeight = 20
     internal static let typographyLinksTextLinkMediumHoverParagraphIndent = 0
@@ -647,7 +647,7 @@ internal struct StyleDictionaryStruct {
     internal static let typographyLinksTextLinkMediumHoverTextDecoration = "underline"
     internal static let typographyParagraphsCommonP1XlFontFamily = "Art Basel Text"
     internal static let typographyParagraphsCommonP1XlFontSize = 30
-    internal static let typographyParagraphsCommonP1XlFontWeight = "Regular"
+    internal static let typographyParagraphsCommonP1XlFontWeight = 400
     internal static let typographyParagraphsCommonP1XlLetterSpacing = 0
     internal static let typographyParagraphsCommonP1XlLineHeight = 34
     internal static let typographyParagraphsCommonP1XlParagraphIndent = 0
@@ -656,7 +656,7 @@ internal struct StyleDictionaryStruct {
     internal static let typographyParagraphsCommonP1XlTextDecoration = "none"
     internal static let typographyParagraphsCommonP1XsSmFontFamily = "Art Basel Text"
     internal static let typographyParagraphsCommonP1XsSmFontSize = 24
-    internal static let typographyParagraphsCommonP1XsSmFontWeight = "Regular"
+    internal static let typographyParagraphsCommonP1XsSmFontWeight = 400
     internal static let typographyParagraphsCommonP1XsSmLetterSpacing = 0
     internal static let typographyParagraphsCommonP1XsSmLineHeight = 28
     internal static let typographyParagraphsCommonP1XsSmParagraphIndent = 0
@@ -665,7 +665,7 @@ internal struct StyleDictionaryStruct {
     internal static let typographyParagraphsCommonP1XsSmTextDecoration = "none"
     internal static let typographyParagraphsCommonP2XlFontFamily = "Art Basel Text"
     internal static let typographyParagraphsCommonP2XlFontSize = 24
-    internal static let typographyParagraphsCommonP2XlFontWeight = "Regular"
+    internal static let typographyParagraphsCommonP2XlFontWeight = 400
     internal static let typographyParagraphsCommonP2XlLetterSpacing = 0
     internal static let typographyParagraphsCommonP2XlLineHeight = 28
     internal static let typographyParagraphsCommonP2XlParagraphIndent = 0
@@ -674,7 +674,7 @@ internal struct StyleDictionaryStruct {
     internal static let typographyParagraphsCommonP2XlTextDecoration = "none"
     internal static let typographyParagraphsCommonP2XsSmFontFamily = "Art Basel Text"
     internal static let typographyParagraphsCommonP2XsSmFontSize = 20
-    internal static let typographyParagraphsCommonP2XsSmFontWeight = "Regular"
+    internal static let typographyParagraphsCommonP2XsSmFontWeight = 400
     internal static let typographyParagraphsCommonP2XsSmLetterSpacing = 0
     internal static let typographyParagraphsCommonP2XsSmLineHeight = 23
     internal static let typographyParagraphsCommonP2XsSmParagraphIndent = 0
@@ -683,7 +683,7 @@ internal struct StyleDictionaryStruct {
     internal static let typographyParagraphsCommonP2XsSmTextDecoration = "none"
     internal static let typographyParagraphsOtherP1LgFontFamily = "Art Basel Text"
     internal static let typographyParagraphsOtherP1LgFontSize = 30
-    internal static let typographyParagraphsOtherP1LgFontWeight = "Regular"
+    internal static let typographyParagraphsOtherP1LgFontWeight = 400
     internal static let typographyParagraphsOtherP1LgLetterSpacing = 0
     internal static let typographyParagraphsOtherP1LgLineHeight = 34
     internal static let typographyParagraphsOtherP1LgParagraphIndent = 0
@@ -692,7 +692,7 @@ internal struct StyleDictionaryStruct {
     internal static let typographyParagraphsOtherP1LgTextDecoration = "none"
     internal static let typographyParagraphsOtherP1MdFontFamily = "Art Basel Text"
     internal static let typographyParagraphsOtherP1MdFontSize = 30
-    internal static let typographyParagraphsOtherP1MdFontWeight = "Regular"
+    internal static let typographyParagraphsOtherP1MdFontWeight = 400
     internal static let typographyParagraphsOtherP1MdLetterSpacing = 0
     internal static let typographyParagraphsOtherP1MdLineHeight = 34
     internal static let typographyParagraphsOtherP1MdParagraphIndent = 0
@@ -701,7 +701,7 @@ internal struct StyleDictionaryStruct {
     internal static let typographyParagraphsOtherP1MdTextDecoration = "none"
     internal static let typographyParagraphsOtherP2LgFontFamily = "Art Basel Text"
     internal static let typographyParagraphsOtherP2LgFontSize = 24
-    internal static let typographyParagraphsOtherP2LgFontWeight = "Regular"
+    internal static let typographyParagraphsOtherP2LgFontWeight = 400
     internal static let typographyParagraphsOtherP2LgLetterSpacing = 0
     internal static let typographyParagraphsOtherP2LgLineHeight = 28
     internal static let typographyParagraphsOtherP2LgParagraphIndent = 0
@@ -710,7 +710,7 @@ internal struct StyleDictionaryStruct {
     internal static let typographyParagraphsOtherP2LgTextDecoration = "none"
     internal static let typographyParagraphsOtherP2MdFontFamily = "Art Basel Text"
     internal static let typographyParagraphsOtherP2MdFontSize = 24
-    internal static let typographyParagraphsOtherP2MdFontWeight = "Regular"
+    internal static let typographyParagraphsOtherP2MdFontWeight = 400
     internal static let typographyParagraphsOtherP2MdLetterSpacing = 0
     internal static let typographyParagraphsOtherP2MdLineHeight = 28
     internal static let typographyParagraphsOtherP2MdParagraphIndent = 0
@@ -719,7 +719,7 @@ internal struct StyleDictionaryStruct {
     internal static let typographyParagraphsOtherP2MdTextDecoration = "none"
     internal static let typographySupportingLabelLargeFontFamily = "Art Basel Text"
     internal static let typographySupportingLabelLargeFontSize = 14
-    internal static let typographySupportingLabelLargeFontWeight = "Bold"
+    internal static let typographySupportingLabelLargeFontWeight = 700
     internal static let typographySupportingLabelLargeLetterSpacing = 0
     internal static let typographySupportingLabelLargeLineHeight = 18
     internal static let typographySupportingLabelLargeParagraphIndent = 0
@@ -728,7 +728,7 @@ internal struct StyleDictionaryStruct {
     internal static let typographySupportingLabelLargeTextDecoration = "none"
     internal static let typographySupportingLabelMediumFontFamily = "Art Basel Text"
     internal static let typographySupportingLabelMediumFontSize = 12
-    internal static let typographySupportingLabelMediumFontWeight = "Bold"
+    internal static let typographySupportingLabelMediumFontWeight = 700
     internal static let typographySupportingLabelMediumLetterSpacing = 0
     internal static let typographySupportingLabelMediumLineHeight = 16
     internal static let typographySupportingLabelMediumParagraphIndent = 0
@@ -737,7 +737,7 @@ internal struct StyleDictionaryStruct {
     internal static let typographySupportingLabelMediumTextDecoration = "none"
     internal static let typographySupportingLabelSmallFontFamily = "Art Basel Text"
     internal static let typographySupportingLabelSmallFontSize = 12
-    internal static let typographySupportingLabelSmallFontWeight = "Regular"
+    internal static let typographySupportingLabelSmallFontWeight = 400
     internal static let typographySupportingLabelSmallLetterSpacing = 0.3
     internal static let typographySupportingLabelSmallLineHeight = 16
     internal static let typographySupportingLabelSmallParagraphIndent = 0
@@ -746,7 +746,7 @@ internal struct StyleDictionaryStruct {
     internal static let typographySupportingLabelSmallTextDecoration = "none"
     internal static let typographySupportingLabelXLargeFontFamily = "Art Basel Text"
     internal static let typographySupportingLabelXLargeFontSize = 16
-    internal static let typographySupportingLabelXLargeFontWeight = "Bold"
+    internal static let typographySupportingLabelXLargeFontWeight = 700
     internal static let typographySupportingLabelXLargeLetterSpacing = 0
     internal static let typographySupportingLabelXLargeLineHeight = 22
     internal static let typographySupportingLabelXLargeParagraphIndent = 0

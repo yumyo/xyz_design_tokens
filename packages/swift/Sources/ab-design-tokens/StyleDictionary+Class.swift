@@ -4,52 +4,52 @@
 //
 
 // Do not edit directly
-// Generated on Thu, 09 Mar 2023 14:55:29 GMT
+// Generated on Fri, 17 Mar 2023 11:23:15 GMT
 
 
 import UIKit
 
 public class StyleDictionaryClass {
-    public static let colorBasePrimaryMchBlack = #1d2327
-    public static let colorBasePrimaryMchWhite = #ffffff
-    public static let colorBaseSecondaryMchGrey100 = #f7f7f7
-    public static let colorBaseSecondaryMchGrey200 = #f0f2f5
-    public static let colorBaseSecondaryMchGrey300 = #babfc4
-    public static let colorBaseSecondaryMchGrey400 = #757575
-    public static let colorBaseSecondaryMchGrey500 = #444749
-    public static let colorExtendedOpacityBorder50 = #babfc480
-    public static let colorExtendedOpacityBorderDisabled25 = #babfc440
-    public static let colorExtendedOpacityDarkCarouselBackground95 = #1d2327f2
-    public static let colorExtendedOpacityDarkFillHover50 = #44474980
-    public static let colorExtendedOpacityDarkOverlay30 = #1d23274d
-    public static let colorExtendedOpacityLightFillHover60 = #f7f7f799
-    public static let colorExtendedOpacityTileOverlay5 = #1d23270d
-    public static let colorExtendedSectorsDialogues = #dcdcdc
-    public static let colorExtendedSectorsDiscoveriesStatementsPositions = #d2d3ec
-    public static let colorExtendedSectorsEdition = #fff7bf
-    public static let colorExtendedSectorsFeatureNova = #d8eeeb
-    public static let colorExtendedSectorsFilm = #f7dce9
-    public static let colorExtendedSectorsGalleries = #cdcdcd
-    public static let colorExtendedSectorsInsightsSurvey = #fcd5d7
-    public static let colorExtendedSectorsKabinett = #fcdfaa
-    public static let colorExtendedSectorsParcourPublic = #cddff2
-    public static let colorExtendedSectorsUnlimitedEncountersMeridians = #dff0cb
-    public static let colorExtendedSubBrandsBasel = #00a0cf
-    public static let colorExtendedSubBrandsCities = #fa4616
-    public static let colorExtendedSubBrandsHongKong = #e0004d
-    public static let colorExtendedSubBrandsMiami = #00c18b
-    public static let colorExtendedSubBrandsParis = #1e1e1e
-    public static let colorSupportingGreen = #019f53
-    public static let colorSupportingGreenText = #018661
-    public static let colorSupportingOrange = #f19d00
-    public static let colorSupportingOrangeText = #bf8519
-    public static let colorSupportingRed = #ff003b
-    public static let colorSupportingRedText = #c9012f
-    public static let colorSupportingStatusDarkAlert = #f4a32f
-    public static let colorSupportingStatusDarkError = #ff979d
-    public static let colorSupportingStatusDarkSuccess = #7cc492
-    public static let colorSupportingStatusLightError = #c9012f
-    public static let colorSupportingStatusLightSuccess = #018661
+    public static let colorBasePrimaryMchBlack = UIColor(red: 0.114, green: 0.137, blue: 0.153, alpha: 1)
+    public static let colorBasePrimaryMchWhite = UIColor(red: 1.000, green: 1.000, blue: 1.000, alpha: 1)
+    public static let colorBaseSecondaryMchGrey100 = UIColor(red: 0.969, green: 0.969, blue: 0.969, alpha: 1)
+    public static let colorBaseSecondaryMchGrey200 = UIColor(red: 0.941, green: 0.949, blue: 0.961, alpha: 1)
+    public static let colorBaseSecondaryMchGrey300 = UIColor(red: 0.729, green: 0.749, blue: 0.769, alpha: 1)
+    public static let colorBaseSecondaryMchGrey400 = UIColor(red: 0.459, green: 0.459, blue: 0.459, alpha: 1)
+    public static let colorBaseSecondaryMchGrey500 = UIColor(red: 0.267, green: 0.278, blue: 0.286, alpha: 1)
+    public static let colorExtendedOpacityBorder50 = UIColor(red: 0.729, green: 0.749, blue: 0.769, alpha: 0.5019607843137255)
+    public static let colorExtendedOpacityBorderDisabled25 = UIColor(red: 0.729, green: 0.749, blue: 0.769, alpha: 0.25098039215686274)
+    public static let colorExtendedOpacityDarkCarouselBackground95 = UIColor(red: 0.114, green: 0.137, blue: 0.153, alpha: 0.9490196078431372)
+    public static let colorExtendedOpacityDarkFillHover50 = UIColor(red: 0.267, green: 0.278, blue: 0.286, alpha: 0.5019607843137255)
+    public static let colorExtendedOpacityDarkOverlay30 = UIColor(red: 0.114, green: 0.137, blue: 0.153, alpha: 0.30196078431372547)
+    public static let colorExtendedOpacityLightFillHover60 = UIColor(red: 0.969, green: 0.969, blue: 0.969, alpha: 0.6)
+    public static let colorExtendedOpacityTileOverlay5 = UIColor(red: 0.114, green: 0.137, blue: 0.153, alpha: 0.050980392156862744)
+    public static let colorExtendedSectorsDialogues = UIColor(red: 0.863, green: 0.863, blue: 0.863, alpha: 1)
+    public static let colorExtendedSectorsDiscoveriesStatementsPositions = UIColor(red: 0.824, green: 0.827, blue: 0.925, alpha: 1)
+    public static let colorExtendedSectorsEdition = UIColor(red: 1.000, green: 0.969, blue: 0.749, alpha: 1)
+    public static let colorExtendedSectorsFeatureNova = UIColor(red: 0.847, green: 0.933, blue: 0.922, alpha: 1)
+    public static let colorExtendedSectorsFilm = UIColor(red: 0.969, green: 0.863, blue: 0.914, alpha: 1)
+    public static let colorExtendedSectorsGalleries = UIColor(red: 0.804, green: 0.804, blue: 0.804, alpha: 1)
+    public static let colorExtendedSectorsInsightsSurvey = UIColor(red: 0.988, green: 0.835, blue: 0.843, alpha: 1)
+    public static let colorExtendedSectorsKabinett = UIColor(red: 0.988, green: 0.875, blue: 0.667, alpha: 1)
+    public static let colorExtendedSectorsParcourPublic = UIColor(red: 0.804, green: 0.875, blue: 0.949, alpha: 1)
+    public static let colorExtendedSectorsUnlimitedEncountersMeridians = UIColor(red: 0.875, green: 0.941, blue: 0.796, alpha: 1)
+    public static let colorExtendedSubBrandsBasel = UIColor(red: 0.000, green: 0.627, blue: 0.812, alpha: 1)
+    public static let colorExtendedSubBrandsCities = UIColor(red: 0.980, green: 0.275, blue: 0.086, alpha: 1)
+    public static let colorExtendedSubBrandsHongKong = UIColor(red: 0.878, green: 0.000, blue: 0.302, alpha: 1)
+    public static let colorExtendedSubBrandsMiami = UIColor(red: 0.000, green: 0.757, blue: 0.545, alpha: 1)
+    public static let colorExtendedSubBrandsParis = UIColor(red: 0.118, green: 0.118, blue: 0.118, alpha: 1)
+    public static let colorSupportingGreen = UIColor(red: 0.004, green: 0.624, blue: 0.325, alpha: 1)
+    public static let colorSupportingGreenText = UIColor(red: 0.004, green: 0.525, blue: 0.380, alpha: 1)
+    public static let colorSupportingOrange = UIColor(red: 0.945, green: 0.616, blue: 0.000, alpha: 1)
+    public static let colorSupportingOrangeText = UIColor(red: 0.749, green: 0.522, blue: 0.098, alpha: 1)
+    public static let colorSupportingRed = UIColor(red: 1.000, green: 0.000, blue: 0.231, alpha: 1)
+    public static let colorSupportingRedText = UIColor(red: 0.788, green: 0.004, blue: 0.184, alpha: 1)
+    public static let colorSupportingStatusDarkAlert = UIColor(red: 0.957, green: 0.639, blue: 0.184, alpha: 1)
+    public static let colorSupportingStatusDarkError = UIColor(red: 1.000, green: 0.592, blue: 0.616, alpha: 1)
+    public static let colorSupportingStatusDarkSuccess = UIColor(red: 0.486, green: 0.769, blue: 0.573, alpha: 1)
+    public static let colorSupportingStatusLightError = UIColor(red: 0.788, green: 0.004, blue: 0.184, alpha: 1)
+    public static let colorSupportingStatusLightSuccess = UIColor(red: 0.004, green: 0.525, blue: 0.380, alpha: 1)
     public static let fontFamiliesArtBaselHeadline = "Art Basel Headline"
     public static let fontFamiliesArtBaselText = "Art Basel Text"
     public static let fontFamiliesIvarDisplay = "Ivar Display"
@@ -68,11 +68,11 @@ public class StyleDictionaryClass {
     public static let fontSize7 = 30
     public static let fontSize8 = 32
     public static let fontSize9 = 34
-    public static let fontWeightsArtBaselHeadline0 = "Bold"
-    public static let fontWeightsArtBaselText3 = "Regular"
-    public static let fontWeightsArtBaselText4 = "Bold"
-    public static let fontWeightsIvarDisplay1 = "Regular"
-    public static let fontWeightsIvarDisplay2 = "SemiBold"
+    public static let fontWeightsArtBaselHeadline0 = 700
+    public static let fontWeightsArtBaselText3 = 400
+    public static let fontWeightsArtBaselText4 = 700
+    public static let fontWeightsIvarDisplay1 = 400
+    public static let fontWeightsIvarDisplay2 = 600
     public static let letterSpacing0 = 0
     public static let letterSpacing1 = 0
     public static let letterSpacing2 = 0.5
@@ -161,7 +161,7 @@ public class StyleDictionaryClass {
     public static let textDecorationUnderline = "underline"
     public static let typographyBodyTextLargeFontFamily = "Art Basel Text"
     public static let typographyBodyTextLargeFontSize = 18
-    public static let typographyBodyTextLargeFontWeight = "Regular"
+    public static let typographyBodyTextLargeFontWeight = 400
     public static let typographyBodyTextLargeLetterSpacing = 0
     public static let typographyBodyTextLargeLineHeight = 24
     public static let typographyBodyTextLargeParagraphIndent = 0
@@ -170,7 +170,7 @@ public class StyleDictionaryClass {
     public static let typographyBodyTextLargeTextDecoration = "none"
     public static let typographyBodyTextMediumFontFamily = "Art Basel Text"
     public static let typographyBodyTextMediumFontSize = 16
-    public static let typographyBodyTextMediumFontWeight = "Regular"
+    public static let typographyBodyTextMediumFontWeight = 400
     public static let typographyBodyTextMediumLetterSpacing = 0
     public static let typographyBodyTextMediumLineHeight = 22
     public static let typographyBodyTextMediumParagraphIndent = 0
@@ -179,7 +179,7 @@ public class StyleDictionaryClass {
     public static let typographyBodyTextMediumTextDecoration = "none"
     public static let typographyBodyTextSmallFontFamily = "Art Basel Text"
     public static let typographyBodyTextSmallFontSize = 14
-    public static let typographyBodyTextSmallFontWeight = "Regular"
+    public static let typographyBodyTextSmallFontWeight = 400
     public static let typographyBodyTextSmallLetterSpacing = 0
     public static let typographyBodyTextSmallLineHeight = 18
     public static let typographyBodyTextSmallParagraphIndent = 0
@@ -188,7 +188,7 @@ public class StyleDictionaryClass {
     public static let typographyBodyTextSmallTextDecoration = "none"
     public static let typographyEditorialHeadingsCommonH1XlFontFamily = "Ivar Display"
     public static let typographyEditorialHeadingsCommonH1XlFontSize = 48
-    public static let typographyEditorialHeadingsCommonH1XlFontWeight = "SemiBold"
+    public static let typographyEditorialHeadingsCommonH1XlFontWeight = 600
     public static let typographyEditorialHeadingsCommonH1XlLetterSpacing = 0
     public static let typographyEditorialHeadingsCommonH1XlLineHeight = 64
     public static let typographyEditorialHeadingsCommonH1XlParagraphIndent = 0
@@ -197,7 +197,7 @@ public class StyleDictionaryClass {
     public static let typographyEditorialHeadingsCommonH1XlTextDecoration = "none"
     public static let typographyEditorialHeadingsCommonH1XsSmFontFamily = "Ivar Display"
     public static let typographyEditorialHeadingsCommonH1XsSmFontSize = 30
-    public static let typographyEditorialHeadingsCommonH1XsSmFontWeight = "SemiBold"
+    public static let typographyEditorialHeadingsCommonH1XsSmFontWeight = 600
     public static let typographyEditorialHeadingsCommonH1XsSmLetterSpacing = 0
     public static let typographyEditorialHeadingsCommonH1XsSmLineHeight = 42
     public static let typographyEditorialHeadingsCommonH1XsSmParagraphIndent = 0
@@ -206,7 +206,7 @@ public class StyleDictionaryClass {
     public static let typographyEditorialHeadingsCommonH1XsSmTextDecoration = "none"
     public static let typographyEditorialHeadingsCommonH2XlFontFamily = "Ivar Display"
     public static let typographyEditorialHeadingsCommonH2XlFontSize = 42
-    public static let typographyEditorialHeadingsCommonH2XlFontWeight = "SemiBold"
+    public static let typographyEditorialHeadingsCommonH2XlFontWeight = 600
     public static let typographyEditorialHeadingsCommonH2XlLetterSpacing = 0
     public static let typographyEditorialHeadingsCommonH2XlLineHeight = 54
     public static let typographyEditorialHeadingsCommonH2XlParagraphIndent = 0
@@ -215,7 +215,7 @@ public class StyleDictionaryClass {
     public static let typographyEditorialHeadingsCommonH2XlTextDecoration = "none"
     public static let typographyEditorialHeadingsCommonH2XsSmFontFamily = "Ivar Display"
     public static let typographyEditorialHeadingsCommonH2XsSmFontSize = 26
-    public static let typographyEditorialHeadingsCommonH2XsSmFontWeight = "SemiBold"
+    public static let typographyEditorialHeadingsCommonH2XsSmFontWeight = 600
     public static let typographyEditorialHeadingsCommonH2XsSmLetterSpacing = 0
     public static let typographyEditorialHeadingsCommonH2XsSmLineHeight = 30
     public static let typographyEditorialHeadingsCommonH2XsSmParagraphIndent = 0
@@ -224,7 +224,7 @@ public class StyleDictionaryClass {
     public static let typographyEditorialHeadingsCommonH2XsSmTextDecoration = "none"
     public static let typographyEditorialHeadingsCommonH3XlFontFamily = "Ivar Display"
     public static let typographyEditorialHeadingsCommonH3XlFontSize = 36
-    public static let typographyEditorialHeadingsCommonH3XlFontWeight = "SemiBold"
+    public static let typographyEditorialHeadingsCommonH3XlFontWeight = 600
     public static let typographyEditorialHeadingsCommonH3XlLetterSpacing = 0
     public static let typographyEditorialHeadingsCommonH3XlLineHeight = 48
     public static let typographyEditorialHeadingsCommonH3XlParagraphIndent = 0
@@ -233,7 +233,7 @@ public class StyleDictionaryClass {
     public static let typographyEditorialHeadingsCommonH3XlTextDecoration = "none"
     public static let typographyEditorialHeadingsCommonH3XsSmFontFamily = "Ivar Display"
     public static let typographyEditorialHeadingsCommonH3XsSmFontSize = 24
-    public static let typographyEditorialHeadingsCommonH3XsSmFontWeight = "SemiBold"
+    public static let typographyEditorialHeadingsCommonH3XsSmFontWeight = 600
     public static let typographyEditorialHeadingsCommonH3XsSmLetterSpacing = 0
     public static let typographyEditorialHeadingsCommonH3XsSmLineHeight = 32
     public static let typographyEditorialHeadingsCommonH3XsSmParagraphIndent = 0
@@ -242,7 +242,7 @@ public class StyleDictionaryClass {
     public static let typographyEditorialHeadingsCommonH3XsSmTextDecoration = "none"
     public static let typographyEditorialHeadingsCommonH4XlFontFamily = "Ivar Display"
     public static let typographyEditorialHeadingsCommonH4XlFontSize = 30
-    public static let typographyEditorialHeadingsCommonH4XlFontWeight = "SemiBold"
+    public static let typographyEditorialHeadingsCommonH4XlFontWeight = 600
     public static let typographyEditorialHeadingsCommonH4XlLetterSpacing = 0
     public static let typographyEditorialHeadingsCommonH4XlLineHeight = 42
     public static let typographyEditorialHeadingsCommonH4XlParagraphIndent = 0
@@ -251,7 +251,7 @@ public class StyleDictionaryClass {
     public static let typographyEditorialHeadingsCommonH4XlTextDecoration = "none"
     public static let typographyEditorialHeadingsCommonH4XsSmFontFamily = "Ivar Display"
     public static let typographyEditorialHeadingsCommonH4XsSmFontSize = 20
-    public static let typographyEditorialHeadingsCommonH4XsSmFontWeight = "SemiBold"
+    public static let typographyEditorialHeadingsCommonH4XsSmFontWeight = 600
     public static let typographyEditorialHeadingsCommonH4XsSmLetterSpacing = 0
     public static let typographyEditorialHeadingsCommonH4XsSmLineHeight = 24
     public static let typographyEditorialHeadingsCommonH4XsSmParagraphIndent = 0
@@ -260,7 +260,7 @@ public class StyleDictionaryClass {
     public static let typographyEditorialHeadingsCommonH4XsSmTextDecoration = "none"
     public static let typographyEditorialHeadingsCommonH5XlFontFamily = "Ivar Display"
     public static let typographyEditorialHeadingsCommonH5XlFontSize = 24
-    public static let typographyEditorialHeadingsCommonH5XlFontWeight = "SemiBold"
+    public static let typographyEditorialHeadingsCommonH5XlFontWeight = 600
     public static let typographyEditorialHeadingsCommonH5XlLetterSpacing = 0
     public static let typographyEditorialHeadingsCommonH5XlLineHeight = 32
     public static let typographyEditorialHeadingsCommonH5XlParagraphIndent = 0
@@ -269,7 +269,7 @@ public class StyleDictionaryClass {
     public static let typographyEditorialHeadingsCommonH5XlTextDecoration = "none"
     public static let typographyEditorialHeadingsCommonH5XsSmFontFamily = "Ivar Display"
     public static let typographyEditorialHeadingsCommonH5XsSmFontSize = 18
-    public static let typographyEditorialHeadingsCommonH5XsSmFontWeight = "SemiBold"
+    public static let typographyEditorialHeadingsCommonH5XsSmFontWeight = 600
     public static let typographyEditorialHeadingsCommonH5XsSmLetterSpacing = 0
     public static let typographyEditorialHeadingsCommonH5XsSmLineHeight = 20
     public static let typographyEditorialHeadingsCommonH5XsSmParagraphIndent = 0
@@ -278,7 +278,7 @@ public class StyleDictionaryClass {
     public static let typographyEditorialHeadingsCommonH5XsSmTextDecoration = "none"
     public static let typographyEditorialHeadingsOtherH1LgFontFamily = "Ivar Display"
     public static let typographyEditorialHeadingsOtherH1LgFontSize = 42
-    public static let typographyEditorialHeadingsOtherH1LgFontWeight = "SemiBold"
+    public static let typographyEditorialHeadingsOtherH1LgFontWeight = 600
     public static let typographyEditorialHeadingsOtherH1LgLetterSpacing = 0
     public static let typographyEditorialHeadingsOtherH1LgLineHeight = 54
     public static let typographyEditorialHeadingsOtherH1LgParagraphIndent = 0
@@ -287,7 +287,7 @@ public class StyleDictionaryClass {
     public static let typographyEditorialHeadingsOtherH1LgTextDecoration = "none"
     public static let typographyEditorialHeadingsOtherH1MdFontFamily = "Ivar Display"
     public static let typographyEditorialHeadingsOtherH1MdFontSize = 36
-    public static let typographyEditorialHeadingsOtherH1MdFontWeight = "SemiBold"
+    public static let typographyEditorialHeadingsOtherH1MdFontWeight = 600
     public static let typographyEditorialHeadingsOtherH1MdLetterSpacing = 0
     public static let typographyEditorialHeadingsOtherH1MdLineHeight = 48
     public static let typographyEditorialHeadingsOtherH1MdParagraphIndent = 0
@@ -296,7 +296,7 @@ public class StyleDictionaryClass {
     public static let typographyEditorialHeadingsOtherH1MdTextDecoration = "none"
     public static let typographyEditorialHeadingsOtherH2LgFontFamily = "Ivar Display"
     public static let typographyEditorialHeadingsOtherH2LgFontSize = 36
-    public static let typographyEditorialHeadingsOtherH2LgFontWeight = "SemiBold"
+    public static let typographyEditorialHeadingsOtherH2LgFontWeight = 600
     public static let typographyEditorialHeadingsOtherH2LgLetterSpacing = 0
     public static let typographyEditorialHeadingsOtherH2LgLineHeight = 48
     public static let typographyEditorialHeadingsOtherH2LgParagraphIndent = 0
@@ -305,7 +305,7 @@ public class StyleDictionaryClass {
     public static let typographyEditorialHeadingsOtherH2LgTextDecoration = "none"
     public static let typographyEditorialHeadingsOtherH2MdFontFamily = "Ivar Display"
     public static let typographyEditorialHeadingsOtherH2MdFontSize = 30
-    public static let typographyEditorialHeadingsOtherH2MdFontWeight = "SemiBold"
+    public static let typographyEditorialHeadingsOtherH2MdFontWeight = 600
     public static let typographyEditorialHeadingsOtherH2MdLetterSpacing = 0
     public static let typographyEditorialHeadingsOtherH2MdLineHeight = 42
     public static let typographyEditorialHeadingsOtherH2MdParagraphIndent = 0
@@ -314,7 +314,7 @@ public class StyleDictionaryClass {
     public static let typographyEditorialHeadingsOtherH2MdTextDecoration = "none"
     public static let typographyEditorialHeadingsOtherH3LgFontFamily = "Ivar Display"
     public static let typographyEditorialHeadingsOtherH3LgFontSize = 30
-    public static let typographyEditorialHeadingsOtherH3LgFontWeight = "SemiBold"
+    public static let typographyEditorialHeadingsOtherH3LgFontWeight = 600
     public static let typographyEditorialHeadingsOtherH3LgLetterSpacing = 0
     public static let typographyEditorialHeadingsOtherH3LgLineHeight = 42
     public static let typographyEditorialHeadingsOtherH3LgParagraphIndent = 0
@@ -323,7 +323,7 @@ public class StyleDictionaryClass {
     public static let typographyEditorialHeadingsOtherH3LgTextDecoration = "none"
     public static let typographyEditorialHeadingsOtherH3MdFontFamily = "Ivar Display"
     public static let typographyEditorialHeadingsOtherH3MdFontSize = 26
-    public static let typographyEditorialHeadingsOtherH3MdFontWeight = "SemiBold"
+    public static let typographyEditorialHeadingsOtherH3MdFontWeight = 600
     public static let typographyEditorialHeadingsOtherH3MdLetterSpacing = 0
     public static let typographyEditorialHeadingsOtherH3MdLineHeight = 36
     public static let typographyEditorialHeadingsOtherH3MdParagraphIndent = 0
@@ -332,7 +332,7 @@ public class StyleDictionaryClass {
     public static let typographyEditorialHeadingsOtherH3MdTextDecoration = "none"
     public static let typographyEditorialHeadingsOtherH4LgFontFamily = "Ivar Display"
     public static let typographyEditorialHeadingsOtherH4LgFontSize = 26
-    public static let typographyEditorialHeadingsOtherH4LgFontWeight = "SemiBold"
+    public static let typographyEditorialHeadingsOtherH4LgFontWeight = 600
     public static let typographyEditorialHeadingsOtherH4LgLetterSpacing = 0
     public static let typographyEditorialHeadingsOtherH4LgLineHeight = 36
     public static let typographyEditorialHeadingsOtherH4LgParagraphIndent = 0
@@ -341,7 +341,7 @@ public class StyleDictionaryClass {
     public static let typographyEditorialHeadingsOtherH4LgTextDecoration = "none"
     public static let typographyEditorialHeadingsOtherH4MdFontFamily = "Ivar Display"
     public static let typographyEditorialHeadingsOtherH4MdFontSize = 24
-    public static let typographyEditorialHeadingsOtherH4MdFontWeight = "SemiBold"
+    public static let typographyEditorialHeadingsOtherH4MdFontWeight = 600
     public static let typographyEditorialHeadingsOtherH4MdLetterSpacing = 0
     public static let typographyEditorialHeadingsOtherH4MdLineHeight = 32
     public static let typographyEditorialHeadingsOtherH4MdParagraphIndent = 0
@@ -350,7 +350,7 @@ public class StyleDictionaryClass {
     public static let typographyEditorialHeadingsOtherH4MdTextDecoration = "none"
     public static let typographyEditorialHeadingsOtherH5LgFontFamily = "Ivar Display"
     public static let typographyEditorialHeadingsOtherH5LgFontSize = 24
-    public static let typographyEditorialHeadingsOtherH5LgFontWeight = "SemiBold"
+    public static let typographyEditorialHeadingsOtherH5LgFontWeight = 600
     public static let typographyEditorialHeadingsOtherH5LgLetterSpacing = 0
     public static let typographyEditorialHeadingsOtherH5LgLineHeight = 32
     public static let typographyEditorialHeadingsOtherH5LgParagraphIndent = 0
@@ -359,7 +359,7 @@ public class StyleDictionaryClass {
     public static let typographyEditorialHeadingsOtherH5LgTextDecoration = "none"
     public static let typographyEditorialHeadingsOtherH5MdFontFamily = "Ivar Display"
     public static let typographyEditorialHeadingsOtherH5MdFontSize = 20
-    public static let typographyEditorialHeadingsOtherH5MdFontWeight = "SemiBold"
+    public static let typographyEditorialHeadingsOtherH5MdFontWeight = 600
     public static let typographyEditorialHeadingsOtherH5MdLetterSpacing = 0
     public static let typographyEditorialHeadingsOtherH5MdLineHeight = 24
     public static let typographyEditorialHeadingsOtherH5MdParagraphIndent = 0
@@ -368,7 +368,7 @@ public class StyleDictionaryClass {
     public static let typographyEditorialHeadingsOtherH5MdTextDecoration = "none"
     public static let typographyEditorialQuoteQuote2XlFontFamily = "Ivar Display"
     public static let typographyEditorialQuoteQuote2XlFontSize = 42
-    public static let typographyEditorialQuoteQuote2XlFontWeight = "Regular"
+    public static let typographyEditorialQuoteQuote2XlFontWeight = 400
     public static let typographyEditorialQuoteQuote2XlLetterSpacing = 0
     public static let typographyEditorialQuoteQuote2XlLineHeight = 54
     public static let typographyEditorialQuoteQuote2XlParagraphIndent = 0
@@ -377,7 +377,7 @@ public class StyleDictionaryClass {
     public static let typographyEditorialQuoteQuote2XlTextDecoration = "none"
     public static let typographyEditorialQuoteQuoteLgFontFamily = "Ivar Display"
     public static let typographyEditorialQuoteQuoteLgFontSize = 36
-    public static let typographyEditorialQuoteQuoteLgFontWeight = "Regular"
+    public static let typographyEditorialQuoteQuoteLgFontWeight = 400
     public static let typographyEditorialQuoteQuoteLgLetterSpacing = 0
     public static let typographyEditorialQuoteQuoteLgLineHeight = 48
     public static let typographyEditorialQuoteQuoteLgParagraphIndent = 0
@@ -386,7 +386,7 @@ public class StyleDictionaryClass {
     public static let typographyEditorialQuoteQuoteLgTextDecoration = "none"
     public static let typographyEditorialQuoteQuoteMdFontFamily = "Ivar Display"
     public static let typographyEditorialQuoteQuoteMdFontSize = 34
-    public static let typographyEditorialQuoteQuoteMdFontWeight = "Regular"
+    public static let typographyEditorialQuoteQuoteMdFontWeight = 400
     public static let typographyEditorialQuoteQuoteMdLetterSpacing = 0
     public static let typographyEditorialQuoteQuoteMdLineHeight = 42
     public static let typographyEditorialQuoteQuoteMdParagraphIndent = 0
@@ -395,7 +395,7 @@ public class StyleDictionaryClass {
     public static let typographyEditorialQuoteQuoteMdTextDecoration = "none"
     public static let typographyEditorialQuoteQuoteXlFontFamily = "Ivar Display"
     public static let typographyEditorialQuoteQuoteXlFontSize = 38
-    public static let typographyEditorialQuoteQuoteXlFontWeight = "Regular"
+    public static let typographyEditorialQuoteQuoteXlFontWeight = 400
     public static let typographyEditorialQuoteQuoteXlLetterSpacing = 0.5
     public static let typographyEditorialQuoteQuoteXlLineHeight = 50
     public static let typographyEditorialQuoteQuoteXlParagraphIndent = 0
@@ -404,7 +404,7 @@ public class StyleDictionaryClass {
     public static let typographyEditorialQuoteQuoteXlTextDecoration = "none"
     public static let typographyEditorialQuoteQuoteXsSmFontFamily = "Ivar Display"
     public static let typographyEditorialQuoteQuoteXsSmFontSize = 32
-    public static let typographyEditorialQuoteQuoteXsSmFontWeight = "Regular"
+    public static let typographyEditorialQuoteQuoteXsSmFontWeight = 400
     public static let typographyEditorialQuoteQuoteXsSmLetterSpacing = 0
     public static let typographyEditorialQuoteQuoteXsSmLineHeight = 42
     public static let typographyEditorialQuoteQuoteXsSmParagraphIndent = 0
@@ -413,7 +413,7 @@ public class StyleDictionaryClass {
     public static let typographyEditorialQuoteQuoteXsSmTextDecoration = "none"
     public static let typographyHeadingsCommonH1XlFontFamily = "Art Basel Headline"
     public static let typographyHeadingsCommonH1XlFontSize = 42
-    public static let typographyHeadingsCommonH1XlFontWeight = "Bold"
+    public static let typographyHeadingsCommonH1XlFontWeight = 700
     public static let typographyHeadingsCommonH1XlLetterSpacing = 0
     public static let typographyHeadingsCommonH1XlLineHeight = 48
     public static let typographyHeadingsCommonH1XlParagraphIndent = 0
@@ -422,7 +422,7 @@ public class StyleDictionaryClass {
     public static let typographyHeadingsCommonH1XlTextDecoration = "none"
     public static let typographyHeadingsCommonH1XsSmFontFamily = "Art Basel Headline"
     public static let typographyHeadingsCommonH1XsSmFontSize = 30
-    public static let typographyHeadingsCommonH1XsSmFontWeight = "Bold"
+    public static let typographyHeadingsCommonH1XsSmFontWeight = 700
     public static let typographyHeadingsCommonH1XsSmLetterSpacing = 0
     public static let typographyHeadingsCommonH1XsSmLineHeight = 35
     public static let typographyHeadingsCommonH1XsSmParagraphIndent = 0
@@ -431,7 +431,7 @@ public class StyleDictionaryClass {
     public static let typographyHeadingsCommonH1XsSmTextDecoration = "none"
     public static let typographyHeadingsCommonH2XlFontFamily = "Art Basel Headline"
     public static let typographyHeadingsCommonH2XlFontSize = 36
-    public static let typographyHeadingsCommonH2XlFontWeight = "Bold"
+    public static let typographyHeadingsCommonH2XlFontWeight = 700
     public static let typographyHeadingsCommonH2XlLetterSpacing = 0
     public static let typographyHeadingsCommonH2XlLineHeight = 42
     public static let typographyHeadingsCommonH2XlParagraphIndent = 0
@@ -440,7 +440,7 @@ public class StyleDictionaryClass {
     public static let typographyHeadingsCommonH2XlTextDecoration = "none"
     public static let typographyHeadingsCommonH2XsSmFontFamily = "Art Basel Headline"
     public static let typographyHeadingsCommonH2XsSmFontSize = 26
-    public static let typographyHeadingsCommonH2XsSmFontWeight = "Bold"
+    public static let typographyHeadingsCommonH2XsSmFontWeight = 700
     public static let typographyHeadingsCommonH2XsSmLetterSpacing = 0
     public static let typographyHeadingsCommonH2XsSmLineHeight = 30
     public static let typographyHeadingsCommonH2XsSmParagraphIndent = 0
@@ -449,7 +449,7 @@ public class StyleDictionaryClass {
     public static let typographyHeadingsCommonH2XsSmTextDecoration = "none"
     public static let typographyHeadingsCommonH3XlFontFamily = "Art Basel Headline"
     public static let typographyHeadingsCommonH3XlFontSize = 30
-    public static let typographyHeadingsCommonH3XlFontWeight = "Bold"
+    public static let typographyHeadingsCommonH3XlFontWeight = 700
     public static let typographyHeadingsCommonH3XlLetterSpacing = 0
     public static let typographyHeadingsCommonH3XlLineHeight = 34
     public static let typographyHeadingsCommonH3XlParagraphIndent = 0
@@ -458,7 +458,7 @@ public class StyleDictionaryClass {
     public static let typographyHeadingsCommonH3XlTextDecoration = "none"
     public static let typographyHeadingsCommonH3XsSmFontFamily = "Art Basel Headline"
     public static let typographyHeadingsCommonH3XsSmFontSize = 24
-    public static let typographyHeadingsCommonH3XsSmFontWeight = "Bold"
+    public static let typographyHeadingsCommonH3XsSmFontWeight = 700
     public static let typographyHeadingsCommonH3XsSmLetterSpacing = 0
     public static let typographyHeadingsCommonH3XsSmLineHeight = 28
     public static let typographyHeadingsCommonH3XsSmParagraphIndent = 0
@@ -467,7 +467,7 @@ public class StyleDictionaryClass {
     public static let typographyHeadingsCommonH3XsSmTextDecoration = "none"
     public static let typographyHeadingsCommonH4XlFontFamily = "Art Basel Headline"
     public static let typographyHeadingsCommonH4XlFontSize = 24
-    public static let typographyHeadingsCommonH4XlFontWeight = "Bold"
+    public static let typographyHeadingsCommonH4XlFontWeight = 700
     public static let typographyHeadingsCommonH4XlLetterSpacing = 0
     public static let typographyHeadingsCommonH4XlLineHeight = 28
     public static let typographyHeadingsCommonH4XlParagraphIndent = 0
@@ -476,7 +476,7 @@ public class StyleDictionaryClass {
     public static let typographyHeadingsCommonH4XlTextDecoration = "none"
     public static let typographyHeadingsCommonH4XsSmFontFamily = "Art Basel Headline"
     public static let typographyHeadingsCommonH4XsSmFontSize = 20
-    public static let typographyHeadingsCommonH4XsSmFontWeight = "Bold"
+    public static let typographyHeadingsCommonH4XsSmFontWeight = 700
     public static let typographyHeadingsCommonH4XsSmLetterSpacing = 0
     public static let typographyHeadingsCommonH4XsSmLineHeight = 23
     public static let typographyHeadingsCommonH4XsSmParagraphIndent = 0
@@ -485,7 +485,7 @@ public class StyleDictionaryClass {
     public static let typographyHeadingsCommonH4XsSmTextDecoration = "none"
     public static let typographyHeadingsCommonH5XlFontFamily = "Art Basel Headline"
     public static let typographyHeadingsCommonH5XlFontSize = 18
-    public static let typographyHeadingsCommonH5XlFontWeight = "Bold"
+    public static let typographyHeadingsCommonH5XlFontWeight = 700
     public static let typographyHeadingsCommonH5XlLetterSpacing = 0
     public static let typographyHeadingsCommonH5XlLineHeight = 21
     public static let typographyHeadingsCommonH5XlParagraphIndent = 0
@@ -494,7 +494,7 @@ public class StyleDictionaryClass {
     public static let typographyHeadingsCommonH5XlTextDecoration = "none"
     public static let typographyHeadingsCommonH5XsSmFontFamily = "Art Basel Headline"
     public static let typographyHeadingsCommonH5XsSmFontSize = 18
-    public static let typographyHeadingsCommonH5XsSmFontWeight = "Bold"
+    public static let typographyHeadingsCommonH5XsSmFontWeight = 700
     public static let typographyHeadingsCommonH5XsSmLetterSpacing = 0
     public static let typographyHeadingsCommonH5XsSmLineHeight = 21
     public static let typographyHeadingsCommonH5XsSmParagraphIndent = 0
@@ -503,7 +503,7 @@ public class StyleDictionaryClass {
     public static let typographyHeadingsCommonH5XsSmTextDecoration = "none"
     public static let typographyHeadingsFixed01FontFamily = "Art Basel Headline"
     public static let typographyHeadingsFixed01FontSize = 18
-    public static let typographyHeadingsFixed01FontWeight = "Bold"
+    public static let typographyHeadingsFixed01FontWeight = 700
     public static let typographyHeadingsFixed01LetterSpacing = 4
     public static let typographyHeadingsFixed01LineHeight = 21
     public static let typographyHeadingsFixed01ParagraphIndent = 0
@@ -512,7 +512,7 @@ public class StyleDictionaryClass {
     public static let typographyHeadingsFixed01TextDecoration = "none"
     public static let typographyHeadingsFixed02FontFamily = "Art Basel Headline"
     public static let typographyHeadingsFixed02FontSize = 14
-    public static let typographyHeadingsFixed02FontWeight = "Bold"
+    public static let typographyHeadingsFixed02FontWeight = 700
     public static let typographyHeadingsFixed02LetterSpacing = 1
     public static let typographyHeadingsFixed02LineHeight = 18
     public static let typographyHeadingsFixed02ParagraphIndent = 0
@@ -521,7 +521,7 @@ public class StyleDictionaryClass {
     public static let typographyHeadingsFixed02TextDecoration = "none"
     public static let typographyHeadingsOtherH1LgFontFamily = "Art Basel Headline"
     public static let typographyHeadingsOtherH1LgFontSize = 40
-    public static let typographyHeadingsOtherH1LgFontWeight = "Bold"
+    public static let typographyHeadingsOtherH1LgFontWeight = 700
     public static let typographyHeadingsOtherH1LgLetterSpacing = 0
     public static let typographyHeadingsOtherH1LgLineHeight = 46
     public static let typographyHeadingsOtherH1LgParagraphIndent = 0
@@ -530,7 +530,7 @@ public class StyleDictionaryClass {
     public static let typographyHeadingsOtherH1LgTextDecoration = "none"
     public static let typographyHeadingsOtherH1MdFontFamily = "Art Basel Headline"
     public static let typographyHeadingsOtherH1MdFontSize = 36
-    public static let typographyHeadingsOtherH1MdFontWeight = "Bold"
+    public static let typographyHeadingsOtherH1MdFontWeight = 700
     public static let typographyHeadingsOtherH1MdLetterSpacing = 0
     public static let typographyHeadingsOtherH1MdLineHeight = 41
     public static let typographyHeadingsOtherH1MdParagraphIndent = 0
@@ -539,7 +539,7 @@ public class StyleDictionaryClass {
     public static let typographyHeadingsOtherH1MdTextDecoration = "none"
     public static let typographyHeadingsOtherH2LgFontFamily = "Art Basel Headline"
     public static let typographyHeadingsOtherH2LgFontSize = 36
-    public static let typographyHeadingsOtherH2LgFontWeight = "Bold"
+    public static let typographyHeadingsOtherH2LgFontWeight = 700
     public static let typographyHeadingsOtherH2LgLetterSpacing = 0
     public static let typographyHeadingsOtherH2LgLineHeight = 42
     public static let typographyHeadingsOtherH2LgParagraphIndent = 0
@@ -548,7 +548,7 @@ public class StyleDictionaryClass {
     public static let typographyHeadingsOtherH2LgTextDecoration = "none"
     public static let typographyHeadingsOtherH2MdFontFamily = "Art Basel Headline"
     public static let typographyHeadingsOtherH2MdFontSize = 30
-    public static let typographyHeadingsOtherH2MdFontWeight = "Bold"
+    public static let typographyHeadingsOtherH2MdFontWeight = 700
     public static let typographyHeadingsOtherH2MdLetterSpacing = 0
     public static let typographyHeadingsOtherH2MdLineHeight = 35
     public static let typographyHeadingsOtherH2MdParagraphIndent = 0
@@ -557,7 +557,7 @@ public class StyleDictionaryClass {
     public static let typographyHeadingsOtherH2MdTextDecoration = "none"
     public static let typographyHeadingsOtherH3LgFontFamily = "Art Basel Headline"
     public static let typographyHeadingsOtherH3LgFontSize = 30
-    public static let typographyHeadingsOtherH3LgFontWeight = "Bold"
+    public static let typographyHeadingsOtherH3LgFontWeight = 700
     public static let typographyHeadingsOtherH3LgLetterSpacing = 0
     public static let typographyHeadingsOtherH3LgLineHeight = 35
     public static let typographyHeadingsOtherH3LgParagraphIndent = 0
@@ -566,7 +566,7 @@ public class StyleDictionaryClass {
     public static let typographyHeadingsOtherH3LgTextDecoration = "none"
     public static let typographyHeadingsOtherH3MdFontFamily = "Art Basel Headline"
     public static let typographyHeadingsOtherH3MdFontSize = 26
-    public static let typographyHeadingsOtherH3MdFontWeight = "Bold"
+    public static let typographyHeadingsOtherH3MdFontWeight = 700
     public static let typographyHeadingsOtherH3MdLetterSpacing = 0
     public static let typographyHeadingsOtherH3MdLineHeight = 30
     public static let typographyHeadingsOtherH3MdParagraphIndent = 0
@@ -575,7 +575,7 @@ public class StyleDictionaryClass {
     public static let typographyHeadingsOtherH3MdTextDecoration = "none"
     public static let typographyHeadingsOtherH4LgFontFamily = "Art Basel Headline"
     public static let typographyHeadingsOtherH4LgFontSize = 24
-    public static let typographyHeadingsOtherH4LgFontWeight = "Bold"
+    public static let typographyHeadingsOtherH4LgFontWeight = 700
     public static let typographyHeadingsOtherH4LgLetterSpacing = 0
     public static let typographyHeadingsOtherH4LgLineHeight = 28
     public static let typographyHeadingsOtherH4LgParagraphIndent = 0
@@ -584,7 +584,7 @@ public class StyleDictionaryClass {
     public static let typographyHeadingsOtherH4LgTextDecoration = "none"
     public static let typographyHeadingsOtherH4MdFontFamily = "Art Basel Headline"
     public static let typographyHeadingsOtherH4MdFontSize = 24
-    public static let typographyHeadingsOtherH4MdFontWeight = "Bold"
+    public static let typographyHeadingsOtherH4MdFontWeight = 700
     public static let typographyHeadingsOtherH4MdLetterSpacing = 0
     public static let typographyHeadingsOtherH4MdLineHeight = 28
     public static let typographyHeadingsOtherH4MdParagraphIndent = 0
@@ -593,7 +593,7 @@ public class StyleDictionaryClass {
     public static let typographyHeadingsOtherH4MdTextDecoration = "none"
     public static let typographyHeadingsOtherH5LgFontFamily = "Art Basel Headline"
     public static let typographyHeadingsOtherH5LgFontSize = 18
-    public static let typographyHeadingsOtherH5LgFontWeight = "Bold"
+    public static let typographyHeadingsOtherH5LgFontWeight = 700
     public static let typographyHeadingsOtherH5LgLetterSpacing = 0
     public static let typographyHeadingsOtherH5LgLineHeight = 21
     public static let typographyHeadingsOtherH5LgParagraphIndent = 0
@@ -602,7 +602,7 @@ public class StyleDictionaryClass {
     public static let typographyHeadingsOtherH5LgTextDecoration = "none"
     public static let typographyHeadingsOtherH5MdFontFamily = "Art Basel Headline"
     public static let typographyHeadingsOtherH5MdFontSize = 18
-    public static let typographyHeadingsOtherH5MdFontWeight = "Bold"
+    public static let typographyHeadingsOtherH5MdFontWeight = 700
     public static let typographyHeadingsOtherH5MdLetterSpacing = 0
     public static let typographyHeadingsOtherH5MdLineHeight = 21
     public static let typographyHeadingsOtherH5MdParagraphIndent = 0
@@ -611,7 +611,7 @@ public class StyleDictionaryClass {
     public static let typographyHeadingsOtherH5MdTextDecoration = "none"
     public static let typographyLinksButtonMediumFontFamily = "Art Basel Text"
     public static let typographyLinksButtonMediumFontSize = 14
-    public static let typographyLinksButtonMediumFontWeight = "Bold"
+    public static let typographyLinksButtonMediumFontWeight = 700
     public static let typographyLinksButtonMediumLetterSpacing = 0
     public static let typographyLinksButtonMediumLineHeight = 18
     public static let typographyLinksButtonMediumParagraphIndent = 0
@@ -620,7 +620,7 @@ public class StyleDictionaryClass {
     public static let typographyLinksButtonMediumTextDecoration = "none"
     public static let typographyLinksExternalLinkMediumDefaultFontFamily = "Art Basel Text"
     public static let typographyLinksExternalLinkMediumDefaultFontSize = 16
-    public static let typographyLinksExternalLinkMediumDefaultFontWeight = "Bold"
+    public static let typographyLinksExternalLinkMediumDefaultFontWeight = 700
     public static let typographyLinksExternalLinkMediumDefaultLetterSpacing = 0
     public static let typographyLinksExternalLinkMediumDefaultLineHeight = 20
     public static let typographyLinksExternalLinkMediumDefaultParagraphIndent = 0
@@ -629,7 +629,7 @@ public class StyleDictionaryClass {
     public static let typographyLinksExternalLinkMediumDefaultTextDecoration = "none"
     public static let typographyLinksTextLinkMediumDefaultFontFamily = "Art Basel Text"
     public static let typographyLinksTextLinkMediumDefaultFontSize = 16
-    public static let typographyLinksTextLinkMediumDefaultFontWeight = "Bold"
+    public static let typographyLinksTextLinkMediumDefaultFontWeight = 700
     public static let typographyLinksTextLinkMediumDefaultLetterSpacing = 0
     public static let typographyLinksTextLinkMediumDefaultLineHeight = 20
     public static let typographyLinksTextLinkMediumDefaultParagraphIndent = 0
@@ -638,7 +638,7 @@ public class StyleDictionaryClass {
     public static let typographyLinksTextLinkMediumDefaultTextDecoration = "none"
     public static let typographyLinksTextLinkMediumHoverFontFamily = "Art Basel Text"
     public static let typographyLinksTextLinkMediumHoverFontSize = 16
-    public static let typographyLinksTextLinkMediumHoverFontWeight = "Bold"
+    public static let typographyLinksTextLinkMediumHoverFontWeight = 700
     public static let typographyLinksTextLinkMediumHoverLetterSpacing = 0
     public static let typographyLinksTextLinkMediumHoverLineHeight = 20
     public static let typographyLinksTextLinkMediumHoverParagraphIndent = 0
@@ -647,7 +647,7 @@ public class StyleDictionaryClass {
     public static let typographyLinksTextLinkMediumHoverTextDecoration = "underline"
     public static let typographyParagraphsCommonP1XlFontFamily = "Art Basel Text"
     public static let typographyParagraphsCommonP1XlFontSize = 30
-    public static let typographyParagraphsCommonP1XlFontWeight = "Regular"
+    public static let typographyParagraphsCommonP1XlFontWeight = 400
     public static let typographyParagraphsCommonP1XlLetterSpacing = 0
     public static let typographyParagraphsCommonP1XlLineHeight = 34
     public static let typographyParagraphsCommonP1XlParagraphIndent = 0
@@ -656,7 +656,7 @@ public class StyleDictionaryClass {
     public static let typographyParagraphsCommonP1XlTextDecoration = "none"
     public static let typographyParagraphsCommonP1XsSmFontFamily = "Art Basel Text"
     public static let typographyParagraphsCommonP1XsSmFontSize = 24
-    public static let typographyParagraphsCommonP1XsSmFontWeight = "Regular"
+    public static let typographyParagraphsCommonP1XsSmFontWeight = 400
     public static let typographyParagraphsCommonP1XsSmLetterSpacing = 0
     public static let typographyParagraphsCommonP1XsSmLineHeight = 28
     public static let typographyParagraphsCommonP1XsSmParagraphIndent = 0
@@ -665,7 +665,7 @@ public class StyleDictionaryClass {
     public static let typographyParagraphsCommonP1XsSmTextDecoration = "none"
     public static let typographyParagraphsCommonP2XlFontFamily = "Art Basel Text"
     public static let typographyParagraphsCommonP2XlFontSize = 24
-    public static let typographyParagraphsCommonP2XlFontWeight = "Regular"
+    public static let typographyParagraphsCommonP2XlFontWeight = 400
     public static let typographyParagraphsCommonP2XlLetterSpacing = 0
     public static let typographyParagraphsCommonP2XlLineHeight = 28
     public static let typographyParagraphsCommonP2XlParagraphIndent = 0
@@ -674,7 +674,7 @@ public class StyleDictionaryClass {
     public static let typographyParagraphsCommonP2XlTextDecoration = "none"
     public static let typographyParagraphsCommonP2XsSmFontFamily = "Art Basel Text"
     public static let typographyParagraphsCommonP2XsSmFontSize = 20
-    public static let typographyParagraphsCommonP2XsSmFontWeight = "Regular"
+    public static let typographyParagraphsCommonP2XsSmFontWeight = 400
     public static let typographyParagraphsCommonP2XsSmLetterSpacing = 0
     public static let typographyParagraphsCommonP2XsSmLineHeight = 23
     public static let typographyParagraphsCommonP2XsSmParagraphIndent = 0
@@ -683,7 +683,7 @@ public class StyleDictionaryClass {
     public static let typographyParagraphsCommonP2XsSmTextDecoration = "none"
     public static let typographyParagraphsOtherP1LgFontFamily = "Art Basel Text"
     public static let typographyParagraphsOtherP1LgFontSize = 30
-    public static let typographyParagraphsOtherP1LgFontWeight = "Regular"
+    public static let typographyParagraphsOtherP1LgFontWeight = 400
     public static let typographyParagraphsOtherP1LgLetterSpacing = 0
     public static let typographyParagraphsOtherP1LgLineHeight = 34
     public static let typographyParagraphsOtherP1LgParagraphIndent = 0
@@ -692,7 +692,7 @@ public class StyleDictionaryClass {
     public static let typographyParagraphsOtherP1LgTextDecoration = "none"
     public static let typographyParagraphsOtherP1MdFontFamily = "Art Basel Text"
     public static let typographyParagraphsOtherP1MdFontSize = 30
-    public static let typographyParagraphsOtherP1MdFontWeight = "Regular"
+    public static let typographyParagraphsOtherP1MdFontWeight = 400
     public static let typographyParagraphsOtherP1MdLetterSpacing = 0
     public static let typographyParagraphsOtherP1MdLineHeight = 34
     public static let typographyParagraphsOtherP1MdParagraphIndent = 0
@@ -701,7 +701,7 @@ public class StyleDictionaryClass {
     public static let typographyParagraphsOtherP1MdTextDecoration = "none"
     public static let typographyParagraphsOtherP2LgFontFamily = "Art Basel Text"
     public static let typographyParagraphsOtherP2LgFontSize = 24
-    public static let typographyParagraphsOtherP2LgFontWeight = "Regular"
+    public static let typographyParagraphsOtherP2LgFontWeight = 400
     public static let typographyParagraphsOtherP2LgLetterSpacing = 0
     public static let typographyParagraphsOtherP2LgLineHeight = 28
     public static let typographyParagraphsOtherP2LgParagraphIndent = 0
@@ -710,7 +710,7 @@ public class StyleDictionaryClass {
     public static let typographyParagraphsOtherP2LgTextDecoration = "none"
     public static let typographyParagraphsOtherP2MdFontFamily = "Art Basel Text"
     public static let typographyParagraphsOtherP2MdFontSize = 24
-    public static let typographyParagraphsOtherP2MdFontWeight = "Regular"
+    public static let typographyParagraphsOtherP2MdFontWeight = 400
     public static let typographyParagraphsOtherP2MdLetterSpacing = 0
     public static let typographyParagraphsOtherP2MdLineHeight = 28
     public static let typographyParagraphsOtherP2MdParagraphIndent = 0
@@ -719,7 +719,7 @@ public class StyleDictionaryClass {
     public static let typographyParagraphsOtherP2MdTextDecoration = "none"
     public static let typographySupportingLabelLargeFontFamily = "Art Basel Text"
     public static let typographySupportingLabelLargeFontSize = 14
-    public static let typographySupportingLabelLargeFontWeight = "Bold"
+    public static let typographySupportingLabelLargeFontWeight = 700
     public static let typographySupportingLabelLargeLetterSpacing = 0
     public static let typographySupportingLabelLargeLineHeight = 18
     public static let typographySupportingLabelLargeParagraphIndent = 0
@@ -728,7 +728,7 @@ public class StyleDictionaryClass {
     public static let typographySupportingLabelLargeTextDecoration = "none"
     public static let typographySupportingLabelMediumFontFamily = "Art Basel Text"
     public static let typographySupportingLabelMediumFontSize = 12
-    public static let typographySupportingLabelMediumFontWeight = "Bold"
+    public static let typographySupportingLabelMediumFontWeight = 700
     public static let typographySupportingLabelMediumLetterSpacing = 0
     public static let typographySupportingLabelMediumLineHeight = 16
     public static let typographySupportingLabelMediumParagraphIndent = 0
@@ -737,7 +737,7 @@ public class StyleDictionaryClass {
     public static let typographySupportingLabelMediumTextDecoration = "none"
     public static let typographySupportingLabelSmallFontFamily = "Art Basel Text"
     public static let typographySupportingLabelSmallFontSize = 12
-    public static let typographySupportingLabelSmallFontWeight = "Regular"
+    public static let typographySupportingLabelSmallFontWeight = 400
     public static let typographySupportingLabelSmallLetterSpacing = 0.3
     public static let typographySupportingLabelSmallLineHeight = 16
     public static let typographySupportingLabelSmallParagraphIndent = 0
@@ -746,7 +746,7 @@ public class StyleDictionaryClass {
     public static let typographySupportingLabelSmallTextDecoration = "none"
     public static let typographySupportingLabelXLargeFontFamily = "Art Basel Text"
     public static let typographySupportingLabelXLargeFontSize = 16
-    public static let typographySupportingLabelXLargeFontWeight = "Bold"
+    public static let typographySupportingLabelXLargeFontWeight = 700
     public static let typographySupportingLabelXLargeLetterSpacing = 0
     public static let typographySupportingLabelXLargeLineHeight = 22
     public static let typographySupportingLabelXLargeParagraphIndent = 0

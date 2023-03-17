@@ -1,7 +1,99 @@
 // const { registerTransforms } = require('@tokens-studio/sd-transforms');
 const StyleDictionary = require('style-dictionary');
-
 // registerTransforms(StyleDictionary);
+
+var Color           = require('tinycolor2')
+    _               = require('../../node_modules/style-dictionary/lib/utils/es6_'),
+    path            = require('path'),
+    convertToBase64 = require('../../node_modules/style-dictionary/lib/utils/convertToBase64'),
+    UNICODE_PATTERN = /&#x([^;]+);/g;
+
+const fontWeightMap = {
+  thin: 100,
+  extralight: 200,
+  ultralight: 200,
+  extraleicht: 200,
+  light: 300,
+  leicht: 300,
+  normal: 400,
+  regular: 400,
+  buch: 400,
+  medium: 500,
+  kraeftig: 500,
+  kräftig: 500,
+  semibold: 600,
+  demibold: 600,
+  halbfett: 600,
+  bold: 700,
+  dreiviertelfett: 700,
+  extrabold: 800,
+  ultabold: 800,
+  fett: 800,
+  black: 900,
+  heavy: 900,
+  super: 900,
+  extrafett: 900,
+};
+
+function getBasePxFontSize(options) {
+  return (options && options.basePxFontSize) || 16;
+}
+
+/**
+ * Helper: Transforms letter spacing % to em
+ */
+function transformFontWeights(value) {
+  const mapped = fontWeightMap[value.toLowerCase()];
+  return `${mapped}`;
+}
+
+/**
+ * Transform fontWeights to numerical
+ */
+StyleDictionary.registerTransform({
+  name: "type/fontWeight",
+  type: "value",
+  transitive: true,
+  matcher: (token) => token.type === "fontWeights",
+  transformer: (token) => parseInt(transformFontWeights(token.value)),
+});
+
+StyleDictionary.registerTransform({
+  name: 'fontSize/pxToRem',
+  type: 'value',
+  matcher: function(token) {
+    return (token.attributes.category === 'fontSize' || token.attributes.category === 'Typography' && token.type === 'fontSizes' || token.attributes.category === 'lineHeights' || token.attributes.category === 'Typography' && token.type === 'lineHeight' || token.attributes.category === 'spacing');
+  },
+  transformer: (token, options) => {
+    const baseFont = getBasePxFontSize(options);
+    const floatVal = parseFloat(token.value);
+
+    if (isNaN(floatVal)) {
+      throwSizeError(token.name, token.value, 'rem');
+    }
+
+    if (floatVal === 0) {
+      return '0';
+    }
+    return `${floatVal / baseFont}rem`;
+  }
+});
+
+
+StyleDictionary.registerTransform({
+  name: 'custom-ccolor/ColorSwiftUI',
+  type: 'value',
+  matcher: function(token) {
+    return token.attributes.category === 'Color';
+  },
+  transformer: function(token) {
+    const { r, g, b, a } = Color(token.value).toRgb();
+    const rFixed = (r / 255.0).toFixed(3);
+    const gFixed = (g / 255.0).toFixed(3);
+    const bFixed = (b / 255.0).toFixed(3);
+    return `UIColor(red: ${rFixed}, green: ${gFixed}, blue: ${bFixed}, alpha: ${a})`;
+  }
+});
 
 StyleDictionary.registerTransform({
   name: 'android-size/sp',
@@ -89,7 +181,7 @@ module.exports = {
   platforms: {
     js: {
       // transformGroup: 'js',
-      transforms: ["attribute/cti","name/cti/pascal","size/rem","remove/pindent/px","color/hex"],
+      transforms: ["attribute/cti","name/cti/pascal","fontSize/pxToRem","remove/pindent/px","color/hex", "type/fontWeight"],
       buildPath: 'build/js/',
       files: [
         {
@@ -100,7 +192,7 @@ module.exports = {
     },
     scss: {
       // transformGroup: "scss",
-      transforms: ["attribute/cti","name/cti/kebab","time/seconds","content/icon","font-family/quote","size/rem","color/css","font-weigth/quote","remove/letterspacing/%","remove/pindent/px"],
+      transforms: ["attribute/cti","name/cti/snake","time/seconds","content/icon","font-family/quote","fontSize/pxToRem","color/css","type/fontWeight","remove/letterspacing/%","remove/pindent/px"],
       buildPath: "build/scss/",
       files: [{
         destination: "_variables.scss",
@@ -108,7 +200,7 @@ module.exports = {
       }]
     },
     android: {
-      transforms: ["attribute/cti", "name/cti/kebab", "color/hex8android", "android-size/sp" , "size/remToDp"],
+      transforms: ["attribute/cti", "name/cti/snake", "color/hex8android", "android-size/sp" , "size/remToDp"],
       buildPath: "build/android/",
       files: [
         {
@@ -131,7 +223,7 @@ module.exports = {
     },
     css: {
       transformGroup: "css",
-      transforms: ["attribute/cti","name/cti/kebab","time/seconds","content/icon","size/rem","color/css","font-family/quote", "font-weigth/quote","remove/letterspacing/%","remove/pindent/px"],
+      transforms: ["attribute/cti","name/cti/snake","time/seconds","content/icon","size/rem","color/css","font-family/quote", "type/fontWeight","remove/letterspacing/%","remove/pindent/px"],
       buildPath: "build/",
       files: [
         {
@@ -142,7 +234,7 @@ module.exports = {
     },
     iosSwift: {
       // transformGroup: "ios-swift",
-      transforms: ["attribute/cti","name/cti/camel","color/UIColorSwift","content/swift/literal","asset/swift/literal","size/swift/remToCGFloat","font/swift/literal","font-family/quote","font-weigth/quote","text-decoration/quote","remove/pindent/px","remove/space/px","remove/letterspacing/%"],
+      transforms: ["attribute/cti","name/cti/camel","custom-ccolor/ColorSwiftUI","content/swift/literal","asset/swift/literal","size/swift/remToCGFloat","font/swift/literal","font-family/quote","type/fontWeight","text-decoration/quote","remove/pindent/px","remove/space/px","remove/letterspacing/%"],
       buildPath: "../swift/Sources/ab-design-tokens/",
       files: [{
         destination: "StyleDictionary+Class.swift",
