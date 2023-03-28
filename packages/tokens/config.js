@@ -84,7 +84,7 @@ StyleDictionary.registerTransform({
   name: 'custom-ccolor/ColorSwiftUI',
   type: 'value',
   matcher: function(token) {
-    return token.attributes.category === 'Color';
+    return (token.attributes.category === 'Color' || token.attributes.category === 'Shadows' && token.type === 'color');
   },
   transformer: function(token) {
     const { r, g, b, a } = Color(token.value).toRgb();
@@ -155,6 +155,17 @@ StyleDictionary.registerTransform({
 });
 
 StyleDictionary.registerTransform({
+  name: 'shadow/quote',
+  type: 'value',
+  matcher: function(token) {
+    return (token.attributes.category === 'Shadows' && token.type === 'type' || token.attributes.category === 'Typography' && token.type === 'textCase');
+  },
+  transformer: function(token) {
+    return `"${token.original.value}"`;
+  }
+});
+
+StyleDictionary.registerTransform({
   name: 'font-weigth/quote',
   type: 'value',
   matcher: function(token) {
@@ -201,7 +212,7 @@ module.exports = {
     },
     android: {
       transforms: ["attribute/cti", "name/cti/snake", "color/hex8android", "android-size/sp" , "size/remToDp"],
-      buildPath: "build/android/",
+      buildPath: "build/android/res/values/",
       files: [
         {
           filter: function(prop) {
@@ -234,7 +245,7 @@ module.exports = {
     },
     iosSwift: {
       // transformGroup: "ios-swift",
-      transforms: ["attribute/cti","name/cti/camel","custom-ccolor/ColorSwiftUI","content/swift/literal","asset/swift/literal","size/swift/remToCGFloat","font/swift/literal","font-family/quote","type/fontWeight","text-decoration/quote","remove/pindent/px","remove/space/px","remove/letterspacing/%"],
+      transforms: ["attribute/cti","name/cti/camel","custom-ccolor/ColorSwiftUI","content/swift/literal","asset/swift/literal","size/swift/remToCGFloat","font/swift/literal","font-family/quote","type/fontWeight","text-decoration/quote","remove/pindent/px","remove/space/px","remove/letterspacing/%", 'shadow/quote'],
       buildPath: "../swift/Sources/ab-design-tokens/",
       files: [{
         destination: "StyleDictionary+Class.swift",

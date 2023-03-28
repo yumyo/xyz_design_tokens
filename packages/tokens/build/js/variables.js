@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Fri, 17 Mar 2023 11:23:15 GMT
+ * Generated on Mon, 27 Mar 2023 17:46:25 GMT
  */
 
 export const ColorBasePrimaryMchBlack = "#1d2327";
