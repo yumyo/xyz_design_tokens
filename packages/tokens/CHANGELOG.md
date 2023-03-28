@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.0.11](https://bitbucket.org/mchappsrvcs/artbasel-design-tokens/compare/@mch-group/design-tokens@0.0.10...@mch-group/design-tokens@0.0.11) (2023-03-28)
+
+**Note:** Version bump only for package @mch-group/design-tokens
+
+
+
+
+
 ## [0.0.10](https://bitbucket.org/mchappsrvcs/artbasel-design-tokens/compare/@mch-group/design-tokens@0.0.9...@mch-group/design-tokens@0.0.10) (2023-03-28)
 
 
