@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.0.10](https://bitbucket.org/mchappsrvcs/artbasel-design-tokens/compare/@mch-group/design-tokens@0.0.9...@mch-group/design-tokens@0.0.10) (2023-03-28)
+
+
+### Bug Fixes
+
+* swift formats and android output ([926d53b](https://bitbucket.org/mchappsrvcs/artbasel-design-tokens/commits/926d53bdbf3b8625e2003f6988d98473efde1093))
+
+
+
+
+
 ## [0.0.9](https://bitbucket.org/mchappsrvcs/artbasel-design-tokens/compare/@mch-group/design-tokens@0.0.8...@mch-group/design-tokens@0.0.9) (2023-03-17)
 
 **Note:** Version bump only for package @mch-group/design-tokens

@@ -1,7 +1,7 @@
 {
   "name": "@mch-group/design-tokens",
   "description": "MCH Design Tokens",
-  "version": "0.0.9",
+  "version": "0.0.10",
   "bugs": "https://bitbucket.org/mchappsrvcs/artbasel-design-tokens/issues",
   "repository": {
     "type": "git",
