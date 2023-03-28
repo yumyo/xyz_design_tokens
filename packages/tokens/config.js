@@ -158,7 +158,7 @@ StyleDictionary.registerTransform({
   name: 'shadow/quote',
   type: 'value',
   matcher: function(token) {
-    return (token.attributes.category === 'Shadows' && token.type === 'type' || token.attributes.category === 'Typography' && token.type === 'textCase');
+    return (token.attributes.category === 'Shadows' && token.type === 'type' || token.attributes.category === 'Typography' && token.type === 'textCase' || token.attributes.category === 'textCase' && token.type === 'textCase');
   },
   transformer: function(token) {
     return `"${token.original.value}"`;

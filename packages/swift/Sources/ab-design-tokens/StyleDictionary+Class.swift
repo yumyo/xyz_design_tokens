@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Mon, 27 Mar 2023 17:46:25 GMT
+// Generated on Tue, 28 Mar 2023 12:21:45 GMT
 
 
 import UIKit
@@ -155,8 +155,8 @@ public class StyleDictionaryClass {
     public static let spacing8 = 8
     public static let spacing80 = 80
     public static let spacing96 = 96
-    public static let textCaseNone = none
-    public static let textCaseUppercase = uppercase
+    public static let textCaseNone = "none"
+    public static let textCaseUppercase = "uppercase"
     public static let textDecorationNone = "none"
     public static let textDecorationUnderline = "underline"
     public static let typographyBodyTextLargeFontFamily = "Art Basel Text"

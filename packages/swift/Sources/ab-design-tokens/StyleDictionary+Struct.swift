@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Mon, 27 Mar 2023 17:46:25 GMT
+// Generated on Tue, 28 Mar 2023 12:21:45 GMT
 
 
 import UIKit
@@ -155,8 +155,8 @@ internal struct StyleDictionaryStruct {
     internal static let spacing8 = 8
     internal static let spacing80 = 80
     internal static let spacing96 = 96
-    internal static let textCaseNone = none
-    internal static let textCaseUppercase = uppercase
+    internal static let textCaseNone = "none"
+    internal static let textCaseUppercase = "uppercase"
     internal static let textDecorationNone = "none"
     internal static let textDecorationUnderline = "underline"
     internal static let typographyBodyTextLargeFontFamily = "Art Basel Text"
