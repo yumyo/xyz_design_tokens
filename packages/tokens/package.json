@@ -26,8 +26,8 @@
   "scripts": {
     "build": "npm run clean && npm run convert && style-dictionary build --config config.js && npm run copy",
     "convert": "token-transformer tokens.json tokens/tokens-studio.json",
-    "clean": "rm -rf build/ tokens/tokens-studio.json",
-    "copy": "copyfiles ./AndroidManifest.xml ./build/android/"
+    "clean": "rm -rf build/android/src/main/res/values build/scss build/css build/js tokens/tokens-studio.json",
+    "copy": "copyfiles ./AndroidManifest.xml ./build/android/src/main/"
   },
   "devDependencies": {
     "@tokens-studio/sd-transforms": "^0.4.4",
