@@ -212,7 +212,7 @@ module.exports = {
     },
     android: {
       transforms: ["attribute/cti", "name/cti/snake", "color/hex8android", "android-size/sp" , "size/remToDp"],
-      buildPath: "build/android/res/values/",
+      buildPath: "build/android/src/main/res/values/",
       files: [
         {
           filter: function(prop) {
