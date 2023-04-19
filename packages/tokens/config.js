@@ -250,7 +250,7 @@ module.exports = {
     iosSwift: {
       // transformGroup: "ios-swift",
       transforms: ["attribute/cti","name/cti/camel","custom-ccolor/ColorSwiftUI","content/swift/literal","asset/swift/literal","size/swift/remToCGFloat","font/swift/literal","font-family/quote","type/fontWeight","text-decoration/quote","remove/pindent/px","remove/space/px","remove/letterspacing/%", 'shadow/quote'],
-      buildPath: "../swift/Sources/ab-design-tokens/",
+      buildPath: "../swift/Sources/artbaseldesigntokens/",
       prefix: "mch_",
       files: [{
         destination: "StyleDictionary+Class.swift",
