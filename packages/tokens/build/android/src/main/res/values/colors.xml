@@ -2,16 +2,16 @@
 
 <!--
   Do not edit directly
-  Generated on Fri, 14 Apr 2023 08:01:42 GMT
+  Generated on Wed, 19 Apr 2023 13:05:43 GMT
 -->
 <resources>
-  <color name="mch_color_base_primary_mch_black">#1d2327</color>
-  <color name="mch_color_base_primary_mch_white">#ffffff</color>
-  <color name="mch_color_base_secondary_mch_grey_500">#444749</color>
-  <color name="mch_color_base_secondary_mch_grey_400">#757575</color>
-  <color name="mch_color_base_secondary_mch_grey_300">#babfc4</color>
-  <color name="mch_color_base_secondary_mch_grey_200">#f0f2f5</color>
-  <color name="mch_color_base_secondary_mch_grey_100">#f7f7f7</color>
+  <color name="mch_color_base_primary_black">#1d2327</color>
+  <color name="mch_color_base_primary_white">#ffffff</color>
+  <color name="mch_color_base_secondary_grey_500">#444749</color>
+  <color name="mch_color_base_secondary_grey_400">#757575</color>
+  <color name="mch_color_base_secondary_grey_300">#babfc4</color>
+  <color name="mch_color_base_secondary_grey_200">#f0f2f5</color>
+  <color name="mch_color_base_secondary_grey_100">#f7f7f7</color>
   <color name="mch_color_extended_sub_brands_basel">#00a0cf</color>
   <color name="mch_color_extended_sub_brands_miami">#00c18b</color>
   <color name="mch_color_extended_sub_brands_hong_kong">#e0004d</color>
