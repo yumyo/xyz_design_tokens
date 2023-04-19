@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [0.1.0](https://bitbucket.org/mchappsrvcs/artbasel-design-tokens/compare/@mch-group/design-tokens@0.0.12...@mch-group/design-tokens@0.1.0) (2023-04-19)
+
+
+### Features
+
+* Add MCH prefix and update tokens ([d4d5944](https://bitbucket.org/mchappsrvcs/artbasel-design-tokens/commits/d4d59442c1c1a20998faa94af6b04012b30d2684))
+
+
+
+
+
 ## [0.0.12](https://bitbucket.org/mchappsrvcs/artbasel-design-tokens/compare/@mch-group/design-tokens@0.0.11...@mch-group/design-tokens@0.0.12) (2023-03-30)
 
 **Note:** Version bump only for package @mch-group/design-tokens
