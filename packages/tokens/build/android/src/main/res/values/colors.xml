@@ -2,48 +2,48 @@
 
 <!--
   Do not edit directly
-  Generated on Thu, 30 Mar 2023 14:04:50 GMT
+  Generated on Wed, 19 Apr 2023 13:05:43 GMT
 -->
 <resources>
-  <color name="color_base_primary_mch_black">#1d2327</color>
-  <color name="color_base_primary_mch_white">#ffffff</color>
-  <color name="color_base_secondary_mch_grey_500">#444749</color>
-  <color name="color_base_secondary_mch_grey_400">#757575</color>
-  <color name="color_base_secondary_mch_grey_300">#babfc4</color>
-  <color name="color_base_secondary_mch_grey_200">#f0f2f5</color>
-  <color name="color_base_secondary_mch_grey_100">#f7f7f7</color>
-  <color name="color_extended_sub_brands_basel">#00a0cf</color>
-  <color name="color_extended_sub_brands_miami">#00c18b</color>
-  <color name="color_extended_sub_brands_hong_kong">#e0004d</color>
-  <color name="color_extended_sub_brands_cities">#fa4616</color>
-  <color name="color_extended_sub_brands_paris">#1e1e1e</color>
-  <color name="color_extended_sectors_film">#f7dce9</color>
-  <color name="color_extended_sectors_parcour_public">#cddff2</color>
-  <color name="color_extended_sectors_unlimited_encounters_meridians">#dff0cb</color>
-  <color name="color_extended_sectors_discoveries_statements_positions">#d2d3ec</color>
-  <color name="color_extended_sectors_galleries">#cdcdcd</color>
-  <color name="color_extended_sectors_feature_nova">#d8eeeb</color>
-  <color name="color_extended_sectors_edition">#fff7bf</color>
-  <color name="color_extended_sectors_kabinett">#fcdfaa</color>
-  <color name="color_extended_sectors_insights_survey">#fcd5d7</color>
-  <color name="color_extended_sectors_dialogues">#dcdcdc</color>
-  <color name="color_extended_opacity_dark_overlay_30">#1d23274d</color>
-  <color name="color_extended_opacity_tile_overlay_5">#1d23270d</color>
-  <color name="color_extended_opacity_light_fill_hover_60">#f7f7f799</color>
-  <color name="color_extended_opacity_dark_fill_hover_50">#44474980</color>
-  <color name="color_extended_opacity_border_50">#babfc480</color>
-  <color name="color_extended_opacity_border_disabled_25">#babfc440</color>
-  <color name="color_extended_opacity_dark_carousel_background_95">#1d2327f2</color>
-  <color name="color_supporting_orange">#f19d00</color>
-  <color name="color_supporting_orange_text">#bf8519</color>
-  <color name="color_supporting_red">#ff003b</color>
-  <color name="color_supporting_red_text">#c9012f</color>
-  <color name="color_supporting_green">#019f53</color>
-  <color name="color_supporting_green_text">#018661</color>
-  <color name="color_supporting_status_light_error">#c9012f</color>
-  <color name="color_supporting_status_light_success">#018661</color>
-  <color name="color_supporting_status_dark_alert">#f4a32f</color>
-  <color name="color_supporting_status_dark_error">#ff979d</color>
-  <color name="color_supporting_status_dark_success">#7cc492</color>
+  <color name="mch_color_base_primary_black">#1d2327</color>
+  <color name="mch_color_base_primary_white">#ffffff</color>
+  <color name="mch_color_base_secondary_grey_500">#444749</color>
+  <color name="mch_color_base_secondary_grey_400">#757575</color>
+  <color name="mch_color_base_secondary_grey_300">#babfc4</color>
+  <color name="mch_color_base_secondary_grey_200">#f0f2f5</color>
+  <color name="mch_color_base_secondary_grey_100">#f7f7f7</color>
+  <color name="mch_color_extended_sub_brands_basel">#00a0cf</color>
+  <color name="mch_color_extended_sub_brands_miami">#00c18b</color>
+  <color name="mch_color_extended_sub_brands_hong_kong">#e0004d</color>
+  <color name="mch_color_extended_sub_brands_cities">#fa4616</color>
+  <color name="mch_color_extended_sub_brands_paris">#1e1e1e</color>
+  <color name="mch_color_extended_sectors_film">#f7dce9</color>
+  <color name="mch_color_extended_sectors_parcour_public">#cddff2</color>
+  <color name="mch_color_extended_sectors_unlimited_encounters_meridians">#dff0cb</color>
+  <color name="mch_color_extended_sectors_discoveries_statements_positions">#d2d3ec</color>
+  <color name="mch_color_extended_sectors_galleries">#cdcdcd</color>
+  <color name="mch_color_extended_sectors_feature_nova">#d8eeeb</color>
+  <color name="mch_color_extended_sectors_edition">#fff7bf</color>
+  <color name="mch_color_extended_sectors_kabinett">#fcdfaa</color>
+  <color name="mch_color_extended_sectors_insights_survey">#fcd5d7</color>
+  <color name="mch_color_extended_sectors_dialogues">#dcdcdc</color>
+  <color name="mch_color_extended_opacity_dark_overlay_30">#1d23274d</color>
+  <color name="mch_color_extended_opacity_tile_overlay_5">#1d23270d</color>
+  <color name="mch_color_extended_opacity_light_fill_hover_60">#f7f7f799</color>
+  <color name="mch_color_extended_opacity_dark_fill_hover_50">#44474980</color>
+  <color name="mch_color_extended_opacity_border_50">#babfc480</color>
+  <color name="mch_color_extended_opacity_border_disabled_25">#babfc440</color>
+  <color name="mch_color_extended_opacity_dark_carousel_background_95">#1d2327f2</color>
+  <color name="mch_color_supporting_orange">#f19d00</color>
+  <color name="mch_color_supporting_orange_text">#bf8519</color>
+  <color name="mch_color_supporting_red">#ff003b</color>
+  <color name="mch_color_supporting_red_text">#c9012f</color>
+  <color name="mch_color_supporting_green">#019f53</color>
+  <color name="mch_color_supporting_green_text">#018661</color>
+  <color name="mch_color_supporting_status_light_error">#c9012f</color>
+  <color name="mch_color_supporting_status_light_success">#018661</color>
+  <color name="mch_color_supporting_status_dark_alert">#f4a32f</color>
+  <color name="mch_color_supporting_status_dark_error">#ff979d</color>
+  <color name="mch_color_supporting_status_dark_success">#7cc492</color>
   
 </resources>
