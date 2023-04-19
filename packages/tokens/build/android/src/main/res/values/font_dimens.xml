@@ -2,23 +2,23 @@
 
 <!--
   Do not edit directly
-  Generated on Thu, 30 Mar 2023 14:04:50 GMT
+  Generated on Fri, 14 Apr 2023 08:01:42 GMT
 -->
 <resources>
-  <dimen name="font_size_0">12sp</dimen>
-  <dimen name="font_size_1">14sp</dimen>
-  <dimen name="font_size_2">16sp</dimen>
-  <dimen name="font_size_3">18sp</dimen>
-  <dimen name="font_size_4">20sp</dimen>
-  <dimen name="font_size_5">24sp</dimen>
-  <dimen name="font_size_6">26sp</dimen>
-  <dimen name="font_size_7">30sp</dimen>
-  <dimen name="font_size_8">32sp</dimen>
-  <dimen name="font_size_9">34sp</dimen>
-  <dimen name="font_size_10">36sp</dimen>
-  <dimen name="font_size_11">38sp</dimen>
-  <dimen name="font_size_12">40sp</dimen>
-  <dimen name="font_size_13">42sp</dimen>
-  <dimen name="font_size_14">48sp</dimen>
+  <dimen name="mch_font_size_0">12sp</dimen>
+  <dimen name="mch_font_size_1">14sp</dimen>
+  <dimen name="mch_font_size_2">16sp</dimen>
+  <dimen name="mch_font_size_3">18sp</dimen>
+  <dimen name="mch_font_size_4">20sp</dimen>
+  <dimen name="mch_font_size_5">24sp</dimen>
+  <dimen name="mch_font_size_6">26sp</dimen>
+  <dimen name="mch_font_size_7">30sp</dimen>
+  <dimen name="mch_font_size_8">32sp</dimen>
+  <dimen name="mch_font_size_9">34sp</dimen>
+  <dimen name="mch_font_size_10">36sp</dimen>
+  <dimen name="mch_font_size_11">38sp</dimen>
+  <dimen name="mch_font_size_12">40sp</dimen>
+  <dimen name="mch_font_size_13">42sp</dimen>
+  <dimen name="mch_font_size_14">48sp</dimen>
   
 </resources>

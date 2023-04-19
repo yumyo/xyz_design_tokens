@@ -192,8 +192,9 @@ module.exports = {
   platforms: {
     js: {
       // transformGroup: 'js',
-      transforms: ["attribute/cti","name/cti/pascal","fontSize/pxToRem","remove/pindent/px","color/hex", "type/fontWeight"],
+      transforms: ["attribute/cti","name/cti/snake","fontSize/pxToRem","remove/pindent/px","color/hex", "type/fontWeight"],
       buildPath: 'build/js/',
+      prefix: "mch_",
       files: [
         {
           destination: 'variables.js',
@@ -205,6 +206,7 @@ module.exports = {
       // transformGroup: "scss",
       transforms: ["attribute/cti","name/cti/snake","time/seconds","content/icon","font-family/quote","fontSize/pxToRem","color/css","type/fontWeight","remove/letterspacing/%","remove/pindent/px"],
       buildPath: "build/scss/",
+      prefix: "mch_",
       files: [{
         destination: "_variables.scss",
         format: "scss/variables"
@@ -213,6 +215,7 @@ module.exports = {
     android: {
       transforms: ["attribute/cti", "name/cti/snake", "color/hex8android", "android-size/sp" , "size/remToDp"],
       buildPath: "build/android/src/main/res/values/",
+      prefix: "mch_",
       files: [
         {
           filter: function(prop) {
@@ -234,8 +237,9 @@ module.exports = {
     },
     css: {
       transformGroup: "css",
-      transforms: ["attribute/cti","name/cti/snake","time/seconds","content/icon","size/rem","color/css","font-family/quote", "type/fontWeight","remove/letterspacing/%","remove/pindent/px"],
+      transforms: ["attribute/cti","name/cti/snake","time/seconds","content/icon","size/rem","color/css","fontSize/pxToRem","font-family/quote", "type/fontWeight","remove/letterspacing/%","remove/pindent/px"],
       buildPath: "build/",
+      prefix: "mch_",
       files: [
         {
           destination: "css/variables.css",
@@ -247,6 +251,7 @@ module.exports = {
       // transformGroup: "ios-swift",
       transforms: ["attribute/cti","name/cti/camel","custom-ccolor/ColorSwiftUI","content/swift/literal","asset/swift/literal","size/swift/remToCGFloat","font/swift/literal","font-family/quote","type/fontWeight","text-decoration/quote","remove/pindent/px","remove/space/px","remove/letterspacing/%", 'shadow/quote'],
       buildPath: "../swift/Sources/ab-design-tokens/",
+      prefix: "mch_",
       files: [{
         destination: "StyleDictionary+Class.swift",
         format: "ios-swift/class.swift",
