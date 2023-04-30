@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [0.2.0](https://bitbucket.org/mchappsrvcs/artbasel-design-tokens/compare/@mch-group/design-tokens@0.1.1...@mch-group/design-tokens@0.2.0) (2023-04-30)
+
+
+### Features
+
+* Add JS Tokens in typed module format ([79211d9](https://bitbucket.org/mchappsrvcs/artbasel-design-tokens/commits/79211d9bdcb69e079bcd25c46ae89c7cefba7003))
+
+
+
+
+
 ## [0.1.1](https://bitbucket.org/mchappsrvcs/artbasel-design-tokens/compare/@mch-group/design-tokens@0.1.0...@mch-group/design-tokens@0.1.1) (2023-04-19)
 
 **Note:** Version bump only for package @mch-group/design-tokens
