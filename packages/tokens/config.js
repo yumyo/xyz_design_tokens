@@ -197,9 +197,17 @@ module.exports = {
       prefix: "mch_",
       files: [
         {
-          destination: 'variables.js',
           format: 'javascript/es6',
+          destination: 'variables.js'
         },
+        {
+					format: 'javascript/module',
+					destination: 'variables-module.js'
+				},
+				{
+					format: 'typescript/module-declarations',
+					destination: 'variables-module.d.ts'
+				},
       ],
     },
     scss: {
