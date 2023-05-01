@@ -1,13 +1,13 @@
 /**
  * Do not edit directly
- * Generated on Mon, 01 May 2023 16:20:10 GMT
+ * Generated on Mon, 01 May 2023 16:33:16 GMT
  */
 
 module.exports = {
   "Color": {
     "Base": {
       "Primary": {
-        "MCH Black": {
+        "Black": {
           "value": "#1d2327",
           "type": "color",
           "filePath": "tokens/tokens-studio.json",
@@ -16,21 +16,21 @@ module.exports = {
             "value": "#1d2327",
             "type": "color"
           },
-          "name": "mch_color_base_primary_mch_black",
+          "name": "mch_color_base_primary_black",
           "attributes": {
             "category": "Color",
             "type": "Base",
             "item": "Primary",
-            "subitem": "MCH Black"
+            "subitem": "Black"
           },
           "path": [
             "Color",
             "Base",
             "Primary",
-            "MCH Black"
+            "Black"
           ]
         },
-        "MCH White": {
+        "White": {
           "value": "#ffffff",
           "type": "color",
           "filePath": "tokens/tokens-studio.json",
@@ -39,23 +39,23 @@ module.exports = {
             "value": "#ffffff",
             "type": "color"
           },
-          "name": "mch_color_base_primary_mch_white",
+          "name": "mch_color_base_primary_white",
           "attributes": {
             "category": "Color",
             "type": "Base",
             "item": "Primary",
-            "subitem": "MCH White"
+            "subitem": "White"
           },
           "path": [
             "Color",
             "Base",
             "Primary",
-            "MCH White"
+            "White"
           ]
         }
       },
       "Secondary": {
-        "MCH Grey 500": {
+        "Grey 500": {
           "value": "#444749",
           "type": "color",
           "filePath": "tokens/tokens-studio.json",
@@ -64,21 +64,21 @@ module.exports = {
             "value": "#444749",
             "type": "color"
           },
-          "name": "mch_color_base_secondary_mch_grey_500",
+          "name": "mch_color_base_secondary_grey_500",
           "attributes": {
             "category": "Color",
             "type": "Base",
             "item": "Secondary",
-            "subitem": "MCH Grey 500"
+            "subitem": "Grey 500"
           },
           "path": [
             "Color",
             "Base",
             "Secondary",
-            "MCH Grey 500"
+            "Grey 500"
           ]
         },
-        "MCH Grey 400": {
+        "Grey 400": {
           "value": "#757575",
           "type": "color",
           "filePath": "tokens/tokens-studio.json",
@@ -87,21 +87,21 @@ module.exports = {
             "value": "#757575",
             "type": "color"
           },
-          "name": "mch_color_base_secondary_mch_grey_400",
+          "name": "mch_color_base_secondary_grey_400",
           "attributes": {
             "category": "Color",
             "type": "Base",
             "item": "Secondary",
-            "subitem": "MCH Grey 400"
+            "subitem": "Grey 400"
           },
           "path": [
             "Color",
             "Base",
             "Secondary",
-            "MCH Grey 400"
+            "Grey 400"
           ]
         },
-        "MCH Grey 300": {
+        "Grey 300": {
           "value": "#babfc4",
           "type": "color",
           "filePath": "tokens/tokens-studio.json",
@@ -110,21 +110,21 @@ module.exports = {
             "value": "#babfc4",
             "type": "color"
           },
-          "name": "mch_color_base_secondary_mch_grey_300",
+          "name": "mch_color_base_secondary_grey_300",
           "attributes": {
             "category": "Color",
             "type": "Base",
             "item": "Secondary",
-            "subitem": "MCH Grey 300"
+            "subitem": "Grey 300"
           },
           "path": [
             "Color",
             "Base",
             "Secondary",
-            "MCH Grey 300"
+            "Grey 300"
           ]
         },
-        "MCH Grey 200": {
+        "Grey 200": {
           "value": "#f0f2f5",
           "type": "color",
           "filePath": "tokens/tokens-studio.json",
@@ -133,21 +133,21 @@ module.exports = {
             "value": "#f0f2f5",
             "type": "color"
           },
-          "name": "mch_color_base_secondary_mch_grey_200",
+          "name": "mch_color_base_secondary_grey_200",
           "attributes": {
             "category": "Color",
             "type": "Base",
             "item": "Secondary",
-            "subitem": "MCH Grey 200"
+            "subitem": "Grey 200"
           },
           "path": [
             "Color",
             "Base",
             "Secondary",
-            "MCH Grey 200"
+            "Grey 200"
           ]
         },
-        "MCH Grey 100": {
+        "Grey 100": {
           "value": "#f7f7f7",
           "type": "color",
           "filePath": "tokens/tokens-studio.json",
@@ -156,18 +156,18 @@ module.exports = {
             "value": "#f7f7f7",
             "type": "color"
           },
-          "name": "mch_color_base_secondary_mch_grey_100",
+          "name": "mch_color_base_secondary_grey_100",
           "attributes": {
             "category": "Color",
             "type": "Base",
             "item": "Secondary",
-            "subitem": "MCH Grey 100"
+            "subitem": "Grey 100"
           },
           "path": [
             "Color",
             "Base",
             "Secondary",
-            "MCH Grey 100"
+            "Grey 100"
           ]
         }
       }
@@ -337,7 +337,7 @@ module.exports = {
             "Parcour, Public"
           ]
         },
-        "Unlimited, Encounters, Meridians": {
+        "Unlimited,  Encounters, Meridians": {
           "value": "#dff0cb",
           "type": "color",
           "filePath": "tokens/tokens-studio.json",
@@ -351,16 +351,16 @@ module.exports = {
             "category": "Color",
             "type": "Extended",
             "item": "Sectors",
-            "subitem": "Unlimited, Encounters, Meridians"
+            "subitem": "Unlimited,  Encounters, Meridians"
           },
           "path": [
             "Color",
             "Extended",
             "Sectors",
-            "Unlimited, Encounters, Meridians"
+            "Unlimited,  Encounters, Meridians"
           ]
         },
-        "Discoveries, Statements, Positions": {
+        "Discoveries, Statements,  Positions": {
           "value": "#d2d3ec",
           "type": "color",
           "filePath": "tokens/tokens-studio.json",
@@ -374,13 +374,13 @@ module.exports = {
             "category": "Color",
             "type": "Extended",
             "item": "Sectors",
-            "subitem": "Discoveries, Statements, Positions"
+            "subitem": "Discoveries, Statements,  Positions"
           },
           "path": [
             "Color",
             "Extended",
             "Sectors",
-            "Discoveries, Statements, Positions"
+            "Discoveries, Statements,  Positions"
           ]
         },
         "Galleries": {

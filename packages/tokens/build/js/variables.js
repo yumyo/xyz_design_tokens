@@ -1,15 +1,15 @@
 /**
  * Do not edit directly
- * Generated on Mon, 01 May 2023 16:20:10 GMT
+ * Generated on Mon, 01 May 2023 16:33:16 GMT
  */
 
-export const mch_color_base_primary_mch_black = "#1d2327";
-export const mch_color_base_primary_mch_white = "#ffffff";
-export const mch_color_base_secondary_mch_grey_500 = "#444749";
-export const mch_color_base_secondary_mch_grey_400 = "#757575";
-export const mch_color_base_secondary_mch_grey_300 = "#babfc4";
-export const mch_color_base_secondary_mch_grey_200 = "#f0f2f5";
-export const mch_color_base_secondary_mch_grey_100 = "#f7f7f7";
+export const mch_color_base_primary_black = "#1d2327";
+export const mch_color_base_primary_white = "#ffffff";
+export const mch_color_base_secondary_grey_500 = "#444749";
+export const mch_color_base_secondary_grey_400 = "#757575";
+export const mch_color_base_secondary_grey_300 = "#babfc4";
+export const mch_color_base_secondary_grey_200 = "#f0f2f5";
+export const mch_color_base_secondary_grey_100 = "#f7f7f7";
 export const mch_color_extended_sub_brands_basel = "#00a0cf";
 export const mch_color_extended_sub_brands_miami = "#00c18b";
 export const mch_color_extended_sub_brands_hong_kong = "#e0004d";

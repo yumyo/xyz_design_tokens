@@ -4,19 +4,19 @@
 //
 
 // Do not edit directly
-// Generated on Mon, 01 May 2023 16:20:10 GMT
+// Generated on Mon, 01 May 2023 16:33:16 GMT
 
 
 import UIKit
 
 internal struct StyleDictionaryStruct {
-    internal static let mchColorBasePrimaryMchBlack = UIColor(red: 0.114, green: 0.137, blue: 0.153, alpha: 1)
-    internal static let mchColorBasePrimaryMchWhite = UIColor(red: 1.000, green: 1.000, blue: 1.000, alpha: 1)
-    internal static let mchColorBaseSecondaryMchGrey100 = UIColor(red: 0.969, green: 0.969, blue: 0.969, alpha: 1)
-    internal static let mchColorBaseSecondaryMchGrey200 = UIColor(red: 0.941, green: 0.949, blue: 0.961, alpha: 1)
-    internal static let mchColorBaseSecondaryMchGrey300 = UIColor(red: 0.729, green: 0.749, blue: 0.769, alpha: 1)
-    internal static let mchColorBaseSecondaryMchGrey400 = UIColor(red: 0.459, green: 0.459, blue: 0.459, alpha: 1)
-    internal static let mchColorBaseSecondaryMchGrey500 = UIColor(red: 0.267, green: 0.278, blue: 0.286, alpha: 1)
+    internal static let mchColorBasePrimaryBlack = UIColor(red: 0.114, green: 0.137, blue: 0.153, alpha: 1)
+    internal static let mchColorBasePrimaryWhite = UIColor(red: 1.000, green: 1.000, blue: 1.000, alpha: 1)
+    internal static let mchColorBaseSecondaryGrey100 = UIColor(red: 0.969, green: 0.969, blue: 0.969, alpha: 1)
+    internal static let mchColorBaseSecondaryGrey200 = UIColor(red: 0.941, green: 0.949, blue: 0.961, alpha: 1)
+    internal static let mchColorBaseSecondaryGrey300 = UIColor(red: 0.729, green: 0.749, blue: 0.769, alpha: 1)
+    internal static let mchColorBaseSecondaryGrey400 = UIColor(red: 0.459, green: 0.459, blue: 0.459, alpha: 1)
+    internal static let mchColorBaseSecondaryGrey500 = UIColor(red: 0.267, green: 0.278, blue: 0.286, alpha: 1)
     internal static let mchColorExtendedOpacityBorder50 = UIColor(red: 0.729, green: 0.749, blue: 0.769, alpha: 0.5019607843137255)
     internal static let mchColorExtendedOpacityBorderDisabled25 = UIColor(red: 0.729, green: 0.749, blue: 0.769, alpha: 0.25098039215686274)
     internal static let mchColorExtendedOpacityDarkCarouselBackground95 = UIColor(red: 0.114, green: 0.137, blue: 0.153, alpha: 0.9490196078431372)

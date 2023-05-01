@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Mon, 01 May 2023 16:20:10 GMT
+ * Generated on Mon, 01 May 2023 16:33:16 GMT
  */
 
 export default tokens;
@@ -25,15 +25,15 @@ declare const tokens: {
   "Color": {
     "Base": {
       "Primary": {
-        "MCH Black": DesignToken,
-        "MCH White": DesignToken
+        "Black": DesignToken,
+        "White": DesignToken
       },
       "Secondary": {
-        "MCH Grey 500": DesignToken,
-        "MCH Grey 400": DesignToken,
-        "MCH Grey 300": DesignToken,
-        "MCH Grey 200": DesignToken,
-        "MCH Grey 100": DesignToken
+        "Grey 500": DesignToken,
+        "Grey 400": DesignToken,
+        "Grey 300": DesignToken,
+        "Grey 200": DesignToken,
+        "Grey 100": DesignToken
       }
     },
     "Extended": {
@@ -47,8 +47,8 @@ declare const tokens: {
       "Sectors": {
         "Film": DesignToken,
         "Parcour, Public": DesignToken,
-        "Unlimited, Encounters, Meridians": DesignToken,
-        "Discoveries, Statements, Positions": DesignToken,
+        "Unlimited,  Encounters, Meridians": DesignToken,
+        "Discoveries, Statements,  Positions": DesignToken,
         "Galleries": DesignToken,
         "Feature, Nova": DesignToken,
         "Edition": DesignToken,
