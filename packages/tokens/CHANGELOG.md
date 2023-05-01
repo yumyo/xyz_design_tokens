@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [0.3.0](https://bitbucket.org/mchappsrvcs/artbasel-design-tokens/compare/@mch-group/design-tokens@0.2.0...@mch-group/design-tokens@0.3.0) (2023-05-01)
+
+
+### Features
+
+* Add opacity and max-width tokens ([2b1101b](https://bitbucket.org/mchappsrvcs/artbasel-design-tokens/commits/2b1101b4373046be4cbb995d63ab6316eaad8f2e))
+
+
+
+
+
 # [0.2.0](https://bitbucket.org/mchappsrvcs/artbasel-design-tokens/compare/@mch-group/design-tokens@0.1.1...@mch-group/design-tokens@0.2.0) (2023-04-30)
 
 
