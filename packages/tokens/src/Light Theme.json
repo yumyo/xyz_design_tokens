@@ -1,0 +1,136 @@
+{
+  "Semantic": {
+    "Color": {
+      "Surface Primary": {
+        "value": "{Color.Base.Primary.White}",
+        "type": "color"
+      },
+      "Surface Secondary": {
+        "value": "{Color.Base.Secondary.Grey 100}",
+        "type": "color"
+      },
+      "Surface Tertiary": {
+        "value": "{Color.Base.Secondary.Grey 200}",
+        "type": "color"
+      },
+      "Surface Quaternary": {
+        "value": "{Color.Base.Secondary.Grey 400}",
+        "type": "color"
+      },
+      "Surface Disabled": {
+        "value": "{Color.Base.Secondary.Grey 300}",
+        "type": "color"
+      },
+      "Surface Alert": {
+        "value": "{Color.Supporting.Status.Light.Alert}",
+        "type": "color"
+      },
+      "Surface Error": {
+        "value": "{Color.Supporting.Status.Light.Error}",
+        "type": "color"
+      },
+      "Surface Success": {
+        "value": "{Color.Supporting.Status.Light.Success}",
+        "type": "color"
+      },
+      "Text Primary": {
+        "value": "{Color.Base.Primary.Black}",
+        "type": "color"
+      },
+      "Text Secondary": {
+        "value": "{Color.Base.Secondary.Grey 500}",
+        "type": "color"
+      },
+      "Text Tertiary": {
+        "value": "{Color.Base.Secondary.Grey 400}",
+        "type": "color"
+      },
+      "Text Disabled": {
+        "value": "{Color.Base.Secondary.Grey 300}",
+        "type": "color"
+      },
+      "Text Alert": {
+        "value": "{Color.Supporting.Status.Light.Alert}",
+        "type": "color"
+      },
+      "Text Error": {
+        "value": "{Color.Supporting.Status.Light.Error}",
+        "type": "color"
+      },
+      "Text Success": {
+        "value": "{Color.Supporting.Status.Light.Success}",
+        "type": "color"
+      },
+      "Border Primary": {
+        "value": "{Color.Base.Primary.Black}",
+        "type": "color"
+      },
+      "Border Disabled": {
+        "value": "{Color.Base.Secondary.Grey 400}",
+        "type": "color"
+      },
+      "Border Alert": {
+        "value": "{Color.Supporting.Status.Light.Alert}",
+        "type": "color"
+      },
+      "Border Error": {
+        "value": "{Color.Supporting.Status.Light.Error}",
+        "type": "color"
+      },
+      "Border Success": {
+        "value": "{Color.Supporting.Status.Light.Success}",
+        "type": "color"
+      },
+      "Icon Primary": {
+        "value": "{Color.Base.Primary.Black}",
+        "type": "color"
+      },
+      "Icon Disabled": {
+        "value": "{Color.Base.Secondary.Grey 400}",
+        "type": "color"
+      },
+      "Icon Alert": {
+        "value": "{Color.Supporting.Status.Light.Alert}",
+        "type": "color"
+      },
+      "Icon Error": {
+        "value": "{Color.Supporting.Status.Light.Error}",
+        "type": "color"
+      },
+      "Icon Success": {
+        "value": "{Color.Supporting.Status.Light.Success}",
+        "type": "color"
+      }
+    },
+    "Opacity": {
+      "Dark Overlay": {
+        "value": "{opacity.opacity-30}",
+        "type": "opacity"
+      },
+      "Tile Overlay": {
+        "value": "{opacity.opacity-5}",
+        "type": "opacity"
+      },
+      "Light Fill Hover": {
+        "value": "{opacity.opacity-60}",
+        "type": "opacity"
+      },
+      "Dark Fill Hover": {
+        "value": "{opacity.opacity-50}",
+        "type": "opacity"
+      },
+      "Border": {
+        "value": "{opacity.opacity-50}",
+        "type": "opacity"
+      },
+      "Border Disabled": {
+        "value": "{opacity.opacity-25}",
+        "type": "opacity"
+      },
+      "Dark Carousel Background": {
+        "value": "{opacity.opacity-95}",
+        "type": "opacity"
+      }
+    }
+  }
+}

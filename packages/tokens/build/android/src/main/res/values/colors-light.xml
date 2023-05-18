@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--
+  Do not edit directly
+  Generated on Thu, 18 May 2023 10:46:00 GMT
+-->
+<resources>
+  <color name="mch_semantic_color_surface_primary">#ffffff</color>
+  <color name="mch_semantic_color_surface_secondary">#f7f7f7</color>
+  <color name="mch_semantic_color_surface_tertiary">#f0f2f5</color>
+  <color name="mch_semantic_color_surface_quaternary">#757575</color>
+  <color name="mch_semantic_color_surface_disabled">#babfc4</color>
+  <color name="mch_semantic_color_surface_alert">#9F6D00</color>
+  <color name="mch_semantic_color_surface_error">#c9012f</color>
+  <color name="mch_semantic_color_surface_success">#018661</color>
+  <color name="mch_semantic_color_text_primary">#1d2327</color>
+  <color name="mch_semantic_color_text_secondary">#444749</color>
+  <color name="mch_semantic_color_text_tertiary">#757575</color>
+  <color name="mch_semantic_color_text_disabled">#babfc4</color>
+  <color name="mch_semantic_color_text_alert">#9F6D00</color>
+  <color name="mch_semantic_color_text_error">#c9012f</color>
+  <color name="mch_semantic_color_text_success">#018661</color>
+  <color name="mch_semantic_color_border_primary">#1d2327</color>
+  <color name="mch_semantic_color_border_disabled">#757575</color>
+  <color name="mch_semantic_color_border_alert">#9F6D00</color>
+  <color name="mch_semantic_color_border_error">#c9012f</color>
+  <color name="mch_semantic_color_border_success">#018661</color>
+  <color name="mch_semantic_color_icon_primary">#1d2327</color>
+  <color name="mch_semantic_color_icon_disabled">#757575</color>
+  <color name="mch_semantic_color_icon_alert">#9F6D00</color>
+  <color name="mch_semantic_color_icon_error">#c9012f</color>
+  <color name="mch_semantic_color_icon_success">#018661</color>
+  
+</resources>

@@ -24,15 +24,15 @@
     "node": ">= 14.0.0"
   },
   "scripts": {
-    "build": "npm run clean && npm run convert && style-dictionary build --config config.js && npm run copy",
-    "convert": "token-transformer tokens.json tokens/tokens-studio.json",
-    "clean": "rm -rf build/android/src/main/res/values build/scss build/css build/js tokens/tokens-studio.json",
-    "copy": "copyfiles ./AndroidManifest.xml ./build/android/src/main/"
+    "build": "yarn clean && yarn unzip && node config.js && yarn copy",
+    "clean": "rm -rf ../swift/Sources/artbaseldesigntokens/ build/android/src/main/res/values build/scss build/css build/js",
+    "copy": "copyfiles ./AndroidManifest.xml ./build/android/src/main/",
+    "unzip": "nunzip src/tokens.zip -d ./src"
   },
   "devDependencies": {
-    "@tokens-studio/sd-transforms": "^0.4.4",
+    "@tokens-studio/sd-transforms": "^0.9.1",
     "copyfiles": "^2.4.1",
-    "style-dictionary": "^3.7.2",
-    "token-transformer": "^0.0.30"
+    "nunzip": "^1.0.6",
+    "style-dictionary": "^3.8.0"
   }
 }

@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Mon, 01 May 2023 16:33:16 GMT
+ * Generated on Thu, 18 May 2023 10:46:01 GMT
  */
 
 export default tokens;
@@ -55,15 +55,6 @@ declare const tokens: {
         "Kabinett": DesignToken,
         "Insights, Survey": DesignToken,
         "Dialogues": DesignToken
-      },
-      "Opacity": {
-        "Dark Overlay - 30%": DesignToken,
-        "Tile Overlay - 5%": DesignToken,
-        "Light Fill Hover - 60%": DesignToken,
-        "Dark Fill Hover - 50%": DesignToken,
-        "Border - 50%": DesignToken,
-        "Border Disabled - 25%": DesignToken,
-        "Dark Carousel Background - 95%": DesignToken
       }
     },
     "Supporting": {
@@ -76,7 +67,8 @@ declare const tokens: {
       "Status": {
         "Light": {
           "Error": DesignToken,
-          "Success": DesignToken
+          "Success": DesignToken,
+          "Alert": DesignToken
         },
         "Dark": {
           "Alert": DesignToken,
@@ -89,7 +81,7 @@ declare const tokens: {
   "Shadows": {
     "Outer Shadow": {
       "01": {
-        "0": {
+        "1": {
           "color": DesignToken,
           "type": DesignToken,
           "x": DesignToken,
@@ -97,7 +89,7 @@ declare const tokens: {
           "blur": DesignToken,
           "spread": DesignToken
         },
-        "1": {
+        "2": {
           "color": DesignToken,
           "type": DesignToken,
           "x": DesignToken,
@@ -107,7 +99,7 @@ declare const tokens: {
         }
       },
       "02": {
-        "0": {
+        "1": {
           "color": DesignToken,
           "type": DesignToken,
           "x": DesignToken,
@@ -115,7 +107,7 @@ declare const tokens: {
           "blur": DesignToken,
           "spread": DesignToken
         },
-        "1": {
+        "2": {
           "color": DesignToken,
           "type": DesignToken,
           "x": DesignToken,
@@ -125,7 +117,7 @@ declare const tokens: {
         }
       },
       "03": {
-        "0": {
+        "1": {
           "color": DesignToken,
           "type": DesignToken,
           "x": DesignToken,
@@ -133,7 +125,7 @@ declare const tokens: {
           "blur": DesignToken,
           "spread": DesignToken
         },
-        "1": {
+        "2": {
           "color": DesignToken,
           "type": DesignToken,
           "x": DesignToken,
@@ -145,21 +137,9 @@ declare const tokens: {
     }
   },
   "fontFamilies": {
-    "art-basel-headline": DesignToken,
-    "ivar-display": DesignToken,
-    "art-basel-text": DesignToken
+    "ivar-display": DesignToken
   },
   "lineHeights": {
-    "0": DesignToken,
-    "1": DesignToken,
-    "2": DesignToken,
-    "3": DesignToken,
-    "4": DesignToken,
-    "5": DesignToken,
-    "6": DesignToken,
-    "7": DesignToken,
-    "8": DesignToken,
-    "9": DesignToken,
     "10": DesignToken,
     "11": DesignToken,
     "12": DesignToken,
@@ -172,31 +152,18 @@ declare const tokens: {
     "19": DesignToken
   },
   "fontWeights": {
-    "art-basel-headline-0": DesignToken,
     "ivar-display-1": DesignToken,
     "ivar-display-2": DesignToken,
     "art-basel-text-3": DesignToken,
     "art-basel-text-4": DesignToken
   },
   "fontSize": {
-    "0": DesignToken,
-    "1": DesignToken,
-    "2": DesignToken,
-    "3": DesignToken,
-    "4": DesignToken,
-    "5": DesignToken,
-    "6": DesignToken,
-    "7": DesignToken,
-    "8": DesignToken,
-    "9": DesignToken,
-    "10": DesignToken,
     "11": DesignToken,
     "12": DesignToken,
     "13": DesignToken,
     "14": DesignToken
   },
   "letterSpacing": {
-    "0": DesignToken,
     "1": DesignToken,
     "2": DesignToken,
     "3": DesignToken,
@@ -204,7 +171,6 @@ declare const tokens: {
     "5": DesignToken
   },
   "paragraphSpacing": {
-    "0": DesignToken,
     "1": DesignToken
   },
   "Typography": {
@@ -976,16 +942,8 @@ declare const tokens: {
     "112": DesignToken,
     "120": DesignToken
   },
-  "textCase": {
-    "none": DesignToken,
-    "uppercase": DesignToken
-  },
   "textDecoration": {
-    "none": DesignToken,
     "underline": DesignToken
-  },
-  "paragraphIndent": {
-    "0": DesignToken
   },
   "opacity": {
     "opacity-10": DesignToken,
@@ -995,7 +953,7 @@ declare const tokens: {
     "opacity-30": DesignToken,
     "opacity-40": DesignToken,
     "opacity-50": DesignToken,
-    "opacity--60": DesignToken,
+    "opacity-60": DesignToken,
     "opacity-70": DesignToken,
     "opacity-80": DesignToken,
     "opacity-90": DesignToken,
