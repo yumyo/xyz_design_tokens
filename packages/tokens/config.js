@@ -8,6 +8,7 @@ var Color           = require('tinycolor2')
     convertToBase64 = require('../../node_modules/style-dictionary/lib/utils/convertToBase64'),
     UNICODE_PATTERN = /&#x([^;]+);/g;
 
+// TO REMOVE
 const fontWeightMap = {
   thin: 100,
   extralight: 200,
@@ -42,6 +43,7 @@ function getBasePxFontSize(options) {
 /**
  * Helper: Transforms letter spacing % to em
  */
+// TO REMOVE
 function transformFontWeights(value) {
   const mapped = fontWeightMap[value.toLowerCase()];
   return `${mapped}`;
@@ -50,6 +52,7 @@ function transformFontWeights(value) {
 /**
  * Transform fontWeights to numerical
  */
+// TO REMOVE
 StyleDictionary.registerTransform({
   name: 'ts/type/fontWeight',
   type: "value",
@@ -241,7 +244,11 @@ async function run() {
           },
           {
             filter: function(prop) {
-              return (prop.filePath === 'src/global.json' && prop.filePath !== 'src/App.json');
+              // if (prop.filePath === 'src/Dark-Theme.json') {
+              //   console.log('prop', prop)
+              // }
+              
+              return (prop.filePath === 'src/global.json' && prop.filePath !== 'src/App.json' && prop.filePath !== 'src/Dark-Theme.json' && prop.filePath !== 'src/Light-Theme.json');
             },
             format: 'javascript/es6',
             destination: `variables.js`
@@ -348,9 +355,29 @@ async function run() {
           destination: `StyleDictionary+Enum-${theme.name}.swift`,
           format: "ios-swift/enum.swift",
           className: "StyleDictionaryEnum",
+        },
+        {
+          filter: function(prop) {
+            return (prop.filePath !== 'src/global.json' && prop.filePath === 'src/App.json' && prop.type !== 'paragraphIndent' && prop.attributes.category !== 'paragraphIndent');
+          },
+          destination: `StyleDictionary+Enum-${theme.name}.swift`,
+          format: "ios-swift/enum.swift",
+          className: "StyleDictionaryEnum",
         },{
           filter: function(prop) {
             return (prop.filePath !== 'src/global.json' && prop.filePath !== 'src/App.json');
+          },
+          destination: `StyleDictionary+Struct-${theme.name}.swift`,
+          format: "ios-swift/any.swift",
+          className: "StyleDictionaryStruct",
+          options: {
+            imports: "SwiftUI",
+            objectType: "struct",
+            accessControl: "internal"
+          }
+        },{
+          filter: function(prop) {
+            return (prop.filePath !== 'src/global.json' && prop.filePath === 'src/App.json' && prop.type !== 'paragraphIndent' && prop.attributes.category !== 'paragraphIndent');
           },
           destination: `StyleDictionary+Struct-${theme.name}.swift`,
           format: "ios-swift/any.swift",

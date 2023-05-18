@@ -1,6 +1,6 @@
 
 //
-// StyleDictionary+Class-app.swift
+// StyleDictionary+Enum-app.swift
 //
 
 // Do not edit directly
@@ -9,7 +9,7 @@
 
 import UIKit
 
-public class StyleDictionaryClass {
+public enum StyleDictionaryEnum {
     public static let mchAppBodyBodyTextFontFamily = "Art Basel Text"
     public static let mchAppBodyBodyTextFontSize = 17
     public static let mchAppBodyBodyTextFontWeight = 400
