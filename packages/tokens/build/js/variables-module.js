@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Mon, 01 May 2023 16:33:16 GMT
+ * Generated on Thu, 18 May 2023 10:46:01 GMT
  */
 
 module.exports = {
@@ -10,7 +10,7 @@ module.exports = {
         "Black": {
           "value": "#1d2327",
           "type": "color",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
             "value": "#1d2327",
@@ -33,7 +33,7 @@ module.exports = {
         "White": {
           "value": "#ffffff",
           "type": "color",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
             "value": "#ffffff",
@@ -58,7 +58,7 @@ module.exports = {
         "Grey 500": {
           "value": "#444749",
           "type": "color",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
             "value": "#444749",
@@ -81,7 +81,7 @@ module.exports = {
         "Grey 400": {
           "value": "#757575",
           "type": "color",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
             "value": "#757575",
@@ -104,7 +104,7 @@ module.exports = {
         "Grey 300": {
           "value": "#babfc4",
           "type": "color",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
             "value": "#babfc4",
@@ -127,7 +127,7 @@ module.exports = {
         "Grey 200": {
           "value": "#f0f2f5",
           "type": "color",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
             "value": "#f0f2f5",
@@ -150,7 +150,7 @@ module.exports = {
         "Grey 100": {
           "value": "#f7f7f7",
           "type": "color",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
             "value": "#f7f7f7",
@@ -177,7 +177,7 @@ module.exports = {
         "Basel": {
           "value": "#00a0cf",
           "type": "color",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
             "value": "#00a0cf",
@@ -200,7 +200,7 @@ module.exports = {
         "Miami": {
           "value": "#00c18b",
           "type": "color",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
             "value": "#00c18b",
@@ -223,7 +223,7 @@ module.exports = {
         "Hong Kong": {
           "value": "#e0004d",
           "type": "color",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
             "value": "#e0004d",
@@ -246,7 +246,7 @@ module.exports = {
         "Cities": {
           "value": "#fa4616",
           "type": "color",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
             "value": "#fa4616",
@@ -269,7 +269,7 @@ module.exports = {
         "Paris+": {
           "value": "#1e1e1e",
           "type": "color",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
             "value": "#1e1e1e",
@@ -294,7 +294,7 @@ module.exports = {
         "Film": {
           "value": "#f7dce9",
           "type": "color",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
             "value": "#f7dce9",
@@ -317,7 +317,7 @@ module.exports = {
         "Parcour, Public": {
           "value": "#cddff2",
           "type": "color",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
             "value": "#cddff2",
@@ -340,7 +340,7 @@ module.exports = {
         "Unlimited,  Encounters, Meridians": {
           "value": "#dff0cb",
           "type": "color",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
             "value": "#dff0cb",
@@ -363,7 +363,7 @@ module.exports = {
         "Discoveries, Statements,  Positions": {
           "value": "#d2d3ec",
           "type": "color",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
             "value": "#d2d3ec",
@@ -386,7 +386,7 @@ module.exports = {
         "Galleries": {
           "value": "#cdcdcd",
           "type": "color",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
             "value": "#cdcdcd",
@@ -409,7 +409,7 @@ module.exports = {
         "Feature, Nova": {
           "value": "#d8eeeb",
           "type": "color",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
             "value": "#d8eeeb",
@@ -432,7 +432,7 @@ module.exports = {
         "Edition": {
           "value": "#fff7bf",
           "type": "color",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
             "value": "#fff7bf",
@@ -455,7 +455,7 @@ module.exports = {
         "Kabinett": {
           "value": "#fcdfaa",
           "type": "color",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
             "value": "#fcdfaa",
@@ -478,7 +478,7 @@ module.exports = {
         "Insights, Survey": {
           "value": "#fcd5d7",
           "type": "color",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
             "value": "#fcd5d7",
@@ -501,7 +501,7 @@ module.exports = {
         "Dialogues": {
           "value": "#dcdcdc",
           "type": "color",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
             "value": "#dcdcdc",
@@ -521,176 +521,13 @@ module.exports = {
             "Dialogues"
           ]
         }
-      },
-      "Opacity": {
-        "Dark Overlay - 30%": {
-          "value": "#1d23274d",
-          "type": "color",
-          "filePath": "tokens/tokens-studio.json",
-          "isSource": true,
-          "original": {
-            "value": "#1d23274d",
-            "type": "color"
-          },
-          "name": "mch_color_extended_opacity_dark_overlay_30",
-          "attributes": {
-            "category": "Color",
-            "type": "Extended",
-            "item": "Opacity",
-            "subitem": "Dark Overlay - 30%"
-          },
-          "path": [
-            "Color",
-            "Extended",
-            "Opacity",
-            "Dark Overlay - 30%"
-          ]
-        },
-        "Tile Overlay - 5%": {
-          "value": "#1d23270d",
-          "type": "color",
-          "filePath": "tokens/tokens-studio.json",
-          "isSource": true,
-          "original": {
-            "value": "#1d23270d",
-            "type": "color"
-          },
-          "name": "mch_color_extended_opacity_tile_overlay_5",
-          "attributes": {
-            "category": "Color",
-            "type": "Extended",
-            "item": "Opacity",
-            "subitem": "Tile Overlay - 5%"
-          },
-          "path": [
-            "Color",
-            "Extended",
-            "Opacity",
-            "Tile Overlay - 5%"
-          ]
-        },
-        "Light Fill Hover - 60%": {
-          "value": "#f7f7f799",
-          "type": "color",
-          "filePath": "tokens/tokens-studio.json",
-          "isSource": true,
-          "original": {
-            "value": "#f7f7f799",
-            "type": "color"
-          },
-          "name": "mch_color_extended_opacity_light_fill_hover_60",
-          "attributes": {
-            "category": "Color",
-            "type": "Extended",
-            "item": "Opacity",
-            "subitem": "Light Fill Hover - 60%"
-          },
-          "path": [
-            "Color",
-            "Extended",
-            "Opacity",
-            "Light Fill Hover - 60%"
-          ]
-        },
-        "Dark Fill Hover - 50%": {
-          "value": "#44474980",
-          "type": "color",
-          "filePath": "tokens/tokens-studio.json",
-          "isSource": true,
-          "original": {
-            "value": "#44474980",
-            "type": "color"
-          },
-          "name": "mch_color_extended_opacity_dark_fill_hover_50",
-          "attributes": {
-            "category": "Color",
-            "type": "Extended",
-            "item": "Opacity",
-            "subitem": "Dark Fill Hover - 50%"
-          },
-          "path": [
-            "Color",
-            "Extended",
-            "Opacity",
-            "Dark Fill Hover - 50%"
-          ]
-        },
-        "Border - 50%": {
-          "value": "#babfc480",
-          "type": "color",
-          "filePath": "tokens/tokens-studio.json",
-          "isSource": true,
-          "original": {
-            "value": "#babfc480",
-            "type": "color"
-          },
-          "name": "mch_color_extended_opacity_border_50",
-          "attributes": {
-            "category": "Color",
-            "type": "Extended",
-            "item": "Opacity",
-            "subitem": "Border - 50%"
-          },
-          "path": [
-            "Color",
-            "Extended",
-            "Opacity",
-            "Border - 50%"
-          ]
-        },
-        "Border Disabled - 25%": {
-          "value": "#babfc440",
-          "type": "color",
-          "filePath": "tokens/tokens-studio.json",
-          "isSource": true,
-          "original": {
-            "value": "#babfc440",
-            "type": "color"
-          },
-          "name": "mch_color_extended_opacity_border_disabled_25",
-          "attributes": {
-            "category": "Color",
-            "type": "Extended",
-            "item": "Opacity",
-            "subitem": "Border Disabled - 25%"
-          },
-          "path": [
-            "Color",
-            "Extended",
-            "Opacity",
-            "Border Disabled - 25%"
-          ]
-        },
-        "Dark Carousel Background - 95%": {
-          "value": "#1d2327f2",
-          "type": "color",
-          "filePath": "tokens/tokens-studio.json",
-          "isSource": true,
-          "original": {
-            "value": "#1d2327f2",
-            "type": "color"
-          },
-          "name": "mch_color_extended_opacity_dark_carousel_background_95",
-          "attributes": {
-            "category": "Color",
-            "type": "Extended",
-            "item": "Opacity",
-            "subitem": "Dark Carousel Background - 95%"
-          },
-          "path": [
-            "Color",
-            "Extended",
-            "Opacity",
-            "Dark Carousel Background - 95%"
-          ]
-        }
       }
     },
     "Supporting": {
       "Orange": {
         "value": "#f19d00",
         "type": "color",
-        "filePath": "tokens/tokens-studio.json",
+        "filePath": "src/global.json",
         "isSource": true,
         "original": {
           "value": "#f19d00",
@@ -711,7 +548,7 @@ module.exports = {
       "Orange - Text": {
         "value": "#bf8519",
         "type": "color",
-        "filePath": "tokens/tokens-studio.json",
+        "filePath": "src/global.json",
         "isSource": true,
         "original": {
           "value": "#bf8519",
@@ -732,7 +569,7 @@ module.exports = {
       "Red": {
         "value": "#ff003b",
         "type": "color",
-        "filePath": "tokens/tokens-studio.json",
+        "filePath": "src/global.json",
         "isSource": true,
         "original": {
           "value": "#ff003b",
@@ -753,7 +590,7 @@ module.exports = {
       "Red - Text": {
         "value": "#c9012f",
         "type": "color",
-        "filePath": "tokens/tokens-studio.json",
+        "filePath": "src/global.json",
         "isSource": true,
         "original": {
           "value": "#c9012f",
@@ -774,7 +611,7 @@ module.exports = {
       "Green": {
         "value": "#019f53",
         "type": "color",
-        "filePath": "tokens/tokens-studio.json",
+        "filePath": "src/global.json",
         "isSource": true,
         "original": {
           "value": "#019f53",
@@ -795,7 +632,7 @@ module.exports = {
       "Green - Text": {
         "value": "#018661",
         "type": "color",
-        "filePath": "tokens/tokens-studio.json",
+        "filePath": "src/global.json",
         "isSource": true,
         "original": {
           "value": "#018661",
@@ -818,7 +655,7 @@ module.exports = {
           "Error": {
             "value": "#c9012f",
             "type": "color",
-            "filePath": "tokens/tokens-studio.json",
+            "filePath": "src/global.json",
             "isSource": true,
             "original": {
               "value": "#c9012f",
@@ -843,7 +680,7 @@ module.exports = {
           "Success": {
             "value": "#018661",
             "type": "color",
-            "filePath": "tokens/tokens-studio.json",
+            "filePath": "src/global.json",
             "isSource": true,
             "original": {
               "value": "#018661",
@@ -864,13 +701,38 @@ module.exports = {
               "Light",
               "Success"
             ]
+          },
+          "Alert": {
+            "value": "#9F6D00",
+            "type": "color",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "#9F6D00",
+              "type": "color"
+            },
+            "name": "mch_color_supporting_status_light_alert",
+            "attributes": {
+              "category": "Color",
+              "type": "Supporting",
+              "item": "Status",
+              "subitem": "Light",
+              "state": "Alert"
+            },
+            "path": [
+              "Color",
+              "Supporting",
+              "Status",
+              "Light",
+              "Alert"
+            ]
           }
         },
         "Dark": {
           "Alert": {
             "value": "#f4a32f",
             "type": "color",
-            "filePath": "tokens/tokens-studio.json",
+            "filePath": "src/global.json",
             "isSource": true,
             "original": {
               "value": "#f4a32f",
@@ -895,7 +757,7 @@ module.exports = {
           "Error": {
             "value": "#ff979d",
             "type": "color",
-            "filePath": "tokens/tokens-studio.json",
+            "filePath": "src/global.json",
             "isSource": true,
             "original": {
               "value": "#ff979d",
@@ -920,7 +782,7 @@ module.exports = {
           "Success": {
             "value": "#7cc492",
             "type": "color",
-            "filePath": "tokens/tokens-studio.json",
+            "filePath": "src/global.json",
             "isSource": true,
             "original": {
               "value": "#7cc492",
@@ -949,163 +811,11 @@ module.exports = {
   "Shadows": {
     "Outer Shadow": {
       "01": {
-        "0": {
-          "color": {
-            "value": "#1d23271a",
-            "type": "color",
-            "filePath": "tokens/tokens-studio.json",
-            "isSource": true,
-            "original": {
-              "value": "#1d23271a",
-              "type": "color"
-            },
-            "name": "mch_shadows_outer_shadow_01_0_color",
-            "attributes": {
-              "category": "Shadows",
-              "type": "Outer Shadow",
-              "item": "01",
-              "subitem": "0",
-              "state": "color"
-            },
-            "path": [
-              "Shadows",
-              "Outer Shadow",
-              "01",
-              "0",
-              "color"
-            ]
-          },
-          "type": {
-            "value": "dropShadow",
-            "type": "type",
-            "filePath": "tokens/tokens-studio.json",
-            "isSource": true,
-            "original": {
-              "value": "dropShadow",
-              "type": "type"
-            },
-            "name": "mch_shadows_outer_shadow_01_0_type",
-            "attributes": {
-              "category": "Shadows",
-              "type": "Outer Shadow",
-              "item": "01",
-              "subitem": "0",
-              "state": "type"
-            },
-            "path": [
-              "Shadows",
-              "Outer Shadow",
-              "01",
-              "0",
-              "type"
-            ]
-          },
-          "x": {
-            "value": 0,
-            "type": "x",
-            "filePath": "tokens/tokens-studio.json",
-            "isSource": true,
-            "original": {
-              "value": 0,
-              "type": "x"
-            },
-            "name": "mch_shadows_outer_shadow_01_0_x",
-            "attributes": {
-              "category": "Shadows",
-              "type": "Outer Shadow",
-              "item": "01",
-              "subitem": "0",
-              "state": "x"
-            },
-            "path": [
-              "Shadows",
-              "Outer Shadow",
-              "01",
-              "0",
-              "x"
-            ]
-          },
-          "y": {
-            "value": 1,
-            "type": "y",
-            "filePath": "tokens/tokens-studio.json",
-            "isSource": true,
-            "original": {
-              "value": 1,
-              "type": "y"
-            },
-            "name": "mch_shadows_outer_shadow_01_0_y",
-            "attributes": {
-              "category": "Shadows",
-              "type": "Outer Shadow",
-              "item": "01",
-              "subitem": "0",
-              "state": "y"
-            },
-            "path": [
-              "Shadows",
-              "Outer Shadow",
-              "01",
-              "0",
-              "y"
-            ]
-          },
-          "blur": {
-            "value": 4,
-            "type": "blur",
-            "filePath": "tokens/tokens-studio.json",
-            "isSource": true,
-            "original": {
-              "value": 4,
-              "type": "blur"
-            },
-            "name": "mch_shadows_outer_shadow_01_0_blur",
-            "attributes": {
-              "category": "Shadows",
-              "type": "Outer Shadow",
-              "item": "01",
-              "subitem": "0",
-              "state": "blur"
-            },
-            "path": [
-              "Shadows",
-              "Outer Shadow",
-              "01",
-              "0",
-              "blur"
-            ]
-          },
-          "spread": {
-            "value": 0,
-            "type": "spread",
-            "filePath": "tokens/tokens-studio.json",
-            "isSource": true,
-            "original": {
-              "value": 0,
-              "type": "spread"
-            },
-            "name": "mch_shadows_outer_shadow_01_0_spread",
-            "attributes": {
-              "category": "Shadows",
-              "type": "Outer Shadow",
-              "item": "01",
-              "subitem": "0",
-              "state": "spread"
-            },
-            "path": [
-              "Shadows",
-              "Outer Shadow",
-              "01",
-              "0",
-              "spread"
-            ]
-          }
-        },
         "1": {
           "color": {
             "value": "#1d23271a",
             "type": "color",
-            "filePath": "tokens/tokens-studio.json",
+            "filePath": "src/global.json",
             "isSource": true,
             "original": {
               "value": "#1d23271a",
@@ -1129,12 +839,12 @@ module.exports = {
           },
           "type": {
             "value": "dropShadow",
-            "type": "type",
-            "filePath": "tokens/tokens-studio.json",
+            "type": "other",
+            "filePath": "src/global.json",
             "isSource": true,
             "original": {
               "value": "dropShadow",
-              "type": "type"
+              "type": "other"
             },
             "name": "mch_shadows_outer_shadow_01_1_type",
             "attributes": {
@@ -1153,13 +863,13 @@ module.exports = {
             ]
           },
           "x": {
-            "value": 0,
-            "type": "x",
-            "filePath": "tokens/tokens-studio.json",
+            "value": "0",
+            "type": "dimension",
+            "filePath": "src/global.json",
             "isSource": true,
             "original": {
-              "value": 0,
-              "type": "x"
+              "value": "0",
+              "type": "dimension"
             },
             "name": "mch_shadows_outer_shadow_01_1_x",
             "attributes": {
@@ -1178,13 +888,13 @@ module.exports = {
             ]
           },
           "y": {
-            "value": 0,
-            "type": "y",
-            "filePath": "tokens/tokens-studio.json",
+            "value": "1",
+            "type": "dimension",
+            "filePath": "src/global.json",
             "isSource": true,
             "original": {
-              "value": 0,
-              "type": "y"
+              "value": "1",
+              "type": "dimension"
             },
             "name": "mch_shadows_outer_shadow_01_1_y",
             "attributes": {
@@ -1203,13 +913,13 @@ module.exports = {
             ]
           },
           "blur": {
-            "value": 4,
-            "type": "blur",
-            "filePath": "tokens/tokens-studio.json",
+            "value": "4",
+            "type": "dimension",
+            "filePath": "src/global.json",
             "isSource": true,
             "original": {
-              "value": 4,
-              "type": "blur"
+              "value": "4",
+              "type": "dimension"
             },
             "name": "mch_shadows_outer_shadow_01_1_blur",
             "attributes": {
@@ -1228,13 +938,13 @@ module.exports = {
             ]
           },
           "spread": {
-            "value": 0,
-            "type": "spread",
-            "filePath": "tokens/tokens-studio.json",
+            "value": "0",
+            "type": "dimension",
+            "filePath": "src/global.json",
             "isSource": true,
             "original": {
-              "value": 0,
-              "type": "spread"
+              "value": "0",
+              "type": "dimension"
             },
             "name": "mch_shadows_outer_shadow_01_1_spread",
             "attributes": {
@@ -1252,166 +962,166 @@ module.exports = {
               "spread"
             ]
           }
-        }
-      },
-      "02": {
-        "0": {
+        },
+        "2": {
           "color": {
             "value": "#1d23271a",
             "type": "color",
-            "filePath": "tokens/tokens-studio.json",
+            "filePath": "src/global.json",
             "isSource": true,
             "original": {
               "value": "#1d23271a",
               "type": "color"
             },
-            "name": "mch_shadows_outer_shadow_02_0_color",
+            "name": "mch_shadows_outer_shadow_01_2_color",
             "attributes": {
               "category": "Shadows",
               "type": "Outer Shadow",
-              "item": "02",
-              "subitem": "0",
+              "item": "01",
+              "subitem": "2",
               "state": "color"
             },
             "path": [
               "Shadows",
               "Outer Shadow",
-              "02",
-              "0",
+              "01",
+              "2",
               "color"
             ]
           },
           "type": {
             "value": "dropShadow",
-            "type": "type",
-            "filePath": "tokens/tokens-studio.json",
+            "type": "other",
+            "filePath": "src/global.json",
             "isSource": true,
             "original": {
               "value": "dropShadow",
-              "type": "type"
+              "type": "other"
             },
-            "name": "mch_shadows_outer_shadow_02_0_type",
+            "name": "mch_shadows_outer_shadow_01_2_type",
             "attributes": {
               "category": "Shadows",
               "type": "Outer Shadow",
-              "item": "02",
-              "subitem": "0",
+              "item": "01",
+              "subitem": "2",
               "state": "type"
             },
             "path": [
               "Shadows",
               "Outer Shadow",
-              "02",
-              "0",
+              "01",
+              "2",
               "type"
             ]
           },
           "x": {
-            "value": 0,
-            "type": "x",
-            "filePath": "tokens/tokens-studio.json",
+            "value": "0",
+            "type": "dimension",
+            "filePath": "src/global.json",
             "isSource": true,
             "original": {
-              "value": 0,
-              "type": "x"
+              "value": "0",
+              "type": "dimension"
             },
-            "name": "mch_shadows_outer_shadow_02_0_x",
+            "name": "mch_shadows_outer_shadow_01_2_x",
             "attributes": {
               "category": "Shadows",
               "type": "Outer Shadow",
-              "item": "02",
-              "subitem": "0",
+              "item": "01",
+              "subitem": "2",
               "state": "x"
             },
             "path": [
               "Shadows",
               "Outer Shadow",
-              "02",
-              "0",
+              "01",
+              "2",
               "x"
             ]
           },
           "y": {
-            "value": 4,
-            "type": "y",
-            "filePath": "tokens/tokens-studio.json",
+            "value": "0",
+            "type": "dimension",
+            "filePath": "src/global.json",
             "isSource": true,
             "original": {
-              "value": 4,
-              "type": "y"
+              "value": "0",
+              "type": "dimension"
             },
-            "name": "mch_shadows_outer_shadow_02_0_y",
+            "name": "mch_shadows_outer_shadow_01_2_y",
             "attributes": {
               "category": "Shadows",
               "type": "Outer Shadow",
-              "item": "02",
-              "subitem": "0",
+              "item": "01",
+              "subitem": "2",
               "state": "y"
             },
             "path": [
               "Shadows",
               "Outer Shadow",
-              "02",
-              "0",
+              "01",
+              "2",
               "y"
             ]
           },
           "blur": {
-            "value": 8,
-            "type": "blur",
-            "filePath": "tokens/tokens-studio.json",
+            "value": "4",
+            "type": "dimension",
+            "filePath": "src/global.json",
             "isSource": true,
             "original": {
-              "value": 8,
-              "type": "blur"
+              "value": "4",
+              "type": "dimension"
             },
-            "name": "mch_shadows_outer_shadow_02_0_blur",
+            "name": "mch_shadows_outer_shadow_01_2_blur",
             "attributes": {
               "category": "Shadows",
               "type": "Outer Shadow",
-              "item": "02",
-              "subitem": "0",
+              "item": "01",
+              "subitem": "2",
               "state": "blur"
             },
             "path": [
               "Shadows",
               "Outer Shadow",
-              "02",
-              "0",
+              "01",
+              "2",
               "blur"
             ]
           },
           "spread": {
-            "value": 0,
-            "type": "spread",
-            "filePath": "tokens/tokens-studio.json",
+            "value": "0",
+            "type": "dimension",
+            "filePath": "src/global.json",
             "isSource": true,
             "original": {
-              "value": 0,
-              "type": "spread"
+              "value": "0",
+              "type": "dimension"
             },
-            "name": "mch_shadows_outer_shadow_02_0_spread",
+            "name": "mch_shadows_outer_shadow_01_2_spread",
             "attributes": {
               "category": "Shadows",
               "type": "Outer Shadow",
-              "item": "02",
-              "subitem": "0",
+              "item": "01",
+              "subitem": "2",
               "state": "spread"
             },
             "path": [
               "Shadows",
               "Outer Shadow",
-              "02",
-              "0",
+              "01",
+              "2",
               "spread"
             ]
           }
-        },
+        }
+      },
+      "02": {
         "1": {
           "color": {
             "value": "#1d23271a",
             "type": "color",
-            "filePath": "tokens/tokens-studio.json",
+            "filePath": "src/global.json",
             "isSource": true,
             "original": {
               "value": "#1d23271a",
@@ -1435,12 +1145,12 @@ module.exports = {
           },
           "type": {
             "value": "dropShadow",
-            "type": "type",
-            "filePath": "tokens/tokens-studio.json",
+            "type": "other",
+            "filePath": "src/global.json",
             "isSource": true,
             "original": {
               "value": "dropShadow",
-              "type": "type"
+              "type": "other"
             },
             "name": "mch_shadows_outer_shadow_02_1_type",
             "attributes": {
@@ -1459,13 +1169,13 @@ module.exports = {
             ]
           },
           "x": {
-            "value": 0,
-            "type": "x",
-            "filePath": "tokens/tokens-studio.json",
+            "value": "0",
+            "type": "dimension",
+            "filePath": "src/global.json",
             "isSource": true,
             "original": {
-              "value": 0,
-              "type": "x"
+              "value": "0",
+              "type": "dimension"
             },
             "name": "mch_shadows_outer_shadow_02_1_x",
             "attributes": {
@@ -1484,13 +1194,13 @@ module.exports = {
             ]
           },
           "y": {
-            "value": 2,
-            "type": "y",
-            "filePath": "tokens/tokens-studio.json",
+            "value": "4",
+            "type": "dimension",
+            "filePath": "src/global.json",
             "isSource": true,
             "original": {
-              "value": 2,
-              "type": "y"
+              "value": "4",
+              "type": "dimension"
             },
             "name": "mch_shadows_outer_shadow_02_1_y",
             "attributes": {
@@ -1509,13 +1219,13 @@ module.exports = {
             ]
           },
           "blur": {
-            "value": 4,
-            "type": "blur",
-            "filePath": "tokens/tokens-studio.json",
+            "value": "8",
+            "type": "dimension",
+            "filePath": "src/global.json",
             "isSource": true,
             "original": {
-              "value": 4,
-              "type": "blur"
+              "value": "8",
+              "type": "dimension"
             },
             "name": "mch_shadows_outer_shadow_02_1_blur",
             "attributes": {
@@ -1534,13 +1244,13 @@ module.exports = {
             ]
           },
           "spread": {
-            "value": 1,
-            "type": "spread",
-            "filePath": "tokens/tokens-studio.json",
+            "value": "0",
+            "type": "dimension",
+            "filePath": "src/global.json",
             "isSource": true,
             "original": {
-              "value": 1,
-              "type": "spread"
+              "value": "0",
+              "type": "dimension"
             },
             "name": "mch_shadows_outer_shadow_02_1_spread",
             "attributes": {
@@ -1558,166 +1268,166 @@ module.exports = {
               "spread"
             ]
           }
-        }
-      },
-      "03": {
-        "0": {
+        },
+        "2": {
           "color": {
             "value": "#1d23271a",
             "type": "color",
-            "filePath": "tokens/tokens-studio.json",
+            "filePath": "src/global.json",
             "isSource": true,
             "original": {
               "value": "#1d23271a",
               "type": "color"
             },
-            "name": "mch_shadows_outer_shadow_03_0_color",
+            "name": "mch_shadows_outer_shadow_02_2_color",
             "attributes": {
               "category": "Shadows",
               "type": "Outer Shadow",
-              "item": "03",
-              "subitem": "0",
+              "item": "02",
+              "subitem": "2",
               "state": "color"
             },
             "path": [
               "Shadows",
               "Outer Shadow",
-              "03",
-              "0",
+              "02",
+              "2",
               "color"
             ]
           },
           "type": {
             "value": "dropShadow",
-            "type": "type",
-            "filePath": "tokens/tokens-studio.json",
+            "type": "other",
+            "filePath": "src/global.json",
             "isSource": true,
             "original": {
               "value": "dropShadow",
-              "type": "type"
+              "type": "other"
             },
-            "name": "mch_shadows_outer_shadow_03_0_type",
+            "name": "mch_shadows_outer_shadow_02_2_type",
             "attributes": {
               "category": "Shadows",
               "type": "Outer Shadow",
-              "item": "03",
-              "subitem": "0",
+              "item": "02",
+              "subitem": "2",
               "state": "type"
             },
             "path": [
               "Shadows",
               "Outer Shadow",
-              "03",
-              "0",
+              "02",
+              "2",
               "type"
             ]
           },
           "x": {
-            "value": 0,
-            "type": "x",
-            "filePath": "tokens/tokens-studio.json",
+            "value": "0",
+            "type": "dimension",
+            "filePath": "src/global.json",
             "isSource": true,
             "original": {
-              "value": 0,
-              "type": "x"
+              "value": "0",
+              "type": "dimension"
             },
-            "name": "mch_shadows_outer_shadow_03_0_x",
+            "name": "mch_shadows_outer_shadow_02_2_x",
             "attributes": {
               "category": "Shadows",
               "type": "Outer Shadow",
-              "item": "03",
-              "subitem": "0",
+              "item": "02",
+              "subitem": "2",
               "state": "x"
             },
             "path": [
               "Shadows",
               "Outer Shadow",
-              "03",
-              "0",
+              "02",
+              "2",
               "x"
             ]
           },
           "y": {
-            "value": 8,
-            "type": "y",
-            "filePath": "tokens/tokens-studio.json",
+            "value": "2",
+            "type": "dimension",
+            "filePath": "src/global.json",
             "isSource": true,
             "original": {
-              "value": 8,
-              "type": "y"
+              "value": "2",
+              "type": "dimension"
             },
-            "name": "mch_shadows_outer_shadow_03_0_y",
+            "name": "mch_shadows_outer_shadow_02_2_y",
             "attributes": {
               "category": "Shadows",
               "type": "Outer Shadow",
-              "item": "03",
-              "subitem": "0",
+              "item": "02",
+              "subitem": "2",
               "state": "y"
             },
             "path": [
               "Shadows",
               "Outer Shadow",
-              "03",
-              "0",
+              "02",
+              "2",
               "y"
             ]
           },
           "blur": {
-            "value": 16,
-            "type": "blur",
-            "filePath": "tokens/tokens-studio.json",
+            "value": "4",
+            "type": "dimension",
+            "filePath": "src/global.json",
             "isSource": true,
             "original": {
-              "value": 16,
-              "type": "blur"
+              "value": "4",
+              "type": "dimension"
             },
-            "name": "mch_shadows_outer_shadow_03_0_blur",
+            "name": "mch_shadows_outer_shadow_02_2_blur",
             "attributes": {
               "category": "Shadows",
               "type": "Outer Shadow",
-              "item": "03",
-              "subitem": "0",
+              "item": "02",
+              "subitem": "2",
               "state": "blur"
             },
             "path": [
               "Shadows",
               "Outer Shadow",
-              "03",
-              "0",
+              "02",
+              "2",
               "blur"
             ]
           },
           "spread": {
-            "value": 0,
-            "type": "spread",
-            "filePath": "tokens/tokens-studio.json",
+            "value": "1",
+            "type": "dimension",
+            "filePath": "src/global.json",
             "isSource": true,
             "original": {
-              "value": 0,
-              "type": "spread"
+              "value": "1",
+              "type": "dimension"
             },
-            "name": "mch_shadows_outer_shadow_03_0_spread",
+            "name": "mch_shadows_outer_shadow_02_2_spread",
             "attributes": {
               "category": "Shadows",
               "type": "Outer Shadow",
-              "item": "03",
-              "subitem": "0",
+              "item": "02",
+              "subitem": "2",
               "state": "spread"
             },
             "path": [
               "Shadows",
               "Outer Shadow",
-              "03",
-              "0",
+              "02",
+              "2",
               "spread"
             ]
           }
-        },
+        }
+      },
+      "03": {
         "1": {
           "color": {
             "value": "#1d23271a",
             "type": "color",
-            "filePath": "tokens/tokens-studio.json",
+            "filePath": "src/global.json",
             "isSource": true,
             "original": {
               "value": "#1d23271a",
@@ -1741,12 +1451,12 @@ module.exports = {
           },
           "type": {
             "value": "dropShadow",
-            "type": "type",
-            "filePath": "tokens/tokens-studio.json",
+            "type": "other",
+            "filePath": "src/global.json",
             "isSource": true,
             "original": {
               "value": "dropShadow",
-              "type": "type"
+              "type": "other"
             },
             "name": "mch_shadows_outer_shadow_03_1_type",
             "attributes": {
@@ -1765,13 +1475,13 @@ module.exports = {
             ]
           },
           "x": {
-            "value": 0,
-            "type": "x",
-            "filePath": "tokens/tokens-studio.json",
+            "value": "0",
+            "type": "dimension",
+            "filePath": "src/global.json",
             "isSource": true,
             "original": {
-              "value": 0,
-              "type": "x"
+              "value": "0",
+              "type": "dimension"
             },
             "name": "mch_shadows_outer_shadow_03_1_x",
             "attributes": {
@@ -1790,13 +1500,13 @@ module.exports = {
             ]
           },
           "y": {
-            "value": 4,
-            "type": "y",
-            "filePath": "tokens/tokens-studio.json",
+            "value": "8",
+            "type": "dimension",
+            "filePath": "src/global.json",
             "isSource": true,
             "original": {
-              "value": 4,
-              "type": "y"
+              "value": "8",
+              "type": "dimension"
             },
             "name": "mch_shadows_outer_shadow_03_1_y",
             "attributes": {
@@ -1815,13 +1525,13 @@ module.exports = {
             ]
           },
           "blur": {
-            "value": 8,
-            "type": "blur",
-            "filePath": "tokens/tokens-studio.json",
+            "value": "16",
+            "type": "dimension",
+            "filePath": "src/global.json",
             "isSource": true,
             "original": {
-              "value": 8,
-              "type": "blur"
+              "value": "16",
+              "type": "dimension"
             },
             "name": "mch_shadows_outer_shadow_03_1_blur",
             "attributes": {
@@ -1840,13 +1550,13 @@ module.exports = {
             ]
           },
           "spread": {
-            "value": 2,
-            "type": "spread",
-            "filePath": "tokens/tokens-studio.json",
+            "value": "0",
+            "type": "dimension",
+            "filePath": "src/global.json",
             "isSource": true,
             "original": {
-              "value": 2,
-              "type": "spread"
+              "value": "0",
+              "type": "dimension"
             },
             "name": "mch_shadows_outer_shadow_03_1_spread",
             "attributes": {
@@ -1864,34 +1574,167 @@ module.exports = {
               "spread"
             ]
           }
+        },
+        "2": {
+          "color": {
+            "value": "#1d23271a",
+            "type": "color",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "#1d23271a",
+              "type": "color"
+            },
+            "name": "mch_shadows_outer_shadow_03_2_color",
+            "attributes": {
+              "category": "Shadows",
+              "type": "Outer Shadow",
+              "item": "03",
+              "subitem": "2",
+              "state": "color"
+            },
+            "path": [
+              "Shadows",
+              "Outer Shadow",
+              "03",
+              "2",
+              "color"
+            ]
+          },
+          "type": {
+            "value": "dropShadow",
+            "type": "other",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "dropShadow",
+              "type": "other"
+            },
+            "name": "mch_shadows_outer_shadow_03_2_type",
+            "attributes": {
+              "category": "Shadows",
+              "type": "Outer Shadow",
+              "item": "03",
+              "subitem": "2",
+              "state": "type"
+            },
+            "path": [
+              "Shadows",
+              "Outer Shadow",
+              "03",
+              "2",
+              "type"
+            ]
+          },
+          "x": {
+            "value": "0",
+            "type": "dimension",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "0",
+              "type": "dimension"
+            },
+            "name": "mch_shadows_outer_shadow_03_2_x",
+            "attributes": {
+              "category": "Shadows",
+              "type": "Outer Shadow",
+              "item": "03",
+              "subitem": "2",
+              "state": "x"
+            },
+            "path": [
+              "Shadows",
+              "Outer Shadow",
+              "03",
+              "2",
+              "x"
+            ]
+          },
+          "y": {
+            "value": "4",
+            "type": "dimension",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "4",
+              "type": "dimension"
+            },
+            "name": "mch_shadows_outer_shadow_03_2_y",
+            "attributes": {
+              "category": "Shadows",
+              "type": "Outer Shadow",
+              "item": "03",
+              "subitem": "2",
+              "state": "y"
+            },
+            "path": [
+              "Shadows",
+              "Outer Shadow",
+              "03",
+              "2",
+              "y"
+            ]
+          },
+          "blur": {
+            "value": "8",
+            "type": "dimension",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "8",
+              "type": "dimension"
+            },
+            "name": "mch_shadows_outer_shadow_03_2_blur",
+            "attributes": {
+              "category": "Shadows",
+              "type": "Outer Shadow",
+              "item": "03",
+              "subitem": "2",
+              "state": "blur"
+            },
+            "path": [
+              "Shadows",
+              "Outer Shadow",
+              "03",
+              "2",
+              "blur"
+            ]
+          },
+          "spread": {
+            "value": "2",
+            "type": "dimension",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "2",
+              "type": "dimension"
+            },
+            "name": "mch_shadows_outer_shadow_03_2_spread",
+            "attributes": {
+              "category": "Shadows",
+              "type": "Outer Shadow",
+              "item": "03",
+              "subitem": "2",
+              "state": "spread"
+            },
+            "path": [
+              "Shadows",
+              "Outer Shadow",
+              "03",
+              "2",
+              "spread"
+            ]
+          }
         }
       }
     }
   },
   "fontFamilies": {
-    "art-basel-headline": {
-      "value": "Art Basel Headline",
-      "type": "fontFamilies",
-      "filePath": "tokens/tokens-studio.json",
-      "isSource": true,
-      "original": {
-        "value": "Art Basel Headline",
-        "type": "fontFamilies"
-      },
-      "name": "mch_font_families_art_basel_headline",
-      "attributes": {
-        "category": "fontFamilies",
-        "type": "art-basel-headline"
-      },
-      "path": [
-        "fontFamilies",
-        "art-basel-headline"
-      ]
-    },
     "ivar-display": {
       "value": "Ivar Display",
       "type": "fontFamilies",
-      "filePath": "tokens/tokens-studio.json",
+      "filePath": "src/global.json",
       "isSource": true,
       "original": {
         "value": "Ivar Display",
@@ -1906,225 +1749,16 @@ module.exports = {
         "fontFamilies",
         "ivar-display"
       ]
-    },
-    "art-basel-text": {
-      "value": "Art Basel Text",
-      "type": "fontFamilies",
-      "filePath": "tokens/tokens-studio.json",
-      "isSource": true,
-      "original": {
-        "value": "Art Basel Text",
-        "type": "fontFamilies"
-      },
-      "name": "mch_font_families_art_basel_text",
-      "attributes": {
-        "category": "fontFamilies",
-        "type": "art-basel-text"
-      },
-      "path": [
-        "fontFamilies",
-        "art-basel-text"
-      ]
     }
   },
   "lineHeights": {
-    "0": {
-      "value": "2.1875rem",
-      "type": "lineHeights",
-      "filePath": "tokens/tokens-studio.json",
-      "isSource": true,
-      "original": {
-        "value": 35,
-        "type": "lineHeights"
-      },
-      "name": "mch_line_heights_0",
-      "attributes": {
-        "category": "lineHeights",
-        "type": "0"
-      },
-      "path": [
-        "lineHeights",
-        "0"
-      ]
-    },
-    "1": {
-      "value": "1.875rem",
-      "type": "lineHeights",
-      "filePath": "tokens/tokens-studio.json",
-      "isSource": true,
-      "original": {
-        "value": 30,
-        "type": "lineHeights"
-      },
-      "name": "mch_line_heights_1",
-      "attributes": {
-        "category": "lineHeights",
-        "type": "1"
-      },
-      "path": [
-        "lineHeights",
-        "1"
-      ]
-    },
-    "2": {
-      "value": "1.75rem",
-      "type": "lineHeights",
-      "filePath": "tokens/tokens-studio.json",
-      "isSource": true,
-      "original": {
-        "value": 28,
-        "type": "lineHeights"
-      },
-      "name": "mch_line_heights_2",
-      "attributes": {
-        "category": "lineHeights",
-        "type": "2"
-      },
-      "path": [
-        "lineHeights",
-        "2"
-      ]
-    },
-    "3": {
-      "value": "1.4375rem",
-      "type": "lineHeights",
-      "filePath": "tokens/tokens-studio.json",
-      "isSource": true,
-      "original": {
-        "value": 23,
-        "type": "lineHeights"
-      },
-      "name": "mch_line_heights_3",
-      "attributes": {
-        "category": "lineHeights",
-        "type": "3"
-      },
-      "path": [
-        "lineHeights",
-        "3"
-      ]
-    },
-    "4": {
-      "value": "1.3125rem",
-      "type": "lineHeights",
-      "filePath": "tokens/tokens-studio.json",
-      "isSource": true,
-      "original": {
-        "value": 21,
-        "type": "lineHeights"
-      },
-      "name": "mch_line_heights_4",
-      "attributes": {
-        "category": "lineHeights",
-        "type": "4"
-      },
-      "path": [
-        "lineHeights",
-        "4"
-      ]
-    },
-    "5": {
-      "value": "3rem",
-      "type": "lineHeights",
-      "filePath": "tokens/tokens-studio.json",
-      "isSource": true,
-      "original": {
-        "value": 48,
-        "type": "lineHeights"
-      },
-      "name": "mch_line_heights_5",
-      "attributes": {
-        "category": "lineHeights",
-        "type": "5"
-      },
-      "path": [
-        "lineHeights",
-        "5"
-      ]
-    },
-    "6": {
-      "value": "2.625rem",
-      "type": "lineHeights",
-      "filePath": "tokens/tokens-studio.json",
-      "isSource": true,
-      "original": {
-        "value": 42,
-        "type": "lineHeights"
-      },
-      "name": "mch_line_heights_6",
-      "attributes": {
-        "category": "lineHeights",
-        "type": "6"
-      },
-      "path": [
-        "lineHeights",
-        "6"
-      ]
-    },
-    "7": {
-      "value": "2.125rem",
-      "type": "lineHeights",
-      "filePath": "tokens/tokens-studio.json",
-      "isSource": true,
-      "original": {
-        "value": 34,
-        "type": "lineHeights"
-      },
-      "name": "mch_line_heights_7",
-      "attributes": {
-        "category": "lineHeights",
-        "type": "7"
-      },
-      "path": [
-        "lineHeights",
-        "7"
-      ]
-    },
-    "8": {
-      "value": "3.375rem",
-      "type": "lineHeights",
-      "filePath": "tokens/tokens-studio.json",
-      "isSource": true,
-      "original": {
-        "value": 54,
-        "type": "lineHeights"
-      },
-      "name": "mch_line_heights_8",
-      "attributes": {
-        "category": "lineHeights",
-        "type": "8"
-      },
-      "path": [
-        "lineHeights",
-        "8"
-      ]
-    },
-    "9": {
-      "value": "3.125rem",
-      "type": "lineHeights",
-      "filePath": "tokens/tokens-studio.json",
-      "isSource": true,
-      "original": {
-        "value": 50,
-        "type": "lineHeights"
-      },
-      "name": "mch_line_heights_9",
-      "attributes": {
-        "category": "lineHeights",
-        "type": "9"
-      },
-      "path": [
-        "lineHeights",
-        "9"
-      ]
-    },
     "10": {
       "value": "2rem",
       "type": "lineHeights",
-      "filePath": "tokens/tokens-studio.json",
+      "filePath": "src/global.json",
       "isSource": true,
       "original": {
-        "value": 32,
+        "value": "32",
         "type": "lineHeights"
       },
       "name": "mch_line_heights_10",
@@ -2140,10 +1774,10 @@ module.exports = {
     "11": {
       "value": "1.5rem",
       "type": "lineHeights",
-      "filePath": "tokens/tokens-studio.json",
+      "filePath": "src/global.json",
       "isSource": true,
       "original": {
-        "value": 24,
+        "value": "24",
         "type": "lineHeights"
       },
       "name": "mch_line_heights_11",
@@ -2159,10 +1793,10 @@ module.exports = {
     "12": {
       "value": "1.25rem",
       "type": "lineHeights",
-      "filePath": "tokens/tokens-studio.json",
+      "filePath": "src/global.json",
       "isSource": true,
       "original": {
-        "value": 20,
+        "value": "20",
         "type": "lineHeights"
       },
       "name": "mch_line_heights_12",
@@ -2178,10 +1812,10 @@ module.exports = {
     "13": {
       "value": "4rem",
       "type": "lineHeights",
-      "filePath": "tokens/tokens-studio.json",
+      "filePath": "src/global.json",
       "isSource": true,
       "original": {
-        "value": 64,
+        "value": "64",
         "type": "lineHeights"
       },
       "name": "mch_line_heights_13",
@@ -2197,10 +1831,10 @@ module.exports = {
     "14": {
       "value": "2.5625rem",
       "type": "lineHeights",
-      "filePath": "tokens/tokens-studio.json",
+      "filePath": "src/global.json",
       "isSource": true,
       "original": {
-        "value": 41,
+        "value": "41",
         "type": "lineHeights"
       },
       "name": "mch_line_heights_14",
@@ -2216,10 +1850,10 @@ module.exports = {
     "15": {
       "value": "2.875rem",
       "type": "lineHeights",
-      "filePath": "tokens/tokens-studio.json",
+      "filePath": "src/global.json",
       "isSource": true,
       "original": {
-        "value": 46,
+        "value": "46",
         "type": "lineHeights"
       },
       "name": "mch_line_heights_15",
@@ -2235,10 +1869,10 @@ module.exports = {
     "16": {
       "value": "1.125rem",
       "type": "lineHeights",
-      "filePath": "tokens/tokens-studio.json",
+      "filePath": "src/global.json",
       "isSource": true,
       "original": {
-        "value": 18,
+        "value": "18",
         "type": "lineHeights"
       },
       "name": "mch_line_heights_16",
@@ -2254,10 +1888,10 @@ module.exports = {
     "17": {
       "value": "1.375rem",
       "type": "lineHeights",
-      "filePath": "tokens/tokens-studio.json",
+      "filePath": "src/global.json",
       "isSource": true,
       "original": {
-        "value": 22,
+        "value": "22",
         "type": "lineHeights"
       },
       "name": "mch_line_heights_17",
@@ -2273,10 +1907,10 @@ module.exports = {
     "18": {
       "value": "1rem",
       "type": "lineHeights",
-      "filePath": "tokens/tokens-studio.json",
+      "filePath": "src/global.json",
       "isSource": true,
       "original": {
-        "value": 16,
+        "value": "16",
         "type": "lineHeights"
       },
       "name": "mch_line_heights_18",
@@ -2292,10 +1926,10 @@ module.exports = {
     "19": {
       "value": "2.25rem",
       "type": "lineHeights",
-      "filePath": "tokens/tokens-studio.json",
+      "filePath": "src/global.json",
       "isSource": true,
       "original": {
-        "value": 36,
+        "value": "36",
         "type": "lineHeights"
       },
       "name": "mch_line_heights_19",
@@ -2310,29 +1944,10 @@ module.exports = {
     }
   },
   "fontWeights": {
-    "art-basel-headline-0": {
-      "value": 700,
-      "type": "fontWeights",
-      "filePath": "tokens/tokens-studio.json",
-      "isSource": true,
-      "original": {
-        "value": "Bold",
-        "type": "fontWeights"
-      },
-      "name": "mch_font_weights_art_basel_headline_0",
-      "attributes": {
-        "category": "fontWeights",
-        "type": "art-basel-headline-0"
-      },
-      "path": [
-        "fontWeights",
-        "art-basel-headline-0"
-      ]
-    },
     "ivar-display-1": {
-      "value": 400,
+      "value": "400",
       "type": "fontWeights",
-      "filePath": "tokens/tokens-studio.json",
+      "filePath": "src/global.json",
       "isSource": true,
       "original": {
         "value": "Regular",
@@ -2349,9 +1964,9 @@ module.exports = {
       ]
     },
     "ivar-display-2": {
-      "value": 600,
+      "value": "600",
       "type": "fontWeights",
-      "filePath": "tokens/tokens-studio.json",
+      "filePath": "src/global.json",
       "isSource": true,
       "original": {
         "value": "SemiBold",
@@ -2368,9 +1983,9 @@ module.exports = {
       ]
     },
     "art-basel-text-3": {
-      "value": 400,
+      "value": "400",
       "type": "fontWeights",
-      "filePath": "tokens/tokens-studio.json",
+      "filePath": "src/global.json",
       "isSource": true,
       "original": {
         "value": "Regular",
@@ -2387,9 +2002,9 @@ module.exports = {
       ]
     },
     "art-basel-text-4": {
-      "value": 700,
+      "value": "700",
       "type": "fontWeights",
-      "filePath": "tokens/tokens-studio.json",
+      "filePath": "src/global.json",
       "isSource": true,
       "original": {
         "value": "Bold",
@@ -2407,222 +2022,13 @@ module.exports = {
     }
   },
   "fontSize": {
-    "0": {
-      "value": "0.75rem",
-      "type": "fontSizes",
-      "filePath": "tokens/tokens-studio.json",
-      "isSource": true,
-      "original": {
-        "value": 12,
-        "type": "fontSizes"
-      },
-      "name": "mch_font_size_0",
-      "attributes": {
-        "category": "fontSize",
-        "type": "0"
-      },
-      "path": [
-        "fontSize",
-        "0"
-      ]
-    },
-    "1": {
-      "value": "0.875rem",
-      "type": "fontSizes",
-      "filePath": "tokens/tokens-studio.json",
-      "isSource": true,
-      "original": {
-        "value": 14,
-        "type": "fontSizes"
-      },
-      "name": "mch_font_size_1",
-      "attributes": {
-        "category": "fontSize",
-        "type": "1"
-      },
-      "path": [
-        "fontSize",
-        "1"
-      ]
-    },
-    "2": {
-      "value": "1rem",
-      "type": "fontSizes",
-      "filePath": "tokens/tokens-studio.json",
-      "isSource": true,
-      "original": {
-        "value": 16,
-        "type": "fontSizes"
-      },
-      "name": "mch_font_size_2",
-      "attributes": {
-        "category": "fontSize",
-        "type": "2"
-      },
-      "path": [
-        "fontSize",
-        "2"
-      ]
-    },
-    "3": {
-      "value": "1.125rem",
-      "type": "fontSizes",
-      "filePath": "tokens/tokens-studio.json",
-      "isSource": true,
-      "original": {
-        "value": 18,
-        "type": "fontSizes"
-      },
-      "name": "mch_font_size_3",
-      "attributes": {
-        "category": "fontSize",
-        "type": "3"
-      },
-      "path": [
-        "fontSize",
-        "3"
-      ]
-    },
-    "4": {
-      "value": "1.25rem",
-      "type": "fontSizes",
-      "filePath": "tokens/tokens-studio.json",
-      "isSource": true,
-      "original": {
-        "value": 20,
-        "type": "fontSizes"
-      },
-      "name": "mch_font_size_4",
-      "attributes": {
-        "category": "fontSize",
-        "type": "4"
-      },
-      "path": [
-        "fontSize",
-        "4"
-      ]
-    },
-    "5": {
-      "value": "1.5rem",
-      "type": "fontSizes",
-      "filePath": "tokens/tokens-studio.json",
-      "isSource": true,
-      "original": {
-        "value": 24,
-        "type": "fontSizes"
-      },
-      "name": "mch_font_size_5",
-      "attributes": {
-        "category": "fontSize",
-        "type": "5"
-      },
-      "path": [
-        "fontSize",
-        "5"
-      ]
-    },
-    "6": {
-      "value": "1.625rem",
-      "type": "fontSizes",
-      "filePath": "tokens/tokens-studio.json",
-      "isSource": true,
-      "original": {
-        "value": 26,
-        "type": "fontSizes"
-      },
-      "name": "mch_font_size_6",
-      "attributes": {
-        "category": "fontSize",
-        "type": "6"
-      },
-      "path": [
-        "fontSize",
-        "6"
-      ]
-    },
-    "7": {
-      "value": "1.875rem",
-      "type": "fontSizes",
-      "filePath": "tokens/tokens-studio.json",
-      "isSource": true,
-      "original": {
-        "value": 30,
-        "type": "fontSizes"
-      },
-      "name": "mch_font_size_7",
-      "attributes": {
-        "category": "fontSize",
-        "type": "7"
-      },
-      "path": [
-        "fontSize",
-        "7"
-      ]
-    },
-    "8": {
-      "value": "2rem",
-      "type": "fontSizes",
-      "filePath": "tokens/tokens-studio.json",
-      "isSource": true,
-      "original": {
-        "value": 32,
-        "type": "fontSizes"
-      },
-      "name": "mch_font_size_8",
-      "attributes": {
-        "category": "fontSize",
-        "type": "8"
-      },
-      "path": [
-        "fontSize",
-        "8"
-      ]
-    },
-    "9": {
-      "value": "2.125rem",
-      "type": "fontSizes",
-      "filePath": "tokens/tokens-studio.json",
-      "isSource": true,
-      "original": {
-        "value": 34,
-        "type": "fontSizes"
-      },
-      "name": "mch_font_size_9",
-      "attributes": {
-        "category": "fontSize",
-        "type": "9"
-      },
-      "path": [
-        "fontSize",
-        "9"
-      ]
-    },
-    "10": {
-      "value": "2.25rem",
-      "type": "fontSizes",
-      "filePath": "tokens/tokens-studio.json",
-      "isSource": true,
-      "original": {
-        "value": 36,
-        "type": "fontSizes"
-      },
-      "name": "mch_font_size_10",
-      "attributes": {
-        "category": "fontSize",
-        "type": "10"
-      },
-      "path": [
-        "fontSize",
-        "10"
-      ]
-    },
     "11": {
       "value": "2.375rem",
       "type": "fontSizes",
-      "filePath": "tokens/tokens-studio.json",
+      "filePath": "src/global.json",
       "isSource": true,
       "original": {
-        "value": 38,
+        "value": "38",
         "type": "fontSizes"
       },
       "name": "mch_font_size_11",
@@ -2638,10 +2044,10 @@ module.exports = {
     "12": {
       "value": "2.5rem",
       "type": "fontSizes",
-      "filePath": "tokens/tokens-studio.json",
+      "filePath": "src/global.json",
       "isSource": true,
       "original": {
-        "value": 40,
+        "value": "40",
         "type": "fontSizes"
       },
       "name": "mch_font_size_12",
@@ -2657,10 +2063,10 @@ module.exports = {
     "13": {
       "value": "2.625rem",
       "type": "fontSizes",
-      "filePath": "tokens/tokens-studio.json",
+      "filePath": "src/global.json",
       "isSource": true,
       "original": {
-        "value": 42,
+        "value": "42",
         "type": "fontSizes"
       },
       "name": "mch_font_size_13",
@@ -2676,10 +2082,10 @@ module.exports = {
     "14": {
       "value": "3rem",
       "type": "fontSizes",
-      "filePath": "tokens/tokens-studio.json",
+      "filePath": "src/global.json",
       "isSource": true,
       "original": {
-        "value": 48,
+        "value": "48",
         "type": "fontSizes"
       },
       "name": "mch_font_size_14",
@@ -2694,29 +2100,10 @@ module.exports = {
     }
   },
   "letterSpacing": {
-    "0": {
-      "value": 0,
-      "type": "letterSpacing",
-      "filePath": "tokens/tokens-studio.json",
-      "isSource": true,
-      "original": {
-        "value": 0,
-        "type": "letterSpacing"
-      },
-      "name": "mch_letter_spacing_0",
-      "attributes": {
-        "category": "letterSpacing",
-        "type": "0"
-      },
-      "path": [
-        "letterSpacing",
-        "0"
-      ]
-    },
     "1": {
       "value": "0%",
       "type": "letterSpacing",
-      "filePath": "tokens/tokens-studio.json",
+      "filePath": "src/global.json",
       "isSource": true,
       "original": {
         "value": "0%",
@@ -2735,7 +2122,7 @@ module.exports = {
     "2": {
       "value": "0.5%",
       "type": "letterSpacing",
-      "filePath": "tokens/tokens-studio.json",
+      "filePath": "src/global.json",
       "isSource": true,
       "original": {
         "value": "0.5%",
@@ -2752,12 +2139,12 @@ module.exports = {
       ]
     },
     "3": {
-      "value": 0.3,
+      "value": "0.3",
       "type": "letterSpacing",
-      "filePath": "tokens/tokens-studio.json",
+      "filePath": "src/global.json",
       "isSource": true,
       "original": {
-        "value": 0.3,
+        "value": "0.3",
         "type": "letterSpacing"
       },
       "name": "mch_letter_spacing_3",
@@ -2771,12 +2158,12 @@ module.exports = {
       ]
     },
     "4": {
-      "value": 4,
+      "value": "4",
       "type": "letterSpacing",
-      "filePath": "tokens/tokens-studio.json",
+      "filePath": "src/global.json",
       "isSource": true,
       "original": {
-        "value": 4,
+        "value": "4",
         "type": "letterSpacing"
       },
       "name": "mch_letter_spacing_4",
@@ -2790,12 +2177,12 @@ module.exports = {
       ]
     },
     "5": {
-      "value": 1,
+      "value": "1",
       "type": "letterSpacing",
-      "filePath": "tokens/tokens-studio.json",
+      "filePath": "src/global.json",
       "isSource": true,
       "original": {
-        "value": 1,
+        "value": "1",
         "type": "letterSpacing"
       },
       "name": "mch_letter_spacing_5",
@@ -2810,32 +2197,13 @@ module.exports = {
     }
   },
   "paragraphSpacing": {
-    "0": {
-      "value": 0,
-      "type": "paragraphSpacing",
-      "filePath": "tokens/tokens-studio.json",
-      "isSource": true,
-      "original": {
-        "value": 0,
-        "type": "paragraphSpacing"
-      },
-      "name": "mch_paragraph_spacing_0",
-      "attributes": {
-        "category": "paragraphSpacing",
-        "type": "0"
-      },
-      "path": [
-        "paragraphSpacing",
-        "0"
-      ]
-    },
     "1": {
-      "value": 4,
+      "value": "4",
       "type": "paragraphSpacing",
-      "filePath": "tokens/tokens-studio.json",
+      "filePath": "src/global.json",
       "isSource": true,
       "original": {
-        "value": 4,
+        "value": "4",
         "type": "paragraphSpacing"
       },
       "name": "mch_paragraph_spacing_1",
@@ -2855,10 +2223,10 @@ module.exports = {
         "fontFamily": {
           "value": "Art Basel Headline",
           "type": "fontFamilies",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "Art Basel Headline",
+            "value": "{fontFamilies.art-basel-headline}",
             "type": "fontFamilies"
           },
           "name": "mch_typography_headings_common_h1_xs_sm_font_family",
@@ -2876,12 +2244,12 @@ module.exports = {
           ]
         },
         "fontWeight": {
-          "value": 700,
+          "value": "700",
           "type": "fontWeights",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "Bold",
+            "value": "{fontWeights.art-basel-headline-0}",
             "type": "fontWeights"
           },
           "name": "mch_typography_headings_common_h1_xs_sm_font_weight",
@@ -2899,13 +2267,13 @@ module.exports = {
           ]
         },
         "lineHeight": {
-          "value": "2.1875rem",
-          "type": "lineHeight",
-          "filePath": "tokens/tokens-studio.json",
+          "value": "2.5625rem",
+          "type": "lineHeights",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": 35,
-            "type": "lineHeight"
+            "value": "{lineHeights.0}",
+            "type": "lineHeights"
           },
           "name": "mch_typography_headings_common_h1_xs_sm_line_height",
           "attributes": {
@@ -2922,12 +2290,12 @@ module.exports = {
           ]
         },
         "fontSize": {
-          "value": "1.875rem",
+          "value": "1.25rem",
           "type": "fontSizes",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": 30,
+            "value": "{fontSize.7}",
             "type": "fontSizes"
           },
           "name": "mch_typography_headings_common_h1_xs_sm_font_size",
@@ -2945,12 +2313,12 @@ module.exports = {
           ]
         },
         "letterSpacing": {
-          "value": 0,
+          "value": "0",
           "type": "letterSpacing",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": 0,
+            "value": "{letterSpacing.0}",
             "type": "letterSpacing"
           },
           "name": "mch_typography_headings_common_h1_xs_sm_letter_spacing",
@@ -2968,12 +2336,12 @@ module.exports = {
           ]
         },
         "paragraphSpacing": {
-          "value": 0,
+          "value": "0",
           "type": "paragraphSpacing",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": 0,
+            "value": "{paragraphSpacing.0}",
             "type": "paragraphSpacing"
           },
           "name": "mch_typography_headings_common_h1_xs_sm_paragraph_spacing",
@@ -2991,12 +2359,12 @@ module.exports = {
           ]
         },
         "paragraphIndent": {
-          "value": 0,
+          "value": "0px",
           "type": "paragraphIndent",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "0px",
+            "value": "{paragraphIndent.0}",
             "type": "paragraphIndent"
           },
           "name": "mch_typography_headings_common_h1_xs_sm_paragraph_indent",
@@ -3016,10 +2384,10 @@ module.exports = {
         "textCase": {
           "value": "none",
           "type": "textCase",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "none",
+            "value": "{textCase.none}",
             "type": "textCase"
           },
           "name": "mch_typography_headings_common_h1_xs_sm_text_case",
@@ -3039,10 +2407,10 @@ module.exports = {
         "textDecoration": {
           "value": "none",
           "type": "textDecoration",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "none",
+            "value": "{textDecoration.none}",
             "type": "textDecoration"
           },
           "name": "mch_typography_headings_common_h1_xs_sm_text_decoration",
@@ -3064,10 +2432,10 @@ module.exports = {
         "fontFamily": {
           "value": "Art Basel Headline",
           "type": "fontFamilies",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "Art Basel Headline",
+            "value": "{fontFamilies.art-basel-headline}",
             "type": "fontFamilies"
           },
           "name": "mch_typography_headings_common_h2_xs_sm_font_family",
@@ -3085,12 +2453,12 @@ module.exports = {
           ]
         },
         "fontWeight": {
-          "value": 700,
+          "value": "700",
           "type": "fontWeights",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "Bold",
+            "value": "{fontWeights.art-basel-headline-0}",
             "type": "fontWeights"
           },
           "name": "mch_typography_headings_common_h2_xs_sm_font_weight",
@@ -3108,13 +2476,13 @@ module.exports = {
           ]
         },
         "lineHeight": {
-          "value": "1.875rem",
-          "type": "lineHeight",
-          "filePath": "tokens/tokens-studio.json",
+          "value": "2.125rem",
+          "type": "lineHeights",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": 30,
-            "type": "lineHeight"
+            "value": "{lineHeights.1}",
+            "type": "lineHeights"
           },
           "name": "mch_typography_headings_common_h2_xs_sm_line_height",
           "attributes": {
@@ -3131,12 +2499,12 @@ module.exports = {
           ]
         },
         "fontSize": {
-          "value": "1.625rem",
+          "value": "1.0625rem",
           "type": "fontSizes",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": 26,
+            "value": "{fontSize.6}",
             "type": "fontSizes"
           },
           "name": "mch_typography_headings_common_h2_xs_sm_font_size",
@@ -3154,12 +2522,12 @@ module.exports = {
           ]
         },
         "letterSpacing": {
-          "value": 0,
+          "value": "0",
           "type": "letterSpacing",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": 0,
+            "value": "{letterSpacing.0}",
             "type": "letterSpacing"
           },
           "name": "mch_typography_headings_common_h2_xs_sm_letter_spacing",
@@ -3177,12 +2545,12 @@ module.exports = {
           ]
         },
         "paragraphSpacing": {
-          "value": 0,
+          "value": "0",
           "type": "paragraphSpacing",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": 0,
+            "value": "{paragraphSpacing.0}",
             "type": "paragraphSpacing"
           },
           "name": "mch_typography_headings_common_h2_xs_sm_paragraph_spacing",
@@ -3200,12 +2568,12 @@ module.exports = {
           ]
         },
         "paragraphIndent": {
-          "value": 0,
+          "value": "0px",
           "type": "paragraphIndent",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "0px",
+            "value": "{paragraphIndent.0}",
             "type": "paragraphIndent"
           },
           "name": "mch_typography_headings_common_h2_xs_sm_paragraph_indent",
@@ -3225,10 +2593,10 @@ module.exports = {
         "textCase": {
           "value": "none",
           "type": "textCase",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "none",
+            "value": "{textCase.none}",
             "type": "textCase"
           },
           "name": "mch_typography_headings_common_h2_xs_sm_text_case",
@@ -3248,10 +2616,10 @@ module.exports = {
         "textDecoration": {
           "value": "none",
           "type": "textDecoration",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "none",
+            "value": "{textDecoration.none}",
             "type": "textDecoration"
           },
           "name": "mch_typography_headings_common_h2_xs_sm_text_decoration",
@@ -3273,10 +2641,10 @@ module.exports = {
         "fontFamily": {
           "value": "Art Basel Headline",
           "type": "fontFamilies",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "Art Basel Headline",
+            "value": "{fontFamilies.art-basel-headline}",
             "type": "fontFamilies"
           },
           "name": "mch_typography_headings_common_h3_xs_sm_font_family",
@@ -3294,12 +2662,12 @@ module.exports = {
           ]
         },
         "fontWeight": {
-          "value": 700,
+          "value": "700",
           "type": "fontWeights",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "Bold",
+            "value": "{fontWeights.art-basel-headline-0}",
             "type": "fontWeights"
           },
           "name": "mch_typography_headings_common_h3_xs_sm_font_weight",
@@ -3318,12 +2686,12 @@ module.exports = {
         },
         "lineHeight": {
           "value": "1.75rem",
-          "type": "lineHeight",
-          "filePath": "tokens/tokens-studio.json",
+          "type": "lineHeights",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": 28,
-            "type": "lineHeight"
+            "value": "{lineHeights.2}",
+            "type": "lineHeights"
           },
           "name": "mch_typography_headings_common_h3_xs_sm_line_height",
           "attributes": {
@@ -3340,12 +2708,12 @@ module.exports = {
           ]
         },
         "fontSize": {
-          "value": "1.5rem",
+          "value": "1rem",
           "type": "fontSizes",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": 24,
+            "value": "{fontSize.5}",
             "type": "fontSizes"
           },
           "name": "mch_typography_headings_common_h3_xs_sm_font_size",
@@ -3363,12 +2731,12 @@ module.exports = {
           ]
         },
         "letterSpacing": {
-          "value": 0,
+          "value": "0",
           "type": "letterSpacing",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": 0,
+            "value": "{letterSpacing.0}",
             "type": "letterSpacing"
           },
           "name": "mch_typography_headings_common_h3_xs_sm_letter_spacing",
@@ -3386,12 +2754,12 @@ module.exports = {
           ]
         },
         "paragraphSpacing": {
-          "value": 0,
+          "value": "0",
           "type": "paragraphSpacing",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": 0,
+            "value": "{paragraphSpacing.0}",
             "type": "paragraphSpacing"
           },
           "name": "mch_typography_headings_common_h3_xs_sm_paragraph_spacing",
@@ -3409,12 +2777,12 @@ module.exports = {
           ]
         },
         "paragraphIndent": {
-          "value": 0,
+          "value": "0px",
           "type": "paragraphIndent",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "0px",
+            "value": "{paragraphIndent.0}",
             "type": "paragraphIndent"
           },
           "name": "mch_typography_headings_common_h3_xs_sm_paragraph_indent",
@@ -3434,10 +2802,10 @@ module.exports = {
         "textCase": {
           "value": "none",
           "type": "textCase",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "none",
+            "value": "{textCase.none}",
             "type": "textCase"
           },
           "name": "mch_typography_headings_common_h3_xs_sm_text_case",
@@ -3457,10 +2825,10 @@ module.exports = {
         "textDecoration": {
           "value": "none",
           "type": "textDecoration",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "none",
+            "value": "{textDecoration.none}",
             "type": "textDecoration"
           },
           "name": "mch_typography_headings_common_h3_xs_sm_text_decoration",
@@ -3482,10 +2850,10 @@ module.exports = {
         "fontFamily": {
           "value": "Art Basel Headline",
           "type": "fontFamilies",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "Art Basel Headline",
+            "value": "{fontFamilies.art-basel-headline}",
             "type": "fontFamilies"
           },
           "name": "mch_typography_headings_common_h4_xs_sm_font_family",
@@ -3503,12 +2871,12 @@ module.exports = {
           ]
         },
         "fontWeight": {
-          "value": 700,
+          "value": "700",
           "type": "fontWeights",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "Bold",
+            "value": "{fontWeights.art-basel-headline-0}",
             "type": "fontWeights"
           },
           "name": "mch_typography_headings_common_h4_xs_sm_font_weight",
@@ -3526,13 +2894,13 @@ module.exports = {
           ]
         },
         "lineHeight": {
-          "value": "1.4375rem",
-          "type": "lineHeight",
-          "filePath": "tokens/tokens-studio.json",
+          "value": "1.5625rem",
+          "type": "lineHeights",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": 23,
-            "type": "lineHeight"
+            "value": "{lineHeights.3}",
+            "type": "lineHeights"
           },
           "name": "mch_typography_headings_common_h4_xs_sm_line_height",
           "attributes": {
@@ -3549,12 +2917,12 @@ module.exports = {
           ]
         },
         "fontSize": {
-          "value": "1.25rem",
+          "value": "0.9375rem",
           "type": "fontSizes",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": 20,
+            "value": "{fontSize.4}",
             "type": "fontSizes"
           },
           "name": "mch_typography_headings_common_h4_xs_sm_font_size",
@@ -3572,12 +2940,12 @@ module.exports = {
           ]
         },
         "letterSpacing": {
-          "value": 0,
+          "value": "0",
           "type": "letterSpacing",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": 0,
+            "value": "{letterSpacing.0}",
             "type": "letterSpacing"
           },
           "name": "mch_typography_headings_common_h4_xs_sm_letter_spacing",
@@ -3595,12 +2963,12 @@ module.exports = {
           ]
         },
         "paragraphSpacing": {
-          "value": 0,
+          "value": "0",
           "type": "paragraphSpacing",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": 0,
+            "value": "{paragraphSpacing.0}",
             "type": "paragraphSpacing"
           },
           "name": "mch_typography_headings_common_h4_xs_sm_paragraph_spacing",
@@ -3618,12 +2986,12 @@ module.exports = {
           ]
         },
         "paragraphIndent": {
-          "value": 0,
+          "value": "0px",
           "type": "paragraphIndent",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "0px",
+            "value": "{paragraphIndent.0}",
             "type": "paragraphIndent"
           },
           "name": "mch_typography_headings_common_h4_xs_sm_paragraph_indent",
@@ -3643,10 +3011,10 @@ module.exports = {
         "textCase": {
           "value": "none",
           "type": "textCase",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "none",
+            "value": "{textCase.none}",
             "type": "textCase"
           },
           "name": "mch_typography_headings_common_h4_xs_sm_text_case",
@@ -3666,10 +3034,10 @@ module.exports = {
         "textDecoration": {
           "value": "none",
           "type": "textDecoration",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "none",
+            "value": "{textDecoration.none}",
             "type": "textDecoration"
           },
           "name": "mch_typography_headings_common_h4_xs_sm_text_decoration",
@@ -3691,10 +3059,10 @@ module.exports = {
         "fontFamily": {
           "value": "Art Basel Headline",
           "type": "fontFamilies",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "Art Basel Headline",
+            "value": "{fontFamilies.art-basel-headline}",
             "type": "fontFamilies"
           },
           "name": "mch_typography_headings_common_h5_xs_sm_font_family",
@@ -3712,12 +3080,12 @@ module.exports = {
           ]
         },
         "fontWeight": {
-          "value": 700,
+          "value": "700",
           "type": "fontWeights",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "Bold",
+            "value": "{fontWeights.art-basel-headline-0}",
             "type": "fontWeights"
           },
           "name": "mch_typography_headings_common_h5_xs_sm_font_weight",
@@ -3735,13 +3103,13 @@ module.exports = {
           ]
         },
         "lineHeight": {
-          "value": "1.3125rem",
-          "type": "lineHeight",
-          "filePath": "tokens/tokens-studio.json",
+          "value": "1.375rem",
+          "type": "lineHeights",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": 21,
-            "type": "lineHeight"
+            "value": "{lineHeights.4}",
+            "type": "lineHeights"
           },
           "name": "mch_typography_headings_common_h5_xs_sm_line_height",
           "attributes": {
@@ -3758,12 +3126,12 @@ module.exports = {
           ]
         },
         "fontSize": {
-          "value": "1.125rem",
+          "value": "0.875rem",
           "type": "fontSizes",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": 18,
+            "value": "{fontSize.3}",
             "type": "fontSizes"
           },
           "name": "mch_typography_headings_common_h5_xs_sm_font_size",
@@ -3781,12 +3149,12 @@ module.exports = {
           ]
         },
         "letterSpacing": {
-          "value": 0,
+          "value": "0",
           "type": "letterSpacing",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": 0,
+            "value": "{letterSpacing.0}",
             "type": "letterSpacing"
           },
           "name": "mch_typography_headings_common_h5_xs_sm_letter_spacing",
@@ -3804,12 +3172,12 @@ module.exports = {
           ]
         },
         "paragraphSpacing": {
-          "value": 0,
+          "value": "0",
           "type": "paragraphSpacing",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": 0,
+            "value": "{paragraphSpacing.0}",
             "type": "paragraphSpacing"
           },
           "name": "mch_typography_headings_common_h5_xs_sm_paragraph_spacing",
@@ -3827,12 +3195,12 @@ module.exports = {
           ]
         },
         "paragraphIndent": {
-          "value": 0,
+          "value": "0px",
           "type": "paragraphIndent",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "0px",
+            "value": "{paragraphIndent.0}",
             "type": "paragraphIndent"
           },
           "name": "mch_typography_headings_common_h5_xs_sm_paragraph_indent",
@@ -3852,10 +3220,10 @@ module.exports = {
         "textCase": {
           "value": "none",
           "type": "textCase",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "none",
+            "value": "{textCase.none}",
             "type": "textCase"
           },
           "name": "mch_typography_headings_common_h5_xs_sm_text_case",
@@ -3875,10 +3243,10 @@ module.exports = {
         "textDecoration": {
           "value": "none",
           "type": "textDecoration",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "none",
+            "value": "{textDecoration.none}",
             "type": "textDecoration"
           },
           "name": "mch_typography_headings_common_h5_xs_sm_text_decoration",
@@ -3900,10 +3268,10 @@ module.exports = {
         "fontFamily": {
           "value": "Art Basel Headline",
           "type": "fontFamilies",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "Art Basel Headline",
+            "value": "{fontFamilies.art-basel-headline}",
             "type": "fontFamilies"
           },
           "name": "mch_typography_headings_common_h1_xl_font_family",
@@ -3921,12 +3289,12 @@ module.exports = {
           ]
         },
         "fontWeight": {
-          "value": 700,
+          "value": "700",
           "type": "fontWeights",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "Bold",
+            "value": "{fontWeights.art-basel-headline-0}",
             "type": "fontWeights"
           },
           "name": "mch_typography_headings_common_h1_xl_font_weight",
@@ -3944,13 +3312,13 @@ module.exports = {
           ]
         },
         "lineHeight": {
-          "value": "3rem",
-          "type": "lineHeight",
-          "filePath": "tokens/tokens-studio.json",
+          "value": "1.25rem",
+          "type": "lineHeights",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": 48,
-            "type": "lineHeight"
+            "value": "{lineHeights.5}",
+            "type": "lineHeights"
           },
           "name": "mch_typography_headings_common_h1_xl_line_height",
           "attributes": {
@@ -3969,10 +3337,10 @@ module.exports = {
         "fontSize": {
           "value": "2.625rem",
           "type": "fontSizes",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": 42,
+            "value": "{fontSize.13}",
             "type": "fontSizes"
           },
           "name": "mch_typography_headings_common_h1_xl_font_size",
@@ -3990,12 +3358,12 @@ module.exports = {
           ]
         },
         "letterSpacing": {
-          "value": 0,
+          "value": "0",
           "type": "letterSpacing",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": 0,
+            "value": "{letterSpacing.0}",
             "type": "letterSpacing"
           },
           "name": "mch_typography_headings_common_h1_xl_letter_spacing",
@@ -4013,12 +3381,12 @@ module.exports = {
           ]
         },
         "paragraphSpacing": {
-          "value": 0,
+          "value": "0",
           "type": "paragraphSpacing",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": 0,
+            "value": "{paragraphSpacing.0}",
             "type": "paragraphSpacing"
           },
           "name": "mch_typography_headings_common_h1_xl_paragraph_spacing",
@@ -4036,12 +3404,12 @@ module.exports = {
           ]
         },
         "paragraphIndent": {
-          "value": 0,
+          "value": "0px",
           "type": "paragraphIndent",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "0px",
+            "value": "{paragraphIndent.0}",
             "type": "paragraphIndent"
           },
           "name": "mch_typography_headings_common_h1_xl_paragraph_indent",
@@ -4061,10 +3429,10 @@ module.exports = {
         "textCase": {
           "value": "none",
           "type": "textCase",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "none",
+            "value": "{textCase.none}",
             "type": "textCase"
           },
           "name": "mch_typography_headings_common_h1_xl_text_case",
@@ -4084,10 +3452,10 @@ module.exports = {
         "textDecoration": {
           "value": "none",
           "type": "textDecoration",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "none",
+            "value": "{textDecoration.none}",
             "type": "textDecoration"
           },
           "name": "mch_typography_headings_common_h1_xl_text_decoration",
@@ -4109,10 +3477,10 @@ module.exports = {
         "fontFamily": {
           "value": "Art Basel Headline",
           "type": "fontFamilies",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "Art Basel Headline",
+            "value": "{fontFamilies.art-basel-headline}",
             "type": "fontFamilies"
           },
           "name": "mch_typography_headings_common_h2_xl_font_family",
@@ -4130,12 +3498,12 @@ module.exports = {
           ]
         },
         "fontWeight": {
-          "value": 700,
+          "value": "700",
           "type": "fontWeights",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "Bold",
+            "value": "{fontWeights.art-basel-headline-0}",
             "type": "fontWeights"
           },
           "name": "mch_typography_headings_common_h2_xl_font_weight",
@@ -4153,13 +3521,13 @@ module.exports = {
           ]
         },
         "lineHeight": {
-          "value": "2.625rem",
-          "type": "lineHeight",
-          "filePath": "tokens/tokens-studio.json",
+          "value": "1rem",
+          "type": "lineHeights",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": 42,
-            "type": "lineHeight"
+            "value": "{lineHeights.6}",
+            "type": "lineHeights"
           },
           "name": "mch_typography_headings_common_h2_xl_line_height",
           "attributes": {
@@ -4176,12 +3544,12 @@ module.exports = {
           ]
         },
         "fontSize": {
-          "value": "2.25rem",
+          "value": "2.125rem",
           "type": "fontSizes",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": 36,
+            "value": "{fontSize.10}",
             "type": "fontSizes"
           },
           "name": "mch_typography_headings_common_h2_xl_font_size",
@@ -4199,12 +3567,12 @@ module.exports = {
           ]
         },
         "letterSpacing": {
-          "value": 0,
+          "value": "0",
           "type": "letterSpacing",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": 0,
+            "value": "{letterSpacing.0}",
             "type": "letterSpacing"
           },
           "name": "mch_typography_headings_common_h2_xl_letter_spacing",
@@ -4222,12 +3590,12 @@ module.exports = {
           ]
         },
         "paragraphSpacing": {
-          "value": 0,
+          "value": "0",
           "type": "paragraphSpacing",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": 0,
+            "value": "{paragraphSpacing.0}",
             "type": "paragraphSpacing"
           },
           "name": "mch_typography_headings_common_h2_xl_paragraph_spacing",
@@ -4245,12 +3613,12 @@ module.exports = {
           ]
         },
         "paragraphIndent": {
-          "value": 0,
+          "value": "0px",
           "type": "paragraphIndent",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "0px",
+            "value": "{paragraphIndent.0}",
             "type": "paragraphIndent"
           },
           "name": "mch_typography_headings_common_h2_xl_paragraph_indent",
@@ -4270,10 +3638,10 @@ module.exports = {
         "textCase": {
           "value": "none",
           "type": "textCase",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "none",
+            "value": "{textCase.none}",
             "type": "textCase"
           },
           "name": "mch_typography_headings_common_h2_xl_text_case",
@@ -4293,10 +3661,10 @@ module.exports = {
         "textDecoration": {
           "value": "none",
           "type": "textDecoration",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "none",
+            "value": "{textDecoration.none}",
             "type": "textDecoration"
           },
           "name": "mch_typography_headings_common_h2_xl_text_decoration",
@@ -4318,10 +3686,10 @@ module.exports = {
         "fontFamily": {
           "value": "Art Basel Headline",
           "type": "fontFamilies",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "Art Basel Headline",
+            "value": "{fontFamilies.art-basel-headline}",
             "type": "fontFamilies"
           },
           "name": "mch_typography_headings_common_h3_xl_font_family",
@@ -4339,12 +3707,12 @@ module.exports = {
           ]
         },
         "fontWeight": {
-          "value": 700,
+          "value": "700",
           "type": "fontWeights",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "Bold",
+            "value": "{fontWeights.art-basel-headline-0}",
             "type": "fontWeights"
           },
           "name": "mch_typography_headings_common_h3_xl_font_weight",
@@ -4362,13 +3730,13 @@ module.exports = {
           ]
         },
         "lineHeight": {
-          "value": "2.125rem",
-          "type": "lineHeight",
-          "filePath": "tokens/tokens-studio.json",
+          "value": "0.8125rem",
+          "type": "lineHeights",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": 34,
-            "type": "lineHeight"
+            "value": "{lineHeights.7}",
+            "type": "lineHeights"
           },
           "name": "mch_typography_headings_common_h3_xl_line_height",
           "attributes": {
@@ -4385,12 +3753,12 @@ module.exports = {
           ]
         },
         "fontSize": {
-          "value": "1.875rem",
+          "value": "1.25rem",
           "type": "fontSizes",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": 30,
+            "value": "{fontSize.7}",
             "type": "fontSizes"
           },
           "name": "mch_typography_headings_common_h3_xl_font_size",
@@ -4408,12 +3776,12 @@ module.exports = {
           ]
         },
         "letterSpacing": {
-          "value": 0,
+          "value": "0",
           "type": "letterSpacing",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": 0,
+            "value": "{letterSpacing.0}",
             "type": "letterSpacing"
           },
           "name": "mch_typography_headings_common_h3_xl_letter_spacing",
@@ -4431,12 +3799,12 @@ module.exports = {
           ]
         },
         "paragraphSpacing": {
-          "value": 0,
+          "value": "0",
           "type": "paragraphSpacing",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": 0,
+            "value": "{paragraphSpacing.0}",
             "type": "paragraphSpacing"
           },
           "name": "mch_typography_headings_common_h3_xl_paragraph_spacing",
@@ -4454,12 +3822,12 @@ module.exports = {
           ]
         },
         "paragraphIndent": {
-          "value": 0,
+          "value": "0px",
           "type": "paragraphIndent",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "0px",
+            "value": "{paragraphIndent.0}",
             "type": "paragraphIndent"
           },
           "name": "mch_typography_headings_common_h3_xl_paragraph_indent",
@@ -4479,10 +3847,10 @@ module.exports = {
         "textCase": {
           "value": "none",
           "type": "textCase",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "none",
+            "value": "{textCase.none}",
             "type": "textCase"
           },
           "name": "mch_typography_headings_common_h3_xl_text_case",
@@ -4502,10 +3870,10 @@ module.exports = {
         "textDecoration": {
           "value": "none",
           "type": "textDecoration",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "none",
+            "value": "{textDecoration.none}",
             "type": "textDecoration"
           },
           "name": "mch_typography_headings_common_h3_xl_text_decoration",
@@ -4527,10 +3895,10 @@ module.exports = {
         "fontFamily": {
           "value": "Art Basel Headline",
           "type": "fontFamilies",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "Art Basel Headline",
+            "value": "{fontFamilies.art-basel-headline}",
             "type": "fontFamilies"
           },
           "name": "mch_typography_headings_common_h4_xl_font_family",
@@ -4548,12 +3916,12 @@ module.exports = {
           ]
         },
         "fontWeight": {
-          "value": 700,
+          "value": "700",
           "type": "fontWeights",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "Bold",
+            "value": "{fontWeights.art-basel-headline-0}",
             "type": "fontWeights"
           },
           "name": "mch_typography_headings_common_h4_xl_font_weight",
@@ -4572,12 +3940,12 @@ module.exports = {
         },
         "lineHeight": {
           "value": "1.75rem",
-          "type": "lineHeight",
-          "filePath": "tokens/tokens-studio.json",
+          "type": "lineHeights",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": 28,
-            "type": "lineHeight"
+            "value": "{lineHeights.2}",
+            "type": "lineHeights"
           },
           "name": "mch_typography_headings_common_h4_xl_line_height",
           "attributes": {
@@ -4594,12 +3962,12 @@ module.exports = {
           ]
         },
         "fontSize": {
-          "value": "1.5rem",
+          "value": "1rem",
           "type": "fontSizes",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": 24,
+            "value": "{fontSize.5}",
             "type": "fontSizes"
           },
           "name": "mch_typography_headings_common_h4_xl_font_size",
@@ -4617,12 +3985,12 @@ module.exports = {
           ]
         },
         "letterSpacing": {
-          "value": 0,
+          "value": "0",
           "type": "letterSpacing",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": 0,
+            "value": "{letterSpacing.0}",
             "type": "letterSpacing"
           },
           "name": "mch_typography_headings_common_h4_xl_letter_spacing",
@@ -4640,12 +4008,12 @@ module.exports = {
           ]
         },
         "paragraphSpacing": {
-          "value": 0,
+          "value": "0",
           "type": "paragraphSpacing",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": 0,
+            "value": "{paragraphSpacing.0}",
             "type": "paragraphSpacing"
           },
           "name": "mch_typography_headings_common_h4_xl_paragraph_spacing",
@@ -4663,12 +4031,12 @@ module.exports = {
           ]
         },
         "paragraphIndent": {
-          "value": 0,
+          "value": "0px",
           "type": "paragraphIndent",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "0px",
+            "value": "{paragraphIndent.0}",
             "type": "paragraphIndent"
           },
           "name": "mch_typography_headings_common_h4_xl_paragraph_indent",
@@ -4688,10 +4056,10 @@ module.exports = {
         "textCase": {
           "value": "none",
           "type": "textCase",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "none",
+            "value": "{textCase.none}",
             "type": "textCase"
           },
           "name": "mch_typography_headings_common_h4_xl_text_case",
@@ -4711,10 +4079,10 @@ module.exports = {
         "textDecoration": {
           "value": "none",
           "type": "textDecoration",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "none",
+            "value": "{textDecoration.none}",
             "type": "textDecoration"
           },
           "name": "mch_typography_headings_common_h4_xl_text_decoration",
@@ -4736,10 +4104,10 @@ module.exports = {
         "fontFamily": {
           "value": "Art Basel Headline",
           "type": "fontFamilies",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "Art Basel Headline",
+            "value": "{fontFamilies.art-basel-headline}",
             "type": "fontFamilies"
           },
           "name": "mch_typography_headings_common_h5_xl_font_family",
@@ -4757,12 +4125,12 @@ module.exports = {
           ]
         },
         "fontWeight": {
-          "value": 700,
+          "value": "700",
           "type": "fontWeights",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "Bold",
+            "value": "{fontWeights.art-basel-headline-0}",
             "type": "fontWeights"
           },
           "name": "mch_typography_headings_common_h5_xl_font_weight",
@@ -4780,13 +4148,13 @@ module.exports = {
           ]
         },
         "lineHeight": {
-          "value": "1.3125rem",
-          "type": "lineHeight",
-          "filePath": "tokens/tokens-studio.json",
+          "value": "1.375rem",
+          "type": "lineHeights",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": 21,
-            "type": "lineHeight"
+            "value": "{lineHeights.4}",
+            "type": "lineHeights"
           },
           "name": "mch_typography_headings_common_h5_xl_line_height",
           "attributes": {
@@ -4803,12 +4171,12 @@ module.exports = {
           ]
         },
         "fontSize": {
-          "value": "1.125rem",
+          "value": "0.875rem",
           "type": "fontSizes",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": 18,
+            "value": "{fontSize.3}",
             "type": "fontSizes"
           },
           "name": "mch_typography_headings_common_h5_xl_font_size",
@@ -4826,12 +4194,12 @@ module.exports = {
           ]
         },
         "letterSpacing": {
-          "value": 0,
+          "value": "0",
           "type": "letterSpacing",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": 0,
+            "value": "{letterSpacing.0}",
             "type": "letterSpacing"
           },
           "name": "mch_typography_headings_common_h5_xl_letter_spacing",
@@ -4849,12 +4217,12 @@ module.exports = {
           ]
         },
         "paragraphSpacing": {
-          "value": 0,
+          "value": "0",
           "type": "paragraphSpacing",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": 0,
+            "value": "{paragraphSpacing.0}",
             "type": "paragraphSpacing"
           },
           "name": "mch_typography_headings_common_h5_xl_paragraph_spacing",
@@ -4872,12 +4240,12 @@ module.exports = {
           ]
         },
         "paragraphIndent": {
-          "value": 0,
+          "value": "0px",
           "type": "paragraphIndent",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "0px",
+            "value": "{paragraphIndent.0}",
             "type": "paragraphIndent"
           },
           "name": "mch_typography_headings_common_h5_xl_paragraph_indent",
@@ -4897,10 +4265,10 @@ module.exports = {
         "textCase": {
           "value": "none",
           "type": "textCase",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "none",
+            "value": "{textCase.none}",
             "type": "textCase"
           },
           "name": "mch_typography_headings_common_h5_xl_text_case",
@@ -4920,10 +4288,10 @@ module.exports = {
         "textDecoration": {
           "value": "none",
           "type": "textDecoration",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "none",
+            "value": "{textDecoration.none}",
             "type": "textDecoration"
           },
           "name": "mch_typography_headings_common_h5_xl_text_decoration",
@@ -4947,10 +4315,10 @@ module.exports = {
         "fontFamily": {
           "value": "Ivar Display",
           "type": "fontFamilies",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "Ivar Display",
+            "value": "{fontFamilies.ivar-display}",
             "type": "fontFamilies"
           },
           "name": "mch_typography_editorial_quote_quote_2_xl_font_family",
@@ -4968,12 +4336,12 @@ module.exports = {
           ]
         },
         "fontWeight": {
-          "value": 400,
+          "value": "400",
           "type": "fontWeights",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "Regular",
+            "value": "{fontWeights.ivar-display-1}",
             "type": "fontWeights"
           },
           "name": "mch_typography_editorial_quote_quote_2_xl_font_weight",
@@ -4991,13 +4359,13 @@ module.exports = {
           ]
         },
         "lineHeight": {
-          "value": "3.375rem",
-          "type": "lineHeight",
-          "filePath": "tokens/tokens-studio.json",
+          "value": "1.125rem",
+          "type": "lineHeights",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": 54,
-            "type": "lineHeight"
+            "value": "{lineHeights.8}",
+            "type": "lineHeights"
           },
           "name": "mch_typography_editorial_quote_quote_2_xl_line_height",
           "attributes": {
@@ -5016,10 +4384,10 @@ module.exports = {
         "fontSize": {
           "value": "2.625rem",
           "type": "fontSizes",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": 42,
+            "value": "{fontSize.13}",
             "type": "fontSizes"
           },
           "name": "mch_typography_editorial_quote_quote_2_xl_font_size",
@@ -5039,10 +4407,10 @@ module.exports = {
         "letterSpacing": {
           "value": "0%",
           "type": "letterSpacing",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "0%",
+            "value": "{letterSpacing.1}",
             "type": "letterSpacing"
           },
           "name": "mch_typography_editorial_quote_quote_2_xl_letter_spacing",
@@ -5060,12 +4428,12 @@ module.exports = {
           ]
         },
         "paragraphSpacing": {
-          "value": 4,
+          "value": "4",
           "type": "paragraphSpacing",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": 4,
+            "value": "{paragraphSpacing.1}",
             "type": "paragraphSpacing"
           },
           "name": "mch_typography_editorial_quote_quote_2_xl_paragraph_spacing",
@@ -5083,12 +4451,12 @@ module.exports = {
           ]
         },
         "paragraphIndent": {
-          "value": 0,
+          "value": "0px",
           "type": "paragraphIndent",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "0px",
+            "value": "{paragraphIndent.0}",
             "type": "paragraphIndent"
           },
           "name": "mch_typography_editorial_quote_quote_2_xl_paragraph_indent",
@@ -5108,10 +4476,10 @@ module.exports = {
         "textCase": {
           "value": "none",
           "type": "textCase",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "none",
+            "value": "{textCase.none}",
             "type": "textCase"
           },
           "name": "mch_typography_editorial_quote_quote_2_xl_text_case",
@@ -5131,10 +4499,10 @@ module.exports = {
         "textDecoration": {
           "value": "none",
           "type": "textDecoration",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "none",
+            "value": "{textDecoration.none}",
             "type": "textDecoration"
           },
           "name": "mch_typography_editorial_quote_quote_2_xl_text_decoration",
@@ -5156,10 +4524,10 @@ module.exports = {
         "fontFamily": {
           "value": "Ivar Display",
           "type": "fontFamilies",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "Ivar Display",
+            "value": "{fontFamilies.ivar-display}",
             "type": "fontFamilies"
           },
           "name": "mch_typography_editorial_quote_quote_xl_font_family",
@@ -5177,12 +4545,12 @@ module.exports = {
           ]
         },
         "fontWeight": {
-          "value": 400,
+          "value": "400",
           "type": "fontWeights",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "Regular",
+            "value": "{fontWeights.ivar-display-1}",
             "type": "fontWeights"
           },
           "name": "mch_typography_editorial_quote_quote_xl_font_weight",
@@ -5200,13 +4568,13 @@ module.exports = {
           ]
         },
         "lineHeight": {
-          "value": "3.125rem",
-          "type": "lineHeight",
-          "filePath": "tokens/tokens-studio.json",
+          "value": "1.3125rem",
+          "type": "lineHeights",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": 50,
-            "type": "lineHeight"
+            "value": "{lineHeights.9}",
+            "type": "lineHeights"
           },
           "name": "mch_typography_editorial_quote_quote_xl_line_height",
           "attributes": {
@@ -5225,10 +4593,10 @@ module.exports = {
         "fontSize": {
           "value": "2.375rem",
           "type": "fontSizes",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": 38,
+            "value": "{fontSize.11}",
             "type": "fontSizes"
           },
           "name": "mch_typography_editorial_quote_quote_xl_font_size",
@@ -5248,10 +4616,10 @@ module.exports = {
         "letterSpacing": {
           "value": "0.5%",
           "type": "letterSpacing",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "0.5%",
+            "value": "{letterSpacing.2}",
             "type": "letterSpacing"
           },
           "name": "mch_typography_editorial_quote_quote_xl_letter_spacing",
@@ -5269,12 +4637,12 @@ module.exports = {
           ]
         },
         "paragraphSpacing": {
-          "value": 4,
+          "value": "4",
           "type": "paragraphSpacing",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": 4,
+            "value": "{paragraphSpacing.1}",
             "type": "paragraphSpacing"
           },
           "name": "mch_typography_editorial_quote_quote_xl_paragraph_spacing",
@@ -5292,12 +4660,12 @@ module.exports = {
           ]
         },
         "paragraphIndent": {
-          "value": 0,
+          "value": "0px",
           "type": "paragraphIndent",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "0px",
+            "value": "{paragraphIndent.0}",
             "type": "paragraphIndent"
           },
           "name": "mch_typography_editorial_quote_quote_xl_paragraph_indent",
@@ -5317,10 +4685,10 @@ module.exports = {
         "textCase": {
           "value": "none",
           "type": "textCase",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "none",
+            "value": "{textCase.none}",
             "type": "textCase"
           },
           "name": "mch_typography_editorial_quote_quote_xl_text_case",
@@ -5340,10 +4708,10 @@ module.exports = {
         "textDecoration": {
           "value": "none",
           "type": "textDecoration",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "none",
+            "value": "{textDecoration.none}",
             "type": "textDecoration"
           },
           "name": "mch_typography_editorial_quote_quote_xl_text_decoration",
@@ -5365,10 +4733,10 @@ module.exports = {
         "fontFamily": {
           "value": "Ivar Display",
           "type": "fontFamilies",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "Ivar Display",
+            "value": "{fontFamilies.ivar-display}",
             "type": "fontFamilies"
           },
           "name": "mch_typography_editorial_quote_quote_lg_font_family",
@@ -5386,12 +4754,12 @@ module.exports = {
           ]
         },
         "fontWeight": {
-          "value": 400,
+          "value": "400",
           "type": "fontWeights",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "Regular",
+            "value": "{fontWeights.ivar-display-1}",
             "type": "fontWeights"
           },
           "name": "mch_typography_editorial_quote_quote_lg_font_weight",
@@ -5409,13 +4777,13 @@ module.exports = {
           ]
         },
         "lineHeight": {
-          "value": "3rem",
-          "type": "lineHeight",
-          "filePath": "tokens/tokens-studio.json",
+          "value": "1.25rem",
+          "type": "lineHeights",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": 48,
-            "type": "lineHeight"
+            "value": "{lineHeights.5}",
+            "type": "lineHeights"
           },
           "name": "mch_typography_editorial_quote_quote_lg_line_height",
           "attributes": {
@@ -5432,12 +4800,12 @@ module.exports = {
           ]
         },
         "fontSize": {
-          "value": "2.25rem",
+          "value": "2.125rem",
           "type": "fontSizes",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": 36,
+            "value": "{fontSize.10}",
             "type": "fontSizes"
           },
           "name": "mch_typography_editorial_quote_quote_lg_font_size",
@@ -5457,10 +4825,10 @@ module.exports = {
         "letterSpacing": {
           "value": "0%",
           "type": "letterSpacing",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "0%",
+            "value": "{letterSpacing.1}",
             "type": "letterSpacing"
           },
           "name": "mch_typography_editorial_quote_quote_lg_letter_spacing",
@@ -5478,12 +4846,12 @@ module.exports = {
           ]
         },
         "paragraphSpacing": {
-          "value": 0,
+          "value": "0",
           "type": "paragraphSpacing",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": 0,
+            "value": "{paragraphSpacing.0}",
             "type": "paragraphSpacing"
           },
           "name": "mch_typography_editorial_quote_quote_lg_paragraph_spacing",
@@ -5501,12 +4869,12 @@ module.exports = {
           ]
         },
         "paragraphIndent": {
-          "value": 0,
+          "value": "0px",
           "type": "paragraphIndent",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "0px",
+            "value": "{paragraphIndent.0}",
             "type": "paragraphIndent"
           },
           "name": "mch_typography_editorial_quote_quote_lg_paragraph_indent",
@@ -5526,10 +4894,10 @@ module.exports = {
         "textCase": {
           "value": "none",
           "type": "textCase",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "none",
+            "value": "{textCase.none}",
             "type": "textCase"
           },
           "name": "mch_typography_editorial_quote_quote_lg_text_case",
@@ -5549,10 +4917,10 @@ module.exports = {
         "textDecoration": {
           "value": "none",
           "type": "textDecoration",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "none",
+            "value": "{textDecoration.none}",
             "type": "textDecoration"
           },
           "name": "mch_typography_editorial_quote_quote_lg_text_decoration",
@@ -5574,10 +4942,10 @@ module.exports = {
         "fontFamily": {
           "value": "Ivar Display",
           "type": "fontFamilies",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "Ivar Display",
+            "value": "{fontFamilies.ivar-display}",
             "type": "fontFamilies"
           },
           "name": "mch_typography_editorial_quote_quote_md_font_family",
@@ -5595,12 +4963,12 @@ module.exports = {
           ]
         },
         "fontWeight": {
-          "value": 400,
+          "value": "400",
           "type": "fontWeights",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "Regular",
+            "value": "{fontWeights.ivar-display-1}",
             "type": "fontWeights"
           },
           "name": "mch_typography_editorial_quote_quote_md_font_weight",
@@ -5618,13 +4986,13 @@ module.exports = {
           ]
         },
         "lineHeight": {
-          "value": "2.625rem",
-          "type": "lineHeight",
-          "filePath": "tokens/tokens-studio.json",
+          "value": "1rem",
+          "type": "lineHeights",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": 42,
-            "type": "lineHeight"
+            "value": "{lineHeights.6}",
+            "type": "lineHeights"
           },
           "name": "mch_typography_editorial_quote_quote_md_line_height",
           "attributes": {
@@ -5641,12 +5009,12 @@ module.exports = {
           ]
         },
         "fontSize": {
-          "value": "2.125rem",
+          "value": "1.75rem",
           "type": "fontSizes",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": 34,
+            "value": "{fontSize.9}",
             "type": "fontSizes"
           },
           "name": "mch_typography_editorial_quote_quote_md_font_size",
@@ -5666,10 +5034,10 @@ module.exports = {
         "letterSpacing": {
           "value": "0%",
           "type": "letterSpacing",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "0%",
+            "value": "{letterSpacing.1}",
             "type": "letterSpacing"
           },
           "name": "mch_typography_editorial_quote_quote_md_letter_spacing",
@@ -5687,12 +5055,12 @@ module.exports = {
           ]
         },
         "paragraphSpacing": {
-          "value": 0,
+          "value": "0",
           "type": "paragraphSpacing",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": 0,
+            "value": "{paragraphSpacing.0}",
             "type": "paragraphSpacing"
           },
           "name": "mch_typography_editorial_quote_quote_md_paragraph_spacing",
@@ -5710,12 +5078,12 @@ module.exports = {
           ]
         },
         "paragraphIndent": {
-          "value": 0,
+          "value": "0px",
           "type": "paragraphIndent",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "0px",
+            "value": "{paragraphIndent.0}",
             "type": "paragraphIndent"
           },
           "name": "mch_typography_editorial_quote_quote_md_paragraph_indent",
@@ -5735,10 +5103,10 @@ module.exports = {
         "textCase": {
           "value": "none",
           "type": "textCase",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "none",
+            "value": "{textCase.none}",
             "type": "textCase"
           },
           "name": "mch_typography_editorial_quote_quote_md_text_case",
@@ -5758,10 +5126,10 @@ module.exports = {
         "textDecoration": {
           "value": "none",
           "type": "textDecoration",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "none",
+            "value": "{textDecoration.none}",
             "type": "textDecoration"
           },
           "name": "mch_typography_editorial_quote_quote_md_text_decoration",
@@ -5783,10 +5151,10 @@ module.exports = {
         "fontFamily": {
           "value": "Ivar Display",
           "type": "fontFamilies",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "Ivar Display",
+            "value": "{fontFamilies.ivar-display}",
             "type": "fontFamilies"
           },
           "name": "mch_typography_editorial_quote_quote_xs_sm_font_family",
@@ -5804,12 +5172,12 @@ module.exports = {
           ]
         },
         "fontWeight": {
-          "value": 400,
+          "value": "400",
           "type": "fontWeights",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "Regular",
+            "value": "{fontWeights.ivar-display-1}",
             "type": "fontWeights"
           },
           "name": "mch_typography_editorial_quote_quote_xs_sm_font_weight",
@@ -5827,13 +5195,13 @@ module.exports = {
           ]
         },
         "lineHeight": {
-          "value": "2.625rem",
-          "type": "lineHeight",
-          "filePath": "tokens/tokens-studio.json",
+          "value": "1rem",
+          "type": "lineHeights",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": 42,
-            "type": "lineHeight"
+            "value": "{lineHeights.6}",
+            "type": "lineHeights"
           },
           "name": "mch_typography_editorial_quote_quote_xs_sm_line_height",
           "attributes": {
@@ -5850,12 +5218,12 @@ module.exports = {
           ]
         },
         "fontSize": {
-          "value": "2rem",
+          "value": "1.375rem",
           "type": "fontSizes",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": 32,
+            "value": "{fontSize.8}",
             "type": "fontSizes"
           },
           "name": "mch_typography_editorial_quote_quote_xs_sm_font_size",
@@ -5875,10 +5243,10 @@ module.exports = {
         "letterSpacing": {
           "value": "0%",
           "type": "letterSpacing",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "0%",
+            "value": "{letterSpacing.1}",
             "type": "letterSpacing"
           },
           "name": "mch_typography_editorial_quote_quote_xs_sm_letter_spacing",
@@ -5896,12 +5264,12 @@ module.exports = {
           ]
         },
         "paragraphSpacing": {
-          "value": 0,
+          "value": "0",
           "type": "paragraphSpacing",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": 0,
+            "value": "{paragraphSpacing.0}",
             "type": "paragraphSpacing"
           },
           "name": "mch_typography_editorial_quote_quote_xs_sm_paragraph_spacing",
@@ -5919,12 +5287,12 @@ module.exports = {
           ]
         },
         "paragraphIndent": {
-          "value": 0,
+          "value": "0px",
           "type": "paragraphIndent",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "0px",
+            "value": "{paragraphIndent.0}",
             "type": "paragraphIndent"
           },
           "name": "mch_typography_editorial_quote_quote_xs_sm_paragraph_indent",
@@ -5944,10 +5312,10 @@ module.exports = {
         "textCase": {
           "value": "none",
           "type": "textCase",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "none",
+            "value": "{textCase.none}",
             "type": "textCase"
           },
           "name": "mch_typography_editorial_quote_quote_xs_sm_text_case",
@@ -5967,10 +5335,10 @@ module.exports = {
         "textDecoration": {
           "value": "none",
           "type": "textDecoration",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "none",
+            "value": "{textDecoration.none}",
             "type": "textDecoration"
           },
           "name": "mch_typography_editorial_quote_quote_xs_sm_text_decoration",
@@ -5994,10 +5362,10 @@ module.exports = {
         "fontFamily": {
           "value": "Ivar Display",
           "type": "fontFamilies",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "Ivar Display",
+            "value": "{fontFamilies.ivar-display}",
             "type": "fontFamilies"
           },
           "name": "mch_typography_editorial_headings_common_h1_xs_sm_font_family",
@@ -6015,12 +5383,12 @@ module.exports = {
           ]
         },
         "fontWeight": {
-          "value": 600,
+          "value": "600",
           "type": "fontWeights",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "SemiBold",
+            "value": "{fontWeights.ivar-display-2}",
             "type": "fontWeights"
           },
           "name": "mch_typography_editorial_headings_common_h1_xs_sm_font_weight",
@@ -6038,13 +5406,13 @@ module.exports = {
           ]
         },
         "lineHeight": {
-          "value": "2.625rem",
-          "type": "lineHeight",
-          "filePath": "tokens/tokens-studio.json",
+          "value": "1rem",
+          "type": "lineHeights",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": 42,
-            "type": "lineHeight"
+            "value": "{lineHeights.6}",
+            "type": "lineHeights"
           },
           "name": "mch_typography_editorial_headings_common_h1_xs_sm_line_height",
           "attributes": {
@@ -6061,12 +5429,12 @@ module.exports = {
           ]
         },
         "fontSize": {
-          "value": "1.875rem",
+          "value": "1.25rem",
           "type": "fontSizes",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": 30,
+            "value": "{fontSize.7}",
             "type": "fontSizes"
           },
           "name": "mch_typography_editorial_headings_common_h1_xs_sm_font_size",
@@ -6086,10 +5454,10 @@ module.exports = {
         "letterSpacing": {
           "value": "0%",
           "type": "letterSpacing",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "0%",
+            "value": "{letterSpacing.1}",
             "type": "letterSpacing"
           },
           "name": "mch_typography_editorial_headings_common_h1_xs_sm_letter_spacing",
@@ -6107,12 +5475,12 @@ module.exports = {
           ]
         },
         "paragraphSpacing": {
-          "value": 4,
+          "value": "4",
           "type": "paragraphSpacing",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": 4,
+            "value": "{paragraphSpacing.1}",
             "type": "paragraphSpacing"
           },
           "name": "mch_typography_editorial_headings_common_h1_xs_sm_paragraph_spacing",
@@ -6130,12 +5498,12 @@ module.exports = {
           ]
         },
         "paragraphIndent": {
-          "value": 0,
+          "value": "0px",
           "type": "paragraphIndent",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "0px",
+            "value": "{paragraphIndent.0}",
             "type": "paragraphIndent"
           },
           "name": "mch_typography_editorial_headings_common_h1_xs_sm_paragraph_indent",
@@ -6155,10 +5523,10 @@ module.exports = {
         "textCase": {
           "value": "none",
           "type": "textCase",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "none",
+            "value": "{textCase.none}",
             "type": "textCase"
           },
           "name": "mch_typography_editorial_headings_common_h1_xs_sm_text_case",
@@ -6178,10 +5546,10 @@ module.exports = {
         "textDecoration": {
           "value": "none",
           "type": "textDecoration",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "none",
+            "value": "{textDecoration.none}",
             "type": "textDecoration"
           },
           "name": "mch_typography_editorial_headings_common_h1_xs_sm_text_decoration",
@@ -6203,10 +5571,10 @@ module.exports = {
         "fontFamily": {
           "value": "Ivar Display",
           "type": "fontFamilies",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "Ivar Display",
+            "value": "{fontFamilies.ivar-display}",
             "type": "fontFamilies"
           },
           "name": "mch_typography_editorial_headings_common_h2_xs_sm_font_family",
@@ -6224,12 +5592,12 @@ module.exports = {
           ]
         },
         "fontWeight": {
-          "value": 600,
+          "value": "600",
           "type": "fontWeights",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "SemiBold",
+            "value": "{fontWeights.ivar-display-2}",
             "type": "fontWeights"
           },
           "name": "mch_typography_editorial_headings_common_h2_xs_sm_font_weight",
@@ -6247,13 +5615,13 @@ module.exports = {
           ]
         },
         "lineHeight": {
-          "value": "1.875rem",
-          "type": "lineHeight",
-          "filePath": "tokens/tokens-studio.json",
+          "value": "2.125rem",
+          "type": "lineHeights",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": 30,
-            "type": "lineHeight"
+            "value": "{lineHeights.1}",
+            "type": "lineHeights"
           },
           "name": "mch_typography_editorial_headings_common_h2_xs_sm_line_height",
           "attributes": {
@@ -6270,12 +5638,12 @@ module.exports = {
           ]
         },
         "fontSize": {
-          "value": "1.625rem",
+          "value": "1.0625rem",
           "type": "fontSizes",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": 26,
+            "value": "{fontSize.6}",
             "type": "fontSizes"
           },
           "name": "mch_typography_editorial_headings_common_h2_xs_sm_font_size",
@@ -6295,10 +5663,10 @@ module.exports = {
         "letterSpacing": {
           "value": "0%",
           "type": "letterSpacing",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "0%",
+            "value": "{letterSpacing.1}",
             "type": "letterSpacing"
           },
           "name": "mch_typography_editorial_headings_common_h2_xs_sm_letter_spacing",
@@ -6316,12 +5684,12 @@ module.exports = {
           ]
         },
         "paragraphSpacing": {
-          "value": 4,
+          "value": "4",
           "type": "paragraphSpacing",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": 4,
+            "value": "{paragraphSpacing.1}",
             "type": "paragraphSpacing"
           },
           "name": "mch_typography_editorial_headings_common_h2_xs_sm_paragraph_spacing",
@@ -6339,12 +5707,12 @@ module.exports = {
           ]
         },
         "paragraphIndent": {
-          "value": 0,
+          "value": "0px",
           "type": "paragraphIndent",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "0px",
+            "value": "{paragraphIndent.0}",
             "type": "paragraphIndent"
           },
           "name": "mch_typography_editorial_headings_common_h2_xs_sm_paragraph_indent",
@@ -6364,10 +5732,10 @@ module.exports = {
         "textCase": {
           "value": "none",
           "type": "textCase",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "none",
+            "value": "{textCase.none}",
             "type": "textCase"
           },
           "name": "mch_typography_editorial_headings_common_h2_xs_sm_text_case",
@@ -6387,10 +5755,10 @@ module.exports = {
         "textDecoration": {
           "value": "none",
           "type": "textDecoration",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "none",
+            "value": "{textDecoration.none}",
             "type": "textDecoration"
           },
           "name": "mch_typography_editorial_headings_common_h2_xs_sm_text_decoration",
@@ -6412,10 +5780,10 @@ module.exports = {
         "fontFamily": {
           "value": "Ivar Display",
           "type": "fontFamilies",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "Ivar Display",
+            "value": "{fontFamilies.ivar-display}",
             "type": "fontFamilies"
           },
           "name": "mch_typography_editorial_headings_common_h3_xs_sm_font_family",
@@ -6433,12 +5801,12 @@ module.exports = {
           ]
         },
         "fontWeight": {
-          "value": 600,
+          "value": "600",
           "type": "fontWeights",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "SemiBold",
+            "value": "{fontWeights.ivar-display-2}",
             "type": "fontWeights"
           },
           "name": "mch_typography_editorial_headings_common_h3_xs_sm_font_weight",
@@ -6457,12 +5825,12 @@ module.exports = {
         },
         "lineHeight": {
           "value": "2rem",
-          "type": "lineHeight",
-          "filePath": "tokens/tokens-studio.json",
+          "type": "lineHeights",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": 32,
-            "type": "lineHeight"
+            "value": "{lineHeights.10}",
+            "type": "lineHeights"
           },
           "name": "mch_typography_editorial_headings_common_h3_xs_sm_line_height",
           "attributes": {
@@ -6479,12 +5847,12 @@ module.exports = {
           ]
         },
         "fontSize": {
-          "value": "1.5rem",
+          "value": "1rem",
           "type": "fontSizes",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": 24,
+            "value": "{fontSize.5}",
             "type": "fontSizes"
           },
           "name": "mch_typography_editorial_headings_common_h3_xs_sm_font_size",
@@ -6504,10 +5872,10 @@ module.exports = {
         "letterSpacing": {
           "value": "0%",
           "type": "letterSpacing",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "0%",
+            "value": "{letterSpacing.1}",
             "type": "letterSpacing"
           },
           "name": "mch_typography_editorial_headings_common_h3_xs_sm_letter_spacing",
@@ -6525,12 +5893,12 @@ module.exports = {
           ]
         },
         "paragraphSpacing": {
-          "value": 4,
+          "value": "4",
           "type": "paragraphSpacing",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": 4,
+            "value": "{paragraphSpacing.1}",
             "type": "paragraphSpacing"
           },
           "name": "mch_typography_editorial_headings_common_h3_xs_sm_paragraph_spacing",
@@ -6548,12 +5916,12 @@ module.exports = {
           ]
         },
         "paragraphIndent": {
-          "value": 0,
+          "value": "0px",
           "type": "paragraphIndent",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "0px",
+            "value": "{paragraphIndent.0}",
             "type": "paragraphIndent"
           },
           "name": "mch_typography_editorial_headings_common_h3_xs_sm_paragraph_indent",
@@ -6573,10 +5941,10 @@ module.exports = {
         "textCase": {
           "value": "none",
           "type": "textCase",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "none",
+            "value": "{textCase.none}",
             "type": "textCase"
           },
           "name": "mch_typography_editorial_headings_common_h3_xs_sm_text_case",
@@ -6596,10 +5964,10 @@ module.exports = {
         "textDecoration": {
           "value": "none",
           "type": "textDecoration",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "none",
+            "value": "{textDecoration.none}",
             "type": "textDecoration"
           },
           "name": "mch_typography_editorial_headings_common_h3_xs_sm_text_decoration",
@@ -6621,10 +5989,10 @@ module.exports = {
         "fontFamily": {
           "value": "Ivar Display",
           "type": "fontFamilies",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "Ivar Display",
+            "value": "{fontFamilies.ivar-display}",
             "type": "fontFamilies"
           },
           "name": "mch_typography_editorial_headings_common_h4_xs_sm_font_family",
@@ -6642,12 +6010,12 @@ module.exports = {
           ]
         },
         "fontWeight": {
-          "value": 600,
+          "value": "600",
           "type": "fontWeights",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "SemiBold",
+            "value": "{fontWeights.ivar-display-2}",
             "type": "fontWeights"
           },
           "name": "mch_typography_editorial_headings_common_h4_xs_sm_font_weight",
@@ -6666,12 +6034,12 @@ module.exports = {
         },
         "lineHeight": {
           "value": "1.5rem",
-          "type": "lineHeight",
-          "filePath": "tokens/tokens-studio.json",
+          "type": "lineHeights",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": 24,
-            "type": "lineHeight"
+            "value": "{lineHeights.11}",
+            "type": "lineHeights"
           },
           "name": "mch_typography_editorial_headings_common_h4_xs_sm_line_height",
           "attributes": {
@@ -6688,12 +6056,12 @@ module.exports = {
           ]
         },
         "fontSize": {
-          "value": "1.25rem",
+          "value": "0.9375rem",
           "type": "fontSizes",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": 20,
+            "value": "{fontSize.4}",
             "type": "fontSizes"
           },
           "name": "mch_typography_editorial_headings_common_h4_xs_sm_font_size",
@@ -6713,10 +6081,10 @@ module.exports = {
         "letterSpacing": {
           "value": "0%",
           "type": "letterSpacing",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "0%",
+            "value": "{letterSpacing.1}",
             "type": "letterSpacing"
           },
           "name": "mch_typography_editorial_headings_common_h4_xs_sm_letter_spacing",
@@ -6734,12 +6102,12 @@ module.exports = {
           ]
         },
         "paragraphSpacing": {
-          "value": 4,
+          "value": "4",
           "type": "paragraphSpacing",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": 4,
+            "value": "{paragraphSpacing.1}",
             "type": "paragraphSpacing"
           },
           "name": "mch_typography_editorial_headings_common_h4_xs_sm_paragraph_spacing",
@@ -6757,12 +6125,12 @@ module.exports = {
           ]
         },
         "paragraphIndent": {
-          "value": 0,
+          "value": "0px",
           "type": "paragraphIndent",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "0px",
+            "value": "{paragraphIndent.0}",
             "type": "paragraphIndent"
           },
           "name": "mch_typography_editorial_headings_common_h4_xs_sm_paragraph_indent",
@@ -6782,10 +6150,10 @@ module.exports = {
         "textCase": {
           "value": "none",
           "type": "textCase",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "none",
+            "value": "{textCase.none}",
             "type": "textCase"
           },
           "name": "mch_typography_editorial_headings_common_h4_xs_sm_text_case",
@@ -6805,10 +6173,10 @@ module.exports = {
         "textDecoration": {
           "value": "none",
           "type": "textDecoration",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "none",
+            "value": "{textDecoration.none}",
             "type": "textDecoration"
           },
           "name": "mch_typography_editorial_headings_common_h4_xs_sm_text_decoration",
@@ -6830,10 +6198,10 @@ module.exports = {
         "fontFamily": {
           "value": "Ivar Display",
           "type": "fontFamilies",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "Ivar Display",
+            "value": "{fontFamilies.ivar-display}",
             "type": "fontFamilies"
           },
           "name": "mch_typography_editorial_headings_common_h5_xs_sm_font_family",
@@ -6851,12 +6219,12 @@ module.exports = {
           ]
         },
         "fontWeight": {
-          "value": 600,
+          "value": "600",
           "type": "fontWeights",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "SemiBold",
+            "value": "{fontWeights.ivar-display-2}",
             "type": "fontWeights"
           },
           "name": "mch_typography_editorial_headings_common_h5_xs_sm_font_weight",
@@ -6875,12 +6243,12 @@ module.exports = {
         },
         "lineHeight": {
           "value": "1.25rem",
-          "type": "lineHeight",
-          "filePath": "tokens/tokens-studio.json",
+          "type": "lineHeights",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": 20,
-            "type": "lineHeight"
+            "value": "{lineHeights.12}",
+            "type": "lineHeights"
           },
           "name": "mch_typography_editorial_headings_common_h5_xs_sm_line_height",
           "attributes": {
@@ -6897,12 +6265,12 @@ module.exports = {
           ]
         },
         "fontSize": {
-          "value": "1.125rem",
+          "value": "0.875rem",
           "type": "fontSizes",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": 18,
+            "value": "{fontSize.3}",
             "type": "fontSizes"
           },
           "name": "mch_typography_editorial_headings_common_h5_xs_sm_font_size",
@@ -6922,10 +6290,10 @@ module.exports = {
         "letterSpacing": {
           "value": "0%",
           "type": "letterSpacing",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "0%",
+            "value": "{letterSpacing.1}",
             "type": "letterSpacing"
           },
           "name": "mch_typography_editorial_headings_common_h5_xs_sm_letter_spacing",
@@ -6943,12 +6311,12 @@ module.exports = {
           ]
         },
         "paragraphSpacing": {
-          "value": 4,
+          "value": "4",
           "type": "paragraphSpacing",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": 4,
+            "value": "{paragraphSpacing.1}",
             "type": "paragraphSpacing"
           },
           "name": "mch_typography_editorial_headings_common_h5_xs_sm_paragraph_spacing",
@@ -6966,12 +6334,12 @@ module.exports = {
           ]
         },
         "paragraphIndent": {
-          "value": 0,
+          "value": "0px",
           "type": "paragraphIndent",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "0px",
+            "value": "{paragraphIndent.0}",
             "type": "paragraphIndent"
           },
           "name": "mch_typography_editorial_headings_common_h5_xs_sm_paragraph_indent",
@@ -6991,10 +6359,10 @@ module.exports = {
         "textCase": {
           "value": "none",
           "type": "textCase",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "none",
+            "value": "{textCase.none}",
             "type": "textCase"
           },
           "name": "mch_typography_editorial_headings_common_h5_xs_sm_text_case",
@@ -7014,10 +6382,10 @@ module.exports = {
         "textDecoration": {
           "value": "none",
           "type": "textDecoration",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "none",
+            "value": "{textDecoration.none}",
             "type": "textDecoration"
           },
           "name": "mch_typography_editorial_headings_common_h5_xs_sm_text_decoration",
@@ -7039,10 +6407,10 @@ module.exports = {
         "fontFamily": {
           "value": "Ivar Display",
           "type": "fontFamilies",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "Ivar Display",
+            "value": "{fontFamilies.ivar-display}",
             "type": "fontFamilies"
           },
           "name": "mch_typography_editorial_headings_common_h1_xl_font_family",
@@ -7060,12 +6428,12 @@ module.exports = {
           ]
         },
         "fontWeight": {
-          "value": 600,
+          "value": "600",
           "type": "fontWeights",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "SemiBold",
+            "value": "{fontWeights.ivar-display-2}",
             "type": "fontWeights"
           },
           "name": "mch_typography_editorial_headings_common_h1_xl_font_weight",
@@ -7084,12 +6452,12 @@ module.exports = {
         },
         "lineHeight": {
           "value": "4rem",
-          "type": "lineHeight",
-          "filePath": "tokens/tokens-studio.json",
+          "type": "lineHeights",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": 64,
-            "type": "lineHeight"
+            "value": "{lineHeights.13}",
+            "type": "lineHeights"
           },
           "name": "mch_typography_editorial_headings_common_h1_xl_line_height",
           "attributes": {
@@ -7108,10 +6476,10 @@ module.exports = {
         "fontSize": {
           "value": "3rem",
           "type": "fontSizes",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": 48,
+            "value": "{fontSize.14}",
             "type": "fontSizes"
           },
           "name": "mch_typography_editorial_headings_common_h1_xl_font_size",
@@ -7129,12 +6497,12 @@ module.exports = {
           ]
         },
         "letterSpacing": {
-          "value": 0,
+          "value": "0",
           "type": "letterSpacing",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": 0,
+            "value": "{letterSpacing.0}",
             "type": "letterSpacing"
           },
           "name": "mch_typography_editorial_headings_common_h1_xl_letter_spacing",
@@ -7152,12 +6520,12 @@ module.exports = {
           ]
         },
         "paragraphSpacing": {
-          "value": 4,
+          "value": "4",
           "type": "paragraphSpacing",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": 4,
+            "value": "{paragraphSpacing.1}",
             "type": "paragraphSpacing"
           },
           "name": "mch_typography_editorial_headings_common_h1_xl_paragraph_spacing",
@@ -7175,12 +6543,12 @@ module.exports = {
           ]
         },
         "paragraphIndent": {
-          "value": 0,
+          "value": "0px",
           "type": "paragraphIndent",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "0px",
+            "value": "{paragraphIndent.0}",
             "type": "paragraphIndent"
           },
           "name": "mch_typography_editorial_headings_common_h1_xl_paragraph_indent",
@@ -7200,10 +6568,10 @@ module.exports = {
         "textCase": {
           "value": "none",
           "type": "textCase",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "none",
+            "value": "{textCase.none}",
             "type": "textCase"
           },
           "name": "mch_typography_editorial_headings_common_h1_xl_text_case",
@@ -7223,10 +6591,10 @@ module.exports = {
         "textDecoration": {
           "value": "none",
           "type": "textDecoration",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "none",
+            "value": "{textDecoration.none}",
             "type": "textDecoration"
           },
           "name": "mch_typography_editorial_headings_common_h1_xl_text_decoration",
@@ -7248,10 +6616,10 @@ module.exports = {
         "fontFamily": {
           "value": "Ivar Display",
           "type": "fontFamilies",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "Ivar Display",
+            "value": "{fontFamilies.ivar-display}",
             "type": "fontFamilies"
           },
           "name": "mch_typography_editorial_headings_common_h2_xl_font_family",
@@ -7269,12 +6637,12 @@ module.exports = {
           ]
         },
         "fontWeight": {
-          "value": 600,
+          "value": "600",
           "type": "fontWeights",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "SemiBold",
+            "value": "{fontWeights.ivar-display-2}",
             "type": "fontWeights"
           },
           "name": "mch_typography_editorial_headings_common_h2_xl_font_weight",
@@ -7292,13 +6660,13 @@ module.exports = {
           ]
         },
         "lineHeight": {
-          "value": "3.375rem",
-          "type": "lineHeight",
-          "filePath": "tokens/tokens-studio.json",
+          "value": "1.125rem",
+          "type": "lineHeights",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": 54,
-            "type": "lineHeight"
+            "value": "{lineHeights.8}",
+            "type": "lineHeights"
           },
           "name": "mch_typography_editorial_headings_common_h2_xl_line_height",
           "attributes": {
@@ -7317,10 +6685,10 @@ module.exports = {
         "fontSize": {
           "value": "2.625rem",
           "type": "fontSizes",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": 42,
+            "value": "{fontSize.13}",
             "type": "fontSizes"
           },
           "name": "mch_typography_editorial_headings_common_h2_xl_font_size",
@@ -7340,10 +6708,10 @@ module.exports = {
         "letterSpacing": {
           "value": "0%",
           "type": "letterSpacing",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "0%",
+            "value": "{letterSpacing.1}",
             "type": "letterSpacing"
           },
           "name": "mch_typography_editorial_headings_common_h2_xl_letter_spacing",
@@ -7361,12 +6729,12 @@ module.exports = {
           ]
         },
         "paragraphSpacing": {
-          "value": 4,
+          "value": "4",
           "type": "paragraphSpacing",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": 4,
+            "value": "{paragraphSpacing.1}",
             "type": "paragraphSpacing"
           },
           "name": "mch_typography_editorial_headings_common_h2_xl_paragraph_spacing",
@@ -7384,12 +6752,12 @@ module.exports = {
           ]
         },
         "paragraphIndent": {
-          "value": 0,
+          "value": "0px",
           "type": "paragraphIndent",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "0px",
+            "value": "{paragraphIndent.0}",
             "type": "paragraphIndent"
           },
           "name": "mch_typography_editorial_headings_common_h2_xl_paragraph_indent",
@@ -7409,10 +6777,10 @@ module.exports = {
         "textCase": {
           "value": "none",
           "type": "textCase",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "none",
+            "value": "{textCase.none}",
             "type": "textCase"
           },
           "name": "mch_typography_editorial_headings_common_h2_xl_text_case",
@@ -7432,10 +6800,10 @@ module.exports = {
         "textDecoration": {
           "value": "none",
           "type": "textDecoration",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "none",
+            "value": "{textDecoration.none}",
             "type": "textDecoration"
           },
           "name": "mch_typography_editorial_headings_common_h2_xl_text_decoration",
@@ -7457,10 +6825,10 @@ module.exports = {
         "fontFamily": {
           "value": "Ivar Display",
           "type": "fontFamilies",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "Ivar Display",
+            "value": "{fontFamilies.ivar-display}",
             "type": "fontFamilies"
           },
           "name": "mch_typography_editorial_headings_common_h3_xl_font_family",
@@ -7478,12 +6846,12 @@ module.exports = {
           ]
         },
         "fontWeight": {
-          "value": 600,
+          "value": "600",
           "type": "fontWeights",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "SemiBold",
+            "value": "{fontWeights.ivar-display-2}",
             "type": "fontWeights"
           },
           "name": "mch_typography_editorial_headings_common_h3_xl_font_weight",
@@ -7501,13 +6869,13 @@ module.exports = {
           ]
         },
         "lineHeight": {
-          "value": "3rem",
-          "type": "lineHeight",
-          "filePath": "tokens/tokens-studio.json",
+          "value": "1.25rem",
+          "type": "lineHeights",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": 48,
-            "type": "lineHeight"
+            "value": "{lineHeights.5}",
+            "type": "lineHeights"
           },
           "name": "mch_typography_editorial_headings_common_h3_xl_line_height",
           "attributes": {
@@ -7524,12 +6892,12 @@ module.exports = {
           ]
         },
         "fontSize": {
-          "value": "2.25rem",
+          "value": "2.125rem",
           "type": "fontSizes",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": 36,
+            "value": "{fontSize.10}",
             "type": "fontSizes"
           },
           "name": "mch_typography_editorial_headings_common_h3_xl_font_size",
@@ -7549,10 +6917,10 @@ module.exports = {
         "letterSpacing": {
           "value": "0%",
           "type": "letterSpacing",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "0%",
+            "value": "{letterSpacing.1}",
             "type": "letterSpacing"
           },
           "name": "mch_typography_editorial_headings_common_h3_xl_letter_spacing",
@@ -7570,12 +6938,12 @@ module.exports = {
           ]
         },
         "paragraphSpacing": {
-          "value": 4,
+          "value": "4",
           "type": "paragraphSpacing",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": 4,
+            "value": "{paragraphSpacing.1}",
             "type": "paragraphSpacing"
           },
           "name": "mch_typography_editorial_headings_common_h3_xl_paragraph_spacing",
@@ -7593,12 +6961,12 @@ module.exports = {
           ]
         },
         "paragraphIndent": {
-          "value": 0,
+          "value": "0px",
           "type": "paragraphIndent",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "0px",
+            "value": "{paragraphIndent.0}",
             "type": "paragraphIndent"
           },
           "name": "mch_typography_editorial_headings_common_h3_xl_paragraph_indent",
@@ -7618,10 +6986,10 @@ module.exports = {
         "textCase": {
           "value": "none",
           "type": "textCase",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "none",
+            "value": "{textCase.none}",
             "type": "textCase"
           },
           "name": "mch_typography_editorial_headings_common_h3_xl_text_case",
@@ -7641,10 +7009,10 @@ module.exports = {
         "textDecoration": {
           "value": "none",
           "type": "textDecoration",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "none",
+            "value": "{textDecoration.none}",
             "type": "textDecoration"
           },
           "name": "mch_typography_editorial_headings_common_h3_xl_text_decoration",
@@ -7666,10 +7034,10 @@ module.exports = {
         "fontFamily": {
           "value": "Ivar Display",
           "type": "fontFamilies",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "Ivar Display",
+            "value": "{fontFamilies.ivar-display}",
             "type": "fontFamilies"
           },
           "name": "mch_typography_editorial_headings_common_h4_xl_font_family",
@@ -7687,12 +7055,12 @@ module.exports = {
           ]
         },
         "fontWeight": {
-          "value": 600,
+          "value": "600",
           "type": "fontWeights",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "SemiBold",
+            "value": "{fontWeights.ivar-display-2}",
             "type": "fontWeights"
           },
           "name": "mch_typography_editorial_headings_common_h4_xl_font_weight",
@@ -7710,13 +7078,13 @@ module.exports = {
           ]
         },
         "lineHeight": {
-          "value": "2.625rem",
-          "type": "lineHeight",
-          "filePath": "tokens/tokens-studio.json",
+          "value": "1rem",
+          "type": "lineHeights",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": 42,
-            "type": "lineHeight"
+            "value": "{lineHeights.6}",
+            "type": "lineHeights"
           },
           "name": "mch_typography_editorial_headings_common_h4_xl_line_height",
           "attributes": {
@@ -7733,12 +7101,12 @@ module.exports = {
           ]
         },
         "fontSize": {
-          "value": "1.875rem",
+          "value": "1.25rem",
           "type": "fontSizes",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": 30,
+            "value": "{fontSize.7}",
             "type": "fontSizes"
           },
           "name": "mch_typography_editorial_headings_common_h4_xl_font_size",
@@ -7758,10 +7126,10 @@ module.exports = {
         "letterSpacing": {
           "value": "0%",
           "type": "letterSpacing",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "0%",
+            "value": "{letterSpacing.1}",
             "type": "letterSpacing"
           },
           "name": "mch_typography_editorial_headings_common_h4_xl_letter_spacing",
@@ -7779,12 +7147,12 @@ module.exports = {
           ]
         },
         "paragraphSpacing": {
-          "value": 4,
+          "value": "4",
           "type": "paragraphSpacing",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": 4,
+            "value": "{paragraphSpacing.1}",
             "type": "paragraphSpacing"
           },
           "name": "mch_typography_editorial_headings_common_h4_xl_paragraph_spacing",
@@ -7802,12 +7170,12 @@ module.exports = {
           ]
         },
         "paragraphIndent": {
-          "value": 0,
+          "value": "0px",
           "type": "paragraphIndent",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "0px",
+            "value": "{paragraphIndent.0}",
             "type": "paragraphIndent"
           },
           "name": "mch_typography_editorial_headings_common_h4_xl_paragraph_indent",
@@ -7827,10 +7195,10 @@ module.exports = {
         "textCase": {
           "value": "none",
           "type": "textCase",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "none",
+            "value": "{textCase.none}",
             "type": "textCase"
           },
           "name": "mch_typography_editorial_headings_common_h4_xl_text_case",
@@ -7850,10 +7218,10 @@ module.exports = {
         "textDecoration": {
           "value": "none",
           "type": "textDecoration",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "none",
+            "value": "{textDecoration.none}",
             "type": "textDecoration"
           },
           "name": "mch_typography_editorial_headings_common_h4_xl_text_decoration",
@@ -7875,10 +7243,10 @@ module.exports = {
         "fontFamily": {
           "value": "Ivar Display",
           "type": "fontFamilies",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "Ivar Display",
+            "value": "{fontFamilies.ivar-display}",
             "type": "fontFamilies"
           },
           "name": "mch_typography_editorial_headings_common_h5_xl_font_family",
@@ -7896,12 +7264,12 @@ module.exports = {
           ]
         },
         "fontWeight": {
-          "value": 600,
+          "value": "600",
           "type": "fontWeights",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "SemiBold",
+            "value": "{fontWeights.ivar-display-2}",
             "type": "fontWeights"
           },
           "name": "mch_typography_editorial_headings_common_h5_xl_font_weight",
@@ -7920,12 +7288,12 @@ module.exports = {
         },
         "lineHeight": {
           "value": "2rem",
-          "type": "lineHeight",
-          "filePath": "tokens/tokens-studio.json",
+          "type": "lineHeights",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": 32,
-            "type": "lineHeight"
+            "value": "{lineHeights.10}",
+            "type": "lineHeights"
           },
           "name": "mch_typography_editorial_headings_common_h5_xl_line_height",
           "attributes": {
@@ -7942,12 +7310,12 @@ module.exports = {
           ]
         },
         "fontSize": {
-          "value": "1.5rem",
+          "value": "1rem",
           "type": "fontSizes",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": 24,
+            "value": "{fontSize.5}",
             "type": "fontSizes"
           },
           "name": "mch_typography_editorial_headings_common_h5_xl_font_size",
@@ -7967,10 +7335,10 @@ module.exports = {
         "letterSpacing": {
           "value": "0%",
           "type": "letterSpacing",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "0%",
+            "value": "{letterSpacing.1}",
             "type": "letterSpacing"
           },
           "name": "mch_typography_editorial_headings_common_h5_xl_letter_spacing",
@@ -7988,12 +7356,12 @@ module.exports = {
           ]
         },
         "paragraphSpacing": {
-          "value": 4,
+          "value": "4",
           "type": "paragraphSpacing",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": 4,
+            "value": "{paragraphSpacing.1}",
             "type": "paragraphSpacing"
           },
           "name": "mch_typography_editorial_headings_common_h5_xl_paragraph_spacing",
@@ -8011,12 +7379,12 @@ module.exports = {
           ]
         },
         "paragraphIndent": {
-          "value": 0,
+          "value": "0px",
           "type": "paragraphIndent",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "0px",
+            "value": "{paragraphIndent.0}",
             "type": "paragraphIndent"
           },
           "name": "mch_typography_editorial_headings_common_h5_xl_paragraph_indent",
@@ -8036,10 +7404,10 @@ module.exports = {
         "textCase": {
           "value": "none",
           "type": "textCase",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "none",
+            "value": "{textCase.none}",
             "type": "textCase"
           },
           "name": "mch_typography_editorial_headings_common_h5_xl_text_case",
@@ -8059,10 +7427,10 @@ module.exports = {
         "textDecoration": {
           "value": "none",
           "type": "textDecoration",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "none",
+            "value": "{textDecoration.none}",
             "type": "textDecoration"
           },
           "name": "mch_typography_editorial_headings_common_h5_xl_text_decoration",
@@ -8086,10 +7454,10 @@ module.exports = {
         "fontFamily": {
           "value": "Art Basel Text",
           "type": "fontFamilies",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "Art Basel Text",
+            "value": "{fontFamilies.art-basel-text}",
             "type": "fontFamilies"
           },
           "name": "mch_typography_paragraphs_other_p1_md_font_family",
@@ -8107,12 +7475,12 @@ module.exports = {
           ]
         },
         "fontWeight": {
-          "value": 400,
+          "value": "400",
           "type": "fontWeights",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "Regular",
+            "value": "{fontWeights.art-basel-text-3}",
             "type": "fontWeights"
           },
           "name": "mch_typography_paragraphs_other_p1_md_font_weight",
@@ -8130,13 +7498,13 @@ module.exports = {
           ]
         },
         "lineHeight": {
-          "value": "2.125rem",
-          "type": "lineHeight",
-          "filePath": "tokens/tokens-studio.json",
+          "value": "0.8125rem",
+          "type": "lineHeights",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": 34,
-            "type": "lineHeight"
+            "value": "{lineHeights.7}",
+            "type": "lineHeights"
           },
           "name": "mch_typography_paragraphs_other_p1_md_line_height",
           "attributes": {
@@ -8153,12 +7521,12 @@ module.exports = {
           ]
         },
         "fontSize": {
-          "value": "1.875rem",
+          "value": "1.25rem",
           "type": "fontSizes",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": 30,
+            "value": "{fontSize.7}",
             "type": "fontSizes"
           },
           "name": "mch_typography_paragraphs_other_p1_md_font_size",
@@ -8178,10 +7546,10 @@ module.exports = {
         "letterSpacing": {
           "value": "0%",
           "type": "letterSpacing",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "0%",
+            "value": "{letterSpacing.1}",
             "type": "letterSpacing"
           },
           "name": "mch_typography_paragraphs_other_p1_md_letter_spacing",
@@ -8199,12 +7567,12 @@ module.exports = {
           ]
         },
         "paragraphSpacing": {
-          "value": 4,
+          "value": "4",
           "type": "paragraphSpacing",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": 4,
+            "value": "{paragraphSpacing.1}",
             "type": "paragraphSpacing"
           },
           "name": "mch_typography_paragraphs_other_p1_md_paragraph_spacing",
@@ -8222,12 +7590,12 @@ module.exports = {
           ]
         },
         "paragraphIndent": {
-          "value": 0,
+          "value": "0px",
           "type": "paragraphIndent",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "0px",
+            "value": "{paragraphIndent.0}",
             "type": "paragraphIndent"
           },
           "name": "mch_typography_paragraphs_other_p1_md_paragraph_indent",
@@ -8247,10 +7615,10 @@ module.exports = {
         "textCase": {
           "value": "none",
           "type": "textCase",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "none",
+            "value": "{textCase.none}",
             "type": "textCase"
           },
           "name": "mch_typography_paragraphs_other_p1_md_text_case",
@@ -8270,10 +7638,10 @@ module.exports = {
         "textDecoration": {
           "value": "none",
           "type": "textDecoration",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "none",
+            "value": "{textDecoration.none}",
             "type": "textDecoration"
           },
           "name": "mch_typography_paragraphs_other_p1_md_text_decoration",
@@ -8295,10 +7663,10 @@ module.exports = {
         "fontFamily": {
           "value": "Art Basel Text",
           "type": "fontFamilies",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "Art Basel Text",
+            "value": "{fontFamilies.art-basel-text}",
             "type": "fontFamilies"
           },
           "name": "mch_typography_paragraphs_other_p2_md_font_family",
@@ -8316,12 +7684,12 @@ module.exports = {
           ]
         },
         "fontWeight": {
-          "value": 400,
+          "value": "400",
           "type": "fontWeights",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "Regular",
+            "value": "{fontWeights.art-basel-text-3}",
             "type": "fontWeights"
           },
           "name": "mch_typography_paragraphs_other_p2_md_font_weight",
@@ -8340,12 +7708,12 @@ module.exports = {
         },
         "lineHeight": {
           "value": "1.75rem",
-          "type": "lineHeight",
-          "filePath": "tokens/tokens-studio.json",
+          "type": "lineHeights",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": 28,
-            "type": "lineHeight"
+            "value": "{lineHeights.2}",
+            "type": "lineHeights"
           },
           "name": "mch_typography_paragraphs_other_p2_md_line_height",
           "attributes": {
@@ -8362,12 +7730,12 @@ module.exports = {
           ]
         },
         "fontSize": {
-          "value": "1.5rem",
+          "value": "1rem",
           "type": "fontSizes",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": 24,
+            "value": "{fontSize.5}",
             "type": "fontSizes"
           },
           "name": "mch_typography_paragraphs_other_p2_md_font_size",
@@ -8387,10 +7755,10 @@ module.exports = {
         "letterSpacing": {
           "value": "0%",
           "type": "letterSpacing",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "0%",
+            "value": "{letterSpacing.1}",
             "type": "letterSpacing"
           },
           "name": "mch_typography_paragraphs_other_p2_md_letter_spacing",
@@ -8408,12 +7776,12 @@ module.exports = {
           ]
         },
         "paragraphSpacing": {
-          "value": 4,
+          "value": "4",
           "type": "paragraphSpacing",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": 4,
+            "value": "{paragraphSpacing.1}",
             "type": "paragraphSpacing"
           },
           "name": "mch_typography_paragraphs_other_p2_md_paragraph_spacing",
@@ -8431,12 +7799,12 @@ module.exports = {
           ]
         },
         "paragraphIndent": {
-          "value": 0,
+          "value": "0px",
           "type": "paragraphIndent",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "0px",
+            "value": "{paragraphIndent.0}",
             "type": "paragraphIndent"
           },
           "name": "mch_typography_paragraphs_other_p2_md_paragraph_indent",
@@ -8456,10 +7824,10 @@ module.exports = {
         "textCase": {
           "value": "none",
           "type": "textCase",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "none",
+            "value": "{textCase.none}",
             "type": "textCase"
           },
           "name": "mch_typography_paragraphs_other_p2_md_text_case",
@@ -8479,10 +7847,10 @@ module.exports = {
         "textDecoration": {
           "value": "none",
           "type": "textDecoration",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "none",
+            "value": "{textDecoration.none}",
             "type": "textDecoration"
           },
           "name": "mch_typography_paragraphs_other_p2_md_text_decoration",
@@ -8504,10 +7872,10 @@ module.exports = {
         "fontFamily": {
           "value": "Art Basel Text",
           "type": "fontFamilies",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "Art Basel Text",
+            "value": "{fontFamilies.art-basel-text}",
             "type": "fontFamilies"
           },
           "name": "mch_typography_paragraphs_other_p1_lg_font_family",
@@ -8525,12 +7893,12 @@ module.exports = {
           ]
         },
         "fontWeight": {
-          "value": 400,
+          "value": "400",
           "type": "fontWeights",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "Regular",
+            "value": "{fontWeights.art-basel-text-3}",
             "type": "fontWeights"
           },
           "name": "mch_typography_paragraphs_other_p1_lg_font_weight",
@@ -8548,13 +7916,13 @@ module.exports = {
           ]
         },
         "lineHeight": {
-          "value": "2.125rem",
-          "type": "lineHeight",
-          "filePath": "tokens/tokens-studio.json",
+          "value": "0.8125rem",
+          "type": "lineHeights",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": 34,
-            "type": "lineHeight"
+            "value": "{lineHeights.7}",
+            "type": "lineHeights"
           },
           "name": "mch_typography_paragraphs_other_p1_lg_line_height",
           "attributes": {
@@ -8571,12 +7939,12 @@ module.exports = {
           ]
         },
         "fontSize": {
-          "value": "1.875rem",
+          "value": "1.25rem",
           "type": "fontSizes",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": 30,
+            "value": "{fontSize.7}",
             "type": "fontSizes"
           },
           "name": "mch_typography_paragraphs_other_p1_lg_font_size",
@@ -8596,10 +7964,10 @@ module.exports = {
         "letterSpacing": {
           "value": "0%",
           "type": "letterSpacing",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "0%",
+            "value": "{letterSpacing.1}",
             "type": "letterSpacing"
           },
           "name": "mch_typography_paragraphs_other_p1_lg_letter_spacing",
@@ -8617,12 +7985,12 @@ module.exports = {
           ]
         },
         "paragraphSpacing": {
-          "value": 4,
+          "value": "4",
           "type": "paragraphSpacing",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": 4,
+            "value": "{paragraphSpacing.1}",
             "type": "paragraphSpacing"
           },
           "name": "mch_typography_paragraphs_other_p1_lg_paragraph_spacing",
@@ -8640,12 +8008,12 @@ module.exports = {
           ]
         },
         "paragraphIndent": {
-          "value": 0,
+          "value": "0px",
           "type": "paragraphIndent",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "0px",
+            "value": "{paragraphIndent.0}",
             "type": "paragraphIndent"
           },
           "name": "mch_typography_paragraphs_other_p1_lg_paragraph_indent",
@@ -8665,10 +8033,10 @@ module.exports = {
         "textCase": {
           "value": "none",
           "type": "textCase",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "none",
+            "value": "{textCase.none}",
             "type": "textCase"
           },
           "name": "mch_typography_paragraphs_other_p1_lg_text_case",
@@ -8688,10 +8056,10 @@ module.exports = {
         "textDecoration": {
           "value": "none",
           "type": "textDecoration",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "none",
+            "value": "{textDecoration.none}",
             "type": "textDecoration"
           },
           "name": "mch_typography_paragraphs_other_p1_lg_text_decoration",
@@ -8713,10 +8081,10 @@ module.exports = {
         "fontFamily": {
           "value": "Art Basel Text",
           "type": "fontFamilies",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "Art Basel Text",
+            "value": "{fontFamilies.art-basel-text}",
             "type": "fontFamilies"
           },
           "name": "mch_typography_paragraphs_other_p2_lg_font_family",
@@ -8734,12 +8102,12 @@ module.exports = {
           ]
         },
         "fontWeight": {
-          "value": 400,
+          "value": "400",
           "type": "fontWeights",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "Regular",
+            "value": "{fontWeights.art-basel-text-3}",
             "type": "fontWeights"
           },
           "name": "mch_typography_paragraphs_other_p2_lg_font_weight",
@@ -8758,12 +8126,12 @@ module.exports = {
         },
         "lineHeight": {
           "value": "1.75rem",
-          "type": "lineHeight",
-          "filePath": "tokens/tokens-studio.json",
+          "type": "lineHeights",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": 28,
-            "type": "lineHeight"
+            "value": "{lineHeights.2}",
+            "type": "lineHeights"
           },
           "name": "mch_typography_paragraphs_other_p2_lg_line_height",
           "attributes": {
@@ -8780,12 +8148,12 @@ module.exports = {
           ]
         },
         "fontSize": {
-          "value": "1.5rem",
+          "value": "1rem",
           "type": "fontSizes",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": 24,
+            "value": "{fontSize.5}",
             "type": "fontSizes"
           },
           "name": "mch_typography_paragraphs_other_p2_lg_font_size",
@@ -8805,10 +8173,10 @@ module.exports = {
         "letterSpacing": {
           "value": "0%",
           "type": "letterSpacing",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "0%",
+            "value": "{letterSpacing.1}",
             "type": "letterSpacing"
           },
           "name": "mch_typography_paragraphs_other_p2_lg_letter_spacing",
@@ -8826,12 +8194,12 @@ module.exports = {
           ]
         },
         "paragraphSpacing": {
-          "value": 4,
+          "value": "4",
           "type": "paragraphSpacing",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": 4,
+            "value": "{paragraphSpacing.1}",
             "type": "paragraphSpacing"
           },
           "name": "mch_typography_paragraphs_other_p2_lg_paragraph_spacing",
@@ -8849,12 +8217,12 @@ module.exports = {
           ]
         },
         "paragraphIndent": {
-          "value": 0,
+          "value": "0px",
           "type": "paragraphIndent",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "0px",
+            "value": "{paragraphIndent.0}",
             "type": "paragraphIndent"
           },
           "name": "mch_typography_paragraphs_other_p2_lg_paragraph_indent",
@@ -8874,10 +8242,10 @@ module.exports = {
         "textCase": {
           "value": "none",
           "type": "textCase",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "none",
+            "value": "{textCase.none}",
             "type": "textCase"
           },
           "name": "mch_typography_paragraphs_other_p2_lg_text_case",
@@ -8897,10 +8265,10 @@ module.exports = {
         "textDecoration": {
           "value": "none",
           "type": "textDecoration",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "none",
+            "value": "{textDecoration.none}",
             "type": "textDecoration"
           },
           "name": "mch_typography_paragraphs_other_p2_lg_text_decoration",
@@ -8924,10 +8292,10 @@ module.exports = {
         "fontFamily": {
           "value": "Art Basel Headline",
           "type": "fontFamilies",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "Art Basel Headline",
+            "value": "{fontFamilies.art-basel-headline}",
             "type": "fontFamilies"
           },
           "name": "mch_typography_headings_other_h1_md_font_family",
@@ -8945,12 +8313,12 @@ module.exports = {
           ]
         },
         "fontWeight": {
-          "value": 700,
+          "value": "700",
           "type": "fontWeights",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "Bold",
+            "value": "{fontWeights.art-basel-headline-0}",
             "type": "fontWeights"
           },
           "name": "mch_typography_headings_other_h1_md_font_weight",
@@ -8969,12 +8337,12 @@ module.exports = {
         },
         "lineHeight": {
           "value": "2.5625rem",
-          "type": "lineHeight",
-          "filePath": "tokens/tokens-studio.json",
+          "type": "lineHeights",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": 41,
-            "type": "lineHeight"
+            "value": "{lineHeights.14}",
+            "type": "lineHeights"
           },
           "name": "mch_typography_headings_other_h1_md_line_height",
           "attributes": {
@@ -8991,12 +8359,12 @@ module.exports = {
           ]
         },
         "fontSize": {
-          "value": "2.25rem",
+          "value": "2.125rem",
           "type": "fontSizes",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": 36,
+            "value": "{fontSize.10}",
             "type": "fontSizes"
           },
           "name": "mch_typography_headings_other_h1_md_font_size",
@@ -9016,10 +8384,10 @@ module.exports = {
         "letterSpacing": {
           "value": "0%",
           "type": "letterSpacing",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "0%",
+            "value": "{letterSpacing.1}",
             "type": "letterSpacing"
           },
           "name": "mch_typography_headings_other_h1_md_letter_spacing",
@@ -9037,12 +8405,12 @@ module.exports = {
           ]
         },
         "paragraphSpacing": {
-          "value": 4,
+          "value": "4",
           "type": "paragraphSpacing",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": 4,
+            "value": "{paragraphSpacing.1}",
             "type": "paragraphSpacing"
           },
           "name": "mch_typography_headings_other_h1_md_paragraph_spacing",
@@ -9060,12 +8428,12 @@ module.exports = {
           ]
         },
         "paragraphIndent": {
-          "value": 0,
+          "value": "0px",
           "type": "paragraphIndent",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "0px",
+            "value": "{paragraphIndent.0}",
             "type": "paragraphIndent"
           },
           "name": "mch_typography_headings_other_h1_md_paragraph_indent",
@@ -9085,10 +8453,10 @@ module.exports = {
         "textCase": {
           "value": "none",
           "type": "textCase",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "none",
+            "value": "{textCase.none}",
             "type": "textCase"
           },
           "name": "mch_typography_headings_other_h1_md_text_case",
@@ -9108,10 +8476,10 @@ module.exports = {
         "textDecoration": {
           "value": "none",
           "type": "textDecoration",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "none",
+            "value": "{textDecoration.none}",
             "type": "textDecoration"
           },
           "name": "mch_typography_headings_other_h1_md_text_decoration",
@@ -9133,10 +8501,10 @@ module.exports = {
         "fontFamily": {
           "value": "Art Basel Headline",
           "type": "fontFamilies",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "Art Basel Headline",
+            "value": "{fontFamilies.art-basel-headline}",
             "type": "fontFamilies"
           },
           "name": "mch_typography_headings_other_h2_md_font_family",
@@ -9154,12 +8522,12 @@ module.exports = {
           ]
         },
         "fontWeight": {
-          "value": 700,
+          "value": "700",
           "type": "fontWeights",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "Bold",
+            "value": "{fontWeights.art-basel-headline-0}",
             "type": "fontWeights"
           },
           "name": "mch_typography_headings_other_h2_md_font_weight",
@@ -9177,13 +8545,13 @@ module.exports = {
           ]
         },
         "lineHeight": {
-          "value": "2.1875rem",
-          "type": "lineHeight",
-          "filePath": "tokens/tokens-studio.json",
+          "value": "2.5625rem",
+          "type": "lineHeights",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": 35,
-            "type": "lineHeight"
+            "value": "{lineHeights.0}",
+            "type": "lineHeights"
           },
           "name": "mch_typography_headings_other_h2_md_line_height",
           "attributes": {
@@ -9200,12 +8568,12 @@ module.exports = {
           ]
         },
         "fontSize": {
-          "value": "1.875rem",
+          "value": "1.25rem",
           "type": "fontSizes",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": 30,
+            "value": "{fontSize.7}",
             "type": "fontSizes"
           },
           "name": "mch_typography_headings_other_h2_md_font_size",
@@ -9225,10 +8593,10 @@ module.exports = {
         "letterSpacing": {
           "value": "0%",
           "type": "letterSpacing",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "0%",
+            "value": "{letterSpacing.1}",
             "type": "letterSpacing"
           },
           "name": "mch_typography_headings_other_h2_md_letter_spacing",
@@ -9246,12 +8614,12 @@ module.exports = {
           ]
         },
         "paragraphSpacing": {
-          "value": 4,
+          "value": "4",
           "type": "paragraphSpacing",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": 4,
+            "value": "{paragraphSpacing.1}",
             "type": "paragraphSpacing"
           },
           "name": "mch_typography_headings_other_h2_md_paragraph_spacing",
@@ -9269,12 +8637,12 @@ module.exports = {
           ]
         },
         "paragraphIndent": {
-          "value": 0,
+          "value": "0px",
           "type": "paragraphIndent",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "0px",
+            "value": "{paragraphIndent.0}",
             "type": "paragraphIndent"
           },
           "name": "mch_typography_headings_other_h2_md_paragraph_indent",
@@ -9294,10 +8662,10 @@ module.exports = {
         "textCase": {
           "value": "none",
           "type": "textCase",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "none",
+            "value": "{textCase.none}",
             "type": "textCase"
           },
           "name": "mch_typography_headings_other_h2_md_text_case",
@@ -9317,10 +8685,10 @@ module.exports = {
         "textDecoration": {
           "value": "none",
           "type": "textDecoration",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "none",
+            "value": "{textDecoration.none}",
             "type": "textDecoration"
           },
           "name": "mch_typography_headings_other_h2_md_text_decoration",
@@ -9342,10 +8710,10 @@ module.exports = {
         "fontFamily": {
           "value": "Art Basel Headline",
           "type": "fontFamilies",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "Art Basel Headline",
+            "value": "{fontFamilies.art-basel-headline}",
             "type": "fontFamilies"
           },
           "name": "mch_typography_headings_other_h3_md_font_family",
@@ -9363,12 +8731,12 @@ module.exports = {
           ]
         },
         "fontWeight": {
-          "value": 700,
+          "value": "700",
           "type": "fontWeights",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "Bold",
+            "value": "{fontWeights.art-basel-headline-0}",
             "type": "fontWeights"
           },
           "name": "mch_typography_headings_other_h3_md_font_weight",
@@ -9386,13 +8754,13 @@ module.exports = {
           ]
         },
         "lineHeight": {
-          "value": "1.875rem",
-          "type": "lineHeight",
-          "filePath": "tokens/tokens-studio.json",
+          "value": "2.125rem",
+          "type": "lineHeights",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": 30,
-            "type": "lineHeight"
+            "value": "{lineHeights.1}",
+            "type": "lineHeights"
           },
           "name": "mch_typography_headings_other_h3_md_line_height",
           "attributes": {
@@ -9409,12 +8777,12 @@ module.exports = {
           ]
         },
         "fontSize": {
-          "value": "1.625rem",
+          "value": "1.0625rem",
           "type": "fontSizes",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": 26,
+            "value": "{fontSize.6}",
             "type": "fontSizes"
           },
           "name": "mch_typography_headings_other_h3_md_font_size",
@@ -9434,10 +8802,10 @@ module.exports = {
         "letterSpacing": {
           "value": "0%",
           "type": "letterSpacing",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "0%",
+            "value": "{letterSpacing.1}",
             "type": "letterSpacing"
           },
           "name": "mch_typography_headings_other_h3_md_letter_spacing",
@@ -9455,12 +8823,12 @@ module.exports = {
           ]
         },
         "paragraphSpacing": {
-          "value": 4,
+          "value": "4",
           "type": "paragraphSpacing",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": 4,
+            "value": "{paragraphSpacing.1}",
             "type": "paragraphSpacing"
           },
           "name": "mch_typography_headings_other_h3_md_paragraph_spacing",
@@ -9478,12 +8846,12 @@ module.exports = {
           ]
         },
         "paragraphIndent": {
-          "value": 0,
+          "value": "0px",
           "type": "paragraphIndent",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "0px",
+            "value": "{paragraphIndent.0}",
             "type": "paragraphIndent"
           },
           "name": "mch_typography_headings_other_h3_md_paragraph_indent",
@@ -9503,10 +8871,10 @@ module.exports = {
         "textCase": {
           "value": "none",
           "type": "textCase",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "none",
+            "value": "{textCase.none}",
             "type": "textCase"
           },
           "name": "mch_typography_headings_other_h3_md_text_case",
@@ -9526,10 +8894,10 @@ module.exports = {
         "textDecoration": {
           "value": "none",
           "type": "textDecoration",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "none",
+            "value": "{textDecoration.none}",
             "type": "textDecoration"
           },
           "name": "mch_typography_headings_other_h3_md_text_decoration",
@@ -9551,10 +8919,10 @@ module.exports = {
         "fontFamily": {
           "value": "Art Basel Headline",
           "type": "fontFamilies",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "Art Basel Headline",
+            "value": "{fontFamilies.art-basel-headline}",
             "type": "fontFamilies"
           },
           "name": "mch_typography_headings_other_h4_md_font_family",
@@ -9572,12 +8940,12 @@ module.exports = {
           ]
         },
         "fontWeight": {
-          "value": 700,
+          "value": "700",
           "type": "fontWeights",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "Bold",
+            "value": "{fontWeights.art-basel-headline-0}",
             "type": "fontWeights"
           },
           "name": "mch_typography_headings_other_h4_md_font_weight",
@@ -9596,12 +8964,12 @@ module.exports = {
         },
         "lineHeight": {
           "value": "1.75rem",
-          "type": "lineHeight",
-          "filePath": "tokens/tokens-studio.json",
+          "type": "lineHeights",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": 28,
-            "type": "lineHeight"
+            "value": "{lineHeights.2}",
+            "type": "lineHeights"
           },
           "name": "mch_typography_headings_other_h4_md_line_height",
           "attributes": {
@@ -9618,12 +8986,12 @@ module.exports = {
           ]
         },
         "fontSize": {
-          "value": "1.5rem",
+          "value": "1rem",
           "type": "fontSizes",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": 24,
+            "value": "{fontSize.5}",
             "type": "fontSizes"
           },
           "name": "mch_typography_headings_other_h4_md_font_size",
@@ -9643,10 +9011,10 @@ module.exports = {
         "letterSpacing": {
           "value": "0%",
           "type": "letterSpacing",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "0%",
+            "value": "{letterSpacing.1}",
             "type": "letterSpacing"
           },
           "name": "mch_typography_headings_other_h4_md_letter_spacing",
@@ -9664,12 +9032,12 @@ module.exports = {
           ]
         },
         "paragraphSpacing": {
-          "value": 4,
+          "value": "4",
           "type": "paragraphSpacing",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": 4,
+            "value": "{paragraphSpacing.1}",
             "type": "paragraphSpacing"
           },
           "name": "mch_typography_headings_other_h4_md_paragraph_spacing",
@@ -9687,12 +9055,12 @@ module.exports = {
           ]
         },
         "paragraphIndent": {
-          "value": 0,
+          "value": "0px",
           "type": "paragraphIndent",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "0px",
+            "value": "{paragraphIndent.0}",
             "type": "paragraphIndent"
           },
           "name": "mch_typography_headings_other_h4_md_paragraph_indent",
@@ -9712,10 +9080,10 @@ module.exports = {
         "textCase": {
           "value": "none",
           "type": "textCase",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "none",
+            "value": "{textCase.none}",
             "type": "textCase"
           },
           "name": "mch_typography_headings_other_h4_md_text_case",
@@ -9735,10 +9103,10 @@ module.exports = {
         "textDecoration": {
           "value": "none",
           "type": "textDecoration",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "none",
+            "value": "{textDecoration.none}",
             "type": "textDecoration"
           },
           "name": "mch_typography_headings_other_h4_md_text_decoration",
@@ -9760,10 +9128,10 @@ module.exports = {
         "fontFamily": {
           "value": "Art Basel Headline",
           "type": "fontFamilies",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "Art Basel Headline",
+            "value": "{fontFamilies.art-basel-headline}",
             "type": "fontFamilies"
           },
           "name": "mch_typography_headings_other_h5_md_font_family",
@@ -9781,12 +9149,12 @@ module.exports = {
           ]
         },
         "fontWeight": {
-          "value": 700,
+          "value": "700",
           "type": "fontWeights",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "Bold",
+            "value": "{fontWeights.art-basel-headline-0}",
             "type": "fontWeights"
           },
           "name": "mch_typography_headings_other_h5_md_font_weight",
@@ -9804,13 +9172,13 @@ module.exports = {
           ]
         },
         "lineHeight": {
-          "value": "1.3125rem",
-          "type": "lineHeight",
-          "filePath": "tokens/tokens-studio.json",
+          "value": "1.375rem",
+          "type": "lineHeights",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": 21,
-            "type": "lineHeight"
+            "value": "{lineHeights.4}",
+            "type": "lineHeights"
           },
           "name": "mch_typography_headings_other_h5_md_line_height",
           "attributes": {
@@ -9827,12 +9195,12 @@ module.exports = {
           ]
         },
         "fontSize": {
-          "value": "1.125rem",
+          "value": "0.875rem",
           "type": "fontSizes",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": 18,
+            "value": "{fontSize.3}",
             "type": "fontSizes"
           },
           "name": "mch_typography_headings_other_h5_md_font_size",
@@ -9852,10 +9220,10 @@ module.exports = {
         "letterSpacing": {
           "value": "0%",
           "type": "letterSpacing",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "0%",
+            "value": "{letterSpacing.1}",
             "type": "letterSpacing"
           },
           "name": "mch_typography_headings_other_h5_md_letter_spacing",
@@ -9873,12 +9241,12 @@ module.exports = {
           ]
         },
         "paragraphSpacing": {
-          "value": 4,
+          "value": "4",
           "type": "paragraphSpacing",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": 4,
+            "value": "{paragraphSpacing.1}",
             "type": "paragraphSpacing"
           },
           "name": "mch_typography_headings_other_h5_md_paragraph_spacing",
@@ -9896,12 +9264,12 @@ module.exports = {
           ]
         },
         "paragraphIndent": {
-          "value": 0,
+          "value": "0px",
           "type": "paragraphIndent",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "0px",
+            "value": "{paragraphIndent.0}",
             "type": "paragraphIndent"
           },
           "name": "mch_typography_headings_other_h5_md_paragraph_indent",
@@ -9921,10 +9289,10 @@ module.exports = {
         "textCase": {
           "value": "none",
           "type": "textCase",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "none",
+            "value": "{textCase.none}",
             "type": "textCase"
           },
           "name": "mch_typography_headings_other_h5_md_text_case",
@@ -9944,10 +9312,10 @@ module.exports = {
         "textDecoration": {
           "value": "none",
           "type": "textDecoration",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "none",
+            "value": "{textDecoration.none}",
             "type": "textDecoration"
           },
           "name": "mch_typography_headings_other_h5_md_text_decoration",
@@ -9969,10 +9337,10 @@ module.exports = {
         "fontFamily": {
           "value": "Art Basel Headline",
           "type": "fontFamilies",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "Art Basel Headline",
+            "value": "{fontFamilies.art-basel-headline}",
             "type": "fontFamilies"
           },
           "name": "mch_typography_headings_other_h1_lg_font_family",
@@ -9990,12 +9358,12 @@ module.exports = {
           ]
         },
         "fontWeight": {
-          "value": 700,
+          "value": "700",
           "type": "fontWeights",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "Bold",
+            "value": "{fontWeights.art-basel-headline-0}",
             "type": "fontWeights"
           },
           "name": "mch_typography_headings_other_h1_lg_font_weight",
@@ -10014,12 +9382,12 @@ module.exports = {
         },
         "lineHeight": {
           "value": "2.875rem",
-          "type": "lineHeight",
-          "filePath": "tokens/tokens-studio.json",
+          "type": "lineHeights",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": 46,
-            "type": "lineHeight"
+            "value": "{lineHeights.15}",
+            "type": "lineHeights"
           },
           "name": "mch_typography_headings_other_h1_lg_line_height",
           "attributes": {
@@ -10038,10 +9406,10 @@ module.exports = {
         "fontSize": {
           "value": "2.5rem",
           "type": "fontSizes",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": 40,
+            "value": "{fontSize.12}",
             "type": "fontSizes"
           },
           "name": "mch_typography_headings_other_h1_lg_font_size",
@@ -10061,10 +9429,10 @@ module.exports = {
         "letterSpacing": {
           "value": "0%",
           "type": "letterSpacing",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "0%",
+            "value": "{letterSpacing.1}",
             "type": "letterSpacing"
           },
           "name": "mch_typography_headings_other_h1_lg_letter_spacing",
@@ -10082,12 +9450,12 @@ module.exports = {
           ]
         },
         "paragraphSpacing": {
-          "value": 4,
+          "value": "4",
           "type": "paragraphSpacing",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": 4,
+            "value": "{paragraphSpacing.1}",
             "type": "paragraphSpacing"
           },
           "name": "mch_typography_headings_other_h1_lg_paragraph_spacing",
@@ -10105,12 +9473,12 @@ module.exports = {
           ]
         },
         "paragraphIndent": {
-          "value": 0,
+          "value": "0px",
           "type": "paragraphIndent",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "0px",
+            "value": "{paragraphIndent.0}",
             "type": "paragraphIndent"
           },
           "name": "mch_typography_headings_other_h1_lg_paragraph_indent",
@@ -10130,10 +9498,10 @@ module.exports = {
         "textCase": {
           "value": "none",
           "type": "textCase",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "none",
+            "value": "{textCase.none}",
             "type": "textCase"
           },
           "name": "mch_typography_headings_other_h1_lg_text_case",
@@ -10153,10 +9521,10 @@ module.exports = {
         "textDecoration": {
           "value": "none",
           "type": "textDecoration",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "none",
+            "value": "{textDecoration.none}",
             "type": "textDecoration"
           },
           "name": "mch_typography_headings_other_h1_lg_text_decoration",
@@ -10178,10 +9546,10 @@ module.exports = {
         "fontFamily": {
           "value": "Art Basel Headline",
           "type": "fontFamilies",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "Art Basel Headline",
+            "value": "{fontFamilies.art-basel-headline}",
             "type": "fontFamilies"
           },
           "name": "mch_typography_headings_other_h2_lg_font_family",
@@ -10199,12 +9567,12 @@ module.exports = {
           ]
         },
         "fontWeight": {
-          "value": 700,
+          "value": "700",
           "type": "fontWeights",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "Bold",
+            "value": "{fontWeights.art-basel-headline-0}",
             "type": "fontWeights"
           },
           "name": "mch_typography_headings_other_h2_lg_font_weight",
@@ -10222,13 +9590,13 @@ module.exports = {
           ]
         },
         "lineHeight": {
-          "value": "2.625rem",
-          "type": "lineHeight",
-          "filePath": "tokens/tokens-studio.json",
+          "value": "1rem",
+          "type": "lineHeights",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": 42,
-            "type": "lineHeight"
+            "value": "{lineHeights.6}",
+            "type": "lineHeights"
           },
           "name": "mch_typography_headings_other_h2_lg_line_height",
           "attributes": {
@@ -10245,12 +9613,12 @@ module.exports = {
           ]
         },
         "fontSize": {
-          "value": "2.25rem",
+          "value": "2.125rem",
           "type": "fontSizes",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": 36,
+            "value": "{fontSize.10}",
             "type": "fontSizes"
           },
           "name": "mch_typography_headings_other_h2_lg_font_size",
@@ -10270,10 +9638,10 @@ module.exports = {
         "letterSpacing": {
           "value": "0%",
           "type": "letterSpacing",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "0%",
+            "value": "{letterSpacing.1}",
             "type": "letterSpacing"
           },
           "name": "mch_typography_headings_other_h2_lg_letter_spacing",
@@ -10291,12 +9659,12 @@ module.exports = {
           ]
         },
         "paragraphSpacing": {
-          "value": 4,
+          "value": "4",
           "type": "paragraphSpacing",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": 4,
+            "value": "{paragraphSpacing.1}",
             "type": "paragraphSpacing"
           },
           "name": "mch_typography_headings_other_h2_lg_paragraph_spacing",
@@ -10314,12 +9682,12 @@ module.exports = {
           ]
         },
         "paragraphIndent": {
-          "value": 0,
+          "value": "0px",
           "type": "paragraphIndent",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "0px",
+            "value": "{paragraphIndent.0}",
             "type": "paragraphIndent"
           },
           "name": "mch_typography_headings_other_h2_lg_paragraph_indent",
@@ -10339,10 +9707,10 @@ module.exports = {
         "textCase": {
           "value": "none",
           "type": "textCase",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "none",
+            "value": "{textCase.none}",
             "type": "textCase"
           },
           "name": "mch_typography_headings_other_h2_lg_text_case",
@@ -10362,10 +9730,10 @@ module.exports = {
         "textDecoration": {
           "value": "none",
           "type": "textDecoration",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "none",
+            "value": "{textDecoration.none}",
             "type": "textDecoration"
           },
           "name": "mch_typography_headings_other_h2_lg_text_decoration",
@@ -10387,10 +9755,10 @@ module.exports = {
         "fontFamily": {
           "value": "Art Basel Headline",
           "type": "fontFamilies",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "Art Basel Headline",
+            "value": "{fontFamilies.art-basel-headline}",
             "type": "fontFamilies"
           },
           "name": "mch_typography_headings_other_h3_lg_font_family",
@@ -10408,12 +9776,12 @@ module.exports = {
           ]
         },
         "fontWeight": {
-          "value": 700,
+          "value": "700",
           "type": "fontWeights",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "Bold",
+            "value": "{fontWeights.art-basel-headline-0}",
             "type": "fontWeights"
           },
           "name": "mch_typography_headings_other_h3_lg_font_weight",
@@ -10431,13 +9799,13 @@ module.exports = {
           ]
         },
         "lineHeight": {
-          "value": "2.1875rem",
-          "type": "lineHeight",
-          "filePath": "tokens/tokens-studio.json",
+          "value": "2.5625rem",
+          "type": "lineHeights",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": 35,
-            "type": "lineHeight"
+            "value": "{lineHeights.0}",
+            "type": "lineHeights"
           },
           "name": "mch_typography_headings_other_h3_lg_line_height",
           "attributes": {
@@ -10454,12 +9822,12 @@ module.exports = {
           ]
         },
         "fontSize": {
-          "value": "1.875rem",
+          "value": "1.25rem",
           "type": "fontSizes",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": 30,
+            "value": "{fontSize.7}",
             "type": "fontSizes"
           },
           "name": "mch_typography_headings_other_h3_lg_font_size",
@@ -10479,10 +9847,10 @@ module.exports = {
         "letterSpacing": {
           "value": "0%",
           "type": "letterSpacing",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "0%",
+            "value": "{letterSpacing.1}",
             "type": "letterSpacing"
           },
           "name": "mch_typography_headings_other_h3_lg_letter_spacing",
@@ -10500,12 +9868,12 @@ module.exports = {
           ]
         },
         "paragraphSpacing": {
-          "value": 4,
+          "value": "4",
           "type": "paragraphSpacing",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": 4,
+            "value": "{paragraphSpacing.1}",
             "type": "paragraphSpacing"
           },
           "name": "mch_typography_headings_other_h3_lg_paragraph_spacing",
@@ -10523,12 +9891,12 @@ module.exports = {
           ]
         },
         "paragraphIndent": {
-          "value": 0,
+          "value": "0px",
           "type": "paragraphIndent",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "0px",
+            "value": "{paragraphIndent.0}",
             "type": "paragraphIndent"
           },
           "name": "mch_typography_headings_other_h3_lg_paragraph_indent",
@@ -10548,10 +9916,10 @@ module.exports = {
         "textCase": {
           "value": "none",
           "type": "textCase",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "none",
+            "value": "{textCase.none}",
             "type": "textCase"
           },
           "name": "mch_typography_headings_other_h3_lg_text_case",
@@ -10571,10 +9939,10 @@ module.exports = {
         "textDecoration": {
           "value": "none",
           "type": "textDecoration",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "none",
+            "value": "{textDecoration.none}",
             "type": "textDecoration"
           },
           "name": "mch_typography_headings_other_h3_lg_text_decoration",
@@ -10596,10 +9964,10 @@ module.exports = {
         "fontFamily": {
           "value": "Art Basel Headline",
           "type": "fontFamilies",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "Art Basel Headline",
+            "value": "{fontFamilies.art-basel-headline}",
             "type": "fontFamilies"
           },
           "name": "mch_typography_headings_other_h4_lg_font_family",
@@ -10617,12 +9985,12 @@ module.exports = {
           ]
         },
         "fontWeight": {
-          "value": 700,
+          "value": "700",
           "type": "fontWeights",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "Bold",
+            "value": "{fontWeights.art-basel-headline-0}",
             "type": "fontWeights"
           },
           "name": "mch_typography_headings_other_h4_lg_font_weight",
@@ -10641,12 +10009,12 @@ module.exports = {
         },
         "lineHeight": {
           "value": "1.75rem",
-          "type": "lineHeight",
-          "filePath": "tokens/tokens-studio.json",
+          "type": "lineHeights",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": 28,
-            "type": "lineHeight"
+            "value": "{lineHeights.2}",
+            "type": "lineHeights"
           },
           "name": "mch_typography_headings_other_h4_lg_line_height",
           "attributes": {
@@ -10663,12 +10031,12 @@ module.exports = {
           ]
         },
         "fontSize": {
-          "value": "1.5rem",
+          "value": "1rem",
           "type": "fontSizes",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": 24,
+            "value": "{fontSize.5}",
             "type": "fontSizes"
           },
           "name": "mch_typography_headings_other_h4_lg_font_size",
@@ -10688,10 +10056,10 @@ module.exports = {
         "letterSpacing": {
           "value": "0%",
           "type": "letterSpacing",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "0%",
+            "value": "{letterSpacing.1}",
             "type": "letterSpacing"
           },
           "name": "mch_typography_headings_other_h4_lg_letter_spacing",
@@ -10709,12 +10077,12 @@ module.exports = {
           ]
         },
         "paragraphSpacing": {
-          "value": 4,
+          "value": "4",
           "type": "paragraphSpacing",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": 4,
+            "value": "{paragraphSpacing.1}",
             "type": "paragraphSpacing"
           },
           "name": "mch_typography_headings_other_h4_lg_paragraph_spacing",
@@ -10732,12 +10100,12 @@ module.exports = {
           ]
         },
         "paragraphIndent": {
-          "value": 0,
+          "value": "0px",
           "type": "paragraphIndent",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "0px",
+            "value": "{paragraphIndent.0}",
             "type": "paragraphIndent"
           },
           "name": "mch_typography_headings_other_h4_lg_paragraph_indent",
@@ -10757,10 +10125,10 @@ module.exports = {
         "textCase": {
           "value": "none",
           "type": "textCase",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "none",
+            "value": "{textCase.none}",
             "type": "textCase"
           },
           "name": "mch_typography_headings_other_h4_lg_text_case",
@@ -10780,10 +10148,10 @@ module.exports = {
         "textDecoration": {
           "value": "none",
           "type": "textDecoration",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "none",
+            "value": "{textDecoration.none}",
             "type": "textDecoration"
           },
           "name": "mch_typography_headings_other_h4_lg_text_decoration",
@@ -10805,10 +10173,10 @@ module.exports = {
         "fontFamily": {
           "value": "Art Basel Headline",
           "type": "fontFamilies",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "Art Basel Headline",
+            "value": "{fontFamilies.art-basel-headline}",
             "type": "fontFamilies"
           },
           "name": "mch_typography_headings_other_h5_lg_font_family",
@@ -10826,12 +10194,12 @@ module.exports = {
           ]
         },
         "fontWeight": {
-          "value": 700,
+          "value": "700",
           "type": "fontWeights",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "Bold",
+            "value": "{fontWeights.art-basel-headline-0}",
             "type": "fontWeights"
           },
           "name": "mch_typography_headings_other_h5_lg_font_weight",
@@ -10849,13 +10217,13 @@ module.exports = {
           ]
         },
         "lineHeight": {
-          "value": "1.3125rem",
-          "type": "lineHeight",
-          "filePath": "tokens/tokens-studio.json",
+          "value": "1.375rem",
+          "type": "lineHeights",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": 21,
-            "type": "lineHeight"
+            "value": "{lineHeights.4}",
+            "type": "lineHeights"
           },
           "name": "mch_typography_headings_other_h5_lg_line_height",
           "attributes": {
@@ -10872,12 +10240,12 @@ module.exports = {
           ]
         },
         "fontSize": {
-          "value": "1.125rem",
+          "value": "0.875rem",
           "type": "fontSizes",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": 18,
+            "value": "{fontSize.3}",
             "type": "fontSizes"
           },
           "name": "mch_typography_headings_other_h5_lg_font_size",
@@ -10897,10 +10265,10 @@ module.exports = {
         "letterSpacing": {
           "value": "0%",
           "type": "letterSpacing",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "0%",
+            "value": "{letterSpacing.1}",
             "type": "letterSpacing"
           },
           "name": "mch_typography_headings_other_h5_lg_letter_spacing",
@@ -10918,12 +10286,12 @@ module.exports = {
           ]
         },
         "paragraphSpacing": {
-          "value": 4,
+          "value": "4",
           "type": "paragraphSpacing",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": 4,
+            "value": "{paragraphSpacing.1}",
             "type": "paragraphSpacing"
           },
           "name": "mch_typography_headings_other_h5_lg_paragraph_spacing",
@@ -10941,12 +10309,12 @@ module.exports = {
           ]
         },
         "paragraphIndent": {
-          "value": 0,
+          "value": "0px",
           "type": "paragraphIndent",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "0px",
+            "value": "{paragraphIndent.0}",
             "type": "paragraphIndent"
           },
           "name": "mch_typography_headings_other_h5_lg_paragraph_indent",
@@ -10966,10 +10334,10 @@ module.exports = {
         "textCase": {
           "value": "none",
           "type": "textCase",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "none",
+            "value": "{textCase.none}",
             "type": "textCase"
           },
           "name": "mch_typography_headings_other_h5_lg_text_case",
@@ -10989,10 +10357,10 @@ module.exports = {
         "textDecoration": {
           "value": "none",
           "type": "textDecoration",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "none",
+            "value": "{textDecoration.none}",
             "type": "textDecoration"
           },
           "name": "mch_typography_headings_other_h5_lg_text_decoration",
@@ -11016,10 +10384,10 @@ module.exports = {
         "fontFamily": {
           "value": "Art Basel Text",
           "type": "fontFamilies",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "Art Basel Text",
+            "value": "{fontFamilies.art-basel-text}",
             "type": "fontFamilies"
           },
           "name": "mch_typography_links_text_link_medium_default_font_family",
@@ -11037,12 +10405,12 @@ module.exports = {
           ]
         },
         "fontWeight": {
-          "value": 700,
+          "value": "700",
           "type": "fontWeights",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "Bold",
+            "value": "{fontWeights.art-basel-text-4}",
             "type": "fontWeights"
           },
           "name": "mch_typography_links_text_link_medium_default_font_weight",
@@ -11061,12 +10429,12 @@ module.exports = {
         },
         "lineHeight": {
           "value": "1.25rem",
-          "type": "lineHeight",
-          "filePath": "tokens/tokens-studio.json",
+          "type": "lineHeights",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": 20,
-            "type": "lineHeight"
+            "value": "{lineHeights.12}",
+            "type": "lineHeights"
           },
           "name": "mch_typography_links_text_link_medium_default_line_height",
           "attributes": {
@@ -11083,12 +10451,12 @@ module.exports = {
           ]
         },
         "fontSize": {
-          "value": "1rem",
+          "value": "0.8125rem",
           "type": "fontSizes",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": 16,
+            "value": "{fontSize.2}",
             "type": "fontSizes"
           },
           "name": "mch_typography_links_text_link_medium_default_font_size",
@@ -11106,12 +10474,12 @@ module.exports = {
           ]
         },
         "letterSpacing": {
-          "value": 0,
+          "value": "0",
           "type": "letterSpacing",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": 0,
+            "value": "{letterSpacing.0}",
             "type": "letterSpacing"
           },
           "name": "mch_typography_links_text_link_medium_default_letter_spacing",
@@ -11129,12 +10497,12 @@ module.exports = {
           ]
         },
         "paragraphSpacing": {
-          "value": 0,
+          "value": "0",
           "type": "paragraphSpacing",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": 0,
+            "value": "{paragraphSpacing.0}",
             "type": "paragraphSpacing"
           },
           "name": "mch_typography_links_text_link_medium_default_paragraph_spacing",
@@ -11152,12 +10520,12 @@ module.exports = {
           ]
         },
         "paragraphIndent": {
-          "value": 0,
+          "value": "0px",
           "type": "paragraphIndent",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "0px",
+            "value": "{paragraphIndent.0}",
             "type": "paragraphIndent"
           },
           "name": "mch_typography_links_text_link_medium_default_paragraph_indent",
@@ -11177,10 +10545,10 @@ module.exports = {
         "textCase": {
           "value": "none",
           "type": "textCase",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "none",
+            "value": "{textCase.none}",
             "type": "textCase"
           },
           "name": "mch_typography_links_text_link_medium_default_text_case",
@@ -11200,10 +10568,10 @@ module.exports = {
         "textDecoration": {
           "value": "none",
           "type": "textDecoration",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "none",
+            "value": "{textDecoration.none}",
             "type": "textDecoration"
           },
           "name": "mch_typography_links_text_link_medium_default_text_decoration",
@@ -11225,10 +10593,10 @@ module.exports = {
         "fontFamily": {
           "value": "Art Basel Text",
           "type": "fontFamilies",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "Art Basel Text",
+            "value": "{fontFamilies.art-basel-text}",
             "type": "fontFamilies"
           },
           "name": "mch_typography_links_text_link_medium_hover_font_family",
@@ -11246,12 +10614,12 @@ module.exports = {
           ]
         },
         "fontWeight": {
-          "value": 700,
+          "value": "700",
           "type": "fontWeights",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "Bold",
+            "value": "{fontWeights.art-basel-text-4}",
             "type": "fontWeights"
           },
           "name": "mch_typography_links_text_link_medium_hover_font_weight",
@@ -11270,12 +10638,12 @@ module.exports = {
         },
         "lineHeight": {
           "value": "1.25rem",
-          "type": "lineHeight",
-          "filePath": "tokens/tokens-studio.json",
+          "type": "lineHeights",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": 20,
-            "type": "lineHeight"
+            "value": "{lineHeights.12}",
+            "type": "lineHeights"
           },
           "name": "mch_typography_links_text_link_medium_hover_line_height",
           "attributes": {
@@ -11292,12 +10660,12 @@ module.exports = {
           ]
         },
         "fontSize": {
-          "value": "1rem",
+          "value": "0.8125rem",
           "type": "fontSizes",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": 16,
+            "value": "{fontSize.2}",
             "type": "fontSizes"
           },
           "name": "mch_typography_links_text_link_medium_hover_font_size",
@@ -11315,12 +10683,12 @@ module.exports = {
           ]
         },
         "letterSpacing": {
-          "value": 0,
+          "value": "0",
           "type": "letterSpacing",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": 0,
+            "value": "{letterSpacing.0}",
             "type": "letterSpacing"
           },
           "name": "mch_typography_links_text_link_medium_hover_letter_spacing",
@@ -11338,12 +10706,12 @@ module.exports = {
           ]
         },
         "paragraphSpacing": {
-          "value": 0,
+          "value": "0",
           "type": "paragraphSpacing",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": 0,
+            "value": "{paragraphSpacing.0}",
             "type": "paragraphSpacing"
           },
           "name": "mch_typography_links_text_link_medium_hover_paragraph_spacing",
@@ -11361,12 +10729,12 @@ module.exports = {
           ]
         },
         "paragraphIndent": {
-          "value": 0,
+          "value": "0px",
           "type": "paragraphIndent",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "0px",
+            "value": "{paragraphIndent.0}",
             "type": "paragraphIndent"
           },
           "name": "mch_typography_links_text_link_medium_hover_paragraph_indent",
@@ -11386,10 +10754,10 @@ module.exports = {
         "textCase": {
           "value": "none",
           "type": "textCase",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "none",
+            "value": "{textCase.none}",
             "type": "textCase"
           },
           "name": "mch_typography_links_text_link_medium_hover_text_case",
@@ -11409,10 +10777,10 @@ module.exports = {
         "textDecoration": {
           "value": "underline",
           "type": "textDecoration",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "underline",
+            "value": "{textDecoration.underline}",
             "type": "textDecoration"
           },
           "name": "mch_typography_links_text_link_medium_hover_text_decoration",
@@ -11434,10 +10802,10 @@ module.exports = {
         "fontFamily": {
           "value": "Art Basel Text",
           "type": "fontFamilies",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "Art Basel Text",
+            "value": "{fontFamilies.art-basel-text}",
             "type": "fontFamilies"
           },
           "name": "mch_typography_links_external_link_medium_default_font_family",
@@ -11455,12 +10823,12 @@ module.exports = {
           ]
         },
         "fontWeight": {
-          "value": 700,
+          "value": "700",
           "type": "fontWeights",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "Bold",
+            "value": "{fontWeights.art-basel-text-4}",
             "type": "fontWeights"
           },
           "name": "mch_typography_links_external_link_medium_default_font_weight",
@@ -11479,12 +10847,12 @@ module.exports = {
         },
         "lineHeight": {
           "value": "1.25rem",
-          "type": "lineHeight",
-          "filePath": "tokens/tokens-studio.json",
+          "type": "lineHeights",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": 20,
-            "type": "lineHeight"
+            "value": "{lineHeights.12}",
+            "type": "lineHeights"
           },
           "name": "mch_typography_links_external_link_medium_default_line_height",
           "attributes": {
@@ -11501,12 +10869,12 @@ module.exports = {
           ]
         },
         "fontSize": {
-          "value": "1rem",
+          "value": "0.8125rem",
           "type": "fontSizes",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": 16,
+            "value": "{fontSize.2}",
             "type": "fontSizes"
           },
           "name": "mch_typography_links_external_link_medium_default_font_size",
@@ -11524,12 +10892,12 @@ module.exports = {
           ]
         },
         "letterSpacing": {
-          "value": 0,
+          "value": "0",
           "type": "letterSpacing",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": 0,
+            "value": "{letterSpacing.0}",
             "type": "letterSpacing"
           },
           "name": "mch_typography_links_external_link_medium_default_letter_spacing",
@@ -11547,12 +10915,12 @@ module.exports = {
           ]
         },
         "paragraphSpacing": {
-          "value": 0,
+          "value": "0",
           "type": "paragraphSpacing",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": 0,
+            "value": "{paragraphSpacing.0}",
             "type": "paragraphSpacing"
           },
           "name": "mch_typography_links_external_link_medium_default_paragraph_spacing",
@@ -11570,12 +10938,12 @@ module.exports = {
           ]
         },
         "paragraphIndent": {
-          "value": 0,
+          "value": "0px",
           "type": "paragraphIndent",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "0px",
+            "value": "{paragraphIndent.0}",
             "type": "paragraphIndent"
           },
           "name": "mch_typography_links_external_link_medium_default_paragraph_indent",
@@ -11595,10 +10963,10 @@ module.exports = {
         "textCase": {
           "value": "uppercase",
           "type": "textCase",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "uppercase",
+            "value": "{textCase.uppercase}",
             "type": "textCase"
           },
           "name": "mch_typography_links_external_link_medium_default_text_case",
@@ -11618,10 +10986,10 @@ module.exports = {
         "textDecoration": {
           "value": "none",
           "type": "textDecoration",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "none",
+            "value": "{textDecoration.none}",
             "type": "textDecoration"
           },
           "name": "mch_typography_links_external_link_medium_default_text_decoration",
@@ -11643,10 +11011,10 @@ module.exports = {
         "fontFamily": {
           "value": "Art Basel Text",
           "type": "fontFamilies",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "Art Basel Text",
+            "value": "{fontFamilies.art-basel-text}",
             "type": "fontFamilies"
           },
           "name": "mch_typography_links_button_medium_font_family",
@@ -11664,12 +11032,12 @@ module.exports = {
           ]
         },
         "fontWeight": {
-          "value": 700,
+          "value": "700",
           "type": "fontWeights",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "Bold",
+            "value": "{fontWeights.art-basel-text-4}",
             "type": "fontWeights"
           },
           "name": "mch_typography_links_button_medium_font_weight",
@@ -11688,12 +11056,12 @@ module.exports = {
         },
         "lineHeight": {
           "value": "1.125rem",
-          "type": "lineHeight",
-          "filePath": "tokens/tokens-studio.json",
+          "type": "lineHeights",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": 18,
-            "type": "lineHeight"
+            "value": "{lineHeights.16}",
+            "type": "lineHeights"
           },
           "name": "mch_typography_links_button_medium_line_height",
           "attributes": {
@@ -11710,12 +11078,12 @@ module.exports = {
           ]
         },
         "fontSize": {
-          "value": "0.875rem",
+          "value": "0.75rem",
           "type": "fontSizes",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": 14,
+            "value": "{fontSize.1}",
             "type": "fontSizes"
           },
           "name": "mch_typography_links_button_medium_font_size",
@@ -11733,12 +11101,12 @@ module.exports = {
           ]
         },
         "letterSpacing": {
-          "value": 0,
+          "value": "0",
           "type": "letterSpacing",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": 0,
+            "value": "{letterSpacing.0}",
             "type": "letterSpacing"
           },
           "name": "mch_typography_links_button_medium_letter_spacing",
@@ -11756,12 +11124,12 @@ module.exports = {
           ]
         },
         "paragraphSpacing": {
-          "value": 0,
+          "value": "0",
           "type": "paragraphSpacing",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": 0,
+            "value": "{paragraphSpacing.0}",
             "type": "paragraphSpacing"
           },
           "name": "mch_typography_links_button_medium_paragraph_spacing",
@@ -11779,12 +11147,12 @@ module.exports = {
           ]
         },
         "paragraphIndent": {
-          "value": 0,
+          "value": "0px",
           "type": "paragraphIndent",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "0px",
+            "value": "{paragraphIndent.0}",
             "type": "paragraphIndent"
           },
           "name": "mch_typography_links_button_medium_paragraph_indent",
@@ -11804,10 +11172,10 @@ module.exports = {
         "textCase": {
           "value": "uppercase",
           "type": "textCase",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "uppercase",
+            "value": "{textCase.uppercase}",
             "type": "textCase"
           },
           "name": "mch_typography_links_button_medium_text_case",
@@ -11827,10 +11195,10 @@ module.exports = {
         "textDecoration": {
           "value": "none",
           "type": "textDecoration",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "none",
+            "value": "{textDecoration.none}",
             "type": "textDecoration"
           },
           "name": "mch_typography_links_button_medium_text_decoration",
@@ -11854,10 +11222,10 @@ module.exports = {
         "fontFamily": {
           "value": "Art Basel Text",
           "type": "fontFamilies",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "Art Basel Text",
+            "value": "{fontFamilies.art-basel-text}",
             "type": "fontFamilies"
           },
           "name": "mch_typography_supporting_label_x_large_font_family",
@@ -11875,12 +11243,12 @@ module.exports = {
           ]
         },
         "fontWeight": {
-          "value": 700,
+          "value": "700",
           "type": "fontWeights",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "Bold",
+            "value": "{fontWeights.art-basel-text-4}",
             "type": "fontWeights"
           },
           "name": "mch_typography_supporting_label_x_large_font_weight",
@@ -11899,12 +11267,12 @@ module.exports = {
         },
         "lineHeight": {
           "value": "1.375rem",
-          "type": "lineHeight",
-          "filePath": "tokens/tokens-studio.json",
+          "type": "lineHeights",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": 22,
-            "type": "lineHeight"
+            "value": "{lineHeights.17}",
+            "type": "lineHeights"
           },
           "name": "mch_typography_supporting_label_x_large_line_height",
           "attributes": {
@@ -11921,12 +11289,12 @@ module.exports = {
           ]
         },
         "fontSize": {
-          "value": "1rem",
+          "value": "0.8125rem",
           "type": "fontSizes",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": 16,
+            "value": "{fontSize.2}",
             "type": "fontSizes"
           },
           "name": "mch_typography_supporting_label_x_large_font_size",
@@ -11944,12 +11312,12 @@ module.exports = {
           ]
         },
         "letterSpacing": {
-          "value": 0,
+          "value": "0",
           "type": "letterSpacing",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": 0,
+            "value": "{letterSpacing.0}",
             "type": "letterSpacing"
           },
           "name": "mch_typography_supporting_label_x_large_letter_spacing",
@@ -11967,12 +11335,12 @@ module.exports = {
           ]
         },
         "paragraphSpacing": {
-          "value": 0,
+          "value": "0",
           "type": "paragraphSpacing",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": 0,
+            "value": "{paragraphSpacing.0}",
             "type": "paragraphSpacing"
           },
           "name": "mch_typography_supporting_label_x_large_paragraph_spacing",
@@ -11990,12 +11358,12 @@ module.exports = {
           ]
         },
         "paragraphIndent": {
-          "value": 0,
+          "value": "0px",
           "type": "paragraphIndent",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "0px",
+            "value": "{paragraphIndent.0}",
             "type": "paragraphIndent"
           },
           "name": "mch_typography_supporting_label_x_large_paragraph_indent",
@@ -12015,10 +11383,10 @@ module.exports = {
         "textCase": {
           "value": "none",
           "type": "textCase",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "none",
+            "value": "{textCase.none}",
             "type": "textCase"
           },
           "name": "mch_typography_supporting_label_x_large_text_case",
@@ -12038,10 +11406,10 @@ module.exports = {
         "textDecoration": {
           "value": "none",
           "type": "textDecoration",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "none",
+            "value": "{textDecoration.none}",
             "type": "textDecoration"
           },
           "name": "mch_typography_supporting_label_x_large_text_decoration",
@@ -12063,10 +11431,10 @@ module.exports = {
         "fontFamily": {
           "value": "Art Basel Text",
           "type": "fontFamilies",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "Art Basel Text",
+            "value": "{fontFamilies.art-basel-text}",
             "type": "fontFamilies"
           },
           "name": "mch_typography_supporting_label_large_font_family",
@@ -12084,12 +11452,12 @@ module.exports = {
           ]
         },
         "fontWeight": {
-          "value": 700,
+          "value": "700",
           "type": "fontWeights",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "Bold",
+            "value": "{fontWeights.art-basel-text-4}",
             "type": "fontWeights"
           },
           "name": "mch_typography_supporting_label_large_font_weight",
@@ -12108,12 +11476,12 @@ module.exports = {
         },
         "lineHeight": {
           "value": "1.125rem",
-          "type": "lineHeight",
-          "filePath": "tokens/tokens-studio.json",
+          "type": "lineHeights",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": 18,
-            "type": "lineHeight"
+            "value": "{lineHeights.16}",
+            "type": "lineHeights"
           },
           "name": "mch_typography_supporting_label_large_line_height",
           "attributes": {
@@ -12130,12 +11498,12 @@ module.exports = {
           ]
         },
         "fontSize": {
-          "value": "0.875rem",
+          "value": "0.75rem",
           "type": "fontSizes",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": 14,
+            "value": "{fontSize.1}",
             "type": "fontSizes"
           },
           "name": "mch_typography_supporting_label_large_font_size",
@@ -12153,12 +11521,12 @@ module.exports = {
           ]
         },
         "letterSpacing": {
-          "value": 0,
+          "value": "0",
           "type": "letterSpacing",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": 0,
+            "value": "{letterSpacing.0}",
             "type": "letterSpacing"
           },
           "name": "mch_typography_supporting_label_large_letter_spacing",
@@ -12176,12 +11544,12 @@ module.exports = {
           ]
         },
         "paragraphSpacing": {
-          "value": 0,
+          "value": "0",
           "type": "paragraphSpacing",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": 0,
+            "value": "{paragraphSpacing.0}",
             "type": "paragraphSpacing"
           },
           "name": "mch_typography_supporting_label_large_paragraph_spacing",
@@ -12199,12 +11567,12 @@ module.exports = {
           ]
         },
         "paragraphIndent": {
-          "value": 0,
+          "value": "0px",
           "type": "paragraphIndent",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "0px",
+            "value": "{paragraphIndent.0}",
             "type": "paragraphIndent"
           },
           "name": "mch_typography_supporting_label_large_paragraph_indent",
@@ -12224,10 +11592,10 @@ module.exports = {
         "textCase": {
           "value": "none",
           "type": "textCase",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "none",
+            "value": "{textCase.none}",
             "type": "textCase"
           },
           "name": "mch_typography_supporting_label_large_text_case",
@@ -12247,10 +11615,10 @@ module.exports = {
         "textDecoration": {
           "value": "none",
           "type": "textDecoration",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "none",
+            "value": "{textDecoration.none}",
             "type": "textDecoration"
           },
           "name": "mch_typography_supporting_label_large_text_decoration",
@@ -12272,10 +11640,10 @@ module.exports = {
         "fontFamily": {
           "value": "Art Basel Text",
           "type": "fontFamilies",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "Art Basel Text",
+            "value": "{fontFamilies.art-basel-text}",
             "type": "fontFamilies"
           },
           "name": "mch_typography_supporting_label_medium_font_family",
@@ -12293,12 +11661,12 @@ module.exports = {
           ]
         },
         "fontWeight": {
-          "value": 700,
+          "value": "700",
           "type": "fontWeights",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "Bold",
+            "value": "{fontWeights.art-basel-text-4}",
             "type": "fontWeights"
           },
           "name": "mch_typography_supporting_label_medium_font_weight",
@@ -12317,12 +11685,12 @@ module.exports = {
         },
         "lineHeight": {
           "value": "1rem",
-          "type": "lineHeight",
-          "filePath": "tokens/tokens-studio.json",
+          "type": "lineHeights",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": 16,
-            "type": "lineHeight"
+            "value": "{lineHeights.18}",
+            "type": "lineHeights"
           },
           "name": "mch_typography_supporting_label_medium_line_height",
           "attributes": {
@@ -12339,12 +11707,12 @@ module.exports = {
           ]
         },
         "fontSize": {
-          "value": "0.75rem",
+          "value": "0.6875rem",
           "type": "fontSizes",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": 12,
+            "value": "{fontSize.0}",
             "type": "fontSizes"
           },
           "name": "mch_typography_supporting_label_medium_font_size",
@@ -12362,12 +11730,12 @@ module.exports = {
           ]
         },
         "letterSpacing": {
-          "value": 0,
+          "value": "0",
           "type": "letterSpacing",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": 0,
+            "value": "{letterSpacing.0}",
             "type": "letterSpacing"
           },
           "name": "mch_typography_supporting_label_medium_letter_spacing",
@@ -12385,12 +11753,12 @@ module.exports = {
           ]
         },
         "paragraphSpacing": {
-          "value": 0,
+          "value": "0",
           "type": "paragraphSpacing",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": 0,
+            "value": "{paragraphSpacing.0}",
             "type": "paragraphSpacing"
           },
           "name": "mch_typography_supporting_label_medium_paragraph_spacing",
@@ -12408,12 +11776,12 @@ module.exports = {
           ]
         },
         "paragraphIndent": {
-          "value": 0,
+          "value": "0px",
           "type": "paragraphIndent",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "0px",
+            "value": "{paragraphIndent.0}",
             "type": "paragraphIndent"
           },
           "name": "mch_typography_supporting_label_medium_paragraph_indent",
@@ -12433,10 +11801,10 @@ module.exports = {
         "textCase": {
           "value": "none",
           "type": "textCase",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "none",
+            "value": "{textCase.none}",
             "type": "textCase"
           },
           "name": "mch_typography_supporting_label_medium_text_case",
@@ -12456,10 +11824,10 @@ module.exports = {
         "textDecoration": {
           "value": "none",
           "type": "textDecoration",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "none",
+            "value": "{textDecoration.none}",
             "type": "textDecoration"
           },
           "name": "mch_typography_supporting_label_medium_text_decoration",
@@ -12481,10 +11849,10 @@ module.exports = {
         "fontFamily": {
           "value": "Art Basel Text",
           "type": "fontFamilies",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "Art Basel Text",
+            "value": "{fontFamilies.art-basel-text}",
             "type": "fontFamilies"
           },
           "name": "mch_typography_supporting_label_small_font_family",
@@ -12502,12 +11870,12 @@ module.exports = {
           ]
         },
         "fontWeight": {
-          "value": 400,
+          "value": "400",
           "type": "fontWeights",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "Regular",
+            "value": "{fontWeights.art-basel-text-3}",
             "type": "fontWeights"
           },
           "name": "mch_typography_supporting_label_small_font_weight",
@@ -12526,12 +11894,12 @@ module.exports = {
         },
         "lineHeight": {
           "value": "1rem",
-          "type": "lineHeight",
-          "filePath": "tokens/tokens-studio.json",
+          "type": "lineHeights",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": 16,
-            "type": "lineHeight"
+            "value": "{lineHeights.18}",
+            "type": "lineHeights"
           },
           "name": "mch_typography_supporting_label_small_line_height",
           "attributes": {
@@ -12548,12 +11916,12 @@ module.exports = {
           ]
         },
         "fontSize": {
-          "value": "0.75rem",
+          "value": "0.6875rem",
           "type": "fontSizes",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": 12,
+            "value": "{fontSize.0}",
             "type": "fontSizes"
           },
           "name": "mch_typography_supporting_label_small_font_size",
@@ -12571,12 +11939,12 @@ module.exports = {
           ]
         },
         "letterSpacing": {
-          "value": 0.3,
+          "value": "0.3",
           "type": "letterSpacing",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": 0.3,
+            "value": "{letterSpacing.3}",
             "type": "letterSpacing"
           },
           "name": "mch_typography_supporting_label_small_letter_spacing",
@@ -12594,12 +11962,12 @@ module.exports = {
           ]
         },
         "paragraphSpacing": {
-          "value": 0,
+          "value": "0",
           "type": "paragraphSpacing",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": 0,
+            "value": "{paragraphSpacing.0}",
             "type": "paragraphSpacing"
           },
           "name": "mch_typography_supporting_label_small_paragraph_spacing",
@@ -12617,12 +11985,12 @@ module.exports = {
           ]
         },
         "paragraphIndent": {
-          "value": 0,
+          "value": "0px",
           "type": "paragraphIndent",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "0px",
+            "value": "{paragraphIndent.0}",
             "type": "paragraphIndent"
           },
           "name": "mch_typography_supporting_label_small_paragraph_indent",
@@ -12642,10 +12010,10 @@ module.exports = {
         "textCase": {
           "value": "none",
           "type": "textCase",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "none",
+            "value": "{textCase.none}",
             "type": "textCase"
           },
           "name": "mch_typography_supporting_label_small_text_case",
@@ -12665,10 +12033,10 @@ module.exports = {
         "textDecoration": {
           "value": "none",
           "type": "textDecoration",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "none",
+            "value": "{textDecoration.none}",
             "type": "textDecoration"
           },
           "name": "mch_typography_supporting_label_small_text_decoration",
@@ -12692,10 +12060,10 @@ module.exports = {
         "fontFamily": {
           "value": "Art Basel Text",
           "type": "fontFamilies",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "Art Basel Text",
+            "value": "{fontFamilies.art-basel-text}",
             "type": "fontFamilies"
           },
           "name": "mch_typography_body_text_large_font_family",
@@ -12713,12 +12081,12 @@ module.exports = {
           ]
         },
         "fontWeight": {
-          "value": 400,
+          "value": "400",
           "type": "fontWeights",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "Regular",
+            "value": "{fontWeights.art-basel-text-3}",
             "type": "fontWeights"
           },
           "name": "mch_typography_body_text_large_font_weight",
@@ -12737,12 +12105,12 @@ module.exports = {
         },
         "lineHeight": {
           "value": "1.5rem",
-          "type": "lineHeight",
-          "filePath": "tokens/tokens-studio.json",
+          "type": "lineHeights",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": 24,
-            "type": "lineHeight"
+            "value": "{lineHeights.11}",
+            "type": "lineHeights"
           },
           "name": "mch_typography_body_text_large_line_height",
           "attributes": {
@@ -12759,12 +12127,12 @@ module.exports = {
           ]
         },
         "fontSize": {
-          "value": "1.125rem",
+          "value": "0.875rem",
           "type": "fontSizes",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": 18,
+            "value": "{fontSize.3}",
             "type": "fontSizes"
           },
           "name": "mch_typography_body_text_large_font_size",
@@ -12782,12 +12150,12 @@ module.exports = {
           ]
         },
         "letterSpacing": {
-          "value": 0,
+          "value": "0",
           "type": "letterSpacing",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": 0,
+            "value": "{letterSpacing.0}",
             "type": "letterSpacing"
           },
           "name": "mch_typography_body_text_large_letter_spacing",
@@ -12805,12 +12173,12 @@ module.exports = {
           ]
         },
         "paragraphSpacing": {
-          "value": 0,
+          "value": "0",
           "type": "paragraphSpacing",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": 0,
+            "value": "{paragraphSpacing.0}",
             "type": "paragraphSpacing"
           },
           "name": "mch_typography_body_text_large_paragraph_spacing",
@@ -12828,12 +12196,12 @@ module.exports = {
           ]
         },
         "paragraphIndent": {
-          "value": 0,
+          "value": "0px",
           "type": "paragraphIndent",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "0px",
+            "value": "{paragraphIndent.0}",
             "type": "paragraphIndent"
           },
           "name": "mch_typography_body_text_large_paragraph_indent",
@@ -12853,10 +12221,10 @@ module.exports = {
         "textCase": {
           "value": "none",
           "type": "textCase",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "none",
+            "value": "{textCase.none}",
             "type": "textCase"
           },
           "name": "mch_typography_body_text_large_text_case",
@@ -12876,10 +12244,10 @@ module.exports = {
         "textDecoration": {
           "value": "none",
           "type": "textDecoration",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "none",
+            "value": "{textDecoration.none}",
             "type": "textDecoration"
           },
           "name": "mch_typography_body_text_large_text_decoration",
@@ -12901,10 +12269,10 @@ module.exports = {
         "fontFamily": {
           "value": "Art Basel Text",
           "type": "fontFamilies",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "Art Basel Text",
+            "value": "{fontFamilies.art-basel-text}",
             "type": "fontFamilies"
           },
           "name": "mch_typography_body_text_medium_font_family",
@@ -12922,12 +12290,12 @@ module.exports = {
           ]
         },
         "fontWeight": {
-          "value": 400,
+          "value": "400",
           "type": "fontWeights",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "Regular",
+            "value": "{fontWeights.art-basel-text-3}",
             "type": "fontWeights"
           },
           "name": "mch_typography_body_text_medium_font_weight",
@@ -12946,12 +12314,12 @@ module.exports = {
         },
         "lineHeight": {
           "value": "1.375rem",
-          "type": "lineHeight",
-          "filePath": "tokens/tokens-studio.json",
+          "type": "lineHeights",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": 22,
-            "type": "lineHeight"
+            "value": "{lineHeights.17}",
+            "type": "lineHeights"
           },
           "name": "mch_typography_body_text_medium_line_height",
           "attributes": {
@@ -12968,12 +12336,12 @@ module.exports = {
           ]
         },
         "fontSize": {
-          "value": "1rem",
+          "value": "0.8125rem",
           "type": "fontSizes",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": 16,
+            "value": "{fontSize.2}",
             "type": "fontSizes"
           },
           "name": "mch_typography_body_text_medium_font_size",
@@ -12991,12 +12359,12 @@ module.exports = {
           ]
         },
         "letterSpacing": {
-          "value": 0,
+          "value": "0",
           "type": "letterSpacing",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": 0,
+            "value": "{letterSpacing.0}",
             "type": "letterSpacing"
           },
           "name": "mch_typography_body_text_medium_letter_spacing",
@@ -13014,12 +12382,12 @@ module.exports = {
           ]
         },
         "paragraphSpacing": {
-          "value": 0,
+          "value": "0",
           "type": "paragraphSpacing",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": 0,
+            "value": "{paragraphSpacing.0}",
             "type": "paragraphSpacing"
           },
           "name": "mch_typography_body_text_medium_paragraph_spacing",
@@ -13037,12 +12405,12 @@ module.exports = {
           ]
         },
         "paragraphIndent": {
-          "value": 0,
+          "value": "0px",
           "type": "paragraphIndent",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "0px",
+            "value": "{paragraphIndent.0}",
             "type": "paragraphIndent"
           },
           "name": "mch_typography_body_text_medium_paragraph_indent",
@@ -13062,10 +12430,10 @@ module.exports = {
         "textCase": {
           "value": "none",
           "type": "textCase",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "none",
+            "value": "{textCase.none}",
             "type": "textCase"
           },
           "name": "mch_typography_body_text_medium_text_case",
@@ -13085,10 +12453,10 @@ module.exports = {
         "textDecoration": {
           "value": "none",
           "type": "textDecoration",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "none",
+            "value": "{textDecoration.none}",
             "type": "textDecoration"
           },
           "name": "mch_typography_body_text_medium_text_decoration",
@@ -13110,10 +12478,10 @@ module.exports = {
         "fontFamily": {
           "value": "Art Basel Text",
           "type": "fontFamilies",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "Art Basel Text",
+            "value": "{fontFamilies.art-basel-text}",
             "type": "fontFamilies"
           },
           "name": "mch_typography_body_text_small_font_family",
@@ -13131,12 +12499,12 @@ module.exports = {
           ]
         },
         "fontWeight": {
-          "value": 400,
+          "value": "400",
           "type": "fontWeights",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "Regular",
+            "value": "{fontWeights.art-basel-text-3}",
             "type": "fontWeights"
           },
           "name": "mch_typography_body_text_small_font_weight",
@@ -13155,12 +12523,12 @@ module.exports = {
         },
         "lineHeight": {
           "value": "1.125rem",
-          "type": "lineHeight",
-          "filePath": "tokens/tokens-studio.json",
+          "type": "lineHeights",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": 18,
-            "type": "lineHeight"
+            "value": "{lineHeights.16}",
+            "type": "lineHeights"
           },
           "name": "mch_typography_body_text_small_line_height",
           "attributes": {
@@ -13177,12 +12545,12 @@ module.exports = {
           ]
         },
         "fontSize": {
-          "value": "0.875rem",
+          "value": "0.75rem",
           "type": "fontSizes",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": 14,
+            "value": "{fontSize.1}",
             "type": "fontSizes"
           },
           "name": "mch_typography_body_text_small_font_size",
@@ -13200,12 +12568,12 @@ module.exports = {
           ]
         },
         "letterSpacing": {
-          "value": 0,
+          "value": "0",
           "type": "letterSpacing",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": 0,
+            "value": "{letterSpacing.0}",
             "type": "letterSpacing"
           },
           "name": "mch_typography_body_text_small_letter_spacing",
@@ -13223,12 +12591,12 @@ module.exports = {
           ]
         },
         "paragraphSpacing": {
-          "value": 0,
+          "value": "0",
           "type": "paragraphSpacing",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": 0,
+            "value": "{paragraphSpacing.0}",
             "type": "paragraphSpacing"
           },
           "name": "mch_typography_body_text_small_paragraph_spacing",
@@ -13246,12 +12614,12 @@ module.exports = {
           ]
         },
         "paragraphIndent": {
-          "value": 0,
+          "value": "0px",
           "type": "paragraphIndent",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "0px",
+            "value": "{paragraphIndent.0}",
             "type": "paragraphIndent"
           },
           "name": "mch_typography_body_text_small_paragraph_indent",
@@ -13271,10 +12639,10 @@ module.exports = {
         "textCase": {
           "value": "none",
           "type": "textCase",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "none",
+            "value": "{textCase.none}",
             "type": "textCase"
           },
           "name": "mch_typography_body_text_small_text_case",
@@ -13294,10 +12662,10 @@ module.exports = {
         "textDecoration": {
           "value": "none",
           "type": "textDecoration",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "none",
+            "value": "{textDecoration.none}",
             "type": "textDecoration"
           },
           "name": "mch_typography_body_text_small_text_decoration",
@@ -13321,10 +12689,10 @@ module.exports = {
         "fontFamily": {
           "value": "Art Basel Headline",
           "type": "fontFamilies",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "Art Basel Headline",
+            "value": "{fontFamilies.art-basel-headline}",
             "type": "fontFamilies"
           },
           "name": "mch_typography_headings_fixed_01_font_family",
@@ -13342,12 +12710,12 @@ module.exports = {
           ]
         },
         "fontWeight": {
-          "value": 700,
+          "value": "700",
           "type": "fontWeights",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "Bold",
+            "value": "{fontWeights.art-basel-headline-0}",
             "type": "fontWeights"
           },
           "name": "mch_typography_headings_fixed_01_font_weight",
@@ -13365,13 +12733,13 @@ module.exports = {
           ]
         },
         "lineHeight": {
-          "value": "1.3125rem",
-          "type": "lineHeight",
-          "filePath": "tokens/tokens-studio.json",
+          "value": "1.375rem",
+          "type": "lineHeights",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": 21,
-            "type": "lineHeight"
+            "value": "{lineHeights.4}",
+            "type": "lineHeights"
           },
           "name": "mch_typography_headings_fixed_01_line_height",
           "attributes": {
@@ -13388,12 +12756,12 @@ module.exports = {
           ]
         },
         "fontSize": {
-          "value": "1.125rem",
+          "value": "0.875rem",
           "type": "fontSizes",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": 18,
+            "value": "{fontSize.3}",
             "type": "fontSizes"
           },
           "name": "mch_typography_headings_fixed_01_font_size",
@@ -13411,12 +12779,12 @@ module.exports = {
           ]
         },
         "letterSpacing": {
-          "value": 4,
+          "value": "4",
           "type": "letterSpacing",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": 4,
+            "value": "{letterSpacing.4}",
             "type": "letterSpacing"
           },
           "name": "mch_typography_headings_fixed_01_letter_spacing",
@@ -13434,12 +12802,12 @@ module.exports = {
           ]
         },
         "paragraphSpacing": {
-          "value": 0,
+          "value": "0",
           "type": "paragraphSpacing",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": 0,
+            "value": "{paragraphSpacing.0}",
             "type": "paragraphSpacing"
           },
           "name": "mch_typography_headings_fixed_01_paragraph_spacing",
@@ -13457,12 +12825,12 @@ module.exports = {
           ]
         },
         "paragraphIndent": {
-          "value": 0,
+          "value": "0px",
           "type": "paragraphIndent",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "0px",
+            "value": "{paragraphIndent.0}",
             "type": "paragraphIndent"
           },
           "name": "mch_typography_headings_fixed_01_paragraph_indent",
@@ -13482,10 +12850,10 @@ module.exports = {
         "textCase": {
           "value": "uppercase",
           "type": "textCase",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "uppercase",
+            "value": "{textCase.uppercase}",
             "type": "textCase"
           },
           "name": "mch_typography_headings_fixed_01_text_case",
@@ -13505,10 +12873,10 @@ module.exports = {
         "textDecoration": {
           "value": "none",
           "type": "textDecoration",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "none",
+            "value": "{textDecoration.none}",
             "type": "textDecoration"
           },
           "name": "mch_typography_headings_fixed_01_text_decoration",
@@ -13530,10 +12898,10 @@ module.exports = {
         "fontFamily": {
           "value": "Art Basel Headline",
           "type": "fontFamilies",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "Art Basel Headline",
+            "value": "{fontFamilies.art-basel-headline}",
             "type": "fontFamilies"
           },
           "name": "mch_typography_headings_fixed_02_font_family",
@@ -13551,12 +12919,12 @@ module.exports = {
           ]
         },
         "fontWeight": {
-          "value": 700,
+          "value": "700",
           "type": "fontWeights",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "Bold",
+            "value": "{fontWeights.art-basel-headline-0}",
             "type": "fontWeights"
           },
           "name": "mch_typography_headings_fixed_02_font_weight",
@@ -13575,12 +12943,12 @@ module.exports = {
         },
         "lineHeight": {
           "value": "1.125rem",
-          "type": "lineHeight",
-          "filePath": "tokens/tokens-studio.json",
+          "type": "lineHeights",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": 18,
-            "type": "lineHeight"
+            "value": "{lineHeights.16}",
+            "type": "lineHeights"
           },
           "name": "mch_typography_headings_fixed_02_line_height",
           "attributes": {
@@ -13597,12 +12965,12 @@ module.exports = {
           ]
         },
         "fontSize": {
-          "value": "0.875rem",
+          "value": "0.75rem",
           "type": "fontSizes",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": 14,
+            "value": "{fontSize.1}",
             "type": "fontSizes"
           },
           "name": "mch_typography_headings_fixed_02_font_size",
@@ -13620,12 +12988,12 @@ module.exports = {
           ]
         },
         "letterSpacing": {
-          "value": 1,
+          "value": "1",
           "type": "letterSpacing",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": 1,
+            "value": "{letterSpacing.5}",
             "type": "letterSpacing"
           },
           "name": "mch_typography_headings_fixed_02_letter_spacing",
@@ -13643,12 +13011,12 @@ module.exports = {
           ]
         },
         "paragraphSpacing": {
-          "value": 0,
+          "value": "0",
           "type": "paragraphSpacing",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": 0,
+            "value": "{paragraphSpacing.0}",
             "type": "paragraphSpacing"
           },
           "name": "mch_typography_headings_fixed_02_paragraph_spacing",
@@ -13666,12 +13034,12 @@ module.exports = {
           ]
         },
         "paragraphIndent": {
-          "value": 0,
+          "value": "0px",
           "type": "paragraphIndent",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "0px",
+            "value": "{paragraphIndent.0}",
             "type": "paragraphIndent"
           },
           "name": "mch_typography_headings_fixed_02_paragraph_indent",
@@ -13691,10 +13059,10 @@ module.exports = {
         "textCase": {
           "value": "uppercase",
           "type": "textCase",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "uppercase",
+            "value": "{textCase.uppercase}",
             "type": "textCase"
           },
           "name": "mch_typography_headings_fixed_02_text_case",
@@ -13714,10 +13082,10 @@ module.exports = {
         "textDecoration": {
           "value": "none",
           "type": "textDecoration",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "none",
+            "value": "{textDecoration.none}",
             "type": "textDecoration"
           },
           "name": "mch_typography_headings_fixed_02_text_decoration",
@@ -13741,10 +13109,10 @@ module.exports = {
         "fontFamily": {
           "value": "Art Basel Text",
           "type": "fontFamilies",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "Art Basel Text",
+            "value": "{fontFamilies.art-basel-text}",
             "type": "fontFamilies"
           },
           "name": "mch_typography_paragraphs_common_p1_xs_sm_font_family",
@@ -13762,12 +13130,12 @@ module.exports = {
           ]
         },
         "fontWeight": {
-          "value": 400,
+          "value": "400",
           "type": "fontWeights",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "Regular",
+            "value": "{fontWeights.art-basel-text-3}",
             "type": "fontWeights"
           },
           "name": "mch_typography_paragraphs_common_p1_xs_sm_font_weight",
@@ -13786,12 +13154,12 @@ module.exports = {
         },
         "lineHeight": {
           "value": "1.75rem",
-          "type": "lineHeight",
-          "filePath": "tokens/tokens-studio.json",
+          "type": "lineHeights",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": 28,
-            "type": "lineHeight"
+            "value": "{lineHeights.2}",
+            "type": "lineHeights"
           },
           "name": "mch_typography_paragraphs_common_p1_xs_sm_line_height",
           "attributes": {
@@ -13808,12 +13176,12 @@ module.exports = {
           ]
         },
         "fontSize": {
-          "value": "1.5rem",
+          "value": "1rem",
           "type": "fontSizes",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": 24,
+            "value": "{fontSize.5}",
             "type": "fontSizes"
           },
           "name": "mch_typography_paragraphs_common_p1_xs_sm_font_size",
@@ -13831,12 +13199,12 @@ module.exports = {
           ]
         },
         "letterSpacing": {
-          "value": 0,
+          "value": "0",
           "type": "letterSpacing",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": 0,
+            "value": "{letterSpacing.0}",
             "type": "letterSpacing"
           },
           "name": "mch_typography_paragraphs_common_p1_xs_sm_letter_spacing",
@@ -13854,12 +13222,12 @@ module.exports = {
           ]
         },
         "paragraphSpacing": {
-          "value": 0,
+          "value": "0",
           "type": "paragraphSpacing",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": 0,
+            "value": "{paragraphSpacing.0}",
             "type": "paragraphSpacing"
           },
           "name": "mch_typography_paragraphs_common_p1_xs_sm_paragraph_spacing",
@@ -13877,12 +13245,12 @@ module.exports = {
           ]
         },
         "paragraphIndent": {
-          "value": 0,
+          "value": "0px",
           "type": "paragraphIndent",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "0px",
+            "value": "{paragraphIndent.0}",
             "type": "paragraphIndent"
           },
           "name": "mch_typography_paragraphs_common_p1_xs_sm_paragraph_indent",
@@ -13902,10 +13270,10 @@ module.exports = {
         "textCase": {
           "value": "none",
           "type": "textCase",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "none",
+            "value": "{textCase.none}",
             "type": "textCase"
           },
           "name": "mch_typography_paragraphs_common_p1_xs_sm_text_case",
@@ -13925,10 +13293,10 @@ module.exports = {
         "textDecoration": {
           "value": "none",
           "type": "textDecoration",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "none",
+            "value": "{textDecoration.none}",
             "type": "textDecoration"
           },
           "name": "mch_typography_paragraphs_common_p1_xs_sm_text_decoration",
@@ -13950,10 +13318,10 @@ module.exports = {
         "fontFamily": {
           "value": "Art Basel Text",
           "type": "fontFamilies",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "Art Basel Text",
+            "value": "{fontFamilies.art-basel-text}",
             "type": "fontFamilies"
           },
           "name": "mch_typography_paragraphs_common_p2_xs_sm_font_family",
@@ -13971,12 +13339,12 @@ module.exports = {
           ]
         },
         "fontWeight": {
-          "value": 400,
+          "value": "400",
           "type": "fontWeights",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "Regular",
+            "value": "{fontWeights.art-basel-text-3}",
             "type": "fontWeights"
           },
           "name": "mch_typography_paragraphs_common_p2_xs_sm_font_weight",
@@ -13994,13 +13362,13 @@ module.exports = {
           ]
         },
         "lineHeight": {
-          "value": "1.4375rem",
-          "type": "lineHeight",
-          "filePath": "tokens/tokens-studio.json",
+          "value": "1.5625rem",
+          "type": "lineHeights",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": 23,
-            "type": "lineHeight"
+            "value": "{lineHeights.3}",
+            "type": "lineHeights"
           },
           "name": "mch_typography_paragraphs_common_p2_xs_sm_line_height",
           "attributes": {
@@ -14017,12 +13385,12 @@ module.exports = {
           ]
         },
         "fontSize": {
-          "value": "1.25rem",
+          "value": "0.9375rem",
           "type": "fontSizes",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": 20,
+            "value": "{fontSize.4}",
             "type": "fontSizes"
           },
           "name": "mch_typography_paragraphs_common_p2_xs_sm_font_size",
@@ -14040,12 +13408,12 @@ module.exports = {
           ]
         },
         "letterSpacing": {
-          "value": 0,
+          "value": "0",
           "type": "letterSpacing",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": 0,
+            "value": "{letterSpacing.0}",
             "type": "letterSpacing"
           },
           "name": "mch_typography_paragraphs_common_p2_xs_sm_letter_spacing",
@@ -14063,12 +13431,12 @@ module.exports = {
           ]
         },
         "paragraphSpacing": {
-          "value": 0,
+          "value": "0",
           "type": "paragraphSpacing",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": 0,
+            "value": "{paragraphSpacing.0}",
             "type": "paragraphSpacing"
           },
           "name": "mch_typography_paragraphs_common_p2_xs_sm_paragraph_spacing",
@@ -14086,12 +13454,12 @@ module.exports = {
           ]
         },
         "paragraphIndent": {
-          "value": 0,
+          "value": "0px",
           "type": "paragraphIndent",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "0px",
+            "value": "{paragraphIndent.0}",
             "type": "paragraphIndent"
           },
           "name": "mch_typography_paragraphs_common_p2_xs_sm_paragraph_indent",
@@ -14111,10 +13479,10 @@ module.exports = {
         "textCase": {
           "value": "none",
           "type": "textCase",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "none",
+            "value": "{textCase.none}",
             "type": "textCase"
           },
           "name": "mch_typography_paragraphs_common_p2_xs_sm_text_case",
@@ -14134,10 +13502,10 @@ module.exports = {
         "textDecoration": {
           "value": "none",
           "type": "textDecoration",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "none",
+            "value": "{textDecoration.none}",
             "type": "textDecoration"
           },
           "name": "mch_typography_paragraphs_common_p2_xs_sm_text_decoration",
@@ -14159,10 +13527,10 @@ module.exports = {
         "fontFamily": {
           "value": "Art Basel Text",
           "type": "fontFamilies",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "Art Basel Text",
+            "value": "{fontFamilies.art-basel-text}",
             "type": "fontFamilies"
           },
           "name": "mch_typography_paragraphs_common_p1_xl_font_family",
@@ -14180,12 +13548,12 @@ module.exports = {
           ]
         },
         "fontWeight": {
-          "value": 400,
+          "value": "400",
           "type": "fontWeights",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "Regular",
+            "value": "{fontWeights.art-basel-text-3}",
             "type": "fontWeights"
           },
           "name": "mch_typography_paragraphs_common_p1_xl_font_weight",
@@ -14203,13 +13571,13 @@ module.exports = {
           ]
         },
         "lineHeight": {
-          "value": "2.125rem",
-          "type": "lineHeight",
-          "filePath": "tokens/tokens-studio.json",
+          "value": "0.8125rem",
+          "type": "lineHeights",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": 34,
-            "type": "lineHeight"
+            "value": "{lineHeights.7}",
+            "type": "lineHeights"
           },
           "name": "mch_typography_paragraphs_common_p1_xl_line_height",
           "attributes": {
@@ -14226,12 +13594,12 @@ module.exports = {
           ]
         },
         "fontSize": {
-          "value": "1.875rem",
+          "value": "1.25rem",
           "type": "fontSizes",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": 30,
+            "value": "{fontSize.7}",
             "type": "fontSizes"
           },
           "name": "mch_typography_paragraphs_common_p1_xl_font_size",
@@ -14249,12 +13617,12 @@ module.exports = {
           ]
         },
         "letterSpacing": {
-          "value": 0,
+          "value": "0",
           "type": "letterSpacing",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": 0,
+            "value": "{letterSpacing.0}",
             "type": "letterSpacing"
           },
           "name": "mch_typography_paragraphs_common_p1_xl_letter_spacing",
@@ -14272,12 +13640,12 @@ module.exports = {
           ]
         },
         "paragraphSpacing": {
-          "value": 0,
+          "value": "0",
           "type": "paragraphSpacing",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": 0,
+            "value": "{paragraphSpacing.0}",
             "type": "paragraphSpacing"
           },
           "name": "mch_typography_paragraphs_common_p1_xl_paragraph_spacing",
@@ -14295,12 +13663,12 @@ module.exports = {
           ]
         },
         "paragraphIndent": {
-          "value": 0,
+          "value": "0px",
           "type": "paragraphIndent",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "0px",
+            "value": "{paragraphIndent.0}",
             "type": "paragraphIndent"
           },
           "name": "mch_typography_paragraphs_common_p1_xl_paragraph_indent",
@@ -14320,10 +13688,10 @@ module.exports = {
         "textCase": {
           "value": "none",
           "type": "textCase",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "none",
+            "value": "{textCase.none}",
             "type": "textCase"
           },
           "name": "mch_typography_paragraphs_common_p1_xl_text_case",
@@ -14343,10 +13711,10 @@ module.exports = {
         "textDecoration": {
           "value": "none",
           "type": "textDecoration",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "none",
+            "value": "{textDecoration.none}",
             "type": "textDecoration"
           },
           "name": "mch_typography_paragraphs_common_p1_xl_text_decoration",
@@ -14368,10 +13736,10 @@ module.exports = {
         "fontFamily": {
           "value": "Art Basel Text",
           "type": "fontFamilies",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "Art Basel Text",
+            "value": "{fontFamilies.art-basel-text}",
             "type": "fontFamilies"
           },
           "name": "mch_typography_paragraphs_common_p2_xl_font_family",
@@ -14389,12 +13757,12 @@ module.exports = {
           ]
         },
         "fontWeight": {
-          "value": 400,
+          "value": "400",
           "type": "fontWeights",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "Regular",
+            "value": "{fontWeights.art-basel-text-3}",
             "type": "fontWeights"
           },
           "name": "mch_typography_paragraphs_common_p2_xl_font_weight",
@@ -14413,12 +13781,12 @@ module.exports = {
         },
         "lineHeight": {
           "value": "1.75rem",
-          "type": "lineHeight",
-          "filePath": "tokens/tokens-studio.json",
+          "type": "lineHeights",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": 28,
-            "type": "lineHeight"
+            "value": "{lineHeights.2}",
+            "type": "lineHeights"
           },
           "name": "mch_typography_paragraphs_common_p2_xl_line_height",
           "attributes": {
@@ -14435,12 +13803,12 @@ module.exports = {
           ]
         },
         "fontSize": {
-          "value": "1.5rem",
+          "value": "1rem",
           "type": "fontSizes",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": 24,
+            "value": "{fontSize.5}",
             "type": "fontSizes"
           },
           "name": "mch_typography_paragraphs_common_p2_xl_font_size",
@@ -14458,12 +13826,12 @@ module.exports = {
           ]
         },
         "letterSpacing": {
-          "value": 0,
+          "value": "0",
           "type": "letterSpacing",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": 0,
+            "value": "{letterSpacing.0}",
             "type": "letterSpacing"
           },
           "name": "mch_typography_paragraphs_common_p2_xl_letter_spacing",
@@ -14481,12 +13849,12 @@ module.exports = {
           ]
         },
         "paragraphSpacing": {
-          "value": 0,
+          "value": "0",
           "type": "paragraphSpacing",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": 0,
+            "value": "{paragraphSpacing.0}",
             "type": "paragraphSpacing"
           },
           "name": "mch_typography_paragraphs_common_p2_xl_paragraph_spacing",
@@ -14504,12 +13872,12 @@ module.exports = {
           ]
         },
         "paragraphIndent": {
-          "value": 0,
+          "value": "0px",
           "type": "paragraphIndent",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "0px",
+            "value": "{paragraphIndent.0}",
             "type": "paragraphIndent"
           },
           "name": "mch_typography_paragraphs_common_p2_xl_paragraph_indent",
@@ -14529,10 +13897,10 @@ module.exports = {
         "textCase": {
           "value": "none",
           "type": "textCase",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "none",
+            "value": "{textCase.none}",
             "type": "textCase"
           },
           "name": "mch_typography_paragraphs_common_p2_xl_text_case",
@@ -14552,10 +13920,10 @@ module.exports = {
         "textDecoration": {
           "value": "none",
           "type": "textDecoration",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "none",
+            "value": "{textDecoration.none}",
             "type": "textDecoration"
           },
           "name": "mch_typography_paragraphs_common_p2_xl_text_decoration",
@@ -14579,10 +13947,10 @@ module.exports = {
         "fontFamily": {
           "value": "Ivar Display",
           "type": "fontFamilies",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "Ivar Display",
+            "value": "{fontFamilies.ivar-display}",
             "type": "fontFamilies"
           },
           "name": "mch_typography_editorial_headings_other_h1_md_font_family",
@@ -14600,12 +13968,12 @@ module.exports = {
           ]
         },
         "fontWeight": {
-          "value": 600,
+          "value": "600",
           "type": "fontWeights",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "SemiBold",
+            "value": "{fontWeights.ivar-display-2}",
             "type": "fontWeights"
           },
           "name": "mch_typography_editorial_headings_other_h1_md_font_weight",
@@ -14623,13 +13991,13 @@ module.exports = {
           ]
         },
         "lineHeight": {
-          "value": "3rem",
-          "type": "lineHeight",
-          "filePath": "tokens/tokens-studio.json",
+          "value": "1.25rem",
+          "type": "lineHeights",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": 48,
-            "type": "lineHeight"
+            "value": "{lineHeights.5}",
+            "type": "lineHeights"
           },
           "name": "mch_typography_editorial_headings_other_h1_md_line_height",
           "attributes": {
@@ -14646,12 +14014,12 @@ module.exports = {
           ]
         },
         "fontSize": {
-          "value": "2.25rem",
+          "value": "2.125rem",
           "type": "fontSizes",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": 36,
+            "value": "{fontSize.10}",
             "type": "fontSizes"
           },
           "name": "mch_typography_editorial_headings_other_h1_md_font_size",
@@ -14671,10 +14039,10 @@ module.exports = {
         "letterSpacing": {
           "value": "0%",
           "type": "letterSpacing",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "0%",
+            "value": "{letterSpacing.1}",
             "type": "letterSpacing"
           },
           "name": "mch_typography_editorial_headings_other_h1_md_letter_spacing",
@@ -14692,12 +14060,12 @@ module.exports = {
           ]
         },
         "paragraphSpacing": {
-          "value": 4,
+          "value": "4",
           "type": "paragraphSpacing",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": 4,
+            "value": "{paragraphSpacing.1}",
             "type": "paragraphSpacing"
           },
           "name": "mch_typography_editorial_headings_other_h1_md_paragraph_spacing",
@@ -14715,12 +14083,12 @@ module.exports = {
           ]
         },
         "paragraphIndent": {
-          "value": 0,
+          "value": "0px",
           "type": "paragraphIndent",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "0px",
+            "value": "{paragraphIndent.0}",
             "type": "paragraphIndent"
           },
           "name": "mch_typography_editorial_headings_other_h1_md_paragraph_indent",
@@ -14740,10 +14108,10 @@ module.exports = {
         "textCase": {
           "value": "none",
           "type": "textCase",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "none",
+            "value": "{textCase.none}",
             "type": "textCase"
           },
           "name": "mch_typography_editorial_headings_other_h1_md_text_case",
@@ -14763,10 +14131,10 @@ module.exports = {
         "textDecoration": {
           "value": "none",
           "type": "textDecoration",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "none",
+            "value": "{textDecoration.none}",
             "type": "textDecoration"
           },
           "name": "mch_typography_editorial_headings_other_h1_md_text_decoration",
@@ -14788,10 +14156,10 @@ module.exports = {
         "fontFamily": {
           "value": "Ivar Display",
           "type": "fontFamilies",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "Ivar Display",
+            "value": "{fontFamilies.ivar-display}",
             "type": "fontFamilies"
           },
           "name": "mch_typography_editorial_headings_other_h2_md_font_family",
@@ -14809,12 +14177,12 @@ module.exports = {
           ]
         },
         "fontWeight": {
-          "value": 600,
+          "value": "600",
           "type": "fontWeights",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "SemiBold",
+            "value": "{fontWeights.ivar-display-2}",
             "type": "fontWeights"
           },
           "name": "mch_typography_editorial_headings_other_h2_md_font_weight",
@@ -14832,13 +14200,13 @@ module.exports = {
           ]
         },
         "lineHeight": {
-          "value": "2.625rem",
-          "type": "lineHeight",
-          "filePath": "tokens/tokens-studio.json",
+          "value": "1rem",
+          "type": "lineHeights",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": 42,
-            "type": "lineHeight"
+            "value": "{lineHeights.6}",
+            "type": "lineHeights"
           },
           "name": "mch_typography_editorial_headings_other_h2_md_line_height",
           "attributes": {
@@ -14855,12 +14223,12 @@ module.exports = {
           ]
         },
         "fontSize": {
-          "value": "1.875rem",
+          "value": "1.25rem",
           "type": "fontSizes",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": 30,
+            "value": "{fontSize.7}",
             "type": "fontSizes"
           },
           "name": "mch_typography_editorial_headings_other_h2_md_font_size",
@@ -14880,10 +14248,10 @@ module.exports = {
         "letterSpacing": {
           "value": "0%",
           "type": "letterSpacing",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "0%",
+            "value": "{letterSpacing.1}",
             "type": "letterSpacing"
           },
           "name": "mch_typography_editorial_headings_other_h2_md_letter_spacing",
@@ -14901,12 +14269,12 @@ module.exports = {
           ]
         },
         "paragraphSpacing": {
-          "value": 4,
+          "value": "4",
           "type": "paragraphSpacing",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": 4,
+            "value": "{paragraphSpacing.1}",
             "type": "paragraphSpacing"
           },
           "name": "mch_typography_editorial_headings_other_h2_md_paragraph_spacing",
@@ -14924,12 +14292,12 @@ module.exports = {
           ]
         },
         "paragraphIndent": {
-          "value": 0,
+          "value": "0px",
           "type": "paragraphIndent",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "0px",
+            "value": "{paragraphIndent.0}",
             "type": "paragraphIndent"
           },
           "name": "mch_typography_editorial_headings_other_h2_md_paragraph_indent",
@@ -14949,10 +14317,10 @@ module.exports = {
         "textCase": {
           "value": "none",
           "type": "textCase",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "none",
+            "value": "{textCase.none}",
             "type": "textCase"
           },
           "name": "mch_typography_editorial_headings_other_h2_md_text_case",
@@ -14972,10 +14340,10 @@ module.exports = {
         "textDecoration": {
           "value": "none",
           "type": "textDecoration",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "none",
+            "value": "{textDecoration.none}",
             "type": "textDecoration"
           },
           "name": "mch_typography_editorial_headings_other_h2_md_text_decoration",
@@ -14997,10 +14365,10 @@ module.exports = {
         "fontFamily": {
           "value": "Ivar Display",
           "type": "fontFamilies",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "Ivar Display",
+            "value": "{fontFamilies.ivar-display}",
             "type": "fontFamilies"
           },
           "name": "mch_typography_editorial_headings_other_h3_md_font_family",
@@ -15018,12 +14386,12 @@ module.exports = {
           ]
         },
         "fontWeight": {
-          "value": 600,
+          "value": "600",
           "type": "fontWeights",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "SemiBold",
+            "value": "{fontWeights.ivar-display-2}",
             "type": "fontWeights"
           },
           "name": "mch_typography_editorial_headings_other_h3_md_font_weight",
@@ -15042,12 +14410,12 @@ module.exports = {
         },
         "lineHeight": {
           "value": "2.25rem",
-          "type": "lineHeight",
-          "filePath": "tokens/tokens-studio.json",
+          "type": "lineHeights",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": 36,
-            "type": "lineHeight"
+            "value": "{lineHeights.19}",
+            "type": "lineHeights"
           },
           "name": "mch_typography_editorial_headings_other_h3_md_line_height",
           "attributes": {
@@ -15064,12 +14432,12 @@ module.exports = {
           ]
         },
         "fontSize": {
-          "value": "1.625rem",
+          "value": "1.0625rem",
           "type": "fontSizes",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": 26,
+            "value": "{fontSize.6}",
             "type": "fontSizes"
           },
           "name": "mch_typography_editorial_headings_other_h3_md_font_size",
@@ -15089,10 +14457,10 @@ module.exports = {
         "letterSpacing": {
           "value": "0%",
           "type": "letterSpacing",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "0%",
+            "value": "{letterSpacing.1}",
             "type": "letterSpacing"
           },
           "name": "mch_typography_editorial_headings_other_h3_md_letter_spacing",
@@ -15110,12 +14478,12 @@ module.exports = {
           ]
         },
         "paragraphSpacing": {
-          "value": 4,
+          "value": "4",
           "type": "paragraphSpacing",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": 4,
+            "value": "{paragraphSpacing.1}",
             "type": "paragraphSpacing"
           },
           "name": "mch_typography_editorial_headings_other_h3_md_paragraph_spacing",
@@ -15133,12 +14501,12 @@ module.exports = {
           ]
         },
         "paragraphIndent": {
-          "value": 0,
+          "value": "0px",
           "type": "paragraphIndent",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "0px",
+            "value": "{paragraphIndent.0}",
             "type": "paragraphIndent"
           },
           "name": "mch_typography_editorial_headings_other_h3_md_paragraph_indent",
@@ -15158,10 +14526,10 @@ module.exports = {
         "textCase": {
           "value": "none",
           "type": "textCase",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "none",
+            "value": "{textCase.none}",
             "type": "textCase"
           },
           "name": "mch_typography_editorial_headings_other_h3_md_text_case",
@@ -15181,10 +14549,10 @@ module.exports = {
         "textDecoration": {
           "value": "none",
           "type": "textDecoration",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "none",
+            "value": "{textDecoration.none}",
             "type": "textDecoration"
           },
           "name": "mch_typography_editorial_headings_other_h3_md_text_decoration",
@@ -15206,10 +14574,10 @@ module.exports = {
         "fontFamily": {
           "value": "Ivar Display",
           "type": "fontFamilies",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "Ivar Display",
+            "value": "{fontFamilies.ivar-display}",
             "type": "fontFamilies"
           },
           "name": "mch_typography_editorial_headings_other_h4_md_font_family",
@@ -15227,12 +14595,12 @@ module.exports = {
           ]
         },
         "fontWeight": {
-          "value": 600,
+          "value": "600",
           "type": "fontWeights",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "SemiBold",
+            "value": "{fontWeights.ivar-display-2}",
             "type": "fontWeights"
           },
           "name": "mch_typography_editorial_headings_other_h4_md_font_weight",
@@ -15251,12 +14619,12 @@ module.exports = {
         },
         "lineHeight": {
           "value": "2rem",
-          "type": "lineHeight",
-          "filePath": "tokens/tokens-studio.json",
+          "type": "lineHeights",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": 32,
-            "type": "lineHeight"
+            "value": "{lineHeights.10}",
+            "type": "lineHeights"
           },
           "name": "mch_typography_editorial_headings_other_h4_md_line_height",
           "attributes": {
@@ -15273,12 +14641,12 @@ module.exports = {
           ]
         },
         "fontSize": {
-          "value": "1.5rem",
+          "value": "1rem",
           "type": "fontSizes",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": 24,
+            "value": "{fontSize.5}",
             "type": "fontSizes"
           },
           "name": "mch_typography_editorial_headings_other_h4_md_font_size",
@@ -15298,10 +14666,10 @@ module.exports = {
         "letterSpacing": {
           "value": "0%",
           "type": "letterSpacing",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "0%",
+            "value": "{letterSpacing.1}",
             "type": "letterSpacing"
           },
           "name": "mch_typography_editorial_headings_other_h4_md_letter_spacing",
@@ -15319,12 +14687,12 @@ module.exports = {
           ]
         },
         "paragraphSpacing": {
-          "value": 4,
+          "value": "4",
           "type": "paragraphSpacing",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": 4,
+            "value": "{paragraphSpacing.1}",
             "type": "paragraphSpacing"
           },
           "name": "mch_typography_editorial_headings_other_h4_md_paragraph_spacing",
@@ -15342,12 +14710,12 @@ module.exports = {
           ]
         },
         "paragraphIndent": {
-          "value": 0,
+          "value": "0px",
           "type": "paragraphIndent",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "0px",
+            "value": "{paragraphIndent.0}",
             "type": "paragraphIndent"
           },
           "name": "mch_typography_editorial_headings_other_h4_md_paragraph_indent",
@@ -15367,10 +14735,10 @@ module.exports = {
         "textCase": {
           "value": "none",
           "type": "textCase",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "none",
+            "value": "{textCase.none}",
             "type": "textCase"
           },
           "name": "mch_typography_editorial_headings_other_h4_md_text_case",
@@ -15390,10 +14758,10 @@ module.exports = {
         "textDecoration": {
           "value": "none",
           "type": "textDecoration",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "none",
+            "value": "{textDecoration.none}",
             "type": "textDecoration"
           },
           "name": "mch_typography_editorial_headings_other_h4_md_text_decoration",
@@ -15415,10 +14783,10 @@ module.exports = {
         "fontFamily": {
           "value": "Ivar Display",
           "type": "fontFamilies",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "Ivar Display",
+            "value": "{fontFamilies.ivar-display}",
             "type": "fontFamilies"
           },
           "name": "mch_typography_editorial_headings_other_h5_md_font_family",
@@ -15436,12 +14804,12 @@ module.exports = {
           ]
         },
         "fontWeight": {
-          "value": 600,
+          "value": "600",
           "type": "fontWeights",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "SemiBold",
+            "value": "{fontWeights.ivar-display-2}",
             "type": "fontWeights"
           },
           "name": "mch_typography_editorial_headings_other_h5_md_font_weight",
@@ -15460,12 +14828,12 @@ module.exports = {
         },
         "lineHeight": {
           "value": "1.5rem",
-          "type": "lineHeight",
-          "filePath": "tokens/tokens-studio.json",
+          "type": "lineHeights",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": 24,
-            "type": "lineHeight"
+            "value": "{lineHeights.11}",
+            "type": "lineHeights"
           },
           "name": "mch_typography_editorial_headings_other_h5_md_line_height",
           "attributes": {
@@ -15482,12 +14850,12 @@ module.exports = {
           ]
         },
         "fontSize": {
-          "value": "1.25rem",
+          "value": "0.9375rem",
           "type": "fontSizes",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": 20,
+            "value": "{fontSize.4}",
             "type": "fontSizes"
           },
           "name": "mch_typography_editorial_headings_other_h5_md_font_size",
@@ -15507,10 +14875,10 @@ module.exports = {
         "letterSpacing": {
           "value": "0%",
           "type": "letterSpacing",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "0%",
+            "value": "{letterSpacing.1}",
             "type": "letterSpacing"
           },
           "name": "mch_typography_editorial_headings_other_h5_md_letter_spacing",
@@ -15528,12 +14896,12 @@ module.exports = {
           ]
         },
         "paragraphSpacing": {
-          "value": 4,
+          "value": "4",
           "type": "paragraphSpacing",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": 4,
+            "value": "{paragraphSpacing.1}",
             "type": "paragraphSpacing"
           },
           "name": "mch_typography_editorial_headings_other_h5_md_paragraph_spacing",
@@ -15551,12 +14919,12 @@ module.exports = {
           ]
         },
         "paragraphIndent": {
-          "value": 0,
+          "value": "0px",
           "type": "paragraphIndent",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "0px",
+            "value": "{paragraphIndent.0}",
             "type": "paragraphIndent"
           },
           "name": "mch_typography_editorial_headings_other_h5_md_paragraph_indent",
@@ -15576,10 +14944,10 @@ module.exports = {
         "textCase": {
           "value": "none",
           "type": "textCase",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "none",
+            "value": "{textCase.none}",
             "type": "textCase"
           },
           "name": "mch_typography_editorial_headings_other_h5_md_text_case",
@@ -15599,10 +14967,10 @@ module.exports = {
         "textDecoration": {
           "value": "none",
           "type": "textDecoration",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "none",
+            "value": "{textDecoration.none}",
             "type": "textDecoration"
           },
           "name": "mch_typography_editorial_headings_other_h5_md_text_decoration",
@@ -15624,10 +14992,10 @@ module.exports = {
         "fontFamily": {
           "value": "Ivar Display",
           "type": "fontFamilies",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "Ivar Display",
+            "value": "{fontFamilies.ivar-display}",
             "type": "fontFamilies"
           },
           "name": "mch_typography_editorial_headings_other_h1_lg_font_family",
@@ -15645,12 +15013,12 @@ module.exports = {
           ]
         },
         "fontWeight": {
-          "value": 600,
+          "value": "600",
           "type": "fontWeights",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "SemiBold",
+            "value": "{fontWeights.ivar-display-2}",
             "type": "fontWeights"
           },
           "name": "mch_typography_editorial_headings_other_h1_lg_font_weight",
@@ -15668,13 +15036,13 @@ module.exports = {
           ]
         },
         "lineHeight": {
-          "value": "3.375rem",
-          "type": "lineHeight",
-          "filePath": "tokens/tokens-studio.json",
+          "value": "1.125rem",
+          "type": "lineHeights",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": 54,
-            "type": "lineHeight"
+            "value": "{lineHeights.8}",
+            "type": "lineHeights"
           },
           "name": "mch_typography_editorial_headings_other_h1_lg_line_height",
           "attributes": {
@@ -15693,10 +15061,10 @@ module.exports = {
         "fontSize": {
           "value": "2.625rem",
           "type": "fontSizes",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": 42,
+            "value": "{fontSize.13}",
             "type": "fontSizes"
           },
           "name": "mch_typography_editorial_headings_other_h1_lg_font_size",
@@ -15716,10 +15084,10 @@ module.exports = {
         "letterSpacing": {
           "value": "0%",
           "type": "letterSpacing",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "0%",
+            "value": "{letterSpacing.1}",
             "type": "letterSpacing"
           },
           "name": "mch_typography_editorial_headings_other_h1_lg_letter_spacing",
@@ -15737,12 +15105,12 @@ module.exports = {
           ]
         },
         "paragraphSpacing": {
-          "value": 4,
+          "value": "4",
           "type": "paragraphSpacing",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": 4,
+            "value": "{paragraphSpacing.1}",
             "type": "paragraphSpacing"
           },
           "name": "mch_typography_editorial_headings_other_h1_lg_paragraph_spacing",
@@ -15760,12 +15128,12 @@ module.exports = {
           ]
         },
         "paragraphIndent": {
-          "value": 0,
+          "value": "0px",
           "type": "paragraphIndent",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "0px",
+            "value": "{paragraphIndent.0}",
             "type": "paragraphIndent"
           },
           "name": "mch_typography_editorial_headings_other_h1_lg_paragraph_indent",
@@ -15785,10 +15153,10 @@ module.exports = {
         "textCase": {
           "value": "none",
           "type": "textCase",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "none",
+            "value": "{textCase.none}",
             "type": "textCase"
           },
           "name": "mch_typography_editorial_headings_other_h1_lg_text_case",
@@ -15808,10 +15176,10 @@ module.exports = {
         "textDecoration": {
           "value": "none",
           "type": "textDecoration",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "none",
+            "value": "{textDecoration.none}",
             "type": "textDecoration"
           },
           "name": "mch_typography_editorial_headings_other_h1_lg_text_decoration",
@@ -15833,10 +15201,10 @@ module.exports = {
         "fontFamily": {
           "value": "Ivar Display",
           "type": "fontFamilies",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "Ivar Display",
+            "value": "{fontFamilies.ivar-display}",
             "type": "fontFamilies"
           },
           "name": "mch_typography_editorial_headings_other_h2_lg_font_family",
@@ -15854,12 +15222,12 @@ module.exports = {
           ]
         },
         "fontWeight": {
-          "value": 600,
+          "value": "600",
           "type": "fontWeights",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "SemiBold",
+            "value": "{fontWeights.ivar-display-2}",
             "type": "fontWeights"
           },
           "name": "mch_typography_editorial_headings_other_h2_lg_font_weight",
@@ -15877,13 +15245,13 @@ module.exports = {
           ]
         },
         "lineHeight": {
-          "value": "3rem",
-          "type": "lineHeight",
-          "filePath": "tokens/tokens-studio.json",
+          "value": "1.25rem",
+          "type": "lineHeights",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": 48,
-            "type": "lineHeight"
+            "value": "{lineHeights.5}",
+            "type": "lineHeights"
           },
           "name": "mch_typography_editorial_headings_other_h2_lg_line_height",
           "attributes": {
@@ -15900,12 +15268,12 @@ module.exports = {
           ]
         },
         "fontSize": {
-          "value": "2.25rem",
+          "value": "2.125rem",
           "type": "fontSizes",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": 36,
+            "value": "{fontSize.10}",
             "type": "fontSizes"
           },
           "name": "mch_typography_editorial_headings_other_h2_lg_font_size",
@@ -15925,10 +15293,10 @@ module.exports = {
         "letterSpacing": {
           "value": "0%",
           "type": "letterSpacing",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "0%",
+            "value": "{letterSpacing.1}",
             "type": "letterSpacing"
           },
           "name": "mch_typography_editorial_headings_other_h2_lg_letter_spacing",
@@ -15946,12 +15314,12 @@ module.exports = {
           ]
         },
         "paragraphSpacing": {
-          "value": 4,
+          "value": "4",
           "type": "paragraphSpacing",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": 4,
+            "value": "{paragraphSpacing.1}",
             "type": "paragraphSpacing"
           },
           "name": "mch_typography_editorial_headings_other_h2_lg_paragraph_spacing",
@@ -15969,12 +15337,12 @@ module.exports = {
           ]
         },
         "paragraphIndent": {
-          "value": 0,
+          "value": "0px",
           "type": "paragraphIndent",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "0px",
+            "value": "{paragraphIndent.0}",
             "type": "paragraphIndent"
           },
           "name": "mch_typography_editorial_headings_other_h2_lg_paragraph_indent",
@@ -15994,10 +15362,10 @@ module.exports = {
         "textCase": {
           "value": "none",
           "type": "textCase",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "none",
+            "value": "{textCase.none}",
             "type": "textCase"
           },
           "name": "mch_typography_editorial_headings_other_h2_lg_text_case",
@@ -16017,10 +15385,10 @@ module.exports = {
         "textDecoration": {
           "value": "none",
           "type": "textDecoration",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "none",
+            "value": "{textDecoration.none}",
             "type": "textDecoration"
           },
           "name": "mch_typography_editorial_headings_other_h2_lg_text_decoration",
@@ -16042,10 +15410,10 @@ module.exports = {
         "fontFamily": {
           "value": "Ivar Display",
           "type": "fontFamilies",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "Ivar Display",
+            "value": "{fontFamilies.ivar-display}",
             "type": "fontFamilies"
           },
           "name": "mch_typography_editorial_headings_other_h3_lg_font_family",
@@ -16063,12 +15431,12 @@ module.exports = {
           ]
         },
         "fontWeight": {
-          "value": 600,
+          "value": "600",
           "type": "fontWeights",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "SemiBold",
+            "value": "{fontWeights.ivar-display-2}",
             "type": "fontWeights"
           },
           "name": "mch_typography_editorial_headings_other_h3_lg_font_weight",
@@ -16086,13 +15454,13 @@ module.exports = {
           ]
         },
         "lineHeight": {
-          "value": "2.625rem",
-          "type": "lineHeight",
-          "filePath": "tokens/tokens-studio.json",
+          "value": "1rem",
+          "type": "lineHeights",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": 42,
-            "type": "lineHeight"
+            "value": "{lineHeights.6}",
+            "type": "lineHeights"
           },
           "name": "mch_typography_editorial_headings_other_h3_lg_line_height",
           "attributes": {
@@ -16109,12 +15477,12 @@ module.exports = {
           ]
         },
         "fontSize": {
-          "value": "1.875rem",
+          "value": "1.25rem",
           "type": "fontSizes",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": 30,
+            "value": "{fontSize.7}",
             "type": "fontSizes"
           },
           "name": "mch_typography_editorial_headings_other_h3_lg_font_size",
@@ -16134,10 +15502,10 @@ module.exports = {
         "letterSpacing": {
           "value": "0%",
           "type": "letterSpacing",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "0%",
+            "value": "{letterSpacing.1}",
             "type": "letterSpacing"
           },
           "name": "mch_typography_editorial_headings_other_h3_lg_letter_spacing",
@@ -16155,12 +15523,12 @@ module.exports = {
           ]
         },
         "paragraphSpacing": {
-          "value": 4,
+          "value": "4",
           "type": "paragraphSpacing",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": 4,
+            "value": "{paragraphSpacing.1}",
             "type": "paragraphSpacing"
           },
           "name": "mch_typography_editorial_headings_other_h3_lg_paragraph_spacing",
@@ -16178,12 +15546,12 @@ module.exports = {
           ]
         },
         "paragraphIndent": {
-          "value": 0,
+          "value": "0px",
           "type": "paragraphIndent",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "0px",
+            "value": "{paragraphIndent.0}",
             "type": "paragraphIndent"
           },
           "name": "mch_typography_editorial_headings_other_h3_lg_paragraph_indent",
@@ -16203,10 +15571,10 @@ module.exports = {
         "textCase": {
           "value": "none",
           "type": "textCase",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "none",
+            "value": "{textCase.none}",
             "type": "textCase"
           },
           "name": "mch_typography_editorial_headings_other_h3_lg_text_case",
@@ -16226,10 +15594,10 @@ module.exports = {
         "textDecoration": {
           "value": "none",
           "type": "textDecoration",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "none",
+            "value": "{textDecoration.none}",
             "type": "textDecoration"
           },
           "name": "mch_typography_editorial_headings_other_h3_lg_text_decoration",
@@ -16251,10 +15619,10 @@ module.exports = {
         "fontFamily": {
           "value": "Ivar Display",
           "type": "fontFamilies",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "Ivar Display",
+            "value": "{fontFamilies.ivar-display}",
             "type": "fontFamilies"
           },
           "name": "mch_typography_editorial_headings_other_h4_lg_font_family",
@@ -16272,12 +15640,12 @@ module.exports = {
           ]
         },
         "fontWeight": {
-          "value": 600,
+          "value": "600",
           "type": "fontWeights",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "SemiBold",
+            "value": "{fontWeights.ivar-display-2}",
             "type": "fontWeights"
           },
           "name": "mch_typography_editorial_headings_other_h4_lg_font_weight",
@@ -16296,12 +15664,12 @@ module.exports = {
         },
         "lineHeight": {
           "value": "2.25rem",
-          "type": "lineHeight",
-          "filePath": "tokens/tokens-studio.json",
+          "type": "lineHeights",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": 36,
-            "type": "lineHeight"
+            "value": "{lineHeights.19}",
+            "type": "lineHeights"
           },
           "name": "mch_typography_editorial_headings_other_h4_lg_line_height",
           "attributes": {
@@ -16318,12 +15686,12 @@ module.exports = {
           ]
         },
         "fontSize": {
-          "value": "1.625rem",
+          "value": "1.0625rem",
           "type": "fontSizes",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": 26,
+            "value": "{fontSize.6}",
             "type": "fontSizes"
           },
           "name": "mch_typography_editorial_headings_other_h4_lg_font_size",
@@ -16343,10 +15711,10 @@ module.exports = {
         "letterSpacing": {
           "value": "0%",
           "type": "letterSpacing",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "0%",
+            "value": "{letterSpacing.1}",
             "type": "letterSpacing"
           },
           "name": "mch_typography_editorial_headings_other_h4_lg_letter_spacing",
@@ -16364,12 +15732,12 @@ module.exports = {
           ]
         },
         "paragraphSpacing": {
-          "value": 4,
+          "value": "4",
           "type": "paragraphSpacing",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": 4,
+            "value": "{paragraphSpacing.1}",
             "type": "paragraphSpacing"
           },
           "name": "mch_typography_editorial_headings_other_h4_lg_paragraph_spacing",
@@ -16387,12 +15755,12 @@ module.exports = {
           ]
         },
         "paragraphIndent": {
-          "value": 0,
+          "value": "0px",
           "type": "paragraphIndent",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "0px",
+            "value": "{paragraphIndent.0}",
             "type": "paragraphIndent"
           },
           "name": "mch_typography_editorial_headings_other_h4_lg_paragraph_indent",
@@ -16412,10 +15780,10 @@ module.exports = {
         "textCase": {
           "value": "none",
           "type": "textCase",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "none",
+            "value": "{textCase.none}",
             "type": "textCase"
           },
           "name": "mch_typography_editorial_headings_other_h4_lg_text_case",
@@ -16435,10 +15803,10 @@ module.exports = {
         "textDecoration": {
           "value": "none",
           "type": "textDecoration",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "none",
+            "value": "{textDecoration.none}",
             "type": "textDecoration"
           },
           "name": "mch_typography_editorial_headings_other_h4_lg_text_decoration",
@@ -16460,10 +15828,10 @@ module.exports = {
         "fontFamily": {
           "value": "Ivar Display",
           "type": "fontFamilies",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "Ivar Display",
+            "value": "{fontFamilies.ivar-display}",
             "type": "fontFamilies"
           },
           "name": "mch_typography_editorial_headings_other_h5_lg_font_family",
@@ -16481,12 +15849,12 @@ module.exports = {
           ]
         },
         "fontWeight": {
-          "value": 600,
+          "value": "600",
           "type": "fontWeights",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "SemiBold",
+            "value": "{fontWeights.ivar-display-2}",
             "type": "fontWeights"
           },
           "name": "mch_typography_editorial_headings_other_h5_lg_font_weight",
@@ -16505,12 +15873,12 @@ module.exports = {
         },
         "lineHeight": {
           "value": "2rem",
-          "type": "lineHeight",
-          "filePath": "tokens/tokens-studio.json",
+          "type": "lineHeights",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": 32,
-            "type": "lineHeight"
+            "value": "{lineHeights.10}",
+            "type": "lineHeights"
           },
           "name": "mch_typography_editorial_headings_other_h5_lg_line_height",
           "attributes": {
@@ -16527,12 +15895,12 @@ module.exports = {
           ]
         },
         "fontSize": {
-          "value": "1.5rem",
+          "value": "1rem",
           "type": "fontSizes",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": 24,
+            "value": "{fontSize.5}",
             "type": "fontSizes"
           },
           "name": "mch_typography_editorial_headings_other_h5_lg_font_size",
@@ -16552,10 +15920,10 @@ module.exports = {
         "letterSpacing": {
           "value": "0%",
           "type": "letterSpacing",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "0%",
+            "value": "{letterSpacing.1}",
             "type": "letterSpacing"
           },
           "name": "mch_typography_editorial_headings_other_h5_lg_letter_spacing",
@@ -16573,12 +15941,12 @@ module.exports = {
           ]
         },
         "paragraphSpacing": {
-          "value": 4,
+          "value": "4",
           "type": "paragraphSpacing",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": 4,
+            "value": "{paragraphSpacing.1}",
             "type": "paragraphSpacing"
           },
           "name": "mch_typography_editorial_headings_other_h5_lg_paragraph_spacing",
@@ -16596,12 +15964,12 @@ module.exports = {
           ]
         },
         "paragraphIndent": {
-          "value": 0,
+          "value": "0px",
           "type": "paragraphIndent",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "0px",
+            "value": "{paragraphIndent.0}",
             "type": "paragraphIndent"
           },
           "name": "mch_typography_editorial_headings_other_h5_lg_paragraph_indent",
@@ -16621,10 +15989,10 @@ module.exports = {
         "textCase": {
           "value": "none",
           "type": "textCase",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "none",
+            "value": "{textCase.none}",
             "type": "textCase"
           },
           "name": "mch_typography_editorial_headings_other_h5_lg_text_case",
@@ -16644,10 +16012,10 @@ module.exports = {
         "textDecoration": {
           "value": "none",
           "type": "textDecoration",
-          "filePath": "tokens/tokens-studio.json",
+          "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "none",
+            "value": "{textDecoration.none}",
             "type": "textDecoration"
           },
           "name": "mch_typography_editorial_headings_other_h5_lg_text_decoration",
@@ -16671,7 +16039,7 @@ module.exports = {
     "2": {
       "value": "0.125rem",
       "type": "spacing",
-      "filePath": "tokens/tokens-studio.json",
+      "filePath": "src/global.json",
       "isSource": true,
       "original": {
         "value": "2px",
@@ -16690,7 +16058,7 @@ module.exports = {
     "4": {
       "value": "0.25rem",
       "type": "spacing",
-      "filePath": "tokens/tokens-studio.json",
+      "filePath": "src/global.json",
       "isSource": true,
       "original": {
         "value": "4px",
@@ -16709,7 +16077,7 @@ module.exports = {
     "8": {
       "value": "0.5rem",
       "type": "spacing",
-      "filePath": "tokens/tokens-studio.json",
+      "filePath": "src/global.json",
       "isSource": true,
       "original": {
         "value": "8px",
@@ -16728,7 +16096,7 @@ module.exports = {
     "12": {
       "value": "0.75rem",
       "type": "spacing",
-      "filePath": "tokens/tokens-studio.json",
+      "filePath": "src/global.json",
       "isSource": true,
       "original": {
         "value": "12px",
@@ -16747,7 +16115,7 @@ module.exports = {
     "16": {
       "value": "1rem",
       "type": "spacing",
-      "filePath": "tokens/tokens-studio.json",
+      "filePath": "src/global.json",
       "isSource": true,
       "original": {
         "value": "16px",
@@ -16766,7 +16134,7 @@ module.exports = {
     "20": {
       "value": "1.25rem",
       "type": "spacing",
-      "filePath": "tokens/tokens-studio.json",
+      "filePath": "src/global.json",
       "isSource": true,
       "original": {
         "value": "20px",
@@ -16785,7 +16153,7 @@ module.exports = {
     "24": {
       "value": "1.5rem",
       "type": "spacing",
-      "filePath": "tokens/tokens-studio.json",
+      "filePath": "src/global.json",
       "isSource": true,
       "original": {
         "value": "24px",
@@ -16804,7 +16172,7 @@ module.exports = {
     "32": {
       "value": "2rem",
       "type": "spacing",
-      "filePath": "tokens/tokens-studio.json",
+      "filePath": "src/global.json",
       "isSource": true,
       "original": {
         "value": "32px",
@@ -16823,7 +16191,7 @@ module.exports = {
     "40": {
       "value": "2.5rem",
       "type": "spacing",
-      "filePath": "tokens/tokens-studio.json",
+      "filePath": "src/global.json",
       "isSource": true,
       "original": {
         "value": "40px",
@@ -16842,7 +16210,7 @@ module.exports = {
     "48": {
       "value": "3rem",
       "type": "spacing",
-      "filePath": "tokens/tokens-studio.json",
+      "filePath": "src/global.json",
       "isSource": true,
       "original": {
         "value": "48px",
@@ -16861,7 +16229,7 @@ module.exports = {
     "56": {
       "value": "3.5rem",
       "type": "spacing",
-      "filePath": "tokens/tokens-studio.json",
+      "filePath": "src/global.json",
       "isSource": true,
       "original": {
         "value": "56px",
@@ -16880,7 +16248,7 @@ module.exports = {
     "64": {
       "value": "4rem",
       "type": "spacing",
-      "filePath": "tokens/tokens-studio.json",
+      "filePath": "src/global.json",
       "isSource": true,
       "original": {
         "value": "64px",
@@ -16899,7 +16267,7 @@ module.exports = {
     "72": {
       "value": "4.5rem",
       "type": "spacing",
-      "filePath": "tokens/tokens-studio.json",
+      "filePath": "src/global.json",
       "isSource": true,
       "original": {
         "value": "72px",
@@ -16918,7 +16286,7 @@ module.exports = {
     "80": {
       "value": "5rem",
       "type": "spacing",
-      "filePath": "tokens/tokens-studio.json",
+      "filePath": "src/global.json",
       "isSource": true,
       "original": {
         "value": "80px",
@@ -16937,7 +16305,7 @@ module.exports = {
     "96": {
       "value": "6rem",
       "type": "spacing",
-      "filePath": "tokens/tokens-studio.json",
+      "filePath": "src/global.json",
       "isSource": true,
       "original": {
         "value": "96px",
@@ -16956,7 +16324,7 @@ module.exports = {
     "112": {
       "value": "7rem",
       "type": "spacing",
-      "filePath": "tokens/tokens-studio.json",
+      "filePath": "src/global.json",
       "isSource": true,
       "original": {
         "value": "112px",
@@ -16975,7 +16343,7 @@ module.exports = {
     "120": {
       "value": "7.5rem",
       "type": "spacing",
-      "filePath": "tokens/tokens-studio.json",
+      "filePath": "src/global.json",
       "isSource": true,
       "original": {
         "value": "120px",
@@ -16992,70 +16360,11 @@ module.exports = {
       ]
     }
   },
-  "textCase": {
-    "none": {
-      "value": "none",
-      "type": "textCase",
-      "filePath": "tokens/tokens-studio.json",
-      "isSource": true,
-      "original": {
-        "value": "none",
-        "type": "textCase"
-      },
-      "name": "mch_text_case_none",
-      "attributes": {
-        "category": "textCase",
-        "type": "none"
-      },
-      "path": [
-        "textCase",
-        "none"
-      ]
-    },
-    "uppercase": {
-      "value": "uppercase",
-      "type": "textCase",
-      "filePath": "tokens/tokens-studio.json",
-      "isSource": true,
-      "original": {
-        "value": "uppercase",
-        "type": "textCase"
-      },
-      "name": "mch_text_case_uppercase",
-      "attributes": {
-        "category": "textCase",
-        "type": "uppercase"
-      },
-      "path": [
-        "textCase",
-        "uppercase"
-      ]
-    }
-  },
   "textDecoration": {
-    "none": {
-      "value": "none",
-      "type": "textDecoration",
-      "filePath": "tokens/tokens-studio.json",
-      "isSource": true,
-      "original": {
-        "value": "none",
-        "type": "textDecoration"
-      },
-      "name": "mch_text_decoration_none",
-      "attributes": {
-        "category": "textDecoration",
-        "type": "none"
-      },
-      "path": [
-        "textDecoration",
-        "none"
-      ]
-    },
     "underline": {
       "value": "underline",
       "type": "textDecoration",
-      "filePath": "tokens/tokens-studio.json",
+      "filePath": "src/global.json",
       "isSource": true,
       "original": {
         "value": "underline",
@@ -17072,35 +16381,14 @@ module.exports = {
       ]
     }
   },
-  "paragraphIndent": {
-    "0": {
-      "value": 0,
-      "type": "dimension",
-      "filePath": "tokens/tokens-studio.json",
-      "isSource": true,
-      "original": {
-        "value": "0px",
-        "type": "dimension"
-      },
-      "name": "mch_paragraph_indent_0",
-      "attributes": {
-        "category": "paragraphIndent",
-        "type": "0"
-      },
-      "path": [
-        "paragraphIndent",
-        "0"
-      ]
-    }
-  },
   "opacity": {
     "opacity-10": {
-      "value": 0.1,
+      "value": "0.1",
       "type": "opacity",
-      "filePath": "tokens/tokens-studio.json",
+      "filePath": "src/global.json",
       "isSource": true,
       "original": {
-        "value": 0.1,
+        "value": "0.1",
         "type": "opacity"
       },
       "name": "mch_opacity_opacity_10",
@@ -17114,12 +16402,12 @@ module.exports = {
       ]
     },
     "opacity-0": {
-      "value": 0,
+      "value": "0",
       "type": "opacity",
-      "filePath": "tokens/tokens-studio.json",
+      "filePath": "src/global.json",
       "isSource": true,
       "original": {
-        "value": 0,
+        "value": "0",
         "type": "opacity"
       },
       "name": "mch_opacity_opacity_0",
@@ -17133,12 +16421,12 @@ module.exports = {
       ]
     },
     "opacity-5": {
-      "value": 0.05,
+      "value": "0.05",
       "type": "opacity",
-      "filePath": "tokens/tokens-studio.json",
+      "filePath": "src/global.json",
       "isSource": true,
       "original": {
-        "value": 0.05,
+        "value": "0.05",
         "type": "opacity"
       },
       "name": "mch_opacity_opacity_5",
@@ -17152,12 +16440,12 @@ module.exports = {
       ]
     },
     "opacity-25": {
-      "value": 0.25,
+      "value": "0.25",
       "type": "opacity",
-      "filePath": "tokens/tokens-studio.json",
+      "filePath": "src/global.json",
       "isSource": true,
       "original": {
-        "value": 0.25,
+        "value": "0.25",
         "type": "opacity"
       },
       "name": "mch_opacity_opacity_25",
@@ -17171,12 +16459,12 @@ module.exports = {
       ]
     },
     "opacity-30": {
-      "value": 0.3,
+      "value": "0.3",
       "type": "opacity",
-      "filePath": "tokens/tokens-studio.json",
+      "filePath": "src/global.json",
       "isSource": true,
       "original": {
-        "value": 0.3,
+        "value": "0.3",
         "type": "opacity"
       },
       "name": "mch_opacity_opacity_30",
@@ -17190,12 +16478,12 @@ module.exports = {
       ]
     },
     "opacity-40": {
-      "value": 0.4,
+      "value": "0.4",
       "type": "opacity",
-      "filePath": "tokens/tokens-studio.json",
+      "filePath": "src/global.json",
       "isSource": true,
       "original": {
-        "value": 0.4,
+        "value": "0.4",
         "type": "opacity"
       },
       "name": "mch_opacity_opacity_40",
@@ -17209,12 +16497,12 @@ module.exports = {
       ]
     },
     "opacity-50": {
-      "value": 0.5,
+      "value": "0.5",
       "type": "opacity",
-      "filePath": "tokens/tokens-studio.json",
+      "filePath": "src/global.json",
       "isSource": true,
       "original": {
-        "value": 0.5,
+        "value": "0.5",
         "type": "opacity"
       },
       "name": "mch_opacity_opacity_50",
@@ -17227,32 +16515,32 @@ module.exports = {
         "opacity-50"
       ]
     },
-    "opacity--60": {
-      "value": 0.6,
+    "opacity-60": {
+      "value": "0.6",
       "type": "opacity",
-      "filePath": "tokens/tokens-studio.json",
+      "filePath": "src/global.json",
       "isSource": true,
       "original": {
-        "value": 0.6,
+        "value": "0.6",
         "type": "opacity"
       },
       "name": "mch_opacity_opacity_60",
       "attributes": {
         "category": "opacity",
-        "type": "opacity--60"
+        "type": "opacity-60"
       },
       "path": [
         "opacity",
-        "opacity--60"
+        "opacity-60"
       ]
     },
     "opacity-70": {
-      "value": 0.7,
+      "value": "0.7",
       "type": "opacity",
-      "filePath": "tokens/tokens-studio.json",
+      "filePath": "src/global.json",
       "isSource": true,
       "original": {
-        "value": 0.7,
+        "value": "0.7",
         "type": "opacity"
       },
       "name": "mch_opacity_opacity_70",
@@ -17266,12 +16554,12 @@ module.exports = {
       ]
     },
     "opacity-80": {
-      "value": 0.8,
+      "value": "0.8",
       "type": "opacity",
-      "filePath": "tokens/tokens-studio.json",
+      "filePath": "src/global.json",
       "isSource": true,
       "original": {
-        "value": 0.8,
+        "value": "0.8",
         "type": "opacity"
       },
       "name": "mch_opacity_opacity_80",
@@ -17285,12 +16573,12 @@ module.exports = {
       ]
     },
     "opacity-90": {
-      "value": 0.9,
+      "value": "0.9",
       "type": "opacity",
-      "filePath": "tokens/tokens-studio.json",
+      "filePath": "src/global.json",
       "isSource": true,
       "original": {
-        "value": 0.9,
+        "value": "0.9",
         "type": "opacity"
       },
       "name": "mch_opacity_opacity_90",
@@ -17304,12 +16592,12 @@ module.exports = {
       ]
     },
     "opacity-95": {
-      "value": 0.95,
+      "value": "0.95",
       "type": "opacity",
-      "filePath": "tokens/tokens-studio.json",
+      "filePath": "src/global.json",
       "isSource": true,
       "original": {
-        "value": 0.95,
+        "value": "0.95",
         "type": "opacity"
       },
       "name": "mch_opacity_opacity_95",
@@ -17323,12 +16611,12 @@ module.exports = {
       ]
     },
     "opacity-100": {
-      "value": 1,
+      "value": "1",
       "type": "opacity",
-      "filePath": "tokens/tokens-studio.json",
+      "filePath": "src/global.json",
       "isSource": true,
       "original": {
-        "value": 1,
+        "value": "1",
         "type": "opacity"
       },
       "name": "mch_opacity_opacity_100",
@@ -17347,7 +16635,7 @@ module.exports = {
       "value": "413px",
       "type": "dimension",
       "description": "Max Width for the SM Media Query breakpoint",
-      "filePath": "tokens/tokens-studio.json",
+      "filePath": "src/global.json",
       "isSource": true,
       "original": {
         "value": "413px",
@@ -17368,7 +16656,7 @@ module.exports = {
       "value": "768px",
       "type": "dimension",
       "description": "Max Width for the MD Media Query breakpoint",
-      "filePath": "tokens/tokens-studio.json",
+      "filePath": "src/global.json",
       "isSource": true,
       "original": {
         "value": "768px",
@@ -17389,7 +16677,7 @@ module.exports = {
       "value": "1024px",
       "type": "dimension",
       "description": "Max Width for the LG Media Query breakpoint",
-      "filePath": "tokens/tokens-studio.json",
+      "filePath": "src/global.json",
       "isSource": true,
       "original": {
         "value": "1024px",
@@ -17410,7 +16698,7 @@ module.exports = {
       "value": "1280px",
       "type": "dimension",
       "description": "Max Width for the XL Media Query breakpoint",
-      "filePath": "tokens/tokens-studio.json",
+      "filePath": "src/global.json",
       "isSource": true,
       "original": {
         "value": "1280px",
@@ -17431,7 +16719,7 @@ module.exports = {
       "value": "1536px",
       "type": "dimension",
       "description": "Max Width for the 2XL Media Query breakpoint",
-      "filePath": "tokens/tokens-studio.json",
+      "filePath": "src/global.json",
       "isSource": true,
       "original": {
         "value": "1536px",
