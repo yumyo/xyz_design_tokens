@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [0.6.0](https://bitbucket.org/mchappsrvcs/artbasel-design-tokens/compare/@mch-group/design-tokens@0.5.0...@mch-group/design-tokens@0.6.0) (2023-05-19)
+
+
+### Features
+
+* clesn up config.js ([182b7b8](https://bitbucket.org/mchappsrvcs/artbasel-design-tokens/commits/182b7b801bed2de0610834bc54b90d54d5a6029a))
+
+
+
+
+
 # [0.5.0](https://bitbucket.org/mchappsrvcs/artbasel-design-tokens/compare/@mch-group/design-tokens@0.4.0...@mch-group/design-tokens@0.5.0) (2023-05-19)
 
 
