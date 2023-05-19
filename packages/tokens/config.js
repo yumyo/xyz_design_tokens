@@ -10,58 +10,10 @@ var Color           = require('tinycolor2')
 
 const designTokensFileName = "design_tokens";
 
-// TO REMOVE
-const fontWeightMap = {
-  thin: 100,
-  extralight: 200,
-  ultralight: 200,
-  extraleicht: 200,
-  light: 300,
-  leicht: 300,
-  normal: 400,
-  regular: 400,
-  buch: 400,
-  medium: 500,
-  kraeftig: 500,
-  kräftig: 500,
-  semibold: 600,
-  demibold: 600,
-  halbfett: 600,
-  bold: 700,
-  dreiviertelfett: 700,
-  extrabold: 800,
-  ultabold: 800,
-  fett: 800,
-  black: 900,
-  heavy: 900,
-  super: 900,
-  extrafett: 900,
-};
 
 function getBasePxFontSize(options) {
   return (options && options.basePxFontSize) || 16;
 }
-
-/**
- * Helper: Transforms letter spacing % to em
- */
-// TO REMOVE
-function transformFontWeights(value) {
-  const mapped = fontWeightMap[value.toLowerCase()];
-  return `${mapped}`;
-}
-
-/**
- * Transform fontWeights to numerical
- */
-// TO REMOVE
-StyleDictionary.registerTransform({
-  name: 'ts/type/fontWeight',
-  type: "value",
-  transitive: true,
-  matcher: (token) => token.type === "fontWeights",
-  transformer: (token) => parseInt(transformFontWeights(token.value)),
-});
 
 StyleDictionary.registerTransform({
   name: 'fontSize/pxToRem',
@@ -112,7 +64,7 @@ StyleDictionary.registerTransform({
 });
 
 StyleDictionary.registerTransform({
-  name: 'remove/pindent',
+  name: 'remove/pindent/px',
   type: 'value',
   matcher: function(token) {
     // console.log('token', token.type)
@@ -127,23 +79,29 @@ StyleDictionary.registerTransform({
   }
 });
 
-// StyleDictionary.registerTransform({
-//   name: 'remove/pindent',
-//   type: 'value',
-//   matcher: function(token) {
-//     // console.log('token', token)
-//     if (token.type === 'paragraphIndent'){
-//       console.log('token.valueXXX', token.value)
-//     }
-    
-//     // console.log('parseInt(token.value)', parseInt(token.value))
-//     return token.type === 'paragraphIndent';
-//   },
-//   transformer: function(token) {
-//      console.log('YAY')
-//     return parseInt(token.value);
-//   }
-// });
+StyleDictionary.registerTransform({
+  name: 'color/hexAndroid',
+  type: 'value',
+  matcher: function(token) {
+    return (token.type === 'color');
+  },
+  transformer: function (token) {
+    var str = Color(token.value).toHex8();
+    return '#' + str.slice(6) + str.slice(0,6);
+  }
+});
+
+StyleDictionary.registerTransform({
+  name: 'remove/pindent/px',
+  transitive: true,
+  type: 'value',
+  matcher: function(token) { 
+    return (token.type === 'paragraphIndent');
+  },
+  transformer: function(token) {
+    return parseFloat(token.value.replace(/px$/g, ''));
+  }
+});
 
 StyleDictionary.registerTransform({
   name: 'remove/space/px',
@@ -233,7 +191,7 @@ async function run() {
     platforms: {
       js: {
         // transformGroup: 'js',
-        transforms: ["attribute/cti","name/cti/snake","fontSize/pxToRem","color/hex", 'ts/type/fontWeight', "remove/pindent"],
+        transforms: ["attribute/cti","name/cti/snake","fontSize/pxToRem","color/hex", 'ts/type/fontWeight', "remove/pindent/px"],
         buildPath: 'build/js/',
         prefix: "mch_",
         files: [
@@ -273,7 +231,7 @@ async function run() {
       },
       scss: {
         // transformGroup: "scss",
-        transforms: ["attribute/cti","name/cti/snake","time/seconds","content/icon","font-family/quote","fontSize/pxToRem","color/css",'ts/type/fontWeight',"remove/letterspacing/%","remove/pindent"],
+        transforms: ["attribute/cti","name/cti/snake","time/seconds","content/icon","font-family/quote","fontSize/pxToRem","color/css",'ts/type/fontWeight',"remove/letterspacing/%","remove/pindent/px"],
         buildPath: "build/scss/",
         prefix: "mch_",
         files: [{
@@ -302,7 +260,7 @@ async function run() {
           'ts/size/css/letterspacing',
           "fontSize/pxToRem",
           "remove/letterspacing/%",
-          "remove/pindent",
+          "remove/pindent/px",
           'ts/border/css/shorthand',
           'ts/shadow/css/shorthand',
           'ts/color/css/hexrgba',
@@ -331,26 +289,10 @@ async function run() {
       },
       iosSwift: {
         // transformGroup: "ios-swift",
-        transforms: ["attribute/cti","name/cti/camel","custom-color/ColorSwiftUI","content/swift/literal","asset/swift/literal","size/swift/remToCGFloat","font/swift/literal","font-family/quote",'ts/type/fontWeight',"text-decoration/quote","remove/space/px","remove/letterspacing/%", 'shadow/quote',"remove/pindent"],
+        transforms: ["attribute/cti","name/cti/camel","custom-color/ColorSwiftUI","content/swift/literal","asset/swift/literal","size/swift/remToCGFloat","font/swift/literal","font-family/quote",'ts/type/fontWeight',"text-decoration/quote","remove/space/px","remove/letterspacing/%", 'shadow/quote',"remove/pindent/px"],
         buildPath: "../swift/Sources/artbaseldesigntokens/",
         prefix: "mch_",
         files: [{
-          filter: function(prop) {
-            
-            return (prop.filePath !== 'src/global.json' && prop.filePath !== 'src/App.json');
-          },
-          destination: `${designTokensFileName}+Class-${theme.name}.swift`,
-          format: "ios-swift/class.swift",
-          className: "StyleDictionaryClass",
-        },{
-          filter: function(prop) {
-            // console.log('prop', prop)
-            return (prop.filePath !== 'src/global.json' && prop.filePath === 'src/App.json' && prop.type !== 'paragraphIndent' && prop.attributes.category !== 'paragraphIndent');
-          },
-          destination: `${designTokensFileName}+Class-app.swift`,
-          format: "ios-swift/class.swift",
-          className: "StyleDictionaryClass",
-        },{
           filter: function(prop) {
             return (prop.filePath !== 'src/global.json' && prop.filePath !== 'src/App.json');
           },
@@ -360,39 +302,15 @@ async function run() {
         },
         {
           filter: function(prop) {
-            return (prop.filePath !== 'src/global.json' && prop.filePath === 'src/App.json' && prop.type !== 'paragraphIndent' && prop.attributes.category !== 'paragraphIndent');
+            return (prop.filePath !== 'src/global.json' && prop.filePath === 'src/App.json');
           },
           destination: `${designTokensFileName}+Enum-${theme.name}.swift`,
           format: "ios-swift/enum.swift",
           className: "StyleDictionaryEnum",
-        },{
-          filter: function(prop) {
-            return (prop.filePath !== 'src/global.json' && prop.filePath !== 'src/App.json');
-          },
-          destination: `${designTokensFileName}+Struct-${theme.name}.swift`,
-          format: "ios-swift/any.swift",
-          className: "StyleDictionaryStruct",
-          options: {
-            imports: "SwiftUI",
-            objectType: "struct",
-            accessControl: "internal"
-          }
-        },{
-          filter: function(prop) {
-            return (prop.filePath !== 'src/global.json' && prop.filePath === 'src/App.json' && prop.type !== 'paragraphIndent' && prop.attributes.category !== 'paragraphIndent');
-          },
-          destination: `${designTokensFileName}+Struct-${theme.name}.swift`,
-          format: "ios-swift/any.swift",
-          className: "StyleDictionaryStruct",
-          options: {
-            imports: "SwiftUI",
-            objectType: "struct",
-            accessControl: "internal"
-          }
-        }]
+        },]
       },
       android: {
-        transforms: ["attribute/cti", "name/cti/snake", "color/hex8android", "android-size/sp" , "size/remToDp"],
+        transforms: ["attribute/cti", "name/cti/snake", "color/hexAndroid", "android-size/sp" , "size/remToDp"],
         buildPath: "build/android/src/main/res/values/",
         prefix: "mch_",
         files: [

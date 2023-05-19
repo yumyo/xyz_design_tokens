@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Fri, 19 May 2023 09:17:26 GMT
+// Generated on Fri, 19 May 2023 12:24:05 GMT
 
 
 import UIKit
@@ -15,6 +15,7 @@ public enum StyleDictionaryEnum {
     public static let mchAppBodyBodyTextFontWeight = 400
     public static let mchAppBodyBodyTextLetterSpacing = 0
     public static let mchAppBodyBodyTextLineHeight = 22
+    public static let mchAppBodyBodyTextParagraphIndent = 0
     public static let mchAppBodyBodyTextParagraphSpacing = 0
     public static let mchAppBodyBodyTextTextCase = "none"
     public static let mchAppBodyBodyTextTextDecoration = "none"
@@ -23,6 +24,7 @@ public enum StyleDictionaryEnum {
     public static let mchAppBodyFootnoteFontWeight = 400
     public static let mchAppBodyFootnoteLetterSpacing = 0
     public static let mchAppBodyFootnoteLineHeight = 18
+    public static let mchAppBodyFootnoteParagraphIndent = 0
     public static let mchAppBodyFootnoteParagraphSpacing = 0
     public static let mchAppBodyFootnoteTextCase = "none"
     public static let mchAppBodyFootnoteTextDecoration = "none"
@@ -67,6 +69,7 @@ public enum StyleDictionaryEnum {
     public static let mchAppHeadingsH1FontWeight = 700
     public static let mchAppHeadingsH1LetterSpacing = 0
     public static let mchAppHeadingsH1LineHeight = 34
+    public static let mchAppHeadingsH1ParagraphIndent = 0
     public static let mchAppHeadingsH1ParagraphSpacing = 0
     public static let mchAppHeadingsH1TextCase = "none"
     public static let mchAppHeadingsH1TextDecoration = "none"
@@ -75,6 +78,7 @@ public enum StyleDictionaryEnum {
     public static let mchAppHeadingsH2FontWeight = 700
     public static let mchAppHeadingsH2LetterSpacing = 0
     public static let mchAppHeadingsH2LineHeight = 28
+    public static let mchAppHeadingsH2ParagraphIndent = 0
     public static let mchAppHeadingsH2ParagraphSpacing = 0
     public static let mchAppHeadingsH2TextCase = "none"
     public static let mchAppHeadingsH2TextDecoration = "none"
@@ -83,6 +87,7 @@ public enum StyleDictionaryEnum {
     public static let mchAppHeadingsH3FontWeight = 700
     public static let mchAppHeadingsH3LetterSpacing = 0
     public static let mchAppHeadingsH3LineHeight = 25
+    public static let mchAppHeadingsH3ParagraphIndent = 0
     public static let mchAppHeadingsH3ParagraphSpacing = 0
     public static let mchAppHeadingsH3TextCase = "none"
     public static let mchAppHeadingsH3TextDecoration = "none"
@@ -91,6 +96,7 @@ public enum StyleDictionaryEnum {
     public static let mchAppHeadingsH4FontWeight = 700
     public static let mchAppHeadingsH4LetterSpacing = 0
     public static let mchAppHeadingsH4LineHeight = 22
+    public static let mchAppHeadingsH4ParagraphIndent = 0
     public static let mchAppHeadingsH4ParagraphSpacing = 0
     public static let mchAppHeadingsH4TextCase = "none"
     public static let mchAppHeadingsH4TextDecoration = "none"
@@ -99,6 +105,7 @@ public enum StyleDictionaryEnum {
     public static let mchAppHeadingsLargeTitleFontWeight = 700
     public static let mchAppHeadingsLargeTitleLetterSpacing = 0
     public static let mchAppHeadingsLargeTitleLineHeight = 41
+    public static let mchAppHeadingsLargeTitleParagraphIndent = 0
     public static let mchAppHeadingsLargeTitleParagraphSpacing = 0
     public static let mchAppHeadingsLargeTitleTextCase = "none"
     public static let mchAppHeadingsLargeTitleTextDecoration = "none"
@@ -107,6 +114,7 @@ public enum StyleDictionaryEnum {
     public static let mchAppHeadingsSubheadFontWeight = 400
     public static let mchAppHeadingsSubheadLetterSpacing = 0
     public static let mchAppHeadingsSubheadLineHeight = 20
+    public static let mchAppHeadingsSubheadParagraphIndent = 0
     public static let mchAppHeadingsSubheadParagraphSpacing = 0
     public static let mchAppHeadingsSubheadTextCase = "none"
     public static let mchAppHeadingsSubheadTextDecoration = "none"
@@ -115,6 +123,7 @@ public enum StyleDictionaryEnum {
     public static let mchAppLinksButtonFontWeight = 700
     public static let mchAppLinksButtonLetterSpacing = 0
     public static let mchAppLinksButtonLineHeight = 18
+    public static let mchAppLinksButtonParagraphIndent = 0
     public static let mchAppLinksButtonParagraphSpacing = 0
     public static let mchAppLinksButtonTextCase = "uppercase"
     public static let mchAppLinksButtonTextDecoration = "none"
@@ -123,6 +132,7 @@ public enum StyleDictionaryEnum {
     public static let mchAppLinksTextLinkFontWeight = 700
     public static let mchAppLinksTextLinkLetterSpacing = 0
     public static let mchAppLinksTextLinkLineHeight = 21
+    public static let mchAppLinksTextLinkParagraphIndent = 0
     public static let mchAppLinksTextLinkParagraphSpacing = 0
     public static let mchAppLinksTextLinkTextCase = "capitalize"
     public static let mchAppLinksTextLinkTextDecoration = "none"
@@ -131,6 +141,7 @@ public enum StyleDictionaryEnum {
     public static let mchAppSupportingLabelLargeFontWeight = 700
     public static let mchAppSupportingLabelLargeLetterSpacing = 0
     public static let mchAppSupportingLabelLargeLineHeight = 16
+    public static let mchAppSupportingLabelLargeParagraphIndent = 0
     public static let mchAppSupportingLabelLargeParagraphSpacing = 0
     public static let mchAppSupportingLabelLargeTextCase = "none"
     public static let mchAppSupportingLabelLargeTextDecoration = "none"
@@ -139,6 +150,7 @@ public enum StyleDictionaryEnum {
     public static let mchAppSupportingLabelSmallFontWeight = 400
     public static let mchAppSupportingLabelSmallLetterSpacing = 0
     public static let mchAppSupportingLabelSmallLineHeight = 13
+    public static let mchAppSupportingLabelSmallParagraphIndent = 0
     public static let mchAppSupportingLabelSmallParagraphSpacing = 0
     public static let mchAppSupportingLabelSmallTextCase = "none"
     public static let mchAppSupportingLabelSmallTextDecoration = "none"
@@ -169,6 +181,7 @@ public enum StyleDictionaryEnum {
     public static let mchLineHeights7 = 13
     public static let mchLineHeights8 = 18
     public static let mchLineHeights9 = 21
+    public static let mchParagraphIndent0 = 0px
     public static let mchParagraphSpacing0 = 0
     public static let mchTextCaseCapitalize = "capitalize"
     public static let mchTextCaseNone = "none"
