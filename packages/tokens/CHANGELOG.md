@@ -3,6 +3,20 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [0.4.0](https://bitbucket.org/mchappsrvcs/artbasel-design-tokens/compare/@mch-group/design-tokens@0.3.0...@mch-group/design-tokens@0.4.0) (2023-05-19)
+
+
+* feat!: Code refactoring to support multiple thenese and app tokens ([17cb3ad](https://bitbucket.org/mchappsrvcs/artbasel-design-tokens/commits/17cb3ad5a9e94c0e46968da4bba9c89af3627554))
+
+
+### BREAKING CHANGES
+
+* we now use node to run Style-Dictionary. We also use the sd-transforms package and have updated all dependencies to the latest available versions.
+
+
+
+
+
 # [0.3.0](https://bitbucket.org/mchappsrvcs/artbasel-design-tokens/compare/@mch-group/design-tokens@0.2.0...@mch-group/design-tokens@0.3.0) (2023-05-01)
 
 
