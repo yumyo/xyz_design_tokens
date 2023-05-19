@@ -1,15 +1,15 @@
 
 //
-// StyleDictionary+Enum-dark.swift
+// design_tokens+Class-dark.swift
 //
 
 // Do not edit directly
-// Generated on Thu, 18 May 2023 14:44:47 GMT
+// Generated on Fri, 19 May 2023 09:17:26 GMT
 
 
 import UIKit
 
-public enum StyleDictionaryEnum {
+public class StyleDictionaryClass {
     public static let mchSemanticColorBorderAlert = UIColor(red: 0.957, green: 0.639, blue: 0.184, alpha: 1)
     public static let mchSemanticColorBorderDisabled = UIColor(red: 0.459, green: 0.459, blue: 0.459, alpha: 1)
     public static let mchSemanticColorBorderError = UIColor(red: 1.000, green: 0.592, blue: 0.616, alpha: 1)

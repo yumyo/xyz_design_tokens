@@ -1,10 +1,10 @@
 
 //
-// StyleDictionary+Struct-dark.swift
+// design_tokens+Struct-dark.swift
 //
 
 // Do not edit directly
-// Generated on Thu, 18 May 2023 14:44:47 GMT
+// Generated on Fri, 19 May 2023 09:17:26 GMT
 
 
 import UIKit
