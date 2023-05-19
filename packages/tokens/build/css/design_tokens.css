@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Fri, 19 May 2023 09:17:26 GMT
+ * Generated on Fri, 19 May 2023 12:24:05 GMT
  */
 
 :root {
@@ -105,7 +105,7 @@
   --mch_typography_headings_common_h1_xs_sm_font_size: 1.25rem;
   --mch_typography_headings_common_h1_xs_sm_letter_spacing: 0;
   --mch_typography_headings_common_h1_xs_sm_paragraph_spacing: 0;
-  --mch_typography_headings_common_h1_xs_sm_paragraph_indent: 0px;
+  --mch_typography_headings_common_h1_xs_sm_paragraph_indent: 0;
   --mch_typography_headings_common_h1_xs_sm_text_case: none;
   --mch_typography_headings_common_h1_xs_sm_text_decoration: none;
   --mch_typography_headings_common_h2_xs_sm_font_family: "Art Basel Headline";
@@ -114,7 +114,7 @@
   --mch_typography_headings_common_h2_xs_sm_font_size: 1.063rem;
   --mch_typography_headings_common_h2_xs_sm_letter_spacing: 0;
   --mch_typography_headings_common_h2_xs_sm_paragraph_spacing: 0;
-  --mch_typography_headings_common_h2_xs_sm_paragraph_indent: 0px;
+  --mch_typography_headings_common_h2_xs_sm_paragraph_indent: 0;
   --mch_typography_headings_common_h2_xs_sm_text_case: none;
   --mch_typography_headings_common_h2_xs_sm_text_decoration: none;
   --mch_typography_headings_common_h3_xs_sm_font_family: "Art Basel Headline";
@@ -123,7 +123,7 @@
   --mch_typography_headings_common_h3_xs_sm_font_size: 1rem;
   --mch_typography_headings_common_h3_xs_sm_letter_spacing: 0;
   --mch_typography_headings_common_h3_xs_sm_paragraph_spacing: 0;
-  --mch_typography_headings_common_h3_xs_sm_paragraph_indent: 0px;
+  --mch_typography_headings_common_h3_xs_sm_paragraph_indent: 0;
   --mch_typography_headings_common_h3_xs_sm_text_case: none;
   --mch_typography_headings_common_h3_xs_sm_text_decoration: none;
   --mch_typography_headings_common_h4_xs_sm_font_family: "Art Basel Headline";
@@ -132,7 +132,7 @@
   --mch_typography_headings_common_h4_xs_sm_font_size: 0.938rem;
   --mch_typography_headings_common_h4_xs_sm_letter_spacing: 0;
   --mch_typography_headings_common_h4_xs_sm_paragraph_spacing: 0;
-  --mch_typography_headings_common_h4_xs_sm_paragraph_indent: 0px;
+  --mch_typography_headings_common_h4_xs_sm_paragraph_indent: 0;
   --mch_typography_headings_common_h4_xs_sm_text_case: none;
   --mch_typography_headings_common_h4_xs_sm_text_decoration: none;
   --mch_typography_headings_common_h5_xs_sm_font_family: "Art Basel Headline";
@@ -141,7 +141,7 @@
   --mch_typography_headings_common_h5_xs_sm_font_size: 0.875rem;
   --mch_typography_headings_common_h5_xs_sm_letter_spacing: 0;
   --mch_typography_headings_common_h5_xs_sm_paragraph_spacing: 0;
-  --mch_typography_headings_common_h5_xs_sm_paragraph_indent: 0px;
+  --mch_typography_headings_common_h5_xs_sm_paragraph_indent: 0;
   --mch_typography_headings_common_h5_xs_sm_text_case: none;
   --mch_typography_headings_common_h5_xs_sm_text_decoration: none;
   --mch_typography_headings_common_h1_xl_font_family: "Art Basel Headline";
@@ -150,7 +150,7 @@
   --mch_typography_headings_common_h1_xl_font_size: 2.625rem;
   --mch_typography_headings_common_h1_xl_letter_spacing: 0;
   --mch_typography_headings_common_h1_xl_paragraph_spacing: 0;
-  --mch_typography_headings_common_h1_xl_paragraph_indent: 0px;
+  --mch_typography_headings_common_h1_xl_paragraph_indent: 0;
   --mch_typography_headings_common_h1_xl_text_case: none;
   --mch_typography_headings_common_h1_xl_text_decoration: none;
   --mch_typography_headings_common_h2_xl_font_family: "Art Basel Headline";
@@ -159,7 +159,7 @@
   --mch_typography_headings_common_h2_xl_font_size: 2.125rem;
   --mch_typography_headings_common_h2_xl_letter_spacing: 0;
   --mch_typography_headings_common_h2_xl_paragraph_spacing: 0;
-  --mch_typography_headings_common_h2_xl_paragraph_indent: 0px;
+  --mch_typography_headings_common_h2_xl_paragraph_indent: 0;
   --mch_typography_headings_common_h2_xl_text_case: none;
   --mch_typography_headings_common_h2_xl_text_decoration: none;
   --mch_typography_headings_common_h3_xl_font_family: "Art Basel Headline";
@@ -168,7 +168,7 @@
   --mch_typography_headings_common_h3_xl_font_size: 1.25rem;
   --mch_typography_headings_common_h3_xl_letter_spacing: 0;
   --mch_typography_headings_common_h3_xl_paragraph_spacing: 0;
-  --mch_typography_headings_common_h3_xl_paragraph_indent: 0px;
+  --mch_typography_headings_common_h3_xl_paragraph_indent: 0;
   --mch_typography_headings_common_h3_xl_text_case: none;
   --mch_typography_headings_common_h3_xl_text_decoration: none;
   --mch_typography_headings_common_h4_xl_font_family: "Art Basel Headline";
@@ -177,7 +177,7 @@
   --mch_typography_headings_common_h4_xl_font_size: 1rem;
   --mch_typography_headings_common_h4_xl_letter_spacing: 0;
   --mch_typography_headings_common_h4_xl_paragraph_spacing: 0;
-  --mch_typography_headings_common_h4_xl_paragraph_indent: 0px;
+  --mch_typography_headings_common_h4_xl_paragraph_indent: 0;
   --mch_typography_headings_common_h4_xl_text_case: none;
   --mch_typography_headings_common_h4_xl_text_decoration: none;
   --mch_typography_headings_common_h5_xl_font_family: "Art Basel Headline";
@@ -186,7 +186,7 @@
   --mch_typography_headings_common_h5_xl_font_size: 0.875rem;
   --mch_typography_headings_common_h5_xl_letter_spacing: 0;
   --mch_typography_headings_common_h5_xl_paragraph_spacing: 0;
-  --mch_typography_headings_common_h5_xl_paragraph_indent: 0px;
+  --mch_typography_headings_common_h5_xl_paragraph_indent: 0;
   --mch_typography_headings_common_h5_xl_text_case: none;
   --mch_typography_headings_common_h5_xl_text_decoration: none;
   --mch_typography_editorial_quote_quote_2_xl_font_family: "Ivar Display";
@@ -195,7 +195,7 @@
   --mch_typography_editorial_quote_quote_2_xl_font_size: 2.625rem;
   --mch_typography_editorial_quote_quote_2_xl_letter_spacing: 0;
   --mch_typography_editorial_quote_quote_2_xl_paragraph_spacing: 4;
-  --mch_typography_editorial_quote_quote_2_xl_paragraph_indent: 0px;
+  --mch_typography_editorial_quote_quote_2_xl_paragraph_indent: 0;
   --mch_typography_editorial_quote_quote_2_xl_text_case: none;
   --mch_typography_editorial_quote_quote_2_xl_text_decoration: none;
   --mch_typography_editorial_quote_quote_xl_font_family: "Ivar Display";
@@ -204,7 +204,7 @@
   --mch_typography_editorial_quote_quote_xl_font_size: 2.375rem;
   --mch_typography_editorial_quote_quote_xl_letter_spacing: 0.5;
   --mch_typography_editorial_quote_quote_xl_paragraph_spacing: 4;
-  --mch_typography_editorial_quote_quote_xl_paragraph_indent: 0px;
+  --mch_typography_editorial_quote_quote_xl_paragraph_indent: 0;
   --mch_typography_editorial_quote_quote_xl_text_case: none;
   --mch_typography_editorial_quote_quote_xl_text_decoration: none;
   --mch_typography_editorial_quote_quote_lg_font_family: "Ivar Display";
@@ -213,7 +213,7 @@
   --mch_typography_editorial_quote_quote_lg_font_size: 2.125rem;
   --mch_typography_editorial_quote_quote_lg_letter_spacing: 0;
   --mch_typography_editorial_quote_quote_lg_paragraph_spacing: 0;
-  --mch_typography_editorial_quote_quote_lg_paragraph_indent: 0px;
+  --mch_typography_editorial_quote_quote_lg_paragraph_indent: 0;
   --mch_typography_editorial_quote_quote_lg_text_case: none;
   --mch_typography_editorial_quote_quote_lg_text_decoration: none;
   --mch_typography_editorial_quote_quote_md_font_family: "Ivar Display";
@@ -222,7 +222,7 @@
   --mch_typography_editorial_quote_quote_md_font_size: 1.75rem;
   --mch_typography_editorial_quote_quote_md_letter_spacing: 0;
   --mch_typography_editorial_quote_quote_md_paragraph_spacing: 0;
-  --mch_typography_editorial_quote_quote_md_paragraph_indent: 0px;
+  --mch_typography_editorial_quote_quote_md_paragraph_indent: 0;
   --mch_typography_editorial_quote_quote_md_text_case: none;
   --mch_typography_editorial_quote_quote_md_text_decoration: none;
   --mch_typography_editorial_quote_quote_xs_sm_font_family: "Ivar Display";
@@ -231,7 +231,7 @@
   --mch_typography_editorial_quote_quote_xs_sm_font_size: 1.375rem;
   --mch_typography_editorial_quote_quote_xs_sm_letter_spacing: 0;
   --mch_typography_editorial_quote_quote_xs_sm_paragraph_spacing: 0;
-  --mch_typography_editorial_quote_quote_xs_sm_paragraph_indent: 0px;
+  --mch_typography_editorial_quote_quote_xs_sm_paragraph_indent: 0;
   --mch_typography_editorial_quote_quote_xs_sm_text_case: none;
   --mch_typography_editorial_quote_quote_xs_sm_text_decoration: none;
   --mch_typography_editorial_headings_common_h1_xs_sm_font_family: "Ivar Display";
@@ -240,7 +240,7 @@
   --mch_typography_editorial_headings_common_h1_xs_sm_font_size: 1.25rem;
   --mch_typography_editorial_headings_common_h1_xs_sm_letter_spacing: 0;
   --mch_typography_editorial_headings_common_h1_xs_sm_paragraph_spacing: 4;
-  --mch_typography_editorial_headings_common_h1_xs_sm_paragraph_indent: 0px;
+  --mch_typography_editorial_headings_common_h1_xs_sm_paragraph_indent: 0;
   --mch_typography_editorial_headings_common_h1_xs_sm_text_case: none;
   --mch_typography_editorial_headings_common_h1_xs_sm_text_decoration: none;
   --mch_typography_editorial_headings_common_h2_xs_sm_font_family: "Ivar Display";
@@ -249,7 +249,7 @@
   --mch_typography_editorial_headings_common_h2_xs_sm_font_size: 1.063rem;
   --mch_typography_editorial_headings_common_h2_xs_sm_letter_spacing: 0;
   --mch_typography_editorial_headings_common_h2_xs_sm_paragraph_spacing: 4;
-  --mch_typography_editorial_headings_common_h2_xs_sm_paragraph_indent: 0px;
+  --mch_typography_editorial_headings_common_h2_xs_sm_paragraph_indent: 0;
   --mch_typography_editorial_headings_common_h2_xs_sm_text_case: none;
   --mch_typography_editorial_headings_common_h2_xs_sm_text_decoration: none;
   --mch_typography_editorial_headings_common_h3_xs_sm_font_family: "Ivar Display";
@@ -258,7 +258,7 @@
   --mch_typography_editorial_headings_common_h3_xs_sm_font_size: 1rem;
   --mch_typography_editorial_headings_common_h3_xs_sm_letter_spacing: 0;
   --mch_typography_editorial_headings_common_h3_xs_sm_paragraph_spacing: 4;
-  --mch_typography_editorial_headings_common_h3_xs_sm_paragraph_indent: 0px;
+  --mch_typography_editorial_headings_common_h3_xs_sm_paragraph_indent: 0;
   --mch_typography_editorial_headings_common_h3_xs_sm_text_case: none;
   --mch_typography_editorial_headings_common_h3_xs_sm_text_decoration: none;
   --mch_typography_editorial_headings_common_h4_xs_sm_font_family: "Ivar Display";
@@ -267,7 +267,7 @@
   --mch_typography_editorial_headings_common_h4_xs_sm_font_size: 0.938rem;
   --mch_typography_editorial_headings_common_h4_xs_sm_letter_spacing: 0;
   --mch_typography_editorial_headings_common_h4_xs_sm_paragraph_spacing: 4;
-  --mch_typography_editorial_headings_common_h4_xs_sm_paragraph_indent: 0px;
+  --mch_typography_editorial_headings_common_h4_xs_sm_paragraph_indent: 0;
   --mch_typography_editorial_headings_common_h4_xs_sm_text_case: none;
   --mch_typography_editorial_headings_common_h4_xs_sm_text_decoration: none;
   --mch_typography_editorial_headings_common_h5_xs_sm_font_family: "Ivar Display";
@@ -276,7 +276,7 @@
   --mch_typography_editorial_headings_common_h5_xs_sm_font_size: 0.875rem;
   --mch_typography_editorial_headings_common_h5_xs_sm_letter_spacing: 0;
   --mch_typography_editorial_headings_common_h5_xs_sm_paragraph_spacing: 4;
-  --mch_typography_editorial_headings_common_h5_xs_sm_paragraph_indent: 0px;
+  --mch_typography_editorial_headings_common_h5_xs_sm_paragraph_indent: 0;
   --mch_typography_editorial_headings_common_h5_xs_sm_text_case: none;
   --mch_typography_editorial_headings_common_h5_xs_sm_text_decoration: none;
   --mch_typography_editorial_headings_common_h1_xl_font_family: "Ivar Display";
@@ -285,7 +285,7 @@
   --mch_typography_editorial_headings_common_h1_xl_font_size: 3rem;
   --mch_typography_editorial_headings_common_h1_xl_letter_spacing: 0;
   --mch_typography_editorial_headings_common_h1_xl_paragraph_spacing: 4;
-  --mch_typography_editorial_headings_common_h1_xl_paragraph_indent: 0px;
+  --mch_typography_editorial_headings_common_h1_xl_paragraph_indent: 0;
   --mch_typography_editorial_headings_common_h1_xl_text_case: none;
   --mch_typography_editorial_headings_common_h1_xl_text_decoration: none;
   --mch_typography_editorial_headings_common_h2_xl_font_family: "Ivar Display";
@@ -294,7 +294,7 @@
   --mch_typography_editorial_headings_common_h2_xl_font_size: 2.625rem;
   --mch_typography_editorial_headings_common_h2_xl_letter_spacing: 0;
   --mch_typography_editorial_headings_common_h2_xl_paragraph_spacing: 4;
-  --mch_typography_editorial_headings_common_h2_xl_paragraph_indent: 0px;
+  --mch_typography_editorial_headings_common_h2_xl_paragraph_indent: 0;
   --mch_typography_editorial_headings_common_h2_xl_text_case: none;
   --mch_typography_editorial_headings_common_h2_xl_text_decoration: none;
   --mch_typography_editorial_headings_common_h3_xl_font_family: "Ivar Display";
@@ -303,7 +303,7 @@
   --mch_typography_editorial_headings_common_h3_xl_font_size: 2.125rem;
   --mch_typography_editorial_headings_common_h3_xl_letter_spacing: 0;
   --mch_typography_editorial_headings_common_h3_xl_paragraph_spacing: 4;
-  --mch_typography_editorial_headings_common_h3_xl_paragraph_indent: 0px;
+  --mch_typography_editorial_headings_common_h3_xl_paragraph_indent: 0;
   --mch_typography_editorial_headings_common_h3_xl_text_case: none;
   --mch_typography_editorial_headings_common_h3_xl_text_decoration: none;
   --mch_typography_editorial_headings_common_h4_xl_font_family: "Ivar Display";
@@ -312,7 +312,7 @@
   --mch_typography_editorial_headings_common_h4_xl_font_size: 1.25rem;
   --mch_typography_editorial_headings_common_h4_xl_letter_spacing: 0;
   --mch_typography_editorial_headings_common_h4_xl_paragraph_spacing: 4;
-  --mch_typography_editorial_headings_common_h4_xl_paragraph_indent: 0px;
+  --mch_typography_editorial_headings_common_h4_xl_paragraph_indent: 0;
   --mch_typography_editorial_headings_common_h4_xl_text_case: none;
   --mch_typography_editorial_headings_common_h4_xl_text_decoration: none;
   --mch_typography_editorial_headings_common_h5_xl_font_family: "Ivar Display";
@@ -321,7 +321,7 @@
   --mch_typography_editorial_headings_common_h5_xl_font_size: 1rem;
   --mch_typography_editorial_headings_common_h5_xl_letter_spacing: 0;
   --mch_typography_editorial_headings_common_h5_xl_paragraph_spacing: 4;
-  --mch_typography_editorial_headings_common_h5_xl_paragraph_indent: 0px;
+  --mch_typography_editorial_headings_common_h5_xl_paragraph_indent: 0;
   --mch_typography_editorial_headings_common_h5_xl_text_case: none;
   --mch_typography_editorial_headings_common_h5_xl_text_decoration: none;
   --mch_typography_paragraphs_other_p1_md_font_family: "Art Basel Text";
@@ -330,7 +330,7 @@
   --mch_typography_paragraphs_other_p1_md_font_size: 1.25rem;
   --mch_typography_paragraphs_other_p1_md_letter_spacing: 0;
   --mch_typography_paragraphs_other_p1_md_paragraph_spacing: 4;
-  --mch_typography_paragraphs_other_p1_md_paragraph_indent: 0px;
+  --mch_typography_paragraphs_other_p1_md_paragraph_indent: 0;
   --mch_typography_paragraphs_other_p1_md_text_case: none;
   --mch_typography_paragraphs_other_p1_md_text_decoration: none;
   --mch_typography_paragraphs_other_p2_md_font_family: "Art Basel Text";
@@ -339,7 +339,7 @@
   --mch_typography_paragraphs_other_p2_md_font_size: 1rem;
   --mch_typography_paragraphs_other_p2_md_letter_spacing: 0;
   --mch_typography_paragraphs_other_p2_md_paragraph_spacing: 4;
-  --mch_typography_paragraphs_other_p2_md_paragraph_indent: 0px;
+  --mch_typography_paragraphs_other_p2_md_paragraph_indent: 0;
   --mch_typography_paragraphs_other_p2_md_text_case: none;
   --mch_typography_paragraphs_other_p2_md_text_decoration: none;
   --mch_typography_paragraphs_other_p1_lg_font_family: "Art Basel Text";
@@ -348,7 +348,7 @@
   --mch_typography_paragraphs_other_p1_lg_font_size: 1.25rem;
   --mch_typography_paragraphs_other_p1_lg_letter_spacing: 0;
   --mch_typography_paragraphs_other_p1_lg_paragraph_spacing: 4;
-  --mch_typography_paragraphs_other_p1_lg_paragraph_indent: 0px;
+  --mch_typography_paragraphs_other_p1_lg_paragraph_indent: 0;
   --mch_typography_paragraphs_other_p1_lg_text_case: none;
   --mch_typography_paragraphs_other_p1_lg_text_decoration: none;
   --mch_typography_paragraphs_other_p2_lg_font_family: "Art Basel Text";
@@ -357,7 +357,7 @@
   --mch_typography_paragraphs_other_p2_lg_font_size: 1rem;
   --mch_typography_paragraphs_other_p2_lg_letter_spacing: 0;
   --mch_typography_paragraphs_other_p2_lg_paragraph_spacing: 4;
-  --mch_typography_paragraphs_other_p2_lg_paragraph_indent: 0px;
+  --mch_typography_paragraphs_other_p2_lg_paragraph_indent: 0;
   --mch_typography_paragraphs_other_p2_lg_text_case: none;
   --mch_typography_paragraphs_other_p2_lg_text_decoration: none;
   --mch_typography_headings_other_h1_md_font_family: "Art Basel Headline";
@@ -366,7 +366,7 @@
   --mch_typography_headings_other_h1_md_font_size: 2.125rem;
   --mch_typography_headings_other_h1_md_letter_spacing: 0;
   --mch_typography_headings_other_h1_md_paragraph_spacing: 4;
-  --mch_typography_headings_other_h1_md_paragraph_indent: 0px;
+  --mch_typography_headings_other_h1_md_paragraph_indent: 0;
   --mch_typography_headings_other_h1_md_text_case: none;
   --mch_typography_headings_other_h1_md_text_decoration: none;
   --mch_typography_headings_other_h2_md_font_family: "Art Basel Headline";
@@ -375,7 +375,7 @@
   --mch_typography_headings_other_h2_md_font_size: 1.25rem;
   --mch_typography_headings_other_h2_md_letter_spacing: 0;
   --mch_typography_headings_other_h2_md_paragraph_spacing: 4;
-  --mch_typography_headings_other_h2_md_paragraph_indent: 0px;
+  --mch_typography_headings_other_h2_md_paragraph_indent: 0;
   --mch_typography_headings_other_h2_md_text_case: none;
   --mch_typography_headings_other_h2_md_text_decoration: none;
   --mch_typography_headings_other_h3_md_font_family: "Art Basel Headline";
@@ -384,7 +384,7 @@
   --mch_typography_headings_other_h3_md_font_size: 1.063rem;
   --mch_typography_headings_other_h3_md_letter_spacing: 0;
   --mch_typography_headings_other_h3_md_paragraph_spacing: 4;
-  --mch_typography_headings_other_h3_md_paragraph_indent: 0px;
+  --mch_typography_headings_other_h3_md_paragraph_indent: 0;
   --mch_typography_headings_other_h3_md_text_case: none;
   --mch_typography_headings_other_h3_md_text_decoration: none;
   --mch_typography_headings_other_h4_md_font_family: "Art Basel Headline";
@@ -393,7 +393,7 @@
   --mch_typography_headings_other_h4_md_font_size: 1rem;
   --mch_typography_headings_other_h4_md_letter_spacing: 0;
   --mch_typography_headings_other_h4_md_paragraph_spacing: 4;
-  --mch_typography_headings_other_h4_md_paragraph_indent: 0px;
+  --mch_typography_headings_other_h4_md_paragraph_indent: 0;
   --mch_typography_headings_other_h4_md_text_case: none;
   --mch_typography_headings_other_h4_md_text_decoration: none;
   --mch_typography_headings_other_h5_md_font_family: "Art Basel Headline";
@@ -402,7 +402,7 @@
   --mch_typography_headings_other_h5_md_font_size: 0.875rem;
   --mch_typography_headings_other_h5_md_letter_spacing: 0;
   --mch_typography_headings_other_h5_md_paragraph_spacing: 4;
-  --mch_typography_headings_other_h5_md_paragraph_indent: 0px;
+  --mch_typography_headings_other_h5_md_paragraph_indent: 0;
   --mch_typography_headings_other_h5_md_text_case: none;
   --mch_typography_headings_other_h5_md_text_decoration: none;
   --mch_typography_headings_other_h1_lg_font_family: "Art Basel Headline";
@@ -411,7 +411,7 @@
   --mch_typography_headings_other_h1_lg_font_size: 2.5rem;
   --mch_typography_headings_other_h1_lg_letter_spacing: 0;
   --mch_typography_headings_other_h1_lg_paragraph_spacing: 4;
-  --mch_typography_headings_other_h1_lg_paragraph_indent: 0px;
+  --mch_typography_headings_other_h1_lg_paragraph_indent: 0;
   --mch_typography_headings_other_h1_lg_text_case: none;
   --mch_typography_headings_other_h1_lg_text_decoration: none;
   --mch_typography_headings_other_h2_lg_font_family: "Art Basel Headline";
@@ -420,7 +420,7 @@
   --mch_typography_headings_other_h2_lg_font_size: 2.125rem;
   --mch_typography_headings_other_h2_lg_letter_spacing: 0;
   --mch_typography_headings_other_h2_lg_paragraph_spacing: 4;
-  --mch_typography_headings_other_h2_lg_paragraph_indent: 0px;
+  --mch_typography_headings_other_h2_lg_paragraph_indent: 0;
   --mch_typography_headings_other_h2_lg_text_case: none;
   --mch_typography_headings_other_h2_lg_text_decoration: none;
   --mch_typography_headings_other_h3_lg_font_family: "Art Basel Headline";
@@ -429,7 +429,7 @@
   --mch_typography_headings_other_h3_lg_font_size: 1.25rem;
   --mch_typography_headings_other_h3_lg_letter_spacing: 0;
   --mch_typography_headings_other_h3_lg_paragraph_spacing: 4;
-  --mch_typography_headings_other_h3_lg_paragraph_indent: 0px;
+  --mch_typography_headings_other_h3_lg_paragraph_indent: 0;
   --mch_typography_headings_other_h3_lg_text_case: none;
   --mch_typography_headings_other_h3_lg_text_decoration: none;
   --mch_typography_headings_other_h4_lg_font_family: "Art Basel Headline";
@@ -438,7 +438,7 @@
   --mch_typography_headings_other_h4_lg_font_size: 1rem;
   --mch_typography_headings_other_h4_lg_letter_spacing: 0;
   --mch_typography_headings_other_h4_lg_paragraph_spacing: 4;
-  --mch_typography_headings_other_h4_lg_paragraph_indent: 0px;
+  --mch_typography_headings_other_h4_lg_paragraph_indent: 0;
   --mch_typography_headings_other_h4_lg_text_case: none;
   --mch_typography_headings_other_h4_lg_text_decoration: none;
   --mch_typography_headings_other_h5_lg_font_family: "Art Basel Headline";
@@ -447,7 +447,7 @@
   --mch_typography_headings_other_h5_lg_font_size: 0.875rem;
   --mch_typography_headings_other_h5_lg_letter_spacing: 0;
   --mch_typography_headings_other_h5_lg_paragraph_spacing: 4;
-  --mch_typography_headings_other_h5_lg_paragraph_indent: 0px;
+  --mch_typography_headings_other_h5_lg_paragraph_indent: 0;
   --mch_typography_headings_other_h5_lg_text_case: none;
   --mch_typography_headings_other_h5_lg_text_decoration: none;
   --mch_typography_links_text_link_medium_default_font_family: "Art Basel Text";
@@ -456,7 +456,7 @@
   --mch_typography_links_text_link_medium_default_font_size: 0.813rem;
   --mch_typography_links_text_link_medium_default_letter_spacing: 0;
   --mch_typography_links_text_link_medium_default_paragraph_spacing: 0;
-  --mch_typography_links_text_link_medium_default_paragraph_indent: 0px;
+  --mch_typography_links_text_link_medium_default_paragraph_indent: 0;
   --mch_typography_links_text_link_medium_default_text_case: none;
   --mch_typography_links_text_link_medium_default_text_decoration: none;
   --mch_typography_links_text_link_medium_hover_font_family: "Art Basel Text";
@@ -465,7 +465,7 @@
   --mch_typography_links_text_link_medium_hover_font_size: 0.813rem;
   --mch_typography_links_text_link_medium_hover_letter_spacing: 0;
   --mch_typography_links_text_link_medium_hover_paragraph_spacing: 0;
-  --mch_typography_links_text_link_medium_hover_paragraph_indent: 0px;
+  --mch_typography_links_text_link_medium_hover_paragraph_indent: 0;
   --mch_typography_links_text_link_medium_hover_text_case: none;
   --mch_typography_links_text_link_medium_hover_text_decoration: underline;
   --mch_typography_links_external_link_medium_default_font_family: "Art Basel Text";
@@ -474,7 +474,7 @@
   --mch_typography_links_external_link_medium_default_font_size: 0.813rem;
   --mch_typography_links_external_link_medium_default_letter_spacing: 0;
   --mch_typography_links_external_link_medium_default_paragraph_spacing: 0;
-  --mch_typography_links_external_link_medium_default_paragraph_indent: 0px;
+  --mch_typography_links_external_link_medium_default_paragraph_indent: 0;
   --mch_typography_links_external_link_medium_default_text_case: uppercase;
   --mch_typography_links_external_link_medium_default_text_decoration: none;
   --mch_typography_links_button_medium_font_family: "Art Basel Text";
@@ -483,7 +483,7 @@
   --mch_typography_links_button_medium_font_size: 0.75rem;
   --mch_typography_links_button_medium_letter_spacing: 0;
   --mch_typography_links_button_medium_paragraph_spacing: 0;
-  --mch_typography_links_button_medium_paragraph_indent: 0px;
+  --mch_typography_links_button_medium_paragraph_indent: 0;
   --mch_typography_links_button_medium_text_case: uppercase;
   --mch_typography_links_button_medium_text_decoration: none;
   --mch_typography_supporting_label_x_large_font_family: "Art Basel Text";
@@ -492,7 +492,7 @@
   --mch_typography_supporting_label_x_large_font_size: 0.813rem;
   --mch_typography_supporting_label_x_large_letter_spacing: 0;
   --mch_typography_supporting_label_x_large_paragraph_spacing: 0;
-  --mch_typography_supporting_label_x_large_paragraph_indent: 0px;
+  --mch_typography_supporting_label_x_large_paragraph_indent: 0;
   --mch_typography_supporting_label_x_large_text_case: none;
   --mch_typography_supporting_label_x_large_text_decoration: none;
   --mch_typography_supporting_label_large_font_family: "Art Basel Text";
@@ -501,7 +501,7 @@
   --mch_typography_supporting_label_large_font_size: 0.75rem;
   --mch_typography_supporting_label_large_letter_spacing: 0;
   --mch_typography_supporting_label_large_paragraph_spacing: 0;
-  --mch_typography_supporting_label_large_paragraph_indent: 0px;
+  --mch_typography_supporting_label_large_paragraph_indent: 0;
   --mch_typography_supporting_label_large_text_case: none;
   --mch_typography_supporting_label_large_text_decoration: none;
   --mch_typography_supporting_label_medium_font_family: "Art Basel Text";
@@ -510,7 +510,7 @@
   --mch_typography_supporting_label_medium_font_size: 0.688rem;
   --mch_typography_supporting_label_medium_letter_spacing: 0;
   --mch_typography_supporting_label_medium_paragraph_spacing: 0;
-  --mch_typography_supporting_label_medium_paragraph_indent: 0px;
+  --mch_typography_supporting_label_medium_paragraph_indent: 0;
   --mch_typography_supporting_label_medium_text_case: none;
   --mch_typography_supporting_label_medium_text_decoration: none;
   --mch_typography_supporting_label_small_font_family: "Art Basel Text";
@@ -519,7 +519,7 @@
   --mch_typography_supporting_label_small_font_size: 0.688rem;
   --mch_typography_supporting_label_small_letter_spacing: 0.3;
   --mch_typography_supporting_label_small_paragraph_spacing: 0;
-  --mch_typography_supporting_label_small_paragraph_indent: 0px;
+  --mch_typography_supporting_label_small_paragraph_indent: 0;
   --mch_typography_supporting_label_small_text_case: none;
   --mch_typography_supporting_label_small_text_decoration: none;
   --mch_typography_body_text_large_font_family: "Art Basel Text";
@@ -528,7 +528,7 @@
   --mch_typography_body_text_large_font_size: 0.875rem;
   --mch_typography_body_text_large_letter_spacing: 0;
   --mch_typography_body_text_large_paragraph_spacing: 0;
-  --mch_typography_body_text_large_paragraph_indent: 0px;
+  --mch_typography_body_text_large_paragraph_indent: 0;
   --mch_typography_body_text_large_text_case: none;
   --mch_typography_body_text_large_text_decoration: none;
   --mch_typography_body_text_medium_font_family: "Art Basel Text";
@@ -537,7 +537,7 @@
   --mch_typography_body_text_medium_font_size: 0.813rem;
   --mch_typography_body_text_medium_letter_spacing: 0;
   --mch_typography_body_text_medium_paragraph_spacing: 0;
-  --mch_typography_body_text_medium_paragraph_indent: 0px;
+  --mch_typography_body_text_medium_paragraph_indent: 0;
   --mch_typography_body_text_medium_text_case: none;
   --mch_typography_body_text_medium_text_decoration: none;
   --mch_typography_body_text_small_font_family: "Art Basel Text";
@@ -546,7 +546,7 @@
   --mch_typography_body_text_small_font_size: 0.75rem;
   --mch_typography_body_text_small_letter_spacing: 0;
   --mch_typography_body_text_small_paragraph_spacing: 0;
-  --mch_typography_body_text_small_paragraph_indent: 0px;
+  --mch_typography_body_text_small_paragraph_indent: 0;
   --mch_typography_body_text_small_text_case: none;
   --mch_typography_body_text_small_text_decoration: none;
   --mch_typography_headings_fixed_01_font_family: "Art Basel Headline";
@@ -555,7 +555,7 @@
   --mch_typography_headings_fixed_01_font_size: 0.875rem;
   --mch_typography_headings_fixed_01_letter_spacing: 4;
   --mch_typography_headings_fixed_01_paragraph_spacing: 0;
-  --mch_typography_headings_fixed_01_paragraph_indent: 0px;
+  --mch_typography_headings_fixed_01_paragraph_indent: 0;
   --mch_typography_headings_fixed_01_text_case: uppercase;
   --mch_typography_headings_fixed_01_text_decoration: none;
   --mch_typography_headings_fixed_02_font_family: "Art Basel Headline";
@@ -564,7 +564,7 @@
   --mch_typography_headings_fixed_02_font_size: 0.75rem;
   --mch_typography_headings_fixed_02_letter_spacing: 1;
   --mch_typography_headings_fixed_02_paragraph_spacing: 0;
-  --mch_typography_headings_fixed_02_paragraph_indent: 0px;
+  --mch_typography_headings_fixed_02_paragraph_indent: 0;
   --mch_typography_headings_fixed_02_text_case: uppercase;
   --mch_typography_headings_fixed_02_text_decoration: none;
   --mch_typography_paragraphs_common_p1_xs_sm_font_family: "Art Basel Text";
@@ -573,7 +573,7 @@
   --mch_typography_paragraphs_common_p1_xs_sm_font_size: 1rem;
   --mch_typography_paragraphs_common_p1_xs_sm_letter_spacing: 0;
   --mch_typography_paragraphs_common_p1_xs_sm_paragraph_spacing: 0;
-  --mch_typography_paragraphs_common_p1_xs_sm_paragraph_indent: 0px;
+  --mch_typography_paragraphs_common_p1_xs_sm_paragraph_indent: 0;
   --mch_typography_paragraphs_common_p1_xs_sm_text_case: none;
   --mch_typography_paragraphs_common_p1_xs_sm_text_decoration: none;
   --mch_typography_paragraphs_common_p2_xs_sm_font_family: "Art Basel Text";
@@ -582,7 +582,7 @@
   --mch_typography_paragraphs_common_p2_xs_sm_font_size: 0.938rem;
   --mch_typography_paragraphs_common_p2_xs_sm_letter_spacing: 0;
   --mch_typography_paragraphs_common_p2_xs_sm_paragraph_spacing: 0;
-  --mch_typography_paragraphs_common_p2_xs_sm_paragraph_indent: 0px;
+  --mch_typography_paragraphs_common_p2_xs_sm_paragraph_indent: 0;
   --mch_typography_paragraphs_common_p2_xs_sm_text_case: none;
   --mch_typography_paragraphs_common_p2_xs_sm_text_decoration: none;
   --mch_typography_paragraphs_common_p1_xl_font_family: "Art Basel Text";
@@ -591,7 +591,7 @@
   --mch_typography_paragraphs_common_p1_xl_font_size: 1.25rem;
   --mch_typography_paragraphs_common_p1_xl_letter_spacing: 0;
   --mch_typography_paragraphs_common_p1_xl_paragraph_spacing: 0;
-  --mch_typography_paragraphs_common_p1_xl_paragraph_indent: 0px;
+  --mch_typography_paragraphs_common_p1_xl_paragraph_indent: 0;
   --mch_typography_paragraphs_common_p1_xl_text_case: none;
   --mch_typography_paragraphs_common_p1_xl_text_decoration: none;
   --mch_typography_paragraphs_common_p2_xl_font_family: "Art Basel Text";
@@ -600,7 +600,7 @@
   --mch_typography_paragraphs_common_p2_xl_font_size: 1rem;
   --mch_typography_paragraphs_common_p2_xl_letter_spacing: 0;
   --mch_typography_paragraphs_common_p2_xl_paragraph_spacing: 0;
-  --mch_typography_paragraphs_common_p2_xl_paragraph_indent: 0px;
+  --mch_typography_paragraphs_common_p2_xl_paragraph_indent: 0;
   --mch_typography_paragraphs_common_p2_xl_text_case: none;
   --mch_typography_paragraphs_common_p2_xl_text_decoration: none;
   --mch_typography_editorial_headings_other_h1_md_font_family: "Ivar Display";
@@ -609,7 +609,7 @@
   --mch_typography_editorial_headings_other_h1_md_font_size: 2.125rem;
   --mch_typography_editorial_headings_other_h1_md_letter_spacing: 0;
   --mch_typography_editorial_headings_other_h1_md_paragraph_spacing: 4;
-  --mch_typography_editorial_headings_other_h1_md_paragraph_indent: 0px;
+  --mch_typography_editorial_headings_other_h1_md_paragraph_indent: 0;
   --mch_typography_editorial_headings_other_h1_md_text_case: none;
   --mch_typography_editorial_headings_other_h1_md_text_decoration: none;
   --mch_typography_editorial_headings_other_h2_md_font_family: "Ivar Display";
@@ -618,7 +618,7 @@
   --mch_typography_editorial_headings_other_h2_md_font_size: 1.25rem;
   --mch_typography_editorial_headings_other_h2_md_letter_spacing: 0;
   --mch_typography_editorial_headings_other_h2_md_paragraph_spacing: 4;
-  --mch_typography_editorial_headings_other_h2_md_paragraph_indent: 0px;
+  --mch_typography_editorial_headings_other_h2_md_paragraph_indent: 0;
   --mch_typography_editorial_headings_other_h2_md_text_case: none;
   --mch_typography_editorial_headings_other_h2_md_text_decoration: none;
   --mch_typography_editorial_headings_other_h3_md_font_family: "Ivar Display";
@@ -627,7 +627,7 @@
   --mch_typography_editorial_headings_other_h3_md_font_size: 1.063rem;
   --mch_typography_editorial_headings_other_h3_md_letter_spacing: 0;
   --mch_typography_editorial_headings_other_h3_md_paragraph_spacing: 4;
-  --mch_typography_editorial_headings_other_h3_md_paragraph_indent: 0px;
+  --mch_typography_editorial_headings_other_h3_md_paragraph_indent: 0;
   --mch_typography_editorial_headings_other_h3_md_text_case: none;
   --mch_typography_editorial_headings_other_h3_md_text_decoration: none;
   --mch_typography_editorial_headings_other_h4_md_font_family: "Ivar Display";
@@ -636,7 +636,7 @@
   --mch_typography_editorial_headings_other_h4_md_font_size: 1rem;
   --mch_typography_editorial_headings_other_h4_md_letter_spacing: 0;
   --mch_typography_editorial_headings_other_h4_md_paragraph_spacing: 4;
-  --mch_typography_editorial_headings_other_h4_md_paragraph_indent: 0px;
+  --mch_typography_editorial_headings_other_h4_md_paragraph_indent: 0;
   --mch_typography_editorial_headings_other_h4_md_text_case: none;
   --mch_typography_editorial_headings_other_h4_md_text_decoration: none;
   --mch_typography_editorial_headings_other_h5_md_font_family: "Ivar Display";
@@ -645,7 +645,7 @@
   --mch_typography_editorial_headings_other_h5_md_font_size: 0.938rem;
   --mch_typography_editorial_headings_other_h5_md_letter_spacing: 0;
   --mch_typography_editorial_headings_other_h5_md_paragraph_spacing: 4;
-  --mch_typography_editorial_headings_other_h5_md_paragraph_indent: 0px;
+  --mch_typography_editorial_headings_other_h5_md_paragraph_indent: 0;
   --mch_typography_editorial_headings_other_h5_md_text_case: none;
   --mch_typography_editorial_headings_other_h5_md_text_decoration: none;
   --mch_typography_editorial_headings_other_h1_lg_font_family: "Ivar Display";
@@ -654,7 +654,7 @@
   --mch_typography_editorial_headings_other_h1_lg_font_size: 2.625rem;
   --mch_typography_editorial_headings_other_h1_lg_letter_spacing: 0;
   --mch_typography_editorial_headings_other_h1_lg_paragraph_spacing: 4;
-  --mch_typography_editorial_headings_other_h1_lg_paragraph_indent: 0px;
+  --mch_typography_editorial_headings_other_h1_lg_paragraph_indent: 0;
   --mch_typography_editorial_headings_other_h1_lg_text_case: none;
   --mch_typography_editorial_headings_other_h1_lg_text_decoration: none;
   --mch_typography_editorial_headings_other_h2_lg_font_family: "Ivar Display";
@@ -663,7 +663,7 @@
   --mch_typography_editorial_headings_other_h2_lg_font_size: 2.125rem;
   --mch_typography_editorial_headings_other_h2_lg_letter_spacing: 0;
   --mch_typography_editorial_headings_other_h2_lg_paragraph_spacing: 4;
-  --mch_typography_editorial_headings_other_h2_lg_paragraph_indent: 0px;
+  --mch_typography_editorial_headings_other_h2_lg_paragraph_indent: 0;
   --mch_typography_editorial_headings_other_h2_lg_text_case: none;
   --mch_typography_editorial_headings_other_h2_lg_text_decoration: none;
   --mch_typography_editorial_headings_other_h3_lg_font_family: "Ivar Display";
@@ -672,7 +672,7 @@
   --mch_typography_editorial_headings_other_h3_lg_font_size: 1.25rem;
   --mch_typography_editorial_headings_other_h3_lg_letter_spacing: 0;
   --mch_typography_editorial_headings_other_h3_lg_paragraph_spacing: 4;
-  --mch_typography_editorial_headings_other_h3_lg_paragraph_indent: 0px;
+  --mch_typography_editorial_headings_other_h3_lg_paragraph_indent: 0;
   --mch_typography_editorial_headings_other_h3_lg_text_case: none;
   --mch_typography_editorial_headings_other_h3_lg_text_decoration: none;
   --mch_typography_editorial_headings_other_h4_lg_font_family: "Ivar Display";
@@ -681,7 +681,7 @@
   --mch_typography_editorial_headings_other_h4_lg_font_size: 1.063rem;
   --mch_typography_editorial_headings_other_h4_lg_letter_spacing: 0;
   --mch_typography_editorial_headings_other_h4_lg_paragraph_spacing: 4;
-  --mch_typography_editorial_headings_other_h4_lg_paragraph_indent: 0px;
+  --mch_typography_editorial_headings_other_h4_lg_paragraph_indent: 0;
   --mch_typography_editorial_headings_other_h4_lg_text_case: none;
   --mch_typography_editorial_headings_other_h4_lg_text_decoration: none;
   --mch_typography_editorial_headings_other_h5_lg_font_family: "Ivar Display";
@@ -690,7 +690,7 @@
   --mch_typography_editorial_headings_other_h5_lg_font_size: 1rem;
   --mch_typography_editorial_headings_other_h5_lg_letter_spacing: 0;
   --mch_typography_editorial_headings_other_h5_lg_paragraph_spacing: 4;
-  --mch_typography_editorial_headings_other_h5_lg_paragraph_indent: 0px;
+  --mch_typography_editorial_headings_other_h5_lg_paragraph_indent: 0;
   --mch_typography_editorial_headings_other_h5_lg_text_case: none;
   --mch_typography_editorial_headings_other_h5_lg_text_decoration: none;
   --mch_spacing_2: 0.125rem;
