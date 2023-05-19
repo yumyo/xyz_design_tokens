@@ -1,15 +1,15 @@
 
 //
-// StyleDictionary+Enum-app.swift
+// design_tokens+Class-app.swift
 //
 
 // Do not edit directly
-// Generated on Thu, 18 May 2023 14:44:47 GMT
+// Generated on Fri, 19 May 2023 09:17:26 GMT
 
 
 import UIKit
 
-public enum StyleDictionaryEnum {
+public class StyleDictionaryClass {
     public static let mchAppBodyBodyTextFontFamily = "Art Basel Text"
     public static let mchAppBodyBodyTextFontSize = 17
     public static let mchAppBodyBodyTextFontWeight = 400

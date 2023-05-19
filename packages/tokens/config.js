@@ -8,6 +8,8 @@ var Color           = require('tinycolor2')
     convertToBase64 = require('../../node_modules/style-dictionary/lib/utils/convertToBase64'),
     UNICODE_PATTERN = /&#x([^;]+);/g;
 
+const designTokensFileName = "design_tokens";
+
 // TO REMOVE
 const fontWeightMap = {
   thin: 100,
@@ -240,7 +242,7 @@ async function run() {
               return (prop.filePath !== 'src/global.json' && prop.filePath !== 'src/App.json');
             },
             format: 'javascript/es6',
-            destination: `variables-${theme.name}.js`
+            destination: `${designTokensFileName}-${theme.name}.js`
           },
           {
             filter: function(prop) {
@@ -251,21 +253,21 @@ async function run() {
               return (prop.filePath === 'src/global.json' && prop.filePath !== 'src/App.json' && prop.filePath !== 'src/Dark-Theme.json' && prop.filePath !== 'src/Light-Theme.json');
             },
             format: 'javascript/es6',
-            destination: `variables.js`
+            destination: `${designTokensFileName}.js`
           },
           {
             filter: function(prop) {
               return prop.filePath === 'src/global.json';
             },
             format: 'javascript/module',
-            destination: `variables-module.js`
+            destination: `${designTokensFileName}-module.js`
           },
           {
             filter: function(prop) {
               return prop.filePath === 'src/global.json';
             },
             format: 'typescript/module-declarations',
-            destination: `variables-module.d.ts`
+            destination: `${designTokensFileName}-module.d.ts`
           },
         ],
       },
@@ -278,14 +280,14 @@ async function run() {
           filter: function(prop) {
             return (prop.filePath !== 'src/global.json' && prop.filePath !== 'src/App.json');
           },
-          destination: `_variables-${theme.name}.scss`,
+          destination: `_${designTokensFileName}-${theme.name}.scss`,
           format: "scss/variables"
         },
         {
           filter: function(prop) {
             return (prop.filePath === 'src/global.json' && prop.filePath !== 'src/App.json');
           },
-          destination: `_variables.scss`,
+          destination: `_${designTokensFileName}.scss`,
           format: "scss/variables"
         }]
       },
@@ -315,14 +317,14 @@ async function run() {
             filter: function(prop) {
               return (prop.filePath === 'src/global.json' && prop.filePath !== 'src/App.json');
             },
-            destination: `vars.css`,
+            destination: `${designTokensFileName}.css`,
             format: 'css/variables',
           },
           {
             filter: function(prop) {
               return (prop.filePath !== 'src/global.json' && prop.filePath !== 'src/App.json');
             },
-            destination: `vars-${theme.name}.css`,
+            destination: `${designTokensFileName}-${theme.name}.css`,
             format: 'css/variables',
           },
         ],
@@ -337,7 +339,7 @@ async function run() {
             
             return (prop.filePath !== 'src/global.json' && prop.filePath !== 'src/App.json');
           },
-          destination: `StyleDictionary+Class-${theme.name}.swift`,
+          destination: `${designTokensFileName}+Class-${theme.name}.swift`,
           format: "ios-swift/class.swift",
           className: "StyleDictionaryClass",
         },{
@@ -345,14 +347,14 @@ async function run() {
             // console.log('prop', prop)
             return (prop.filePath !== 'src/global.json' && prop.filePath === 'src/App.json' && prop.type !== 'paragraphIndent' && prop.attributes.category !== 'paragraphIndent');
           },
-          destination: `StyleDictionary+Class-app.swift`,
+          destination: `${designTokensFileName}+Class-app.swift`,
           format: "ios-swift/class.swift",
           className: "StyleDictionaryClass",
         },{
           filter: function(prop) {
             return (prop.filePath !== 'src/global.json' && prop.filePath !== 'src/App.json');
           },
-          destination: `StyleDictionary+Enum-${theme.name}.swift`,
+          destination: `${designTokensFileName}+Enum-${theme.name}.swift`,
           format: "ios-swift/enum.swift",
           className: "StyleDictionaryEnum",
         },
@@ -360,14 +362,14 @@ async function run() {
           filter: function(prop) {
             return (prop.filePath !== 'src/global.json' && prop.filePath === 'src/App.json' && prop.type !== 'paragraphIndent' && prop.attributes.category !== 'paragraphIndent');
           },
-          destination: `StyleDictionary+Enum-${theme.name}.swift`,
+          destination: `${designTokensFileName}+Enum-${theme.name}.swift`,
           format: "ios-swift/enum.swift",
           className: "StyleDictionaryEnum",
         },{
           filter: function(prop) {
             return (prop.filePath !== 'src/global.json' && prop.filePath !== 'src/App.json');
           },
-          destination: `StyleDictionary+Struct-${theme.name}.swift`,
+          destination: `${designTokensFileName}+Struct-${theme.name}.swift`,
           format: "ios-swift/any.swift",
           className: "StyleDictionaryStruct",
           options: {
@@ -379,7 +381,7 @@ async function run() {
           filter: function(prop) {
             return (prop.filePath !== 'src/global.json' && prop.filePath === 'src/App.json' && prop.type !== 'paragraphIndent' && prop.attributes.category !== 'paragraphIndent');
           },
-          destination: `StyleDictionary+Struct-${theme.name}.swift`,
+          destination: `${designTokensFileName}+Struct-${theme.name}.swift`,
           format: "ios-swift/any.swift",
           className: "StyleDictionaryStruct",
           options: {
@@ -400,7 +402,7 @@ async function run() {
               return (prop.type === 'fontSizes' && prop.filePath !== 'src/global.json');
             },
             resourceType: "dimen",
-            destination: "font_dimens.xml",
+            destination: `${designTokensFileName}-font_dimens.xml`,
             format: "android/resources",
           }
           ,{
@@ -408,7 +410,7 @@ async function run() {
               return prop.type === 'color' && prop.filePath !== 'src/global.json' && prop.filePath !== 'src/App.json';
             },
             resourceType: "color",
-            destination: `colors-${theme.name}.xml`,
+            destination: `${designTokensFileName}-colors-${theme.name}.xml`,
             format: "android/resources",
           }
         ]
