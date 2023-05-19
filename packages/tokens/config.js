@@ -10,7 +10,6 @@ var Color           = require('tinycolor2')
 
 const designTokensFileName = "design_tokens";
 
-
 function getBasePxFontSize(options) {
   return (options && options.basePxFontSize) || 16;
 }
@@ -58,7 +57,6 @@ StyleDictionary.registerTransform({
     return token.type === 'fontSizes';
   },
   transformer: function(token) {
-    // console.log('YAY')
     return `${token.original.value}sp`;
   }
 });
@@ -69,7 +67,6 @@ StyleDictionary.registerTransform({
   matcher: function(token) {
     // console.log('token', token.type)
     if (token.type === 'paragraphIndent') {
-      // console.log('banana')
     }
     return token.type === 'paragraphIndent';
   },
