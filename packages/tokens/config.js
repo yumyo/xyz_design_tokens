@@ -278,7 +278,6 @@ async function run() {
         files: [
           {
             filter: function(prop) {
-              // console.log('prop', prop)
               return (prop.type === 'fontSizes' && prop.filePath !== 'src/global.json');
             },
             resourceType: "dimen",
