@@ -250,7 +250,6 @@ async function run() {
         ],
       },
       iosSwift: {
-        // transformGroup: "ios-swift",
         transforms: ["attribute/cti","name/cti/camel","custom-color/ColorSwiftUI","content/swift/literal","asset/swift/literal","size/swift/remToCGFloat","font/swift/literal","font-family/quote/fix",'ts/type/fontWeight',"text-decoration/quote","remove/space/px","remove/letterspacing/%", 'shadow/quote',"remove/pindent/px"],
         buildPath: "../swift/Sources/artbaseldesigntokens/",
         prefix: "mch_",
