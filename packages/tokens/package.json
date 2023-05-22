@@ -24,7 +24,7 @@
     "node": ">= 14.0.0"
   },
   "scripts": {
-    "build": "yarn clean && yarn unzip && node config.js && yarn copy",
+    "build": "yarn clean && node config.js && yarn copy",
     "clean": "rm -rf ../swift/Sources/artbaseldesigntokens/ build/android/src/main/res/values build/scss build/css build/js",
     "copy": "copyfiles ./AndroidManifest.xml ./build/android/src/main/",
     "unzip": "nunzip src/tokens.zip -d ./src"

@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Fri, 19 May 2023 12:24:05 GMT
+ * Generated on Mon, 22 May 2023 12:22:03 GMT
  */
 
 module.exports = {
@@ -1731,6 +1731,25 @@ module.exports = {
     }
   },
   "fontFamilies": {
+    "art-basel-headline": {
+      "value": "Art Basel Headline",
+      "type": "fontFamilies",
+      "filePath": "src/App.json",
+      "isSource": true,
+      "original": {
+        "value": "Art Basel Headline",
+        "type": "fontFamilies"
+      },
+      "name": "mch_font_families_art_basel_headline",
+      "attributes": {
+        "category": "fontFamilies",
+        "type": "art-basel-headline"
+      },
+      "path": [
+        "fontFamilies",
+        "art-basel-headline"
+      ]
+    },
     "ivar-display": {
       "value": "Ivar Display",
       "type": "fontFamilies",
@@ -1749,9 +1768,218 @@ module.exports = {
         "fontFamilies",
         "ivar-display"
       ]
+    },
+    "art-basel-text": {
+      "value": "Art Basel Text",
+      "type": "fontFamilies",
+      "filePath": "src/App.json",
+      "isSource": true,
+      "original": {
+        "value": "Art Basel Text",
+        "type": "fontFamilies"
+      },
+      "name": "mch_font_families_art_basel_text",
+      "attributes": {
+        "category": "fontFamilies",
+        "type": "art-basel-text"
+      },
+      "path": [
+        "fontFamilies",
+        "art-basel-text"
+      ]
     }
   },
   "lineHeights": {
+    "0": {
+      "value": "2.5625rem",
+      "type": "lineHeights",
+      "filePath": "src/App.json",
+      "isSource": true,
+      "original": {
+        "value": "41",
+        "type": "lineHeights"
+      },
+      "name": "mch_line_heights_0",
+      "attributes": {
+        "category": "lineHeights",
+        "type": "0"
+      },
+      "path": [
+        "lineHeights",
+        "0"
+      ]
+    },
+    "1": {
+      "value": "2.125rem",
+      "type": "lineHeights",
+      "filePath": "src/App.json",
+      "isSource": true,
+      "original": {
+        "value": "34",
+        "type": "lineHeights"
+      },
+      "name": "mch_line_heights_1",
+      "attributes": {
+        "category": "lineHeights",
+        "type": "1"
+      },
+      "path": [
+        "lineHeights",
+        "1"
+      ]
+    },
+    "2": {
+      "value": "1.75rem",
+      "type": "lineHeights",
+      "filePath": "src/App.json",
+      "isSource": true,
+      "original": {
+        "value": "28",
+        "type": "lineHeights"
+      },
+      "name": "mch_line_heights_2",
+      "attributes": {
+        "category": "lineHeights",
+        "type": "2"
+      },
+      "path": [
+        "lineHeights",
+        "2"
+      ]
+    },
+    "3": {
+      "value": "1.5625rem",
+      "type": "lineHeights",
+      "filePath": "src/App.json",
+      "isSource": true,
+      "original": {
+        "value": "25",
+        "type": "lineHeights"
+      },
+      "name": "mch_line_heights_3",
+      "attributes": {
+        "category": "lineHeights",
+        "type": "3"
+      },
+      "path": [
+        "lineHeights",
+        "3"
+      ]
+    },
+    "4": {
+      "value": "1.375rem",
+      "type": "lineHeights",
+      "filePath": "src/App.json",
+      "isSource": true,
+      "original": {
+        "value": "22",
+        "type": "lineHeights"
+      },
+      "name": "mch_line_heights_4",
+      "attributes": {
+        "category": "lineHeights",
+        "type": "4"
+      },
+      "path": [
+        "lineHeights",
+        "4"
+      ]
+    },
+    "5": {
+      "value": "1.25rem",
+      "type": "lineHeights",
+      "filePath": "src/App.json",
+      "isSource": true,
+      "original": {
+        "value": "20",
+        "type": "lineHeights"
+      },
+      "name": "mch_line_heights_5",
+      "attributes": {
+        "category": "lineHeights",
+        "type": "5"
+      },
+      "path": [
+        "lineHeights",
+        "5"
+      ]
+    },
+    "6": {
+      "value": "1rem",
+      "type": "lineHeights",
+      "filePath": "src/App.json",
+      "isSource": true,
+      "original": {
+        "value": "16",
+        "type": "lineHeights"
+      },
+      "name": "mch_line_heights_6",
+      "attributes": {
+        "category": "lineHeights",
+        "type": "6"
+      },
+      "path": [
+        "lineHeights",
+        "6"
+      ]
+    },
+    "7": {
+      "value": "0.8125rem",
+      "type": "lineHeights",
+      "filePath": "src/App.json",
+      "isSource": true,
+      "original": {
+        "value": "13",
+        "type": "lineHeights"
+      },
+      "name": "mch_line_heights_7",
+      "attributes": {
+        "category": "lineHeights",
+        "type": "7"
+      },
+      "path": [
+        "lineHeights",
+        "7"
+      ]
+    },
+    "8": {
+      "value": "1.125rem",
+      "type": "lineHeights",
+      "filePath": "src/App.json",
+      "isSource": true,
+      "original": {
+        "value": "18",
+        "type": "lineHeights"
+      },
+      "name": "mch_line_heights_8",
+      "attributes": {
+        "category": "lineHeights",
+        "type": "8"
+      },
+      "path": [
+        "lineHeights",
+        "8"
+      ]
+    },
+    "9": {
+      "value": "1.3125rem",
+      "type": "lineHeights",
+      "filePath": "src/App.json",
+      "isSource": true,
+      "original": {
+        "value": "21",
+        "type": "lineHeights"
+      },
+      "name": "mch_line_heights_9",
+      "attributes": {
+        "category": "lineHeights",
+        "type": "9"
+      },
+      "path": [
+        "lineHeights",
+        "9"
+      ]
+    },
     "10": {
       "value": "2rem",
       "type": "lineHeights",
@@ -1944,6 +2172,25 @@ module.exports = {
     }
   },
   "fontWeights": {
+    "art-basel-headline-0": {
+      "value": "700",
+      "type": "fontWeights",
+      "filePath": "src/App.json",
+      "isSource": true,
+      "original": {
+        "value": "Bold",
+        "type": "fontWeights"
+      },
+      "name": "mch_font_weights_art_basel_headline_0",
+      "attributes": {
+        "category": "fontWeights",
+        "type": "art-basel-headline-0"
+      },
+      "path": [
+        "fontWeights",
+        "art-basel-headline-0"
+      ]
+    },
     "ivar-display-1": {
       "value": "400",
       "type": "fontWeights",
@@ -2019,9 +2266,256 @@ module.exports = {
         "fontWeights",
         "art-basel-text-4"
       ]
+    },
+    "art-basel-text-1": {
+      "value": "700",
+      "type": "fontWeights",
+      "filePath": "src/App.json",
+      "isSource": true,
+      "original": {
+        "value": "Bold",
+        "type": "fontWeights"
+      },
+      "name": "mch_font_weights_art_basel_text_1",
+      "attributes": {
+        "category": "fontWeights",
+        "type": "art-basel-text-1"
+      },
+      "path": [
+        "fontWeights",
+        "art-basel-text-1"
+      ]
+    },
+    "art-basel-text-2": {
+      "value": "400",
+      "type": "fontWeights",
+      "filePath": "src/App.json",
+      "isSource": true,
+      "original": {
+        "value": "Regular",
+        "type": "fontWeights"
+      },
+      "name": "mch_font_weights_art_basel_text_2",
+      "attributes": {
+        "category": "fontWeights",
+        "type": "art-basel-text-2"
+      },
+      "path": [
+        "fontWeights",
+        "art-basel-text-2"
+      ]
     }
   },
   "fontSize": {
+    "0": {
+      "value": "0.6875rem",
+      "type": "fontSizes",
+      "filePath": "src/App.json",
+      "isSource": true,
+      "original": {
+        "value": "11",
+        "type": "fontSizes"
+      },
+      "name": "mch_font_size_0",
+      "attributes": {
+        "category": "fontSize",
+        "type": "0"
+      },
+      "path": [
+        "fontSize",
+        "0"
+      ]
+    },
+    "1": {
+      "value": "0.75rem",
+      "type": "fontSizes",
+      "filePath": "src/App.json",
+      "isSource": true,
+      "original": {
+        "value": "12",
+        "type": "fontSizes"
+      },
+      "name": "mch_font_size_1",
+      "attributes": {
+        "category": "fontSize",
+        "type": "1"
+      },
+      "path": [
+        "fontSize",
+        "1"
+      ]
+    },
+    "2": {
+      "value": "0.8125rem",
+      "type": "fontSizes",
+      "filePath": "src/App.json",
+      "isSource": true,
+      "original": {
+        "value": "13",
+        "type": "fontSizes"
+      },
+      "name": "mch_font_size_2",
+      "attributes": {
+        "category": "fontSize",
+        "type": "2"
+      },
+      "path": [
+        "fontSize",
+        "2"
+      ]
+    },
+    "3": {
+      "value": "0.875rem",
+      "type": "fontSizes",
+      "filePath": "src/App.json",
+      "isSource": true,
+      "original": {
+        "value": "14",
+        "type": "fontSizes"
+      },
+      "name": "mch_font_size_3",
+      "attributes": {
+        "category": "fontSize",
+        "type": "3"
+      },
+      "path": [
+        "fontSize",
+        "3"
+      ]
+    },
+    "4": {
+      "value": "0.9375rem",
+      "type": "fontSizes",
+      "filePath": "src/App.json",
+      "isSource": true,
+      "original": {
+        "value": "15",
+        "type": "fontSizes"
+      },
+      "name": "mch_font_size_4",
+      "attributes": {
+        "category": "fontSize",
+        "type": "4"
+      },
+      "path": [
+        "fontSize",
+        "4"
+      ]
+    },
+    "5": {
+      "value": "1rem",
+      "type": "fontSizes",
+      "filePath": "src/App.json",
+      "isSource": true,
+      "original": {
+        "value": "16",
+        "type": "fontSizes"
+      },
+      "name": "mch_font_size_5",
+      "attributes": {
+        "category": "fontSize",
+        "type": "5"
+      },
+      "path": [
+        "fontSize",
+        "5"
+      ]
+    },
+    "6": {
+      "value": "1.0625rem",
+      "type": "fontSizes",
+      "filePath": "src/App.json",
+      "isSource": true,
+      "original": {
+        "value": "17",
+        "type": "fontSizes"
+      },
+      "name": "mch_font_size_6",
+      "attributes": {
+        "category": "fontSize",
+        "type": "6"
+      },
+      "path": [
+        "fontSize",
+        "6"
+      ]
+    },
+    "7": {
+      "value": "1.25rem",
+      "type": "fontSizes",
+      "filePath": "src/App.json",
+      "isSource": true,
+      "original": {
+        "value": "20",
+        "type": "fontSizes"
+      },
+      "name": "mch_font_size_7",
+      "attributes": {
+        "category": "fontSize",
+        "type": "7"
+      },
+      "path": [
+        "fontSize",
+        "7"
+      ]
+    },
+    "8": {
+      "value": "1.375rem",
+      "type": "fontSizes",
+      "filePath": "src/App.json",
+      "isSource": true,
+      "original": {
+        "value": "22",
+        "type": "fontSizes"
+      },
+      "name": "mch_font_size_8",
+      "attributes": {
+        "category": "fontSize",
+        "type": "8"
+      },
+      "path": [
+        "fontSize",
+        "8"
+      ]
+    },
+    "9": {
+      "value": "1.75rem",
+      "type": "fontSizes",
+      "filePath": "src/App.json",
+      "isSource": true,
+      "original": {
+        "value": "28",
+        "type": "fontSizes"
+      },
+      "name": "mch_font_size_9",
+      "attributes": {
+        "category": "fontSize",
+        "type": "9"
+      },
+      "path": [
+        "fontSize",
+        "9"
+      ]
+    },
+    "10": {
+      "value": "2.125rem",
+      "type": "fontSizes",
+      "filePath": "src/App.json",
+      "isSource": true,
+      "original": {
+        "value": "34",
+        "type": "fontSizes"
+      },
+      "name": "mch_font_size_10",
+      "attributes": {
+        "category": "fontSize",
+        "type": "10"
+      },
+      "path": [
+        "fontSize",
+        "10"
+      ]
+    },
     "11": {
       "value": "2.375rem",
       "type": "fontSizes",
@@ -2100,6 +2594,25 @@ module.exports = {
     }
   },
   "letterSpacing": {
+    "0": {
+      "value": "0",
+      "type": "letterSpacing",
+      "filePath": "src/App.json",
+      "isSource": true,
+      "original": {
+        "value": "0",
+        "type": "letterSpacing"
+      },
+      "name": "mch_letter_spacing_0",
+      "attributes": {
+        "category": "letterSpacing",
+        "type": "0"
+      },
+      "path": [
+        "letterSpacing",
+        "0"
+      ]
+    },
     "1": {
       "value": "0%",
       "type": "letterSpacing",
@@ -2197,6 +2710,25 @@ module.exports = {
     }
   },
   "paragraphSpacing": {
+    "0": {
+      "value": "0",
+      "type": "paragraphSpacing",
+      "filePath": "src/App.json",
+      "isSource": true,
+      "original": {
+        "value": "0",
+        "type": "paragraphSpacing"
+      },
+      "name": "mch_paragraph_spacing_0",
+      "attributes": {
+        "category": "paragraphSpacing",
+        "type": "0"
+      },
+      "path": [
+        "paragraphSpacing",
+        "0"
+      ]
+    },
     "1": {
       "value": "4",
       "type": "paragraphSpacing",
@@ -16360,7 +16892,85 @@ module.exports = {
       ]
     }
   },
+  "textCase": {
+    "none": {
+      "value": "none",
+      "type": "textCase",
+      "filePath": "src/App.json",
+      "isSource": true,
+      "original": {
+        "value": "none",
+        "type": "textCase"
+      },
+      "name": "mch_text_case_none",
+      "attributes": {
+        "category": "textCase",
+        "type": "none"
+      },
+      "path": [
+        "textCase",
+        "none"
+      ]
+    },
+    "uppercase": {
+      "value": "uppercase",
+      "type": "textCase",
+      "filePath": "src/App.json",
+      "isSource": true,
+      "original": {
+        "value": "uppercase",
+        "type": "textCase"
+      },
+      "name": "mch_text_case_uppercase",
+      "attributes": {
+        "category": "textCase",
+        "type": "uppercase"
+      },
+      "path": [
+        "textCase",
+        "uppercase"
+      ]
+    },
+    "capitalize": {
+      "value": "capitalize",
+      "type": "textCase",
+      "filePath": "src/App.json",
+      "isSource": true,
+      "original": {
+        "value": "capitalize",
+        "type": "textCase"
+      },
+      "name": "mch_text_case_capitalize",
+      "attributes": {
+        "category": "textCase",
+        "type": "capitalize"
+      },
+      "path": [
+        "textCase",
+        "capitalize"
+      ]
+    }
+  },
   "textDecoration": {
+    "none": {
+      "value": "none",
+      "type": "textDecoration",
+      "filePath": "src/App.json",
+      "isSource": true,
+      "original": {
+        "value": "none",
+        "type": "textDecoration"
+      },
+      "name": "mch_text_decoration_none",
+      "attributes": {
+        "category": "textDecoration",
+        "type": "none"
+      },
+      "path": [
+        "textDecoration",
+        "none"
+      ]
+    },
     "underline": {
       "value": "underline",
       "type": "textDecoration",
@@ -16378,6 +16988,27 @@ module.exports = {
       "path": [
         "textDecoration",
         "underline"
+      ]
+    }
+  },
+  "paragraphIndent": {
+    "0": {
+      "value": "0px",
+      "type": "dimension",
+      "filePath": "src/App.json",
+      "isSource": true,
+      "original": {
+        "value": "0px",
+        "type": "dimension"
+      },
+      "name": "mch_paragraph_indent_0",
+      "attributes": {
+        "category": "paragraphIndent",
+        "type": "0"
+      },
+      "path": [
+        "paragraphIndent",
+        "0"
       ]
     }
   },
@@ -16735,6 +17366,3444 @@ module.exports = {
         "max-width",
         "2xl"
       ]
+    }
+  },
+  "App": {
+    "Elevations": {
+      "01": {
+        "1": {
+          "color": {
+            "value": "#1d23271a",
+            "type": "color",
+            "filePath": "src/App.json",
+            "isSource": true,
+            "original": {
+              "value": "#1d23271a",
+              "type": "color"
+            },
+            "name": "mch_app_elevations_01_1_color",
+            "attributes": {
+              "category": "App",
+              "type": "Elevations",
+              "item": "01",
+              "subitem": "1",
+              "state": "color"
+            },
+            "path": [
+              "App",
+              "Elevations",
+              "01",
+              "1",
+              "color"
+            ]
+          },
+          "type": {
+            "value": "dropShadow",
+            "type": "other",
+            "filePath": "src/App.json",
+            "isSource": true,
+            "original": {
+              "value": "dropShadow",
+              "type": "other"
+            },
+            "name": "mch_app_elevations_01_1_type",
+            "attributes": {
+              "category": "App",
+              "type": "Elevations",
+              "item": "01",
+              "subitem": "1",
+              "state": "type"
+            },
+            "path": [
+              "App",
+              "Elevations",
+              "01",
+              "1",
+              "type"
+            ]
+          },
+          "x": {
+            "value": "0",
+            "type": "dimension",
+            "filePath": "src/App.json",
+            "isSource": true,
+            "original": {
+              "value": "0",
+              "type": "dimension"
+            },
+            "name": "mch_app_elevations_01_1_x",
+            "attributes": {
+              "category": "App",
+              "type": "Elevations",
+              "item": "01",
+              "subitem": "1",
+              "state": "x"
+            },
+            "path": [
+              "App",
+              "Elevations",
+              "01",
+              "1",
+              "x"
+            ]
+          },
+          "y": {
+            "value": "1",
+            "type": "dimension",
+            "filePath": "src/App.json",
+            "isSource": true,
+            "original": {
+              "value": "1",
+              "type": "dimension"
+            },
+            "name": "mch_app_elevations_01_1_y",
+            "attributes": {
+              "category": "App",
+              "type": "Elevations",
+              "item": "01",
+              "subitem": "1",
+              "state": "y"
+            },
+            "path": [
+              "App",
+              "Elevations",
+              "01",
+              "1",
+              "y"
+            ]
+          },
+          "blur": {
+            "value": "4",
+            "type": "dimension",
+            "filePath": "src/App.json",
+            "isSource": true,
+            "original": {
+              "value": "4",
+              "type": "dimension"
+            },
+            "name": "mch_app_elevations_01_1_blur",
+            "attributes": {
+              "category": "App",
+              "type": "Elevations",
+              "item": "01",
+              "subitem": "1",
+              "state": "blur"
+            },
+            "path": [
+              "App",
+              "Elevations",
+              "01",
+              "1",
+              "blur"
+            ]
+          },
+          "spread": {
+            "value": "0",
+            "type": "dimension",
+            "filePath": "src/App.json",
+            "isSource": true,
+            "original": {
+              "value": "0",
+              "type": "dimension"
+            },
+            "name": "mch_app_elevations_01_1_spread",
+            "attributes": {
+              "category": "App",
+              "type": "Elevations",
+              "item": "01",
+              "subitem": "1",
+              "state": "spread"
+            },
+            "path": [
+              "App",
+              "Elevations",
+              "01",
+              "1",
+              "spread"
+            ]
+          }
+        },
+        "2": {
+          "color": {
+            "value": "#1d23271a",
+            "type": "color",
+            "filePath": "src/App.json",
+            "isSource": true,
+            "original": {
+              "value": "#1d23271a",
+              "type": "color"
+            },
+            "name": "mch_app_elevations_01_2_color",
+            "attributes": {
+              "category": "App",
+              "type": "Elevations",
+              "item": "01",
+              "subitem": "2",
+              "state": "color"
+            },
+            "path": [
+              "App",
+              "Elevations",
+              "01",
+              "2",
+              "color"
+            ]
+          },
+          "type": {
+            "value": "dropShadow",
+            "type": "other",
+            "filePath": "src/App.json",
+            "isSource": true,
+            "original": {
+              "value": "dropShadow",
+              "type": "other"
+            },
+            "name": "mch_app_elevations_01_2_type",
+            "attributes": {
+              "category": "App",
+              "type": "Elevations",
+              "item": "01",
+              "subitem": "2",
+              "state": "type"
+            },
+            "path": [
+              "App",
+              "Elevations",
+              "01",
+              "2",
+              "type"
+            ]
+          },
+          "x": {
+            "value": "0",
+            "type": "dimension",
+            "filePath": "src/App.json",
+            "isSource": true,
+            "original": {
+              "value": "0",
+              "type": "dimension"
+            },
+            "name": "mch_app_elevations_01_2_x",
+            "attributes": {
+              "category": "App",
+              "type": "Elevations",
+              "item": "01",
+              "subitem": "2",
+              "state": "x"
+            },
+            "path": [
+              "App",
+              "Elevations",
+              "01",
+              "2",
+              "x"
+            ]
+          },
+          "y": {
+            "value": "0",
+            "type": "dimension",
+            "filePath": "src/App.json",
+            "isSource": true,
+            "original": {
+              "value": "0",
+              "type": "dimension"
+            },
+            "name": "mch_app_elevations_01_2_y",
+            "attributes": {
+              "category": "App",
+              "type": "Elevations",
+              "item": "01",
+              "subitem": "2",
+              "state": "y"
+            },
+            "path": [
+              "App",
+              "Elevations",
+              "01",
+              "2",
+              "y"
+            ]
+          },
+          "blur": {
+            "value": "4",
+            "type": "dimension",
+            "filePath": "src/App.json",
+            "isSource": true,
+            "original": {
+              "value": "4",
+              "type": "dimension"
+            },
+            "name": "mch_app_elevations_01_2_blur",
+            "attributes": {
+              "category": "App",
+              "type": "Elevations",
+              "item": "01",
+              "subitem": "2",
+              "state": "blur"
+            },
+            "path": [
+              "App",
+              "Elevations",
+              "01",
+              "2",
+              "blur"
+            ]
+          },
+          "spread": {
+            "value": "0",
+            "type": "dimension",
+            "filePath": "src/App.json",
+            "isSource": true,
+            "original": {
+              "value": "0",
+              "type": "dimension"
+            },
+            "name": "mch_app_elevations_01_2_spread",
+            "attributes": {
+              "category": "App",
+              "type": "Elevations",
+              "item": "01",
+              "subitem": "2",
+              "state": "spread"
+            },
+            "path": [
+              "App",
+              "Elevations",
+              "01",
+              "2",
+              "spread"
+            ]
+          }
+        }
+      },
+      "02": {
+        "1": {
+          "color": {
+            "value": "#1d23271a",
+            "type": "color",
+            "filePath": "src/App.json",
+            "isSource": true,
+            "original": {
+              "value": "#1d23271a",
+              "type": "color"
+            },
+            "name": "mch_app_elevations_02_1_color",
+            "attributes": {
+              "category": "App",
+              "type": "Elevations",
+              "item": "02",
+              "subitem": "1",
+              "state": "color"
+            },
+            "path": [
+              "App",
+              "Elevations",
+              "02",
+              "1",
+              "color"
+            ]
+          },
+          "type": {
+            "value": "dropShadow",
+            "type": "other",
+            "filePath": "src/App.json",
+            "isSource": true,
+            "original": {
+              "value": "dropShadow",
+              "type": "other"
+            },
+            "name": "mch_app_elevations_02_1_type",
+            "attributes": {
+              "category": "App",
+              "type": "Elevations",
+              "item": "02",
+              "subitem": "1",
+              "state": "type"
+            },
+            "path": [
+              "App",
+              "Elevations",
+              "02",
+              "1",
+              "type"
+            ]
+          },
+          "x": {
+            "value": "0",
+            "type": "dimension",
+            "filePath": "src/App.json",
+            "isSource": true,
+            "original": {
+              "value": "0",
+              "type": "dimension"
+            },
+            "name": "mch_app_elevations_02_1_x",
+            "attributes": {
+              "category": "App",
+              "type": "Elevations",
+              "item": "02",
+              "subitem": "1",
+              "state": "x"
+            },
+            "path": [
+              "App",
+              "Elevations",
+              "02",
+              "1",
+              "x"
+            ]
+          },
+          "y": {
+            "value": "4",
+            "type": "dimension",
+            "filePath": "src/App.json",
+            "isSource": true,
+            "original": {
+              "value": "4",
+              "type": "dimension"
+            },
+            "name": "mch_app_elevations_02_1_y",
+            "attributes": {
+              "category": "App",
+              "type": "Elevations",
+              "item": "02",
+              "subitem": "1",
+              "state": "y"
+            },
+            "path": [
+              "App",
+              "Elevations",
+              "02",
+              "1",
+              "y"
+            ]
+          },
+          "blur": {
+            "value": "8",
+            "type": "dimension",
+            "filePath": "src/App.json",
+            "isSource": true,
+            "original": {
+              "value": "8",
+              "type": "dimension"
+            },
+            "name": "mch_app_elevations_02_1_blur",
+            "attributes": {
+              "category": "App",
+              "type": "Elevations",
+              "item": "02",
+              "subitem": "1",
+              "state": "blur"
+            },
+            "path": [
+              "App",
+              "Elevations",
+              "02",
+              "1",
+              "blur"
+            ]
+          },
+          "spread": {
+            "value": "0",
+            "type": "dimension",
+            "filePath": "src/App.json",
+            "isSource": true,
+            "original": {
+              "value": "0",
+              "type": "dimension"
+            },
+            "name": "mch_app_elevations_02_1_spread",
+            "attributes": {
+              "category": "App",
+              "type": "Elevations",
+              "item": "02",
+              "subitem": "1",
+              "state": "spread"
+            },
+            "path": [
+              "App",
+              "Elevations",
+              "02",
+              "1",
+              "spread"
+            ]
+          }
+        },
+        "2": {
+          "color": {
+            "value": "#1d23271a",
+            "type": "color",
+            "filePath": "src/App.json",
+            "isSource": true,
+            "original": {
+              "value": "#1d23271a",
+              "type": "color"
+            },
+            "name": "mch_app_elevations_02_2_color",
+            "attributes": {
+              "category": "App",
+              "type": "Elevations",
+              "item": "02",
+              "subitem": "2",
+              "state": "color"
+            },
+            "path": [
+              "App",
+              "Elevations",
+              "02",
+              "2",
+              "color"
+            ]
+          },
+          "type": {
+            "value": "dropShadow",
+            "type": "other",
+            "filePath": "src/App.json",
+            "isSource": true,
+            "original": {
+              "value": "dropShadow",
+              "type": "other"
+            },
+            "name": "mch_app_elevations_02_2_type",
+            "attributes": {
+              "category": "App",
+              "type": "Elevations",
+              "item": "02",
+              "subitem": "2",
+              "state": "type"
+            },
+            "path": [
+              "App",
+              "Elevations",
+              "02",
+              "2",
+              "type"
+            ]
+          },
+          "x": {
+            "value": "0",
+            "type": "dimension",
+            "filePath": "src/App.json",
+            "isSource": true,
+            "original": {
+              "value": "0",
+              "type": "dimension"
+            },
+            "name": "mch_app_elevations_02_2_x",
+            "attributes": {
+              "category": "App",
+              "type": "Elevations",
+              "item": "02",
+              "subitem": "2",
+              "state": "x"
+            },
+            "path": [
+              "App",
+              "Elevations",
+              "02",
+              "2",
+              "x"
+            ]
+          },
+          "y": {
+            "value": "2",
+            "type": "dimension",
+            "filePath": "src/App.json",
+            "isSource": true,
+            "original": {
+              "value": "2",
+              "type": "dimension"
+            },
+            "name": "mch_app_elevations_02_2_y",
+            "attributes": {
+              "category": "App",
+              "type": "Elevations",
+              "item": "02",
+              "subitem": "2",
+              "state": "y"
+            },
+            "path": [
+              "App",
+              "Elevations",
+              "02",
+              "2",
+              "y"
+            ]
+          },
+          "blur": {
+            "value": "4",
+            "type": "dimension",
+            "filePath": "src/App.json",
+            "isSource": true,
+            "original": {
+              "value": "4",
+              "type": "dimension"
+            },
+            "name": "mch_app_elevations_02_2_blur",
+            "attributes": {
+              "category": "App",
+              "type": "Elevations",
+              "item": "02",
+              "subitem": "2",
+              "state": "blur"
+            },
+            "path": [
+              "App",
+              "Elevations",
+              "02",
+              "2",
+              "blur"
+            ]
+          },
+          "spread": {
+            "value": "0",
+            "type": "dimension",
+            "filePath": "src/App.json",
+            "isSource": true,
+            "original": {
+              "value": "0",
+              "type": "dimension"
+            },
+            "name": "mch_app_elevations_02_2_spread",
+            "attributes": {
+              "category": "App",
+              "type": "Elevations",
+              "item": "02",
+              "subitem": "2",
+              "state": "spread"
+            },
+            "path": [
+              "App",
+              "Elevations",
+              "02",
+              "2",
+              "spread"
+            ]
+          }
+        }
+      },
+      "03": {
+        "1": {
+          "color": {
+            "value": "#1d23271a",
+            "type": "color",
+            "filePath": "src/App.json",
+            "isSource": true,
+            "original": {
+              "value": "#1d23271a",
+              "type": "color"
+            },
+            "name": "mch_app_elevations_03_1_color",
+            "attributes": {
+              "category": "App",
+              "type": "Elevations",
+              "item": "03",
+              "subitem": "1",
+              "state": "color"
+            },
+            "path": [
+              "App",
+              "Elevations",
+              "03",
+              "1",
+              "color"
+            ]
+          },
+          "type": {
+            "value": "dropShadow",
+            "type": "other",
+            "filePath": "src/App.json",
+            "isSource": true,
+            "original": {
+              "value": "dropShadow",
+              "type": "other"
+            },
+            "name": "mch_app_elevations_03_1_type",
+            "attributes": {
+              "category": "App",
+              "type": "Elevations",
+              "item": "03",
+              "subitem": "1",
+              "state": "type"
+            },
+            "path": [
+              "App",
+              "Elevations",
+              "03",
+              "1",
+              "type"
+            ]
+          },
+          "x": {
+            "value": "0",
+            "type": "dimension",
+            "filePath": "src/App.json",
+            "isSource": true,
+            "original": {
+              "value": "0",
+              "type": "dimension"
+            },
+            "name": "mch_app_elevations_03_1_x",
+            "attributes": {
+              "category": "App",
+              "type": "Elevations",
+              "item": "03",
+              "subitem": "1",
+              "state": "x"
+            },
+            "path": [
+              "App",
+              "Elevations",
+              "03",
+              "1",
+              "x"
+            ]
+          },
+          "y": {
+            "value": "8",
+            "type": "dimension",
+            "filePath": "src/App.json",
+            "isSource": true,
+            "original": {
+              "value": "8",
+              "type": "dimension"
+            },
+            "name": "mch_app_elevations_03_1_y",
+            "attributes": {
+              "category": "App",
+              "type": "Elevations",
+              "item": "03",
+              "subitem": "1",
+              "state": "y"
+            },
+            "path": [
+              "App",
+              "Elevations",
+              "03",
+              "1",
+              "y"
+            ]
+          },
+          "blur": {
+            "value": "16",
+            "type": "dimension",
+            "filePath": "src/App.json",
+            "isSource": true,
+            "original": {
+              "value": "16",
+              "type": "dimension"
+            },
+            "name": "mch_app_elevations_03_1_blur",
+            "attributes": {
+              "category": "App",
+              "type": "Elevations",
+              "item": "03",
+              "subitem": "1",
+              "state": "blur"
+            },
+            "path": [
+              "App",
+              "Elevations",
+              "03",
+              "1",
+              "blur"
+            ]
+          },
+          "spread": {
+            "value": "0",
+            "type": "dimension",
+            "filePath": "src/App.json",
+            "isSource": true,
+            "original": {
+              "value": "0",
+              "type": "dimension"
+            },
+            "name": "mch_app_elevations_03_1_spread",
+            "attributes": {
+              "category": "App",
+              "type": "Elevations",
+              "item": "03",
+              "subitem": "1",
+              "state": "spread"
+            },
+            "path": [
+              "App",
+              "Elevations",
+              "03",
+              "1",
+              "spread"
+            ]
+          }
+        },
+        "2": {
+          "color": {
+            "value": "#1d23271a",
+            "type": "color",
+            "filePath": "src/App.json",
+            "isSource": true,
+            "original": {
+              "value": "#1d23271a",
+              "type": "color"
+            },
+            "name": "mch_app_elevations_03_2_color",
+            "attributes": {
+              "category": "App",
+              "type": "Elevations",
+              "item": "03",
+              "subitem": "2",
+              "state": "color"
+            },
+            "path": [
+              "App",
+              "Elevations",
+              "03",
+              "2",
+              "color"
+            ]
+          },
+          "type": {
+            "value": "dropShadow",
+            "type": "other",
+            "filePath": "src/App.json",
+            "isSource": true,
+            "original": {
+              "value": "dropShadow",
+              "type": "other"
+            },
+            "name": "mch_app_elevations_03_2_type",
+            "attributes": {
+              "category": "App",
+              "type": "Elevations",
+              "item": "03",
+              "subitem": "2",
+              "state": "type"
+            },
+            "path": [
+              "App",
+              "Elevations",
+              "03",
+              "2",
+              "type"
+            ]
+          },
+          "x": {
+            "value": "0",
+            "type": "dimension",
+            "filePath": "src/App.json",
+            "isSource": true,
+            "original": {
+              "value": "0",
+              "type": "dimension"
+            },
+            "name": "mch_app_elevations_03_2_x",
+            "attributes": {
+              "category": "App",
+              "type": "Elevations",
+              "item": "03",
+              "subitem": "2",
+              "state": "x"
+            },
+            "path": [
+              "App",
+              "Elevations",
+              "03",
+              "2",
+              "x"
+            ]
+          },
+          "y": {
+            "value": "4",
+            "type": "dimension",
+            "filePath": "src/App.json",
+            "isSource": true,
+            "original": {
+              "value": "4",
+              "type": "dimension"
+            },
+            "name": "mch_app_elevations_03_2_y",
+            "attributes": {
+              "category": "App",
+              "type": "Elevations",
+              "item": "03",
+              "subitem": "2",
+              "state": "y"
+            },
+            "path": [
+              "App",
+              "Elevations",
+              "03",
+              "2",
+              "y"
+            ]
+          },
+          "blur": {
+            "value": "8",
+            "type": "dimension",
+            "filePath": "src/App.json",
+            "isSource": true,
+            "original": {
+              "value": "8",
+              "type": "dimension"
+            },
+            "name": "mch_app_elevations_03_2_blur",
+            "attributes": {
+              "category": "App",
+              "type": "Elevations",
+              "item": "03",
+              "subitem": "2",
+              "state": "blur"
+            },
+            "path": [
+              "App",
+              "Elevations",
+              "03",
+              "2",
+              "blur"
+            ]
+          },
+          "spread": {
+            "value": "0",
+            "type": "dimension",
+            "filePath": "src/App.json",
+            "isSource": true,
+            "original": {
+              "value": "0",
+              "type": "dimension"
+            },
+            "name": "mch_app_elevations_03_2_spread",
+            "attributes": {
+              "category": "App",
+              "type": "Elevations",
+              "item": "03",
+              "subitem": "2",
+              "state": "spread"
+            },
+            "path": [
+              "App",
+              "Elevations",
+              "03",
+              "2",
+              "spread"
+            ]
+          }
+        }
+      }
+    },
+    "Headings": {
+      "Large Title": {
+        "fontFamily": {
+          "value": "Art Basel Headline",
+          "type": "fontFamilies",
+          "filePath": "src/App.json",
+          "isSource": true,
+          "original": {
+            "value": "{fontFamilies.art-basel-headline}",
+            "type": "fontFamilies"
+          },
+          "name": "mch_app_headings_large_title_font_family",
+          "attributes": {
+            "category": "App",
+            "type": "Headings",
+            "item": "Large Title",
+            "subitem": "fontFamily"
+          },
+          "path": [
+            "App",
+            "Headings",
+            "Large Title",
+            "fontFamily"
+          ]
+        },
+        "fontWeight": {
+          "value": "700",
+          "type": "fontWeights",
+          "filePath": "src/App.json",
+          "isSource": true,
+          "original": {
+            "value": "{fontWeights.art-basel-headline-0}",
+            "type": "fontWeights"
+          },
+          "name": "mch_app_headings_large_title_font_weight",
+          "attributes": {
+            "category": "App",
+            "type": "Headings",
+            "item": "Large Title",
+            "subitem": "fontWeight"
+          },
+          "path": [
+            "App",
+            "Headings",
+            "Large Title",
+            "fontWeight"
+          ]
+        },
+        "lineHeight": {
+          "value": "2.5625rem",
+          "type": "lineHeights",
+          "filePath": "src/App.json",
+          "isSource": true,
+          "original": {
+            "value": "{lineHeights.0}",
+            "type": "lineHeights"
+          },
+          "name": "mch_app_headings_large_title_line_height",
+          "attributes": {
+            "category": "App",
+            "type": "Headings",
+            "item": "Large Title",
+            "subitem": "lineHeight"
+          },
+          "path": [
+            "App",
+            "Headings",
+            "Large Title",
+            "lineHeight"
+          ]
+        },
+        "fontSize": {
+          "value": "2.125rem",
+          "type": "fontSizes",
+          "filePath": "src/App.json",
+          "isSource": true,
+          "original": {
+            "value": "{fontSize.10}",
+            "type": "fontSizes"
+          },
+          "name": "mch_app_headings_large_title_font_size",
+          "attributes": {
+            "category": "App",
+            "type": "Headings",
+            "item": "Large Title",
+            "subitem": "fontSize"
+          },
+          "path": [
+            "App",
+            "Headings",
+            "Large Title",
+            "fontSize"
+          ]
+        },
+        "letterSpacing": {
+          "value": "0",
+          "type": "letterSpacing",
+          "filePath": "src/App.json",
+          "isSource": true,
+          "original": {
+            "value": "{letterSpacing.0}",
+            "type": "letterSpacing"
+          },
+          "name": "mch_app_headings_large_title_letter_spacing",
+          "attributes": {
+            "category": "App",
+            "type": "Headings",
+            "item": "Large Title",
+            "subitem": "letterSpacing"
+          },
+          "path": [
+            "App",
+            "Headings",
+            "Large Title",
+            "letterSpacing"
+          ]
+        },
+        "paragraphSpacing": {
+          "value": "0",
+          "type": "paragraphSpacing",
+          "filePath": "src/App.json",
+          "isSource": true,
+          "original": {
+            "value": "{paragraphSpacing.0}",
+            "type": "paragraphSpacing"
+          },
+          "name": "mch_app_headings_large_title_paragraph_spacing",
+          "attributes": {
+            "category": "App",
+            "type": "Headings",
+            "item": "Large Title",
+            "subitem": "paragraphSpacing"
+          },
+          "path": [
+            "App",
+            "Headings",
+            "Large Title",
+            "paragraphSpacing"
+          ]
+        },
+        "paragraphIndent": {
+          "value": 0,
+          "type": "paragraphIndent",
+          "filePath": "src/App.json",
+          "isSource": true,
+          "original": {
+            "value": "{paragraphIndent.0}",
+            "type": "paragraphIndent"
+          },
+          "name": "mch_app_headings_large_title_paragraph_indent",
+          "attributes": {
+            "category": "App",
+            "type": "Headings",
+            "item": "Large Title",
+            "subitem": "paragraphIndent"
+          },
+          "path": [
+            "App",
+            "Headings",
+            "Large Title",
+            "paragraphIndent"
+          ]
+        },
+        "textCase": {
+          "value": "none",
+          "type": "textCase",
+          "filePath": "src/App.json",
+          "isSource": true,
+          "original": {
+            "value": "{textCase.none}",
+            "type": "textCase"
+          },
+          "name": "mch_app_headings_large_title_text_case",
+          "attributes": {
+            "category": "App",
+            "type": "Headings",
+            "item": "Large Title",
+            "subitem": "textCase"
+          },
+          "path": [
+            "App",
+            "Headings",
+            "Large Title",
+            "textCase"
+          ]
+        },
+        "textDecoration": {
+          "value": "none",
+          "type": "textDecoration",
+          "filePath": "src/App.json",
+          "isSource": true,
+          "original": {
+            "value": "{textDecoration.none}",
+            "type": "textDecoration"
+          },
+          "name": "mch_app_headings_large_title_text_decoration",
+          "attributes": {
+            "category": "App",
+            "type": "Headings",
+            "item": "Large Title",
+            "subitem": "textDecoration"
+          },
+          "path": [
+            "App",
+            "Headings",
+            "Large Title",
+            "textDecoration"
+          ]
+        }
+      },
+      "H1": {
+        "fontFamily": {
+          "value": "Art Basel Headline",
+          "type": "fontFamilies",
+          "filePath": "src/App.json",
+          "isSource": true,
+          "original": {
+            "value": "{fontFamilies.art-basel-headline}",
+            "type": "fontFamilies"
+          },
+          "name": "mch_app_headings_h1_font_family",
+          "attributes": {
+            "category": "App",
+            "type": "Headings",
+            "item": "H1",
+            "subitem": "fontFamily"
+          },
+          "path": [
+            "App",
+            "Headings",
+            "H1",
+            "fontFamily"
+          ]
+        },
+        "fontWeight": {
+          "value": "700",
+          "type": "fontWeights",
+          "filePath": "src/App.json",
+          "isSource": true,
+          "original": {
+            "value": "{fontWeights.art-basel-headline-0}",
+            "type": "fontWeights"
+          },
+          "name": "mch_app_headings_h1_font_weight",
+          "attributes": {
+            "category": "App",
+            "type": "Headings",
+            "item": "H1",
+            "subitem": "fontWeight"
+          },
+          "path": [
+            "App",
+            "Headings",
+            "H1",
+            "fontWeight"
+          ]
+        },
+        "lineHeight": {
+          "value": "2.125rem",
+          "type": "lineHeights",
+          "filePath": "src/App.json",
+          "isSource": true,
+          "original": {
+            "value": "{lineHeights.1}",
+            "type": "lineHeights"
+          },
+          "name": "mch_app_headings_h1_line_height",
+          "attributes": {
+            "category": "App",
+            "type": "Headings",
+            "item": "H1",
+            "subitem": "lineHeight"
+          },
+          "path": [
+            "App",
+            "Headings",
+            "H1",
+            "lineHeight"
+          ]
+        },
+        "fontSize": {
+          "value": "1.75rem",
+          "type": "fontSizes",
+          "filePath": "src/App.json",
+          "isSource": true,
+          "original": {
+            "value": "{fontSize.9}",
+            "type": "fontSizes"
+          },
+          "name": "mch_app_headings_h1_font_size",
+          "attributes": {
+            "category": "App",
+            "type": "Headings",
+            "item": "H1",
+            "subitem": "fontSize"
+          },
+          "path": [
+            "App",
+            "Headings",
+            "H1",
+            "fontSize"
+          ]
+        },
+        "letterSpacing": {
+          "value": "0",
+          "type": "letterSpacing",
+          "filePath": "src/App.json",
+          "isSource": true,
+          "original": {
+            "value": "{letterSpacing.0}",
+            "type": "letterSpacing"
+          },
+          "name": "mch_app_headings_h1_letter_spacing",
+          "attributes": {
+            "category": "App",
+            "type": "Headings",
+            "item": "H1",
+            "subitem": "letterSpacing"
+          },
+          "path": [
+            "App",
+            "Headings",
+            "H1",
+            "letterSpacing"
+          ]
+        },
+        "paragraphSpacing": {
+          "value": "0",
+          "type": "paragraphSpacing",
+          "filePath": "src/App.json",
+          "isSource": true,
+          "original": {
+            "value": "{paragraphSpacing.0}",
+            "type": "paragraphSpacing"
+          },
+          "name": "mch_app_headings_h1_paragraph_spacing",
+          "attributes": {
+            "category": "App",
+            "type": "Headings",
+            "item": "H1",
+            "subitem": "paragraphSpacing"
+          },
+          "path": [
+            "App",
+            "Headings",
+            "H1",
+            "paragraphSpacing"
+          ]
+        },
+        "paragraphIndent": {
+          "value": 0,
+          "type": "paragraphIndent",
+          "filePath": "src/App.json",
+          "isSource": true,
+          "original": {
+            "value": "{paragraphIndent.0}",
+            "type": "paragraphIndent"
+          },
+          "name": "mch_app_headings_h1_paragraph_indent",
+          "attributes": {
+            "category": "App",
+            "type": "Headings",
+            "item": "H1",
+            "subitem": "paragraphIndent"
+          },
+          "path": [
+            "App",
+            "Headings",
+            "H1",
+            "paragraphIndent"
+          ]
+        },
+        "textCase": {
+          "value": "none",
+          "type": "textCase",
+          "filePath": "src/App.json",
+          "isSource": true,
+          "original": {
+            "value": "{textCase.none}",
+            "type": "textCase"
+          },
+          "name": "mch_app_headings_h1_text_case",
+          "attributes": {
+            "category": "App",
+            "type": "Headings",
+            "item": "H1",
+            "subitem": "textCase"
+          },
+          "path": [
+            "App",
+            "Headings",
+            "H1",
+            "textCase"
+          ]
+        },
+        "textDecoration": {
+          "value": "none",
+          "type": "textDecoration",
+          "filePath": "src/App.json",
+          "isSource": true,
+          "original": {
+            "value": "{textDecoration.none}",
+            "type": "textDecoration"
+          },
+          "name": "mch_app_headings_h1_text_decoration",
+          "attributes": {
+            "category": "App",
+            "type": "Headings",
+            "item": "H1",
+            "subitem": "textDecoration"
+          },
+          "path": [
+            "App",
+            "Headings",
+            "H1",
+            "textDecoration"
+          ]
+        }
+      },
+      "H2": {
+        "fontFamily": {
+          "value": "Art Basel Headline",
+          "type": "fontFamilies",
+          "filePath": "src/App.json",
+          "isSource": true,
+          "original": {
+            "value": "{fontFamilies.art-basel-headline}",
+            "type": "fontFamilies"
+          },
+          "name": "mch_app_headings_h2_font_family",
+          "attributes": {
+            "category": "App",
+            "type": "Headings",
+            "item": "H2",
+            "subitem": "fontFamily"
+          },
+          "path": [
+            "App",
+            "Headings",
+            "H2",
+            "fontFamily"
+          ]
+        },
+        "fontWeight": {
+          "value": "700",
+          "type": "fontWeights",
+          "filePath": "src/App.json",
+          "isSource": true,
+          "original": {
+            "value": "{fontWeights.art-basel-headline-0}",
+            "type": "fontWeights"
+          },
+          "name": "mch_app_headings_h2_font_weight",
+          "attributes": {
+            "category": "App",
+            "type": "Headings",
+            "item": "H2",
+            "subitem": "fontWeight"
+          },
+          "path": [
+            "App",
+            "Headings",
+            "H2",
+            "fontWeight"
+          ]
+        },
+        "lineHeight": {
+          "value": "1.75rem",
+          "type": "lineHeights",
+          "filePath": "src/App.json",
+          "isSource": true,
+          "original": {
+            "value": "{lineHeights.2}",
+            "type": "lineHeights"
+          },
+          "name": "mch_app_headings_h2_line_height",
+          "attributes": {
+            "category": "App",
+            "type": "Headings",
+            "item": "H2",
+            "subitem": "lineHeight"
+          },
+          "path": [
+            "App",
+            "Headings",
+            "H2",
+            "lineHeight"
+          ]
+        },
+        "fontSize": {
+          "value": "1.375rem",
+          "type": "fontSizes",
+          "filePath": "src/App.json",
+          "isSource": true,
+          "original": {
+            "value": "{fontSize.8}",
+            "type": "fontSizes"
+          },
+          "name": "mch_app_headings_h2_font_size",
+          "attributes": {
+            "category": "App",
+            "type": "Headings",
+            "item": "H2",
+            "subitem": "fontSize"
+          },
+          "path": [
+            "App",
+            "Headings",
+            "H2",
+            "fontSize"
+          ]
+        },
+        "letterSpacing": {
+          "value": "0",
+          "type": "letterSpacing",
+          "filePath": "src/App.json",
+          "isSource": true,
+          "original": {
+            "value": "{letterSpacing.0}",
+            "type": "letterSpacing"
+          },
+          "name": "mch_app_headings_h2_letter_spacing",
+          "attributes": {
+            "category": "App",
+            "type": "Headings",
+            "item": "H2",
+            "subitem": "letterSpacing"
+          },
+          "path": [
+            "App",
+            "Headings",
+            "H2",
+            "letterSpacing"
+          ]
+        },
+        "paragraphSpacing": {
+          "value": "0",
+          "type": "paragraphSpacing",
+          "filePath": "src/App.json",
+          "isSource": true,
+          "original": {
+            "value": "{paragraphSpacing.0}",
+            "type": "paragraphSpacing"
+          },
+          "name": "mch_app_headings_h2_paragraph_spacing",
+          "attributes": {
+            "category": "App",
+            "type": "Headings",
+            "item": "H2",
+            "subitem": "paragraphSpacing"
+          },
+          "path": [
+            "App",
+            "Headings",
+            "H2",
+            "paragraphSpacing"
+          ]
+        },
+        "paragraphIndent": {
+          "value": 0,
+          "type": "paragraphIndent",
+          "filePath": "src/App.json",
+          "isSource": true,
+          "original": {
+            "value": "{paragraphIndent.0}",
+            "type": "paragraphIndent"
+          },
+          "name": "mch_app_headings_h2_paragraph_indent",
+          "attributes": {
+            "category": "App",
+            "type": "Headings",
+            "item": "H2",
+            "subitem": "paragraphIndent"
+          },
+          "path": [
+            "App",
+            "Headings",
+            "H2",
+            "paragraphIndent"
+          ]
+        },
+        "textCase": {
+          "value": "none",
+          "type": "textCase",
+          "filePath": "src/App.json",
+          "isSource": true,
+          "original": {
+            "value": "{textCase.none}",
+            "type": "textCase"
+          },
+          "name": "mch_app_headings_h2_text_case",
+          "attributes": {
+            "category": "App",
+            "type": "Headings",
+            "item": "H2",
+            "subitem": "textCase"
+          },
+          "path": [
+            "App",
+            "Headings",
+            "H2",
+            "textCase"
+          ]
+        },
+        "textDecoration": {
+          "value": "none",
+          "type": "textDecoration",
+          "filePath": "src/App.json",
+          "isSource": true,
+          "original": {
+            "value": "{textDecoration.none}",
+            "type": "textDecoration"
+          },
+          "name": "mch_app_headings_h2_text_decoration",
+          "attributes": {
+            "category": "App",
+            "type": "Headings",
+            "item": "H2",
+            "subitem": "textDecoration"
+          },
+          "path": [
+            "App",
+            "Headings",
+            "H2",
+            "textDecoration"
+          ]
+        }
+      },
+      "H3": {
+        "fontFamily": {
+          "value": "Art Basel Headline",
+          "type": "fontFamilies",
+          "filePath": "src/App.json",
+          "isSource": true,
+          "original": {
+            "value": "{fontFamilies.art-basel-headline}",
+            "type": "fontFamilies"
+          },
+          "name": "mch_app_headings_h3_font_family",
+          "attributes": {
+            "category": "App",
+            "type": "Headings",
+            "item": "H3",
+            "subitem": "fontFamily"
+          },
+          "path": [
+            "App",
+            "Headings",
+            "H3",
+            "fontFamily"
+          ]
+        },
+        "fontWeight": {
+          "value": "700",
+          "type": "fontWeights",
+          "filePath": "src/App.json",
+          "isSource": true,
+          "original": {
+            "value": "{fontWeights.art-basel-headline-0}",
+            "type": "fontWeights"
+          },
+          "name": "mch_app_headings_h3_font_weight",
+          "attributes": {
+            "category": "App",
+            "type": "Headings",
+            "item": "H3",
+            "subitem": "fontWeight"
+          },
+          "path": [
+            "App",
+            "Headings",
+            "H3",
+            "fontWeight"
+          ]
+        },
+        "lineHeight": {
+          "value": "1.5625rem",
+          "type": "lineHeights",
+          "filePath": "src/App.json",
+          "isSource": true,
+          "original": {
+            "value": "{lineHeights.3}",
+            "type": "lineHeights"
+          },
+          "name": "mch_app_headings_h3_line_height",
+          "attributes": {
+            "category": "App",
+            "type": "Headings",
+            "item": "H3",
+            "subitem": "lineHeight"
+          },
+          "path": [
+            "App",
+            "Headings",
+            "H3",
+            "lineHeight"
+          ]
+        },
+        "fontSize": {
+          "value": "1.25rem",
+          "type": "fontSizes",
+          "filePath": "src/App.json",
+          "isSource": true,
+          "original": {
+            "value": "{fontSize.7}",
+            "type": "fontSizes"
+          },
+          "name": "mch_app_headings_h3_font_size",
+          "attributes": {
+            "category": "App",
+            "type": "Headings",
+            "item": "H3",
+            "subitem": "fontSize"
+          },
+          "path": [
+            "App",
+            "Headings",
+            "H3",
+            "fontSize"
+          ]
+        },
+        "letterSpacing": {
+          "value": "0",
+          "type": "letterSpacing",
+          "filePath": "src/App.json",
+          "isSource": true,
+          "original": {
+            "value": "{letterSpacing.0}",
+            "type": "letterSpacing"
+          },
+          "name": "mch_app_headings_h3_letter_spacing",
+          "attributes": {
+            "category": "App",
+            "type": "Headings",
+            "item": "H3",
+            "subitem": "letterSpacing"
+          },
+          "path": [
+            "App",
+            "Headings",
+            "H3",
+            "letterSpacing"
+          ]
+        },
+        "paragraphSpacing": {
+          "value": "0",
+          "type": "paragraphSpacing",
+          "filePath": "src/App.json",
+          "isSource": true,
+          "original": {
+            "value": "{paragraphSpacing.0}",
+            "type": "paragraphSpacing"
+          },
+          "name": "mch_app_headings_h3_paragraph_spacing",
+          "attributes": {
+            "category": "App",
+            "type": "Headings",
+            "item": "H3",
+            "subitem": "paragraphSpacing"
+          },
+          "path": [
+            "App",
+            "Headings",
+            "H3",
+            "paragraphSpacing"
+          ]
+        },
+        "paragraphIndent": {
+          "value": 0,
+          "type": "paragraphIndent",
+          "filePath": "src/App.json",
+          "isSource": true,
+          "original": {
+            "value": "{paragraphIndent.0}",
+            "type": "paragraphIndent"
+          },
+          "name": "mch_app_headings_h3_paragraph_indent",
+          "attributes": {
+            "category": "App",
+            "type": "Headings",
+            "item": "H3",
+            "subitem": "paragraphIndent"
+          },
+          "path": [
+            "App",
+            "Headings",
+            "H3",
+            "paragraphIndent"
+          ]
+        },
+        "textCase": {
+          "value": "none",
+          "type": "textCase",
+          "filePath": "src/App.json",
+          "isSource": true,
+          "original": {
+            "value": "{textCase.none}",
+            "type": "textCase"
+          },
+          "name": "mch_app_headings_h3_text_case",
+          "attributes": {
+            "category": "App",
+            "type": "Headings",
+            "item": "H3",
+            "subitem": "textCase"
+          },
+          "path": [
+            "App",
+            "Headings",
+            "H3",
+            "textCase"
+          ]
+        },
+        "textDecoration": {
+          "value": "none",
+          "type": "textDecoration",
+          "filePath": "src/App.json",
+          "isSource": true,
+          "original": {
+            "value": "{textDecoration.none}",
+            "type": "textDecoration"
+          },
+          "name": "mch_app_headings_h3_text_decoration",
+          "attributes": {
+            "category": "App",
+            "type": "Headings",
+            "item": "H3",
+            "subitem": "textDecoration"
+          },
+          "path": [
+            "App",
+            "Headings",
+            "H3",
+            "textDecoration"
+          ]
+        }
+      },
+      "H4": {
+        "fontFamily": {
+          "value": "Art Basel Text",
+          "type": "fontFamilies",
+          "filePath": "src/App.json",
+          "isSource": true,
+          "original": {
+            "value": "{fontFamilies.art-basel-text}",
+            "type": "fontFamilies"
+          },
+          "name": "mch_app_headings_h4_font_family",
+          "attributes": {
+            "category": "App",
+            "type": "Headings",
+            "item": "H4",
+            "subitem": "fontFamily"
+          },
+          "path": [
+            "App",
+            "Headings",
+            "H4",
+            "fontFamily"
+          ]
+        },
+        "fontWeight": {
+          "value": "700",
+          "type": "fontWeights",
+          "filePath": "src/App.json",
+          "isSource": true,
+          "original": {
+            "value": "{fontWeights.art-basel-text-1}",
+            "type": "fontWeights"
+          },
+          "name": "mch_app_headings_h4_font_weight",
+          "attributes": {
+            "category": "App",
+            "type": "Headings",
+            "item": "H4",
+            "subitem": "fontWeight"
+          },
+          "path": [
+            "App",
+            "Headings",
+            "H4",
+            "fontWeight"
+          ]
+        },
+        "lineHeight": {
+          "value": "1.375rem",
+          "type": "lineHeights",
+          "filePath": "src/App.json",
+          "isSource": true,
+          "original": {
+            "value": "{lineHeights.4}",
+            "type": "lineHeights"
+          },
+          "name": "mch_app_headings_h4_line_height",
+          "attributes": {
+            "category": "App",
+            "type": "Headings",
+            "item": "H4",
+            "subitem": "lineHeight"
+          },
+          "path": [
+            "App",
+            "Headings",
+            "H4",
+            "lineHeight"
+          ]
+        },
+        "fontSize": {
+          "value": "1.0625rem",
+          "type": "fontSizes",
+          "filePath": "src/App.json",
+          "isSource": true,
+          "original": {
+            "value": "{fontSize.6}",
+            "type": "fontSizes"
+          },
+          "name": "mch_app_headings_h4_font_size",
+          "attributes": {
+            "category": "App",
+            "type": "Headings",
+            "item": "H4",
+            "subitem": "fontSize"
+          },
+          "path": [
+            "App",
+            "Headings",
+            "H4",
+            "fontSize"
+          ]
+        },
+        "letterSpacing": {
+          "value": "0",
+          "type": "letterSpacing",
+          "filePath": "src/App.json",
+          "isSource": true,
+          "original": {
+            "value": "{letterSpacing.0}",
+            "type": "letterSpacing"
+          },
+          "name": "mch_app_headings_h4_letter_spacing",
+          "attributes": {
+            "category": "App",
+            "type": "Headings",
+            "item": "H4",
+            "subitem": "letterSpacing"
+          },
+          "path": [
+            "App",
+            "Headings",
+            "H4",
+            "letterSpacing"
+          ]
+        },
+        "paragraphSpacing": {
+          "value": "0",
+          "type": "paragraphSpacing",
+          "filePath": "src/App.json",
+          "isSource": true,
+          "original": {
+            "value": "{paragraphSpacing.0}",
+            "type": "paragraphSpacing"
+          },
+          "name": "mch_app_headings_h4_paragraph_spacing",
+          "attributes": {
+            "category": "App",
+            "type": "Headings",
+            "item": "H4",
+            "subitem": "paragraphSpacing"
+          },
+          "path": [
+            "App",
+            "Headings",
+            "H4",
+            "paragraphSpacing"
+          ]
+        },
+        "paragraphIndent": {
+          "value": 0,
+          "type": "paragraphIndent",
+          "filePath": "src/App.json",
+          "isSource": true,
+          "original": {
+            "value": "{paragraphIndent.0}",
+            "type": "paragraphIndent"
+          },
+          "name": "mch_app_headings_h4_paragraph_indent",
+          "attributes": {
+            "category": "App",
+            "type": "Headings",
+            "item": "H4",
+            "subitem": "paragraphIndent"
+          },
+          "path": [
+            "App",
+            "Headings",
+            "H4",
+            "paragraphIndent"
+          ]
+        },
+        "textCase": {
+          "value": "none",
+          "type": "textCase",
+          "filePath": "src/App.json",
+          "isSource": true,
+          "original": {
+            "value": "{textCase.none}",
+            "type": "textCase"
+          },
+          "name": "mch_app_headings_h4_text_case",
+          "attributes": {
+            "category": "App",
+            "type": "Headings",
+            "item": "H4",
+            "subitem": "textCase"
+          },
+          "path": [
+            "App",
+            "Headings",
+            "H4",
+            "textCase"
+          ]
+        },
+        "textDecoration": {
+          "value": "none",
+          "type": "textDecoration",
+          "filePath": "src/App.json",
+          "isSource": true,
+          "original": {
+            "value": "{textDecoration.none}",
+            "type": "textDecoration"
+          },
+          "name": "mch_app_headings_h4_text_decoration",
+          "attributes": {
+            "category": "App",
+            "type": "Headings",
+            "item": "H4",
+            "subitem": "textDecoration"
+          },
+          "path": [
+            "App",
+            "Headings",
+            "H4",
+            "textDecoration"
+          ]
+        }
+      },
+      "Subhead": {
+        "fontFamily": {
+          "value": "Art Basel Text",
+          "type": "fontFamilies",
+          "filePath": "src/App.json",
+          "isSource": true,
+          "original": {
+            "value": "{fontFamilies.art-basel-text}",
+            "type": "fontFamilies"
+          },
+          "name": "mch_app_headings_subhead_font_family",
+          "attributes": {
+            "category": "App",
+            "type": "Headings",
+            "item": "Subhead",
+            "subitem": "fontFamily"
+          },
+          "path": [
+            "App",
+            "Headings",
+            "Subhead",
+            "fontFamily"
+          ]
+        },
+        "fontWeight": {
+          "value": "400",
+          "type": "fontWeights",
+          "filePath": "src/App.json",
+          "isSource": true,
+          "original": {
+            "value": "{fontWeights.art-basel-text-2}",
+            "type": "fontWeights"
+          },
+          "name": "mch_app_headings_subhead_font_weight",
+          "attributes": {
+            "category": "App",
+            "type": "Headings",
+            "item": "Subhead",
+            "subitem": "fontWeight"
+          },
+          "path": [
+            "App",
+            "Headings",
+            "Subhead",
+            "fontWeight"
+          ]
+        },
+        "lineHeight": {
+          "value": "1.25rem",
+          "type": "lineHeights",
+          "filePath": "src/App.json",
+          "isSource": true,
+          "original": {
+            "value": "{lineHeights.5}",
+            "type": "lineHeights"
+          },
+          "name": "mch_app_headings_subhead_line_height",
+          "attributes": {
+            "category": "App",
+            "type": "Headings",
+            "item": "Subhead",
+            "subitem": "lineHeight"
+          },
+          "path": [
+            "App",
+            "Headings",
+            "Subhead",
+            "lineHeight"
+          ]
+        },
+        "fontSize": {
+          "value": "0.9375rem",
+          "type": "fontSizes",
+          "filePath": "src/App.json",
+          "isSource": true,
+          "original": {
+            "value": "{fontSize.4}",
+            "type": "fontSizes"
+          },
+          "name": "mch_app_headings_subhead_font_size",
+          "attributes": {
+            "category": "App",
+            "type": "Headings",
+            "item": "Subhead",
+            "subitem": "fontSize"
+          },
+          "path": [
+            "App",
+            "Headings",
+            "Subhead",
+            "fontSize"
+          ]
+        },
+        "letterSpacing": {
+          "value": "0",
+          "type": "letterSpacing",
+          "filePath": "src/App.json",
+          "isSource": true,
+          "original": {
+            "value": "{letterSpacing.0}",
+            "type": "letterSpacing"
+          },
+          "name": "mch_app_headings_subhead_letter_spacing",
+          "attributes": {
+            "category": "App",
+            "type": "Headings",
+            "item": "Subhead",
+            "subitem": "letterSpacing"
+          },
+          "path": [
+            "App",
+            "Headings",
+            "Subhead",
+            "letterSpacing"
+          ]
+        },
+        "paragraphSpacing": {
+          "value": "0",
+          "type": "paragraphSpacing",
+          "filePath": "src/App.json",
+          "isSource": true,
+          "original": {
+            "value": "{paragraphSpacing.0}",
+            "type": "paragraphSpacing"
+          },
+          "name": "mch_app_headings_subhead_paragraph_spacing",
+          "attributes": {
+            "category": "App",
+            "type": "Headings",
+            "item": "Subhead",
+            "subitem": "paragraphSpacing"
+          },
+          "path": [
+            "App",
+            "Headings",
+            "Subhead",
+            "paragraphSpacing"
+          ]
+        },
+        "paragraphIndent": {
+          "value": 0,
+          "type": "paragraphIndent",
+          "filePath": "src/App.json",
+          "isSource": true,
+          "original": {
+            "value": "{paragraphIndent.0}",
+            "type": "paragraphIndent"
+          },
+          "name": "mch_app_headings_subhead_paragraph_indent",
+          "attributes": {
+            "category": "App",
+            "type": "Headings",
+            "item": "Subhead",
+            "subitem": "paragraphIndent"
+          },
+          "path": [
+            "App",
+            "Headings",
+            "Subhead",
+            "paragraphIndent"
+          ]
+        },
+        "textCase": {
+          "value": "none",
+          "type": "textCase",
+          "filePath": "src/App.json",
+          "isSource": true,
+          "original": {
+            "value": "{textCase.none}",
+            "type": "textCase"
+          },
+          "name": "mch_app_headings_subhead_text_case",
+          "attributes": {
+            "category": "App",
+            "type": "Headings",
+            "item": "Subhead",
+            "subitem": "textCase"
+          },
+          "path": [
+            "App",
+            "Headings",
+            "Subhead",
+            "textCase"
+          ]
+        },
+        "textDecoration": {
+          "value": "none",
+          "type": "textDecoration",
+          "filePath": "src/App.json",
+          "isSource": true,
+          "original": {
+            "value": "{textDecoration.none}",
+            "type": "textDecoration"
+          },
+          "name": "mch_app_headings_subhead_text_decoration",
+          "attributes": {
+            "category": "App",
+            "type": "Headings",
+            "item": "Subhead",
+            "subitem": "textDecoration"
+          },
+          "path": [
+            "App",
+            "Headings",
+            "Subhead",
+            "textDecoration"
+          ]
+        }
+      }
+    },
+    "Supporting": {
+      "Label - Large": {
+        "fontFamily": {
+          "value": "Art Basel Text",
+          "type": "fontFamilies",
+          "filePath": "src/App.json",
+          "isSource": true,
+          "original": {
+            "value": "{fontFamilies.art-basel-text}",
+            "type": "fontFamilies"
+          },
+          "name": "mch_app_supporting_label_large_font_family",
+          "attributes": {
+            "category": "App",
+            "type": "Supporting",
+            "item": "Label - Large",
+            "subitem": "fontFamily"
+          },
+          "path": [
+            "App",
+            "Supporting",
+            "Label - Large",
+            "fontFamily"
+          ]
+        },
+        "fontWeight": {
+          "value": "700",
+          "type": "fontWeights",
+          "filePath": "src/App.json",
+          "isSource": true,
+          "original": {
+            "value": "{fontWeights.art-basel-text-1}",
+            "type": "fontWeights"
+          },
+          "name": "mch_app_supporting_label_large_font_weight",
+          "attributes": {
+            "category": "App",
+            "type": "Supporting",
+            "item": "Label - Large",
+            "subitem": "fontWeight"
+          },
+          "path": [
+            "App",
+            "Supporting",
+            "Label - Large",
+            "fontWeight"
+          ]
+        },
+        "lineHeight": {
+          "value": "1rem",
+          "type": "lineHeights",
+          "filePath": "src/App.json",
+          "isSource": true,
+          "original": {
+            "value": "{lineHeights.6}",
+            "type": "lineHeights"
+          },
+          "name": "mch_app_supporting_label_large_line_height",
+          "attributes": {
+            "category": "App",
+            "type": "Supporting",
+            "item": "Label - Large",
+            "subitem": "lineHeight"
+          },
+          "path": [
+            "App",
+            "Supporting",
+            "Label - Large",
+            "lineHeight"
+          ]
+        },
+        "fontSize": {
+          "value": "0.75rem",
+          "type": "fontSizes",
+          "filePath": "src/App.json",
+          "isSource": true,
+          "original": {
+            "value": "{fontSize.1}",
+            "type": "fontSizes"
+          },
+          "name": "mch_app_supporting_label_large_font_size",
+          "attributes": {
+            "category": "App",
+            "type": "Supporting",
+            "item": "Label - Large",
+            "subitem": "fontSize"
+          },
+          "path": [
+            "App",
+            "Supporting",
+            "Label - Large",
+            "fontSize"
+          ]
+        },
+        "letterSpacing": {
+          "value": "0",
+          "type": "letterSpacing",
+          "filePath": "src/App.json",
+          "isSource": true,
+          "original": {
+            "value": "{letterSpacing.0}",
+            "type": "letterSpacing"
+          },
+          "name": "mch_app_supporting_label_large_letter_spacing",
+          "attributes": {
+            "category": "App",
+            "type": "Supporting",
+            "item": "Label - Large",
+            "subitem": "letterSpacing"
+          },
+          "path": [
+            "App",
+            "Supporting",
+            "Label - Large",
+            "letterSpacing"
+          ]
+        },
+        "paragraphSpacing": {
+          "value": "0",
+          "type": "paragraphSpacing",
+          "filePath": "src/App.json",
+          "isSource": true,
+          "original": {
+            "value": "{paragraphSpacing.0}",
+            "type": "paragraphSpacing"
+          },
+          "name": "mch_app_supporting_label_large_paragraph_spacing",
+          "attributes": {
+            "category": "App",
+            "type": "Supporting",
+            "item": "Label - Large",
+            "subitem": "paragraphSpacing"
+          },
+          "path": [
+            "App",
+            "Supporting",
+            "Label - Large",
+            "paragraphSpacing"
+          ]
+        },
+        "paragraphIndent": {
+          "value": 0,
+          "type": "paragraphIndent",
+          "filePath": "src/App.json",
+          "isSource": true,
+          "original": {
+            "value": "{paragraphIndent.0}",
+            "type": "paragraphIndent"
+          },
+          "name": "mch_app_supporting_label_large_paragraph_indent",
+          "attributes": {
+            "category": "App",
+            "type": "Supporting",
+            "item": "Label - Large",
+            "subitem": "paragraphIndent"
+          },
+          "path": [
+            "App",
+            "Supporting",
+            "Label - Large",
+            "paragraphIndent"
+          ]
+        },
+        "textCase": {
+          "value": "none",
+          "type": "textCase",
+          "filePath": "src/App.json",
+          "isSource": true,
+          "original": {
+            "value": "{textCase.none}",
+            "type": "textCase"
+          },
+          "name": "mch_app_supporting_label_large_text_case",
+          "attributes": {
+            "category": "App",
+            "type": "Supporting",
+            "item": "Label - Large",
+            "subitem": "textCase"
+          },
+          "path": [
+            "App",
+            "Supporting",
+            "Label - Large",
+            "textCase"
+          ]
+        },
+        "textDecoration": {
+          "value": "none",
+          "type": "textDecoration",
+          "filePath": "src/App.json",
+          "isSource": true,
+          "original": {
+            "value": "{textDecoration.none}",
+            "type": "textDecoration"
+          },
+          "name": "mch_app_supporting_label_large_text_decoration",
+          "attributes": {
+            "category": "App",
+            "type": "Supporting",
+            "item": "Label - Large",
+            "subitem": "textDecoration"
+          },
+          "path": [
+            "App",
+            "Supporting",
+            "Label - Large",
+            "textDecoration"
+          ]
+        }
+      },
+      "Label - Small": {
+        "fontFamily": {
+          "value": "Art Basel Text",
+          "type": "fontFamilies",
+          "filePath": "src/App.json",
+          "isSource": true,
+          "original": {
+            "value": "{fontFamilies.art-basel-text}",
+            "type": "fontFamilies"
+          },
+          "name": "mch_app_supporting_label_small_font_family",
+          "attributes": {
+            "category": "App",
+            "type": "Supporting",
+            "item": "Label - Small",
+            "subitem": "fontFamily"
+          },
+          "path": [
+            "App",
+            "Supporting",
+            "Label - Small",
+            "fontFamily"
+          ]
+        },
+        "fontWeight": {
+          "value": "400",
+          "type": "fontWeights",
+          "filePath": "src/App.json",
+          "isSource": true,
+          "original": {
+            "value": "{fontWeights.art-basel-text-2}",
+            "type": "fontWeights"
+          },
+          "name": "mch_app_supporting_label_small_font_weight",
+          "attributes": {
+            "category": "App",
+            "type": "Supporting",
+            "item": "Label - Small",
+            "subitem": "fontWeight"
+          },
+          "path": [
+            "App",
+            "Supporting",
+            "Label - Small",
+            "fontWeight"
+          ]
+        },
+        "lineHeight": {
+          "value": "0.8125rem",
+          "type": "lineHeights",
+          "filePath": "src/App.json",
+          "isSource": true,
+          "original": {
+            "value": "{lineHeights.7}",
+            "type": "lineHeights"
+          },
+          "name": "mch_app_supporting_label_small_line_height",
+          "attributes": {
+            "category": "App",
+            "type": "Supporting",
+            "item": "Label - Small",
+            "subitem": "lineHeight"
+          },
+          "path": [
+            "App",
+            "Supporting",
+            "Label - Small",
+            "lineHeight"
+          ]
+        },
+        "fontSize": {
+          "value": "0.6875rem",
+          "type": "fontSizes",
+          "filePath": "src/App.json",
+          "isSource": true,
+          "original": {
+            "value": "{fontSize.0}",
+            "type": "fontSizes"
+          },
+          "name": "mch_app_supporting_label_small_font_size",
+          "attributes": {
+            "category": "App",
+            "type": "Supporting",
+            "item": "Label - Small",
+            "subitem": "fontSize"
+          },
+          "path": [
+            "App",
+            "Supporting",
+            "Label - Small",
+            "fontSize"
+          ]
+        },
+        "letterSpacing": {
+          "value": "0",
+          "type": "letterSpacing",
+          "filePath": "src/App.json",
+          "isSource": true,
+          "original": {
+            "value": "{letterSpacing.0}",
+            "type": "letterSpacing"
+          },
+          "name": "mch_app_supporting_label_small_letter_spacing",
+          "attributes": {
+            "category": "App",
+            "type": "Supporting",
+            "item": "Label - Small",
+            "subitem": "letterSpacing"
+          },
+          "path": [
+            "App",
+            "Supporting",
+            "Label - Small",
+            "letterSpacing"
+          ]
+        },
+        "paragraphSpacing": {
+          "value": "0",
+          "type": "paragraphSpacing",
+          "filePath": "src/App.json",
+          "isSource": true,
+          "original": {
+            "value": "{paragraphSpacing.0}",
+            "type": "paragraphSpacing"
+          },
+          "name": "mch_app_supporting_label_small_paragraph_spacing",
+          "attributes": {
+            "category": "App",
+            "type": "Supporting",
+            "item": "Label - Small",
+            "subitem": "paragraphSpacing"
+          },
+          "path": [
+            "App",
+            "Supporting",
+            "Label - Small",
+            "paragraphSpacing"
+          ]
+        },
+        "paragraphIndent": {
+          "value": 0,
+          "type": "paragraphIndent",
+          "filePath": "src/App.json",
+          "isSource": true,
+          "original": {
+            "value": "{paragraphIndent.0}",
+            "type": "paragraphIndent"
+          },
+          "name": "mch_app_supporting_label_small_paragraph_indent",
+          "attributes": {
+            "category": "App",
+            "type": "Supporting",
+            "item": "Label - Small",
+            "subitem": "paragraphIndent"
+          },
+          "path": [
+            "App",
+            "Supporting",
+            "Label - Small",
+            "paragraphIndent"
+          ]
+        },
+        "textCase": {
+          "value": "none",
+          "type": "textCase",
+          "filePath": "src/App.json",
+          "isSource": true,
+          "original": {
+            "value": "{textCase.none}",
+            "type": "textCase"
+          },
+          "name": "mch_app_supporting_label_small_text_case",
+          "attributes": {
+            "category": "App",
+            "type": "Supporting",
+            "item": "Label - Small",
+            "subitem": "textCase"
+          },
+          "path": [
+            "App",
+            "Supporting",
+            "Label - Small",
+            "textCase"
+          ]
+        },
+        "textDecoration": {
+          "value": "none",
+          "type": "textDecoration",
+          "filePath": "src/App.json",
+          "isSource": true,
+          "original": {
+            "value": "{textDecoration.none}",
+            "type": "textDecoration"
+          },
+          "name": "mch_app_supporting_label_small_text_decoration",
+          "attributes": {
+            "category": "App",
+            "type": "Supporting",
+            "item": "Label - Small",
+            "subitem": "textDecoration"
+          },
+          "path": [
+            "App",
+            "Supporting",
+            "Label - Small",
+            "textDecoration"
+          ]
+        }
+      }
+    },
+    "Body": {
+      "Body Text": {
+        "fontFamily": {
+          "value": "Art Basel Text",
+          "type": "fontFamilies",
+          "filePath": "src/App.json",
+          "isSource": true,
+          "original": {
+            "value": "{fontFamilies.art-basel-text}",
+            "type": "fontFamilies"
+          },
+          "name": "mch_app_body_body_text_font_family",
+          "attributes": {
+            "category": "App",
+            "type": "Body",
+            "item": "Body Text",
+            "subitem": "fontFamily"
+          },
+          "path": [
+            "App",
+            "Body",
+            "Body Text",
+            "fontFamily"
+          ]
+        },
+        "fontWeight": {
+          "value": "400",
+          "type": "fontWeights",
+          "filePath": "src/App.json",
+          "isSource": true,
+          "original": {
+            "value": "{fontWeights.art-basel-text-2}",
+            "type": "fontWeights"
+          },
+          "name": "mch_app_body_body_text_font_weight",
+          "attributes": {
+            "category": "App",
+            "type": "Body",
+            "item": "Body Text",
+            "subitem": "fontWeight"
+          },
+          "path": [
+            "App",
+            "Body",
+            "Body Text",
+            "fontWeight"
+          ]
+        },
+        "lineHeight": {
+          "value": "1.375rem",
+          "type": "lineHeights",
+          "filePath": "src/App.json",
+          "isSource": true,
+          "original": {
+            "value": "{lineHeights.4}",
+            "type": "lineHeights"
+          },
+          "name": "mch_app_body_body_text_line_height",
+          "attributes": {
+            "category": "App",
+            "type": "Body",
+            "item": "Body Text",
+            "subitem": "lineHeight"
+          },
+          "path": [
+            "App",
+            "Body",
+            "Body Text",
+            "lineHeight"
+          ]
+        },
+        "fontSize": {
+          "value": "1.0625rem",
+          "type": "fontSizes",
+          "filePath": "src/App.json",
+          "isSource": true,
+          "original": {
+            "value": "{fontSize.6}",
+            "type": "fontSizes"
+          },
+          "name": "mch_app_body_body_text_font_size",
+          "attributes": {
+            "category": "App",
+            "type": "Body",
+            "item": "Body Text",
+            "subitem": "fontSize"
+          },
+          "path": [
+            "App",
+            "Body",
+            "Body Text",
+            "fontSize"
+          ]
+        },
+        "letterSpacing": {
+          "value": "0",
+          "type": "letterSpacing",
+          "filePath": "src/App.json",
+          "isSource": true,
+          "original": {
+            "value": "{letterSpacing.0}",
+            "type": "letterSpacing"
+          },
+          "name": "mch_app_body_body_text_letter_spacing",
+          "attributes": {
+            "category": "App",
+            "type": "Body",
+            "item": "Body Text",
+            "subitem": "letterSpacing"
+          },
+          "path": [
+            "App",
+            "Body",
+            "Body Text",
+            "letterSpacing"
+          ]
+        },
+        "paragraphSpacing": {
+          "value": "0",
+          "type": "paragraphSpacing",
+          "filePath": "src/App.json",
+          "isSource": true,
+          "original": {
+            "value": "{paragraphSpacing.0}",
+            "type": "paragraphSpacing"
+          },
+          "name": "mch_app_body_body_text_paragraph_spacing",
+          "attributes": {
+            "category": "App",
+            "type": "Body",
+            "item": "Body Text",
+            "subitem": "paragraphSpacing"
+          },
+          "path": [
+            "App",
+            "Body",
+            "Body Text",
+            "paragraphSpacing"
+          ]
+        },
+        "paragraphIndent": {
+          "value": 0,
+          "type": "paragraphIndent",
+          "filePath": "src/App.json",
+          "isSource": true,
+          "original": {
+            "value": "{paragraphIndent.0}",
+            "type": "paragraphIndent"
+          },
+          "name": "mch_app_body_body_text_paragraph_indent",
+          "attributes": {
+            "category": "App",
+            "type": "Body",
+            "item": "Body Text",
+            "subitem": "paragraphIndent"
+          },
+          "path": [
+            "App",
+            "Body",
+            "Body Text",
+            "paragraphIndent"
+          ]
+        },
+        "textCase": {
+          "value": "none",
+          "type": "textCase",
+          "filePath": "src/App.json",
+          "isSource": true,
+          "original": {
+            "value": "{textCase.none}",
+            "type": "textCase"
+          },
+          "name": "mch_app_body_body_text_text_case",
+          "attributes": {
+            "category": "App",
+            "type": "Body",
+            "item": "Body Text",
+            "subitem": "textCase"
+          },
+          "path": [
+            "App",
+            "Body",
+            "Body Text",
+            "textCase"
+          ]
+        },
+        "textDecoration": {
+          "value": "none",
+          "type": "textDecoration",
+          "filePath": "src/App.json",
+          "isSource": true,
+          "original": {
+            "value": "{textDecoration.none}",
+            "type": "textDecoration"
+          },
+          "name": "mch_app_body_body_text_text_decoration",
+          "attributes": {
+            "category": "App",
+            "type": "Body",
+            "item": "Body Text",
+            "subitem": "textDecoration"
+          },
+          "path": [
+            "App",
+            "Body",
+            "Body Text",
+            "textDecoration"
+          ]
+        }
+      },
+      "Footnote": {
+        "fontFamily": {
+          "value": "Art Basel Text",
+          "type": "fontFamilies",
+          "filePath": "src/App.json",
+          "isSource": true,
+          "original": {
+            "value": "{fontFamilies.art-basel-text}",
+            "type": "fontFamilies"
+          },
+          "name": "mch_app_body_footnote_font_family",
+          "attributes": {
+            "category": "App",
+            "type": "Body",
+            "item": "Footnote",
+            "subitem": "fontFamily"
+          },
+          "path": [
+            "App",
+            "Body",
+            "Footnote",
+            "fontFamily"
+          ]
+        },
+        "fontWeight": {
+          "value": "400",
+          "type": "fontWeights",
+          "filePath": "src/App.json",
+          "isSource": true,
+          "original": {
+            "value": "{fontWeights.art-basel-text-2}",
+            "type": "fontWeights"
+          },
+          "name": "mch_app_body_footnote_font_weight",
+          "attributes": {
+            "category": "App",
+            "type": "Body",
+            "item": "Footnote",
+            "subitem": "fontWeight"
+          },
+          "path": [
+            "App",
+            "Body",
+            "Footnote",
+            "fontWeight"
+          ]
+        },
+        "lineHeight": {
+          "value": "1.125rem",
+          "type": "lineHeights",
+          "filePath": "src/App.json",
+          "isSource": true,
+          "original": {
+            "value": "{lineHeights.8}",
+            "type": "lineHeights"
+          },
+          "name": "mch_app_body_footnote_line_height",
+          "attributes": {
+            "category": "App",
+            "type": "Body",
+            "item": "Footnote",
+            "subitem": "lineHeight"
+          },
+          "path": [
+            "App",
+            "Body",
+            "Footnote",
+            "lineHeight"
+          ]
+        },
+        "fontSize": {
+          "value": "0.8125rem",
+          "type": "fontSizes",
+          "filePath": "src/App.json",
+          "isSource": true,
+          "original": {
+            "value": "{fontSize.2}",
+            "type": "fontSizes"
+          },
+          "name": "mch_app_body_footnote_font_size",
+          "attributes": {
+            "category": "App",
+            "type": "Body",
+            "item": "Footnote",
+            "subitem": "fontSize"
+          },
+          "path": [
+            "App",
+            "Body",
+            "Footnote",
+            "fontSize"
+          ]
+        },
+        "letterSpacing": {
+          "value": "0",
+          "type": "letterSpacing",
+          "filePath": "src/App.json",
+          "isSource": true,
+          "original": {
+            "value": "{letterSpacing.0}",
+            "type": "letterSpacing"
+          },
+          "name": "mch_app_body_footnote_letter_spacing",
+          "attributes": {
+            "category": "App",
+            "type": "Body",
+            "item": "Footnote",
+            "subitem": "letterSpacing"
+          },
+          "path": [
+            "App",
+            "Body",
+            "Footnote",
+            "letterSpacing"
+          ]
+        },
+        "paragraphSpacing": {
+          "value": "0",
+          "type": "paragraphSpacing",
+          "filePath": "src/App.json",
+          "isSource": true,
+          "original": {
+            "value": "{paragraphSpacing.0}",
+            "type": "paragraphSpacing"
+          },
+          "name": "mch_app_body_footnote_paragraph_spacing",
+          "attributes": {
+            "category": "App",
+            "type": "Body",
+            "item": "Footnote",
+            "subitem": "paragraphSpacing"
+          },
+          "path": [
+            "App",
+            "Body",
+            "Footnote",
+            "paragraphSpacing"
+          ]
+        },
+        "paragraphIndent": {
+          "value": 0,
+          "type": "paragraphIndent",
+          "filePath": "src/App.json",
+          "isSource": true,
+          "original": {
+            "value": "{paragraphIndent.0}",
+            "type": "paragraphIndent"
+          },
+          "name": "mch_app_body_footnote_paragraph_indent",
+          "attributes": {
+            "category": "App",
+            "type": "Body",
+            "item": "Footnote",
+            "subitem": "paragraphIndent"
+          },
+          "path": [
+            "App",
+            "Body",
+            "Footnote",
+            "paragraphIndent"
+          ]
+        },
+        "textCase": {
+          "value": "none",
+          "type": "textCase",
+          "filePath": "src/App.json",
+          "isSource": true,
+          "original": {
+            "value": "{textCase.none}",
+            "type": "textCase"
+          },
+          "name": "mch_app_body_footnote_text_case",
+          "attributes": {
+            "category": "App",
+            "type": "Body",
+            "item": "Footnote",
+            "subitem": "textCase"
+          },
+          "path": [
+            "App",
+            "Body",
+            "Footnote",
+            "textCase"
+          ]
+        },
+        "textDecoration": {
+          "value": "none",
+          "type": "textDecoration",
+          "filePath": "src/App.json",
+          "isSource": true,
+          "original": {
+            "value": "{textDecoration.none}",
+            "type": "textDecoration"
+          },
+          "name": "mch_app_body_footnote_text_decoration",
+          "attributes": {
+            "category": "App",
+            "type": "Body",
+            "item": "Footnote",
+            "subitem": "textDecoration"
+          },
+          "path": [
+            "App",
+            "Body",
+            "Footnote",
+            "textDecoration"
+          ]
+        }
+      }
+    },
+    "Links": {
+      "Button": {
+        "fontFamily": {
+          "value": "Art Basel Text",
+          "type": "fontFamilies",
+          "filePath": "src/App.json",
+          "isSource": true,
+          "original": {
+            "value": "{fontFamilies.art-basel-text}",
+            "type": "fontFamilies"
+          },
+          "name": "mch_app_links_button_font_family",
+          "attributes": {
+            "category": "App",
+            "type": "Links",
+            "item": "Button",
+            "subitem": "fontFamily"
+          },
+          "path": [
+            "App",
+            "Links",
+            "Button",
+            "fontFamily"
+          ]
+        },
+        "fontWeight": {
+          "value": "700",
+          "type": "fontWeights",
+          "filePath": "src/App.json",
+          "isSource": true,
+          "original": {
+            "value": "{fontWeights.art-basel-text-1}",
+            "type": "fontWeights"
+          },
+          "name": "mch_app_links_button_font_weight",
+          "attributes": {
+            "category": "App",
+            "type": "Links",
+            "item": "Button",
+            "subitem": "fontWeight"
+          },
+          "path": [
+            "App",
+            "Links",
+            "Button",
+            "fontWeight"
+          ]
+        },
+        "lineHeight": {
+          "value": "1.125rem",
+          "type": "lineHeights",
+          "filePath": "src/App.json",
+          "isSource": true,
+          "original": {
+            "value": "{lineHeights.8}",
+            "type": "lineHeights"
+          },
+          "name": "mch_app_links_button_line_height",
+          "attributes": {
+            "category": "App",
+            "type": "Links",
+            "item": "Button",
+            "subitem": "lineHeight"
+          },
+          "path": [
+            "App",
+            "Links",
+            "Button",
+            "lineHeight"
+          ]
+        },
+        "fontSize": {
+          "value": "0.875rem",
+          "type": "fontSizes",
+          "filePath": "src/App.json",
+          "isSource": true,
+          "original": {
+            "value": "{fontSize.3}",
+            "type": "fontSizes"
+          },
+          "name": "mch_app_links_button_font_size",
+          "attributes": {
+            "category": "App",
+            "type": "Links",
+            "item": "Button",
+            "subitem": "fontSize"
+          },
+          "path": [
+            "App",
+            "Links",
+            "Button",
+            "fontSize"
+          ]
+        },
+        "letterSpacing": {
+          "value": "0",
+          "type": "letterSpacing",
+          "filePath": "src/App.json",
+          "isSource": true,
+          "original": {
+            "value": "{letterSpacing.0}",
+            "type": "letterSpacing"
+          },
+          "name": "mch_app_links_button_letter_spacing",
+          "attributes": {
+            "category": "App",
+            "type": "Links",
+            "item": "Button",
+            "subitem": "letterSpacing"
+          },
+          "path": [
+            "App",
+            "Links",
+            "Button",
+            "letterSpacing"
+          ]
+        },
+        "paragraphSpacing": {
+          "value": "0",
+          "type": "paragraphSpacing",
+          "filePath": "src/App.json",
+          "isSource": true,
+          "original": {
+            "value": "{paragraphSpacing.0}",
+            "type": "paragraphSpacing"
+          },
+          "name": "mch_app_links_button_paragraph_spacing",
+          "attributes": {
+            "category": "App",
+            "type": "Links",
+            "item": "Button",
+            "subitem": "paragraphSpacing"
+          },
+          "path": [
+            "App",
+            "Links",
+            "Button",
+            "paragraphSpacing"
+          ]
+        },
+        "paragraphIndent": {
+          "value": 0,
+          "type": "paragraphIndent",
+          "filePath": "src/App.json",
+          "isSource": true,
+          "original": {
+            "value": "{paragraphIndent.0}",
+            "type": "paragraphIndent"
+          },
+          "name": "mch_app_links_button_paragraph_indent",
+          "attributes": {
+            "category": "App",
+            "type": "Links",
+            "item": "Button",
+            "subitem": "paragraphIndent"
+          },
+          "path": [
+            "App",
+            "Links",
+            "Button",
+            "paragraphIndent"
+          ]
+        },
+        "textCase": {
+          "value": "uppercase",
+          "type": "textCase",
+          "filePath": "src/App.json",
+          "isSource": true,
+          "original": {
+            "value": "{textCase.uppercase}",
+            "type": "textCase"
+          },
+          "name": "mch_app_links_button_text_case",
+          "attributes": {
+            "category": "App",
+            "type": "Links",
+            "item": "Button",
+            "subitem": "textCase"
+          },
+          "path": [
+            "App",
+            "Links",
+            "Button",
+            "textCase"
+          ]
+        },
+        "textDecoration": {
+          "value": "none",
+          "type": "textDecoration",
+          "filePath": "src/App.json",
+          "isSource": true,
+          "original": {
+            "value": "{textDecoration.none}",
+            "type": "textDecoration"
+          },
+          "name": "mch_app_links_button_text_decoration",
+          "attributes": {
+            "category": "App",
+            "type": "Links",
+            "item": "Button",
+            "subitem": "textDecoration"
+          },
+          "path": [
+            "App",
+            "Links",
+            "Button",
+            "textDecoration"
+          ]
+        }
+      },
+      "Text Link": {
+        "fontFamily": {
+          "value": "Art Basel Text",
+          "type": "fontFamilies",
+          "filePath": "src/App.json",
+          "isSource": true,
+          "original": {
+            "value": "{fontFamilies.art-basel-text}",
+            "type": "fontFamilies"
+          },
+          "name": "mch_app_links_text_link_font_family",
+          "attributes": {
+            "category": "App",
+            "type": "Links",
+            "item": "Text Link",
+            "subitem": "fontFamily"
+          },
+          "path": [
+            "App",
+            "Links",
+            "Text Link",
+            "fontFamily"
+          ]
+        },
+        "fontWeight": {
+          "value": "700",
+          "type": "fontWeights",
+          "filePath": "src/App.json",
+          "isSource": true,
+          "original": {
+            "value": "{fontWeights.art-basel-text-1}",
+            "type": "fontWeights"
+          },
+          "name": "mch_app_links_text_link_font_weight",
+          "attributes": {
+            "category": "App",
+            "type": "Links",
+            "item": "Text Link",
+            "subitem": "fontWeight"
+          },
+          "path": [
+            "App",
+            "Links",
+            "Text Link",
+            "fontWeight"
+          ]
+        },
+        "lineHeight": {
+          "value": "1.3125rem",
+          "type": "lineHeights",
+          "filePath": "src/App.json",
+          "isSource": true,
+          "original": {
+            "value": "{lineHeights.9}",
+            "type": "lineHeights"
+          },
+          "name": "mch_app_links_text_link_line_height",
+          "attributes": {
+            "category": "App",
+            "type": "Links",
+            "item": "Text Link",
+            "subitem": "lineHeight"
+          },
+          "path": [
+            "App",
+            "Links",
+            "Text Link",
+            "lineHeight"
+          ]
+        },
+        "fontSize": {
+          "value": "1rem",
+          "type": "fontSizes",
+          "filePath": "src/App.json",
+          "isSource": true,
+          "original": {
+            "value": "{fontSize.5}",
+            "type": "fontSizes"
+          },
+          "name": "mch_app_links_text_link_font_size",
+          "attributes": {
+            "category": "App",
+            "type": "Links",
+            "item": "Text Link",
+            "subitem": "fontSize"
+          },
+          "path": [
+            "App",
+            "Links",
+            "Text Link",
+            "fontSize"
+          ]
+        },
+        "letterSpacing": {
+          "value": "0",
+          "type": "letterSpacing",
+          "filePath": "src/App.json",
+          "isSource": true,
+          "original": {
+            "value": "{letterSpacing.0}",
+            "type": "letterSpacing"
+          },
+          "name": "mch_app_links_text_link_letter_spacing",
+          "attributes": {
+            "category": "App",
+            "type": "Links",
+            "item": "Text Link",
+            "subitem": "letterSpacing"
+          },
+          "path": [
+            "App",
+            "Links",
+            "Text Link",
+            "letterSpacing"
+          ]
+        },
+        "paragraphSpacing": {
+          "value": "0",
+          "type": "paragraphSpacing",
+          "filePath": "src/App.json",
+          "isSource": true,
+          "original": {
+            "value": "{paragraphSpacing.0}",
+            "type": "paragraphSpacing"
+          },
+          "name": "mch_app_links_text_link_paragraph_spacing",
+          "attributes": {
+            "category": "App",
+            "type": "Links",
+            "item": "Text Link",
+            "subitem": "paragraphSpacing"
+          },
+          "path": [
+            "App",
+            "Links",
+            "Text Link",
+            "paragraphSpacing"
+          ]
+        },
+        "paragraphIndent": {
+          "value": 0,
+          "type": "paragraphIndent",
+          "filePath": "src/App.json",
+          "isSource": true,
+          "original": {
+            "value": "{paragraphIndent.0}",
+            "type": "paragraphIndent"
+          },
+          "name": "mch_app_links_text_link_paragraph_indent",
+          "attributes": {
+            "category": "App",
+            "type": "Links",
+            "item": "Text Link",
+            "subitem": "paragraphIndent"
+          },
+          "path": [
+            "App",
+            "Links",
+            "Text Link",
+            "paragraphIndent"
+          ]
+        },
+        "textCase": {
+          "value": "capitalize",
+          "type": "textCase",
+          "filePath": "src/App.json",
+          "isSource": true,
+          "original": {
+            "value": "{textCase.capitalize}",
+            "type": "textCase"
+          },
+          "name": "mch_app_links_text_link_text_case",
+          "attributes": {
+            "category": "App",
+            "type": "Links",
+            "item": "Text Link",
+            "subitem": "textCase"
+          },
+          "path": [
+            "App",
+            "Links",
+            "Text Link",
+            "textCase"
+          ]
+        },
+        "textDecoration": {
+          "value": "none",
+          "type": "textDecoration",
+          "filePath": "src/App.json",
+          "isSource": true,
+          "original": {
+            "value": "{textDecoration.none}",
+            "type": "textDecoration"
+          },
+          "name": "mch_app_links_text_link_text_decoration",
+          "attributes": {
+            "category": "App",
+            "type": "Links",
+            "item": "Text Link",
+            "subitem": "textDecoration"
+          },
+          "path": [
+            "App",
+            "Links",
+            "Text Link",
+            "textDecoration"
+          ]
+        }
+      }
     }
   }
 };
