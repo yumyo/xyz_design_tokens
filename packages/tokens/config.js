@@ -62,21 +62,6 @@ StyleDictionary.registerTransform({
 });
 
 StyleDictionary.registerTransform({
-  name: 'remove/pindent/px',
-  type: 'value',
-  matcher: function(token) {
-    // console.log('token', token.type)
-    if (token.type === 'paragraphIndent') {
-    }
-    return token.type === 'paragraphIndent';
-  },
-  transformer: function(token) {
-    console.log(token)
-    return token.value;
-  }
-});
-
-StyleDictionary.registerTransform({
   name: 'color/hexAndroid',
   type: 'value',
   matcher: function(token) {
@@ -123,11 +108,10 @@ StyleDictionary.registerTransform({
 });
 
 StyleDictionary.registerTransform({
-  name: 'font-family/quote',
+  name: 'font-family/quote/fix',
   type: 'value',
   matcher: function(token) {
-    // console.log('token', token)
-    return (token.type === 'fontFamilies');
+    return (token.original.type === 'fontFamilies');
   },
   transformer: function(token) {
     return `"${token.original.value}"`;
@@ -200,27 +184,14 @@ async function run() {
             destination: `${designTokensFileName}-${theme.name}.js`
           },
           {
-            filter: function(prop) {
-              // if (prop.filePath === 'src/Dark-Theme.json') {
-              //   console.log('prop', prop)
-              // }
-              
-              return (prop.filePath === 'src/global.json' && prop.filePath !== 'src/App.json' && prop.filePath !== 'src/Dark-Theme.json' && prop.filePath !== 'src/Light-Theme.json');
-            },
             format: 'javascript/es6',
             destination: `${designTokensFileName}.js`
           },
           {
-            filter: function(prop) {
-              return prop.filePath === 'src/global.json';
-            },
             format: 'javascript/module',
             destination: `${designTokensFileName}-module.js`
           },
           {
-            filter: function(prop) {
-              return prop.filePath === 'src/global.json';
-            },
             format: 'typescript/module-declarations',
             destination: `${designTokensFileName}-module.d.ts`
           },
@@ -228,7 +199,7 @@ async function run() {
       },
       scss: {
         // transformGroup: "scss",
-        transforms: ["attribute/cti","name/cti/snake","time/seconds","content/icon","font-family/quote","fontSize/pxToRem","color/css",'ts/type/fontWeight',"remove/letterspacing/%","remove/pindent/px"],
+        transforms: ["attribute/cti","name/cti/snake","time/seconds","content/icon","font-family/quote/fix","fontSize/pxToRem","color/css",'ts/type/fontWeight',"remove/letterspacing/%","remove/pindent/px"],
         buildPath: "build/scss/",
         prefix: "mch_",
         files: [{
@@ -239,9 +210,6 @@ async function run() {
           format: "scss/variables"
         },
         {
-          filter: function(prop) {
-            return (prop.filePath === 'src/global.json' && prop.filePath !== 'src/App.json');
-          },
           destination: `_${designTokensFileName}.scss`,
           format: "scss/variables"
         }]
@@ -263,15 +231,12 @@ async function run() {
           'ts/color/css/hexrgba',
           'ts/color/modifiers',
           'name/cti/snake',
-          "font-family/quote",
+          "font-family/quote/fix",
         ],
         buildPath: "build/css/",
         prefix: "mch_",
         files: [
           {
-            filter: function(prop) {
-              return (prop.filePath === 'src/global.json' && prop.filePath !== 'src/App.json');
-            },
             destination: `${designTokensFileName}.css`,
             format: 'css/variables',
           },
@@ -286,7 +251,7 @@ async function run() {
       },
       iosSwift: {
         // transformGroup: "ios-swift",
-        transforms: ["attribute/cti","name/cti/camel","custom-color/ColorSwiftUI","content/swift/literal","asset/swift/literal","size/swift/remToCGFloat","font/swift/literal","font-family/quote",'ts/type/fontWeight',"text-decoration/quote","remove/space/px","remove/letterspacing/%", 'shadow/quote',"remove/pindent/px"],
+        transforms: ["attribute/cti","name/cti/camel","custom-color/ColorSwiftUI","content/swift/literal","asset/swift/literal","size/swift/remToCGFloat","font/swift/literal","font-family/quote/fix",'ts/type/fontWeight',"text-decoration/quote","remove/space/px","remove/letterspacing/%", 'shadow/quote',"remove/pindent/px"],
         buildPath: "../swift/Sources/artbaseldesigntokens/",
         prefix: "mch_",
         files: [{
