@@ -1,6 +1,6 @@
 name: Sync main branch to Bitbucket
 
-on: [push]
+on: [push, pull_request]
 
 jobs:
   git-mirror:
