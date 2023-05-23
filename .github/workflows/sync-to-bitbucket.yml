@@ -15,6 +15,6 @@ jobs:
       uses: heussd/mirror-to-bitbucket-github-action@v2
       with:
         username: gnpernice
-        repository: synctokens
-        password: ATBBnKPcwHQNxZGXdtYXBkurktQJ5F5C0410
-        spacename: gnpernice
+        repository: artbaseldesigntokens
+        password: ATBBr4guvgYkg64xFq6jLLPXdCQ43D53F492
+        spacename: mchappsrvcs
