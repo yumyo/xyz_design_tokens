@@ -14,7 +14,7 @@ jobs:
     - name: Push
       uses: heussd/mirror-to-bitbucket-github-action@v2
       with:
-        username: mchappsrvcs
+        username: gnpernice
         password: ATBBr4guvgYkg64xFq6jLLPXdCQ43D53F492
         repository: artbaseldesigntokens
         spacename: mchappsrvcs
