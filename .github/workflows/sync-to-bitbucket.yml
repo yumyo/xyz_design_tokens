@@ -1,0 +1,20 @@
+name: Sync main branch to Bitbucket
+
+on: [push]
+
+jobs:
+  git-mirror:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout
+      uses: actions/checkout@v3
+      with:
+        fetch-depth: 0 # <-- clone with complete history
+
+    - name: Push
+      uses: heussd/mirror-to-bitbucket-github-action@v2
+      with:
+        username: gnpernice
+        repository: synctokens
+        password: ATBBnKPcwHQNxZGXdtYXBkurktQJ5F5C0410
+        spacename: gnpernice
