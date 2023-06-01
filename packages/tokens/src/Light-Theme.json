@@ -103,7 +103,7 @@
       }
     },
     "Opacity": {
-      "Dark Overlay": {
+      "Overlay": {
         "value": "{opacity.30}",
         "type": "opacity"
       },
@@ -111,12 +111,8 @@
         "value": "{opacity.5}",
         "type": "opacity"
       },
-      "Light Fill Hover": {
+      "Fill Hover": {
         "value": "{opacity.60}",
-        "type": "opacity"
-      },
-      "Dark Fill Hover": {
-        "value": "{opacity.50}",
         "type": "opacity"
       },
       "Border": {
@@ -127,7 +123,7 @@
         "value": "{opacity.25}",
         "type": "opacity"
       },
-      "Dark Carousel Background": {
+      "Carousel Background": {
         "value": "{opacity.95}",
         "type": "opacity"
       }
