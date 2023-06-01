@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Thu, 01 Jun 2023 11:39:58 GMT
+ * Generated on Thu, 01 Jun 2023 14:33:51 GMT
  */
 
 export const mch_color_base_primary_black = "#1d2327";
@@ -90,19 +90,19 @@ export const mch_spacing_80 = "5rem";
 export const mch_spacing_96 = "6rem";
 export const mch_spacing_112 = "7rem";
 export const mch_spacing_120 = "7.5rem";
-export const mch_opacity_opacity_10 = "0.1";
-export const mch_opacity_opacity_0 = "0";
-export const mch_opacity_opacity_5 = "0.05";
-export const mch_opacity_opacity_25 = "0.25";
-export const mch_opacity_opacity_30 = "0.3";
-export const mch_opacity_opacity_40 = "0.4";
-export const mch_opacity_opacity_50 = "0.5";
-export const mch_opacity_opacity_60 = "0.6";
-export const mch_opacity_opacity_70 = "0.7";
-export const mch_opacity_opacity_80 = "0.8";
-export const mch_opacity_opacity_90 = "0.9";
-export const mch_opacity_opacity_95 = "0.95";
-export const mch_opacity_opacity_100 = "1";
+export const mch_opacity_0 = "0";
+export const mch_opacity_5 = "0.05";
+export const mch_opacity_10 = "0.1";
+export const mch_opacity_25 = "0.25";
+export const mch_opacity_30 = "0.3";
+export const mch_opacity_40 = "0.4";
+export const mch_opacity_50 = "0.5";
+export const mch_opacity_60 = "0.6";
+export const mch_opacity_70 = "0.7";
+export const mch_opacity_80 = "0.8";
+export const mch_opacity_90 = "0.9";
+export const mch_opacity_95 = "0.95";
+export const mch_opacity_100 = "1";
 export const mch_max_width_sm = "413px";
 export const mch_max_width_md = "768px";
 export const mch_max_width_lg = "1024px";

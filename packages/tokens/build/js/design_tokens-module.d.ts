@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Thu, 01 Jun 2023 11:39:58 GMT
+ * Generated on Thu, 01 Jun 2023 14:33:51 GMT
  */
 
 export default tokens;
@@ -156,19 +156,19 @@ declare const tokens: {
     "120": DesignToken
   },
   "opacity": {
-    "opacity-10": DesignToken,
-    "opacity-0": DesignToken,
-    "opacity-5": DesignToken,
-    "opacity-25": DesignToken,
-    "opacity-30": DesignToken,
-    "opacity-40": DesignToken,
-    "opacity-50": DesignToken,
-    "opacity-60": DesignToken,
-    "opacity-70": DesignToken,
-    "opacity-80": DesignToken,
-    "opacity-90": DesignToken,
-    "opacity-95": DesignToken,
-    "opacity-100": DesignToken
+    "0": DesignToken,
+    "5": DesignToken,
+    "10": DesignToken,
+    "25": DesignToken,
+    "30": DesignToken,
+    "40": DesignToken,
+    "50": DesignToken,
+    "60": DesignToken,
+    "70": DesignToken,
+    "80": DesignToken,
+    "90": DesignToken,
+    "95": DesignToken,
+    "100": DesignToken
   },
   "max-width": {
     "sm": DesignToken,

@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Thu, 01 Jun 2023 11:39:58 GMT
+ * Generated on Thu, 01 Jun 2023 14:33:51 GMT
  */
 
 module.exports = {
@@ -2056,26 +2056,7 @@ module.exports = {
     }
   },
   "opacity": {
-    "opacity-10": {
-      "value": "0.1",
-      "type": "opacity",
-      "filePath": "src/global.json",
-      "isSource": true,
-      "original": {
-        "value": "0.1",
-        "type": "opacity"
-      },
-      "name": "mch_opacity_opacity_10",
-      "attributes": {
-        "category": "opacity",
-        "type": "opacity-10"
-      },
-      "path": [
-        "opacity",
-        "opacity-10"
-      ]
-    },
-    "opacity-0": {
+    "0": {
       "value": "0",
       "type": "opacity",
       "filePath": "src/global.json",
@@ -2084,17 +2065,17 @@ module.exports = {
         "value": "0",
         "type": "opacity"
       },
-      "name": "mch_opacity_opacity_0",
+      "name": "mch_opacity_0",
       "attributes": {
         "category": "opacity",
-        "type": "opacity-0"
+        "type": "0"
       },
       "path": [
         "opacity",
-        "opacity-0"
+        "0"
       ]
     },
-    "opacity-5": {
+    "5": {
       "value": "0.05",
       "type": "opacity",
       "filePath": "src/global.json",
@@ -2103,17 +2084,36 @@ module.exports = {
         "value": "0.05",
         "type": "opacity"
       },
-      "name": "mch_opacity_opacity_5",
+      "name": "mch_opacity_5",
       "attributes": {
         "category": "opacity",
-        "type": "opacity-5"
+        "type": "5"
       },
       "path": [
         "opacity",
-        "opacity-5"
+        "5"
       ]
     },
-    "opacity-25": {
+    "10": {
+      "value": "0.1",
+      "type": "opacity",
+      "filePath": "src/global.json",
+      "isSource": true,
+      "original": {
+        "value": "0.1",
+        "type": "opacity"
+      },
+      "name": "mch_opacity_10",
+      "attributes": {
+        "category": "opacity",
+        "type": "10"
+      },
+      "path": [
+        "opacity",
+        "10"
+      ]
+    },
+    "25": {
       "value": "0.25",
       "type": "opacity",
       "filePath": "src/global.json",
@@ -2122,17 +2122,17 @@ module.exports = {
         "value": "0.25",
         "type": "opacity"
       },
-      "name": "mch_opacity_opacity_25",
+      "name": "mch_opacity_25",
       "attributes": {
         "category": "opacity",
-        "type": "opacity-25"
+        "type": "25"
       },
       "path": [
         "opacity",
-        "opacity-25"
+        "25"
       ]
     },
-    "opacity-30": {
+    "30": {
       "value": "0.3",
       "type": "opacity",
       "filePath": "src/global.json",
@@ -2141,17 +2141,17 @@ module.exports = {
         "value": "0.3",
         "type": "opacity"
       },
-      "name": "mch_opacity_opacity_30",
+      "name": "mch_opacity_30",
       "attributes": {
         "category": "opacity",
-        "type": "opacity-30"
+        "type": "30"
       },
       "path": [
         "opacity",
-        "opacity-30"
+        "30"
       ]
     },
-    "opacity-40": {
+    "40": {
       "value": "0.4",
       "type": "opacity",
       "filePath": "src/global.json",
@@ -2160,17 +2160,17 @@ module.exports = {
         "value": "0.4",
         "type": "opacity"
       },
-      "name": "mch_opacity_opacity_40",
+      "name": "mch_opacity_40",
       "attributes": {
         "category": "opacity",
-        "type": "opacity-40"
+        "type": "40"
       },
       "path": [
         "opacity",
-        "opacity-40"
+        "40"
       ]
     },
-    "opacity-50": {
+    "50": {
       "value": "0.5",
       "type": "opacity",
       "filePath": "src/global.json",
@@ -2179,17 +2179,17 @@ module.exports = {
         "value": "0.5",
         "type": "opacity"
       },
-      "name": "mch_opacity_opacity_50",
+      "name": "mch_opacity_50",
       "attributes": {
         "category": "opacity",
-        "type": "opacity-50"
+        "type": "50"
       },
       "path": [
         "opacity",
-        "opacity-50"
+        "50"
       ]
     },
-    "opacity-60": {
+    "60": {
       "value": "0.6",
       "type": "opacity",
       "filePath": "src/global.json",
@@ -2198,17 +2198,17 @@ module.exports = {
         "value": "0.6",
         "type": "opacity"
       },
-      "name": "mch_opacity_opacity_60",
+      "name": "mch_opacity_60",
       "attributes": {
         "category": "opacity",
-        "type": "opacity-60"
+        "type": "60"
       },
       "path": [
         "opacity",
-        "opacity-60"
+        "60"
       ]
     },
-    "opacity-70": {
+    "70": {
       "value": "0.7",
       "type": "opacity",
       "filePath": "src/global.json",
@@ -2217,17 +2217,17 @@ module.exports = {
         "value": "0.7",
         "type": "opacity"
       },
-      "name": "mch_opacity_opacity_70",
+      "name": "mch_opacity_70",
       "attributes": {
         "category": "opacity",
-        "type": "opacity-70"
+        "type": "70"
       },
       "path": [
         "opacity",
-        "opacity-70"
+        "70"
       ]
     },
-    "opacity-80": {
+    "80": {
       "value": "0.8",
       "type": "opacity",
       "filePath": "src/global.json",
@@ -2236,17 +2236,17 @@ module.exports = {
         "value": "0.8",
         "type": "opacity"
       },
-      "name": "mch_opacity_opacity_80",
+      "name": "mch_opacity_80",
       "attributes": {
         "category": "opacity",
-        "type": "opacity-80"
+        "type": "80"
       },
       "path": [
         "opacity",
-        "opacity-80"
+        "80"
       ]
     },
-    "opacity-90": {
+    "90": {
       "value": "0.9",
       "type": "opacity",
       "filePath": "src/global.json",
@@ -2255,17 +2255,17 @@ module.exports = {
         "value": "0.9",
         "type": "opacity"
       },
-      "name": "mch_opacity_opacity_90",
+      "name": "mch_opacity_90",
       "attributes": {
         "category": "opacity",
-        "type": "opacity-90"
+        "type": "90"
       },
       "path": [
         "opacity",
-        "opacity-90"
+        "90"
       ]
     },
-    "opacity-95": {
+    "95": {
       "value": "0.95",
       "type": "opacity",
       "filePath": "src/global.json",
@@ -2274,17 +2274,17 @@ module.exports = {
         "value": "0.95",
         "type": "opacity"
       },
-      "name": "mch_opacity_opacity_95",
+      "name": "mch_opacity_95",
       "attributes": {
         "category": "opacity",
-        "type": "opacity-95"
+        "type": "95"
       },
       "path": [
         "opacity",
-        "opacity-95"
+        "95"
       ]
     },
-    "opacity-100": {
+    "100": {
       "value": "1",
       "type": "opacity",
       "filePath": "src/global.json",
@@ -2293,14 +2293,14 @@ module.exports = {
         "value": "1",
         "type": "opacity"
       },
-      "name": "mch_opacity_opacity_100",
+      "name": "mch_opacity_100",
       "attributes": {
         "category": "opacity",
-        "type": "opacity-100"
+        "type": "100"
       },
       "path": [
         "opacity",
-        "opacity-100"
+        "100"
       ]
     }
   },
