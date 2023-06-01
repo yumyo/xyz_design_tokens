@@ -104,31 +104,31 @@
     },
     "Opacity": {
       "Dark Overlay": {
-        "value": "{opacity.opacity-30}",
+        "value": "{opacity.30}",
         "type": "opacity"
       },
       "Tile Overlay": {
-        "value": "{opacity.opacity-5}",
+        "value": "{opacity.5}",
         "type": "opacity"
       },
       "Light Fill Hover": {
-        "value": "{opacity.opacity-60}",
+        "value": "{opacity.60}",
         "type": "opacity"
       },
       "Dark Fill Hover": {
-        "value": "{opacity.opacity-50}",
+        "value": "{opacity.50}",
         "type": "opacity"
       },
       "Border": {
-        "value": "{opacity.opacity-50}",
+        "value": "{opacity.50}",
         "type": "opacity"
       },
       "Border Disabled": {
-        "value": "{opacity.opacity-25}",
+        "value": "{opacity.25}",
         "type": "opacity"
       },
       "Dark Carousel Background": {
-        "value": "{opacity.opacity-95}",
+        "value": "{opacity.95}",
         "type": "opacity"
       }
     }
