@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Thu, 01 Jun 2023 14:38:42 GMT
+// Generated on Thu, 01 Jun 2023 16:00:49 GMT
 
 
 import UIKit
@@ -127,15 +127,15 @@ public enum StyleDictionaryEnum {
     public static let mchAppLinksButtonParagraphSpacing = 0
     public static let mchAppLinksButtonTextCase = "uppercase"
     public static let mchAppLinksButtonTextDecoration = "none"
-    public static let mchAppLinksTextLinkFontFamily = "Art Basel Text"
-    public static let mchAppLinksTextLinkFontSize = 16
-    public static let mchAppLinksTextLinkFontWeight = 700
-    public static let mchAppLinksTextLinkLetterSpacing = 0
-    public static let mchAppLinksTextLinkLineHeight = 21
-    public static let mchAppLinksTextLinkParagraphIndent = 0
-    public static let mchAppLinksTextLinkParagraphSpacing = 0
-    public static let mchAppLinksTextLinkTextCase = "capitalize"
-    public static let mchAppLinksTextLinkTextDecoration = "none"
+    public static let mchAppLinksCalloutFontFamily = "Art Basel Text"
+    public static let mchAppLinksCalloutFontSize = 16
+    public static let mchAppLinksCalloutFontWeight = 700
+    public static let mchAppLinksCalloutLetterSpacing = 0
+    public static let mchAppLinksCalloutLineHeight = 21
+    public static let mchAppLinksCalloutParagraphIndent = 0
+    public static let mchAppLinksCalloutParagraphSpacing = 0
+    public static let mchAppLinksCalloutTextCase = "capitalize"
+    public static let mchAppLinksCalloutTextDecoration = "none"
     public static let mchAppSupportingLabelLargeFontFamily = "Art Basel Text"
     public static let mchAppSupportingLabelLargeFontSize = 12
     public static let mchAppSupportingLabelLargeFontWeight = 700

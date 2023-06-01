@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Thu, 01 Jun 2023 14:38:41 GMT
+ * Generated on Thu, 01 Jun 2023 16:00:49 GMT
  */
 
 export const mch_color_base_primary_black = "#1d2327";
@@ -984,12 +984,12 @@ export const mch_app_links_button_paragraph_spacing = "0";
 export const mch_app_links_button_paragraph_indent = 0;
 export const mch_app_links_button_text_case = "uppercase";
 export const mch_app_links_button_text_decoration = "none";
-export const mch_app_links_text_link_font_family = "Art Basel Text";
-export const mch_app_links_text_link_font_weight = "700";
-export const mch_app_links_text_link_line_height = "1.3125rem";
-export const mch_app_links_text_link_font_size = "1rem";
-export const mch_app_links_text_link_letter_spacing = "0";
-export const mch_app_links_text_link_paragraph_spacing = "0";
-export const mch_app_links_text_link_paragraph_indent = 0;
-export const mch_app_links_text_link_text_case = "capitalize";
-export const mch_app_links_text_link_text_decoration = "none";
+export const mch_app_links_callout_font_family = "Art Basel Text";
+export const mch_app_links_callout_font_weight = "700";
+export const mch_app_links_callout_line_height = "1.3125rem";
+export const mch_app_links_callout_font_size = "1rem";
+export const mch_app_links_callout_letter_spacing = "0";
+export const mch_app_links_callout_paragraph_spacing = "0";
+export const mch_app_links_callout_paragraph_indent = 0;
+export const mch_app_links_callout_text_case = "capitalize";
+export const mch_app_links_callout_text_decoration = "none";

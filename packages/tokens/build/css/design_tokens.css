@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Thu, 01 Jun 2023 14:38:42 GMT
+ * Generated on Thu, 01 Jun 2023 16:00:49 GMT
  */
 
 :root {
@@ -985,13 +985,13 @@
   --mch_app_links_button_paragraph_indent: 0;
   --mch_app_links_button_text_case: uppercase;
   --mch_app_links_button_text_decoration: none;
-  --mch_app_links_text_link_font_family: "Art Basel Text";
-  --mch_app_links_text_link_font_weight: 700;
-  --mch_app_links_text_link_line_height: 1.313rem;
-  --mch_app_links_text_link_font_size: 1rem;
-  --mch_app_links_text_link_letter_spacing: 0;
-  --mch_app_links_text_link_paragraph_spacing: 0;
-  --mch_app_links_text_link_paragraph_indent: 0;
-  --mch_app_links_text_link_text_case: capitalize;
-  --mch_app_links_text_link_text_decoration: none;
+  --mch_app_links_callout_font_family: "Art Basel Text";
+  --mch_app_links_callout_font_weight: 700;
+  --mch_app_links_callout_line_height: 1.313rem;
+  --mch_app_links_callout_font_size: 1rem;
+  --mch_app_links_callout_letter_spacing: 0;
+  --mch_app_links_callout_paragraph_spacing: 0;
+  --mch_app_links_callout_paragraph_indent: 0;
+  --mch_app_links_callout_text_case: capitalize;
+  --mch_app_links_callout_text_decoration: none;
 }

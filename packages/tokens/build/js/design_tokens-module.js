@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Thu, 01 Jun 2023 14:38:41 GMT
+ * Generated on Thu, 01 Jun 2023 16:00:49 GMT
  */
 
 module.exports = {
@@ -23713,7 +23713,7 @@ module.exports = {
           ]
         }
       },
-      "Text Link": {
+      "Callout": {
         "fontFamily": {
           "value": "Art Basel Text",
           "type": "fontFamilies",
@@ -23723,17 +23723,17 @@ module.exports = {
             "value": "{fontFamilies.art-basel-text}",
             "type": "fontFamilies"
           },
-          "name": "mch_app_links_text_link_font_family",
+          "name": "mch_app_links_callout_font_family",
           "attributes": {
             "category": "App",
             "type": "Links",
-            "item": "Text Link",
+            "item": "Callout",
             "subitem": "fontFamily"
           },
           "path": [
             "App",
             "Links",
-            "Text Link",
+            "Callout",
             "fontFamily"
           ]
         },
@@ -23746,17 +23746,17 @@ module.exports = {
             "value": "{fontWeights.art-basel-text-1}",
             "type": "fontWeights"
           },
-          "name": "mch_app_links_text_link_font_weight",
+          "name": "mch_app_links_callout_font_weight",
           "attributes": {
             "category": "App",
             "type": "Links",
-            "item": "Text Link",
+            "item": "Callout",
             "subitem": "fontWeight"
           },
           "path": [
             "App",
             "Links",
-            "Text Link",
+            "Callout",
             "fontWeight"
           ]
         },
@@ -23769,17 +23769,17 @@ module.exports = {
             "value": "{lineHeights.9}",
             "type": "lineHeights"
           },
-          "name": "mch_app_links_text_link_line_height",
+          "name": "mch_app_links_callout_line_height",
           "attributes": {
             "category": "App",
             "type": "Links",
-            "item": "Text Link",
+            "item": "Callout",
             "subitem": "lineHeight"
           },
           "path": [
             "App",
             "Links",
-            "Text Link",
+            "Callout",
             "lineHeight"
           ]
         },
@@ -23792,17 +23792,17 @@ module.exports = {
             "value": "{fontSize.5}",
             "type": "fontSizes"
           },
-          "name": "mch_app_links_text_link_font_size",
+          "name": "mch_app_links_callout_font_size",
           "attributes": {
             "category": "App",
             "type": "Links",
-            "item": "Text Link",
+            "item": "Callout",
             "subitem": "fontSize"
           },
           "path": [
             "App",
             "Links",
-            "Text Link",
+            "Callout",
             "fontSize"
           ]
         },
@@ -23815,17 +23815,17 @@ module.exports = {
             "value": "{letterSpacing.0}",
             "type": "letterSpacing"
           },
-          "name": "mch_app_links_text_link_letter_spacing",
+          "name": "mch_app_links_callout_letter_spacing",
           "attributes": {
             "category": "App",
             "type": "Links",
-            "item": "Text Link",
+            "item": "Callout",
             "subitem": "letterSpacing"
           },
           "path": [
             "App",
             "Links",
-            "Text Link",
+            "Callout",
             "letterSpacing"
           ]
         },
@@ -23838,17 +23838,17 @@ module.exports = {
             "value": "{paragraphSpacing.0}",
             "type": "paragraphSpacing"
           },
-          "name": "mch_app_links_text_link_paragraph_spacing",
+          "name": "mch_app_links_callout_paragraph_spacing",
           "attributes": {
             "category": "App",
             "type": "Links",
-            "item": "Text Link",
+            "item": "Callout",
             "subitem": "paragraphSpacing"
           },
           "path": [
             "App",
             "Links",
-            "Text Link",
+            "Callout",
             "paragraphSpacing"
           ]
         },
@@ -23861,17 +23861,17 @@ module.exports = {
             "value": "{paragraphIndent.0}",
             "type": "paragraphIndent"
           },
-          "name": "mch_app_links_text_link_paragraph_indent",
+          "name": "mch_app_links_callout_paragraph_indent",
           "attributes": {
             "category": "App",
             "type": "Links",
-            "item": "Text Link",
+            "item": "Callout",
             "subitem": "paragraphIndent"
           },
           "path": [
             "App",
             "Links",
-            "Text Link",
+            "Callout",
             "paragraphIndent"
           ]
         },
@@ -23884,17 +23884,17 @@ module.exports = {
             "value": "{textCase.capitalize}",
             "type": "textCase"
           },
-          "name": "mch_app_links_text_link_text_case",
+          "name": "mch_app_links_callout_text_case",
           "attributes": {
             "category": "App",
             "type": "Links",
-            "item": "Text Link",
+            "item": "Callout",
             "subitem": "textCase"
           },
           "path": [
             "App",
             "Links",
-            "Text Link",
+            "Callout",
             "textCase"
           ]
         },
@@ -23907,17 +23907,17 @@ module.exports = {
             "value": "{textDecoration.none}",
             "type": "textDecoration"
           },
-          "name": "mch_app_links_text_link_text_decoration",
+          "name": "mch_app_links_callout_text_decoration",
           "attributes": {
             "category": "App",
             "type": "Links",
-            "item": "Text Link",
+            "item": "Callout",
             "subitem": "textDecoration"
           },
           "path": [
             "App",
             "Links",
-            "Text Link",
+            "Callout",
             "textDecoration"
           ]
         }

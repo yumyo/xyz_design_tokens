@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Thu, 01 Jun 2023 14:38:41 GMT
+ * Generated on Thu, 01 Jun 2023 16:00:49 GMT
  */
 
 export default tokens;
@@ -1319,7 +1319,7 @@ declare const tokens: {
         "textCase": DesignToken,
         "textDecoration": DesignToken
       },
-      "Text Link": {
+      "Callout": {
         "fontFamily": DesignToken,
         "fontWeight": DesignToken,
         "lineHeight": DesignToken,
