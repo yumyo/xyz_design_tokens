@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Mon, 22 May 2023 12:22:03 GMT
+ * Generated on Thu, 01 Jun 2023 11:39:58 GMT
  */
 
 export default tokens;
@@ -47,8 +47,8 @@ declare const tokens: {
       "Sectors": {
         "Film": DesignToken,
         "Parcour, Public": DesignToken,
-        "Unlimited,  Encounters, Meridians": DesignToken,
-        "Discoveries, Statements,  Positions": DesignToken,
+        "Unlimited, Encounters, Meridians": DesignToken,
+        "Discoveries, Statements, Positions": DesignToken,
         "Galleries": DesignToken,
         "Feature, Nova": DesignToken,
         "Edition": DesignToken,
@@ -136,10 +136,51 @@ declare const tokens: {
       }
     }
   },
+  "spacing": {
+    "2": DesignToken,
+    "4": DesignToken,
+    "8": DesignToken,
+    "12": DesignToken,
+    "16": DesignToken,
+    "20": DesignToken,
+    "24": DesignToken,
+    "32": DesignToken,
+    "40": DesignToken,
+    "48": DesignToken,
+    "56": DesignToken,
+    "64": DesignToken,
+    "72": DesignToken,
+    "80": DesignToken,
+    "96": DesignToken,
+    "112": DesignToken,
+    "120": DesignToken
+  },
+  "opacity": {
+    "opacity-10": DesignToken,
+    "opacity-0": DesignToken,
+    "opacity-5": DesignToken,
+    "opacity-25": DesignToken,
+    "opacity-30": DesignToken,
+    "opacity-40": DesignToken,
+    "opacity-50": DesignToken,
+    "opacity-60": DesignToken,
+    "opacity-70": DesignToken,
+    "opacity-80": DesignToken,
+    "opacity-90": DesignToken,
+    "opacity-95": DesignToken,
+    "opacity-100": DesignToken
+  },
+  "max-width": {
+    "sm": DesignToken,
+    "md": DesignToken,
+    "lg": DesignToken,
+    "xl": DesignToken,
+    "2xl": DesignToken
+  },
   "fontFamilies": {
     "art-basel-headline": DesignToken,
-    "ivar-display": DesignToken,
-    "art-basel-text": DesignToken
+    "art-basel-text": DesignToken,
+    "ivar-display": DesignToken
   },
   "lineHeights": {
     "0": DesignToken,
@@ -165,12 +206,10 @@ declare const tokens: {
   },
   "fontWeights": {
     "art-basel-headline-0": DesignToken,
-    "ivar-display-1": DesignToken,
-    "ivar-display-2": DesignToken,
-    "art-basel-text-3": DesignToken,
-    "art-basel-text-4": DesignToken,
     "art-basel-text-1": DesignToken,
-    "art-basel-text-2": DesignToken
+    "art-basel-text-2": DesignToken,
+    "ivar-display-3": DesignToken,
+    "ivar-display-4": DesignToken
   },
   "fontSize": {
     "0": DesignToken,
@@ -202,8 +241,393 @@ declare const tokens: {
     "1": DesignToken
   },
   "Typography": {
-    "Headings (common)": {
-      "H1 - XS-SM": {
+    "Headings": {
+      "XS-SM": {
+        "H1": {
+          "fontFamily": DesignToken,
+          "fontWeight": DesignToken,
+          "lineHeight": DesignToken,
+          "fontSize": DesignToken,
+          "letterSpacing": DesignToken,
+          "paragraphSpacing": DesignToken,
+          "paragraphIndent": DesignToken,
+          "textCase": DesignToken,
+          "textDecoration": DesignToken
+        },
+        "H2": {
+          "fontFamily": DesignToken,
+          "fontWeight": DesignToken,
+          "lineHeight": DesignToken,
+          "fontSize": DesignToken,
+          "letterSpacing": DesignToken,
+          "paragraphSpacing": DesignToken,
+          "paragraphIndent": DesignToken,
+          "textCase": DesignToken,
+          "textDecoration": DesignToken
+        },
+        "H3": {
+          "fontFamily": DesignToken,
+          "fontWeight": DesignToken,
+          "lineHeight": DesignToken,
+          "fontSize": DesignToken,
+          "letterSpacing": DesignToken,
+          "paragraphSpacing": DesignToken,
+          "paragraphIndent": DesignToken,
+          "textCase": DesignToken,
+          "textDecoration": DesignToken
+        },
+        "H4": {
+          "fontFamily": DesignToken,
+          "fontWeight": DesignToken,
+          "lineHeight": DesignToken,
+          "fontSize": DesignToken,
+          "letterSpacing": DesignToken,
+          "paragraphSpacing": DesignToken,
+          "paragraphIndent": DesignToken,
+          "textCase": DesignToken,
+          "textDecoration": DesignToken
+        },
+        "H5": {
+          "fontFamily": DesignToken,
+          "fontWeight": DesignToken,
+          "lineHeight": DesignToken,
+          "fontSize": DesignToken,
+          "letterSpacing": DesignToken,
+          "paragraphSpacing": DesignToken,
+          "paragraphIndent": DesignToken,
+          "textCase": DesignToken,
+          "textDecoration": DesignToken
+        }
+      },
+      "XL": {
+        "H1": {
+          "fontFamily": DesignToken,
+          "fontWeight": DesignToken,
+          "lineHeight": DesignToken,
+          "fontSize": DesignToken,
+          "letterSpacing": DesignToken,
+          "paragraphSpacing": DesignToken,
+          "paragraphIndent": DesignToken,
+          "textCase": DesignToken,
+          "textDecoration": DesignToken
+        },
+        "H2": {
+          "fontFamily": DesignToken,
+          "fontWeight": DesignToken,
+          "lineHeight": DesignToken,
+          "fontSize": DesignToken,
+          "letterSpacing": DesignToken,
+          "paragraphSpacing": DesignToken,
+          "paragraphIndent": DesignToken,
+          "textCase": DesignToken,
+          "textDecoration": DesignToken
+        },
+        "H3": {
+          "fontFamily": DesignToken,
+          "fontWeight": DesignToken,
+          "lineHeight": DesignToken,
+          "fontSize": DesignToken,
+          "letterSpacing": DesignToken,
+          "paragraphSpacing": DesignToken,
+          "paragraphIndent": DesignToken,
+          "textCase": DesignToken,
+          "textDecoration": DesignToken
+        },
+        "H4": {
+          "fontFamily": DesignToken,
+          "fontWeight": DesignToken,
+          "lineHeight": DesignToken,
+          "fontSize": DesignToken,
+          "letterSpacing": DesignToken,
+          "paragraphSpacing": DesignToken,
+          "paragraphIndent": DesignToken,
+          "textCase": DesignToken,
+          "textDecoration": DesignToken
+        },
+        "H5": {
+          "fontFamily": DesignToken,
+          "fontWeight": DesignToken,
+          "lineHeight": DesignToken,
+          "fontSize": DesignToken,
+          "letterSpacing": DesignToken,
+          "paragraphSpacing": DesignToken,
+          "paragraphIndent": DesignToken,
+          "textCase": DesignToken,
+          "textDecoration": DesignToken
+        }
+      },
+      "MD": {
+        "H1": {
+          "fontFamily": DesignToken,
+          "fontWeight": DesignToken,
+          "lineHeight": DesignToken,
+          "fontSize": DesignToken,
+          "letterSpacing": DesignToken,
+          "paragraphSpacing": DesignToken,
+          "paragraphIndent": DesignToken,
+          "textCase": DesignToken,
+          "textDecoration": DesignToken
+        },
+        "H2": {
+          "fontFamily": DesignToken,
+          "fontWeight": DesignToken,
+          "lineHeight": DesignToken,
+          "fontSize": DesignToken,
+          "letterSpacing": DesignToken,
+          "paragraphSpacing": DesignToken,
+          "paragraphIndent": DesignToken,
+          "textCase": DesignToken,
+          "textDecoration": DesignToken
+        },
+        "H3": {
+          "fontFamily": DesignToken,
+          "fontWeight": DesignToken,
+          "lineHeight": DesignToken,
+          "fontSize": DesignToken,
+          "letterSpacing": DesignToken,
+          "paragraphSpacing": DesignToken,
+          "paragraphIndent": DesignToken,
+          "textCase": DesignToken,
+          "textDecoration": DesignToken
+        },
+        "H4": {
+          "fontFamily": DesignToken,
+          "fontWeight": DesignToken,
+          "lineHeight": DesignToken,
+          "fontSize": DesignToken,
+          "letterSpacing": DesignToken,
+          "paragraphSpacing": DesignToken,
+          "paragraphIndent": DesignToken,
+          "textCase": DesignToken,
+          "textDecoration": DesignToken
+        },
+        "H5": {
+          "fontFamily": DesignToken,
+          "fontWeight": DesignToken,
+          "lineHeight": DesignToken,
+          "fontSize": DesignToken,
+          "letterSpacing": DesignToken,
+          "paragraphSpacing": DesignToken,
+          "paragraphIndent": DesignToken,
+          "textCase": DesignToken,
+          "textDecoration": DesignToken
+        }
+      },
+      "LG": {
+        "H1": {
+          "fontFamily": DesignToken,
+          "fontWeight": DesignToken,
+          "lineHeight": DesignToken,
+          "fontSize": DesignToken,
+          "letterSpacing": DesignToken,
+          "paragraphSpacing": DesignToken,
+          "paragraphIndent": DesignToken,
+          "textCase": DesignToken,
+          "textDecoration": DesignToken
+        },
+        "H2": {
+          "fontFamily": DesignToken,
+          "fontWeight": DesignToken,
+          "lineHeight": DesignToken,
+          "fontSize": DesignToken,
+          "letterSpacing": DesignToken,
+          "paragraphSpacing": DesignToken,
+          "paragraphIndent": DesignToken,
+          "textCase": DesignToken,
+          "textDecoration": DesignToken
+        },
+        "H3": {
+          "fontFamily": DesignToken,
+          "fontWeight": DesignToken,
+          "lineHeight": DesignToken,
+          "fontSize": DesignToken,
+          "letterSpacing": DesignToken,
+          "paragraphSpacing": DesignToken,
+          "paragraphIndent": DesignToken,
+          "textCase": DesignToken,
+          "textDecoration": DesignToken
+        },
+        "H4": {
+          "fontFamily": DesignToken,
+          "fontWeight": DesignToken,
+          "lineHeight": DesignToken,
+          "fontSize": DesignToken,
+          "letterSpacing": DesignToken,
+          "paragraphSpacing": DesignToken,
+          "paragraphIndent": DesignToken,
+          "textCase": DesignToken,
+          "textDecoration": DesignToken
+        },
+        "H5": {
+          "fontFamily": DesignToken,
+          "fontWeight": DesignToken,
+          "lineHeight": DesignToken,
+          "fontSize": DesignToken,
+          "letterSpacing": DesignToken,
+          "paragraphSpacing": DesignToken,
+          "paragraphIndent": DesignToken,
+          "textCase": DesignToken,
+          "textDecoration": DesignToken
+        }
+      },
+      "2XL": {
+        "H1": {
+          "fontFamily": DesignToken,
+          "fontWeight": DesignToken,
+          "lineHeight": DesignToken,
+          "fontSize": DesignToken,
+          "letterSpacing": DesignToken,
+          "paragraphSpacing": DesignToken,
+          "paragraphIndent": DesignToken,
+          "textCase": DesignToken,
+          "textDecoration": DesignToken
+        },
+        "H2": {
+          "fontFamily": DesignToken,
+          "fontWeight": DesignToken,
+          "lineHeight": DesignToken,
+          "fontSize": DesignToken,
+          "letterSpacing": DesignToken,
+          "paragraphSpacing": DesignToken,
+          "paragraphIndent": DesignToken,
+          "textCase": DesignToken,
+          "textDecoration": DesignToken
+        },
+        "H3": {
+          "fontFamily": DesignToken,
+          "fontWeight": DesignToken,
+          "lineHeight": DesignToken,
+          "fontSize": DesignToken,
+          "letterSpacing": DesignToken,
+          "paragraphSpacing": DesignToken,
+          "paragraphIndent": DesignToken,
+          "textCase": DesignToken,
+          "textDecoration": DesignToken
+        },
+        "H4": {
+          "fontFamily": DesignToken,
+          "fontWeight": DesignToken,
+          "lineHeight": DesignToken,
+          "fontSize": DesignToken,
+          "letterSpacing": DesignToken,
+          "paragraphSpacing": DesignToken,
+          "paragraphIndent": DesignToken,
+          "textCase": DesignToken,
+          "textDecoration": DesignToken
+        },
+        "H5": {
+          "fontFamily": DesignToken,
+          "fontWeight": DesignToken,
+          "lineHeight": DesignToken,
+          "fontSize": DesignToken,
+          "letterSpacing": DesignToken,
+          "paragraphSpacing": DesignToken,
+          "paragraphIndent": DesignToken,
+          "textCase": DesignToken,
+          "textDecoration": DesignToken
+        }
+      }
+    },
+    "Paragraphs": {
+      "XS-SM": {
+        "P1": {
+          "fontFamily": DesignToken,
+          "fontWeight": DesignToken,
+          "lineHeight": DesignToken,
+          "fontSize": DesignToken,
+          "letterSpacing": DesignToken,
+          "paragraphSpacing": DesignToken,
+          "paragraphIndent": DesignToken,
+          "textCase": DesignToken,
+          "textDecoration": DesignToken
+        },
+        "P2": {
+          "fontFamily": DesignToken,
+          "fontWeight": DesignToken,
+          "lineHeight": DesignToken,
+          "fontSize": DesignToken,
+          "letterSpacing": DesignToken,
+          "paragraphSpacing": DesignToken,
+          "paragraphIndent": DesignToken,
+          "textCase": DesignToken,
+          "textDecoration": DesignToken
+        }
+      },
+      "XL": {
+        "P1": {
+          "fontFamily": DesignToken,
+          "fontWeight": DesignToken,
+          "lineHeight": DesignToken,
+          "fontSize": DesignToken,
+          "letterSpacing": DesignToken,
+          "paragraphSpacing": DesignToken,
+          "paragraphIndent": DesignToken,
+          "textCase": DesignToken,
+          "textDecoration": DesignToken
+        },
+        "P2": {
+          "fontFamily": DesignToken,
+          "fontWeight": DesignToken,
+          "lineHeight": DesignToken,
+          "fontSize": DesignToken,
+          "letterSpacing": DesignToken,
+          "paragraphSpacing": DesignToken,
+          "paragraphIndent": DesignToken,
+          "textCase": DesignToken,
+          "textDecoration": DesignToken
+        }
+      },
+      "MD": {
+        "P1": {
+          "fontFamily": DesignToken,
+          "fontWeight": DesignToken,
+          "lineHeight": DesignToken,
+          "fontSize": DesignToken,
+          "letterSpacing": DesignToken,
+          "paragraphSpacing": DesignToken,
+          "paragraphIndent": DesignToken,
+          "textCase": DesignToken,
+          "textDecoration": DesignToken
+        },
+        "P2": {
+          "fontFamily": DesignToken,
+          "fontWeight": DesignToken,
+          "lineHeight": DesignToken,
+          "fontSize": DesignToken,
+          "letterSpacing": DesignToken,
+          "paragraphSpacing": DesignToken,
+          "paragraphIndent": DesignToken,
+          "textCase": DesignToken,
+          "textDecoration": DesignToken
+        }
+      },
+      "LG": {
+        "P1": {
+          "fontFamily": DesignToken,
+          "fontWeight": DesignToken,
+          "lineHeight": DesignToken,
+          "fontSize": DesignToken,
+          "letterSpacing": DesignToken,
+          "paragraphSpacing": DesignToken,
+          "paragraphIndent": DesignToken,
+          "textCase": DesignToken,
+          "textDecoration": DesignToken
+        },
+        "P2": {
+          "fontFamily": DesignToken,
+          "fontWeight": DesignToken,
+          "lineHeight": DesignToken,
+          "fontSize": DesignToken,
+          "letterSpacing": DesignToken,
+          "paragraphSpacing": DesignToken,
+          "paragraphIndent": DesignToken,
+          "textCase": DesignToken,
+          "textDecoration": DesignToken
+        }
+      }
+    },
+    "Headings (fixed)": {
+      "01": {
         "fontFamily": DesignToken,
         "fontWeight": DesignToken,
         "lineHeight": DesignToken,
@@ -214,7 +638,20 @@ declare const tokens: {
         "textCase": DesignToken,
         "textDecoration": DesignToken
       },
-      "H2 - XS-SM": {
+      "02": {
+        "fontFamily": DesignToken,
+        "fontWeight": DesignToken,
+        "lineHeight": DesignToken,
+        "fontSize": DesignToken,
+        "letterSpacing": DesignToken,
+        "paragraphSpacing": DesignToken,
+        "paragraphIndent": DesignToken,
+        "textCase": DesignToken,
+        "textDecoration": DesignToken
+      }
+    },
+    "Body": {
+      "Text - Large": {
         "fontFamily": DesignToken,
         "fontWeight": DesignToken,
         "lineHeight": DesignToken,
@@ -225,7 +662,7 @@ declare const tokens: {
         "textCase": DesignToken,
         "textDecoration": DesignToken
       },
-      "H3 - XS-SM": {
+      "Text - Medium": {
         "fontFamily": DesignToken,
         "fontWeight": DesignToken,
         "lineHeight": DesignToken,
@@ -236,7 +673,20 @@ declare const tokens: {
         "textCase": DesignToken,
         "textDecoration": DesignToken
       },
-      "H4 - XS-SM": {
+      "Text - Small": {
+        "fontFamily": DesignToken,
+        "fontWeight": DesignToken,
+        "lineHeight": DesignToken,
+        "fontSize": DesignToken,
+        "letterSpacing": DesignToken,
+        "paragraphSpacing": DesignToken,
+        "paragraphIndent": DesignToken,
+        "textCase": DesignToken,
+        "textDecoration": DesignToken
+      }
+    },
+    "Supporting": {
+      "Label - XLarge": {
         "fontFamily": DesignToken,
         "fontWeight": DesignToken,
         "lineHeight": DesignToken,
@@ -247,7 +697,7 @@ declare const tokens: {
         "textCase": DesignToken,
         "textDecoration": DesignToken
       },
-      "H5 - XS-SM": {
+      "Label - Large": {
         "fontFamily": DesignToken,
         "fontWeight": DesignToken,
         "lineHeight": DesignToken,
@@ -258,7 +708,7 @@ declare const tokens: {
         "textCase": DesignToken,
         "textDecoration": DesignToken
       },
-      "H1 - XL": {
+      "Label - Medium": {
         "fontFamily": DesignToken,
         "fontWeight": DesignToken,
         "lineHeight": DesignToken,
@@ -269,7 +719,20 @@ declare const tokens: {
         "textCase": DesignToken,
         "textDecoration": DesignToken
       },
-      "H2 - XL": {
+      "Label - Small": {
+        "fontFamily": DesignToken,
+        "fontWeight": DesignToken,
+        "lineHeight": DesignToken,
+        "fontSize": DesignToken,
+        "letterSpacing": DesignToken,
+        "paragraphSpacing": DesignToken,
+        "paragraphIndent": DesignToken,
+        "textCase": DesignToken,
+        "textDecoration": DesignToken
+      }
+    },
+    "Links": {
+      "Text Link - Medium (Default)": {
         "fontFamily": DesignToken,
         "fontWeight": DesignToken,
         "lineHeight": DesignToken,
@@ -280,7 +743,7 @@ declare const tokens: {
         "textCase": DesignToken,
         "textDecoration": DesignToken
       },
-      "H3 - XL": {
+      "Text Link - Medium (Hover)": {
         "fontFamily": DesignToken,
         "fontWeight": DesignToken,
         "lineHeight": DesignToken,
@@ -291,7 +754,7 @@ declare const tokens: {
         "textCase": DesignToken,
         "textDecoration": DesignToken
       },
-      "H4 - XL": {
+      "External Link - Medium (Default)": {
         "fontFamily": DesignToken,
         "fontWeight": DesignToken,
         "lineHeight": DesignToken,
@@ -302,7 +765,7 @@ declare const tokens: {
         "textCase": DesignToken,
         "textDecoration": DesignToken
       },
-      "H5 - XL": {
+      "Button - Medium": {
         "fontFamily": DesignToken,
         "fontWeight": DesignToken,
         "lineHeight": DesignToken,
@@ -312,6 +775,293 @@ declare const tokens: {
         "paragraphIndent": DesignToken,
         "textCase": DesignToken,
         "textDecoration": DesignToken
+      }
+    },
+    "Editorial Headings": {
+      "XS-SM": {
+        "H1": {
+          "fontFamily": DesignToken,
+          "fontWeight": DesignToken,
+          "lineHeight": DesignToken,
+          "fontSize": DesignToken,
+          "letterSpacing": DesignToken,
+          "paragraphSpacing": DesignToken,
+          "paragraphIndent": DesignToken,
+          "textCase": DesignToken,
+          "textDecoration": DesignToken
+        },
+        "H2": {
+          "fontFamily": DesignToken,
+          "fontWeight": DesignToken,
+          "lineHeight": DesignToken,
+          "fontSize": DesignToken,
+          "letterSpacing": DesignToken,
+          "paragraphSpacing": DesignToken,
+          "paragraphIndent": DesignToken,
+          "textCase": DesignToken,
+          "textDecoration": DesignToken
+        },
+        "H3": {
+          "fontFamily": DesignToken,
+          "fontWeight": DesignToken,
+          "lineHeight": DesignToken,
+          "fontSize": DesignToken,
+          "letterSpacing": DesignToken,
+          "paragraphSpacing": DesignToken,
+          "paragraphIndent": DesignToken,
+          "textCase": DesignToken,
+          "textDecoration": DesignToken
+        },
+        "H4": {
+          "fontFamily": DesignToken,
+          "fontWeight": DesignToken,
+          "lineHeight": DesignToken,
+          "fontSize": DesignToken,
+          "letterSpacing": DesignToken,
+          "paragraphSpacing": DesignToken,
+          "paragraphIndent": DesignToken,
+          "textCase": DesignToken,
+          "textDecoration": DesignToken
+        },
+        "H5": {
+          "fontFamily": DesignToken,
+          "fontWeight": DesignToken,
+          "lineHeight": DesignToken,
+          "fontSize": DesignToken,
+          "letterSpacing": DesignToken,
+          "paragraphSpacing": DesignToken,
+          "paragraphIndent": DesignToken,
+          "textCase": DesignToken,
+          "textDecoration": DesignToken
+        }
+      },
+      "XL": {
+        "H1": {
+          "fontFamily": DesignToken,
+          "fontWeight": DesignToken,
+          "lineHeight": DesignToken,
+          "fontSize": DesignToken,
+          "letterSpacing": DesignToken,
+          "paragraphSpacing": DesignToken,
+          "paragraphIndent": DesignToken,
+          "textCase": DesignToken,
+          "textDecoration": DesignToken
+        },
+        "H2": {
+          "fontFamily": DesignToken,
+          "fontWeight": DesignToken,
+          "lineHeight": DesignToken,
+          "fontSize": DesignToken,
+          "letterSpacing": DesignToken,
+          "paragraphSpacing": DesignToken,
+          "paragraphIndent": DesignToken,
+          "textCase": DesignToken,
+          "textDecoration": DesignToken
+        },
+        "H3": {
+          "fontFamily": DesignToken,
+          "fontWeight": DesignToken,
+          "lineHeight": DesignToken,
+          "fontSize": DesignToken,
+          "letterSpacing": DesignToken,
+          "paragraphSpacing": DesignToken,
+          "paragraphIndent": DesignToken,
+          "textCase": DesignToken,
+          "textDecoration": DesignToken
+        },
+        "H4": {
+          "fontFamily": DesignToken,
+          "fontWeight": DesignToken,
+          "lineHeight": DesignToken,
+          "fontSize": DesignToken,
+          "letterSpacing": DesignToken,
+          "paragraphSpacing": DesignToken,
+          "paragraphIndent": DesignToken,
+          "textCase": DesignToken,
+          "textDecoration": DesignToken
+        },
+        "H5": {
+          "fontFamily": DesignToken,
+          "fontWeight": DesignToken,
+          "lineHeight": DesignToken,
+          "fontSize": DesignToken,
+          "letterSpacing": DesignToken,
+          "paragraphSpacing": DesignToken,
+          "paragraphIndent": DesignToken,
+          "textCase": DesignToken,
+          "textDecoration": DesignToken
+        }
+      },
+      "MD": {
+        "H1": {
+          "fontFamily": DesignToken,
+          "fontWeight": DesignToken,
+          "lineHeight": DesignToken,
+          "fontSize": DesignToken,
+          "letterSpacing": DesignToken,
+          "paragraphSpacing": DesignToken,
+          "paragraphIndent": DesignToken,
+          "textCase": DesignToken,
+          "textDecoration": DesignToken
+        },
+        "H2": {
+          "fontFamily": DesignToken,
+          "fontWeight": DesignToken,
+          "lineHeight": DesignToken,
+          "fontSize": DesignToken,
+          "letterSpacing": DesignToken,
+          "paragraphSpacing": DesignToken,
+          "paragraphIndent": DesignToken,
+          "textCase": DesignToken,
+          "textDecoration": DesignToken
+        },
+        "H3": {
+          "fontFamily": DesignToken,
+          "fontWeight": DesignToken,
+          "lineHeight": DesignToken,
+          "fontSize": DesignToken,
+          "letterSpacing": DesignToken,
+          "paragraphSpacing": DesignToken,
+          "paragraphIndent": DesignToken,
+          "textCase": DesignToken,
+          "textDecoration": DesignToken
+        },
+        "H4": {
+          "fontFamily": DesignToken,
+          "fontWeight": DesignToken,
+          "lineHeight": DesignToken,
+          "fontSize": DesignToken,
+          "letterSpacing": DesignToken,
+          "paragraphSpacing": DesignToken,
+          "paragraphIndent": DesignToken,
+          "textCase": DesignToken,
+          "textDecoration": DesignToken
+        },
+        "H5": {
+          "fontFamily": DesignToken,
+          "fontWeight": DesignToken,
+          "lineHeight": DesignToken,
+          "fontSize": DesignToken,
+          "letterSpacing": DesignToken,
+          "paragraphSpacing": DesignToken,
+          "paragraphIndent": DesignToken,
+          "textCase": DesignToken,
+          "textDecoration": DesignToken
+        }
+      },
+      "LG": {
+        "H1": {
+          "fontFamily": DesignToken,
+          "fontWeight": DesignToken,
+          "lineHeight": DesignToken,
+          "fontSize": DesignToken,
+          "letterSpacing": DesignToken,
+          "paragraphSpacing": DesignToken,
+          "paragraphIndent": DesignToken,
+          "textCase": DesignToken,
+          "textDecoration": DesignToken
+        },
+        "H2": {
+          "fontFamily": DesignToken,
+          "fontWeight": DesignToken,
+          "lineHeight": DesignToken,
+          "fontSize": DesignToken,
+          "letterSpacing": DesignToken,
+          "paragraphSpacing": DesignToken,
+          "paragraphIndent": DesignToken,
+          "textCase": DesignToken,
+          "textDecoration": DesignToken
+        },
+        "H3": {
+          "fontFamily": DesignToken,
+          "fontWeight": DesignToken,
+          "lineHeight": DesignToken,
+          "fontSize": DesignToken,
+          "letterSpacing": DesignToken,
+          "paragraphSpacing": DesignToken,
+          "paragraphIndent": DesignToken,
+          "textCase": DesignToken,
+          "textDecoration": DesignToken
+        },
+        "H4": {
+          "fontFamily": DesignToken,
+          "fontWeight": DesignToken,
+          "lineHeight": DesignToken,
+          "fontSize": DesignToken,
+          "letterSpacing": DesignToken,
+          "paragraphSpacing": DesignToken,
+          "paragraphIndent": DesignToken,
+          "textCase": DesignToken,
+          "textDecoration": DesignToken
+        },
+        "H5": {
+          "fontFamily": DesignToken,
+          "fontWeight": DesignToken,
+          "lineHeight": DesignToken,
+          "fontSize": DesignToken,
+          "letterSpacing": DesignToken,
+          "paragraphSpacing": DesignToken,
+          "paragraphIndent": DesignToken,
+          "textCase": DesignToken,
+          "textDecoration": DesignToken
+        }
+      },
+      "2XL": {
+        "H1": {
+          "fontFamily": DesignToken,
+          "fontWeight": DesignToken,
+          "lineHeight": DesignToken,
+          "fontSize": DesignToken,
+          "letterSpacing": DesignToken,
+          "paragraphSpacing": DesignToken,
+          "paragraphIndent": DesignToken,
+          "textCase": DesignToken,
+          "textDecoration": DesignToken
+        },
+        "H2": {
+          "fontFamily": DesignToken,
+          "fontWeight": DesignToken,
+          "lineHeight": DesignToken,
+          "fontSize": DesignToken,
+          "letterSpacing": DesignToken,
+          "paragraphSpacing": DesignToken,
+          "paragraphIndent": DesignToken,
+          "textCase": DesignToken,
+          "textDecoration": DesignToken
+        },
+        "H3": {
+          "fontFamily": DesignToken,
+          "fontWeight": DesignToken,
+          "lineHeight": DesignToken,
+          "fontSize": DesignToken,
+          "letterSpacing": DesignToken,
+          "paragraphSpacing": DesignToken,
+          "paragraphIndent": DesignToken,
+          "textCase": DesignToken,
+          "textDecoration": DesignToken
+        },
+        "h4": {
+          "fontFamily": DesignToken,
+          "fontWeight": DesignToken,
+          "lineHeight": DesignToken,
+          "fontSize": DesignToken,
+          "letterSpacing": DesignToken,
+          "paragraphSpacing": DesignToken,
+          "paragraphIndent": DesignToken,
+          "textCase": DesignToken,
+          "textDecoration": DesignToken
+        },
+        "H5": {
+          "fontFamily": DesignToken,
+          "fontWeight": DesignToken,
+          "lineHeight": DesignToken,
+          "fontSize": DesignToken,
+          "letterSpacing": DesignToken,
+          "paragraphSpacing": DesignToken,
+          "paragraphIndent": DesignToken,
+          "textCase": DesignToken,
+          "textDecoration": DesignToken
+        }
       }
     },
     "Editorial Quote": {
@@ -370,605 +1120,7 @@ declare const tokens: {
         "textCase": DesignToken,
         "textDecoration": DesignToken
       }
-    },
-    "Editorial Headings (common)": {
-      "H1 - XS-SM": {
-        "fontFamily": DesignToken,
-        "fontWeight": DesignToken,
-        "lineHeight": DesignToken,
-        "fontSize": DesignToken,
-        "letterSpacing": DesignToken,
-        "paragraphSpacing": DesignToken,
-        "paragraphIndent": DesignToken,
-        "textCase": DesignToken,
-        "textDecoration": DesignToken
-      },
-      "H2 - XS-SM": {
-        "fontFamily": DesignToken,
-        "fontWeight": DesignToken,
-        "lineHeight": DesignToken,
-        "fontSize": DesignToken,
-        "letterSpacing": DesignToken,
-        "paragraphSpacing": DesignToken,
-        "paragraphIndent": DesignToken,
-        "textCase": DesignToken,
-        "textDecoration": DesignToken
-      },
-      "H3 - XS-SM": {
-        "fontFamily": DesignToken,
-        "fontWeight": DesignToken,
-        "lineHeight": DesignToken,
-        "fontSize": DesignToken,
-        "letterSpacing": DesignToken,
-        "paragraphSpacing": DesignToken,
-        "paragraphIndent": DesignToken,
-        "textCase": DesignToken,
-        "textDecoration": DesignToken
-      },
-      "H4 - XS-SM": {
-        "fontFamily": DesignToken,
-        "fontWeight": DesignToken,
-        "lineHeight": DesignToken,
-        "fontSize": DesignToken,
-        "letterSpacing": DesignToken,
-        "paragraphSpacing": DesignToken,
-        "paragraphIndent": DesignToken,
-        "textCase": DesignToken,
-        "textDecoration": DesignToken
-      },
-      "H5 - XS-SM": {
-        "fontFamily": DesignToken,
-        "fontWeight": DesignToken,
-        "lineHeight": DesignToken,
-        "fontSize": DesignToken,
-        "letterSpacing": DesignToken,
-        "paragraphSpacing": DesignToken,
-        "paragraphIndent": DesignToken,
-        "textCase": DesignToken,
-        "textDecoration": DesignToken
-      },
-      "H1 - XL": {
-        "fontFamily": DesignToken,
-        "fontWeight": DesignToken,
-        "lineHeight": DesignToken,
-        "fontSize": DesignToken,
-        "letterSpacing": DesignToken,
-        "paragraphSpacing": DesignToken,
-        "paragraphIndent": DesignToken,
-        "textCase": DesignToken,
-        "textDecoration": DesignToken
-      },
-      "H2 - XL": {
-        "fontFamily": DesignToken,
-        "fontWeight": DesignToken,
-        "lineHeight": DesignToken,
-        "fontSize": DesignToken,
-        "letterSpacing": DesignToken,
-        "paragraphSpacing": DesignToken,
-        "paragraphIndent": DesignToken,
-        "textCase": DesignToken,
-        "textDecoration": DesignToken
-      },
-      "H3 - XL": {
-        "fontFamily": DesignToken,
-        "fontWeight": DesignToken,
-        "lineHeight": DesignToken,
-        "fontSize": DesignToken,
-        "letterSpacing": DesignToken,
-        "paragraphSpacing": DesignToken,
-        "paragraphIndent": DesignToken,
-        "textCase": DesignToken,
-        "textDecoration": DesignToken
-      },
-      "H4 - XL": {
-        "fontFamily": DesignToken,
-        "fontWeight": DesignToken,
-        "lineHeight": DesignToken,
-        "fontSize": DesignToken,
-        "letterSpacing": DesignToken,
-        "paragraphSpacing": DesignToken,
-        "paragraphIndent": DesignToken,
-        "textCase": DesignToken,
-        "textDecoration": DesignToken
-      },
-      "H5 - XL": {
-        "fontFamily": DesignToken,
-        "fontWeight": DesignToken,
-        "lineHeight": DesignToken,
-        "fontSize": DesignToken,
-        "letterSpacing": DesignToken,
-        "paragraphSpacing": DesignToken,
-        "paragraphIndent": DesignToken,
-        "textCase": DesignToken,
-        "textDecoration": DesignToken
-      }
-    },
-    "Paragraphs (other)": {
-      "P1 - MD": {
-        "fontFamily": DesignToken,
-        "fontWeight": DesignToken,
-        "lineHeight": DesignToken,
-        "fontSize": DesignToken,
-        "letterSpacing": DesignToken,
-        "paragraphSpacing": DesignToken,
-        "paragraphIndent": DesignToken,
-        "textCase": DesignToken,
-        "textDecoration": DesignToken
-      },
-      "P2 - MD": {
-        "fontFamily": DesignToken,
-        "fontWeight": DesignToken,
-        "lineHeight": DesignToken,
-        "fontSize": DesignToken,
-        "letterSpacing": DesignToken,
-        "paragraphSpacing": DesignToken,
-        "paragraphIndent": DesignToken,
-        "textCase": DesignToken,
-        "textDecoration": DesignToken
-      },
-      "P1 - LG": {
-        "fontFamily": DesignToken,
-        "fontWeight": DesignToken,
-        "lineHeight": DesignToken,
-        "fontSize": DesignToken,
-        "letterSpacing": DesignToken,
-        "paragraphSpacing": DesignToken,
-        "paragraphIndent": DesignToken,
-        "textCase": DesignToken,
-        "textDecoration": DesignToken
-      },
-      "P2 - LG": {
-        "fontFamily": DesignToken,
-        "fontWeight": DesignToken,
-        "lineHeight": DesignToken,
-        "fontSize": DesignToken,
-        "letterSpacing": DesignToken,
-        "paragraphSpacing": DesignToken,
-        "paragraphIndent": DesignToken,
-        "textCase": DesignToken,
-        "textDecoration": DesignToken
-      }
-    },
-    "Headings (other)": {
-      "H1 - MD": {
-        "fontFamily": DesignToken,
-        "fontWeight": DesignToken,
-        "lineHeight": DesignToken,
-        "fontSize": DesignToken,
-        "letterSpacing": DesignToken,
-        "paragraphSpacing": DesignToken,
-        "paragraphIndent": DesignToken,
-        "textCase": DesignToken,
-        "textDecoration": DesignToken
-      },
-      "H2 - MD": {
-        "fontFamily": DesignToken,
-        "fontWeight": DesignToken,
-        "lineHeight": DesignToken,
-        "fontSize": DesignToken,
-        "letterSpacing": DesignToken,
-        "paragraphSpacing": DesignToken,
-        "paragraphIndent": DesignToken,
-        "textCase": DesignToken,
-        "textDecoration": DesignToken
-      },
-      "H3 - MD": {
-        "fontFamily": DesignToken,
-        "fontWeight": DesignToken,
-        "lineHeight": DesignToken,
-        "fontSize": DesignToken,
-        "letterSpacing": DesignToken,
-        "paragraphSpacing": DesignToken,
-        "paragraphIndent": DesignToken,
-        "textCase": DesignToken,
-        "textDecoration": DesignToken
-      },
-      "H4 - MD": {
-        "fontFamily": DesignToken,
-        "fontWeight": DesignToken,
-        "lineHeight": DesignToken,
-        "fontSize": DesignToken,
-        "letterSpacing": DesignToken,
-        "paragraphSpacing": DesignToken,
-        "paragraphIndent": DesignToken,
-        "textCase": DesignToken,
-        "textDecoration": DesignToken
-      },
-      "H5 - MD": {
-        "fontFamily": DesignToken,
-        "fontWeight": DesignToken,
-        "lineHeight": DesignToken,
-        "fontSize": DesignToken,
-        "letterSpacing": DesignToken,
-        "paragraphSpacing": DesignToken,
-        "paragraphIndent": DesignToken,
-        "textCase": DesignToken,
-        "textDecoration": DesignToken
-      },
-      "H1 - LG": {
-        "fontFamily": DesignToken,
-        "fontWeight": DesignToken,
-        "lineHeight": DesignToken,
-        "fontSize": DesignToken,
-        "letterSpacing": DesignToken,
-        "paragraphSpacing": DesignToken,
-        "paragraphIndent": DesignToken,
-        "textCase": DesignToken,
-        "textDecoration": DesignToken
-      },
-      "H2 - LG": {
-        "fontFamily": DesignToken,
-        "fontWeight": DesignToken,
-        "lineHeight": DesignToken,
-        "fontSize": DesignToken,
-        "letterSpacing": DesignToken,
-        "paragraphSpacing": DesignToken,
-        "paragraphIndent": DesignToken,
-        "textCase": DesignToken,
-        "textDecoration": DesignToken
-      },
-      "H3 - LG": {
-        "fontFamily": DesignToken,
-        "fontWeight": DesignToken,
-        "lineHeight": DesignToken,
-        "fontSize": DesignToken,
-        "letterSpacing": DesignToken,
-        "paragraphSpacing": DesignToken,
-        "paragraphIndent": DesignToken,
-        "textCase": DesignToken,
-        "textDecoration": DesignToken
-      },
-      "H4 - LG": {
-        "fontFamily": DesignToken,
-        "fontWeight": DesignToken,
-        "lineHeight": DesignToken,
-        "fontSize": DesignToken,
-        "letterSpacing": DesignToken,
-        "paragraphSpacing": DesignToken,
-        "paragraphIndent": DesignToken,
-        "textCase": DesignToken,
-        "textDecoration": DesignToken
-      },
-      "H5 - LG": {
-        "fontFamily": DesignToken,
-        "fontWeight": DesignToken,
-        "lineHeight": DesignToken,
-        "fontSize": DesignToken,
-        "letterSpacing": DesignToken,
-        "paragraphSpacing": DesignToken,
-        "paragraphIndent": DesignToken,
-        "textCase": DesignToken,
-        "textDecoration": DesignToken
-      }
-    },
-    "Links": {
-      "Text Link - Medium (Default)": {
-        "fontFamily": DesignToken,
-        "fontWeight": DesignToken,
-        "lineHeight": DesignToken,
-        "fontSize": DesignToken,
-        "letterSpacing": DesignToken,
-        "paragraphSpacing": DesignToken,
-        "paragraphIndent": DesignToken,
-        "textCase": DesignToken,
-        "textDecoration": DesignToken
-      },
-      "Text Link - Medium (Hover)": {
-        "fontFamily": DesignToken,
-        "fontWeight": DesignToken,
-        "lineHeight": DesignToken,
-        "fontSize": DesignToken,
-        "letterSpacing": DesignToken,
-        "paragraphSpacing": DesignToken,
-        "paragraphIndent": DesignToken,
-        "textCase": DesignToken,
-        "textDecoration": DesignToken
-      },
-      "External Link - Medium (Default)": {
-        "fontFamily": DesignToken,
-        "fontWeight": DesignToken,
-        "lineHeight": DesignToken,
-        "fontSize": DesignToken,
-        "letterSpacing": DesignToken,
-        "paragraphSpacing": DesignToken,
-        "paragraphIndent": DesignToken,
-        "textCase": DesignToken,
-        "textDecoration": DesignToken
-      },
-      "Button - Medium": {
-        "fontFamily": DesignToken,
-        "fontWeight": DesignToken,
-        "lineHeight": DesignToken,
-        "fontSize": DesignToken,
-        "letterSpacing": DesignToken,
-        "paragraphSpacing": DesignToken,
-        "paragraphIndent": DesignToken,
-        "textCase": DesignToken,
-        "textDecoration": DesignToken
-      }
-    },
-    "Supporting": {
-      "Label - XLarge": {
-        "fontFamily": DesignToken,
-        "fontWeight": DesignToken,
-        "lineHeight": DesignToken,
-        "fontSize": DesignToken,
-        "letterSpacing": DesignToken,
-        "paragraphSpacing": DesignToken,
-        "paragraphIndent": DesignToken,
-        "textCase": DesignToken,
-        "textDecoration": DesignToken
-      },
-      "Label - Large": {
-        "fontFamily": DesignToken,
-        "fontWeight": DesignToken,
-        "lineHeight": DesignToken,
-        "fontSize": DesignToken,
-        "letterSpacing": DesignToken,
-        "paragraphSpacing": DesignToken,
-        "paragraphIndent": DesignToken,
-        "textCase": DesignToken,
-        "textDecoration": DesignToken
-      },
-      "Label - Medium": {
-        "fontFamily": DesignToken,
-        "fontWeight": DesignToken,
-        "lineHeight": DesignToken,
-        "fontSize": DesignToken,
-        "letterSpacing": DesignToken,
-        "paragraphSpacing": DesignToken,
-        "paragraphIndent": DesignToken,
-        "textCase": DesignToken,
-        "textDecoration": DesignToken
-      },
-      "Label - Small": {
-        "fontFamily": DesignToken,
-        "fontWeight": DesignToken,
-        "lineHeight": DesignToken,
-        "fontSize": DesignToken,
-        "letterSpacing": DesignToken,
-        "paragraphSpacing": DesignToken,
-        "paragraphIndent": DesignToken,
-        "textCase": DesignToken,
-        "textDecoration": DesignToken
-      }
-    },
-    "Body": {
-      "Text - Large": {
-        "fontFamily": DesignToken,
-        "fontWeight": DesignToken,
-        "lineHeight": DesignToken,
-        "fontSize": DesignToken,
-        "letterSpacing": DesignToken,
-        "paragraphSpacing": DesignToken,
-        "paragraphIndent": DesignToken,
-        "textCase": DesignToken,
-        "textDecoration": DesignToken
-      },
-      "Text - Medium": {
-        "fontFamily": DesignToken,
-        "fontWeight": DesignToken,
-        "lineHeight": DesignToken,
-        "fontSize": DesignToken,
-        "letterSpacing": DesignToken,
-        "paragraphSpacing": DesignToken,
-        "paragraphIndent": DesignToken,
-        "textCase": DesignToken,
-        "textDecoration": DesignToken
-      },
-      "Text - Small": {
-        "fontFamily": DesignToken,
-        "fontWeight": DesignToken,
-        "lineHeight": DesignToken,
-        "fontSize": DesignToken,
-        "letterSpacing": DesignToken,
-        "paragraphSpacing": DesignToken,
-        "paragraphIndent": DesignToken,
-        "textCase": DesignToken,
-        "textDecoration": DesignToken
-      }
-    },
-    "Headings (fixed)": {
-      "01": {
-        "fontFamily": DesignToken,
-        "fontWeight": DesignToken,
-        "lineHeight": DesignToken,
-        "fontSize": DesignToken,
-        "letterSpacing": DesignToken,
-        "paragraphSpacing": DesignToken,
-        "paragraphIndent": DesignToken,
-        "textCase": DesignToken,
-        "textDecoration": DesignToken
-      },
-      "02": {
-        "fontFamily": DesignToken,
-        "fontWeight": DesignToken,
-        "lineHeight": DesignToken,
-        "fontSize": DesignToken,
-        "letterSpacing": DesignToken,
-        "paragraphSpacing": DesignToken,
-        "paragraphIndent": DesignToken,
-        "textCase": DesignToken,
-        "textDecoration": DesignToken
-      }
-    },
-    "Paragraphs (common)": {
-      "P1 - XS-SM": {
-        "fontFamily": DesignToken,
-        "fontWeight": DesignToken,
-        "lineHeight": DesignToken,
-        "fontSize": DesignToken,
-        "letterSpacing": DesignToken,
-        "paragraphSpacing": DesignToken,
-        "paragraphIndent": DesignToken,
-        "textCase": DesignToken,
-        "textDecoration": DesignToken
-      },
-      "P2 - XS-SM": {
-        "fontFamily": DesignToken,
-        "fontWeight": DesignToken,
-        "lineHeight": DesignToken,
-        "fontSize": DesignToken,
-        "letterSpacing": DesignToken,
-        "paragraphSpacing": DesignToken,
-        "paragraphIndent": DesignToken,
-        "textCase": DesignToken,
-        "textDecoration": DesignToken
-      },
-      "P1 - XL": {
-        "fontFamily": DesignToken,
-        "fontWeight": DesignToken,
-        "lineHeight": DesignToken,
-        "fontSize": DesignToken,
-        "letterSpacing": DesignToken,
-        "paragraphSpacing": DesignToken,
-        "paragraphIndent": DesignToken,
-        "textCase": DesignToken,
-        "textDecoration": DesignToken
-      },
-      "P2 - XL": {
-        "fontFamily": DesignToken,
-        "fontWeight": DesignToken,
-        "lineHeight": DesignToken,
-        "fontSize": DesignToken,
-        "letterSpacing": DesignToken,
-        "paragraphSpacing": DesignToken,
-        "paragraphIndent": DesignToken,
-        "textCase": DesignToken,
-        "textDecoration": DesignToken
-      }
-    },
-    "Editorial Headings (other)": {
-      "H1 - MD": {
-        "fontFamily": DesignToken,
-        "fontWeight": DesignToken,
-        "lineHeight": DesignToken,
-        "fontSize": DesignToken,
-        "letterSpacing": DesignToken,
-        "paragraphSpacing": DesignToken,
-        "paragraphIndent": DesignToken,
-        "textCase": DesignToken,
-        "textDecoration": DesignToken
-      },
-      "H2 - MD": {
-        "fontFamily": DesignToken,
-        "fontWeight": DesignToken,
-        "lineHeight": DesignToken,
-        "fontSize": DesignToken,
-        "letterSpacing": DesignToken,
-        "paragraphSpacing": DesignToken,
-        "paragraphIndent": DesignToken,
-        "textCase": DesignToken,
-        "textDecoration": DesignToken
-      },
-      "H3 - MD": {
-        "fontFamily": DesignToken,
-        "fontWeight": DesignToken,
-        "lineHeight": DesignToken,
-        "fontSize": DesignToken,
-        "letterSpacing": DesignToken,
-        "paragraphSpacing": DesignToken,
-        "paragraphIndent": DesignToken,
-        "textCase": DesignToken,
-        "textDecoration": DesignToken
-      },
-      "H4 - MD": {
-        "fontFamily": DesignToken,
-        "fontWeight": DesignToken,
-        "lineHeight": DesignToken,
-        "fontSize": DesignToken,
-        "letterSpacing": DesignToken,
-        "paragraphSpacing": DesignToken,
-        "paragraphIndent": DesignToken,
-        "textCase": DesignToken,
-        "textDecoration": DesignToken
-      },
-      "H5 - MD": {
-        "fontFamily": DesignToken,
-        "fontWeight": DesignToken,
-        "lineHeight": DesignToken,
-        "fontSize": DesignToken,
-        "letterSpacing": DesignToken,
-        "paragraphSpacing": DesignToken,
-        "paragraphIndent": DesignToken,
-        "textCase": DesignToken,
-        "textDecoration": DesignToken
-      },
-      "H1 - LG": {
-        "fontFamily": DesignToken,
-        "fontWeight": DesignToken,
-        "lineHeight": DesignToken,
-        "fontSize": DesignToken,
-        "letterSpacing": DesignToken,
-        "paragraphSpacing": DesignToken,
-        "paragraphIndent": DesignToken,
-        "textCase": DesignToken,
-        "textDecoration": DesignToken
-      },
-      "H2 - LG": {
-        "fontFamily": DesignToken,
-        "fontWeight": DesignToken,
-        "lineHeight": DesignToken,
-        "fontSize": DesignToken,
-        "letterSpacing": DesignToken,
-        "paragraphSpacing": DesignToken,
-        "paragraphIndent": DesignToken,
-        "textCase": DesignToken,
-        "textDecoration": DesignToken
-      },
-      "H3 - LG": {
-        "fontFamily": DesignToken,
-        "fontWeight": DesignToken,
-        "lineHeight": DesignToken,
-        "fontSize": DesignToken,
-        "letterSpacing": DesignToken,
-        "paragraphSpacing": DesignToken,
-        "paragraphIndent": DesignToken,
-        "textCase": DesignToken,
-        "textDecoration": DesignToken
-      },
-      "H4 - LG": {
-        "fontFamily": DesignToken,
-        "fontWeight": DesignToken,
-        "lineHeight": DesignToken,
-        "fontSize": DesignToken,
-        "letterSpacing": DesignToken,
-        "paragraphSpacing": DesignToken,
-        "paragraphIndent": DesignToken,
-        "textCase": DesignToken,
-        "textDecoration": DesignToken
-      },
-      "H5 - LG": {
-        "fontFamily": DesignToken,
-        "fontWeight": DesignToken,
-        "lineHeight": DesignToken,
-        "fontSize": DesignToken,
-        "letterSpacing": DesignToken,
-        "paragraphSpacing": DesignToken,
-        "paragraphIndent": DesignToken,
-        "textCase": DesignToken,
-        "textDecoration": DesignToken
-      }
     }
-  },
-  "spacing": {
-    "2": DesignToken,
-    "4": DesignToken,
-    "8": DesignToken,
-    "12": DesignToken,
-    "16": DesignToken,
-    "20": DesignToken,
-    "24": DesignToken,
-    "32": DesignToken,
-    "40": DesignToken,
-    "48": DesignToken,
-    "56": DesignToken,
-    "64": DesignToken,
-    "72": DesignToken,
-    "80": DesignToken,
-    "96": DesignToken,
-    "112": DesignToken,
-    "120": DesignToken
   },
   "textCase": {
     "none": DesignToken,
@@ -981,28 +1133,6 @@ declare const tokens: {
   },
   "paragraphIndent": {
     "0": DesignToken
-  },
-  "opacity": {
-    "opacity-10": DesignToken,
-    "opacity-0": DesignToken,
-    "opacity-5": DesignToken,
-    "opacity-25": DesignToken,
-    "opacity-30": DesignToken,
-    "opacity-40": DesignToken,
-    "opacity-50": DesignToken,
-    "opacity-60": DesignToken,
-    "opacity-70": DesignToken,
-    "opacity-80": DesignToken,
-    "opacity-90": DesignToken,
-    "opacity-95": DesignToken,
-    "opacity-100": DesignToken
-  },
-  "max-width": {
-    "sm": DesignToken,
-    "md": DesignToken,
-    "lg": DesignToken,
-    "xl": DesignToken,
-    "2xl": DesignToken
   },
   "App": {
     "Elevations": {
