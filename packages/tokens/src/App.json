@@ -226,7 +226,7 @@
         },
         "type": "typography"
       },
-      "Text Link": {
+      "Callout": {
         "value": {
           "fontFamily": "{fontFamilies.art-basel-text}",
           "fontWeight": "{fontWeights.art-basel-text-1}",
