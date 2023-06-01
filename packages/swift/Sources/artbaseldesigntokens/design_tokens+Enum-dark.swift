@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Thu, 01 Jun 2023 16:00:49 GMT
+// Generated on Thu, 01 Jun 2023 17:01:15 GMT
 
 
 import UIKit
@@ -37,9 +37,8 @@ public enum StyleDictionaryEnum {
     public static let mchSemanticColorTextTertiary = UIColor(red: 0.941, green: 0.949, blue: 0.961, alpha: 1)
     public static let mchSemanticOpacityBorder = 0.5
     public static let mchSemanticOpacityBorderDisabled = 0.25
-    public static let mchSemanticOpacityDarkCarouselBackground = 0.95
-    public static let mchSemanticOpacityDarkFillHover = 0.5
-    public static let mchSemanticOpacityDarkOverlay = 0.3
-    public static let mchSemanticOpacityLightFillHover = 0.6
+    public static let mchSemanticOpacityCarouselBackground = 0.95
+    public static let mchSemanticOpacityFillHover = 0.5
+    public static let mchSemanticOpacityOverlay = 0.3
     public static let mchSemanticOpacityTileOverlay = 0.05
 }
