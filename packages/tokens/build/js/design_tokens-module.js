@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Thu, 01 Jun 2023 17:01:15 GMT
+ * Generated on Tue, 06 Jun 2023 08:56:45 GMT
  */
 
 module.exports = {
@@ -2586,12 +2586,12 @@ module.exports = {
       ]
     },
     "6": {
-      "value": "1rem",
+      "value": "1.3125rem",
       "type": "lineHeights",
       "filePath": "src/App.json",
       "isSource": true,
       "original": {
-        "value": "16",
+        "value": "21",
         "type": "lineHeights"
       },
       "name": "mch_line_heights_6",
@@ -2605,12 +2605,12 @@ module.exports = {
       ]
     },
     "7": {
-      "value": "0.8125rem",
+      "value": "1.125rem",
       "type": "lineHeights",
       "filePath": "src/App.json",
       "isSource": true,
       "original": {
-        "value": "13",
+        "value": "18",
         "type": "lineHeights"
       },
       "name": "mch_line_heights_7",
@@ -2624,12 +2624,12 @@ module.exports = {
       ]
     },
     "8": {
-      "value": "1.125rem",
+      "value": "1rem",
       "type": "lineHeights",
       "filePath": "src/App.json",
       "isSource": true,
       "original": {
-        "value": "18",
+        "value": "16",
         "type": "lineHeights"
       },
       "name": "mch_line_heights_8",
@@ -2643,12 +2643,12 @@ module.exports = {
       ]
     },
     "9": {
-      "value": "1.3125rem",
+      "value": "0.8125rem",
       "type": "lineHeights",
       "filePath": "src/App.json",
       "isSource": true,
       "original": {
-        "value": "21",
+        "value": "13",
         "type": "lineHeights"
       },
       "name": "mch_line_heights_9",
@@ -4811,7 +4811,7 @@ module.exports = {
             ]
           },
           "lineHeight": {
-            "value": "1rem",
+            "value": "1.3125rem",
             "type": "lineHeights",
             "filePath": "src/global.json",
             "isSource": true,
@@ -5038,7 +5038,7 @@ module.exports = {
             ]
           },
           "lineHeight": {
-            "value": "0.8125rem",
+            "value": "1.125rem",
             "type": "lineHeights",
             "filePath": "src/global.json",
             "isSource": true,
@@ -5721,7 +5721,7 @@ module.exports = {
             ]
           },
           "lineHeight": {
-            "value": "1.125rem",
+            "value": "1rem",
             "type": "lineHeights",
             "filePath": "src/global.json",
             "isSource": true,
@@ -6858,7 +6858,7 @@ module.exports = {
             ]
           },
           "lineHeight": {
-            "value": "1.3125rem",
+            "value": "0.8125rem",
             "type": "lineHeights",
             "filePath": "src/global.json",
             "isSource": true,
@@ -7085,7 +7085,7 @@ module.exports = {
             ]
           },
           "lineHeight": {
-            "value": "1rem",
+            "value": "1.3125rem",
             "type": "lineHeights",
             "filePath": "src/global.json",
             "isSource": true,
@@ -8222,7 +8222,7 @@ module.exports = {
             ]
           },
           "lineHeight": {
-            "value": "1rem",
+            "value": "1.3125rem",
             "type": "lineHeights",
             "filePath": "src/global.json",
             "isSource": true,
@@ -8449,7 +8449,7 @@ module.exports = {
             ]
           },
           "lineHeight": {
-            "value": "0.8125rem",
+            "value": "1.125rem",
             "type": "lineHeights",
             "filePath": "src/global.json",
             "isSource": true,
@@ -9590,7 +9590,7 @@ module.exports = {
             ]
           },
           "lineHeight": {
-            "value": "0.8125rem",
+            "value": "1.125rem",
             "type": "lineHeights",
             "filePath": "src/global.json",
             "isSource": true,
@@ -10046,7 +10046,7 @@ module.exports = {
             ]
           },
           "lineHeight": {
-            "value": "0.8125rem",
+            "value": "1.125rem",
             "type": "lineHeights",
             "filePath": "src/global.json",
             "isSource": true,
@@ -10502,7 +10502,7 @@ module.exports = {
             ]
           },
           "lineHeight": {
-            "value": "0.8125rem",
+            "value": "1.125rem",
             "type": "lineHeights",
             "filePath": "src/global.json",
             "isSource": true,
@@ -13685,7 +13685,7 @@ module.exports = {
             ]
           },
           "lineHeight": {
-            "value": "1rem",
+            "value": "1.3125rem",
             "type": "lineHeights",
             "filePath": "src/global.json",
             "isSource": true,
@@ -15503,7 +15503,7 @@ module.exports = {
             ]
           },
           "lineHeight": {
-            "value": "1rem",
+            "value": "1.3125rem",
             "type": "lineHeights",
             "filePath": "src/global.json",
             "isSource": true,
@@ -16186,7 +16186,7 @@ module.exports = {
             ]
           },
           "lineHeight": {
-            "value": "1rem",
+            "value": "1.3125rem",
             "type": "lineHeights",
             "filePath": "src/global.json",
             "isSource": true,
@@ -17550,7 +17550,7 @@ module.exports = {
             ]
           },
           "lineHeight": {
-            "value": "1rem",
+            "value": "1.3125rem",
             "type": "lineHeights",
             "filePath": "src/global.json",
             "isSource": true,
@@ -18914,7 +18914,7 @@ module.exports = {
             ]
           },
           "lineHeight": {
-            "value": "1rem",
+            "value": "1.3125rem",
             "type": "lineHeights",
             "filePath": "src/global.json",
             "isSource": true,
@@ -19994,7 +19994,7 @@ module.exports = {
           ]
         },
         "lineHeight": {
-          "value": "1rem",
+          "value": "1.3125rem",
           "type": "lineHeights",
           "filePath": "src/global.json",
           "isSource": true,
@@ -20203,7 +20203,7 @@ module.exports = {
           ]
         },
         "lineHeight": {
-          "value": "1rem",
+          "value": "1.3125rem",
           "type": "lineHeights",
           "filePath": "src/global.json",
           "isSource": true,
@@ -22037,12 +22037,12 @@ module.exports = {
       },
       "H3": {
         "fontFamily": {
-          "value": "Art Basel Headline",
+          "value": "Art Basel Text",
           "type": "fontFamilies",
           "filePath": "src/App.json",
           "isSource": true,
           "original": {
-            "value": "{fontFamilies.art-basel-headline}",
+            "value": "{fontFamilies.art-basel-text}",
             "type": "fontFamilies"
           },
           "name": "mch_app_headings_h3_font_family",
@@ -22065,7 +22065,7 @@ module.exports = {
           "filePath": "src/App.json",
           "isSource": true,
           "original": {
-            "value": "{fontWeights.art-basel-headline-0}",
+            "value": "{fontWeights.art-basel-text-1}",
             "type": "fontWeights"
           },
           "name": "mch_app_headings_h3_font_weight",
@@ -22663,426 +22663,6 @@ module.exports = {
         }
       }
     },
-    "Supporting": {
-      "Label - Large": {
-        "fontFamily": {
-          "value": "Art Basel Text",
-          "type": "fontFamilies",
-          "filePath": "src/App.json",
-          "isSource": true,
-          "original": {
-            "value": "{fontFamilies.art-basel-text}",
-            "type": "fontFamilies"
-          },
-          "name": "mch_app_supporting_label_large_font_family",
-          "attributes": {
-            "category": "App",
-            "type": "Supporting",
-            "item": "Label - Large",
-            "subitem": "fontFamily"
-          },
-          "path": [
-            "App",
-            "Supporting",
-            "Label - Large",
-            "fontFamily"
-          ]
-        },
-        "fontWeight": {
-          "value": "700",
-          "type": "fontWeights",
-          "filePath": "src/App.json",
-          "isSource": true,
-          "original": {
-            "value": "{fontWeights.art-basel-text-1}",
-            "type": "fontWeights"
-          },
-          "name": "mch_app_supporting_label_large_font_weight",
-          "attributes": {
-            "category": "App",
-            "type": "Supporting",
-            "item": "Label - Large",
-            "subitem": "fontWeight"
-          },
-          "path": [
-            "App",
-            "Supporting",
-            "Label - Large",
-            "fontWeight"
-          ]
-        },
-        "lineHeight": {
-          "value": "1rem",
-          "type": "lineHeights",
-          "filePath": "src/App.json",
-          "isSource": true,
-          "original": {
-            "value": "{lineHeights.6}",
-            "type": "lineHeights"
-          },
-          "name": "mch_app_supporting_label_large_line_height",
-          "attributes": {
-            "category": "App",
-            "type": "Supporting",
-            "item": "Label - Large",
-            "subitem": "lineHeight"
-          },
-          "path": [
-            "App",
-            "Supporting",
-            "Label - Large",
-            "lineHeight"
-          ]
-        },
-        "fontSize": {
-          "value": "0.75rem",
-          "type": "fontSizes",
-          "filePath": "src/App.json",
-          "isSource": true,
-          "original": {
-            "value": "{fontSize.1}",
-            "type": "fontSizes"
-          },
-          "name": "mch_app_supporting_label_large_font_size",
-          "attributes": {
-            "category": "App",
-            "type": "Supporting",
-            "item": "Label - Large",
-            "subitem": "fontSize"
-          },
-          "path": [
-            "App",
-            "Supporting",
-            "Label - Large",
-            "fontSize"
-          ]
-        },
-        "letterSpacing": {
-          "value": "0",
-          "type": "letterSpacing",
-          "filePath": "src/App.json",
-          "isSource": true,
-          "original": {
-            "value": "{letterSpacing.0}",
-            "type": "letterSpacing"
-          },
-          "name": "mch_app_supporting_label_large_letter_spacing",
-          "attributes": {
-            "category": "App",
-            "type": "Supporting",
-            "item": "Label - Large",
-            "subitem": "letterSpacing"
-          },
-          "path": [
-            "App",
-            "Supporting",
-            "Label - Large",
-            "letterSpacing"
-          ]
-        },
-        "paragraphSpacing": {
-          "value": "0",
-          "type": "paragraphSpacing",
-          "filePath": "src/App.json",
-          "isSource": true,
-          "original": {
-            "value": "{paragraphSpacing.0}",
-            "type": "paragraphSpacing"
-          },
-          "name": "mch_app_supporting_label_large_paragraph_spacing",
-          "attributes": {
-            "category": "App",
-            "type": "Supporting",
-            "item": "Label - Large",
-            "subitem": "paragraphSpacing"
-          },
-          "path": [
-            "App",
-            "Supporting",
-            "Label - Large",
-            "paragraphSpacing"
-          ]
-        },
-        "paragraphIndent": {
-          "value": 0,
-          "type": "paragraphIndent",
-          "filePath": "src/App.json",
-          "isSource": true,
-          "original": {
-            "value": "{paragraphIndent.0}",
-            "type": "paragraphIndent"
-          },
-          "name": "mch_app_supporting_label_large_paragraph_indent",
-          "attributes": {
-            "category": "App",
-            "type": "Supporting",
-            "item": "Label - Large",
-            "subitem": "paragraphIndent"
-          },
-          "path": [
-            "App",
-            "Supporting",
-            "Label - Large",
-            "paragraphIndent"
-          ]
-        },
-        "textCase": {
-          "value": "none",
-          "type": "textCase",
-          "filePath": "src/App.json",
-          "isSource": true,
-          "original": {
-            "value": "{textCase.none}",
-            "type": "textCase"
-          },
-          "name": "mch_app_supporting_label_large_text_case",
-          "attributes": {
-            "category": "App",
-            "type": "Supporting",
-            "item": "Label - Large",
-            "subitem": "textCase"
-          },
-          "path": [
-            "App",
-            "Supporting",
-            "Label - Large",
-            "textCase"
-          ]
-        },
-        "textDecoration": {
-          "value": "none",
-          "type": "textDecoration",
-          "filePath": "src/App.json",
-          "isSource": true,
-          "original": {
-            "value": "{textDecoration.none}",
-            "type": "textDecoration"
-          },
-          "name": "mch_app_supporting_label_large_text_decoration",
-          "attributes": {
-            "category": "App",
-            "type": "Supporting",
-            "item": "Label - Large",
-            "subitem": "textDecoration"
-          },
-          "path": [
-            "App",
-            "Supporting",
-            "Label - Large",
-            "textDecoration"
-          ]
-        }
-      },
-      "Label - Small": {
-        "fontFamily": {
-          "value": "Art Basel Text",
-          "type": "fontFamilies",
-          "filePath": "src/App.json",
-          "isSource": true,
-          "original": {
-            "value": "{fontFamilies.art-basel-text}",
-            "type": "fontFamilies"
-          },
-          "name": "mch_app_supporting_label_small_font_family",
-          "attributes": {
-            "category": "App",
-            "type": "Supporting",
-            "item": "Label - Small",
-            "subitem": "fontFamily"
-          },
-          "path": [
-            "App",
-            "Supporting",
-            "Label - Small",
-            "fontFamily"
-          ]
-        },
-        "fontWeight": {
-          "value": "400",
-          "type": "fontWeights",
-          "filePath": "src/App.json",
-          "isSource": true,
-          "original": {
-            "value": "{fontWeights.art-basel-text-2}",
-            "type": "fontWeights"
-          },
-          "name": "mch_app_supporting_label_small_font_weight",
-          "attributes": {
-            "category": "App",
-            "type": "Supporting",
-            "item": "Label - Small",
-            "subitem": "fontWeight"
-          },
-          "path": [
-            "App",
-            "Supporting",
-            "Label - Small",
-            "fontWeight"
-          ]
-        },
-        "lineHeight": {
-          "value": "0.8125rem",
-          "type": "lineHeights",
-          "filePath": "src/App.json",
-          "isSource": true,
-          "original": {
-            "value": "{lineHeights.7}",
-            "type": "lineHeights"
-          },
-          "name": "mch_app_supporting_label_small_line_height",
-          "attributes": {
-            "category": "App",
-            "type": "Supporting",
-            "item": "Label - Small",
-            "subitem": "lineHeight"
-          },
-          "path": [
-            "App",
-            "Supporting",
-            "Label - Small",
-            "lineHeight"
-          ]
-        },
-        "fontSize": {
-          "value": "0.6875rem",
-          "type": "fontSizes",
-          "filePath": "src/App.json",
-          "isSource": true,
-          "original": {
-            "value": "{fontSize.0}",
-            "type": "fontSizes"
-          },
-          "name": "mch_app_supporting_label_small_font_size",
-          "attributes": {
-            "category": "App",
-            "type": "Supporting",
-            "item": "Label - Small",
-            "subitem": "fontSize"
-          },
-          "path": [
-            "App",
-            "Supporting",
-            "Label - Small",
-            "fontSize"
-          ]
-        },
-        "letterSpacing": {
-          "value": "0",
-          "type": "letterSpacing",
-          "filePath": "src/App.json",
-          "isSource": true,
-          "original": {
-            "value": "{letterSpacing.0}",
-            "type": "letterSpacing"
-          },
-          "name": "mch_app_supporting_label_small_letter_spacing",
-          "attributes": {
-            "category": "App",
-            "type": "Supporting",
-            "item": "Label - Small",
-            "subitem": "letterSpacing"
-          },
-          "path": [
-            "App",
-            "Supporting",
-            "Label - Small",
-            "letterSpacing"
-          ]
-        },
-        "paragraphSpacing": {
-          "value": "0",
-          "type": "paragraphSpacing",
-          "filePath": "src/App.json",
-          "isSource": true,
-          "original": {
-            "value": "{paragraphSpacing.0}",
-            "type": "paragraphSpacing"
-          },
-          "name": "mch_app_supporting_label_small_paragraph_spacing",
-          "attributes": {
-            "category": "App",
-            "type": "Supporting",
-            "item": "Label - Small",
-            "subitem": "paragraphSpacing"
-          },
-          "path": [
-            "App",
-            "Supporting",
-            "Label - Small",
-            "paragraphSpacing"
-          ]
-        },
-        "paragraphIndent": {
-          "value": 0,
-          "type": "paragraphIndent",
-          "filePath": "src/App.json",
-          "isSource": true,
-          "original": {
-            "value": "{paragraphIndent.0}",
-            "type": "paragraphIndent"
-          },
-          "name": "mch_app_supporting_label_small_paragraph_indent",
-          "attributes": {
-            "category": "App",
-            "type": "Supporting",
-            "item": "Label - Small",
-            "subitem": "paragraphIndent"
-          },
-          "path": [
-            "App",
-            "Supporting",
-            "Label - Small",
-            "paragraphIndent"
-          ]
-        },
-        "textCase": {
-          "value": "none",
-          "type": "textCase",
-          "filePath": "src/App.json",
-          "isSource": true,
-          "original": {
-            "value": "{textCase.none}",
-            "type": "textCase"
-          },
-          "name": "mch_app_supporting_label_small_text_case",
-          "attributes": {
-            "category": "App",
-            "type": "Supporting",
-            "item": "Label - Small",
-            "subitem": "textCase"
-          },
-          "path": [
-            "App",
-            "Supporting",
-            "Label - Small",
-            "textCase"
-          ]
-        },
-        "textDecoration": {
-          "value": "none",
-          "type": "textDecoration",
-          "filePath": "src/App.json",
-          "isSource": true,
-          "original": {
-            "value": "{textDecoration.none}",
-            "type": "textDecoration"
-          },
-          "name": "mch_app_supporting_label_small_text_decoration",
-          "attributes": {
-            "category": "App",
-            "type": "Supporting",
-            "item": "Label - Small",
-            "subitem": "textDecoration"
-          },
-          "path": [
-            "App",
-            "Supporting",
-            "Label - Small",
-            "textDecoration"
-          ]
-        }
-      }
-    },
     "Body": {
       "Body Text": {
         "fontFamily": {
@@ -23293,6 +22873,424 @@ module.exports = {
           ]
         }
       },
+      "Callout": {
+        "fontFamily": {
+          "value": "Art Basel Text",
+          "type": "fontFamilies",
+          "filePath": "src/App.json",
+          "isSource": true,
+          "original": {
+            "value": "{fontFamilies.art-basel-text}",
+            "type": "fontFamilies"
+          },
+          "name": "mch_app_body_callout_font_family",
+          "attributes": {
+            "category": "App",
+            "type": "Body",
+            "item": "Callout",
+            "subitem": "fontFamily"
+          },
+          "path": [
+            "App",
+            "Body",
+            "Callout",
+            "fontFamily"
+          ]
+        },
+        "fontWeight": {
+          "value": "700",
+          "type": "fontWeights",
+          "filePath": "src/App.json",
+          "isSource": true,
+          "original": {
+            "value": "{fontWeights.art-basel-text-1}",
+            "type": "fontWeights"
+          },
+          "name": "mch_app_body_callout_font_weight",
+          "attributes": {
+            "category": "App",
+            "type": "Body",
+            "item": "Callout",
+            "subitem": "fontWeight"
+          },
+          "path": [
+            "App",
+            "Body",
+            "Callout",
+            "fontWeight"
+          ]
+        },
+        "lineHeight": {
+          "value": "1.3125rem",
+          "type": "lineHeights",
+          "filePath": "src/App.json",
+          "isSource": true,
+          "original": {
+            "value": "{lineHeights.6}",
+            "type": "lineHeights"
+          },
+          "name": "mch_app_body_callout_line_height",
+          "attributes": {
+            "category": "App",
+            "type": "Body",
+            "item": "Callout",
+            "subitem": "lineHeight"
+          },
+          "path": [
+            "App",
+            "Body",
+            "Callout",
+            "lineHeight"
+          ]
+        },
+        "fontSize": {
+          "value": "1rem",
+          "type": "fontSizes",
+          "filePath": "src/App.json",
+          "isSource": true,
+          "original": {
+            "value": "{fontSize.5}",
+            "type": "fontSizes"
+          },
+          "name": "mch_app_body_callout_font_size",
+          "attributes": {
+            "category": "App",
+            "type": "Body",
+            "item": "Callout",
+            "subitem": "fontSize"
+          },
+          "path": [
+            "App",
+            "Body",
+            "Callout",
+            "fontSize"
+          ]
+        },
+        "letterSpacing": {
+          "value": "0",
+          "type": "letterSpacing",
+          "filePath": "src/App.json",
+          "isSource": true,
+          "original": {
+            "value": "{letterSpacing.0}",
+            "type": "letterSpacing"
+          },
+          "name": "mch_app_body_callout_letter_spacing",
+          "attributes": {
+            "category": "App",
+            "type": "Body",
+            "item": "Callout",
+            "subitem": "letterSpacing"
+          },
+          "path": [
+            "App",
+            "Body",
+            "Callout",
+            "letterSpacing"
+          ]
+        },
+        "paragraphSpacing": {
+          "value": "0",
+          "type": "paragraphSpacing",
+          "filePath": "src/App.json",
+          "isSource": true,
+          "original": {
+            "value": "{paragraphSpacing.0}",
+            "type": "paragraphSpacing"
+          },
+          "name": "mch_app_body_callout_paragraph_spacing",
+          "attributes": {
+            "category": "App",
+            "type": "Body",
+            "item": "Callout",
+            "subitem": "paragraphSpacing"
+          },
+          "path": [
+            "App",
+            "Body",
+            "Callout",
+            "paragraphSpacing"
+          ]
+        },
+        "paragraphIndent": {
+          "value": 0,
+          "type": "paragraphIndent",
+          "filePath": "src/App.json",
+          "isSource": true,
+          "original": {
+            "value": "{paragraphIndent.0}",
+            "type": "paragraphIndent"
+          },
+          "name": "mch_app_body_callout_paragraph_indent",
+          "attributes": {
+            "category": "App",
+            "type": "Body",
+            "item": "Callout",
+            "subitem": "paragraphIndent"
+          },
+          "path": [
+            "App",
+            "Body",
+            "Callout",
+            "paragraphIndent"
+          ]
+        },
+        "textCase": {
+          "value": "capitalize",
+          "type": "textCase",
+          "filePath": "src/App.json",
+          "isSource": true,
+          "original": {
+            "value": "{textCase.capitalize}",
+            "type": "textCase"
+          },
+          "name": "mch_app_body_callout_text_case",
+          "attributes": {
+            "category": "App",
+            "type": "Body",
+            "item": "Callout",
+            "subitem": "textCase"
+          },
+          "path": [
+            "App",
+            "Body",
+            "Callout",
+            "textCase"
+          ]
+        },
+        "textDecoration": {
+          "value": "none",
+          "type": "textDecoration",
+          "filePath": "src/App.json",
+          "isSource": true,
+          "original": {
+            "value": "{textDecoration.none}",
+            "type": "textDecoration"
+          },
+          "name": "mch_app_body_callout_text_decoration",
+          "attributes": {
+            "category": "App",
+            "type": "Body",
+            "item": "Callout",
+            "subitem": "textDecoration"
+          },
+          "path": [
+            "App",
+            "Body",
+            "Callout",
+            "textDecoration"
+          ]
+        }
+      },
+      "Button": {
+        "fontFamily": {
+          "value": "Art Basel Text",
+          "type": "fontFamilies",
+          "filePath": "src/App.json",
+          "isSource": true,
+          "original": {
+            "value": "{fontFamilies.art-basel-text}",
+            "type": "fontFamilies"
+          },
+          "name": "mch_app_body_button_font_family",
+          "attributes": {
+            "category": "App",
+            "type": "Body",
+            "item": "Button",
+            "subitem": "fontFamily"
+          },
+          "path": [
+            "App",
+            "Body",
+            "Button",
+            "fontFamily"
+          ]
+        },
+        "fontWeight": {
+          "value": "700",
+          "type": "fontWeights",
+          "filePath": "src/App.json",
+          "isSource": true,
+          "original": {
+            "value": "{fontWeights.art-basel-text-1}",
+            "type": "fontWeights"
+          },
+          "name": "mch_app_body_button_font_weight",
+          "attributes": {
+            "category": "App",
+            "type": "Body",
+            "item": "Button",
+            "subitem": "fontWeight"
+          },
+          "path": [
+            "App",
+            "Body",
+            "Button",
+            "fontWeight"
+          ]
+        },
+        "lineHeight": {
+          "value": "1.125rem",
+          "type": "lineHeights",
+          "filePath": "src/App.json",
+          "isSource": true,
+          "original": {
+            "value": "{lineHeights.7}",
+            "type": "lineHeights"
+          },
+          "name": "mch_app_body_button_line_height",
+          "attributes": {
+            "category": "App",
+            "type": "Body",
+            "item": "Button",
+            "subitem": "lineHeight"
+          },
+          "path": [
+            "App",
+            "Body",
+            "Button",
+            "lineHeight"
+          ]
+        },
+        "fontSize": {
+          "value": "0.875rem",
+          "type": "fontSizes",
+          "filePath": "src/App.json",
+          "isSource": true,
+          "original": {
+            "value": "{fontSize.3}",
+            "type": "fontSizes"
+          },
+          "name": "mch_app_body_button_font_size",
+          "attributes": {
+            "category": "App",
+            "type": "Body",
+            "item": "Button",
+            "subitem": "fontSize"
+          },
+          "path": [
+            "App",
+            "Body",
+            "Button",
+            "fontSize"
+          ]
+        },
+        "letterSpacing": {
+          "value": "0",
+          "type": "letterSpacing",
+          "filePath": "src/App.json",
+          "isSource": true,
+          "original": {
+            "value": "{letterSpacing.0}",
+            "type": "letterSpacing"
+          },
+          "name": "mch_app_body_button_letter_spacing",
+          "attributes": {
+            "category": "App",
+            "type": "Body",
+            "item": "Button",
+            "subitem": "letterSpacing"
+          },
+          "path": [
+            "App",
+            "Body",
+            "Button",
+            "letterSpacing"
+          ]
+        },
+        "paragraphSpacing": {
+          "value": "0",
+          "type": "paragraphSpacing",
+          "filePath": "src/App.json",
+          "isSource": true,
+          "original": {
+            "value": "{paragraphSpacing.0}",
+            "type": "paragraphSpacing"
+          },
+          "name": "mch_app_body_button_paragraph_spacing",
+          "attributes": {
+            "category": "App",
+            "type": "Body",
+            "item": "Button",
+            "subitem": "paragraphSpacing"
+          },
+          "path": [
+            "App",
+            "Body",
+            "Button",
+            "paragraphSpacing"
+          ]
+        },
+        "paragraphIndent": {
+          "value": 0,
+          "type": "paragraphIndent",
+          "filePath": "src/App.json",
+          "isSource": true,
+          "original": {
+            "value": "{paragraphIndent.0}",
+            "type": "paragraphIndent"
+          },
+          "name": "mch_app_body_button_paragraph_indent",
+          "attributes": {
+            "category": "App",
+            "type": "Body",
+            "item": "Button",
+            "subitem": "paragraphIndent"
+          },
+          "path": [
+            "App",
+            "Body",
+            "Button",
+            "paragraphIndent"
+          ]
+        },
+        "textCase": {
+          "value": "uppercase",
+          "type": "textCase",
+          "filePath": "src/App.json",
+          "isSource": true,
+          "original": {
+            "value": "{textCase.uppercase}",
+            "type": "textCase"
+          },
+          "name": "mch_app_body_button_text_case",
+          "attributes": {
+            "category": "App",
+            "type": "Body",
+            "item": "Button",
+            "subitem": "textCase"
+          },
+          "path": [
+            "App",
+            "Body",
+            "Button",
+            "textCase"
+          ]
+        },
+        "textDecoration": {
+          "value": "none",
+          "type": "textDecoration",
+          "filePath": "src/App.json",
+          "isSource": true,
+          "original": {
+            "value": "{textDecoration.none}",
+            "type": "textDecoration"
+          },
+          "name": "mch_app_body_button_text_decoration",
+          "attributes": {
+            "category": "App",
+            "type": "Body",
+            "item": "Button",
+            "subitem": "textDecoration"
+          },
+          "path": [
+            "App",
+            "Body",
+            "Button",
+            "textDecoration"
+          ]
+        }
+      },
       "Footnote": {
         "fontFamily": {
           "value": "Art Basel Text",
@@ -23346,7 +23344,7 @@ module.exports = {
           "filePath": "src/App.json",
           "isSource": true,
           "original": {
-            "value": "{lineHeights.8}",
+            "value": "{lineHeights.7}",
             "type": "lineHeights"
           },
           "name": "mch_app_body_footnote_line_height",
@@ -23501,10 +23499,8 @@ module.exports = {
             "textDecoration"
           ]
         }
-      }
-    },
-    "Links": {
-      "Button": {
+      },
+      "Caption 1": {
         "fontFamily": {
           "value": "Art Basel Text",
           "type": "fontFamilies",
@@ -23514,17 +23510,17 @@ module.exports = {
             "value": "{fontFamilies.art-basel-text}",
             "type": "fontFamilies"
           },
-          "name": "mch_app_links_button_font_family",
+          "name": "mch_app_body_caption_1_font_family",
           "attributes": {
             "category": "App",
-            "type": "Links",
-            "item": "Button",
+            "type": "Body",
+            "item": "Caption 1",
             "subitem": "fontFamily"
           },
           "path": [
             "App",
-            "Links",
-            "Button",
+            "Body",
+            "Caption 1",
             "fontFamily"
           ]
         },
@@ -23537,22 +23533,22 @@ module.exports = {
             "value": "{fontWeights.art-basel-text-1}",
             "type": "fontWeights"
           },
-          "name": "mch_app_links_button_font_weight",
+          "name": "mch_app_body_caption_1_font_weight",
           "attributes": {
             "category": "App",
-            "type": "Links",
-            "item": "Button",
+            "type": "Body",
+            "item": "Caption 1",
             "subitem": "fontWeight"
           },
           "path": [
             "App",
-            "Links",
-            "Button",
+            "Body",
+            "Caption 1",
             "fontWeight"
           ]
         },
         "lineHeight": {
-          "value": "1.125rem",
+          "value": "1rem",
           "type": "lineHeights",
           "filePath": "src/App.json",
           "isSource": true,
@@ -23560,40 +23556,40 @@ module.exports = {
             "value": "{lineHeights.8}",
             "type": "lineHeights"
           },
-          "name": "mch_app_links_button_line_height",
+          "name": "mch_app_body_caption_1_line_height",
           "attributes": {
             "category": "App",
-            "type": "Links",
-            "item": "Button",
+            "type": "Body",
+            "item": "Caption 1",
             "subitem": "lineHeight"
           },
           "path": [
             "App",
-            "Links",
-            "Button",
+            "Body",
+            "Caption 1",
             "lineHeight"
           ]
         },
         "fontSize": {
-          "value": "0.875rem",
+          "value": "0.75rem",
           "type": "fontSizes",
           "filePath": "src/App.json",
           "isSource": true,
           "original": {
-            "value": "{fontSize.3}",
+            "value": "{fontSize.1}",
             "type": "fontSizes"
           },
-          "name": "mch_app_links_button_font_size",
+          "name": "mch_app_body_caption_1_font_size",
           "attributes": {
             "category": "App",
-            "type": "Links",
-            "item": "Button",
+            "type": "Body",
+            "item": "Caption 1",
             "subitem": "fontSize"
           },
           "path": [
             "App",
-            "Links",
-            "Button",
+            "Body",
+            "Caption 1",
             "fontSize"
           ]
         },
@@ -23606,17 +23602,17 @@ module.exports = {
             "value": "{letterSpacing.0}",
             "type": "letterSpacing"
           },
-          "name": "mch_app_links_button_letter_spacing",
+          "name": "mch_app_body_caption_1_letter_spacing",
           "attributes": {
             "category": "App",
-            "type": "Links",
-            "item": "Button",
+            "type": "Body",
+            "item": "Caption 1",
             "subitem": "letterSpacing"
           },
           "path": [
             "App",
-            "Links",
-            "Button",
+            "Body",
+            "Caption 1",
             "letterSpacing"
           ]
         },
@@ -23629,17 +23625,17 @@ module.exports = {
             "value": "{paragraphSpacing.0}",
             "type": "paragraphSpacing"
           },
-          "name": "mch_app_links_button_paragraph_spacing",
+          "name": "mch_app_body_caption_1_paragraph_spacing",
           "attributes": {
             "category": "App",
-            "type": "Links",
-            "item": "Button",
+            "type": "Body",
+            "item": "Caption 1",
             "subitem": "paragraphSpacing"
           },
           "path": [
             "App",
-            "Links",
-            "Button",
+            "Body",
+            "Caption 1",
             "paragraphSpacing"
           ]
         },
@@ -23652,40 +23648,40 @@ module.exports = {
             "value": "{paragraphIndent.0}",
             "type": "paragraphIndent"
           },
-          "name": "mch_app_links_button_paragraph_indent",
+          "name": "mch_app_body_caption_1_paragraph_indent",
           "attributes": {
             "category": "App",
-            "type": "Links",
-            "item": "Button",
+            "type": "Body",
+            "item": "Caption 1",
             "subitem": "paragraphIndent"
           },
           "path": [
             "App",
-            "Links",
-            "Button",
+            "Body",
+            "Caption 1",
             "paragraphIndent"
           ]
         },
         "textCase": {
-          "value": "uppercase",
+          "value": "none",
           "type": "textCase",
           "filePath": "src/App.json",
           "isSource": true,
           "original": {
-            "value": "{textCase.uppercase}",
+            "value": "{textCase.none}",
             "type": "textCase"
           },
-          "name": "mch_app_links_button_text_case",
+          "name": "mch_app_body_caption_1_text_case",
           "attributes": {
             "category": "App",
-            "type": "Links",
-            "item": "Button",
+            "type": "Body",
+            "item": "Caption 1",
             "subitem": "textCase"
           },
           "path": [
             "App",
-            "Links",
-            "Button",
+            "Body",
+            "Caption 1",
             "textCase"
           ]
         },
@@ -23698,22 +23694,22 @@ module.exports = {
             "value": "{textDecoration.none}",
             "type": "textDecoration"
           },
-          "name": "mch_app_links_button_text_decoration",
+          "name": "mch_app_body_caption_1_text_decoration",
           "attributes": {
             "category": "App",
-            "type": "Links",
-            "item": "Button",
+            "type": "Body",
+            "item": "Caption 1",
             "subitem": "textDecoration"
           },
           "path": [
             "App",
-            "Links",
-            "Button",
+            "Body",
+            "Caption 1",
             "textDecoration"
           ]
         }
       },
-      "Callout": {
+      "Caption 2": {
         "fontFamily": {
           "value": "Art Basel Text",
           "type": "fontFamilies",
@@ -23723,45 +23719,45 @@ module.exports = {
             "value": "{fontFamilies.art-basel-text}",
             "type": "fontFamilies"
           },
-          "name": "mch_app_links_callout_font_family",
+          "name": "mch_app_body_caption_2_font_family",
           "attributes": {
             "category": "App",
-            "type": "Links",
-            "item": "Callout",
+            "type": "Body",
+            "item": "Caption 2",
             "subitem": "fontFamily"
           },
           "path": [
             "App",
-            "Links",
-            "Callout",
+            "Body",
+            "Caption 2",
             "fontFamily"
           ]
         },
         "fontWeight": {
-          "value": "700",
+          "value": "400",
           "type": "fontWeights",
           "filePath": "src/App.json",
           "isSource": true,
           "original": {
-            "value": "{fontWeights.art-basel-text-1}",
+            "value": "{fontWeights.art-basel-text-2}",
             "type": "fontWeights"
           },
-          "name": "mch_app_links_callout_font_weight",
+          "name": "mch_app_body_caption_2_font_weight",
           "attributes": {
             "category": "App",
-            "type": "Links",
-            "item": "Callout",
+            "type": "Body",
+            "item": "Caption 2",
             "subitem": "fontWeight"
           },
           "path": [
             "App",
-            "Links",
-            "Callout",
+            "Body",
+            "Caption 2",
             "fontWeight"
           ]
         },
         "lineHeight": {
-          "value": "1.3125rem",
+          "value": "0.8125rem",
           "type": "lineHeights",
           "filePath": "src/App.json",
           "isSource": true,
@@ -23769,40 +23765,40 @@ module.exports = {
             "value": "{lineHeights.9}",
             "type": "lineHeights"
           },
-          "name": "mch_app_links_callout_line_height",
+          "name": "mch_app_body_caption_2_line_height",
           "attributes": {
             "category": "App",
-            "type": "Links",
-            "item": "Callout",
+            "type": "Body",
+            "item": "Caption 2",
             "subitem": "lineHeight"
           },
           "path": [
             "App",
-            "Links",
-            "Callout",
+            "Body",
+            "Caption 2",
             "lineHeight"
           ]
         },
         "fontSize": {
-          "value": "1rem",
+          "value": "0.6875rem",
           "type": "fontSizes",
           "filePath": "src/App.json",
           "isSource": true,
           "original": {
-            "value": "{fontSize.5}",
+            "value": "{fontSize.0}",
             "type": "fontSizes"
           },
-          "name": "mch_app_links_callout_font_size",
+          "name": "mch_app_body_caption_2_font_size",
           "attributes": {
             "category": "App",
-            "type": "Links",
-            "item": "Callout",
+            "type": "Body",
+            "item": "Caption 2",
             "subitem": "fontSize"
           },
           "path": [
             "App",
-            "Links",
-            "Callout",
+            "Body",
+            "Caption 2",
             "fontSize"
           ]
         },
@@ -23815,17 +23811,17 @@ module.exports = {
             "value": "{letterSpacing.0}",
             "type": "letterSpacing"
           },
-          "name": "mch_app_links_callout_letter_spacing",
+          "name": "mch_app_body_caption_2_letter_spacing",
           "attributes": {
             "category": "App",
-            "type": "Links",
-            "item": "Callout",
+            "type": "Body",
+            "item": "Caption 2",
             "subitem": "letterSpacing"
           },
           "path": [
             "App",
-            "Links",
-            "Callout",
+            "Body",
+            "Caption 2",
             "letterSpacing"
           ]
         },
@@ -23838,17 +23834,17 @@ module.exports = {
             "value": "{paragraphSpacing.0}",
             "type": "paragraphSpacing"
           },
-          "name": "mch_app_links_callout_paragraph_spacing",
+          "name": "mch_app_body_caption_2_paragraph_spacing",
           "attributes": {
             "category": "App",
-            "type": "Links",
-            "item": "Callout",
+            "type": "Body",
+            "item": "Caption 2",
             "subitem": "paragraphSpacing"
           },
           "path": [
             "App",
-            "Links",
-            "Callout",
+            "Body",
+            "Caption 2",
             "paragraphSpacing"
           ]
         },
@@ -23861,40 +23857,40 @@ module.exports = {
             "value": "{paragraphIndent.0}",
             "type": "paragraphIndent"
           },
-          "name": "mch_app_links_callout_paragraph_indent",
+          "name": "mch_app_body_caption_2_paragraph_indent",
           "attributes": {
             "category": "App",
-            "type": "Links",
-            "item": "Callout",
+            "type": "Body",
+            "item": "Caption 2",
             "subitem": "paragraphIndent"
           },
           "path": [
             "App",
-            "Links",
-            "Callout",
+            "Body",
+            "Caption 2",
             "paragraphIndent"
           ]
         },
         "textCase": {
-          "value": "capitalize",
+          "value": "none",
           "type": "textCase",
           "filePath": "src/App.json",
           "isSource": true,
           "original": {
-            "value": "{textCase.capitalize}",
+            "value": "{textCase.none}",
             "type": "textCase"
           },
-          "name": "mch_app_links_callout_text_case",
+          "name": "mch_app_body_caption_2_text_case",
           "attributes": {
             "category": "App",
-            "type": "Links",
-            "item": "Callout",
+            "type": "Body",
+            "item": "Caption 2",
             "subitem": "textCase"
           },
           "path": [
             "App",
-            "Links",
-            "Callout",
+            "Body",
+            "Caption 2",
             "textCase"
           ]
         },
@@ -23907,17 +23903,17 @@ module.exports = {
             "value": "{textDecoration.none}",
             "type": "textDecoration"
           },
-          "name": "mch_app_links_callout_text_decoration",
+          "name": "mch_app_body_caption_2_text_decoration",
           "attributes": {
             "category": "App",
-            "type": "Links",
-            "item": "Callout",
+            "type": "Body",
+            "item": "Caption 2",
             "subitem": "textDecoration"
           },
           "path": [
             "App",
-            "Links",
-            "Callout",
+            "Body",
+            "Caption 2",
             "textDecoration"
           ]
         }

@@ -2,7 +2,7 @@
 
 <!--
   Do not edit directly
-  Generated on Thu, 01 Jun 2023 17:01:15 GMT
+  Generated on Tue, 06 Jun 2023 08:56:45 GMT
 -->
 <resources>
   <dimen name="mch_font_size_0">11sp</dimen>
@@ -22,11 +22,11 @@
   <dimen name="mch_app_headings_h3_font_size">20sp</dimen>
   <dimen name="mch_app_headings_h4_font_size">17sp</dimen>
   <dimen name="mch_app_headings_subhead_font_size">15sp</dimen>
-  <dimen name="mch_app_supporting_label_large_font_size">12sp</dimen>
-  <dimen name="mch_app_supporting_label_small_font_size">11sp</dimen>
   <dimen name="mch_app_body_body_text_font_size">17sp</dimen>
+  <dimen name="mch_app_body_callout_font_size">16sp</dimen>
+  <dimen name="mch_app_body_button_font_size">14sp</dimen>
   <dimen name="mch_app_body_footnote_font_size">13sp</dimen>
-  <dimen name="mch_app_links_button_font_size">14sp</dimen>
-  <dimen name="mch_app_links_callout_font_size">16sp</dimen>
+  <dimen name="mch_app_body_caption_1_font_size">12sp</dimen>
+  <dimen name="mch_app_body_caption_2_font_size">11sp</dimen>
   
 </resources>

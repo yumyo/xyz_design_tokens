@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Thu, 01 Jun 2023 17:01:15 GMT
+// Generated on Tue, 06 Jun 2023 08:56:45 GMT
 
 
 import UIKit
@@ -19,6 +19,42 @@ public enum StyleDictionaryEnum {
     public static let mchAppBodyBodyTextParagraphSpacing = 0
     public static let mchAppBodyBodyTextTextCase = "none"
     public static let mchAppBodyBodyTextTextDecoration = "none"
+    public static let mchAppBodyButtonFontFamily = "Art Basel Text"
+    public static let mchAppBodyButtonFontSize = 14
+    public static let mchAppBodyButtonFontWeight = 700
+    public static let mchAppBodyButtonLetterSpacing = 0
+    public static let mchAppBodyButtonLineHeight = 18
+    public static let mchAppBodyButtonParagraphIndent = 0
+    public static let mchAppBodyButtonParagraphSpacing = 0
+    public static let mchAppBodyButtonTextCase = "uppercase"
+    public static let mchAppBodyButtonTextDecoration = "none"
+    public static let mchAppBodyCalloutFontFamily = "Art Basel Text"
+    public static let mchAppBodyCalloutFontSize = 16
+    public static let mchAppBodyCalloutFontWeight = 700
+    public static let mchAppBodyCalloutLetterSpacing = 0
+    public static let mchAppBodyCalloutLineHeight = 21
+    public static let mchAppBodyCalloutParagraphIndent = 0
+    public static let mchAppBodyCalloutParagraphSpacing = 0
+    public static let mchAppBodyCalloutTextCase = "capitalize"
+    public static let mchAppBodyCalloutTextDecoration = "none"
+    public static let mchAppBodyCaption1FontFamily = "Art Basel Text"
+    public static let mchAppBodyCaption1FontSize = 12
+    public static let mchAppBodyCaption1FontWeight = 700
+    public static let mchAppBodyCaption1LetterSpacing = 0
+    public static let mchAppBodyCaption1LineHeight = 16
+    public static let mchAppBodyCaption1ParagraphIndent = 0
+    public static let mchAppBodyCaption1ParagraphSpacing = 0
+    public static let mchAppBodyCaption1TextCase = "none"
+    public static let mchAppBodyCaption1TextDecoration = "none"
+    public static let mchAppBodyCaption2FontFamily = "Art Basel Text"
+    public static let mchAppBodyCaption2FontSize = 11
+    public static let mchAppBodyCaption2FontWeight = 400
+    public static let mchAppBodyCaption2LetterSpacing = 0
+    public static let mchAppBodyCaption2LineHeight = 13
+    public static let mchAppBodyCaption2ParagraphIndent = 0
+    public static let mchAppBodyCaption2ParagraphSpacing = 0
+    public static let mchAppBodyCaption2TextCase = "none"
+    public static let mchAppBodyCaption2TextDecoration = "none"
     public static let mchAppBodyFootnoteFontFamily = "Art Basel Text"
     public static let mchAppBodyFootnoteFontSize = 13
     public static let mchAppBodyFootnoteFontWeight = 400
@@ -82,7 +118,7 @@ public enum StyleDictionaryEnum {
     public static let mchAppHeadingsH2ParagraphSpacing = 0
     public static let mchAppHeadingsH2TextCase = "none"
     public static let mchAppHeadingsH2TextDecoration = "none"
-    public static let mchAppHeadingsH3FontFamily = "Art Basel Headline"
+    public static let mchAppHeadingsH3FontFamily = "Art Basel Text"
     public static let mchAppHeadingsH3FontSize = 20
     public static let mchAppHeadingsH3FontWeight = 700
     public static let mchAppHeadingsH3LetterSpacing = 0
@@ -118,42 +154,6 @@ public enum StyleDictionaryEnum {
     public static let mchAppHeadingsSubheadParagraphSpacing = 0
     public static let mchAppHeadingsSubheadTextCase = "none"
     public static let mchAppHeadingsSubheadTextDecoration = "none"
-    public static let mchAppLinksButtonFontFamily = "Art Basel Text"
-    public static let mchAppLinksButtonFontSize = 14
-    public static let mchAppLinksButtonFontWeight = 700
-    public static let mchAppLinksButtonLetterSpacing = 0
-    public static let mchAppLinksButtonLineHeight = 18
-    public static let mchAppLinksButtonParagraphIndent = 0
-    public static let mchAppLinksButtonParagraphSpacing = 0
-    public static let mchAppLinksButtonTextCase = "uppercase"
-    public static let mchAppLinksButtonTextDecoration = "none"
-    public static let mchAppLinksCalloutFontFamily = "Art Basel Text"
-    public static let mchAppLinksCalloutFontSize = 16
-    public static let mchAppLinksCalloutFontWeight = 700
-    public static let mchAppLinksCalloutLetterSpacing = 0
-    public static let mchAppLinksCalloutLineHeight = 21
-    public static let mchAppLinksCalloutParagraphIndent = 0
-    public static let mchAppLinksCalloutParagraphSpacing = 0
-    public static let mchAppLinksCalloutTextCase = "capitalize"
-    public static let mchAppLinksCalloutTextDecoration = "none"
-    public static let mchAppSupportingLabelLargeFontFamily = "Art Basel Text"
-    public static let mchAppSupportingLabelLargeFontSize = 12
-    public static let mchAppSupportingLabelLargeFontWeight = 700
-    public static let mchAppSupportingLabelLargeLetterSpacing = 0
-    public static let mchAppSupportingLabelLargeLineHeight = 16
-    public static let mchAppSupportingLabelLargeParagraphIndent = 0
-    public static let mchAppSupportingLabelLargeParagraphSpacing = 0
-    public static let mchAppSupportingLabelLargeTextCase = "none"
-    public static let mchAppSupportingLabelLargeTextDecoration = "none"
-    public static let mchAppSupportingLabelSmallFontFamily = "Art Basel Text"
-    public static let mchAppSupportingLabelSmallFontSize = 11
-    public static let mchAppSupportingLabelSmallFontWeight = 400
-    public static let mchAppSupportingLabelSmallLetterSpacing = 0
-    public static let mchAppSupportingLabelSmallLineHeight = 13
-    public static let mchAppSupportingLabelSmallParagraphIndent = 0
-    public static let mchAppSupportingLabelSmallParagraphSpacing = 0
-    public static let mchAppSupportingLabelSmallTextCase = "none"
-    public static let mchAppSupportingLabelSmallTextDecoration = "none"
     public static let mchFontFamiliesArtBaselHeadline = "Art Basel Headline"
     public static let mchFontFamiliesArtBaselText = "Art Basel Text"
     public static let mchFontSize0 = 11
@@ -177,10 +177,10 @@ public enum StyleDictionaryEnum {
     public static let mchLineHeights3 = 25
     public static let mchLineHeights4 = 22
     public static let mchLineHeights5 = 20
-    public static let mchLineHeights6 = 16
-    public static let mchLineHeights7 = 13
-    public static let mchLineHeights8 = 18
-    public static let mchLineHeights9 = 21
+    public static let mchLineHeights6 = 21
+    public static let mchLineHeights7 = 18
+    public static let mchLineHeights8 = 16
+    public static let mchLineHeights9 = 13
     public static let mchParagraphIndent0 = 0px
     public static let mchParagraphSpacing0 = 0
     public static let mchTextCaseCapitalize = "capitalize"

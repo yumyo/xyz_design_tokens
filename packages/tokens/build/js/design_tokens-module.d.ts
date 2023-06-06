@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Thu, 01 Jun 2023 17:01:15 GMT
+ * Generated on Tue, 06 Jun 2023 08:56:45 GMT
  */
 
 export default tokens;
@@ -1259,8 +1259,8 @@ declare const tokens: {
         "textDecoration": DesignToken
       }
     },
-    "Supporting": {
-      "Label - Large": {
+    "Body": {
+      "Body Text": {
         "fontFamily": DesignToken,
         "fontWeight": DesignToken,
         "lineHeight": DesignToken,
@@ -1271,7 +1271,7 @@ declare const tokens: {
         "textCase": DesignToken,
         "textDecoration": DesignToken
       },
-      "Label - Small": {
+      "Callout": {
         "fontFamily": DesignToken,
         "fontWeight": DesignToken,
         "lineHeight": DesignToken,
@@ -1281,10 +1281,8 @@ declare const tokens: {
         "paragraphIndent": DesignToken,
         "textCase": DesignToken,
         "textDecoration": DesignToken
-      }
-    },
-    "Body": {
-      "Body Text": {
+      },
+      "Button": {
         "fontFamily": DesignToken,
         "fontWeight": DesignToken,
         "lineHeight": DesignToken,
@@ -1305,10 +1303,8 @@ declare const tokens: {
         "paragraphIndent": DesignToken,
         "textCase": DesignToken,
         "textDecoration": DesignToken
-      }
-    },
-    "Links": {
-      "Button": {
+      },
+      "Caption 1": {
         "fontFamily": DesignToken,
         "fontWeight": DesignToken,
         "lineHeight": DesignToken,
@@ -1319,7 +1315,7 @@ declare const tokens: {
         "textCase": DesignToken,
         "textDecoration": DesignToken
       },
-      "Callout": {
+      "Caption 2": {
         "fontFamily": DesignToken,
         "fontWeight": DesignToken,
         "lineHeight": DesignToken,
