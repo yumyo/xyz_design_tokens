@@ -9,6 +9,7 @@ var Color           = require('tinycolor2')
     UNICODE_PATTERN = /&#x([^;]+);/g;
 
 const designTokensFileName = "design_tokens";
+const mobileDesignTokensFileName = "designTokens";
 
 function getBasePxFontSize(options) {
   return (options && options.basePxFontSize) || 16;
@@ -254,7 +255,7 @@ async function run() {
           filter: function(prop) {
             return (prop.type !== 'fontFamilies' && prop.filePath !== 'src/global.json' && prop.filePath !== 'src/App.json') && prop.filePath !== 'src/Global-Colours.json';
           },
-          destination: `${designTokensFileName}+Enum${capitalizeFirstLetter(theme.name)}.swift`,
+          destination: `${mobileDesignTokensFileName}+Enum${capitalizeFirstLetter(theme.name)}.swift`,
           format: "ios-swift/enum.swift",
           className: `StyleDictionaryEnum${capitalizeFirstLetter(theme.name)}`,
         },
@@ -262,7 +263,7 @@ async function run() {
           filter: function(prop) {
             return (prop.type !== 'fontFamilies' && prop.filePath !== 'src/global.json' && prop.filePath === 'src/App.json');
           },
-          destination: `${designTokensFileName}+Enum${capitalizeFirstLetter(theme.name)}.swift`,
+          destination: `${mobileDesignTokensFileName}+Enum${capitalizeFirstLetter(theme.name)}.swift`,
           format: "ios-swift/enum.swift",
           className: `StyleDictionaryEnum${capitalizeFirstLetter(theme.name)}`,
         },]
@@ -277,7 +278,7 @@ async function run() {
               return (prop.type === 'fontSizes' && prop.filePath !== 'src/global.json');
             },
             resourceType: "dimen",
-            destination: `${designTokensFileName}-font_dimens.xml`,
+            destination: `${mobileDesignTokensFileName}FontDimens.xml`,
             format: "android/resources",
           }
           ,{
@@ -285,7 +286,7 @@ async function run() {
               return prop.type === 'color' && prop.filePath !== 'src/global.json' && prop.filePath !== 'src/App.json' && prop.filePath !== 'src/Global-Colours.json';
             },
             resourceType: "color",
-            destination: `${designTokensFileName}-colors-${theme.name}.xml`,
+            destination: `${mobileDesignTokensFileName}Colors${capitalizeFirstLetter(theme.name)}.xml`,
             format: "android/resources",
           }
         ]
