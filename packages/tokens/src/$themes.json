@@ -2,28 +2,21 @@
   {
     "id": "cfcef726fe020fd32349ebd3b095c5e8eaedac06",
     "name": "light",
+    "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "global": "source",
-      "Light-Theme": "enabled"
-    },
-    "$figmaStyleReferences": {}
-  },
-  {
-    "id": "31a518b946480c289d1c1f89601eba86b06d09a2",
-    "name": "dark",
-    "selectedTokenSets": {
-      "global": "source",
-      "Dark-Theme": "enabled"
-    },
-    "$figmaStyleReferences": {}
+      "Light-Theme": "enabled",
+      "Global-Colours": "source"
+    }
   },
   {
     "id": "bb6bbb7634b63d069ff94568401444e4289446af",
     "name": "app",
+    "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "global": "source",
-      "App": "enabled"
-    },
-    "$figmaStyleReferences": {}
+      "App": "enabled",
+      "Global-Colours": "source"
+    }
   }
 ]
