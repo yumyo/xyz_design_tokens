@@ -195,7 +195,7 @@ async function run() {
         files: [
           {
             filter: function(prop) {     
-              return (prop.filePath !== 'src/App.json' && prop.filePath !== 'src/Global-Colours.json');
+              return (prop.filePath !== 'src/global.json' && prop.filePath !== 'src/App.json' && prop.filePath !== 'src/Global-Colours.json');
             },
             format: 'javascript/es6',
             destination: `${designTokensFileName}-${theme.name}.js`
