@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Tue, 13 Jun 2023 16:40:15 GMT
+// Generated on Tue, 13 Jun 2023 17:05:38 GMT
 
 
 import UIKit
@@ -170,6 +170,7 @@ public enum StyleDictionaryEnumApp {
     public static let mchParagraphIndent0 = 0
     public static let mchParagraphSpacing0 = 0
     public static let mchTextCaseCapitalize = "capitalize"
+    public static let mchTextCaseLowercase = "lowercase"
     public static let mchTextCaseNone = "none"
     public static let mchTextCaseUppercase = "uppercase"
     public static let mchTextDecorationNone = "none"
