@@ -4,11 +4,7 @@
 //
 
 // Do not edit directly
-<<<<<<< Updated upstream:packages/swift/Sources/artbaseldesigntokens/design_tokens+EnumLight.swift
-// Generated on Tue, 13 Jun 2023 16:22:30 GMT
-=======
-// Generated on Tue, 13 Jun 2023 16:37:14 GMT
->>>>>>> Stashed changes:packages/swift/Sources/artbaseldesigntokens/designTokens+EnumLight.swift
+// Generated on Tue, 13 Jun 2023 16:40:14 GMT
 
 
 import UIKit

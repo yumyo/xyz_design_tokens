@@ -2,11 +2,7 @@
 
 <!--
   Do not edit directly
-<<<<<<< Updated upstream:packages/tokens/build/android/src/main/res/values/design_tokens-font_dimens.xml
-  Generated on Tue, 13 Jun 2023 16:22:30 GMT
-=======
-  Generated on Tue, 13 Jun 2023 16:37:14 GMT
->>>>>>> Stashed changes:packages/tokens/build/android/src/main/res/values/designTokensFontDimens.xml
+  Generated on Tue, 13 Jun 2023 16:40:15 GMT
 -->
 <resources>
   <dimen name="mch_app_headings_large_title_font_size">34sp</dimen>
