@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Tue, 06 Jun 2023 08:56:45 GMT
+ * Generated on Tue, 13 Jun 2023 10:01:05 GMT
  */
 
 module.exports = {
@@ -23919,5 +23919,1607 @@ module.exports = {
         }
       }
     }
+  },
+  "L - MCH Black": {
+    "value": "#121212",
+    "type": "color",
+    "description": "On Light Mode (default), this is the MCH principal Black colour",
+    "filePath": "src/Global-Colours.json",
+    "isSource": true,
+    "original": {
+      "value": "#121212",
+      "type": "color",
+      "description": "On Light Mode (default), this is the MCH principal Black colour"
+    },
+    "name": "mch_l_mch_black",
+    "attributes": {
+      "category": "L - MCH Black"
+    },
+    "path": [
+      "L - MCH Black"
+    ]
+  },
+  "L - MCH Grey 900": {
+    "value": "#242424",
+    "type": "color",
+    "filePath": "src/Global-Colours.json",
+    "isSource": true,
+    "original": {
+      "value": "#242424",
+      "type": "color"
+    },
+    "name": "mch_l_mch_grey_900",
+    "attributes": {
+      "category": "L - MCH Grey 900"
+    },
+    "path": [
+      "L - MCH Grey 900"
+    ]
+  },
+  "L - MCH Grey 800": {
+    "value": "#404040",
+    "type": "color",
+    "filePath": "src/Global-Colours.json",
+    "isSource": true,
+    "original": {
+      "value": "#404040",
+      "type": "color"
+    },
+    "name": "mch_l_mch_grey_800",
+    "attributes": {
+      "category": "L - MCH Grey 800"
+    },
+    "path": [
+      "L - MCH Grey 800"
+    ]
+  },
+  "L - MCH Grey 700": {
+    "value": "#696969",
+    "type": "color",
+    "filePath": "src/Global-Colours.json",
+    "isSource": true,
+    "original": {
+      "value": "#696969",
+      "type": "color"
+    },
+    "name": "mch_l_mch_grey_700",
+    "attributes": {
+      "category": "L - MCH Grey 700"
+    },
+    "path": [
+      "L - MCH Grey 700"
+    ]
+  },
+  "L - MCH Grey 600": {
+    "value": "#999999",
+    "type": "color",
+    "filePath": "src/Global-Colours.json",
+    "isSource": true,
+    "original": {
+      "value": "#999999",
+      "type": "color"
+    },
+    "name": "mch_l_mch_grey_600",
+    "attributes": {
+      "category": "L - MCH Grey 600"
+    },
+    "path": [
+      "L - MCH Grey 600"
+    ]
+  },
+  "L - MCH Grey 500": {
+    "value": "#bfbfbf",
+    "type": "color",
+    "filePath": "src/Global-Colours.json",
+    "isSource": true,
+    "original": {
+      "value": "#bfbfbf",
+      "type": "color"
+    },
+    "name": "mch_l_mch_grey_500",
+    "attributes": {
+      "category": "L - MCH Grey 500"
+    },
+    "path": [
+      "L - MCH Grey 500"
+    ]
+  },
+  "L - MCH Grey 400": {
+    "value": "#dadada",
+    "type": "color",
+    "filePath": "src/Global-Colours.json",
+    "isSource": true,
+    "original": {
+      "value": "#dadada",
+      "type": "color"
+    },
+    "name": "mch_l_mch_grey_400",
+    "attributes": {
+      "category": "L - MCH Grey 400"
+    },
+    "path": [
+      "L - MCH Grey 400"
+    ]
+  },
+  "L - MCH Grey 300": {
+    "value": "#e8e8e8",
+    "type": "color",
+    "filePath": "src/Global-Colours.json",
+    "isSource": true,
+    "original": {
+      "value": "#e8e8e8",
+      "type": "color"
+    },
+    "name": "mch_l_mch_grey_300",
+    "attributes": {
+      "category": "L - MCH Grey 300"
+    },
+    "path": [
+      "L - MCH Grey 300"
+    ]
+  },
+  "L - MCH Grey 200": {
+    "value": "#f0f0f0",
+    "type": "color",
+    "filePath": "src/Global-Colours.json",
+    "isSource": true,
+    "original": {
+      "value": "#f0f0f0",
+      "type": "color"
+    },
+    "name": "mch_l_mch_grey_200",
+    "attributes": {
+      "category": "L - MCH Grey 200"
+    },
+    "path": [
+      "L - MCH Grey 200"
+    ]
+  },
+  "L - MCH Grey 100": {
+    "value": "#f8f8f8",
+    "type": "color",
+    "filePath": "src/Global-Colours.json",
+    "isSource": true,
+    "original": {
+      "value": "#f8f8f8",
+      "type": "color"
+    },
+    "name": "mch_l_mch_grey_100",
+    "attributes": {
+      "category": "L - MCH Grey 100"
+    },
+    "path": [
+      "L - MCH Grey 100"
+    ]
+  },
+  "L - MCH White": {
+    "value": "#ffffff",
+    "type": "color",
+    "description": "On Light Mode (default) this is the pure MCH White colour",
+    "filePath": "src/Global-Colours.json",
+    "isSource": true,
+    "original": {
+      "value": "#ffffff",
+      "type": "color",
+      "description": "On Light Mode (default) this is the pure MCH White colour"
+    },
+    "name": "mch_l_mch_white",
+    "attributes": {
+      "category": "L - MCH White"
+    },
+    "path": [
+      "L - MCH White"
+    ]
+  },
+  "L - Gold 900": {
+    "value": "#6b4900",
+    "type": "color",
+    "filePath": "src/Global-Colours.json",
+    "isSource": true,
+    "original": {
+      "value": "#6b4900",
+      "type": "color"
+    },
+    "name": "mch_l_gold_900",
+    "attributes": {
+      "category": "L - Gold 900"
+    },
+    "path": [
+      "L - Gold 900"
+    ]
+  },
+  "L - Gold 800": {
+    "value": "#855b00",
+    "type": "color",
+    "filePath": "src/Global-Colours.json",
+    "isSource": true,
+    "original": {
+      "value": "#855b00",
+      "type": "color"
+    },
+    "name": "mch_l_gold_800",
+    "attributes": {
+      "category": "L - Gold 800"
+    },
+    "path": [
+      "L - Gold 800"
+    ]
+  },
+  "L - Gold 700": {
+    "value": "#9f6d00",
+    "type": "color",
+    "filePath": "src/Global-Colours.json",
+    "isSource": true,
+    "original": {
+      "value": "#9f6d00",
+      "type": "color"
+    },
+    "name": "mch_l_gold_700",
+    "attributes": {
+      "category": "L - Gold 700"
+    },
+    "path": [
+      "L - Gold 700"
+    ]
+  },
+  "L - Gold 600": {
+    "value": "#c78b0a",
+    "type": "color",
+    "filePath": "src/Global-Colours.json",
+    "isSource": true,
+    "original": {
+      "value": "#c78b0a",
+      "type": "color"
+    },
+    "name": "mch_l_gold_600",
+    "attributes": {
+      "category": "L - Gold 600"
+    },
+    "path": [
+      "L - Gold 600"
+    ]
+  },
+  "L - Gold 500": {
+    "value": "#e9aa21",
+    "type": "color",
+    "filePath": "src/Global-Colours.json",
+    "isSource": true,
+    "original": {
+      "value": "#e9aa21",
+      "type": "color"
+    },
+    "name": "mch_l_gold_500",
+    "attributes": {
+      "category": "L - Gold 500"
+    },
+    "path": [
+      "L - Gold 500"
+    ]
+  },
+  "L - Gold 400": {
+    "value": "#f3ce89",
+    "type": "color",
+    "filePath": "src/Global-Colours.json",
+    "isSource": true,
+    "original": {
+      "value": "#f3ce89",
+      "type": "color"
+    },
+    "name": "mch_l_gold_400",
+    "attributes": {
+      "category": "L - Gold 400"
+    },
+    "path": [
+      "L - Gold 400"
+    ]
+  },
+  "L - Gold 300": {
+    "value": "#f7dbac",
+    "type": "color",
+    "filePath": "src/Global-Colours.json",
+    "isSource": true,
+    "original": {
+      "value": "#f7dbac",
+      "type": "color"
+    },
+    "name": "mch_l_gold_300",
+    "attributes": {
+      "category": "L - Gold 300"
+    },
+    "path": [
+      "L - Gold 300"
+    ]
+  },
+  "L - Gold 200": {
+    "value": "#fbecd4",
+    "type": "color",
+    "filePath": "src/Global-Colours.json",
+    "isSource": true,
+    "original": {
+      "value": "#fbecd4",
+      "type": "color"
+    },
+    "name": "mch_l_gold_200",
+    "attributes": {
+      "category": "L - Gold 200"
+    },
+    "path": [
+      "L - Gold 200"
+    ]
+  },
+  "L - Gold 100": {
+    "value": "#fdf6ec",
+    "type": "color",
+    "filePath": "src/Global-Colours.json",
+    "isSource": true,
+    "original": {
+      "value": "#fdf6ec",
+      "type": "color"
+    },
+    "name": "mch_l_gold_100",
+    "attributes": {
+      "category": "L - Gold 100"
+    },
+    "path": [
+      "L - Gold 100"
+    ]
+  },
+  "L - Red 900": {
+    "value": "#990023",
+    "type": "color",
+    "filePath": "src/Global-Colours.json",
+    "isSource": true,
+    "original": {
+      "value": "#990023",
+      "type": "color"
+    },
+    "name": "mch_l_red_900",
+    "attributes": {
+      "category": "L - Red 900"
+    },
+    "path": [
+      "L - Red 900"
+    ]
+  },
+  "L - Red 800": {
+    "value": "#b20029",
+    "type": "color",
+    "filePath": "src/Global-Colours.json",
+    "isSource": true,
+    "original": {
+      "value": "#b20029",
+      "type": "color"
+    },
+    "name": "mch_l_red_800",
+    "attributes": {
+      "category": "L - Red 800"
+    },
+    "path": [
+      "L - Red 800"
+    ]
+  },
+  "L - Red 700": {
+    "value": "#ca002e",
+    "type": "color",
+    "filePath": "src/Global-Colours.json",
+    "isSource": true,
+    "original": {
+      "value": "#ca002e",
+      "type": "color"
+    },
+    "name": "mch_l_red_700",
+    "attributes": {
+      "category": "L - Red 700"
+    },
+    "path": [
+      "L - Red 700"
+    ]
+  },
+  "L - Red 600": {
+    "value": "#f20d42",
+    "type": "color",
+    "filePath": "src/Global-Colours.json",
+    "isSource": true,
+    "original": {
+      "value": "#f20d42",
+      "type": "color"
+    },
+    "name": "mch_l_red_600",
+    "attributes": {
+      "category": "L - Red 600"
+    },
+    "path": [
+      "L - Red 600"
+    ]
+  },
+  "L - Red 500": {
+    "value": "#ff526f",
+    "type": "color",
+    "filePath": "src/Global-Colours.json",
+    "isSource": true,
+    "original": {
+      "value": "#ff526f",
+      "type": "color"
+    },
+    "name": "mch_l_red_500",
+    "attributes": {
+      "category": "L - Red 500"
+    },
+    "path": [
+      "L - Red 500"
+    ]
+  },
+  "L - Red 400": {
+    "value": "#ffa3b3",
+    "type": "color",
+    "filePath": "src/Global-Colours.json",
+    "isSource": true,
+    "original": {
+      "value": "#ffa3b3",
+      "type": "color"
+    },
+    "name": "mch_l_red_400",
+    "attributes": {
+      "category": "L - Red 400"
+    },
+    "path": [
+      "L - Red 400"
+    ]
+  },
+  "L - Red 300": {
+    "value": "#ffbfc9",
+    "type": "color",
+    "filePath": "src/Global-Colours.json",
+    "isSource": true,
+    "original": {
+      "value": "#ffbfc9",
+      "type": "color"
+    },
+    "name": "mch_l_red_300",
+    "attributes": {
+      "category": "L - Red 300"
+    },
+    "path": [
+      "L - Red 300"
+    ]
+  },
+  "L - Red 200": {
+    "value": "#ffdee3",
+    "type": "color",
+    "filePath": "src/Global-Colours.json",
+    "isSource": true,
+    "original": {
+      "value": "#ffdee3",
+      "type": "color"
+    },
+    "name": "mch_l_red_200",
+    "attributes": {
+      "category": "L - Red 200"
+    },
+    "path": [
+      "L - Red 200"
+    ]
+  },
+  "L - Red 100": {
+    "value": "#fff1f3",
+    "type": "color",
+    "filePath": "src/Global-Colours.json",
+    "isSource": true,
+    "original": {
+      "value": "#fff1f3",
+      "type": "color"
+    },
+    "name": "mch_l_red_100",
+    "attributes": {
+      "category": "L - Red 100"
+    },
+    "path": [
+      "L - Red 100"
+    ]
+  },
+  "L - Green 900": {
+    "value": "#005c42",
+    "type": "color",
+    "filePath": "src/Global-Colours.json",
+    "isSource": true,
+    "original": {
+      "value": "#005c42",
+      "type": "color"
+    },
+    "name": "mch_l_green_900",
+    "attributes": {
+      "category": "L - Green 900"
+    },
+    "path": [
+      "L - Green 900"
+    ]
+  },
+  "L - Green 800": {
+    "value": "#007051",
+    "type": "color",
+    "filePath": "src/Global-Colours.json",
+    "isSource": true,
+    "original": {
+      "value": "#007051",
+      "type": "color"
+    },
+    "name": "mch_l_green_800",
+    "attributes": {
+      "category": "L - Green 800"
+    },
+    "path": [
+      "L - Green 800"
+    ]
+  },
+  "L - Green 700": {
+    "value": "#00845f",
+    "type": "color",
+    "filePath": "src/Global-Colours.json",
+    "isSource": true,
+    "original": {
+      "value": "#00845f",
+      "type": "color"
+    },
+    "name": "mch_l_green_700",
+    "attributes": {
+      "category": "L - Green 700"
+    },
+    "path": [
+      "L - Green 700"
+    ]
+  },
+  "L - Green 600": {
+    "value": "#09a579",
+    "type": "color",
+    "filePath": "src/Global-Colours.json",
+    "isSource": true,
+    "original": {
+      "value": "#09a579",
+      "type": "color"
+    },
+    "name": "mch_l_green_600",
+    "attributes": {
+      "category": "L - Green 600"
+    },
+    "path": [
+      "L - Green 600"
+    ]
+  },
+  "L - Green 500": {
+    "value": "#1ec597",
+    "type": "color",
+    "filePath": "src/Global-Colours.json",
+    "isSource": true,
+    "original": {
+      "value": "#1ec597",
+      "type": "color"
+    },
+    "name": "mch_l_green_500",
+    "attributes": {
+      "category": "L - Green 500"
+    },
+    "path": [
+      "L - Green 500"
+    ]
+  },
+  "L - Green 400": {
+    "value": "#6fdab5",
+    "type": "color",
+    "filePath": "src/Global-Colours.json",
+    "isSource": true,
+    "original": {
+      "value": "#6fdab5",
+      "type": "color"
+    },
+    "name": "mch_l_green_400",
+    "attributes": {
+      "category": "L - Green 400"
+    },
+    "path": [
+      "L - Green 400"
+    ]
+  },
+  "L - Green 300": {
+    "value": "#abe9d2",
+    "type": "color",
+    "filePath": "src/Global-Colours.json",
+    "isSource": true,
+    "original": {
+      "value": "#abe9d2",
+      "type": "color"
+    },
+    "name": "mch_l_green_300",
+    "attributes": {
+      "category": "L - Green 300"
+    },
+    "path": [
+      "L - Green 300"
+    ]
+  },
+  "L - Green 200": {
+    "value": "#d4f4e7",
+    "type": "color",
+    "filePath": "src/Global-Colours.json",
+    "isSource": true,
+    "original": {
+      "value": "#d4f4e7",
+      "type": "color"
+    },
+    "name": "mch_l_green_200",
+    "attributes": {
+      "category": "L - Green 200"
+    },
+    "path": [
+      "L - Green 200"
+    ]
+  },
+  "L - Green 100": {
+    "value": "#ecfaf4",
+    "type": "color",
+    "filePath": "src/Global-Colours.json",
+    "isSource": true,
+    "original": {
+      "value": "#ecfaf4",
+      "type": "color"
+    },
+    "name": "mch_l_green_100",
+    "attributes": {
+      "category": "L - Green 100"
+    },
+    "path": [
+      "L - Green 100"
+    ]
+  },
+  "L - Blue 900": {
+    "value": "#0058a8",
+    "type": "color",
+    "filePath": "src/Global-Colours.json",
+    "isSource": true,
+    "original": {
+      "value": "#0058a8",
+      "type": "color"
+    },
+    "name": "mch_l_blue_900",
+    "attributes": {
+      "category": "L - Blue 900"
+    },
+    "path": [
+      "L - Blue 900"
+    ]
+  },
+  "L - Blue 800": {
+    "value": "#0065c2",
+    "type": "color",
+    "filePath": "src/Global-Colours.json",
+    "isSource": true,
+    "original": {
+      "value": "#0065c2",
+      "type": "color"
+    },
+    "name": "mch_l_blue_800",
+    "attributes": {
+      "category": "L - Blue 800"
+    },
+    "path": [
+      "L - Blue 800"
+    ]
+  },
+  "L - Blue 700": {
+    "value": "#006fd6",
+    "type": "color",
+    "filePath": "src/Global-Colours.json",
+    "isSource": true,
+    "original": {
+      "value": "#006fd6",
+      "type": "color"
+    },
+    "name": "mch_l_blue_700",
+    "attributes": {
+      "category": "L - Blue 700"
+    },
+    "path": [
+      "L - Blue 700"
+    ]
+  },
+  "L - Blue 600": {
+    "value": "#007df0",
+    "type": "color",
+    "filePath": "src/Global-Colours.json",
+    "isSource": true,
+    "original": {
+      "value": "#007df0",
+      "type": "color"
+    },
+    "name": "mch_l_blue_600",
+    "attributes": {
+      "category": "L - Blue 600"
+    },
+    "path": [
+      "L - Blue 600"
+    ]
+  },
+  "L - Blue 500": {
+    "value": "#369eff",
+    "type": "color",
+    "filePath": "src/Global-Colours.json",
+    "isSource": true,
+    "original": {
+      "value": "#369eff",
+      "type": "color"
+    },
+    "name": "mch_l_blue_500",
+    "attributes": {
+      "category": "L - Blue 500"
+    },
+    "path": [
+      "L - Blue 500"
+    ]
+  },
+  "L - Blue 400": {
+    "value": "#7ec1ff",
+    "type": "color",
+    "filePath": "src/Global-Colours.json",
+    "isSource": true,
+    "original": {
+      "value": "#7ec1ff",
+      "type": "color"
+    },
+    "name": "mch_l_blue_400",
+    "attributes": {
+      "category": "L - Blue 400"
+    },
+    "path": [
+      "L - Blue 400"
+    ]
+  },
+  "L - Blue 300": {
+    "value": "#b4dbff",
+    "type": "color",
+    "filePath": "src/Global-Colours.json",
+    "isSource": true,
+    "original": {
+      "value": "#b4dbff",
+      "type": "color"
+    },
+    "name": "mch_l_blue_300",
+    "attributes": {
+      "category": "L - Blue 300"
+    },
+    "path": [
+      "L - Blue 300"
+    ]
+  },
+  "L - Blue 200": {
+    "value": "#d8ecff",
+    "type": "color",
+    "filePath": "src/Global-Colours.json",
+    "isSource": true,
+    "original": {
+      "value": "#d8ecff",
+      "type": "color"
+    },
+    "name": "mch_l_blue_200",
+    "attributes": {
+      "category": "L - Blue 200"
+    },
+    "path": [
+      "L - Blue 200"
+    ]
+  },
+  "L - Blue 100": {
+    "value": "#eef7ff",
+    "type": "color",
+    "filePath": "src/Global-Colours.json",
+    "isSource": true,
+    "original": {
+      "value": "#eef7ff",
+      "type": "color"
+    },
+    "name": "mch_l_blue_100",
+    "attributes": {
+      "category": "L - Blue 100"
+    },
+    "path": [
+      "L - Blue 100"
+    ]
+  },
+  "D - MCH White": {
+    "value": "#ffffff",
+    "type": "color",
+    "filePath": "src/Global-Colours.json",
+    "isSource": true,
+    "original": {
+      "value": "#ffffff",
+      "type": "color"
+    },
+    "name": "mch_d_mch_white",
+    "attributes": {
+      "category": "D - MCH White"
+    },
+    "path": [
+      "D - MCH White"
+    ]
+  },
+  "D - MCH Grey 900": {
+    "value": "#ededed",
+    "type": "color",
+    "filePath": "src/Global-Colours.json",
+    "isSource": true,
+    "original": {
+      "value": "#ededed",
+      "type": "color"
+    },
+    "name": "mch_d_mch_grey_900",
+    "attributes": {
+      "category": "D - MCH Grey 900"
+    },
+    "path": [
+      "D - MCH Grey 900"
+    ]
+  },
+  "D - MCH Grey 800": {
+    "value": "#d1d1d1",
+    "type": "color",
+    "filePath": "src/Global-Colours.json",
+    "isSource": true,
+    "original": {
+      "value": "#d1d1d1",
+      "type": "color"
+    },
+    "name": "mch_d_mch_grey_800",
+    "attributes": {
+      "category": "D - MCH Grey 800"
+    },
+    "path": [
+      "D - MCH Grey 800"
+    ]
+  },
+  "D - MCH Grey 700": {
+    "value": "#a8a8a8",
+    "type": "color",
+    "filePath": "src/Global-Colours.json",
+    "isSource": true,
+    "original": {
+      "value": "#a8a8a8",
+      "type": "color"
+    },
+    "name": "mch_d_mch_grey_700",
+    "attributes": {
+      "category": "D - MCH Grey 700"
+    },
+    "path": [
+      "D - MCH Grey 700"
+    ]
+  },
+  "D - MCH Grey 600": {
+    "value": "#787878",
+    "type": "color",
+    "filePath": "src/Global-Colours.json",
+    "isSource": true,
+    "original": {
+      "value": "#787878",
+      "type": "color"
+    },
+    "name": "mch_d_mch_grey_600",
+    "attributes": {
+      "category": "D - MCH Grey 600"
+    },
+    "path": [
+      "D - MCH Grey 600"
+    ]
+  },
+  "D - MCH Grey 500": {
+    "value": "#525252",
+    "type": "color",
+    "filePath": "src/Global-Colours.json",
+    "isSource": true,
+    "original": {
+      "value": "#525252",
+      "type": "color"
+    },
+    "name": "mch_d_mch_grey_500",
+    "attributes": {
+      "category": "D - MCH Grey 500"
+    },
+    "path": [
+      "D - MCH Grey 500"
+    ]
+  },
+  "D - MCH Grey 400": {
+    "value": "#383838",
+    "type": "color",
+    "filePath": "src/Global-Colours.json",
+    "isSource": true,
+    "original": {
+      "value": "#383838",
+      "type": "color"
+    },
+    "name": "mch_d_mch_grey_400",
+    "attributes": {
+      "category": "D - MCH Grey 400"
+    },
+    "path": [
+      "D - MCH Grey 400"
+    ]
+  },
+  "D - MCH Grey 300": {
+    "value": "#292929",
+    "type": "color",
+    "filePath": "src/Global-Colours.json",
+    "isSource": true,
+    "original": {
+      "value": "#292929",
+      "type": "color"
+    },
+    "name": "mch_d_mch_grey_300",
+    "attributes": {
+      "category": "D - MCH Grey 300"
+    },
+    "path": [
+      "D - MCH Grey 300"
+    ]
+  },
+  "D - MCH Grey 200": {
+    "value": "#212121",
+    "type": "color",
+    "filePath": "src/Global-Colours.json",
+    "isSource": true,
+    "original": {
+      "value": "#212121",
+      "type": "color"
+    },
+    "name": "mch_d_mch_grey_200",
+    "attributes": {
+      "category": "D - MCH Grey 200"
+    },
+    "path": [
+      "D - MCH Grey 200"
+    ]
+  },
+  "D - MCH Grey 100": {
+    "value": "#191919",
+    "type": "color",
+    "filePath": "src/Global-Colours.json",
+    "isSource": true,
+    "original": {
+      "value": "#191919",
+      "type": "color"
+    },
+    "name": "mch_d_mch_grey_100",
+    "attributes": {
+      "category": "D - MCH Grey 100"
+    },
+    "path": [
+      "D - MCH Grey 100"
+    ]
+  },
+  "D - MCH Black": {
+    "value": "#121212",
+    "type": "color",
+    "filePath": "src/Global-Colours.json",
+    "isSource": true,
+    "original": {
+      "value": "#121212",
+      "type": "color"
+    },
+    "name": "mch_d_mch_black",
+    "attributes": {
+      "category": "D - MCH Black"
+    },
+    "path": [
+      "D - MCH Black"
+    ]
+  },
+  "D - Gold 900": {
+    "value": "#eaad2a",
+    "type": "color",
+    "filePath": "src/Global-Colours.json",
+    "isSource": true,
+    "original": {
+      "value": "#eaad2a",
+      "type": "color"
+    },
+    "name": "mch_d_gold_900",
+    "attributes": {
+      "category": "D - Gold 900"
+    },
+    "path": [
+      "D - Gold 900"
+    ]
+  },
+  "D - Gold 800": {
+    "value": "#e7a413",
+    "type": "color",
+    "filePath": "src/Global-Colours.json",
+    "isSource": true,
+    "original": {
+      "value": "#e7a413",
+      "type": "color"
+    },
+    "name": "mch_d_gold_800",
+    "attributes": {
+      "category": "D - Gold 800"
+    },
+    "path": [
+      "D - Gold 800"
+    ]
+  },
+  "D - Gold 700": {
+    "value": "#d99a12",
+    "type": "color",
+    "filePath": "src/Global-Colours.json",
+    "isSource": true,
+    "original": {
+      "value": "#d99a12",
+      "type": "color"
+    },
+    "name": "mch_d_gold_700",
+    "attributes": {
+      "category": "D - Gold 700"
+    },
+    "path": [
+      "D - Gold 700"
+    ]
+  },
+  "D - Gold 600": {
+    "value": "#c78b0a",
+    "type": "color",
+    "filePath": "src/Global-Colours.json",
+    "isSource": true,
+    "original": {
+      "value": "#c78b0a",
+      "type": "color"
+    },
+    "name": "mch_d_gold_600",
+    "attributes": {
+      "category": "D - Gold 600"
+    },
+    "path": [
+      "D - Gold 600"
+    ]
+  },
+  "D - Gold 500": {
+    "value": "#9f6d00",
+    "type": "color",
+    "filePath": "src/Global-Colours.json",
+    "isSource": true,
+    "original": {
+      "value": "#9f6d00",
+      "type": "color"
+    },
+    "name": "mch_d_gold_500",
+    "attributes": {
+      "category": "D - Gold 500"
+    },
+    "path": [
+      "D - Gold 500"
+    ]
+  },
+  "D - Gold 400": {
+    "value": "#7a5504",
+    "type": "color",
+    "filePath": "src/Global-Colours.json",
+    "isSource": true,
+    "original": {
+      "value": "#7a5504",
+      "type": "color"
+    },
+    "name": "mch_d_gold_400",
+    "attributes": {
+      "category": "D - Gold 400"
+    },
+    "path": [
+      "D - Gold 400"
+    ]
+  },
+  "D - Gold 300": {
+    "value": "#5b4208",
+    "type": "color",
+    "filePath": "src/Global-Colours.json",
+    "isSource": true,
+    "original": {
+      "value": "#5b4208",
+      "type": "color"
+    },
+    "name": "mch_d_gold_300",
+    "attributes": {
+      "category": "D - Gold 300"
+    },
+    "path": [
+      "D - Gold 300"
+    ]
+  },
+  "D - Gold 200": {
+    "value": "#443614",
+    "type": "color",
+    "filePath": "src/Global-Colours.json",
+    "isSource": true,
+    "original": {
+      "value": "#443614",
+      "type": "color"
+    },
+    "name": "mch_d_gold_200",
+    "attributes": {
+      "category": "D - Gold 200"
+    },
+    "path": [
+      "D - Gold 200"
+    ]
+  },
+  "D - Gold 100": {
+    "value": "#2d2b1f",
+    "type": "color",
+    "filePath": "src/Global-Colours.json",
+    "isSource": true,
+    "original": {
+      "value": "#2d2b1f",
+      "type": "color"
+    },
+    "name": "mch_d_gold_100",
+    "attributes": {
+      "category": "D - Gold 100"
+    },
+    "path": [
+      "D - Gold 100"
+    ]
+  },
+  "D - Red 900": {
+    "value": "#ff5a80",
+    "type": "color",
+    "filePath": "src/Global-Colours.json",
+    "isSource": true,
+    "original": {
+      "value": "#ff5a80",
+      "type": "color"
+    },
+    "name": "mch_d_red_900",
+    "attributes": {
+      "category": "D - Red 900"
+    },
+    "path": [
+      "D - Red 900"
+    ]
+  },
+  "D - Red 800": {
+    "value": "#ff4766",
+    "type": "color",
+    "filePath": "src/Global-Colours.json",
+    "isSource": true,
+    "original": {
+      "value": "#ff4766",
+      "type": "color"
+    },
+    "name": "mch_d_red_800",
+    "attributes": {
+      "category": "D - Red 800"
+    },
+    "path": [
+      "D - Red 800"
+    ]
+  },
+  "D - Red 700": {
+    "value": "#ff385c",
+    "type": "color",
+    "filePath": "src/Global-Colours.json",
+    "isSource": true,
+    "original": {
+      "value": "#ff385c",
+      "type": "color"
+    },
+    "name": "mch_d_red_700",
+    "attributes": {
+      "category": "D - Red 700"
+    },
+    "path": [
+      "D - Red 700"
+    ]
+  },
+  "D - Red 600": {
+    "value": "#f20d42",
+    "type": "color",
+    "filePath": "src/Global-Colours.json",
+    "isSource": true,
+    "original": {
+      "value": "#f20d42",
+      "type": "color"
+    },
+    "name": "mch_d_red_600",
+    "attributes": {
+      "category": "D - Red 600"
+    },
+    "path": [
+      "D - Red 600"
+    ]
+  },
+  "D - Red 500": {
+    "value": "#ca002e",
+    "type": "color",
+    "filePath": "src/Global-Colours.json",
+    "isSource": true,
+    "original": {
+      "value": "#ca002e",
+      "type": "color"
+    },
+    "name": "mch_d_red_500",
+    "attributes": {
+      "category": "D - Red 500"
+    },
+    "path": [
+      "D - Red 500"
+    ]
+  },
+  "D - Red 400": {
+    "value": "#a30429",
+    "type": "color",
+    "filePath": "src/Global-Colours.json",
+    "isSource": true,
+    "original": {
+      "value": "#a30429",
+      "type": "color"
+    },
+    "name": "mch_d_red_400",
+    "attributes": {
+      "category": "D - Red 400"
+    },
+    "path": [
+      "D - Red 400"
+    ]
+  },
+  "D - Red 300": {
+    "value": "#800724",
+    "type": "color",
+    "filePath": "src/Global-Colours.json",
+    "isSource": true,
+    "original": {
+      "value": "#800724",
+      "type": "color"
+    },
+    "name": "mch_d_red_300",
+    "attributes": {
+      "category": "D - Red 300"
+    },
+    "path": [
+      "D - Red 300"
+    ]
+  },
+  "D - Red 200": {
+    "value": "#5b1125",
+    "type": "color",
+    "filePath": "src/Global-Colours.json",
+    "isSource": true,
+    "original": {
+      "value": "#5b1125",
+      "type": "color"
+    },
+    "name": "mch_d_red_200",
+    "attributes": {
+      "category": "D - Red 200"
+    },
+    "path": [
+      "D - Red 200"
+    ]
+  },
+  "D - Red 100": {
+    "value": "#3c1a26",
+    "type": "color",
+    "filePath": "src/Global-Colours.json",
+    "isSource": true,
+    "original": {
+      "value": "#3c1a26",
+      "type": "color"
+    },
+    "name": "mch_d_red_100",
+    "attributes": {
+      "category": "D - Red 100"
+    },
+    "path": [
+      "D - Red 100"
+    ]
+  },
+  "D - Green 900": {
+    "value": "#10cb96",
+    "type": "color",
+    "filePath": "src/Global-Colours.json",
+    "isSource": true,
+    "original": {
+      "value": "#10cb96",
+      "type": "color"
+    },
+    "name": "mch_d_green_900",
+    "attributes": {
+      "category": "D - Green 900"
+    },
+    "path": [
+      "D - Green 900"
+    ]
+  },
+  "D - Green 800": {
+    "value": "#10c190",
+    "type": "color",
+    "filePath": "src/Global-Colours.json",
+    "isSource": true,
+    "original": {
+      "value": "#10c190",
+      "type": "color"
+    },
+    "name": "mch_d_green_800",
+    "attributes": {
+      "category": "D - Green 800"
+    },
+    "path": [
+      "D - Green 800"
+    ]
+  },
+  "D - Green 700": {
+    "value": "#0fb385",
+    "type": "color",
+    "filePath": "src/Global-Colours.json",
+    "isSource": true,
+    "original": {
+      "value": "#0fb385",
+      "type": "color"
+    },
+    "name": "mch_d_green_700",
+    "attributes": {
+      "category": "D - Green 700"
+    },
+    "path": [
+      "D - Green 700"
+    ]
+  },
+  "D - Green 600": {
+    "value": "#09a579",
+    "type": "color",
+    "filePath": "src/Global-Colours.json",
+    "isSource": true,
+    "original": {
+      "value": "#09a579",
+      "type": "color"
+    },
+    "name": "mch_d_green_600",
+    "attributes": {
+      "category": "D - Green 600"
+    },
+    "path": [
+      "D - Green 600"
+    ]
+  },
+  "D - Green 500": {
+    "value": "#00845f",
+    "type": "color",
+    "filePath": "src/Global-Colours.json",
+    "isSource": true,
+    "original": {
+      "value": "#00845f",
+      "type": "color"
+    },
+    "name": "mch_d_green_500",
+    "attributes": {
+      "category": "D - Green 500"
+    },
+    "path": [
+      "D - Green 500"
+    ]
+  },
+  "D - Green 400": {
+    "value": "#03684d",
+    "type": "color",
+    "filePath": "src/Global-Colours.json",
+    "isSource": true,
+    "original": {
+      "value": "#03684d",
+      "type": "color"
+    },
+    "name": "mch_d_green_400",
+    "attributes": {
+      "category": "D - Green 400"
+    },
+    "path": [
+      "D - Green 400"
+    ]
+  },
+  "D - Green 300": {
+    "value": "#06503d",
+    "type": "color",
+    "filePath": "src/Global-Colours.json",
+    "isSource": true,
+    "original": {
+      "value": "#06503d",
+      "type": "color"
+    },
+    "name": "mch_d_green_300",
+    "attributes": {
+      "category": "D - Green 300"
+    },
+    "path": [
+      "D - Green 300"
+    ]
+  },
+  "D - Green 200": {
+    "value": "#0e3f35",
+    "type": "color",
+    "filePath": "src/Global-Colours.json",
+    "isSource": true,
+    "original": {
+      "value": "#0e3f35",
+      "type": "color"
+    },
+    "name": "mch_d_green_200",
+    "attributes": {
+      "category": "D - Green 200"
+    },
+    "path": [
+      "D - Green 200"
+    ]
+  },
+  "D - Green 100": {
+    "value": "#172e2c",
+    "type": "color",
+    "filePath": "src/Global-Colours.json",
+    "isSource": true,
+    "original": {
+      "value": "#172e2c",
+      "type": "color"
+    },
+    "name": "mch_d_green_100",
+    "attributes": {
+      "category": "D - Green 100"
+    },
+    "path": [
+      "D - Green 100"
+    ]
+  },
+  "D - Blue 900": {
+    "value": "#3da2ff",
+    "type": "color",
+    "filePath": "src/Global-Colours.json",
+    "isSource": true,
+    "original": {
+      "value": "#3da2ff",
+      "type": "color"
+    },
+    "name": "mch_d_blue_900",
+    "attributes": {
+      "category": "D - Blue 900"
+    },
+    "path": [
+      "D - Blue 900"
+    ]
+  },
+  "D - Blue 800": {
+    "value": "#2998ff",
+    "type": "color",
+    "filePath": "src/Global-Colours.json",
+    "isSource": true,
+    "original": {
+      "value": "#2998ff",
+      "type": "color"
+    },
+    "name": "mch_d_blue_800",
+    "attributes": {
+      "category": "D - Blue 800"
+    },
+    "path": [
+      "D - Blue 800"
+    ]
+  },
+  "D - Blue 700": {
+    "value": "#148eff",
+    "type": "color",
+    "filePath": "src/Global-Colours.json",
+    "isSource": true,
+    "original": {
+      "value": "#148eff",
+      "type": "color"
+    },
+    "name": "mch_d_blue_700",
+    "attributes": {
+      "category": "D - Blue 700"
+    },
+    "path": [
+      "D - Blue 700"
+    ]
+  },
+  "D - Blue 600": {
+    "value": "#007df0",
+    "type": "color",
+    "filePath": "src/Global-Colours.json",
+    "isSource": true,
+    "original": {
+      "value": "#007df0",
+      "type": "color"
+    },
+    "name": "mch_d_blue_600",
+    "attributes": {
+      "category": "D - Blue 600"
+    },
+    "path": [
+      "D - Blue 600"
+    ]
+  },
+  "D - Blue 500": {
+    "value": "#006fd6",
+    "type": "color",
+    "filePath": "src/Global-Colours.json",
+    "isSource": true,
+    "original": {
+      "value": "#006fd6",
+      "type": "color"
+    },
+    "name": "mch_d_blue_500",
+    "attributes": {
+      "category": "D - Blue 500"
+    },
+    "path": [
+      "D - Blue 500"
+    ]
+  },
+  "D - Blue 400": {
+    "value": "#035eb2",
+    "type": "color",
+    "filePath": "src/Global-Colours.json",
+    "isSource": true,
+    "original": {
+      "value": "#035eb2",
+      "type": "color"
+    },
+    "name": "mch_d_blue_400",
+    "attributes": {
+      "category": "D - Blue 400"
+    },
+    "path": [
+      "D - Blue 400"
+    ]
+  },
+  "D - Blue 300": {
+    "value": "#064d8e",
+    "type": "color",
+    "filePath": "src/Global-Colours.json",
+    "isSource": true,
+    "original": {
+      "value": "#064d8e",
+      "type": "color"
+    },
+    "name": "mch_d_blue_300",
+    "attributes": {
+      "category": "D - Blue 300"
+    },
+    "path": [
+      "D - Blue 300"
+    ]
+  },
+  "D - Blue 200": {
+    "value": "#0e3d68",
+    "type": "color",
+    "filePath": "src/Global-Colours.json",
+    "isSource": true,
+    "original": {
+      "value": "#0e3d68",
+      "type": "color"
+    },
+    "name": "mch_d_blue_200",
+    "attributes": {
+      "category": "D - Blue 200"
+    },
+    "path": [
+      "D - Blue 200"
+    ]
+  },
+  "D - Blue 100": {
+    "value": "#172d41",
+    "type": "color",
+    "filePath": "src/Global-Colours.json",
+    "isSource": true,
+    "original": {
+      "value": "#172d41",
+      "type": "color"
+    },
+    "name": "mch_d_blue_100",
+    "attributes": {
+      "category": "D - Blue 100"
+    },
+    "path": [
+      "D - Blue 100"
+    ]
   }
 };
