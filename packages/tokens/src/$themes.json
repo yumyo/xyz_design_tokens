@@ -14,7 +14,6 @@
     "name": "app",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "global": "source",
       "App": "enabled",
       "Global-Colours": "source"
     }
