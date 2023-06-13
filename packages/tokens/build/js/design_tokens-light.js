@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Tue, 13 Jun 2023 10:01:04 GMT
+ * Generated on Tue, 13 Jun 2023 15:23:14 GMT
  */
 
 export const mch_semantic_color_surface_primary = "#ffffff";

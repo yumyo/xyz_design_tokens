@@ -2,20 +2,9 @@
 
 <!--
   Do not edit directly
-  Generated on Tue, 13 Jun 2023 10:01:05 GMT
+  Generated on Tue, 13 Jun 2023 15:23:15 GMT
 -->
 <resources>
-  <dimen name="mch_font_size_0">11sp</dimen>
-  <dimen name="mch_font_size_1">12sp</dimen>
-  <dimen name="mch_font_size_2">13sp</dimen>
-  <dimen name="mch_font_size_3">14sp</dimen>
-  <dimen name="mch_font_size_4">15sp</dimen>
-  <dimen name="mch_font_size_5">16sp</dimen>
-  <dimen name="mch_font_size_6">17sp</dimen>
-  <dimen name="mch_font_size_7">20sp</dimen>
-  <dimen name="mch_font_size_8">22sp</dimen>
-  <dimen name="mch_font_size_9">28sp</dimen>
-  <dimen name="mch_font_size_10">34sp</dimen>
   <dimen name="mch_app_headings_large_title_font_size">34sp</dimen>
   <dimen name="mch_app_headings_h1_font_size">28sp</dimen>
   <dimen name="mch_app_headings_h2_font_size">22sp</dimen>
@@ -28,5 +17,16 @@
   <dimen name="mch_app_body_footnote_font_size">13sp</dimen>
   <dimen name="mch_app_body_caption_1_font_size">12sp</dimen>
   <dimen name="mch_app_body_caption_2_font_size">11sp</dimen>
+  <dimen name="mch_font_size_0">11sp</dimen>
+  <dimen name="mch_font_size_1">12sp</dimen>
+  <dimen name="mch_font_size_2">13sp</dimen>
+  <dimen name="mch_font_size_3">14sp</dimen>
+  <dimen name="mch_font_size_4">15sp</dimen>
+  <dimen name="mch_font_size_5">16sp</dimen>
+  <dimen name="mch_font_size_6">17sp</dimen>
+  <dimen name="mch_font_size_7">20sp</dimen>
+  <dimen name="mch_font_size_8">22sp</dimen>
+  <dimen name="mch_font_size_9">28sp</dimen>
+  <dimen name="mch_font_size_10">34sp</dimen>
   
 </resources>
