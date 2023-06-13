@@ -14,6 +14,10 @@ function getBasePxFontSize(options) {
   return (options && options.basePxFontSize) || 16;
 }
 
+function capitalizeFirstLetter(string) {
+  return string[0].toUpperCase() + string.slice(1);
+}
+
 StyleDictionary.registerTransform({
   name: 'fontSize/pxToRem',
   type: 'value',
@@ -78,10 +82,10 @@ StyleDictionary.registerTransform({
   transitive: true,
   type: 'value',
   matcher: function(token) { 
-    return (token.type === 'paragraphIndent');
+    return (token.type === 'paragraphIndent' || token.name === 'mch_paragraph_indent_0') || token.name === 'mchParagraphIndent0';
   },
   transformer: function(token) {
-    return parseFloat(token.value.replace(/px$/g, ''));
+    return (token.value === "0px" ? parseFloat(token.value.replace(/px$/g, '')) : token.value);
   }
 });
 
@@ -119,10 +123,21 @@ StyleDictionary.registerTransform({
 });
 
 StyleDictionary.registerTransform({
+  name: 'font-family/swap/iOS',
+  type: 'value',
+  matcher: function(token) {
+    return (token.original.type === 'fontFamilies');
+  },
+  transformer: function(token) {
+    return `"${token.original.value}"`;
+  }
+});
+
+StyleDictionary.registerTransform({
   name: 'shadow/quote',
   type: 'value',
   matcher: function(token) {
-    return (token.type === 'Shadows' || token.type === 'textCase');
+    return (token.type === 'Shadows' || token.type === 'textCase' || token.value === 'dropShadow');
   },
   transformer: function(token) {
     return `"${token.original.value}"`;
@@ -162,9 +177,11 @@ registerTransforms(StyleDictionary, {
   excludeParentKeys: false,
 });
 
+
 async function run() {
+
+  // Theme and mobile targets tokens export.
   const $themes = JSON.parse(await promises.readFile('src/$themes.json'));
-  
   const configs = $themes.map(theme => ({
     source: Object.entries(theme.selectedTokenSets)
       .filter(([, val]) => val !== 'disabled')
@@ -177,12 +194,122 @@ async function run() {
         prefix: "mch_",
         files: [
           {
-            filter: function(prop) {
-              return (prop.filePath !== 'src/global.json' && prop.filePath !== 'src/App.json');
+            filter: function(prop) {     
+              return (prop.filePath !== 'src/App.json' && prop.filePath !== 'src/Global-Colours.json');
             },
             format: 'javascript/es6',
             destination: `${designTokensFileName}-${theme.name}.js`
           },
+        ],
+      },
+      scss: {
+        // transformGroup: "scss",
+        transforms: ["attribute/cti","name/cti/snake","time/seconds","content/icon","font-family/quote/fix","fontSize/pxToRem","color/css",'ts/type/fontWeight',"remove/letterspacing/%","remove/pindent/px"],
+        buildPath: "build/scss/",
+        prefix: "mch_",
+        files: [{
+          filter: function(prop) {
+            return (prop.filePath !== 'src/global.json' && prop.filePath !== 'src/App.json' && prop.filePath !== 'src/Global-Colours.json');
+          },
+          destination: `_${designTokensFileName}-${theme.name}.scss`,
+          format: "scss/variables"
+        }]
+      },
+      css: {
+        transforms: [
+          'ts/descriptionToComment',
+          "size/rem",
+          'ts/opacity',
+          'ts/size/lineheight',
+          'ts/type/fontWeight',
+          'ts/resolveMath',
+          'ts/size/css/letterspacing',
+          "fontSize/pxToRem",
+          "remove/letterspacing/%",
+          "remove/pindent/px",
+          'ts/border/css/shorthand',
+          'ts/shadow/css/shorthand',
+          'ts/color/css/hexrgba',
+          'ts/color/modifiers',
+          'name/cti/snake',
+          "font-family/quote/fix",
+        ],
+        buildPath: "build/css/",
+        prefix: "mch_",
+        files: [
+          {
+            filter: function(prop) {
+              return (prop.filePath !== 'src/global.json' && prop.filePath !== 'src/App.json' && prop.filePath !== 'src/Global-Colours.json');
+            },
+            destination: `${designTokensFileName}-${theme.name}.css`,
+            format: 'css/variables',
+          },
+        ],
+      },
+      iosSwift: {
+        transforms: ["attribute/cti","name/cti/camel","custom-color/ColorSwiftUI","content/swift/literal","asset/swift/literal","size/swift/remToCGFloat","font/swift/literal","font-family/quote/fix",'ts/type/fontWeight',"text-decoration/quote","remove/space/px","remove/letterspacing/%", 'shadow/quote',"remove/pindent/px"],
+        buildPath: "../swift/Sources/artbaseldesigntokens/",
+        prefix: "mch_",
+        files: [{
+          filter: function(prop) {
+            return (prop.type !== 'fontFamilies' && prop.filePath !== 'src/global.json' && prop.filePath !== 'src/App.json') && prop.filePath !== 'src/Global-Colours.json';
+          },
+          destination: `${designTokensFileName}+Enum${capitalizeFirstLetter(theme.name)}.swift`,
+          format: "ios-swift/enum.swift",
+          className: `StyleDictionaryEnum${capitalizeFirstLetter(theme.name)}`,
+        },
+        {
+          filter: function(prop) {
+            return (prop.type !== 'fontFamilies' && prop.filePath !== 'src/global.json' && prop.filePath === 'src/App.json');
+          },
+          destination: `${designTokensFileName}+Enum${capitalizeFirstLetter(theme.name)}.swift`,
+          format: "ios-swift/enum.swift",
+          className: `StyleDictionaryEnum${capitalizeFirstLetter(theme.name)}`,
+        },]
+      },
+      android: {
+        transforms: ["attribute/cti", "name/cti/snake", "color/hexAndroid", "android-size/sp" , "size/remToDp"],
+        buildPath: "build/android/src/main/res/values/",
+        prefix: "mch_",
+        files: [
+          {
+            filter: function(prop) {
+              return (prop.type === 'fontSizes' && prop.filePath !== 'src/global.json');
+            },
+            resourceType: "dimen",
+            destination: `${designTokensFileName}-font_dimens.xml`,
+            format: "android/resources",
+          }
+          ,{
+            filter: function(prop) {
+              return prop.type === 'color' && prop.filePath !== 'src/global.json' && prop.filePath !== 'src/App.json' && prop.filePath !== 'src/Global-Colours.json';
+            },
+            resourceType: "color",
+            destination: `${designTokensFileName}-colors-${theme.name}.xml`,
+            format: "android/resources",
+          }
+        ]
+      },
+    },
+  }));
+
+  // Theme (mobile) tokens export.
+  configs.forEach(cfg => {
+    const sd = StyleDictionary.extend(cfg);
+    sd.cleanAllPlatforms(); // optionally, cleanup files first..
+    sd.buildAllPlatforms();
+  });
+
+  // Global tokens export.
+  StyleDictionary.extend({
+    source: ['src/global.json'],
+    platforms: {
+      js: {
+        // transformGroup: 'js',
+        transforms: ["attribute/cti","name/cti/snake","fontSize/pxToRem","color/hex", 'ts/type/fontWeight', "remove/pindent/px"],
+        buildPath: 'build/js/',
+        prefix: "mch_",
+        files: [
           {
             format: 'javascript/es6',
             destination: `${designTokensFileName}.js`
@@ -202,13 +329,7 @@ async function run() {
         transforms: ["attribute/cti","name/cti/snake","time/seconds","content/icon","font-family/quote/fix","fontSize/pxToRem","color/css",'ts/type/fontWeight',"remove/letterspacing/%","remove/pindent/px"],
         buildPath: "build/scss/",
         prefix: "mch_",
-        files: [{
-          filter: function(prop) {
-            return (prop.filePath !== 'src/global.json' && prop.filePath !== 'src/App.json');
-          },
-          destination: `_${designTokensFileName}-${theme.name}.scss`,
-          format: "scss/variables"
-        },
+        files: [
         {
           destination: `_${designTokensFileName}.scss`,
           format: "scss/variables"
@@ -240,67 +361,10 @@ async function run() {
             destination: `${designTokensFileName}.css`,
             format: 'css/variables',
           },
-          {
-            filter: function(prop) {
-              return (prop.filePath !== 'src/global.json' && prop.filePath !== 'src/App.json');
-            },
-            destination: `${designTokensFileName}-${theme.name}.css`,
-            format: 'css/variables',
-          },
         ],
       },
-      iosSwift: {
-        transforms: ["attribute/cti","name/cti/camel","custom-color/ColorSwiftUI","content/swift/literal","asset/swift/literal","size/swift/remToCGFloat","font/swift/literal","font-family/quote/fix",'ts/type/fontWeight',"text-decoration/quote","remove/space/px","remove/letterspacing/%", 'shadow/quote',"remove/pindent/px"],
-        buildPath: "../swift/Sources/artbaseldesigntokens/",
-        prefix: "mch_",
-        files: [{
-          filter: function(prop) {
-            return (prop.filePath !== 'src/global.json' && prop.filePath !== 'src/App.json');
-          },
-          destination: `${designTokensFileName}+Enum-${theme.name}.swift`,
-          format: "ios-swift/enum.swift",
-          className: "StyleDictionaryEnum",
-        },
-        {
-          filter: function(prop) {
-            return (prop.filePath !== 'src/global.json' && prop.filePath === 'src/App.json');
-          },
-          destination: `${designTokensFileName}+Enum-${theme.name}.swift`,
-          format: "ios-swift/enum.swift",
-          className: "StyleDictionaryEnum",
-        },]
-      },
-      android: {
-        transforms: ["attribute/cti", "name/cti/snake", "color/hexAndroid", "android-size/sp" , "size/remToDp"],
-        buildPath: "build/android/src/main/res/values/",
-        prefix: "mch_",
-        files: [
-          {
-            filter: function(prop) {
-              return (prop.type === 'fontSizes' && prop.filePath !== 'src/global.json');
-            },
-            resourceType: "dimen",
-            destination: `${designTokensFileName}-font_dimens.xml`,
-            format: "android/resources",
-          }
-          ,{
-            filter: function(prop) {
-              return prop.type === 'color' && prop.filePath !== 'src/global.json' && prop.filePath !== 'src/App.json';
-            },
-            resourceType: "color",
-            destination: `${designTokensFileName}-colors-${theme.name}.xml`,
-            format: "android/resources",
-          }
-        ]
-      },
     },
-  }));
-
-  configs.forEach(cfg => {
-    const sd = StyleDictionary.extend(cfg);
-    sd.cleanAllPlatforms(); // optionally, cleanup files first..
-    sd.buildAllPlatforms();
-  });
+  }).buildAllPlatforms();
 }
 
 run();

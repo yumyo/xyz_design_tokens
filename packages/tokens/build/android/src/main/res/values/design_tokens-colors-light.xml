@@ -2,7 +2,7 @@
 
 <!--
   Do not edit directly
-  Generated on Tue, 13 Jun 2023 15:23:15 GMT
+  Generated on Tue, 13 Jun 2023 16:10:47 GMT
 -->
 <resources>
   <color name="mch_semantic_color_surface_primary">#ffffffff</color>
@@ -30,99 +30,5 @@
   <color name="mch_semantic_color_icon_alert">#ff9f6d00</color>
   <color name="mch_semantic_color_icon_error">#ffc9012f</color>
   <color name="mch_semantic_color_icon_success">#ff018661</color>
-  <color name="mch_l_mch_black">#ff121212</color>
-  <color name="mch_l_mch_grey_900">#ff242424</color>
-  <color name="mch_l_mch_grey_800">#ff404040</color>
-  <color name="mch_l_mch_grey_700">#ff696969</color>
-  <color name="mch_l_mch_grey_600">#ff999999</color>
-  <color name="mch_l_mch_grey_500">#ffbfbfbf</color>
-  <color name="mch_l_mch_grey_400">#ffdadada</color>
-  <color name="mch_l_mch_grey_300">#ffe8e8e8</color>
-  <color name="mch_l_mch_grey_200">#fff0f0f0</color>
-  <color name="mch_l_mch_grey_100">#fff8f8f8</color>
-  <color name="mch_l_mch_white">#ffffffff</color>
-  <color name="mch_l_gold_900">#ff6b4900</color>
-  <color name="mch_l_gold_800">#ff855b00</color>
-  <color name="mch_l_gold_700">#ff9f6d00</color>
-  <color name="mch_l_gold_600">#ffc78b0a</color>
-  <color name="mch_l_gold_500">#ffe9aa21</color>
-  <color name="mch_l_gold_400">#fff3ce89</color>
-  <color name="mch_l_gold_300">#fff7dbac</color>
-  <color name="mch_l_gold_200">#fffbecd4</color>
-  <color name="mch_l_gold_100">#fffdf6ec</color>
-  <color name="mch_l_red_900">#ff990023</color>
-  <color name="mch_l_red_800">#ffb20029</color>
-  <color name="mch_l_red_700">#ffca002e</color>
-  <color name="mch_l_red_600">#fff20d42</color>
-  <color name="mch_l_red_500">#ffff526f</color>
-  <color name="mch_l_red_400">#ffffa3b3</color>
-  <color name="mch_l_red_300">#ffffbfc9</color>
-  <color name="mch_l_red_200">#ffffdee3</color>
-  <color name="mch_l_red_100">#fffff1f3</color>
-  <color name="mch_l_green_900">#ff005c42</color>
-  <color name="mch_l_green_800">#ff007051</color>
-  <color name="mch_l_green_700">#ff00845f</color>
-  <color name="mch_l_green_600">#ff09a579</color>
-  <color name="mch_l_green_500">#ff1ec597</color>
-  <color name="mch_l_green_400">#ff6fdab5</color>
-  <color name="mch_l_green_300">#ffabe9d2</color>
-  <color name="mch_l_green_200">#ffd4f4e7</color>
-  <color name="mch_l_green_100">#ffecfaf4</color>
-  <color name="mch_l_blue_900">#ff0058a8</color>
-  <color name="mch_l_blue_800">#ff0065c2</color>
-  <color name="mch_l_blue_700">#ff006fd6</color>
-  <color name="mch_l_blue_600">#ff007df0</color>
-  <color name="mch_l_blue_500">#ff369eff</color>
-  <color name="mch_l_blue_400">#ff7ec1ff</color>
-  <color name="mch_l_blue_300">#ffb4dbff</color>
-  <color name="mch_l_blue_200">#ffd8ecff</color>
-  <color name="mch_l_blue_100">#ffeef7ff</color>
-  <color name="mch_d_mch_white">#ffffffff</color>
-  <color name="mch_d_mch_grey_900">#ffededed</color>
-  <color name="mch_d_mch_grey_800">#ffd1d1d1</color>
-  <color name="mch_d_mch_grey_700">#ffa8a8a8</color>
-  <color name="mch_d_mch_grey_600">#ff787878</color>
-  <color name="mch_d_mch_grey_500">#ff525252</color>
-  <color name="mch_d_mch_grey_400">#ff383838</color>
-  <color name="mch_d_mch_grey_300">#ff292929</color>
-  <color name="mch_d_mch_grey_200">#ff212121</color>
-  <color name="mch_d_mch_grey_100">#ff191919</color>
-  <color name="mch_d_mch_black">#ff121212</color>
-  <color name="mch_d_gold_900">#ffeaad2a</color>
-  <color name="mch_d_gold_800">#ffe7a413</color>
-  <color name="mch_d_gold_700">#ffd99a12</color>
-  <color name="mch_d_gold_600">#ffc78b0a</color>
-  <color name="mch_d_gold_500">#ff9f6d00</color>
-  <color name="mch_d_gold_400">#ff7a5504</color>
-  <color name="mch_d_gold_300">#ff5b4208</color>
-  <color name="mch_d_gold_200">#ff443614</color>
-  <color name="mch_d_gold_100">#ff2d2b1f</color>
-  <color name="mch_d_red_900">#ffff5a80</color>
-  <color name="mch_d_red_800">#ffff4766</color>
-  <color name="mch_d_red_700">#ffff385c</color>
-  <color name="mch_d_red_600">#fff20d42</color>
-  <color name="mch_d_red_500">#ffca002e</color>
-  <color name="mch_d_red_400">#ffa30429</color>
-  <color name="mch_d_red_300">#ff800724</color>
-  <color name="mch_d_red_200">#ff5b1125</color>
-  <color name="mch_d_red_100">#ff3c1a26</color>
-  <color name="mch_d_green_900">#ff10cb96</color>
-  <color name="mch_d_green_800">#ff10c190</color>
-  <color name="mch_d_green_700">#ff0fb385</color>
-  <color name="mch_d_green_600">#ff09a579</color>
-  <color name="mch_d_green_500">#ff00845f</color>
-  <color name="mch_d_green_400">#ff03684d</color>
-  <color name="mch_d_green_300">#ff06503d</color>
-  <color name="mch_d_green_200">#ff0e3f35</color>
-  <color name="mch_d_green_100">#ff172e2c</color>
-  <color name="mch_d_blue_900">#ff3da2ff</color>
-  <color name="mch_d_blue_800">#ff2998ff</color>
-  <color name="mch_d_blue_700">#ff148eff</color>
-  <color name="mch_d_blue_600">#ff007df0</color>
-  <color name="mch_d_blue_500">#ff006fd6</color>
-  <color name="mch_d_blue_400">#ff035eb2</color>
-  <color name="mch_d_blue_300">#ff064d8e</color>
-  <color name="mch_d_blue_200">#ff0e3d68</color>
-  <color name="mch_d_blue_100">#ff172d41</color>
   
 </resources>
