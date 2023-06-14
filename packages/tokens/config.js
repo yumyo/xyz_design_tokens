@@ -201,6 +201,13 @@ async function run() {
             format: 'javascript/es6',
             destination: `${designTokensFileName}-${theme.name}.js`
           },
+          {
+            filter: function(prop) {     
+              return (prop.filePath === 'src/Global-Colours.json');
+            },
+            format: 'javascript/es6',
+            destination: `${designTokensFileName}-global-colours.js`
+          },
         ],
       },
       scss: {
@@ -214,7 +221,16 @@ async function run() {
           },
           destination: `_${designTokensFileName}-${theme.name}.scss`,
           format: "scss/variables"
-        }]
+          },
+          {
+            filter: function(prop) {     
+              return (prop.filePath === 'src/Global-Colours.json');
+            },
+            format: 'javascript/es6',
+            destination: `_${designTokensFileName}-global-colours.scss`,
+            format: "scss/variables"
+          }
+        ]
       },
       css: {
         transforms: [
@@ -245,6 +261,13 @@ async function run() {
             destination: `${designTokensFileName}-${theme.name}.css`,
             format: 'css/variables',
           },
+          {
+            filter: function(prop) {     
+              return (prop.filePath === 'src/Global-Colours.json');
+            },
+            destination: `${designTokensFileName}-global-colours.css`,
+            format: 'css/variables',
+          }
         ],
       },
       iosSwift: {
@@ -253,20 +276,29 @@ async function run() {
         prefix: "mch_",
         files: [{
           filter: function(prop) {
-            return (prop.type !== 'fontFamilies' && prop.filePath !== 'src/global.json' && prop.filePath !== 'src/App.json') && prop.filePath !== 'src/Global-Colours.json';
+            return (prop.type !== 'fontFamilies' && prop.filePath !== 'src/global.json' && prop.filePath !== 'src/App.json' && prop.filePath !== 'src/Global-Colours.json') ;
           },
           destination: `${mobileDesignTokensFileName}+Enum${capitalizeFirstLetter(theme.name)}.swift`,
           format: "ios-swift/enum.swift",
           className: `StyleDictionaryEnum${capitalizeFirstLetter(theme.name)}`,
-        },
-        {
-          filter: function(prop) {
-            return (prop.type !== 'fontFamilies' && prop.filePath !== 'src/global.json' && prop.filePath === 'src/App.json');
           },
-          destination: `${mobileDesignTokensFileName}+Enum${capitalizeFirstLetter(theme.name)}.swift`,
-          format: "ios-swift/enum.swift",
-          className: `StyleDictionaryEnum${capitalizeFirstLetter(theme.name)}`,
-        },]
+          {
+            filter: function(prop) {
+              return (prop.type !== 'fontFamilies' && prop.filePath !== 'src/global.json' && prop.filePath === 'src/App.json');
+            },
+            destination: `${mobileDesignTokensFileName}+Enum${capitalizeFirstLetter(theme.name)}.swift`,
+            format: "ios-swift/enum.swift",
+            className: `StyleDictionaryEnum${capitalizeFirstLetter(theme.name)}`,
+          },
+          {
+            filter: function(prop) {     
+              return (prop.filePath === 'src/Global-Colours.json');
+            },
+            destination: `${mobileDesignTokensFileName}+EnumGlobalColours.swift`,
+            format: "ios-swift/enum.swift",
+            className: `StyleDictionaryEnumGlobalColours`,
+          }
+        ]
       },
       android: {
         transforms: ["attribute/cti", "name/cti/snake", "color/hexAndroid", "android-size/sp" , "size/remToDp"],
@@ -287,6 +319,14 @@ async function run() {
             },
             resourceType: "color",
             destination: `${mobileDesignTokensFileName}Colors${capitalizeFirstLetter(theme.name)}.xml`,
+            format: "android/resources",
+          },
+          {
+            filter: function(prop) {
+              return (prop.filePath === 'src/Global-Colours.json');
+            },
+            resourceType: "color",
+            destination: `${mobileDesignTokensFileName}GlobalColours.xml`,
             format: "android/resources",
           }
         ]
