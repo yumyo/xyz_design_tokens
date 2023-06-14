@@ -374,6 +374,10 @@
     "uppercase": {
       "value": "uppercase",
       "type": "textCase"
+    },
+    "lowercase": {
+      "value": "lowercase",
+      "type": "textCase"
     }
   },
   "textDecoration": {
