@@ -240,6 +240,10 @@
           "value": "#dff0cb",
           "type": "color"
         },
+        "Discoveries, Statements, Positions": {
+          "value": "#D2D3EC",
+          "type": "color"
+        },
         "Galleries": {
           "value": "#eaeaea",
           "type": "color"
@@ -480,6 +484,10 @@
         },
         "Unlimited, Encounters, Meridians": {
           "value": "#dff0cb",
+          "type": "color"
+        },
+        "Discoveries, Statements, Positions": {
+          "value": "#D2D3EC",
           "type": "color"
         },
         "Galleries": {
