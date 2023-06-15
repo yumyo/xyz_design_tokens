@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Thu, 15 Jun 2023 11:56:18 GMT
+// Generated on Thu, 15 Jun 2023 14:55:31 GMT
 
 
 import UIKit
@@ -63,6 +63,7 @@ public enum StyleDictionaryEnumGlobalColours {
     public static let mchColorDarkBrandsMiami = UIColor(red: 0.000, green: 0.757, blue: 0.545, alpha: 0.8509803921568627)
     public static let mchColorDarkBrandsParis = UIColor(red: 0.118, green: 0.118, blue: 0.118, alpha: 1)
     public static let mchColorDarkSectorsDialogues = UIColor(red: 0.863, green: 0.863, blue: 0.863, alpha: 1)
+    public static let mchColorDarkSectorsDiscoveriesStatementsPositions = UIColor(red: 0.824, green: 0.827, blue: 0.925, alpha: 1)
     public static let mchColorDarkSectorsEdition = UIColor(red: 1.000, green: 0.969, blue: 0.749, alpha: 1)
     public static let mchColorDarkSectorsFeatureNova = UIColor(red: 0.847, green: 0.933, blue: 0.922, alpha: 1)
     public static let mchColorDarkSectorsFilm = UIColor(red: 0.969, green: 0.863, blue: 0.914, alpha: 1)
@@ -124,6 +125,7 @@ public enum StyleDictionaryEnumGlobalColours {
     public static let mchColorLightBrandsMiami = UIColor(red: 0.000, green: 0.757, blue: 0.545, alpha: 0.8509803921568627)
     public static let mchColorLightBrandsParis = UIColor(red: 0.118, green: 0.118, blue: 0.118, alpha: 1)
     public static let mchColorLightSectorsDialogues = UIColor(red: 0.863, green: 0.863, blue: 0.863, alpha: 1)
+    public static let mchColorLightSectorsDiscoveriesStatementsPositions = UIColor(red: 0.824, green: 0.827, blue: 0.925, alpha: 1)
     public static let mchColorLightSectorsEdition = UIColor(red: 1.000, green: 0.969, blue: 0.749, alpha: 1)
     public static let mchColorLightSectorsFeatureNova = UIColor(red: 0.847, green: 0.933, blue: 0.922, alpha: 1)
     public static let mchColorLightSectorsFilm = UIColor(red: 0.969, green: 0.863, blue: 0.914, alpha: 1)

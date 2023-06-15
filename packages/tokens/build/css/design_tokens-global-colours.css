@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Thu, 15 Jun 2023 11:56:18 GMT
+ * Generated on Thu, 15 Jun 2023 14:55:31 GMT
  */
 
 :root {
@@ -59,6 +59,7 @@
   --mch_color_light_sectors_film: #f7dce9;
   --mch_color_light_sectors_parcour_public: #cddff2;
   --mch_color_light_sectors_unlimited_encounters_meridians: #dff0cb;
+  --mch_color_light_sectors_discoveries_statements_positions: #D2D3EC;
   --mch_color_light_sectors_galleries: #eaeaea;
   --mch_color_light_sectors_feature_nova: #d8eeeb;
   --mch_color_light_sectors_edition: #fff7bf;
@@ -115,6 +116,7 @@
   --mch_color_dark_sectors_film: #f7dce9;
   --mch_color_dark_sectors_parcour_public: #cddff2;
   --mch_color_dark_sectors_unlimited_encounters_meridians: #dff0cb;
+  --mch_color_dark_sectors_discoveries_statements_positions: #D2D3EC;
   --mch_color_dark_sectors_galleries: #eaeaea;
   --mch_color_dark_sectors_feature_nova: #d8eeeb;
   --mch_color_dark_sectors_edition: #fff7bf;

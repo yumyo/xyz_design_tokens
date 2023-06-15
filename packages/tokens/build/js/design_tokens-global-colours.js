@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Thu, 15 Jun 2023 11:56:18 GMT
+ * Generated on Thu, 15 Jun 2023 14:55:31 GMT
  */
 
 export const mch_color_light_base_neutrals_0 = "#ffffff";
@@ -58,6 +58,7 @@ export const mch_color_light_brands_paris = "#1e1e1e";
 export const mch_color_light_sectors_film = "#f7dce9";
 export const mch_color_light_sectors_parcour_public = "#cddff2";
 export const mch_color_light_sectors_unlimited_encounters_meridians = "#dff0cb";
+export const mch_color_light_sectors_discoveries_statements_positions = "#D2D3EC";
 export const mch_color_light_sectors_galleries = "#eaeaea";
 export const mch_color_light_sectors_feature_nova = "#d8eeeb";
 export const mch_color_light_sectors_edition = "#fff7bf";
@@ -114,6 +115,7 @@ export const mch_color_dark_base_alerts_blue_900 = "#3da2ff";
 export const mch_color_dark_sectors_film = "#f7dce9";
 export const mch_color_dark_sectors_parcour_public = "#cddff2";
 export const mch_color_dark_sectors_unlimited_encounters_meridians = "#dff0cb";
+export const mch_color_dark_sectors_discoveries_statements_positions = "#D2D3EC";
 export const mch_color_dark_sectors_galleries = "#eaeaea";
 export const mch_color_dark_sectors_feature_nova = "#d8eeeb";
 export const mch_color_dark_sectors_edition = "#fff7bf";

@@ -2,7 +2,7 @@
 
 <!--
   Do not edit directly
-  Generated on Thu, 15 Jun 2023 11:56:18 GMT
+  Generated on Thu, 15 Jun 2023 14:55:31 GMT
 -->
 <resources>
   <color name="mch_color_light_base_neutrals_0">#ffffffff</color>
@@ -60,6 +60,7 @@
   <color name="mch_color_light_sectors_film">#fff7dce9</color>
   <color name="mch_color_light_sectors_parcour_public">#ffcddff2</color>
   <color name="mch_color_light_sectors_unlimited_encounters_meridians">#ffdff0cb</color>
+  <color name="mch_color_light_sectors_discoveries_statements_positions">#ffd2d3ec</color>
   <color name="mch_color_light_sectors_galleries">#ffeaeaea</color>
   <color name="mch_color_light_sectors_feature_nova">#ffd8eeeb</color>
   <color name="mch_color_light_sectors_edition">#fffff7bf</color>
@@ -116,6 +117,7 @@
   <color name="mch_color_dark_sectors_film">#fff7dce9</color>
   <color name="mch_color_dark_sectors_parcour_public">#ffcddff2</color>
   <color name="mch_color_dark_sectors_unlimited_encounters_meridians">#ffdff0cb</color>
+  <color name="mch_color_dark_sectors_discoveries_statements_positions">#ffd2d3ec</color>
   <color name="mch_color_dark_sectors_galleries">#ffeaeaea</color>
   <color name="mch_color_dark_sectors_feature_nova">#ffd8eeeb</color>
   <color name="mch_color_dark_sectors_edition">#fffff7bf</color>
