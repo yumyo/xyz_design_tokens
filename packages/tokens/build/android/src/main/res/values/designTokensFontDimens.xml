@@ -2,21 +2,43 @@
 
 <!--
   Do not edit directly
-  Generated on Thu, 15 Jun 2023 14:55:31 GMT
+  Generated on Thu, 22 Jun 2023 10:50:23 GMT
 -->
 <resources>
+  <dimen name="mch_app_headings_large_title_line_height">41</dimen>
   <dimen name="mch_app_headings_large_title_font_size">34sp</dimen>
+  <dimen name="mch_app_headings_h1_line_height">34</dimen>
   <dimen name="mch_app_headings_h1_font_size">28sp</dimen>
+  <dimen name="mch_app_headings_h2_line_height">28</dimen>
   <dimen name="mch_app_headings_h2_font_size">22sp</dimen>
+  <dimen name="mch_app_headings_h3_line_height">25</dimen>
   <dimen name="mch_app_headings_h3_font_size">20sp</dimen>
+  <dimen name="mch_app_headings_h4_line_height">22</dimen>
   <dimen name="mch_app_headings_h4_font_size">17sp</dimen>
+  <dimen name="mch_app_headings_subhead_line_height">20</dimen>
   <dimen name="mch_app_headings_subhead_font_size">15sp</dimen>
+  <dimen name="mch_app_body_body_text_line_height">22</dimen>
   <dimen name="mch_app_body_body_text_font_size">17sp</dimen>
+  <dimen name="mch_app_body_callout_line_height">21</dimen>
   <dimen name="mch_app_body_callout_font_size">16sp</dimen>
+  <dimen name="mch_app_body_button_line_height">18</dimen>
   <dimen name="mch_app_body_button_font_size">14sp</dimen>
+  <dimen name="mch_app_body_footnote_line_height">18</dimen>
   <dimen name="mch_app_body_footnote_font_size">13sp</dimen>
+  <dimen name="mch_app_body_caption_1_line_height">16</dimen>
   <dimen name="mch_app_body_caption_1_font_size">12sp</dimen>
+  <dimen name="mch_app_body_caption_2_line_height">13</dimen>
   <dimen name="mch_app_body_caption_2_font_size">11sp</dimen>
+  <dimen name="mch_line_heights_0">41</dimen>
+  <dimen name="mch_line_heights_1">34</dimen>
+  <dimen name="mch_line_heights_2">28</dimen>
+  <dimen name="mch_line_heights_3">25</dimen>
+  <dimen name="mch_line_heights_4">22</dimen>
+  <dimen name="mch_line_heights_5">20</dimen>
+  <dimen name="mch_line_heights_6">21</dimen>
+  <dimen name="mch_line_heights_7">18</dimen>
+  <dimen name="mch_line_heights_8">16</dimen>
+  <dimen name="mch_line_heights_9">13</dimen>
   <dimen name="mch_font_size_0">11sp</dimen>
   <dimen name="mch_font_size_1">12sp</dimen>
   <dimen name="mch_font_size_2">13sp</dimen>
