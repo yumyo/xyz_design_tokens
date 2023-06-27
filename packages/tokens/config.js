@@ -67,6 +67,17 @@ StyleDictionary.registerTransform({
 });
 
 StyleDictionary.registerTransform({
+  name: 'android-size/dp',
+  type: 'value',
+  matcher: function(token) {
+    return token.type === 'spacing';
+  },
+  transformer: function(token) {
+    return (token.value.replace(/px$/g, 'dp'));
+  }
+});
+
+StyleDictionary.registerTransform({
   name: 'color/hexAndroid',
   type: 'value',
   matcher: function(token) {
@@ -312,8 +323,8 @@ async function run() {
             resourceType: "dimen",
             destination: `${mobileDesignTokensFileName}FontDimens.xml`,
             format: "android/resources",
-          }
-          ,{
+          },
+          {
             filter: function(prop) {
               return prop.type === 'color' && prop.filePath !== 'src/global.json' && prop.filePath !== 'src/App.json' && prop.filePath !== 'src/Global-Colours.json';
             },
@@ -403,6 +414,35 @@ async function run() {
             format: 'css/variables',
           },
         ],
+      },
+      iosSwift: {
+        transforms: ["attribute/cti","name/cti/camel","custom-color/ColorSwiftUI","content/swift/literal","asset/swift/literal","size/swift/remToCGFloat","font/swift/literal","font-family/quote/fix",'ts/type/fontWeight',"text-decoration/quote","remove/space/px","remove/letterspacing/%", 'shadow/quote',"remove/pindent/px"],
+        buildPath: "../swift/Sources/artbaseldesigntokens/",
+        prefix: "mch_",
+        files: [{
+          filter: function(prop) {
+              return (prop.type === 'spacing');
+          },
+          destination: `${mobileDesignTokensFileName}+EnumGlobalSpacings.swift`,
+          format: "ios-swift/enum.swift",
+          className: `StyleDictionaryEnumGlobalSpacings`,
+          }
+        ]
+      },
+      android: {
+        transforms: ["attribute/cti", "name/cti/snake", "color/hexAndroid", "android-size/sp" , "size/remToDp", "android-size/dp"],
+        buildPath: "build/android/src/main/res/values/",
+        prefix: "mch_",
+        files: [
+          {
+            filter: function(prop) {
+              return (prop.type === 'spacing');
+            },
+            resourceType: "dimen",
+            destination: `${mobileDesignTokensFileName}Spacings.xml`,
+            format: "android/resources",
+          }
+        ]
       },
     },
   }).buildAllPlatforms();
