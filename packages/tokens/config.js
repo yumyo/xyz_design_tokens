@@ -318,7 +318,7 @@ async function run() {
         files: [
           {
             filter: function(prop) {
-              return (prop.type === 'fontSizes' && prop.filePath !== 'src/global.json' || prop.type === 'lineHeights' && prop.filePath !== 'src/global.json');
+              return (prop.type === 'fontSizes' && prop.filePath !== 'src/global.json' || prop.type === 'lineHeights' && prop.filePath !== 'src/global.json' || prop.type === 'other' && prop.filePath !== 'src/global.json');
             },
             resourceType: "dimen",
             destination: `${mobileDesignTokensFileName}FontDimens.xml`,

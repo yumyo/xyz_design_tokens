@@ -2,9 +2,15 @@
 
 <!--
   Do not edit directly
-  Generated on Fri, 07 Jul 2023 13:13:17 GMT
+  Generated on Fri, 07 Jul 2023 13:44:29 GMT
 -->
 <resources>
+  <dimen name="mch_app_elevations_01_1_type">dropShadow</dimen>
+  <dimen name="mch_app_elevations_01_2_type">dropShadow</dimen>
+  <dimen name="mch_app_elevations_02_1_type">dropShadow</dimen>
+  <dimen name="mch_app_elevations_02_2_type">dropShadow</dimen>
+  <dimen name="mch_app_elevations_03_1_type">dropShadow</dimen>
+  <dimen name="mch_app_elevations_03_2_type">dropShadow</dimen>
   <dimen name="mch_app_headings_large_title_line_height">41</dimen>
   <dimen name="mch_app_headings_large_title_font_size">34sp</dimen>
   <dimen name="mch_app_headings_h1_line_height">34</dimen>
@@ -50,5 +56,17 @@
   <dimen name="mch_font_size_8">22sp</dimen>
   <dimen name="mch_font_size_9">28sp</dimen>
   <dimen name="mch_font_size_10">34sp</dimen>
+  <dimen name="mch_line_spacing_large_title">7</dimen>
+  <dimen name="mch_line_spacing_h1">6</dimen>
+  <dimen name="mch_line_spacing_h2">6</dimen>
+  <dimen name="mch_line_spacing_h3">5</dimen>
+  <dimen name="mch_line_spacing_h4">5</dimen>
+  <dimen name="mch_line_spacing_subhead">5</dimen>
+  <dimen name="mch_line_spacing_body_text">5</dimen>
+  <dimen name="mch_line_spacing_callout">5</dimen>
+  <dimen name="mch_line_spacing_button">4</dimen>
+  <dimen name="mch_line_spacing_footnote">5</dimen>
+  <dimen name="mch_line_spacing_caption1">4</dimen>
+  <dimen name="mch_line_spacing_caption2">2</dimen>
   
 </resources>
