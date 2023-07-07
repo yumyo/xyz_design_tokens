@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Fri, 07 Jul 2023 12:36:58 GMT
+ * Generated on Fri, 07 Jul 2023 12:57:17 GMT
  */
 
 module.exports = {
@@ -20488,12 +20488,12 @@ module.exports = {
       ]
     },
     "1": {
-      "value": "2",
+      "value": "2px",
       "type": "borderRadius",
       "filePath": "src/global.json",
       "isSource": true,
       "original": {
-        "value": "2",
+        "value": "2px",
         "type": "borderRadius"
       },
       "name": "mch_border_radius_1",
@@ -20507,12 +20507,12 @@ module.exports = {
       ]
     },
     "2": {
-      "value": "4",
+      "value": "4px",
       "type": "borderRadius",
       "filePath": "src/global.json",
       "isSource": true,
       "original": {
-        "value": "4",
+        "value": "4px",
         "type": "borderRadius"
       },
       "name": "mch_border_radius_2",
@@ -20526,12 +20526,12 @@ module.exports = {
       ]
     },
     "3": {
-      "value": "12",
+      "value": "12px",
       "type": "borderRadius",
       "filePath": "src/global.json",
       "isSource": true,
       "original": {
-        "value": "12",
+        "value": "12px",
         "type": "borderRadius"
       },
       "name": "mch_border_radius_3",
@@ -20545,12 +20545,12 @@ module.exports = {
       ]
     },
     "4": {
-      "value": "24",
+      "value": "24px",
       "type": "borderRadius",
       "filePath": "src/global.json",
       "isSource": true,
       "original": {
-        "value": "24",
+        "value": "24px",
         "type": "borderRadius"
       },
       "name": "mch_border_radius_4",
@@ -20564,12 +20564,12 @@ module.exports = {
       ]
     },
     "5": {
-      "value": "40",
+      "value": "40px",
       "type": "borderRadius",
       "filePath": "src/global.json",
       "isSource": true,
       "original": {
-        "value": "40",
+        "value": "40px",
         "type": "borderRadius"
       },
       "name": "mch_border_radius_5",
