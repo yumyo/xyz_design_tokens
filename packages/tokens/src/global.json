@@ -1733,23 +1733,23 @@
       "type": "borderRadius"
     },
     "1": {
-      "value": "2",
+      "value": "2px",
       "type": "borderRadius"
     },
     "2": {
-      "value": "4",
+      "value": "4px",
       "type": "borderRadius"
     },
     "3": {
-      "value": "12",
+      "value": "12px",
       "type": "borderRadius"
     },
     "4": {
-      "value": "24",
+      "value": "24px",
       "type": "borderRadius"
     },
     "5": {
-      "value": "40",
+      "value": "40px",
       "type": "borderRadius"
     },
     "6": {
