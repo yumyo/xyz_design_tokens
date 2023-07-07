@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Fri, 07 Jul 2023 12:57:17 GMT
+// Generated on Fri, 07 Jul 2023 13:13:17 GMT
 
 
 import UIKit
@@ -167,18 +167,18 @@ public enum StyleDictionaryEnumApp {
     public static let mchLineHeights7 = 18
     public static let mchLineHeights8 = 16
     public static let mchLineHeights9 = 13
-    public static let mchLineSpacingBodyText = 22 - 17
-    public static let mchLineSpacingButton = 18 - 14
-    public static let mchLineSpacingCallout = 21 - 16
-    public static let mchLineSpacingCaption1 = 16 - 12
-    public static let mchLineSpacingCaption2 = 13 - 11
-    public static let mchLineSpacingFootnote = 18 - 13
-    public static let mchLineSpacingH1 = 34 - 28
-    public static let mchLineSpacingH2 = 28 - 22
-    public static let mchLineSpacingH3 = 25 - 20
-    public static let mchLineSpacingH4 = 22 - 17
-    public static let mchLineSpacingLargeTitle = 41 - 34
-    public static let mchLineSpacingSubhead = 20 - 15
+    public static let mchLineSpacingBodyText = 5
+    public static let mchLineSpacingButton = 4
+    public static let mchLineSpacingCallout = 5
+    public static let mchLineSpacingCaption1 = 4
+    public static let mchLineSpacingCaption2 = 2
+    public static let mchLineSpacingFootnote = 5
+    public static let mchLineSpacingH1 = 6
+    public static let mchLineSpacingH2 = 6
+    public static let mchLineSpacingH3 = 5
+    public static let mchLineSpacingH4 = 5
+    public static let mchLineSpacingLargeTitle = 7
+    public static let mchLineSpacingSubhead = 5
     public static let mchParagraphIndent0 = 0
     public static let mchParagraphSpacing0 = 0
     public static let mchTextCaseCapitalize = "capitalize"
