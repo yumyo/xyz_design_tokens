@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Tue, 27 Jun 2023 14:32:01 GMT
+ * Generated on Fri, 07 Jul 2023 12:36:58 GMT
  */
 
 export default tokens;
@@ -1132,5 +1132,15 @@ declare const tokens: {
   },
   "paragraphIndent": {
     "0": DesignToken
+  },
+  "borderRadius": {
+    "0": DesignToken,
+    "1": DesignToken,
+    "2": DesignToken,
+    "3": DesignToken,
+    "4": DesignToken,
+    "5": DesignToken,
+    "6": DesignToken,
+    "7": DesignToken
   }
 }

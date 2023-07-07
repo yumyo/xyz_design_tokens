@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Tue, 27 Jun 2023 14:32:01 GMT
+ * Generated on Fri, 07 Jul 2023 12:36:58 GMT
  */
 
 module.exports = {
@@ -20464,6 +20464,160 @@ module.exports = {
       "path": [
         "paragraphIndent",
         "0"
+      ]
+    }
+  },
+  "borderRadius": {
+    "0": {
+      "value": "0",
+      "type": "borderRadius",
+      "filePath": "src/global.json",
+      "isSource": true,
+      "original": {
+        "value": "0",
+        "type": "borderRadius"
+      },
+      "name": "mch_border_radius_0",
+      "attributes": {
+        "category": "borderRadius",
+        "type": "0"
+      },
+      "path": [
+        "borderRadius",
+        "0"
+      ]
+    },
+    "1": {
+      "value": "2",
+      "type": "borderRadius",
+      "filePath": "src/global.json",
+      "isSource": true,
+      "original": {
+        "value": "2",
+        "type": "borderRadius"
+      },
+      "name": "mch_border_radius_1",
+      "attributes": {
+        "category": "borderRadius",
+        "type": "1"
+      },
+      "path": [
+        "borderRadius",
+        "1"
+      ]
+    },
+    "2": {
+      "value": "4",
+      "type": "borderRadius",
+      "filePath": "src/global.json",
+      "isSource": true,
+      "original": {
+        "value": "4",
+        "type": "borderRadius"
+      },
+      "name": "mch_border_radius_2",
+      "attributes": {
+        "category": "borderRadius",
+        "type": "2"
+      },
+      "path": [
+        "borderRadius",
+        "2"
+      ]
+    },
+    "3": {
+      "value": "12",
+      "type": "borderRadius",
+      "filePath": "src/global.json",
+      "isSource": true,
+      "original": {
+        "value": "12",
+        "type": "borderRadius"
+      },
+      "name": "mch_border_radius_3",
+      "attributes": {
+        "category": "borderRadius",
+        "type": "3"
+      },
+      "path": [
+        "borderRadius",
+        "3"
+      ]
+    },
+    "4": {
+      "value": "24",
+      "type": "borderRadius",
+      "filePath": "src/global.json",
+      "isSource": true,
+      "original": {
+        "value": "24",
+        "type": "borderRadius"
+      },
+      "name": "mch_border_radius_4",
+      "attributes": {
+        "category": "borderRadius",
+        "type": "4"
+      },
+      "path": [
+        "borderRadius",
+        "4"
+      ]
+    },
+    "5": {
+      "value": "40",
+      "type": "borderRadius",
+      "filePath": "src/global.json",
+      "isSource": true,
+      "original": {
+        "value": "40",
+        "type": "borderRadius"
+      },
+      "name": "mch_border_radius_5",
+      "attributes": {
+        "category": "borderRadius",
+        "type": "5"
+      },
+      "path": [
+        "borderRadius",
+        "5"
+      ]
+    },
+    "6": {
+      "value": "50%",
+      "type": "borderRadius",
+      "filePath": "src/global.json",
+      "isSource": true,
+      "original": {
+        "value": "50%",
+        "type": "borderRadius"
+      },
+      "name": "mch_border_radius_6",
+      "attributes": {
+        "category": "borderRadius",
+        "type": "6"
+      },
+      "path": [
+        "borderRadius",
+        "6"
+      ]
+    },
+    "7": {
+      "value": "100%",
+      "type": "borderRadius",
+      "filePath": "src/global.json",
+      "isSource": true,
+      "original": {
+        "value": "100%",
+        "type": "borderRadius"
+      },
+      "name": "mch_border_radius_7",
+      "attributes": {
+        "category": "borderRadius",
+        "type": "7"
+      },
+      "path": [
+        "borderRadius",
+        "7"
       ]
     }
   }
