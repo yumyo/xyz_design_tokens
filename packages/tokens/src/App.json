@@ -391,5 +391,55 @@
       "value": "0px",
       "type": "dimension"
     }
+  },
+  "lineSpacing": {
+    "LargeTitle": {
+      "value": "{lineHeights.0} - {fontSize.10}",
+      "type": "other"
+    },
+    "H1": {
+      "value": "{lineHeights.1} - {fontSize.9}",
+      "type": "other"
+    },
+    "H2": {
+      "value": "{lineHeights.2} - {fontSize.8}",
+      "type": "other"
+    },
+    "H3": {
+      "value": "{lineHeights.3} - {fontSize.7}",
+      "type": "other"
+    },
+    "H4": {
+      "value": "{lineHeights.4} - {fontSize.6}",
+      "type": "other"
+    },
+    "Subhead": {
+      "value": "{lineHeights.5} - {fontSize.4}",
+      "type": "other"
+    },
+    "BodyText": {
+      "value": "{lineHeights.4} - {fontSize.6}",
+      "type": "other"
+    },
+    "Callout": {
+      "value": "{lineHeights.6} - {fontSize.5}",
+      "type": "other"
+    },
+    "Button": {
+      "value": "{lineHeights.7} - {fontSize.3}",
+      "type": "other"
+    },
+    "Footnote": {
+      "value": "{lineHeights.7} - {fontSize.2}",
+      "type": "other"
+    },
+    "Caption1": {
+      "value": "{lineHeights.8} - {fontSize.1}",
+      "type": "other"
+    },
+    "Caption2": {
+      "value": "{lineHeights.9} - {fontSize.0}",
+      "type": "other"
+    }
   }
 }

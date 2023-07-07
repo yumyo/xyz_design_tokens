@@ -1726,5 +1726,39 @@
       "value": "0px",
       "type": "dimension"
     }
+  },
+  "borderRadius": {
+    "0": {
+      "value": "0",
+      "type": "borderRadius"
+    },
+    "1": {
+      "value": "2",
+      "type": "borderRadius"
+    },
+    "2": {
+      "value": "4",
+      "type": "borderRadius"
+    },
+    "3": {
+      "value": "12",
+      "type": "borderRadius"
+    },
+    "4": {
+      "value": "24",
+      "type": "borderRadius"
+    },
+    "5": {
+      "value": "40",
+      "type": "borderRadius"
+    },
+    "6": {
+      "value": "50%",
+      "type": "borderRadius"
+    },
+    "7": {
+      "value": "100%",
+      "type": "borderRadius"
+    }
   }
 }
