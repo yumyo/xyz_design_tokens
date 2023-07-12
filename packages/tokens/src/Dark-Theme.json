@@ -26,39 +26,39 @@
         "type": "color"
       },
       "Surface Error": {
-        "value": "{Color.Supporting.Status.Dark.Error}",
+        "value": "{Color.Dark.Base.Alerts.Red.700}",
         "type": "color"
       },
       "Surface Success": {
-        "value": "{Color.Supporting.Status.Dark.Success}",
+        "value": "{Color.Dark.Base.Alerts.Green.700}",
         "type": "color"
       },
       "Text Primary": {
-        "value": "{Color.Base.Primary.White}",
+        "value": "{Color.Dark.Base.Neutrals.1000}",
         "type": "color"
       },
       "Text Secondary": {
-        "value": "{Color.Base.Secondary.Grey 100}",
+        "value": "{Color.Dark.Base.Neutrals.800}",
         "type": "color"
       },
       "Text Tertiary": {
-        "value": "{Color.Base.Secondary.Grey 200}",
+        "value": "{Color.Dark.Base.Neutrals.700}",
         "type": "color"
       },
       "Text Disabled": {
-        "value": "{Color.Base.Secondary.Grey 300}",
+        "value": "{Color.Dark.Base.Neutrals.500}",
         "type": "color"
       },
       "Text Alert": {
-        "value": "{Color.Supporting.Status.Dark.Alert}",
+        "value": "{Color.Dark.Base.Alerts.Gold.700}",
         "type": "color"
       },
       "Text Error": {
-        "value": "{Color.Supporting.Status.Dark.Error}",
+        "value": "{Color.Dark.Base.Alerts.Red.700}",
         "type": "color"
       },
       "Text Success": {
-        "value": "{Color.Supporting.Status.Dark.Success}",
+        "value": "{Color.Dark.Base.Alerts.Green.700}",
         "type": "color"
       },
       "Border Primary": {

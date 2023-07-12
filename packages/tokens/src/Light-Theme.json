@@ -34,19 +34,19 @@
         "type": "color"
       },
       "Text Primary": {
-        "value": "{Color.Base.Primary.Black}",
+        "value": "{Color.Light.Base.Neutrals.1000}",
         "type": "color"
       },
       "Text Secondary": {
-        "value": "{Color.Base.Secondary.Grey 500}",
+        "value": "{Color.Light.Base.Neutrals.800}",
         "type": "color"
       },
       "Text Tertiary": {
-        "value": "{Color.Base.Secondary.Grey 400}",
+        "value": "{Color.Light.Base.Neutrals.700}",
         "type": "color"
       },
       "Text Disabled": {
-        "value": "{Color.Base.Secondary.Grey 300}",
+        "value": "{Color.Light.Base.Neutrals.500}",
         "type": "color"
       },
       "Text Alert": {
@@ -54,11 +54,11 @@
         "type": "color"
       },
       "Text Error": {
-        "value": "{Color.Supporting.Status.Light.Error}",
+        "value": "{Color.Light.Base.Alerts.Red.700}",
         "type": "color"
       },
       "Text Success": {
-        "value": "{Color.Supporting.Status.Light.Success}",
+        "value": "{Color.Light.Base.Alerts.Green.700}",
         "type": "color"
       },
       "Border Primary": {
