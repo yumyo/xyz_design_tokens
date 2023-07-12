@@ -59,7 +59,7 @@ StyleDictionary.registerTransform({
   name: 'android-size/sp',
   type: 'value',
   matcher: function(token) {
-    return token.type === 'fontSizes';
+    return token.type === 'fontSizes' || token.path[0] === 'lineSpacing';
   },
   transformer: function(token) {
     return `${token.original.value}sp`;
@@ -305,9 +305,9 @@ async function run() {
             filter: function(prop) {     
               return (prop.filePath === 'src/Global-Colours.json');
             },
-            destination: `${mobileDesignTokensFileName}+EnumGlobalColours.swift`,
+            destination: `${mobileDesignTokensFileName}+EnumColours.swift`,
             format: "ios-swift/enum.swift",
-            className: `StyleDictionaryEnumGlobalColours`,
+            className: `StyleDictionaryEnumColours`,
           }
         ]
       },
@@ -318,7 +318,7 @@ async function run() {
         files: [
           {
             filter: function(prop) {
-              return (prop.type === 'fontSizes' && prop.filePath !== 'src/global.json' || prop.type === 'lineHeights' && prop.filePath !== 'src/global.json' || prop.type === 'other' && prop.filePath !== 'src/global.json');
+              return (prop.type === 'fontSizes' && prop.filePath !== 'src/global.json' || prop.path[0] === 'lineSpacing' && prop.filePath !== 'src/global.json');
             },
             resourceType: "dimen",
             destination: `${mobileDesignTokensFileName}FontDimens.xml`,
@@ -337,7 +337,7 @@ async function run() {
               return (prop.filePath === 'src/Global-Colours.json');
             },
             resourceType: "color",
-            destination: `${mobileDesignTokensFileName}GlobalColours.xml`,
+            destination: `${mobileDesignTokensFileName}Colours.xml`,
             format: "android/resources",
           }
         ]
@@ -423,9 +423,9 @@ async function run() {
           filter: function(prop) {
               return (prop.type === 'spacing');
           },
-          destination: `${mobileDesignTokensFileName}+EnumGlobalSpacings.swift`,
+          destination: `${mobileDesignTokensFileName}+EnumGlobal.swift`,
           format: "ios-swift/enum.swift",
-          className: `StyleDictionaryEnumGlobalSpacings`,
+          className: `StyleDictionaryEnumGlobal`,
           }
         ]
       },
@@ -439,7 +439,7 @@ async function run() {
               return (prop.type === 'spacing');
             },
             resourceType: "dimen",
-            destination: `${mobileDesignTokensFileName}Spacings.xml`,
+            destination: `${mobileDesignTokensFileName}Global.xml`,
             format: "android/resources",
           }
         ]
