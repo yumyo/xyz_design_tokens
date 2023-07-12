@@ -1,15 +1,15 @@
 
 //
-// designTokens+EnumGlobalColours.swift
+// designTokens+EnumColours.swift
 //
 
 // Do not edit directly
-// Generated on Wed, 12 Jul 2023 14:17:09 GMT
+// Generated on Wed, 12 Jul 2023 14:29:41 GMT
 
 
 import UIKit
 
-public enum StyleDictionaryEnumGlobalColours {
+public enum StyleDictionaryEnumColours {
     public static let mchColorDarkBaseAlertsBlue100 = UIColor(red: 0.090, green: 0.176, blue: 0.255, alpha: 1)
     public static let mchColorDarkBaseAlertsBlue200 = UIColor(red: 0.055, green: 0.239, blue: 0.408, alpha: 1)
     public static let mchColorDarkBaseAlertsBlue300 = UIColor(red: 0.024, green: 0.302, blue: 0.557, alpha: 1)

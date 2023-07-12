@@ -1,15 +1,15 @@
 
 //
-// designTokens+EnumGlobalSpacings.swift
+// designTokens+EnumGlobal.swift
 //
 
 // Do not edit directly
-// Generated on Wed, 12 Jul 2023 14:17:09 GMT
+// Generated on Wed, 12 Jul 2023 14:29:41 GMT
 
 
 import UIKit
 
-public enum StyleDictionaryEnumGlobalSpacings {
+public enum StyleDictionaryEnumGlobal {
     public static let mchSpacing112 = 112
     public static let mchSpacing12 = 12
     public static let mchSpacing120 = 120
