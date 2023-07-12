@@ -6,19 +6,19 @@
         "type": "color"
       },
       "Surface Secondary": {
-        "value": "{Color.Dark.Base.Neutrals.500}",
+        "value": "{Color.Dark.Base.Neutrals.100}",
         "type": "color"
       },
       "Surface Tertiary": {
-        "value": "{Color.Dark.Base.Neutrals.400}",
-        "type": "color"
-      },
-      "Surface Quaternary": {
         "value": "{Color.Dark.Base.Neutrals.200}",
         "type": "color"
       },
+      "Surface Quaternary": {
+        "value": "{Color.Dark.Base.Neutrals.500}",
+        "type": "color"
+      },
       "Surface Disabled": {
-        "value": "{Color.Base.Secondary.Grey 300}",
+        "value": "{Color.Dark.Base.Neutrals.500}",
         "type": "color"
       },
       "Surface Alert": {
