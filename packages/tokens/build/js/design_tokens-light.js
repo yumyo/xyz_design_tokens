@@ -1,16 +1,16 @@
 /**
  * Do not edit directly
- * Generated on Fri, 07 Jul 2023 13:56:42 GMT
+ * Generated on Wed, 12 Jul 2023 14:17:09 GMT
  */
 
 export const mch_semantic_color_surface_primary = "#ffffff";
-export const mch_semantic_color_surface_secondary = "#f7f7f7";
-export const mch_semantic_color_surface_tertiary = "#f0f2f5";
-export const mch_semantic_color_surface_quaternary = "#757575";
-export const mch_semantic_color_surface_disabled = "#babfc4";
-export const mch_semantic_color_surface_alert = "#9F6D00";
-export const mch_semantic_color_surface_error = "#c9012f";
-export const mch_semantic_color_surface_success = "#018661";
+export const mch_semantic_color_surface_secondary = "#f8f8f8";
+export const mch_semantic_color_surface_tertiary = "#f0f0f0";
+export const mch_semantic_color_surface_quaternary = "#696969";
+export const mch_semantic_color_surface_disabled = "#bfbfbf";
+export const mch_semantic_color_surface_alert = "#9f6d00";
+export const mch_semantic_color_surface_error = "#ff385c";
+export const mch_semantic_color_surface_success = "#0fb385";
 export const mch_semantic_color_text_primary = "#1d2327";
 export const mch_semantic_color_text_secondary = "#444749";
 export const mch_semantic_color_text_tertiary = "#757575";

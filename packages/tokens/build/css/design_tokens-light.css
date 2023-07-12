@@ -1,17 +1,17 @@
 /**
  * Do not edit directly
- * Generated on Fri, 07 Jul 2023 13:56:42 GMT
+ * Generated on Wed, 12 Jul 2023 14:17:09 GMT
  */
 
 :root {
   --mch_semantic_color_surface_primary: #ffffff;
-  --mch_semantic_color_surface_secondary: #f7f7f7;
-  --mch_semantic_color_surface_tertiary: #f0f2f5;
-  --mch_semantic_color_surface_quaternary: #757575;
-  --mch_semantic_color_surface_disabled: #babfc4;
-  --mch_semantic_color_surface_alert: #9F6D00;
-  --mch_semantic_color_surface_error: #c9012f;
-  --mch_semantic_color_surface_success: #018661;
+  --mch_semantic_color_surface_secondary: #f8f8f8;
+  --mch_semantic_color_surface_tertiary: #f0f0f0;
+  --mch_semantic_color_surface_quaternary: #696969;
+  --mch_semantic_color_surface_disabled: #bfbfbf;
+  --mch_semantic_color_surface_alert: #9f6d00;
+  --mch_semantic_color_surface_error: #ff385c;
+  --mch_semantic_color_surface_success: #0fb385;
   --mch_semantic_color_text_primary: #1d2327;
   --mch_semantic_color_text_secondary: #444749;
   --mch_semantic_color_text_tertiary: #757575;

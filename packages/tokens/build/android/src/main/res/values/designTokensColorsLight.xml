@@ -2,17 +2,17 @@
 
 <!--
   Do not edit directly
-  Generated on Fri, 07 Jul 2023 13:56:43 GMT
+  Generated on Wed, 12 Jul 2023 14:17:09 GMT
 -->
 <resources>
   <color name="mch_semantic_color_surface_primary">#ffffffff</color>
-  <color name="mch_semantic_color_surface_secondary">#fff7f7f7</color>
-  <color name="mch_semantic_color_surface_tertiary">#fff0f2f5</color>
-  <color name="mch_semantic_color_surface_quaternary">#ff757575</color>
-  <color name="mch_semantic_color_surface_disabled">#ffbabfc4</color>
+  <color name="mch_semantic_color_surface_secondary">#fff8f8f8</color>
+  <color name="mch_semantic_color_surface_tertiary">#fff0f0f0</color>
+  <color name="mch_semantic_color_surface_quaternary">#ff696969</color>
+  <color name="mch_semantic_color_surface_disabled">#ffbfbfbf</color>
   <color name="mch_semantic_color_surface_alert">#ff9f6d00</color>
-  <color name="mch_semantic_color_surface_error">#ffc9012f</color>
-  <color name="mch_semantic_color_surface_success">#ff018661</color>
+  <color name="mch_semantic_color_surface_error">#ffff385c</color>
+  <color name="mch_semantic_color_surface_success">#ff0fb385</color>
   <color name="mch_semantic_color_text_primary">#ff1d2327</color>
   <color name="mch_semantic_color_text_secondary">#ff444749</color>
   <color name="mch_semantic_color_text_tertiary">#ff757575</color>
