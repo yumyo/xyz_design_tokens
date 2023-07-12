@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Wed, 12 Jul 2023 17:10:37 GMT
+// Generated on Wed, 12 Jul 2023 17:33:17 GMT
 
 
 import UIKit
@@ -29,12 +29,12 @@ public enum StyleDictionaryEnumLight {
     public static let mchSemanticColorSurfaceSuccess = UIColor(red: 0.059, green: 0.702, blue: 0.522, alpha: 1)
     public static let mchSemanticColorSurfaceTertiary = UIColor(red: 0.941, green: 0.941, blue: 0.941, alpha: 1)
     public static let mchSemanticColorTextAlert = UIColor(red: 0.624, green: 0.427, blue: 0.000, alpha: 1)
-    public static let mchSemanticColorTextDisabled = UIColor(red: 0.729, green: 0.749, blue: 0.769, alpha: 1)
-    public static let mchSemanticColorTextError = UIColor(red: 0.788, green: 0.004, blue: 0.184, alpha: 1)
-    public static let mchSemanticColorTextPrimary = UIColor(red: 0.114, green: 0.137, blue: 0.153, alpha: 1)
-    public static let mchSemanticColorTextSecondary = UIColor(red: 0.267, green: 0.278, blue: 0.286, alpha: 1)
-    public static let mchSemanticColorTextSuccess = UIColor(red: 0.004, green: 0.525, blue: 0.380, alpha: 1)
-    public static let mchSemanticColorTextTertiary = UIColor(red: 0.459, green: 0.459, blue: 0.459, alpha: 1)
+    public static let mchSemanticColorTextDisabled = UIColor(red: 0.749, green: 0.749, blue: 0.749, alpha: 1)
+    public static let mchSemanticColorTextError = UIColor(red: 0.792, green: 0.000, blue: 0.180, alpha: 1)
+    public static let mchSemanticColorTextPrimary = UIColor(red: 0.071, green: 0.071, blue: 0.071, alpha: 1)
+    public static let mchSemanticColorTextSecondary = UIColor(red: 0.251, green: 0.251, blue: 0.251, alpha: 1)
+    public static let mchSemanticColorTextSuccess = UIColor(red: 0.000, green: 0.518, blue: 0.373, alpha: 1)
+    public static let mchSemanticColorTextTertiary = UIColor(red: 0.412, green: 0.412, blue: 0.412, alpha: 1)
     public static let mchSemanticOpacityBorder = 0.5
     public static let mchSemanticOpacityBorderDisabled = 0.25
     public static let mchSemanticOpacityCarouselBackground = 0.95

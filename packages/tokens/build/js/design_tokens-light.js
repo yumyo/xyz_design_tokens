@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Wed, 12 Jul 2023 17:10:36 GMT
+ * Generated on Wed, 12 Jul 2023 17:33:17 GMT
  */
 
 export const mch_semantic_color_surface_primary = "#ffffff";
@@ -11,13 +11,13 @@ export const mch_semantic_color_surface_disabled = "#bfbfbf";
 export const mch_semantic_color_surface_alert = "#9f6d00";
 export const mch_semantic_color_surface_error = "#ff385c";
 export const mch_semantic_color_surface_success = "#0fb385";
-export const mch_semantic_color_text_primary = "#1d2327";
-export const mch_semantic_color_text_secondary = "#444749";
-export const mch_semantic_color_text_tertiary = "#757575";
-export const mch_semantic_color_text_disabled = "#babfc4";
+export const mch_semantic_color_text_primary = "#121212";
+export const mch_semantic_color_text_secondary = "#404040";
+export const mch_semantic_color_text_tertiary = "#696969";
+export const mch_semantic_color_text_disabled = "#bfbfbf";
 export const mch_semantic_color_text_alert = "#9F6D00";
-export const mch_semantic_color_text_error = "#c9012f";
-export const mch_semantic_color_text_success = "#018661";
+export const mch_semantic_color_text_error = "#ca002e";
+export const mch_semantic_color_text_success = "#00845f";
 export const mch_semantic_color_border_primary = "#1d2327";
 export const mch_semantic_color_border_disabled = "#757575";
 export const mch_semantic_color_border_alert = "#9F6D00";
