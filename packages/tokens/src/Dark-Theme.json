@@ -62,43 +62,43 @@
         "type": "color"
       },
       "Border Primary": {
-        "value": "{Color.Base.Primary.White}",
+        "value": "{Color.Dark.Base.Neutrals.1000}",
         "type": "color"
       },
       "Border Disabled": {
-        "value": "{Color.Base.Secondary.Grey 400}",
+        "value": "{Color.Dark.Base.Neutrals.700}",
         "type": "color"
       },
       "Border Alert": {
-        "value": "{Color.Supporting.Status.Dark.Alert}",
+        "value": "{Color.Dark.Base.Alerts.Gold.700}",
         "type": "color"
       },
       "Border Error": {
-        "value": "{Color.Supporting.Status.Dark.Error}",
+        "value": "{Color.Dark.Base.Alerts.Red.700}",
         "type": "color"
       },
       "Border Success": {
-        "value": "{Color.Supporting.Status.Dark.Success}",
+        "value": "{Color.Dark.Base.Alerts.Green.700}",
         "type": "color"
       },
       "Icon Primary": {
-        "value": "{Color.Base.Primary.White}",
+        "value": "{Color.Dark.Base.Neutrals.1000}",
         "type": "color"
       },
       "Icon Disabled": {
-        "value": "{Color.Base.Secondary.Grey 400}",
+        "value": "{Color.Dark.Base.Neutrals.700}",
         "type": "color"
       },
       "Icon Alert": {
-        "value": "{Color.Supporting.Status.Dark.Alert}",
+        "value": "{Color.Dark.Base.Alerts.Gold.700}",
         "type": "color"
       },
       "Icon Error": {
-        "value": "{Color.Supporting.Status.Dark.Error}",
+        "value": "{Color.Dark.Base.Alerts.Red.700}",
         "type": "color"
       },
       "Icon Success": {
-        "value": "{Color.Supporting.Status.Dark.Success}",
+        "value": "{Color.Dark.Base.Alerts.Green.700}",
         "type": "color"
       }
     },
