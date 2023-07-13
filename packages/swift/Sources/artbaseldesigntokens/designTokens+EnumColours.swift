@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Thu, 13 Jul 2023 10:57:04 GMT
+// Generated on Thu, 13 Jul 2023 13:14:29 GMT
 
 
 import UIKit
@@ -60,7 +60,7 @@ public enum StyleDictionaryEnumColours {
     public static let mchColorDarkBrandsBasel = UIColor(red: 0.000, green: 0.627, blue: 0.812, alpha: 1)
     public static let mchColorDarkBrandsCities = UIColor(red: 0.980, green: 0.275, blue: 0.086, alpha: 1)
     public static let mchColorDarkBrandsHongKong = UIColor(red: 0.878, green: 0.000, blue: 0.302, alpha: 1)
-    public static let mchColorDarkBrandsMiami = UIColor(red: 0.000, green: 0.757, blue: 0.545, alpha: 0.8509803921568627)
+    public static let mchColorDarkBrandsMiami = UIColor(red: 0.000, green: 0.757, blue: 0.545, alpha: 1)
     public static let mchColorDarkBrandsParis = UIColor(red: 0.118, green: 0.118, blue: 0.118, alpha: 1)
     public static let mchColorDarkSectorsDialogues = UIColor(red: 0.863, green: 0.863, blue: 0.863, alpha: 1)
     public static let mchColorDarkSectorsDiscoveriesStatementsPositions = UIColor(red: 0.824, green: 0.827, blue: 0.925, alpha: 1)
@@ -122,7 +122,7 @@ public enum StyleDictionaryEnumColours {
     public static let mchColorLightBrandsBasel = UIColor(red: 0.000, green: 0.627, blue: 0.812, alpha: 1)
     public static let mchColorLightBrandsCities = UIColor(red: 0.980, green: 0.275, blue: 0.086, alpha: 1)
     public static let mchColorLightBrandsHongKong = UIColor(red: 0.878, green: 0.000, blue: 0.302, alpha: 1)
-    public static let mchColorLightBrandsMiami = UIColor(red: 0.000, green: 0.757, blue: 0.545, alpha: 0.8509803921568627)
+    public static let mchColorLightBrandsMiami = UIColor(red: 0.000, green: 0.757, blue: 0.545, alpha: 1)
     public static let mchColorLightBrandsParis = UIColor(red: 0.118, green: 0.118, blue: 0.118, alpha: 1)
     public static let mchColorLightSectorsDialogues = UIColor(red: 0.863, green: 0.863, blue: 0.863, alpha: 1)
     public static let mchColorLightSectorsDiscoveriesStatementsPositions = UIColor(red: 0.824, green: 0.827, blue: 0.925, alpha: 1)

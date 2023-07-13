@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Thu, 13 Jul 2023 10:57:04 GMT
+ * Generated on Thu, 13 Jul 2023 13:14:29 GMT
  */
 
 export const mch_color_light_base_neutrals_0 = "#ffffff";
@@ -51,7 +51,7 @@ export const mch_color_light_base_alerts_blue_700 = "#006fd6";
 export const mch_color_light_base_alerts_blue_800 = "#0065c2";
 export const mch_color_light_base_alerts_blue_900 = "#0058a8";
 export const mch_color_light_brands_basel = "#00a0cf";
-export const mch_color_light_brands_miami = "#00c18bd9";
+export const mch_color_light_brands_miami = "#00c18b";
 export const mch_color_light_brands_hong_kong = "#e0004d";
 export const mch_color_light_brands_cities = "#fa4616";
 export const mch_color_light_brands_paris = "#1e1e1e";
@@ -123,7 +123,7 @@ export const mch_color_dark_sectors_kabinett = "#fcdfaa";
 export const mch_color_dark_sectors_insights_survey = "#fcd5d7";
 export const mch_color_dark_sectors_dialogues = "#dcdcdc";
 export const mch_color_dark_brands_basel = "#00a0cf";
-export const mch_color_dark_brands_miami = "#00c18bd9";
+export const mch_color_dark_brands_miami = "#00c18b";
 export const mch_color_dark_brands_hong_kong = "#e0004d";
 export const mch_color_dark_brands_cities = "#fa4616";
 export const mch_color_dark_brands_paris = "#1e1e1e";
