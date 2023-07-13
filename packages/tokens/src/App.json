@@ -441,5 +441,31 @@
       "value": "2",
       "type": "other"
     }
+  },
+  "borderRadius": {
+    "0": {
+      "value": "0",
+      "type": "borderRadius"
+    },
+    "2": {
+      "value": "2",
+      "type": "borderRadius"
+    },
+    "4": {
+      "value": "4",
+      "type": "borderRadius"
+    },
+    "12": {
+      "value": "12",
+      "type": "borderRadius"
+    },
+    "24": {
+      "value": "24",
+      "type": "borderRadius"
+    },
+    "40": {
+      "value": "40",
+      "type": "borderRadius"
+    }
   }
 }

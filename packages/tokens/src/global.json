@@ -1732,31 +1732,31 @@
       "value": "0",
       "type": "borderRadius"
     },
-    "1": {
+    "2": {
       "value": "2px",
       "type": "borderRadius"
     },
-    "2": {
+    "4": {
       "value": "4px",
       "type": "borderRadius"
     },
-    "3": {
+    "12": {
       "value": "12px",
       "type": "borderRadius"
     },
-    "4": {
+    "24": {
       "value": "24px",
       "type": "borderRadius"
     },
-    "5": {
+    "40": {
       "value": "40px",
       "type": "borderRadius"
     },
-    "6": {
+    "half": {
       "value": "50%",
       "type": "borderRadius"
     },
-    "7": {
+    "full": {
       "value": "100%",
       "type": "borderRadius"
     }
