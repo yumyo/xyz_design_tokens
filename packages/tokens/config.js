@@ -217,7 +217,7 @@ async function run() {
               return (prop.filePath === 'src/Global-Colours.json');
             },
             format: 'javascript/es6',
-            destination: `${designTokensFileName}-global-colourz.js`
+            destination: `${designTokensFileName}-global-colours.js`
           },
         ],
       },
