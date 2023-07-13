@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Thu, 13 Jul 2023 13:14:29 GMT
+ * Generated on Thu, 13 Jul 2023 14:15:20 GMT
  */
 
 export default tokens;
@@ -1135,12 +1135,12 @@ declare const tokens: {
   },
   "borderRadius": {
     "0": DesignToken,
-    "1": DesignToken,
     "2": DesignToken,
-    "3": DesignToken,
     "4": DesignToken,
-    "5": DesignToken,
-    "6": DesignToken,
-    "7": DesignToken
+    "12": DesignToken,
+    "24": DesignToken,
+    "40": DesignToken,
+    "half": DesignToken,
+    "full": DesignToken
   }
 }

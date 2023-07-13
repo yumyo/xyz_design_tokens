@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Thu, 13 Jul 2023 13:14:29 GMT
+ * Generated on Thu, 13 Jul 2023 14:15:20 GMT
  */
 
 export const mch_color_base_primary_black = "#1d2327";
@@ -849,10 +849,10 @@ export const mch_text_decoration_none = "none";
 export const mch_text_decoration_underline = "underline";
 export const mch_paragraph_indent_0 = 0;
 export const mch_border_radius_0 = "0";
-export const mch_border_radius_1 = "2px";
-export const mch_border_radius_2 = "4px";
-export const mch_border_radius_3 = "12px";
-export const mch_border_radius_4 = "24px";
-export const mch_border_radius_5 = "40px";
-export const mch_border_radius_6 = "50%";
-export const mch_border_radius_7 = "100%";
+export const mch_border_radius_2 = "2px";
+export const mch_border_radius_4 = "4px";
+export const mch_border_radius_12 = "12px";
+export const mch_border_radius_24 = "24px";
+export const mch_border_radius_40 = "40px";
+export const mch_border_radius_half = "50%";
+export const mch_border_radius_full = "100%";

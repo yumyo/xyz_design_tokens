@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Thu, 13 Jul 2023 13:14:29 GMT
+ * Generated on Thu, 13 Jul 2023 14:15:20 GMT
  */
 
 module.exports = {
@@ -20487,32 +20487,13 @@ module.exports = {
         "0"
       ]
     },
-    "1": {
+    "2": {
       "value": "2px",
       "type": "borderRadius",
       "filePath": "src/global.json",
       "isSource": true,
       "original": {
         "value": "2px",
-        "type": "borderRadius"
-      },
-      "name": "mch_border_radius_1",
-      "attributes": {
-        "category": "borderRadius",
-        "type": "1"
-      },
-      "path": [
-        "borderRadius",
-        "1"
-      ]
-    },
-    "2": {
-      "value": "4px",
-      "type": "borderRadius",
-      "filePath": "src/global.json",
-      "isSource": true,
-      "original": {
-        "value": "4px",
         "type": "borderRadius"
       },
       "name": "mch_border_radius_2",
@@ -20525,32 +20506,13 @@ module.exports = {
         "2"
       ]
     },
-    "3": {
-      "value": "12px",
-      "type": "borderRadius",
-      "filePath": "src/global.json",
-      "isSource": true,
-      "original": {
-        "value": "12px",
-        "type": "borderRadius"
-      },
-      "name": "mch_border_radius_3",
-      "attributes": {
-        "category": "borderRadius",
-        "type": "3"
-      },
-      "path": [
-        "borderRadius",
-        "3"
-      ]
-    },
     "4": {
-      "value": "24px",
+      "value": "4px",
       "type": "borderRadius",
       "filePath": "src/global.json",
       "isSource": true,
       "original": {
-        "value": "24px",
+        "value": "4px",
         "type": "borderRadius"
       },
       "name": "mch_border_radius_4",
@@ -20563,7 +20525,45 @@ module.exports = {
         "4"
       ]
     },
-    "5": {
+    "12": {
+      "value": "12px",
+      "type": "borderRadius",
+      "filePath": "src/global.json",
+      "isSource": true,
+      "original": {
+        "value": "12px",
+        "type": "borderRadius"
+      },
+      "name": "mch_border_radius_12",
+      "attributes": {
+        "category": "borderRadius",
+        "type": "12"
+      },
+      "path": [
+        "borderRadius",
+        "12"
+      ]
+    },
+    "24": {
+      "value": "24px",
+      "type": "borderRadius",
+      "filePath": "src/global.json",
+      "isSource": true,
+      "original": {
+        "value": "24px",
+        "type": "borderRadius"
+      },
+      "name": "mch_border_radius_24",
+      "attributes": {
+        "category": "borderRadius",
+        "type": "24"
+      },
+      "path": [
+        "borderRadius",
+        "24"
+      ]
+    },
+    "40": {
       "value": "40px",
       "type": "borderRadius",
       "filePath": "src/global.json",
@@ -20572,17 +20572,17 @@ module.exports = {
         "value": "40px",
         "type": "borderRadius"
       },
-      "name": "mch_border_radius_5",
+      "name": "mch_border_radius_40",
       "attributes": {
         "category": "borderRadius",
-        "type": "5"
+        "type": "40"
       },
       "path": [
         "borderRadius",
-        "5"
+        "40"
       ]
     },
-    "6": {
+    "half": {
       "value": "50%",
       "type": "borderRadius",
       "filePath": "src/global.json",
@@ -20591,17 +20591,17 @@ module.exports = {
         "value": "50%",
         "type": "borderRadius"
       },
-      "name": "mch_border_radius_6",
+      "name": "mch_border_radius_half",
       "attributes": {
         "category": "borderRadius",
-        "type": "6"
+        "type": "half"
       },
       "path": [
         "borderRadius",
-        "6"
+        "half"
       ]
     },
-    "7": {
+    "full": {
       "value": "100%",
       "type": "borderRadius",
       "filePath": "src/global.json",
@@ -20610,14 +20610,14 @@ module.exports = {
         "value": "100%",
         "type": "borderRadius"
       },
-      "name": "mch_border_radius_7",
+      "name": "mch_border_radius_full",
       "attributes": {
         "category": "borderRadius",
-        "type": "7"
+        "type": "full"
       },
       "path": [
         "borderRadius",
-        "7"
+        "full"
       ]
     }
   }
