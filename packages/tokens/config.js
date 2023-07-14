@@ -56,6 +56,17 @@ StyleDictionary.registerTransform({
 });
 
 StyleDictionary.registerTransform({
+  name: 'integerToFloat',
+  type: 'value',
+  matcher: function(token) {
+    return token.type === 'borderRadius' || token.type === 'borderWidth';
+  },
+  transformer: function(token) {
+    return `${token.original.value}.0`;
+  }
+});
+
+StyleDictionary.registerTransform({
   name: 'android-size/sp',
   type: 'value',
   matcher: function(token) {
@@ -70,10 +81,10 @@ StyleDictionary.registerTransform({
   name: 'android-size/dp',
   type: 'value',
   matcher: function(token) {
-    return token.type === 'spacing';
+    return token.type === 'spacing' || token.type === 'borderRadius' || token.type === 'borderWidth';
   },
   transformer: function(token) {
-    return (token.value.replace(/px$/g, 'dp'));
+    return (token.value + 'dp');
   }
 });
 
@@ -282,7 +293,7 @@ async function run() {
         ],
       },
       iosSwift: {
-        transforms: ["attribute/cti","name/cti/camel","custom-color/ColorSwiftUI","content/swift/literal","asset/swift/literal","size/swift/remToCGFloat","font/swift/literal","font-family/quote/fix",'ts/type/fontWeight',"text-decoration/quote","remove/space/px","remove/letterspacing/%", 'shadow/quote',"remove/pindent/px"],
+        transforms: ["attribute/cti","name/cti/camel","custom-color/ColorSwiftUI","content/swift/literal","asset/swift/literal","size/swift/remToCGFloat","font/swift/literal","font-family/quote/fix",'ts/type/fontWeight',"text-decoration/quote","remove/space/px","remove/letterspacing/%", 'shadow/quote',"remove/pindent/px", "integerToFloat"],
         buildPath: "../swift/Sources/artbaseldesigntokens/",
         prefix: "mch_",
         files: [{
@@ -312,16 +323,21 @@ async function run() {
         ]
       },
       android: {
-        transforms: ["attribute/cti", "name/cti/snake", "color/hexAndroid", "android-size/sp" , "size/remToDp"],
+        transforms: ["attribute/cti", "name/cti/snake", "color/hexAndroid", "android-size/sp" , "size/remToDp", "android-size/dp"],
         buildPath: "build/android/src/main/res/values/",
         prefix: "mch_",
         files: [
           {
             filter: function(prop) {
-              return (prop.type === 'fontSizes' && prop.filePath !== 'src/global.json' || prop.path[0] === 'lineSpacing' && prop.filePath !== 'src/global.json');
+              return (prop.type === 'fontSizes' && prop.filePath !== 'src/global.json' || 
+                      prop.path[0] === 'lineSpacing' && prop.filePath !== 'src/global.json' ||
+                      prop.type === 'borderRadius' && prop.filePath !== 'src/global.json' ||
+                      prop.type === 'borderWidth' && prop.filePath !== 'src/global.json' ||
+                      prop.type === 'spacing' && prop.filePath !== 'src/global.json'
+                      );
             },
             resourceType: "dimen",
-            destination: `${mobileDesignTokensFileName}FontDimens.xml`,
+            destination: `${mobileDesignTokensFileName}App.xml`,
             format: "android/resources",
           },
           {
@@ -414,36 +430,7 @@ async function run() {
             format: 'css/variables',
           },
         ],
-      },
-      iosSwift: {
-        transforms: ["attribute/cti","name/cti/camel","custom-color/ColorSwiftUI","content/swift/literal","asset/swift/literal","size/swift/remToCGFloat","font/swift/literal","font-family/quote/fix",'ts/type/fontWeight',"text-decoration/quote","remove/space/px","remove/letterspacing/%", 'shadow/quote',"remove/pindent/px"],
-        buildPath: "../swift/Sources/artbaseldesigntokens/",
-        prefix: "mch_",
-        files: [{
-          filter: function(prop) {
-              return (prop.type === 'spacing');
-          },
-          destination: `${mobileDesignTokensFileName}+EnumGlobal.swift`,
-          format: "ios-swift/enum.swift",
-          className: `StyleDictionaryEnumGlobal`,
-          }
-        ]
-      },
-      android: {
-        transforms: ["attribute/cti", "name/cti/snake", "color/hexAndroid", "android-size/sp" , "size/remToDp", "android-size/dp"],
-        buildPath: "build/android/src/main/res/values/",
-        prefix: "mch_",
-        files: [
-          {
-            filter: function(prop) {
-              return (prop.type === 'spacing');
-            },
-            resourceType: "dimen",
-            destination: `${mobileDesignTokensFileName}Global.xml`,
-            format: "android/resources",
-          }
-        ]
-      },
+      }
     },
   }).buildAllPlatforms();
 }

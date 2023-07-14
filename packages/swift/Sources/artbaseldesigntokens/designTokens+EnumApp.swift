@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Fri, 14 Jul 2023 08:16:54 GMT
+// Generated on Fri, 14 Jul 2023 08:36:45 GMT
 
 
 import UIKit
@@ -142,15 +142,15 @@ public enum StyleDictionaryEnumApp {
     public static let mchAppHeadingsSubheadParagraphSpacing = 0
     public static let mchAppHeadingsSubheadTextCase = "none"
     public static let mchAppHeadingsSubheadTextDecoration = "none"
-    public static let mchBorderRadius0 = 0
-    public static let mchBorderRadius12 = 12
-    public static let mchBorderRadius2 = 2
-    public static let mchBorderRadius24 = 24
-    public static let mchBorderRadius4 = 4
-    public static let mchBorderRadius40 = 40
-    public static let mchBorderWidth0 = 0
-    public static let mchBorderWidth1 = 1
-    public static let mchBorderWidth2 = 2
+    public static let mchBorderRadius0 = 0.0
+    public static let mchBorderRadius12 = 12.0
+    public static let mchBorderRadius2 = 2.0
+    public static let mchBorderRadius24 = 24.0
+    public static let mchBorderRadius4 = 4.0
+    public static let mchBorderRadius40 = 40.0
+    public static let mchBorderWidth0 = 0.0
+    public static let mchBorderWidth1 = 1.0
+    public static let mchBorderWidth2 = 2.0
     public static let mchFontSize0 = 11
     public static let mchFontSize1 = 12
     public static let mchFontSize10 = 34

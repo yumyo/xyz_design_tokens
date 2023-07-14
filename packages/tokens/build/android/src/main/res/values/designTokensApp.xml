@@ -2,7 +2,7 @@
 
 <!--
   Do not edit directly
-  Generated on Fri, 14 Jul 2023 08:16:54 GMT
+  Generated on Fri, 14 Jul 2023 08:36:45 GMT
 -->
 <resources>
   <dimen name="mch_app_headings_large_title_font_size">34sp</dimen>
@@ -40,5 +40,31 @@
   <dimen name="mch_line_spacing_footnote">5sp</dimen>
   <dimen name="mch_line_spacing_caption1">4sp</dimen>
   <dimen name="mch_line_spacing_caption2">2sp</dimen>
+  <dimen name="mch_border_radius_0">0dp</dimen>
+  <dimen name="mch_border_radius_2">2dp</dimen>
+  <dimen name="mch_border_radius_4">4dp</dimen>
+  <dimen name="mch_border_radius_12">12dp</dimen>
+  <dimen name="mch_border_radius_24">24dp</dimen>
+  <dimen name="mch_border_radius_40">40dp</dimen>
+  <dimen name="mch_spacing_2">2dp</dimen>
+  <dimen name="mch_spacing_4">4dp</dimen>
+  <dimen name="mch_spacing_8">8dp</dimen>
+  <dimen name="mch_spacing_12">12dp</dimen>
+  <dimen name="mch_spacing_16">16dp</dimen>
+  <dimen name="mch_spacing_20">20dp</dimen>
+  <dimen name="mch_spacing_24">24dp</dimen>
+  <dimen name="mch_spacing_32">32dp</dimen>
+  <dimen name="mch_spacing_40">40dp</dimen>
+  <dimen name="mch_spacing_48">48dp</dimen>
+  <dimen name="mch_spacing_56">56dp</dimen>
+  <dimen name="mch_spacing_64">64dp</dimen>
+  <dimen name="mch_spacing_72">72dp</dimen>
+  <dimen name="mch_spacing_80">80dp</dimen>
+  <dimen name="mch_spacing_96">96dp</dimen>
+  <dimen name="mch_spacing_112">112dp</dimen>
+  <dimen name="mch_spacing_120">120dp</dimen>
+  <dimen name="mch_border_width_0">0dp</dimen>
+  <dimen name="mch_border_width_1">1dp</dimen>
+  <dimen name="mch_border_width_2">2dp</dimen>
   
 </resources>
