@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Thu, 13 Jul 2023 15:07:43 GMT
+// Generated on Fri, 14 Jul 2023 08:16:54 GMT
 
 
 import UIKit
@@ -148,6 +148,9 @@ public enum StyleDictionaryEnumApp {
     public static let mchBorderRadius24 = 24
     public static let mchBorderRadius4 = 4
     public static let mchBorderRadius40 = 40
+    public static let mchBorderWidth0 = 0
+    public static let mchBorderWidth1 = 1
+    public static let mchBorderWidth2 = 2
     public static let mchFontSize0 = 11
     public static let mchFontSize1 = 12
     public static let mchFontSize10 = 34

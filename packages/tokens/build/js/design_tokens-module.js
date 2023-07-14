@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Thu, 13 Jul 2023 15:07:43 GMT
+ * Generated on Fri, 14 Jul 2023 08:16:54 GMT
  */
 
 module.exports = {
@@ -20618,6 +20618,65 @@ module.exports = {
       "path": [
         "borderRadius",
         "full"
+      ]
+    }
+  },
+  "borderWidth": {
+    "0": {
+      "value": "0",
+      "type": "borderWidth",
+      "filePath": "src/global.json",
+      "isSource": true,
+      "original": {
+        "value": "0",
+        "type": "borderWidth"
+      },
+      "name": "mch_border_width_0",
+      "attributes": {
+        "category": "borderWidth",
+        "type": "0"
+      },
+      "path": [
+        "borderWidth",
+        "0"
+      ]
+    },
+    "1": {
+      "value": "1",
+      "type": "borderWidth",
+      "filePath": "src/global.json",
+      "isSource": true,
+      "original": {
+        "value": "1",
+        "type": "borderWidth"
+      },
+      "name": "mch_border_width_1",
+      "attributes": {
+        "category": "borderWidth",
+        "type": "1"
+      },
+      "path": [
+        "borderWidth",
+        "1"
+      ]
+    },
+    "2": {
+      "value": "2",
+      "type": "borderWidth",
+      "filePath": "src/global.json",
+      "isSource": true,
+      "original": {
+        "value": "2",
+        "type": "borderWidth"
+      },
+      "name": "mch_border_width_2",
+      "attributes": {
+        "category": "borderWidth",
+        "type": "2"
+      },
+      "path": [
+        "borderWidth",
+        "2"
       ]
     }
   }

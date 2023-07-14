@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Thu, 13 Jul 2023 15:07:43 GMT
+ * Generated on Fri, 14 Jul 2023 08:16:54 GMT
  */
 
 export const mch_color_base_primary_black = "#1d2327";
@@ -856,3 +856,6 @@ export const mch_border_radius_24 = "24px";
 export const mch_border_radius_40 = "40px";
 export const mch_border_radius_half = "50%";
 export const mch_border_radius_full = "100%";
+export const mch_border_width_0 = "0";
+export const mch_border_width_1 = "1";
+export const mch_border_width_2 = "2";
