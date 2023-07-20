@@ -135,6 +135,19 @@ StyleDictionary.registerTransform({
 });
 
 StyleDictionary.registerTransform({
+  name: 'convertUnit/letterspacing/%',
+  type: 'value',
+  matcher: function(token) {
+    return (token.type === 'letterSpacing');
+  },
+  transformer: function(token, options) {
+    const baseFont = getBasePxFontSize(options);
+
+    return (parseFloat(token.original.value) / baseFont + 'rem') ;
+  }
+});
+
+StyleDictionary.registerTransform({
   name: 'font-family/quote/fix',
   type: 'value',
   matcher: function(token) {
@@ -234,7 +247,7 @@ async function run() {
       },
       scss: {
         // transformGroup: "scss",
-        transforms: ["attribute/cti","name/cti/snake","time/seconds","content/icon","font-family/quote/fix","fontSize/pxToRem","color/css",'ts/type/fontWeight',"remove/letterspacing/%","remove/pindent/px"],
+        transforms: ["attribute/cti","name/cti/snake","time/seconds","content/icon","font-family/quote/fix","fontSize/pxToRem","color/css",'ts/type/fontWeight',"convertUnit/letterspacing/%","remove/pindent/px"],
         buildPath: "build/scss/",
         prefix: "mch_",
         files: [{
@@ -264,7 +277,7 @@ async function run() {
           'ts/resolveMath',
           'ts/size/css/letterspacing',
           "fontSize/pxToRem",
-          "remove/letterspacing/%",
+          "convertUnit/letterspacing/%",
           "remove/pindent/px",
           'ts/border/css/shorthand',
           'ts/shadow/css/shorthand',
@@ -394,7 +407,7 @@ async function run() {
       },
       scss: {
         // transformGroup: "scss",
-        transforms: ["attribute/cti","name/cti/snake","time/seconds","content/icon","font-family/quote/fix","fontSize/pxToRem","color/css",'ts/type/fontWeight',"remove/letterspacing/%","remove/pindent/px"],
+        transforms: ["attribute/cti","name/cti/snake","time/seconds","content/icon","font-family/quote/fix","fontSize/pxToRem","color/css",'ts/type/fontWeight',"convertUnit/letterspacing/%","remove/pindent/px"],
         buildPath: "build/scss/",
         prefix: "mch_",
         files: [
@@ -413,7 +426,7 @@ async function run() {
           'ts/resolveMath',
           'ts/size/css/letterspacing',
           "fontSize/pxToRem",
-          "remove/letterspacing/%",
+          "convertUnit/letterspacing/%",
           "remove/pindent/px",
           'ts/border/css/shorthand',
           'ts/shadow/css/shorthand',

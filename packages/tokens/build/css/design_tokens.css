@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Wed, 19 Jul 2023 14:18:02 GMT
+ * Generated on Thu, 20 Jul 2023 16:34:40 GMT
  */
 
 :root {
@@ -152,19 +152,19 @@
   --mch_font_size_12: 2.5rem;
   --mch_font_size_13: 2.625rem;
   --mch_font_size_14: 3rem;
-  --mch_letter_spacing_0: 0;
-  --mch_letter_spacing_1: 0;
-  --mch_letter_spacing_2: 4;
-  --mch_letter_spacing_3: 1;
-  --mch_letter_spacing_4: 0.3;
-  --mch_letter_spacing_5: 0.5;
+  --mch_letter_spacing_0: 0rem;
+  --mch_letter_spacing_1: 0rem;
+  --mch_letter_spacing_2: 0.25rem;
+  --mch_letter_spacing_3: 0.0625rem;
+  --mch_letter_spacing_4: 0.01875rem;
+  --mch_letter_spacing_5: 0.03125rem;
   --mch_paragraph_spacing_0: 0;
   --mch_paragraph_spacing_1: 4;
   --mch_typography_headings_xs_sm_h1_font_family: "Art Basel Headline";
   --mch_typography_headings_xs_sm_h1_font_weight: 700;
   --mch_typography_headings_xs_sm_h1_line_height: 2.188rem;
   --mch_typography_headings_xs_sm_h1_font_size: 1.875rem;
-  --mch_typography_headings_xs_sm_h1_letter_spacing: 0;
+  --mch_typography_headings_xs_sm_h1_letter_spacing: 0rem;
   --mch_typography_headings_xs_sm_h1_paragraph_spacing: 0;
   --mch_typography_headings_xs_sm_h1_paragraph_indent: 0;
   --mch_typography_headings_xs_sm_h1_text_case: none;
@@ -173,7 +173,7 @@
   --mch_typography_headings_xs_sm_h2_font_weight: 700;
   --mch_typography_headings_xs_sm_h2_line_height: 1.875rem;
   --mch_typography_headings_xs_sm_h2_font_size: 1.625rem;
-  --mch_typography_headings_xs_sm_h2_letter_spacing: 0;
+  --mch_typography_headings_xs_sm_h2_letter_spacing: 0rem;
   --mch_typography_headings_xs_sm_h2_paragraph_spacing: 0;
   --mch_typography_headings_xs_sm_h2_paragraph_indent: 0;
   --mch_typography_headings_xs_sm_h2_text_case: none;
@@ -182,7 +182,7 @@
   --mch_typography_headings_xs_sm_h3_font_weight: 700;
   --mch_typography_headings_xs_sm_h3_line_height: 1.75rem;
   --mch_typography_headings_xs_sm_h3_font_size: 1.5rem;
-  --mch_typography_headings_xs_sm_h3_letter_spacing: 0;
+  --mch_typography_headings_xs_sm_h3_letter_spacing: 0rem;
   --mch_typography_headings_xs_sm_h3_paragraph_spacing: 0;
   --mch_typography_headings_xs_sm_h3_paragraph_indent: 0;
   --mch_typography_headings_xs_sm_h3_text_case: none;
@@ -191,7 +191,7 @@
   --mch_typography_headings_xs_sm_h4_font_weight: 700;
   --mch_typography_headings_xs_sm_h4_line_height: 1.438rem;
   --mch_typography_headings_xs_sm_h4_font_size: 1.25rem;
-  --mch_typography_headings_xs_sm_h4_letter_spacing: 0;
+  --mch_typography_headings_xs_sm_h4_letter_spacing: 0rem;
   --mch_typography_headings_xs_sm_h4_paragraph_spacing: 0;
   --mch_typography_headings_xs_sm_h4_paragraph_indent: 0;
   --mch_typography_headings_xs_sm_h4_text_case: none;
@@ -200,7 +200,7 @@
   --mch_typography_headings_xs_sm_h5_font_weight: 700;
   --mch_typography_headings_xs_sm_h5_line_height: 1.313rem;
   --mch_typography_headings_xs_sm_h5_font_size: 1.125rem;
-  --mch_typography_headings_xs_sm_h5_letter_spacing: 0;
+  --mch_typography_headings_xs_sm_h5_letter_spacing: 0rem;
   --mch_typography_headings_xs_sm_h5_paragraph_spacing: 0;
   --mch_typography_headings_xs_sm_h5_paragraph_indent: 0;
   --mch_typography_headings_xs_sm_h5_text_case: none;
@@ -209,7 +209,7 @@
   --mch_typography_headings_xl_h1_font_weight: 700;
   --mch_typography_headings_xl_h1_line_height: 3rem;
   --mch_typography_headings_xl_h1_font_size: 2.625rem;
-  --mch_typography_headings_xl_h1_letter_spacing: 0;
+  --mch_typography_headings_xl_h1_letter_spacing: 0rem;
   --mch_typography_headings_xl_h1_paragraph_spacing: 0;
   --mch_typography_headings_xl_h1_paragraph_indent: 0;
   --mch_typography_headings_xl_h1_text_case: none;
@@ -218,7 +218,7 @@
   --mch_typography_headings_xl_h2_font_weight: 700;
   --mch_typography_headings_xl_h2_line_height: 2.625rem;
   --mch_typography_headings_xl_h2_font_size: 2.25rem;
-  --mch_typography_headings_xl_h2_letter_spacing: 0;
+  --mch_typography_headings_xl_h2_letter_spacing: 0rem;
   --mch_typography_headings_xl_h2_paragraph_spacing: 0;
   --mch_typography_headings_xl_h2_paragraph_indent: 0;
   --mch_typography_headings_xl_h2_text_case: none;
@@ -227,7 +227,7 @@
   --mch_typography_headings_xl_h3_font_weight: 700;
   --mch_typography_headings_xl_h3_line_height: 2.125rem;
   --mch_typography_headings_xl_h3_font_size: 1.875rem;
-  --mch_typography_headings_xl_h3_letter_spacing: 0;
+  --mch_typography_headings_xl_h3_letter_spacing: 0rem;
   --mch_typography_headings_xl_h3_paragraph_spacing: 0;
   --mch_typography_headings_xl_h3_paragraph_indent: 0;
   --mch_typography_headings_xl_h3_text_case: none;
@@ -236,7 +236,7 @@
   --mch_typography_headings_xl_h4_font_weight: 700;
   --mch_typography_headings_xl_h4_line_height: 1.75rem;
   --mch_typography_headings_xl_h4_font_size: 1.5rem;
-  --mch_typography_headings_xl_h4_letter_spacing: 0;
+  --mch_typography_headings_xl_h4_letter_spacing: 0rem;
   --mch_typography_headings_xl_h4_paragraph_spacing: 0;
   --mch_typography_headings_xl_h4_paragraph_indent: 0;
   --mch_typography_headings_xl_h4_text_case: none;
@@ -245,7 +245,7 @@
   --mch_typography_headings_xl_h5_font_weight: 700;
   --mch_typography_headings_xl_h5_line_height: 1.313rem;
   --mch_typography_headings_xl_h5_font_size: 1.125rem;
-  --mch_typography_headings_xl_h5_letter_spacing: 0;
+  --mch_typography_headings_xl_h5_letter_spacing: 0rem;
   --mch_typography_headings_xl_h5_paragraph_spacing: 0;
   --mch_typography_headings_xl_h5_paragraph_indent: 0;
   --mch_typography_headings_xl_h5_text_case: none;
@@ -254,7 +254,7 @@
   --mch_typography_headings_md_h1_font_weight: 700;
   --mch_typography_headings_md_h1_line_height: 2.563rem;
   --mch_typography_headings_md_h1_font_size: 2.25rem;
-  --mch_typography_headings_md_h1_letter_spacing: 0;
+  --mch_typography_headings_md_h1_letter_spacing: 0rem;
   --mch_typography_headings_md_h1_paragraph_spacing: 4;
   --mch_typography_headings_md_h1_paragraph_indent: 0;
   --mch_typography_headings_md_h1_text_case: none;
@@ -263,7 +263,7 @@
   --mch_typography_headings_md_h2_font_weight: 700;
   --mch_typography_headings_md_h2_line_height: 2.188rem;
   --mch_typography_headings_md_h2_font_size: 1.875rem;
-  --mch_typography_headings_md_h2_letter_spacing: 0;
+  --mch_typography_headings_md_h2_letter_spacing: 0rem;
   --mch_typography_headings_md_h2_paragraph_spacing: 4;
   --mch_typography_headings_md_h2_paragraph_indent: 0;
   --mch_typography_headings_md_h2_text_case: none;
@@ -272,7 +272,7 @@
   --mch_typography_headings_md_h3_font_weight: 700;
   --mch_typography_headings_md_h3_line_height: 1.875rem;
   --mch_typography_headings_md_h3_font_size: 1.625rem;
-  --mch_typography_headings_md_h3_letter_spacing: 0;
+  --mch_typography_headings_md_h3_letter_spacing: 0rem;
   --mch_typography_headings_md_h3_paragraph_spacing: 4;
   --mch_typography_headings_md_h3_paragraph_indent: 0;
   --mch_typography_headings_md_h3_text_case: none;
@@ -281,7 +281,7 @@
   --mch_typography_headings_md_h4_font_weight: 700;
   --mch_typography_headings_md_h4_line_height: 1.75rem;
   --mch_typography_headings_md_h4_font_size: 1.5rem;
-  --mch_typography_headings_md_h4_letter_spacing: 0;
+  --mch_typography_headings_md_h4_letter_spacing: 0rem;
   --mch_typography_headings_md_h4_paragraph_spacing: 4;
   --mch_typography_headings_md_h4_paragraph_indent: 0;
   --mch_typography_headings_md_h4_text_case: none;
@@ -290,7 +290,7 @@
   --mch_typography_headings_md_h5_font_weight: 700;
   --mch_typography_headings_md_h5_line_height: 1.313rem;
   --mch_typography_headings_md_h5_font_size: 1.125rem;
-  --mch_typography_headings_md_h5_letter_spacing: 0;
+  --mch_typography_headings_md_h5_letter_spacing: 0rem;
   --mch_typography_headings_md_h5_paragraph_spacing: 4;
   --mch_typography_headings_md_h5_paragraph_indent: 0;
   --mch_typography_headings_md_h5_text_case: none;
@@ -299,7 +299,7 @@
   --mch_typography_headings_lg_h1_font_weight: 700;
   --mch_typography_headings_lg_h1_line_height: 2.875rem;
   --mch_typography_headings_lg_h1_font_size: 2.5rem;
-  --mch_typography_headings_lg_h1_letter_spacing: 0;
+  --mch_typography_headings_lg_h1_letter_spacing: 0rem;
   --mch_typography_headings_lg_h1_paragraph_spacing: 4;
   --mch_typography_headings_lg_h1_paragraph_indent: 0;
   --mch_typography_headings_lg_h1_text_case: none;
@@ -308,7 +308,7 @@
   --mch_typography_headings_lg_h2_font_weight: 700;
   --mch_typography_headings_lg_h2_line_height: 2.625rem;
   --mch_typography_headings_lg_h2_font_size: 2.25rem;
-  --mch_typography_headings_lg_h2_letter_spacing: 0;
+  --mch_typography_headings_lg_h2_letter_spacing: 0rem;
   --mch_typography_headings_lg_h2_paragraph_spacing: 4;
   --mch_typography_headings_lg_h2_paragraph_indent: 0;
   --mch_typography_headings_lg_h2_text_case: none;
@@ -317,7 +317,7 @@
   --mch_typography_headings_lg_h3_font_weight: 700;
   --mch_typography_headings_lg_h3_line_height: 2.188rem;
   --mch_typography_headings_lg_h3_font_size: 1.875rem;
-  --mch_typography_headings_lg_h3_letter_spacing: 0;
+  --mch_typography_headings_lg_h3_letter_spacing: 0rem;
   --mch_typography_headings_lg_h3_paragraph_spacing: 4;
   --mch_typography_headings_lg_h3_paragraph_indent: 0;
   --mch_typography_headings_lg_h3_text_case: none;
@@ -326,7 +326,7 @@
   --mch_typography_headings_lg_h4_font_weight: 700;
   --mch_typography_headings_lg_h4_line_height: 1.75rem;
   --mch_typography_headings_lg_h4_font_size: 1.5rem;
-  --mch_typography_headings_lg_h4_letter_spacing: 0;
+  --mch_typography_headings_lg_h4_letter_spacing: 0rem;
   --mch_typography_headings_lg_h4_paragraph_spacing: 4;
   --mch_typography_headings_lg_h4_paragraph_indent: 0;
   --mch_typography_headings_lg_h4_text_case: none;
@@ -335,7 +335,7 @@
   --mch_typography_headings_lg_h5_font_weight: 700;
   --mch_typography_headings_lg_h5_line_height: 1.313rem;
   --mch_typography_headings_lg_h5_font_size: 1.125rem;
-  --mch_typography_headings_lg_h5_letter_spacing: 0;
+  --mch_typography_headings_lg_h5_letter_spacing: 0rem;
   --mch_typography_headings_lg_h5_paragraph_spacing: 4;
   --mch_typography_headings_lg_h5_paragraph_indent: 0;
   --mch_typography_headings_lg_h5_text_case: none;
@@ -344,7 +344,7 @@
   --mch_typography_headings_2_xl_h1_font_weight: 700;
   --mch_typography_headings_2_xl_h1_line_height: 3.125rem;
   --mch_typography_headings_2_xl_h1_font_size: 3rem;
-  --mch_typography_headings_2_xl_h1_letter_spacing: 0;
+  --mch_typography_headings_2_xl_h1_letter_spacing: 0rem;
   --mch_typography_headings_2_xl_h1_paragraph_spacing: 0;
   --mch_typography_headings_2_xl_h1_paragraph_indent: 0;
   --mch_typography_headings_2_xl_h1_text_case: none;
@@ -353,7 +353,7 @@
   --mch_typography_headings_2_xl_h2_font_weight: 700;
   --mch_typography_headings_2_xl_h2_line_height: 2.625rem;
   --mch_typography_headings_2_xl_h2_font_size: 2.25rem;
-  --mch_typography_headings_2_xl_h2_letter_spacing: 0;
+  --mch_typography_headings_2_xl_h2_letter_spacing: 0rem;
   --mch_typography_headings_2_xl_h2_paragraph_spacing: 0;
   --mch_typography_headings_2_xl_h2_paragraph_indent: 0;
   --mch_typography_headings_2_xl_h2_text_case: none;
@@ -362,7 +362,7 @@
   --mch_typography_headings_2_xl_h3_font_weight: 700;
   --mch_typography_headings_2_xl_h3_line_height: 2.125rem;
   --mch_typography_headings_2_xl_h3_font_size: 1.875rem;
-  --mch_typography_headings_2_xl_h3_letter_spacing: 0;
+  --mch_typography_headings_2_xl_h3_letter_spacing: 0rem;
   --mch_typography_headings_2_xl_h3_paragraph_spacing: 0;
   --mch_typography_headings_2_xl_h3_paragraph_indent: 0;
   --mch_typography_headings_2_xl_h3_text_case: none;
@@ -371,7 +371,7 @@
   --mch_typography_headings_2_xl_h4_font_weight: 700;
   --mch_typography_headings_2_xl_h4_line_height: 1.75rem;
   --mch_typography_headings_2_xl_h4_font_size: 1.5rem;
-  --mch_typography_headings_2_xl_h4_letter_spacing: 0;
+  --mch_typography_headings_2_xl_h4_letter_spacing: 0rem;
   --mch_typography_headings_2_xl_h4_paragraph_spacing: 0;
   --mch_typography_headings_2_xl_h4_paragraph_indent: 0;
   --mch_typography_headings_2_xl_h4_text_case: none;
@@ -380,7 +380,7 @@
   --mch_typography_headings_2_xl_h5_font_weight: 700;
   --mch_typography_headings_2_xl_h5_line_height: 1.313rem;
   --mch_typography_headings_2_xl_h5_font_size: 1.125rem;
-  --mch_typography_headings_2_xl_h5_letter_spacing: 0;
+  --mch_typography_headings_2_xl_h5_letter_spacing: 0rem;
   --mch_typography_headings_2_xl_h5_paragraph_spacing: 0;
   --mch_typography_headings_2_xl_h5_paragraph_indent: 0;
   --mch_typography_headings_2_xl_h5_text_case: none;
@@ -389,7 +389,7 @@
   --mch_typography_paragraphs_xs_sm_p1_font_weight: 400;
   --mch_typography_paragraphs_xs_sm_p1_line_height: 1.75rem;
   --mch_typography_paragraphs_xs_sm_p1_font_size: 1.5rem;
-  --mch_typography_paragraphs_xs_sm_p1_letter_spacing: 0;
+  --mch_typography_paragraphs_xs_sm_p1_letter_spacing: 0rem;
   --mch_typography_paragraphs_xs_sm_p1_paragraph_spacing: 0;
   --mch_typography_paragraphs_xs_sm_p1_paragraph_indent: 0;
   --mch_typography_paragraphs_xs_sm_p1_text_case: none;
@@ -398,7 +398,7 @@
   --mch_typography_paragraphs_xs_sm_p2_font_weight: 400;
   --mch_typography_paragraphs_xs_sm_p2_line_height: 1.438rem;
   --mch_typography_paragraphs_xs_sm_p2_font_size: 1.25rem;
-  --mch_typography_paragraphs_xs_sm_p2_letter_spacing: 0;
+  --mch_typography_paragraphs_xs_sm_p2_letter_spacing: 0rem;
   --mch_typography_paragraphs_xs_sm_p2_paragraph_spacing: 0;
   --mch_typography_paragraphs_xs_sm_p2_paragraph_indent: 0;
   --mch_typography_paragraphs_xs_sm_p2_text_case: none;
@@ -407,7 +407,7 @@
   --mch_typography_paragraphs_xl_p1_font_weight: 400;
   --mch_typography_paragraphs_xl_p1_line_height: 2.125rem;
   --mch_typography_paragraphs_xl_p1_font_size: 1.875rem;
-  --mch_typography_paragraphs_xl_p1_letter_spacing: 0;
+  --mch_typography_paragraphs_xl_p1_letter_spacing: 0rem;
   --mch_typography_paragraphs_xl_p1_paragraph_spacing: 0;
   --mch_typography_paragraphs_xl_p1_paragraph_indent: 0;
   --mch_typography_paragraphs_xl_p1_text_case: none;
@@ -416,7 +416,7 @@
   --mch_typography_paragraphs_xl_p2_font_weight: 400;
   --mch_typography_paragraphs_xl_p2_line_height: 1.75rem;
   --mch_typography_paragraphs_xl_p2_font_size: 1.5rem;
-  --mch_typography_paragraphs_xl_p2_letter_spacing: 0;
+  --mch_typography_paragraphs_xl_p2_letter_spacing: 0rem;
   --mch_typography_paragraphs_xl_p2_paragraph_spacing: 0;
   --mch_typography_paragraphs_xl_p2_paragraph_indent: 0;
   --mch_typography_paragraphs_xl_p2_text_case: none;
@@ -425,7 +425,7 @@
   --mch_typography_paragraphs_md_p1_font_weight: 400;
   --mch_typography_paragraphs_md_p1_line_height: 2.125rem;
   --mch_typography_paragraphs_md_p1_font_size: 1.875rem;
-  --mch_typography_paragraphs_md_p1_letter_spacing: 0;
+  --mch_typography_paragraphs_md_p1_letter_spacing: 0rem;
   --mch_typography_paragraphs_md_p1_paragraph_spacing: 4;
   --mch_typography_paragraphs_md_p1_paragraph_indent: 0;
   --mch_typography_paragraphs_md_p1_text_case: none;
@@ -434,7 +434,7 @@
   --mch_typography_paragraphs_md_p2_font_weight: 400;
   --mch_typography_paragraphs_md_p2_line_height: 1.75rem;
   --mch_typography_paragraphs_md_p2_font_size: 1.5rem;
-  --mch_typography_paragraphs_md_p2_letter_spacing: 0;
+  --mch_typography_paragraphs_md_p2_letter_spacing: 0rem;
   --mch_typography_paragraphs_md_p2_paragraph_spacing: 4;
   --mch_typography_paragraphs_md_p2_paragraph_indent: 0;
   --mch_typography_paragraphs_md_p2_text_case: none;
@@ -443,7 +443,7 @@
   --mch_typography_paragraphs_lg_p1_font_weight: 400;
   --mch_typography_paragraphs_lg_p1_line_height: 2.125rem;
   --mch_typography_paragraphs_lg_p1_font_size: 1.875rem;
-  --mch_typography_paragraphs_lg_p1_letter_spacing: 0;
+  --mch_typography_paragraphs_lg_p1_letter_spacing: 0rem;
   --mch_typography_paragraphs_lg_p1_paragraph_spacing: 4;
   --mch_typography_paragraphs_lg_p1_paragraph_indent: 0;
   --mch_typography_paragraphs_lg_p1_text_case: none;
@@ -452,7 +452,7 @@
   --mch_typography_paragraphs_lg_p2_font_weight: 400;
   --mch_typography_paragraphs_lg_p2_line_height: 1.75rem;
   --mch_typography_paragraphs_lg_p2_font_size: 1.5rem;
-  --mch_typography_paragraphs_lg_p2_letter_spacing: 0;
+  --mch_typography_paragraphs_lg_p2_letter_spacing: 0rem;
   --mch_typography_paragraphs_lg_p2_paragraph_spacing: 4;
   --mch_typography_paragraphs_lg_p2_paragraph_indent: 0;
   --mch_typography_paragraphs_lg_p2_text_case: none;
@@ -461,7 +461,7 @@
   --mch_typography_headings_fixed_01_font_weight: 700;
   --mch_typography_headings_fixed_01_line_height: 1.313rem;
   --mch_typography_headings_fixed_01_font_size: 1.125rem;
-  --mch_typography_headings_fixed_01_letter_spacing: 4;
+  --mch_typography_headings_fixed_01_letter_spacing: 0.25rem;
   --mch_typography_headings_fixed_01_paragraph_spacing: 0;
   --mch_typography_headings_fixed_01_paragraph_indent: 0;
   --mch_typography_headings_fixed_01_text_case: uppercase;
@@ -470,7 +470,7 @@
   --mch_typography_headings_fixed_02_font_weight: 700;
   --mch_typography_headings_fixed_02_line_height: 1.125rem;
   --mch_typography_headings_fixed_02_font_size: 0.875rem;
-  --mch_typography_headings_fixed_02_letter_spacing: 1;
+  --mch_typography_headings_fixed_02_letter_spacing: 0.063rem;
   --mch_typography_headings_fixed_02_paragraph_spacing: 0;
   --mch_typography_headings_fixed_02_paragraph_indent: 0;
   --mch_typography_headings_fixed_02_text_case: uppercase;
@@ -479,7 +479,7 @@
   --mch_typography_body_text_large_font_weight: 400;
   --mch_typography_body_text_large_line_height: 1.5rem;
   --mch_typography_body_text_large_font_size: 1.125rem;
-  --mch_typography_body_text_large_letter_spacing: 0;
+  --mch_typography_body_text_large_letter_spacing: 0rem;
   --mch_typography_body_text_large_paragraph_spacing: 0;
   --mch_typography_body_text_large_paragraph_indent: 0;
   --mch_typography_body_text_large_text_case: none;
@@ -488,7 +488,7 @@
   --mch_typography_body_text_medium_font_weight: 400;
   --mch_typography_body_text_medium_line_height: 1.375rem;
   --mch_typography_body_text_medium_font_size: 1rem;
-  --mch_typography_body_text_medium_letter_spacing: 0;
+  --mch_typography_body_text_medium_letter_spacing: 0rem;
   --mch_typography_body_text_medium_paragraph_spacing: 0;
   --mch_typography_body_text_medium_paragraph_indent: 0;
   --mch_typography_body_text_medium_text_case: none;
@@ -497,7 +497,7 @@
   --mch_typography_body_text_small_font_weight: 400;
   --mch_typography_body_text_small_line_height: 1.125rem;
   --mch_typography_body_text_small_font_size: 0.875rem;
-  --mch_typography_body_text_small_letter_spacing: 0;
+  --mch_typography_body_text_small_letter_spacing: 0rem;
   --mch_typography_body_text_small_paragraph_spacing: 0;
   --mch_typography_body_text_small_paragraph_indent: 0;
   --mch_typography_body_text_small_text_case: none;
@@ -506,7 +506,7 @@
   --mch_typography_supporting_label_x_large_font_weight: 700;
   --mch_typography_supporting_label_x_large_line_height: 1.375rem;
   --mch_typography_supporting_label_x_large_font_size: 1rem;
-  --mch_typography_supporting_label_x_large_letter_spacing: 0;
+  --mch_typography_supporting_label_x_large_letter_spacing: 0rem;
   --mch_typography_supporting_label_x_large_paragraph_spacing: 0;
   --mch_typography_supporting_label_x_large_paragraph_indent: 0;
   --mch_typography_supporting_label_x_large_text_case: none;
@@ -515,7 +515,7 @@
   --mch_typography_supporting_label_large_font_weight: 700;
   --mch_typography_supporting_label_large_line_height: 1.125rem;
   --mch_typography_supporting_label_large_font_size: 0.875rem;
-  --mch_typography_supporting_label_large_letter_spacing: 0;
+  --mch_typography_supporting_label_large_letter_spacing: 0rem;
   --mch_typography_supporting_label_large_paragraph_spacing: 0;
   --mch_typography_supporting_label_large_paragraph_indent: 0;
   --mch_typography_supporting_label_large_text_case: none;
@@ -524,7 +524,7 @@
   --mch_typography_supporting_label_medium_font_weight: 700;
   --mch_typography_supporting_label_medium_line_height: 1rem;
   --mch_typography_supporting_label_medium_font_size: 0.75rem;
-  --mch_typography_supporting_label_medium_letter_spacing: 0;
+  --mch_typography_supporting_label_medium_letter_spacing: 0rem;
   --mch_typography_supporting_label_medium_paragraph_spacing: 0;
   --mch_typography_supporting_label_medium_paragraph_indent: 0;
   --mch_typography_supporting_label_medium_text_case: none;
@@ -533,7 +533,7 @@
   --mch_typography_supporting_label_small_font_weight: 400;
   --mch_typography_supporting_label_small_line_height: 1rem;
   --mch_typography_supporting_label_small_font_size: 0.75rem;
-  --mch_typography_supporting_label_small_letter_spacing: 0.3;
+  --mch_typography_supporting_label_small_letter_spacing: 0.019rem;
   --mch_typography_supporting_label_small_paragraph_spacing: 0;
   --mch_typography_supporting_label_small_paragraph_indent: 0;
   --mch_typography_supporting_label_small_text_case: none;
@@ -542,7 +542,7 @@
   --mch_typography_links_text_link_medium_default_font_weight: 700;
   --mch_typography_links_text_link_medium_default_line_height: 1.25rem;
   --mch_typography_links_text_link_medium_default_font_size: 1rem;
-  --mch_typography_links_text_link_medium_default_letter_spacing: 0;
+  --mch_typography_links_text_link_medium_default_letter_spacing: 0rem;
   --mch_typography_links_text_link_medium_default_paragraph_spacing: 0;
   --mch_typography_links_text_link_medium_default_paragraph_indent: 0;
   --mch_typography_links_text_link_medium_default_text_case: none;
@@ -551,7 +551,7 @@
   --mch_typography_links_text_link_medium_hover_font_weight: 700;
   --mch_typography_links_text_link_medium_hover_line_height: 1.25rem;
   --mch_typography_links_text_link_medium_hover_font_size: 1rem;
-  --mch_typography_links_text_link_medium_hover_letter_spacing: 0;
+  --mch_typography_links_text_link_medium_hover_letter_spacing: 0rem;
   --mch_typography_links_text_link_medium_hover_paragraph_spacing: 0;
   --mch_typography_links_text_link_medium_hover_paragraph_indent: 0;
   --mch_typography_links_text_link_medium_hover_text_case: none;
@@ -560,7 +560,7 @@
   --mch_typography_links_external_link_medium_default_font_weight: 700;
   --mch_typography_links_external_link_medium_default_line_height: 1.25rem;
   --mch_typography_links_external_link_medium_default_font_size: 1rem;
-  --mch_typography_links_external_link_medium_default_letter_spacing: 0;
+  --mch_typography_links_external_link_medium_default_letter_spacing: 0rem;
   --mch_typography_links_external_link_medium_default_paragraph_spacing: 0;
   --mch_typography_links_external_link_medium_default_paragraph_indent: 0;
   --mch_typography_links_external_link_medium_default_text_case: uppercase;
@@ -569,7 +569,7 @@
   --mch_typography_links_button_medium_font_weight: 700;
   --mch_typography_links_button_medium_line_height: 1.125rem;
   --mch_typography_links_button_medium_font_size: 0.875rem;
-  --mch_typography_links_button_medium_letter_spacing: 0;
+  --mch_typography_links_button_medium_letter_spacing: 0rem;
   --mch_typography_links_button_medium_paragraph_spacing: 0;
   --mch_typography_links_button_medium_paragraph_indent: 0;
   --mch_typography_links_button_medium_text_case: uppercase;
@@ -578,7 +578,7 @@
   --mch_typography_editorial_headings_xs_sm_h1_font_weight: 600;
   --mch_typography_editorial_headings_xs_sm_h1_line_height: 2.625rem;
   --mch_typography_editorial_headings_xs_sm_h1_font_size: 1.875rem;
-  --mch_typography_editorial_headings_xs_sm_h1_letter_spacing: 0;
+  --mch_typography_editorial_headings_xs_sm_h1_letter_spacing: 0rem;
   --mch_typography_editorial_headings_xs_sm_h1_paragraph_spacing: 4;
   --mch_typography_editorial_headings_xs_sm_h1_paragraph_indent: 0;
   --mch_typography_editorial_headings_xs_sm_h1_text_case: none;
@@ -587,7 +587,7 @@
   --mch_typography_editorial_headings_xs_sm_h2_font_weight: 600;
   --mch_typography_editorial_headings_xs_sm_h2_line_height: 1.875rem;
   --mch_typography_editorial_headings_xs_sm_h2_font_size: 1.625rem;
-  --mch_typography_editorial_headings_xs_sm_h2_letter_spacing: 0;
+  --mch_typography_editorial_headings_xs_sm_h2_letter_spacing: 0rem;
   --mch_typography_editorial_headings_xs_sm_h2_paragraph_spacing: 4;
   --mch_typography_editorial_headings_xs_sm_h2_paragraph_indent: 0;
   --mch_typography_editorial_headings_xs_sm_h2_text_case: none;
@@ -596,7 +596,7 @@
   --mch_typography_editorial_headings_xs_sm_h3_font_weight: 600;
   --mch_typography_editorial_headings_xs_sm_h3_line_height: 2rem;
   --mch_typography_editorial_headings_xs_sm_h3_font_size: 1.5rem;
-  --mch_typography_editorial_headings_xs_sm_h3_letter_spacing: 0;
+  --mch_typography_editorial_headings_xs_sm_h3_letter_spacing: 0rem;
   --mch_typography_editorial_headings_xs_sm_h3_paragraph_spacing: 4;
   --mch_typography_editorial_headings_xs_sm_h3_paragraph_indent: 0;
   --mch_typography_editorial_headings_xs_sm_h3_text_case: none;
@@ -605,7 +605,7 @@
   --mch_typography_editorial_headings_xs_sm_h4_font_weight: 600;
   --mch_typography_editorial_headings_xs_sm_h4_line_height: 1.5rem;
   --mch_typography_editorial_headings_xs_sm_h4_font_size: 1.25rem;
-  --mch_typography_editorial_headings_xs_sm_h4_letter_spacing: 0;
+  --mch_typography_editorial_headings_xs_sm_h4_letter_spacing: 0rem;
   --mch_typography_editorial_headings_xs_sm_h4_paragraph_spacing: 4;
   --mch_typography_editorial_headings_xs_sm_h4_paragraph_indent: 0;
   --mch_typography_editorial_headings_xs_sm_h4_text_case: none;
@@ -614,7 +614,7 @@
   --mch_typography_editorial_headings_xs_sm_h5_font_weight: 600;
   --mch_typography_editorial_headings_xs_sm_h5_line_height: 1.25rem;
   --mch_typography_editorial_headings_xs_sm_h5_font_size: 1.125rem;
-  --mch_typography_editorial_headings_xs_sm_h5_letter_spacing: 0;
+  --mch_typography_editorial_headings_xs_sm_h5_letter_spacing: 0rem;
   --mch_typography_editorial_headings_xs_sm_h5_paragraph_spacing: 4;
   --mch_typography_editorial_headings_xs_sm_h5_paragraph_indent: 0;
   --mch_typography_editorial_headings_xs_sm_h5_text_case: none;
@@ -623,7 +623,7 @@
   --mch_typography_editorial_headings_xl_h1_font_weight: 600;
   --mch_typography_editorial_headings_xl_h1_line_height: 4rem;
   --mch_typography_editorial_headings_xl_h1_font_size: 3rem;
-  --mch_typography_editorial_headings_xl_h1_letter_spacing: 0;
+  --mch_typography_editorial_headings_xl_h1_letter_spacing: 0rem;
   --mch_typography_editorial_headings_xl_h1_paragraph_spacing: 4;
   --mch_typography_editorial_headings_xl_h1_paragraph_indent: 0;
   --mch_typography_editorial_headings_xl_h1_text_case: none;
@@ -632,7 +632,7 @@
   --mch_typography_editorial_headings_xl_h2_font_weight: 600;
   --mch_typography_editorial_headings_xl_h2_line_height: 3.375rem;
   --mch_typography_editorial_headings_xl_h2_font_size: 2.625rem;
-  --mch_typography_editorial_headings_xl_h2_letter_spacing: 0;
+  --mch_typography_editorial_headings_xl_h2_letter_spacing: 0rem;
   --mch_typography_editorial_headings_xl_h2_paragraph_spacing: 4;
   --mch_typography_editorial_headings_xl_h2_paragraph_indent: 0;
   --mch_typography_editorial_headings_xl_h2_text_case: none;
@@ -641,7 +641,7 @@
   --mch_typography_editorial_headings_xl_h3_font_weight: 600;
   --mch_typography_editorial_headings_xl_h3_line_height: 3rem;
   --mch_typography_editorial_headings_xl_h3_font_size: 2.25rem;
-  --mch_typography_editorial_headings_xl_h3_letter_spacing: 0;
+  --mch_typography_editorial_headings_xl_h3_letter_spacing: 0rem;
   --mch_typography_editorial_headings_xl_h3_paragraph_spacing: 4;
   --mch_typography_editorial_headings_xl_h3_paragraph_indent: 0;
   --mch_typography_editorial_headings_xl_h3_text_case: none;
@@ -650,7 +650,7 @@
   --mch_typography_editorial_headings_xl_h4_font_weight: 600;
   --mch_typography_editorial_headings_xl_h4_line_height: 2.625rem;
   --mch_typography_editorial_headings_xl_h4_font_size: 1.875rem;
-  --mch_typography_editorial_headings_xl_h4_letter_spacing: 0;
+  --mch_typography_editorial_headings_xl_h4_letter_spacing: 0rem;
   --mch_typography_editorial_headings_xl_h4_paragraph_spacing: 4;
   --mch_typography_editorial_headings_xl_h4_paragraph_indent: 0;
   --mch_typography_editorial_headings_xl_h4_text_case: none;
@@ -659,7 +659,7 @@
   --mch_typography_editorial_headings_xl_h5_font_weight: 600;
   --mch_typography_editorial_headings_xl_h5_line_height: 2rem;
   --mch_typography_editorial_headings_xl_h5_font_size: 1.5rem;
-  --mch_typography_editorial_headings_xl_h5_letter_spacing: 0;
+  --mch_typography_editorial_headings_xl_h5_letter_spacing: 0rem;
   --mch_typography_editorial_headings_xl_h5_paragraph_spacing: 4;
   --mch_typography_editorial_headings_xl_h5_paragraph_indent: 0;
   --mch_typography_editorial_headings_xl_h5_text_case: none;
@@ -668,7 +668,7 @@
   --mch_typography_editorial_headings_md_h1_font_weight: 600;
   --mch_typography_editorial_headings_md_h1_line_height: 3rem;
   --mch_typography_editorial_headings_md_h1_font_size: 2.25rem;
-  --mch_typography_editorial_headings_md_h1_letter_spacing: 0;
+  --mch_typography_editorial_headings_md_h1_letter_spacing: 0rem;
   --mch_typography_editorial_headings_md_h1_paragraph_spacing: 4;
   --mch_typography_editorial_headings_md_h1_paragraph_indent: 0;
   --mch_typography_editorial_headings_md_h1_text_case: none;
@@ -677,7 +677,7 @@
   --mch_typography_editorial_headings_md_h2_font_weight: 600;
   --mch_typography_editorial_headings_md_h2_line_height: 2.625rem;
   --mch_typography_editorial_headings_md_h2_font_size: 1.875rem;
-  --mch_typography_editorial_headings_md_h2_letter_spacing: 0;
+  --mch_typography_editorial_headings_md_h2_letter_spacing: 0rem;
   --mch_typography_editorial_headings_md_h2_paragraph_spacing: 4;
   --mch_typography_editorial_headings_md_h2_paragraph_indent: 0;
   --mch_typography_editorial_headings_md_h2_text_case: none;
@@ -686,7 +686,7 @@
   --mch_typography_editorial_headings_md_h3_font_weight: 600;
   --mch_typography_editorial_headings_md_h3_line_height: 2.25rem;
   --mch_typography_editorial_headings_md_h3_font_size: 1.625rem;
-  --mch_typography_editorial_headings_md_h3_letter_spacing: 0;
+  --mch_typography_editorial_headings_md_h3_letter_spacing: 0rem;
   --mch_typography_editorial_headings_md_h3_paragraph_spacing: 4;
   --mch_typography_editorial_headings_md_h3_paragraph_indent: 0;
   --mch_typography_editorial_headings_md_h3_text_case: none;
@@ -695,7 +695,7 @@
   --mch_typography_editorial_headings_md_h4_font_weight: 600;
   --mch_typography_editorial_headings_md_h4_line_height: 2rem;
   --mch_typography_editorial_headings_md_h4_font_size: 1.5rem;
-  --mch_typography_editorial_headings_md_h4_letter_spacing: 0;
+  --mch_typography_editorial_headings_md_h4_letter_spacing: 0rem;
   --mch_typography_editorial_headings_md_h4_paragraph_spacing: 4;
   --mch_typography_editorial_headings_md_h4_paragraph_indent: 0;
   --mch_typography_editorial_headings_md_h4_text_case: none;
@@ -704,7 +704,7 @@
   --mch_typography_editorial_headings_md_h5_font_weight: 600;
   --mch_typography_editorial_headings_md_h5_line_height: 1.5rem;
   --mch_typography_editorial_headings_md_h5_font_size: 1.25rem;
-  --mch_typography_editorial_headings_md_h5_letter_spacing: 0;
+  --mch_typography_editorial_headings_md_h5_letter_spacing: 0rem;
   --mch_typography_editorial_headings_md_h5_paragraph_spacing: 4;
   --mch_typography_editorial_headings_md_h5_paragraph_indent: 0;
   --mch_typography_editorial_headings_md_h5_text_case: none;
@@ -713,7 +713,7 @@
   --mch_typography_editorial_headings_lg_h1_font_weight: 600;
   --mch_typography_editorial_headings_lg_h1_line_height: 3.375rem;
   --mch_typography_editorial_headings_lg_h1_font_size: 2.625rem;
-  --mch_typography_editorial_headings_lg_h1_letter_spacing: 0;
+  --mch_typography_editorial_headings_lg_h1_letter_spacing: 0rem;
   --mch_typography_editorial_headings_lg_h1_paragraph_spacing: 4;
   --mch_typography_editorial_headings_lg_h1_paragraph_indent: 0;
   --mch_typography_editorial_headings_lg_h1_text_case: none;
@@ -722,7 +722,7 @@
   --mch_typography_editorial_headings_lg_h2_font_weight: 600;
   --mch_typography_editorial_headings_lg_h2_line_height: 3rem;
   --mch_typography_editorial_headings_lg_h2_font_size: 2.25rem;
-  --mch_typography_editorial_headings_lg_h2_letter_spacing: 0;
+  --mch_typography_editorial_headings_lg_h2_letter_spacing: 0rem;
   --mch_typography_editorial_headings_lg_h2_paragraph_spacing: 4;
   --mch_typography_editorial_headings_lg_h2_paragraph_indent: 0;
   --mch_typography_editorial_headings_lg_h2_text_case: none;
@@ -731,7 +731,7 @@
   --mch_typography_editorial_headings_lg_h3_font_weight: 600;
   --mch_typography_editorial_headings_lg_h3_line_height: 2.625rem;
   --mch_typography_editorial_headings_lg_h3_font_size: 1.875rem;
-  --mch_typography_editorial_headings_lg_h3_letter_spacing: 0;
+  --mch_typography_editorial_headings_lg_h3_letter_spacing: 0rem;
   --mch_typography_editorial_headings_lg_h3_paragraph_spacing: 4;
   --mch_typography_editorial_headings_lg_h3_paragraph_indent: 0;
   --mch_typography_editorial_headings_lg_h3_text_case: none;
@@ -740,7 +740,7 @@
   --mch_typography_editorial_headings_lg_h4_font_weight: 600;
   --mch_typography_editorial_headings_lg_h4_line_height: 2.25rem;
   --mch_typography_editorial_headings_lg_h4_font_size: 1.625rem;
-  --mch_typography_editorial_headings_lg_h4_letter_spacing: 0;
+  --mch_typography_editorial_headings_lg_h4_letter_spacing: 0rem;
   --mch_typography_editorial_headings_lg_h4_paragraph_spacing: 4;
   --mch_typography_editorial_headings_lg_h4_paragraph_indent: 0;
   --mch_typography_editorial_headings_lg_h4_text_case: none;
@@ -749,7 +749,7 @@
   --mch_typography_editorial_headings_lg_h5_font_weight: 600;
   --mch_typography_editorial_headings_lg_h5_line_height: 2rem;
   --mch_typography_editorial_headings_lg_h5_font_size: 1.5rem;
-  --mch_typography_editorial_headings_lg_h5_letter_spacing: 0;
+  --mch_typography_editorial_headings_lg_h5_letter_spacing: 0rem;
   --mch_typography_editorial_headings_lg_h5_paragraph_spacing: 4;
   --mch_typography_editorial_headings_lg_h5_paragraph_indent: 0;
   --mch_typography_editorial_headings_lg_h5_text_case: none;
@@ -758,7 +758,7 @@
   --mch_typography_editorial_headings_2_xl_h1_font_weight: 600;
   --mch_typography_editorial_headings_2_xl_h1_line_height: 4rem;
   --mch_typography_editorial_headings_2_xl_h1_font_size: 3rem;
-  --mch_typography_editorial_headings_2_xl_h1_letter_spacing: 0;
+  --mch_typography_editorial_headings_2_xl_h1_letter_spacing: 0rem;
   --mch_typography_editorial_headings_2_xl_h1_paragraph_spacing: 4;
   --mch_typography_editorial_headings_2_xl_h1_paragraph_indent: 0;
   --mch_typography_editorial_headings_2_xl_h1_text_case: none;
@@ -767,7 +767,7 @@
   --mch_typography_editorial_headings_2_xl_h2_font_weight: 600;
   --mch_typography_editorial_headings_2_xl_h2_line_height: 3.375rem;
   --mch_typography_editorial_headings_2_xl_h2_font_size: 2.625rem;
-  --mch_typography_editorial_headings_2_xl_h2_letter_spacing: 0;
+  --mch_typography_editorial_headings_2_xl_h2_letter_spacing: 0rem;
   --mch_typography_editorial_headings_2_xl_h2_paragraph_spacing: 4;
   --mch_typography_editorial_headings_2_xl_h2_paragraph_indent: 0;
   --mch_typography_editorial_headings_2_xl_h2_text_case: none;
@@ -776,7 +776,7 @@
   --mch_typography_editorial_headings_2_xl_h3_font_weight: 600;
   --mch_typography_editorial_headings_2_xl_h3_line_height: 3rem;
   --mch_typography_editorial_headings_2_xl_h3_font_size: 2.25rem;
-  --mch_typography_editorial_headings_2_xl_h3_letter_spacing: 0;
+  --mch_typography_editorial_headings_2_xl_h3_letter_spacing: 0rem;
   --mch_typography_editorial_headings_2_xl_h3_paragraph_spacing: 4;
   --mch_typography_editorial_headings_2_xl_h3_paragraph_indent: 0;
   --mch_typography_editorial_headings_2_xl_h3_text_case: none;
@@ -785,7 +785,7 @@
   --mch_typography_editorial_headings_2_xl_h4_font_weight: 600;
   --mch_typography_editorial_headings_2_xl_h4_line_height: 2.625rem;
   --mch_typography_editorial_headings_2_xl_h4_font_size: 1.875rem;
-  --mch_typography_editorial_headings_2_xl_h4_letter_spacing: 0;
+  --mch_typography_editorial_headings_2_xl_h4_letter_spacing: 0rem;
   --mch_typography_editorial_headings_2_xl_h4_paragraph_spacing: 4;
   --mch_typography_editorial_headings_2_xl_h4_paragraph_indent: 0;
   --mch_typography_editorial_headings_2_xl_h4_text_case: none;
@@ -794,7 +794,7 @@
   --mch_typography_editorial_headings_2_xl_h5_font_weight: 600;
   --mch_typography_editorial_headings_2_xl_h5_line_height: 2rem;
   --mch_typography_editorial_headings_2_xl_h5_font_size: 1.5rem;
-  --mch_typography_editorial_headings_2_xl_h5_letter_spacing: 0;
+  --mch_typography_editorial_headings_2_xl_h5_letter_spacing: 0rem;
   --mch_typography_editorial_headings_2_xl_h5_paragraph_spacing: 4;
   --mch_typography_editorial_headings_2_xl_h5_paragraph_indent: 0;
   --mch_typography_editorial_headings_2_xl_h5_text_case: none;
@@ -803,7 +803,7 @@
   --mch_typography_editorial_quote_quote_2_xl_font_weight: 400;
   --mch_typography_editorial_quote_quote_2_xl_line_height: 3.375rem;
   --mch_typography_editorial_quote_quote_2_xl_font_size: 2.625rem;
-  --mch_typography_editorial_quote_quote_2_xl_letter_spacing: 0;
+  --mch_typography_editorial_quote_quote_2_xl_letter_spacing: 0rem;
   --mch_typography_editorial_quote_quote_2_xl_paragraph_spacing: 4;
   --mch_typography_editorial_quote_quote_2_xl_paragraph_indent: 0;
   --mch_typography_editorial_quote_quote_2_xl_text_case: none;
@@ -812,7 +812,7 @@
   --mch_typography_editorial_quote_quote_xl_font_weight: 400;
   --mch_typography_editorial_quote_quote_xl_line_height: 3.125rem;
   --mch_typography_editorial_quote_quote_xl_font_size: 2.375rem;
-  --mch_typography_editorial_quote_quote_xl_letter_spacing: 0.5;
+  --mch_typography_editorial_quote_quote_xl_letter_spacing: 0.031rem;
   --mch_typography_editorial_quote_quote_xl_paragraph_spacing: 4;
   --mch_typography_editorial_quote_quote_xl_paragraph_indent: 0;
   --mch_typography_editorial_quote_quote_xl_text_case: none;
@@ -821,7 +821,7 @@
   --mch_typography_editorial_quote_quote_lg_font_weight: 400;
   --mch_typography_editorial_quote_quote_lg_line_height: 3rem;
   --mch_typography_editorial_quote_quote_lg_font_size: 2.25rem;
-  --mch_typography_editorial_quote_quote_lg_letter_spacing: 0;
+  --mch_typography_editorial_quote_quote_lg_letter_spacing: 0rem;
   --mch_typography_editorial_quote_quote_lg_paragraph_spacing: 0;
   --mch_typography_editorial_quote_quote_lg_paragraph_indent: 0;
   --mch_typography_editorial_quote_quote_lg_text_case: none;
@@ -830,7 +830,7 @@
   --mch_typography_editorial_quote_quote_md_font_weight: 400;
   --mch_typography_editorial_quote_quote_md_line_height: 2.625rem;
   --mch_typography_editorial_quote_quote_md_font_size: 2.125rem;
-  --mch_typography_editorial_quote_quote_md_letter_spacing: 0;
+  --mch_typography_editorial_quote_quote_md_letter_spacing: 0rem;
   --mch_typography_editorial_quote_quote_md_paragraph_spacing: 0;
   --mch_typography_editorial_quote_quote_md_paragraph_indent: 0;
   --mch_typography_editorial_quote_quote_md_text_case: none;
@@ -839,7 +839,7 @@
   --mch_typography_editorial_quote_quote_xs_sm_font_weight: 400;
   --mch_typography_editorial_quote_quote_xs_sm_line_height: 2.625rem;
   --mch_typography_editorial_quote_quote_xs_sm_font_size: 2rem;
-  --mch_typography_editorial_quote_quote_xs_sm_letter_spacing: 0;
+  --mch_typography_editorial_quote_quote_xs_sm_letter_spacing: 0rem;
   --mch_typography_editorial_quote_quote_xs_sm_paragraph_spacing: 0;
   --mch_typography_editorial_quote_quote_xs_sm_paragraph_indent: 0;
   --mch_typography_editorial_quote_quote_xs_sm_text_case: none;
