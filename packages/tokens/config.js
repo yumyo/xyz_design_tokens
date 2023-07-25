@@ -185,6 +185,20 @@ StyleDictionary.registerTransform({
 });
 
 StyleDictionary.registerTransform({
+  name: 'remove/maxWidth/px',
+  transitive: true,
+  type: 'value',
+  matcher: function(token) { 
+    // console.log('token', token)
+    return (token.path[0] === 'max-width')
+  },
+  transformer: function(token) {
+    // console.log('token', token)
+    return parseFloat(token.original.value);
+  }
+});
+
+StyleDictionary.registerTransform({
   name: 'remove/space/px',
   type: 'value',
   matcher: function(token) {
@@ -487,7 +501,7 @@ async function run() {
       },
       scss: {
         // transformGroup: "scss",
-        transforms: ["attribute/cti","name/cti/snake","time/seconds","content/icon","font-family/quote/fix","fontSize/pxToRem","color/css",'ts/type/fontWeight',"convertUnit/letterspacing/%","remove/pindent/px"],
+        transforms: ["attribute/cti","name/cti/snake","time/seconds","content/icon","font-family/quote/fix","fontSize/pxToRem","color/css",'ts/type/fontWeight',"convertUnit/letterspacing/%","remove/pindent/px", "remove/maxWidth/px"],
         buildPath: "build/scss/",
         prefix: "mch_",
         files: [
