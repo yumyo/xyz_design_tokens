@@ -1,12 +1,27 @@
 const { registerTransforms } = require('@tokens-studio/sd-transforms');
 const StyleDictionary = require('style-dictionary');
 const { promises } = require('fs');
+const { fileHeader, formattedVariables } = StyleDictionary.formatHelpers;
+const fs = require('fs');
 
 var Color           = require('tinycolor2')
     _               = require('../../node_modules/style-dictionary/lib/utils/es6_'),
     path            = require('path'),
     convertToBase64 = require('../../node_modules/style-dictionary/lib/utils/convertToBase64'),
     UNICODE_PATTERN = /&#x([^;]+);/g;
+
+// Utility to transsforn token.path values to camelCase. This is required for the output of the js/module format.
+function keysToCamelCase(obj) {
+  if (_.isPlainObject(obj)) {
+    return _.reduce(obj, (result, value, key) => {
+      result[_.camelCase(key)] = keysToCamelCase(value);
+      return result;
+    }, {});
+  } else if (_.isArray(obj)) {
+    return obj.map(keysToCamelCase);
+  }
+  return obj;
+}
 
 const designTokensFileName = "design_tokens";
 const mobileDesignTokensFileName = "designTokens";
@@ -18,6 +33,63 @@ function getBasePxFontSize(options) {
 function capitalizeFirstLetter(string) {
   return string[0].toUpperCase() + string.slice(1);
 }
+
+StyleDictionary.registerFormat({
+  name: 'jsModuleCamelCase',
+  formatter: function({dictionary, platform, options, file}) {
+    let tokens = keysToCamelCase(dictionary.tokens);
+    return fileHeader({file}) +
+    'module.exports = ' +
+      JSON.stringify(tokens, null, 2) + ';\n';
+    
+    // return JSON.stringify(tokens, null, 2);
+  }
+})
+
+
+StyleDictionary.registerFormat({
+  name: 'tsModuleCamelCase',
+  formatter: function({dictionary, platform, options, file}) {
+    let tokens = keysToCamelCase(dictionary.tokens);
+    const {moduleName=`tokens`} = options;
+    function treeWalker(obj) {
+      let type = Object.create(null);
+      let has = Object.prototype.hasOwnProperty.bind(obj);
+      if (has('value')) {
+        type = 'DesignToken';
+      } else {
+        for (var k in obj) if (has(k)) {
+          switch (typeof obj[k]) {
+            case 'object':
+              type[k] = treeWalker(obj[k]);
+          }
+        }
+      }
+      return type;
+    }
+    const designTokenInterface = fs.readFileSync(
+      path.resolve(__dirname, `./DesignToken.d.ts`), {encoding:'UTF-8'}
+    );
+
+    // get the first and last lines to add to the format by
+    // looking for the first and last single-line comment
+    const lines = designTokenInterface
+      .split('\n');
+    const firstLine = lines.indexOf(`//start`) + 1;
+    const lastLine = lines.indexOf(`//end`);
+
+    const output = fileHeader({file}) +
+`export default ${moduleName};
+
+declare ${lines.slice(firstLine, lastLine).join(`\n`)}
+
+declare const ${moduleName}: ${JSON.stringify(treeWalker(tokens), null, 2)}`;
+
+    // JSON stringify will quote strings, because this is a type we need
+    // it unquoted.
+    return output.replace(/"DesignToken"/g, 'DesignToken') + '\n';
+  }
+})
 
 StyleDictionary.registerTransform({
   name: 'fontSize/pxToRem',
@@ -395,12 +467,20 @@ async function run() {
             format: 'javascript/es6',
             destination: `${designTokensFileName}.js`
           },
+        ],
+      },
+      jsModule: {
+        // transformGroup: 'js',
+        transforms: ["attribute/cti","name/cti/camel","fontSize/pxToRem","color/hex", 'ts/type/fontWeight', "remove/pindent/px"],
+        buildPath: 'build/js/',
+        prefix: "mch_",
+        files: [
           {
-            format: 'javascript/module',
+            format: 'jsModuleCamelCase',
             destination: `${designTokensFileName}-module.js`
           },
           {
-            format: 'typescript/module-declarations',
+            format: 'tsModuleCamelCase',
             destination: `${designTokensFileName}-module.d.ts`
           },
         ],

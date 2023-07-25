@@ -1,13 +1,13 @@
 /**
  * Do not edit directly
- * Generated on Thu, 20 Jul 2023 16:49:46 GMT
+ * Generated on Tue, 25 Jul 2023 12:18:12 GMT
  */
 
 module.exports = {
-  "Color": {
-    "Base": {
-      "Primary": {
-        "Black": {
+  "color": {
+    "base": {
+      "primary": {
+        "black": {
           "value": "#1d2327",
           "type": "color",
           "filePath": "src/global.json",
@@ -16,7 +16,7 @@ module.exports = {
             "value": "#1d2327",
             "type": "color"
           },
-          "name": "mch_color_base_primary_black",
+          "name": "mchColorBasePrimaryBlack",
           "attributes": {
             "category": "Color",
             "type": "Base",
@@ -30,7 +30,7 @@ module.exports = {
             "Black"
           ]
         },
-        "White": {
+        "white": {
           "value": "#ffffff",
           "type": "color",
           "filePath": "src/global.json",
@@ -39,7 +39,7 @@ module.exports = {
             "value": "#ffffff",
             "type": "color"
           },
-          "name": "mch_color_base_primary_white",
+          "name": "mchColorBasePrimaryWhite",
           "attributes": {
             "category": "Color",
             "type": "Base",
@@ -54,8 +54,8 @@ module.exports = {
           ]
         }
       },
-      "Secondary": {
-        "Grey 500": {
+      "secondary": {
+        "grey500": {
           "value": "#444749",
           "type": "color",
           "filePath": "src/global.json",
@@ -64,7 +64,7 @@ module.exports = {
             "value": "#444749",
             "type": "color"
           },
-          "name": "mch_color_base_secondary_grey_500",
+          "name": "mchColorBaseSecondaryGrey500",
           "attributes": {
             "category": "Color",
             "type": "Base",
@@ -78,7 +78,7 @@ module.exports = {
             "Grey 500"
           ]
         },
-        "Grey 400": {
+        "grey400": {
           "value": "#757575",
           "type": "color",
           "filePath": "src/global.json",
@@ -87,7 +87,7 @@ module.exports = {
             "value": "#757575",
             "type": "color"
           },
-          "name": "mch_color_base_secondary_grey_400",
+          "name": "mchColorBaseSecondaryGrey400",
           "attributes": {
             "category": "Color",
             "type": "Base",
@@ -101,7 +101,7 @@ module.exports = {
             "Grey 400"
           ]
         },
-        "Grey 300": {
+        "grey300": {
           "value": "#babfc4",
           "type": "color",
           "filePath": "src/global.json",
@@ -110,7 +110,7 @@ module.exports = {
             "value": "#babfc4",
             "type": "color"
           },
-          "name": "mch_color_base_secondary_grey_300",
+          "name": "mchColorBaseSecondaryGrey300",
           "attributes": {
             "category": "Color",
             "type": "Base",
@@ -124,7 +124,7 @@ module.exports = {
             "Grey 300"
           ]
         },
-        "Grey 200": {
+        "grey200": {
           "value": "#f0f2f5",
           "type": "color",
           "filePath": "src/global.json",
@@ -133,7 +133,7 @@ module.exports = {
             "value": "#f0f2f5",
             "type": "color"
           },
-          "name": "mch_color_base_secondary_grey_200",
+          "name": "mchColorBaseSecondaryGrey200",
           "attributes": {
             "category": "Color",
             "type": "Base",
@@ -147,7 +147,7 @@ module.exports = {
             "Grey 200"
           ]
         },
-        "Grey 100": {
+        "grey100": {
           "value": "#f7f7f7",
           "type": "color",
           "filePath": "src/global.json",
@@ -156,7 +156,7 @@ module.exports = {
             "value": "#f7f7f7",
             "type": "color"
           },
-          "name": "mch_color_base_secondary_grey_100",
+          "name": "mchColorBaseSecondaryGrey100",
           "attributes": {
             "category": "Color",
             "type": "Base",
@@ -172,9 +172,9 @@ module.exports = {
         }
       }
     },
-    "Extended": {
-      "Sub Brands": {
-        "Basel": {
+    "extended": {
+      "subBrands": {
+        "basel": {
           "value": "#00a0cf",
           "type": "color",
           "filePath": "src/global.json",
@@ -183,7 +183,7 @@ module.exports = {
             "value": "#00a0cf",
             "type": "color"
           },
-          "name": "mch_color_extended_sub_brands_basel",
+          "name": "mchColorExtendedSubBrandsBasel",
           "attributes": {
             "category": "Color",
             "type": "Extended",
@@ -197,7 +197,7 @@ module.exports = {
             "Basel"
           ]
         },
-        "Miami": {
+        "miami": {
           "value": "#00c18b",
           "type": "color",
           "filePath": "src/global.json",
@@ -206,7 +206,7 @@ module.exports = {
             "value": "#00c18b",
             "type": "color"
           },
-          "name": "mch_color_extended_sub_brands_miami",
+          "name": "mchColorExtendedSubBrandsMiami",
           "attributes": {
             "category": "Color",
             "type": "Extended",
@@ -220,7 +220,7 @@ module.exports = {
             "Miami"
           ]
         },
-        "Hong Kong": {
+        "hongKong": {
           "value": "#e0004d",
           "type": "color",
           "filePath": "src/global.json",
@@ -229,7 +229,7 @@ module.exports = {
             "value": "#e0004d",
             "type": "color"
           },
-          "name": "mch_color_extended_sub_brands_hong_kong",
+          "name": "mchColorExtendedSubBrandsHongKong",
           "attributes": {
             "category": "Color",
             "type": "Extended",
@@ -243,7 +243,7 @@ module.exports = {
             "Hong Kong"
           ]
         },
-        "Cities": {
+        "cities": {
           "value": "#fa4616",
           "type": "color",
           "filePath": "src/global.json",
@@ -252,7 +252,7 @@ module.exports = {
             "value": "#fa4616",
             "type": "color"
           },
-          "name": "mch_color_extended_sub_brands_cities",
+          "name": "mchColorExtendedSubBrandsCities",
           "attributes": {
             "category": "Color",
             "type": "Extended",
@@ -266,7 +266,7 @@ module.exports = {
             "Cities"
           ]
         },
-        "Paris+": {
+        "paris": {
           "value": "#1e1e1e",
           "type": "color",
           "filePath": "src/global.json",
@@ -275,7 +275,7 @@ module.exports = {
             "value": "#1e1e1e",
             "type": "color"
           },
-          "name": "mch_color_extended_sub_brands_paris",
+          "name": "mchColorExtendedSubBrandsParis",
           "attributes": {
             "category": "Color",
             "type": "Extended",
@@ -290,8 +290,8 @@ module.exports = {
           ]
         }
       },
-      "Sectors": {
-        "Film": {
+      "sectors": {
+        "film": {
           "value": "#f7dce9",
           "type": "color",
           "filePath": "src/global.json",
@@ -300,7 +300,7 @@ module.exports = {
             "value": "#f7dce9",
             "type": "color"
           },
-          "name": "mch_color_extended_sectors_film",
+          "name": "mchColorExtendedSectorsFilm",
           "attributes": {
             "category": "Color",
             "type": "Extended",
@@ -314,7 +314,7 @@ module.exports = {
             "Film"
           ]
         },
-        "Parcour, Public": {
+        "parcourPublic": {
           "value": "#cddff2",
           "type": "color",
           "filePath": "src/global.json",
@@ -323,7 +323,7 @@ module.exports = {
             "value": "#cddff2",
             "type": "color"
           },
-          "name": "mch_color_extended_sectors_parcour_public",
+          "name": "mchColorExtendedSectorsParcourPublic",
           "attributes": {
             "category": "Color",
             "type": "Extended",
@@ -337,7 +337,7 @@ module.exports = {
             "Parcour, Public"
           ]
         },
-        "Unlimited, Encounters, Meridians": {
+        "unlimitedEncountersMeridians": {
           "value": "#dff0cb",
           "type": "color",
           "filePath": "src/global.json",
@@ -346,7 +346,7 @@ module.exports = {
             "value": "#dff0cb",
             "type": "color"
           },
-          "name": "mch_color_extended_sectors_unlimited_encounters_meridians",
+          "name": "mchColorExtendedSectorsUnlimitedEncountersMeridians",
           "attributes": {
             "category": "Color",
             "type": "Extended",
@@ -360,7 +360,7 @@ module.exports = {
             "Unlimited, Encounters, Meridians"
           ]
         },
-        "Discoveries, Statements, Positions": {
+        "discoveriesStatementsPositions": {
           "value": "#d2d3ec",
           "type": "color",
           "filePath": "src/global.json",
@@ -369,7 +369,7 @@ module.exports = {
             "value": "#d2d3ec",
             "type": "color"
           },
-          "name": "mch_color_extended_sectors_discoveries_statements_positions",
+          "name": "mchColorExtendedSectorsDiscoveriesStatementsPositions",
           "attributes": {
             "category": "Color",
             "type": "Extended",
@@ -383,7 +383,7 @@ module.exports = {
             "Discoveries, Statements, Positions"
           ]
         },
-        "Galleries": {
+        "galleries": {
           "value": "#cdcdcd",
           "type": "color",
           "filePath": "src/global.json",
@@ -392,7 +392,7 @@ module.exports = {
             "value": "#cdcdcd",
             "type": "color"
           },
-          "name": "mch_color_extended_sectors_galleries",
+          "name": "mchColorExtendedSectorsGalleries",
           "attributes": {
             "category": "Color",
             "type": "Extended",
@@ -406,7 +406,7 @@ module.exports = {
             "Galleries"
           ]
         },
-        "Feature, Nova": {
+        "featureNova": {
           "value": "#d8eeeb",
           "type": "color",
           "filePath": "src/global.json",
@@ -415,7 +415,7 @@ module.exports = {
             "value": "#d8eeeb",
             "type": "color"
           },
-          "name": "mch_color_extended_sectors_feature_nova",
+          "name": "mchColorExtendedSectorsFeatureNova",
           "attributes": {
             "category": "Color",
             "type": "Extended",
@@ -429,7 +429,7 @@ module.exports = {
             "Feature, Nova"
           ]
         },
-        "Edition": {
+        "edition": {
           "value": "#fff7bf",
           "type": "color",
           "filePath": "src/global.json",
@@ -438,7 +438,7 @@ module.exports = {
             "value": "#fff7bf",
             "type": "color"
           },
-          "name": "mch_color_extended_sectors_edition",
+          "name": "mchColorExtendedSectorsEdition",
           "attributes": {
             "category": "Color",
             "type": "Extended",
@@ -452,7 +452,7 @@ module.exports = {
             "Edition"
           ]
         },
-        "Kabinett": {
+        "kabinett": {
           "value": "#fcdfaa",
           "type": "color",
           "filePath": "src/global.json",
@@ -461,7 +461,7 @@ module.exports = {
             "value": "#fcdfaa",
             "type": "color"
           },
-          "name": "mch_color_extended_sectors_kabinett",
+          "name": "mchColorExtendedSectorsKabinett",
           "attributes": {
             "category": "Color",
             "type": "Extended",
@@ -475,7 +475,7 @@ module.exports = {
             "Kabinett"
           ]
         },
-        "Insights, Survey": {
+        "insightsSurvey": {
           "value": "#fcd5d7",
           "type": "color",
           "filePath": "src/global.json",
@@ -484,7 +484,7 @@ module.exports = {
             "value": "#fcd5d7",
             "type": "color"
           },
-          "name": "mch_color_extended_sectors_insights_survey",
+          "name": "mchColorExtendedSectorsInsightsSurvey",
           "attributes": {
             "category": "Color",
             "type": "Extended",
@@ -498,7 +498,7 @@ module.exports = {
             "Insights, Survey"
           ]
         },
-        "Dialogues": {
+        "dialogues": {
           "value": "#dcdcdc",
           "type": "color",
           "filePath": "src/global.json",
@@ -507,7 +507,7 @@ module.exports = {
             "value": "#dcdcdc",
             "type": "color"
           },
-          "name": "mch_color_extended_sectors_dialogues",
+          "name": "mchColorExtendedSectorsDialogues",
           "attributes": {
             "category": "Color",
             "type": "Extended",
@@ -523,8 +523,8 @@ module.exports = {
         }
       }
     },
-    "Supporting": {
-      "Orange": {
+    "supporting": {
+      "orange": {
         "value": "#f19d00",
         "type": "color",
         "filePath": "src/global.json",
@@ -533,7 +533,7 @@ module.exports = {
           "value": "#f19d00",
           "type": "color"
         },
-        "name": "mch_color_supporting_orange",
+        "name": "mchColorSupportingOrange",
         "attributes": {
           "category": "Color",
           "type": "Supporting",
@@ -545,7 +545,7 @@ module.exports = {
           "Orange"
         ]
       },
-      "Orange - Text": {
+      "orangeText": {
         "value": "#bf8519",
         "type": "color",
         "filePath": "src/global.json",
@@ -554,7 +554,7 @@ module.exports = {
           "value": "#bf8519",
           "type": "color"
         },
-        "name": "mch_color_supporting_orange_text",
+        "name": "mchColorSupportingOrangeText",
         "attributes": {
           "category": "Color",
           "type": "Supporting",
@@ -566,7 +566,7 @@ module.exports = {
           "Orange - Text"
         ]
       },
-      "Red": {
+      "red": {
         "value": "#ff003b",
         "type": "color",
         "filePath": "src/global.json",
@@ -575,7 +575,7 @@ module.exports = {
           "value": "#ff003b",
           "type": "color"
         },
-        "name": "mch_color_supporting_red",
+        "name": "mchColorSupportingRed",
         "attributes": {
           "category": "Color",
           "type": "Supporting",
@@ -587,7 +587,7 @@ module.exports = {
           "Red"
         ]
       },
-      "Red - Text": {
+      "redText": {
         "value": "#c9012f",
         "type": "color",
         "filePath": "src/global.json",
@@ -596,7 +596,7 @@ module.exports = {
           "value": "#c9012f",
           "type": "color"
         },
-        "name": "mch_color_supporting_red_text",
+        "name": "mchColorSupportingRedText",
         "attributes": {
           "category": "Color",
           "type": "Supporting",
@@ -608,7 +608,7 @@ module.exports = {
           "Red - Text"
         ]
       },
-      "Green": {
+      "green": {
         "value": "#019f53",
         "type": "color",
         "filePath": "src/global.json",
@@ -617,7 +617,7 @@ module.exports = {
           "value": "#019f53",
           "type": "color"
         },
-        "name": "mch_color_supporting_green",
+        "name": "mchColorSupportingGreen",
         "attributes": {
           "category": "Color",
           "type": "Supporting",
@@ -629,7 +629,7 @@ module.exports = {
           "Green"
         ]
       },
-      "Green - Text": {
+      "greenText": {
         "value": "#018661",
         "type": "color",
         "filePath": "src/global.json",
@@ -638,7 +638,7 @@ module.exports = {
           "value": "#018661",
           "type": "color"
         },
-        "name": "mch_color_supporting_green_text",
+        "name": "mchColorSupportingGreenText",
         "attributes": {
           "category": "Color",
           "type": "Supporting",
@@ -650,9 +650,9 @@ module.exports = {
           "Green - Text"
         ]
       },
-      "Status": {
-        "Light": {
-          "Error": {
+      "status": {
+        "light": {
+          "error": {
             "value": "#c9012f",
             "type": "color",
             "filePath": "src/global.json",
@@ -661,7 +661,7 @@ module.exports = {
               "value": "#c9012f",
               "type": "color"
             },
-            "name": "mch_color_supporting_status_light_error",
+            "name": "mchColorSupportingStatusLightError",
             "attributes": {
               "category": "Color",
               "type": "Supporting",
@@ -677,7 +677,7 @@ module.exports = {
               "Error"
             ]
           },
-          "Success": {
+          "success": {
             "value": "#018661",
             "type": "color",
             "filePath": "src/global.json",
@@ -686,7 +686,7 @@ module.exports = {
               "value": "#018661",
               "type": "color"
             },
-            "name": "mch_color_supporting_status_light_success",
+            "name": "mchColorSupportingStatusLightSuccess",
             "attributes": {
               "category": "Color",
               "type": "Supporting",
@@ -702,7 +702,7 @@ module.exports = {
               "Success"
             ]
           },
-          "Alert": {
+          "alert": {
             "value": "#9F6D00",
             "type": "color",
             "filePath": "src/global.json",
@@ -711,7 +711,7 @@ module.exports = {
               "value": "#9F6D00",
               "type": "color"
             },
-            "name": "mch_color_supporting_status_light_alert",
+            "name": "mchColorSupportingStatusLightAlert",
             "attributes": {
               "category": "Color",
               "type": "Supporting",
@@ -728,8 +728,8 @@ module.exports = {
             ]
           }
         },
-        "Dark": {
-          "Alert": {
+        "dark": {
+          "alert": {
             "value": "#f4a32f",
             "type": "color",
             "filePath": "src/global.json",
@@ -738,7 +738,7 @@ module.exports = {
               "value": "#f4a32f",
               "type": "color"
             },
-            "name": "mch_color_supporting_status_dark_alert",
+            "name": "mchColorSupportingStatusDarkAlert",
             "attributes": {
               "category": "Color",
               "type": "Supporting",
@@ -754,7 +754,7 @@ module.exports = {
               "Alert"
             ]
           },
-          "Error": {
+          "error": {
             "value": "#ff979d",
             "type": "color",
             "filePath": "src/global.json",
@@ -763,7 +763,7 @@ module.exports = {
               "value": "#ff979d",
               "type": "color"
             },
-            "name": "mch_color_supporting_status_dark_error",
+            "name": "mchColorSupportingStatusDarkError",
             "attributes": {
               "category": "Color",
               "type": "Supporting",
@@ -779,7 +779,7 @@ module.exports = {
               "Error"
             ]
           },
-          "Success": {
+          "success": {
             "value": "#7cc492",
             "type": "color",
             "filePath": "src/global.json",
@@ -788,7 +788,7 @@ module.exports = {
               "value": "#7cc492",
               "type": "color"
             },
-            "name": "mch_color_supporting_status_dark_success",
+            "name": "mchColorSupportingStatusDarkSuccess",
             "attributes": {
               "category": "Color",
               "type": "Supporting",
@@ -808,8 +808,8 @@ module.exports = {
       }
     }
   },
-  "Shadows": {
-    "Outer Shadow": {
+  "shadows": {
+    "outerShadow": {
       "01": {
         "1": {
           "color": {
@@ -821,7 +821,7 @@ module.exports = {
               "value": "#1d23271a",
               "type": "color"
             },
-            "name": "mch_shadows_outer_shadow_01_1_color",
+            "name": "mchShadowsOuterShadow011Color",
             "attributes": {
               "category": "Shadows",
               "type": "Outer Shadow",
@@ -846,7 +846,7 @@ module.exports = {
               "value": "dropShadow",
               "type": "other"
             },
-            "name": "mch_shadows_outer_shadow_01_1_type",
+            "name": "mchShadowsOuterShadow011Type",
             "attributes": {
               "category": "Shadows",
               "type": "Outer Shadow",
@@ -871,7 +871,7 @@ module.exports = {
               "value": "0",
               "type": "dimension"
             },
-            "name": "mch_shadows_outer_shadow_01_1_x",
+            "name": "mchShadowsOuterShadow011X",
             "attributes": {
               "category": "Shadows",
               "type": "Outer Shadow",
@@ -896,7 +896,7 @@ module.exports = {
               "value": "1",
               "type": "dimension"
             },
-            "name": "mch_shadows_outer_shadow_01_1_y",
+            "name": "mchShadowsOuterShadow011Y",
             "attributes": {
               "category": "Shadows",
               "type": "Outer Shadow",
@@ -921,7 +921,7 @@ module.exports = {
               "value": "4",
               "type": "dimension"
             },
-            "name": "mch_shadows_outer_shadow_01_1_blur",
+            "name": "mchShadowsOuterShadow011Blur",
             "attributes": {
               "category": "Shadows",
               "type": "Outer Shadow",
@@ -946,7 +946,7 @@ module.exports = {
               "value": "0",
               "type": "dimension"
             },
-            "name": "mch_shadows_outer_shadow_01_1_spread",
+            "name": "mchShadowsOuterShadow011Spread",
             "attributes": {
               "category": "Shadows",
               "type": "Outer Shadow",
@@ -973,7 +973,7 @@ module.exports = {
               "value": "#1d23271a",
               "type": "color"
             },
-            "name": "mch_shadows_outer_shadow_01_2_color",
+            "name": "mchShadowsOuterShadow012Color",
             "attributes": {
               "category": "Shadows",
               "type": "Outer Shadow",
@@ -998,7 +998,7 @@ module.exports = {
               "value": "dropShadow",
               "type": "other"
             },
-            "name": "mch_shadows_outer_shadow_01_2_type",
+            "name": "mchShadowsOuterShadow012Type",
             "attributes": {
               "category": "Shadows",
               "type": "Outer Shadow",
@@ -1023,7 +1023,7 @@ module.exports = {
               "value": "0",
               "type": "dimension"
             },
-            "name": "mch_shadows_outer_shadow_01_2_x",
+            "name": "mchShadowsOuterShadow012X",
             "attributes": {
               "category": "Shadows",
               "type": "Outer Shadow",
@@ -1048,7 +1048,7 @@ module.exports = {
               "value": "0",
               "type": "dimension"
             },
-            "name": "mch_shadows_outer_shadow_01_2_y",
+            "name": "mchShadowsOuterShadow012Y",
             "attributes": {
               "category": "Shadows",
               "type": "Outer Shadow",
@@ -1073,7 +1073,7 @@ module.exports = {
               "value": "4",
               "type": "dimension"
             },
-            "name": "mch_shadows_outer_shadow_01_2_blur",
+            "name": "mchShadowsOuterShadow012Blur",
             "attributes": {
               "category": "Shadows",
               "type": "Outer Shadow",
@@ -1098,7 +1098,7 @@ module.exports = {
               "value": "0",
               "type": "dimension"
             },
-            "name": "mch_shadows_outer_shadow_01_2_spread",
+            "name": "mchShadowsOuterShadow012Spread",
             "attributes": {
               "category": "Shadows",
               "type": "Outer Shadow",
@@ -1127,7 +1127,7 @@ module.exports = {
               "value": "#1d23271a",
               "type": "color"
             },
-            "name": "mch_shadows_outer_shadow_02_1_color",
+            "name": "mchShadowsOuterShadow021Color",
             "attributes": {
               "category": "Shadows",
               "type": "Outer Shadow",
@@ -1152,7 +1152,7 @@ module.exports = {
               "value": "dropShadow",
               "type": "other"
             },
-            "name": "mch_shadows_outer_shadow_02_1_type",
+            "name": "mchShadowsOuterShadow021Type",
             "attributes": {
               "category": "Shadows",
               "type": "Outer Shadow",
@@ -1177,7 +1177,7 @@ module.exports = {
               "value": "0",
               "type": "dimension"
             },
-            "name": "mch_shadows_outer_shadow_02_1_x",
+            "name": "mchShadowsOuterShadow021X",
             "attributes": {
               "category": "Shadows",
               "type": "Outer Shadow",
@@ -1202,7 +1202,7 @@ module.exports = {
               "value": "4",
               "type": "dimension"
             },
-            "name": "mch_shadows_outer_shadow_02_1_y",
+            "name": "mchShadowsOuterShadow021Y",
             "attributes": {
               "category": "Shadows",
               "type": "Outer Shadow",
@@ -1227,7 +1227,7 @@ module.exports = {
               "value": "8",
               "type": "dimension"
             },
-            "name": "mch_shadows_outer_shadow_02_1_blur",
+            "name": "mchShadowsOuterShadow021Blur",
             "attributes": {
               "category": "Shadows",
               "type": "Outer Shadow",
@@ -1252,7 +1252,7 @@ module.exports = {
               "value": "0",
               "type": "dimension"
             },
-            "name": "mch_shadows_outer_shadow_02_1_spread",
+            "name": "mchShadowsOuterShadow021Spread",
             "attributes": {
               "category": "Shadows",
               "type": "Outer Shadow",
@@ -1279,7 +1279,7 @@ module.exports = {
               "value": "#1d23271a",
               "type": "color"
             },
-            "name": "mch_shadows_outer_shadow_02_2_color",
+            "name": "mchShadowsOuterShadow022Color",
             "attributes": {
               "category": "Shadows",
               "type": "Outer Shadow",
@@ -1304,7 +1304,7 @@ module.exports = {
               "value": "dropShadow",
               "type": "other"
             },
-            "name": "mch_shadows_outer_shadow_02_2_type",
+            "name": "mchShadowsOuterShadow022Type",
             "attributes": {
               "category": "Shadows",
               "type": "Outer Shadow",
@@ -1329,7 +1329,7 @@ module.exports = {
               "value": "0",
               "type": "dimension"
             },
-            "name": "mch_shadows_outer_shadow_02_2_x",
+            "name": "mchShadowsOuterShadow022X",
             "attributes": {
               "category": "Shadows",
               "type": "Outer Shadow",
@@ -1354,7 +1354,7 @@ module.exports = {
               "value": "2",
               "type": "dimension"
             },
-            "name": "mch_shadows_outer_shadow_02_2_y",
+            "name": "mchShadowsOuterShadow022Y",
             "attributes": {
               "category": "Shadows",
               "type": "Outer Shadow",
@@ -1379,7 +1379,7 @@ module.exports = {
               "value": "4",
               "type": "dimension"
             },
-            "name": "mch_shadows_outer_shadow_02_2_blur",
+            "name": "mchShadowsOuterShadow022Blur",
             "attributes": {
               "category": "Shadows",
               "type": "Outer Shadow",
@@ -1404,7 +1404,7 @@ module.exports = {
               "value": "1",
               "type": "dimension"
             },
-            "name": "mch_shadows_outer_shadow_02_2_spread",
+            "name": "mchShadowsOuterShadow022Spread",
             "attributes": {
               "category": "Shadows",
               "type": "Outer Shadow",
@@ -1433,7 +1433,7 @@ module.exports = {
               "value": "#1d23271a",
               "type": "color"
             },
-            "name": "mch_shadows_outer_shadow_03_1_color",
+            "name": "mchShadowsOuterShadow031Color",
             "attributes": {
               "category": "Shadows",
               "type": "Outer Shadow",
@@ -1458,7 +1458,7 @@ module.exports = {
               "value": "dropShadow",
               "type": "other"
             },
-            "name": "mch_shadows_outer_shadow_03_1_type",
+            "name": "mchShadowsOuterShadow031Type",
             "attributes": {
               "category": "Shadows",
               "type": "Outer Shadow",
@@ -1483,7 +1483,7 @@ module.exports = {
               "value": "0",
               "type": "dimension"
             },
-            "name": "mch_shadows_outer_shadow_03_1_x",
+            "name": "mchShadowsOuterShadow031X",
             "attributes": {
               "category": "Shadows",
               "type": "Outer Shadow",
@@ -1508,7 +1508,7 @@ module.exports = {
               "value": "8",
               "type": "dimension"
             },
-            "name": "mch_shadows_outer_shadow_03_1_y",
+            "name": "mchShadowsOuterShadow031Y",
             "attributes": {
               "category": "Shadows",
               "type": "Outer Shadow",
@@ -1533,7 +1533,7 @@ module.exports = {
               "value": "16",
               "type": "dimension"
             },
-            "name": "mch_shadows_outer_shadow_03_1_blur",
+            "name": "mchShadowsOuterShadow031Blur",
             "attributes": {
               "category": "Shadows",
               "type": "Outer Shadow",
@@ -1558,7 +1558,7 @@ module.exports = {
               "value": "0",
               "type": "dimension"
             },
-            "name": "mch_shadows_outer_shadow_03_1_spread",
+            "name": "mchShadowsOuterShadow031Spread",
             "attributes": {
               "category": "Shadows",
               "type": "Outer Shadow",
@@ -1585,7 +1585,7 @@ module.exports = {
               "value": "#1d23271a",
               "type": "color"
             },
-            "name": "mch_shadows_outer_shadow_03_2_color",
+            "name": "mchShadowsOuterShadow032Color",
             "attributes": {
               "category": "Shadows",
               "type": "Outer Shadow",
@@ -1610,7 +1610,7 @@ module.exports = {
               "value": "dropShadow",
               "type": "other"
             },
-            "name": "mch_shadows_outer_shadow_03_2_type",
+            "name": "mchShadowsOuterShadow032Type",
             "attributes": {
               "category": "Shadows",
               "type": "Outer Shadow",
@@ -1635,7 +1635,7 @@ module.exports = {
               "value": "0",
               "type": "dimension"
             },
-            "name": "mch_shadows_outer_shadow_03_2_x",
+            "name": "mchShadowsOuterShadow032X",
             "attributes": {
               "category": "Shadows",
               "type": "Outer Shadow",
@@ -1660,7 +1660,7 @@ module.exports = {
               "value": "4",
               "type": "dimension"
             },
-            "name": "mch_shadows_outer_shadow_03_2_y",
+            "name": "mchShadowsOuterShadow032Y",
             "attributes": {
               "category": "Shadows",
               "type": "Outer Shadow",
@@ -1685,7 +1685,7 @@ module.exports = {
               "value": "8",
               "type": "dimension"
             },
-            "name": "mch_shadows_outer_shadow_03_2_blur",
+            "name": "mchShadowsOuterShadow032Blur",
             "attributes": {
               "category": "Shadows",
               "type": "Outer Shadow",
@@ -1710,7 +1710,7 @@ module.exports = {
               "value": "2",
               "type": "dimension"
             },
-            "name": "mch_shadows_outer_shadow_03_2_spread",
+            "name": "mchShadowsOuterShadow032Spread",
             "attributes": {
               "category": "Shadows",
               "type": "Outer Shadow",
@@ -1740,7 +1740,7 @@ module.exports = {
         "value": "2px",
         "type": "spacing"
       },
-      "name": "mch_spacing_2",
+      "name": "mchSpacing2",
       "attributes": {
         "category": "spacing",
         "type": "2"
@@ -1759,7 +1759,7 @@ module.exports = {
         "value": "4px",
         "type": "spacing"
       },
-      "name": "mch_spacing_4",
+      "name": "mchSpacing4",
       "attributes": {
         "category": "spacing",
         "type": "4"
@@ -1778,7 +1778,7 @@ module.exports = {
         "value": "8px",
         "type": "spacing"
       },
-      "name": "mch_spacing_8",
+      "name": "mchSpacing8",
       "attributes": {
         "category": "spacing",
         "type": "8"
@@ -1797,7 +1797,7 @@ module.exports = {
         "value": "12px",
         "type": "spacing"
       },
-      "name": "mch_spacing_12",
+      "name": "mchSpacing12",
       "attributes": {
         "category": "spacing",
         "type": "12"
@@ -1816,7 +1816,7 @@ module.exports = {
         "value": "16px",
         "type": "spacing"
       },
-      "name": "mch_spacing_16",
+      "name": "mchSpacing16",
       "attributes": {
         "category": "spacing",
         "type": "16"
@@ -1835,7 +1835,7 @@ module.exports = {
         "value": "20px",
         "type": "spacing"
       },
-      "name": "mch_spacing_20",
+      "name": "mchSpacing20",
       "attributes": {
         "category": "spacing",
         "type": "20"
@@ -1854,7 +1854,7 @@ module.exports = {
         "value": "24px",
         "type": "spacing"
       },
-      "name": "mch_spacing_24",
+      "name": "mchSpacing24",
       "attributes": {
         "category": "spacing",
         "type": "24"
@@ -1873,7 +1873,7 @@ module.exports = {
         "value": "32px",
         "type": "spacing"
       },
-      "name": "mch_spacing_32",
+      "name": "mchSpacing32",
       "attributes": {
         "category": "spacing",
         "type": "32"
@@ -1892,7 +1892,7 @@ module.exports = {
         "value": "40px",
         "type": "spacing"
       },
-      "name": "mch_spacing_40",
+      "name": "mchSpacing40",
       "attributes": {
         "category": "spacing",
         "type": "40"
@@ -1911,7 +1911,7 @@ module.exports = {
         "value": "48px",
         "type": "spacing"
       },
-      "name": "mch_spacing_48",
+      "name": "mchSpacing48",
       "attributes": {
         "category": "spacing",
         "type": "48"
@@ -1930,7 +1930,7 @@ module.exports = {
         "value": "56px",
         "type": "spacing"
       },
-      "name": "mch_spacing_56",
+      "name": "mchSpacing56",
       "attributes": {
         "category": "spacing",
         "type": "56"
@@ -1949,7 +1949,7 @@ module.exports = {
         "value": "64px",
         "type": "spacing"
       },
-      "name": "mch_spacing_64",
+      "name": "mchSpacing64",
       "attributes": {
         "category": "spacing",
         "type": "64"
@@ -1968,7 +1968,7 @@ module.exports = {
         "value": "72px",
         "type": "spacing"
       },
-      "name": "mch_spacing_72",
+      "name": "mchSpacing72",
       "attributes": {
         "category": "spacing",
         "type": "72"
@@ -1987,7 +1987,7 @@ module.exports = {
         "value": "80px",
         "type": "spacing"
       },
-      "name": "mch_spacing_80",
+      "name": "mchSpacing80",
       "attributes": {
         "category": "spacing",
         "type": "80"
@@ -2006,7 +2006,7 @@ module.exports = {
         "value": "96px",
         "type": "spacing"
       },
-      "name": "mch_spacing_96",
+      "name": "mchSpacing96",
       "attributes": {
         "category": "spacing",
         "type": "96"
@@ -2025,7 +2025,7 @@ module.exports = {
         "value": "112px",
         "type": "spacing"
       },
-      "name": "mch_spacing_112",
+      "name": "mchSpacing112",
       "attributes": {
         "category": "spacing",
         "type": "112"
@@ -2044,7 +2044,7 @@ module.exports = {
         "value": "120px",
         "type": "spacing"
       },
-      "name": "mch_spacing_120",
+      "name": "mchSpacing120",
       "attributes": {
         "category": "spacing",
         "type": "120"
@@ -2065,7 +2065,7 @@ module.exports = {
         "value": "0",
         "type": "opacity"
       },
-      "name": "mch_opacity_0",
+      "name": "mchOpacity0",
       "attributes": {
         "category": "opacity",
         "type": "0"
@@ -2084,7 +2084,7 @@ module.exports = {
         "value": "0.05",
         "type": "opacity"
       },
-      "name": "mch_opacity_5",
+      "name": "mchOpacity5",
       "attributes": {
         "category": "opacity",
         "type": "5"
@@ -2103,7 +2103,7 @@ module.exports = {
         "value": "0.1",
         "type": "opacity"
       },
-      "name": "mch_opacity_10",
+      "name": "mchOpacity10",
       "attributes": {
         "category": "opacity",
         "type": "10"
@@ -2122,7 +2122,7 @@ module.exports = {
         "value": "0.25",
         "type": "opacity"
       },
-      "name": "mch_opacity_25",
+      "name": "mchOpacity25",
       "attributes": {
         "category": "opacity",
         "type": "25"
@@ -2141,7 +2141,7 @@ module.exports = {
         "value": "0.3",
         "type": "opacity"
       },
-      "name": "mch_opacity_30",
+      "name": "mchOpacity30",
       "attributes": {
         "category": "opacity",
         "type": "30"
@@ -2160,7 +2160,7 @@ module.exports = {
         "value": "0.4",
         "type": "opacity"
       },
-      "name": "mch_opacity_40",
+      "name": "mchOpacity40",
       "attributes": {
         "category": "opacity",
         "type": "40"
@@ -2179,7 +2179,7 @@ module.exports = {
         "value": "0.5",
         "type": "opacity"
       },
-      "name": "mch_opacity_50",
+      "name": "mchOpacity50",
       "attributes": {
         "category": "opacity",
         "type": "50"
@@ -2198,7 +2198,7 @@ module.exports = {
         "value": "0.6",
         "type": "opacity"
       },
-      "name": "mch_opacity_60",
+      "name": "mchOpacity60",
       "attributes": {
         "category": "opacity",
         "type": "60"
@@ -2217,7 +2217,7 @@ module.exports = {
         "value": "0.7",
         "type": "opacity"
       },
-      "name": "mch_opacity_70",
+      "name": "mchOpacity70",
       "attributes": {
         "category": "opacity",
         "type": "70"
@@ -2236,7 +2236,7 @@ module.exports = {
         "value": "0.8",
         "type": "opacity"
       },
-      "name": "mch_opacity_80",
+      "name": "mchOpacity80",
       "attributes": {
         "category": "opacity",
         "type": "80"
@@ -2255,7 +2255,7 @@ module.exports = {
         "value": "0.9",
         "type": "opacity"
       },
-      "name": "mch_opacity_90",
+      "name": "mchOpacity90",
       "attributes": {
         "category": "opacity",
         "type": "90"
@@ -2274,7 +2274,7 @@ module.exports = {
         "value": "0.95",
         "type": "opacity"
       },
-      "name": "mch_opacity_95",
+      "name": "mchOpacity95",
       "attributes": {
         "category": "opacity",
         "type": "95"
@@ -2293,7 +2293,7 @@ module.exports = {
         "value": "1",
         "type": "opacity"
       },
-      "name": "mch_opacity_100",
+      "name": "mchOpacity100",
       "attributes": {
         "category": "opacity",
         "type": "100"
@@ -2304,7 +2304,7 @@ module.exports = {
       ]
     }
   },
-  "max-width": {
+  "maxWidth": {
     "sm": {
       "value": "413px",
       "type": "dimension",
@@ -2316,7 +2316,7 @@ module.exports = {
         "type": "dimension",
         "description": "Max Width for the SM Media Query breakpoint"
       },
-      "name": "mch_max_width_sm",
+      "name": "mchMaxWidthSm",
       "attributes": {
         "category": "max-width",
         "type": "sm"
@@ -2337,7 +2337,7 @@ module.exports = {
         "type": "dimension",
         "description": "Max Width for the MD Media Query breakpoint"
       },
-      "name": "mch_max_width_md",
+      "name": "mchMaxWidthMd",
       "attributes": {
         "category": "max-width",
         "type": "md"
@@ -2358,7 +2358,7 @@ module.exports = {
         "type": "dimension",
         "description": "Max Width for the LG Media Query breakpoint"
       },
-      "name": "mch_max_width_lg",
+      "name": "mchMaxWidthLg",
       "attributes": {
         "category": "max-width",
         "type": "lg"
@@ -2379,7 +2379,7 @@ module.exports = {
         "type": "dimension",
         "description": "Max Width for the XL Media Query breakpoint"
       },
-      "name": "mch_max_width_xl",
+      "name": "mchMaxWidthXl",
       "attributes": {
         "category": "max-width",
         "type": "xl"
@@ -2400,7 +2400,7 @@ module.exports = {
         "type": "dimension",
         "description": "Max Width for the 2XL Media Query breakpoint"
       },
-      "name": "mch_max_width_2xl",
+      "name": "mchMaxWidth2xl",
       "attributes": {
         "category": "max-width",
         "type": "2xl"
@@ -2412,7 +2412,7 @@ module.exports = {
     }
   },
   "fontFamilies": {
-    "art-basel-headline": {
+    "artBaselHeadline": {
       "value": "Art Basel Headline",
       "type": "fontFamilies",
       "filePath": "src/global.json",
@@ -2421,7 +2421,7 @@ module.exports = {
         "value": "Art Basel Headline",
         "type": "fontFamilies"
       },
-      "name": "mch_font_families_art_basel_headline",
+      "name": "mchFontFamiliesArtBaselHeadline",
       "attributes": {
         "category": "fontFamilies",
         "type": "art-basel-headline"
@@ -2431,7 +2431,7 @@ module.exports = {
         "art-basel-headline"
       ]
     },
-    "art-basel-text": {
+    "artBaselText": {
       "value": "Art Basel Text",
       "type": "fontFamilies",
       "filePath": "src/global.json",
@@ -2440,7 +2440,7 @@ module.exports = {
         "value": "Art Basel Text",
         "type": "fontFamilies"
       },
-      "name": "mch_font_families_art_basel_text",
+      "name": "mchFontFamiliesArtBaselText",
       "attributes": {
         "category": "fontFamilies",
         "type": "art-basel-text"
@@ -2450,7 +2450,7 @@ module.exports = {
         "art-basel-text"
       ]
     },
-    "ivar-display": {
+    "ivarDisplay": {
       "value": "Ivar Display",
       "type": "fontFamilies",
       "filePath": "src/global.json",
@@ -2459,7 +2459,7 @@ module.exports = {
         "value": "Ivar Display",
         "type": "fontFamilies"
       },
-      "name": "mch_font_families_ivar_display",
+      "name": "mchFontFamiliesIvarDisplay",
       "attributes": {
         "category": "fontFamilies",
         "type": "ivar-display"
@@ -2480,7 +2480,7 @@ module.exports = {
         "value": "35",
         "type": "lineHeights"
       },
-      "name": "mch_line_heights_0",
+      "name": "mchLineHeights0",
       "attributes": {
         "category": "lineHeights",
         "type": "0"
@@ -2499,7 +2499,7 @@ module.exports = {
         "value": "30",
         "type": "lineHeights"
       },
-      "name": "mch_line_heights_1",
+      "name": "mchLineHeights1",
       "attributes": {
         "category": "lineHeights",
         "type": "1"
@@ -2518,7 +2518,7 @@ module.exports = {
         "value": "28",
         "type": "lineHeights"
       },
-      "name": "mch_line_heights_2",
+      "name": "mchLineHeights2",
       "attributes": {
         "category": "lineHeights",
         "type": "2"
@@ -2537,7 +2537,7 @@ module.exports = {
         "value": "23",
         "type": "lineHeights"
       },
-      "name": "mch_line_heights_3",
+      "name": "mchLineHeights3",
       "attributes": {
         "category": "lineHeights",
         "type": "3"
@@ -2556,7 +2556,7 @@ module.exports = {
         "value": "21",
         "type": "lineHeights"
       },
-      "name": "mch_line_heights_4",
+      "name": "mchLineHeights4",
       "attributes": {
         "category": "lineHeights",
         "type": "4"
@@ -2575,7 +2575,7 @@ module.exports = {
         "value": "48",
         "type": "lineHeights"
       },
-      "name": "mch_line_heights_5",
+      "name": "mchLineHeights5",
       "attributes": {
         "category": "lineHeights",
         "type": "5"
@@ -2594,7 +2594,7 @@ module.exports = {
         "value": "42",
         "type": "lineHeights"
       },
-      "name": "mch_line_heights_6",
+      "name": "mchLineHeights6",
       "attributes": {
         "category": "lineHeights",
         "type": "6"
@@ -2613,7 +2613,7 @@ module.exports = {
         "value": "34",
         "type": "lineHeights"
       },
-      "name": "mch_line_heights_7",
+      "name": "mchLineHeights7",
       "attributes": {
         "category": "lineHeights",
         "type": "7"
@@ -2632,7 +2632,7 @@ module.exports = {
         "value": "41",
         "type": "lineHeights"
       },
-      "name": "mch_line_heights_8",
+      "name": "mchLineHeights8",
       "attributes": {
         "category": "lineHeights",
         "type": "8"
@@ -2651,7 +2651,7 @@ module.exports = {
         "value": "46",
         "type": "lineHeights"
       },
-      "name": "mch_line_heights_9",
+      "name": "mchLineHeights9",
       "attributes": {
         "category": "lineHeights",
         "type": "9"
@@ -2670,7 +2670,7 @@ module.exports = {
         "value": "50",
         "type": "lineHeights"
       },
-      "name": "mch_line_heights_10",
+      "name": "mchLineHeights10",
       "attributes": {
         "category": "lineHeights",
         "type": "10"
@@ -2689,7 +2689,7 @@ module.exports = {
         "value": "18",
         "type": "lineHeights"
       },
-      "name": "mch_line_heights_11",
+      "name": "mchLineHeights11",
       "attributes": {
         "category": "lineHeights",
         "type": "11"
@@ -2708,7 +2708,7 @@ module.exports = {
         "value": "24",
         "type": "lineHeights"
       },
-      "name": "mch_line_heights_12",
+      "name": "mchLineHeights12",
       "attributes": {
         "category": "lineHeights",
         "type": "12"
@@ -2727,7 +2727,7 @@ module.exports = {
         "value": "22",
         "type": "lineHeights"
       },
-      "name": "mch_line_heights_13",
+      "name": "mchLineHeights13",
       "attributes": {
         "category": "lineHeights",
         "type": "13"
@@ -2746,7 +2746,7 @@ module.exports = {
         "value": "16",
         "type": "lineHeights"
       },
-      "name": "mch_line_heights_14",
+      "name": "mchLineHeights14",
       "attributes": {
         "category": "lineHeights",
         "type": "14"
@@ -2765,7 +2765,7 @@ module.exports = {
         "value": "20",
         "type": "lineHeights"
       },
-      "name": "mch_line_heights_15",
+      "name": "mchLineHeights15",
       "attributes": {
         "category": "lineHeights",
         "type": "15"
@@ -2784,7 +2784,7 @@ module.exports = {
         "value": "32",
         "type": "lineHeights"
       },
-      "name": "mch_line_heights_16",
+      "name": "mchLineHeights16",
       "attributes": {
         "category": "lineHeights",
         "type": "16"
@@ -2803,7 +2803,7 @@ module.exports = {
         "value": "64",
         "type": "lineHeights"
       },
-      "name": "mch_line_heights_17",
+      "name": "mchLineHeights17",
       "attributes": {
         "category": "lineHeights",
         "type": "17"
@@ -2822,7 +2822,7 @@ module.exports = {
         "value": "54",
         "type": "lineHeights"
       },
-      "name": "mch_line_heights_18",
+      "name": "mchLineHeights18",
       "attributes": {
         "category": "lineHeights",
         "type": "18"
@@ -2841,7 +2841,7 @@ module.exports = {
         "value": "36",
         "type": "lineHeights"
       },
-      "name": "mch_line_heights_19",
+      "name": "mchLineHeights19",
       "attributes": {
         "category": "lineHeights",
         "type": "19"
@@ -2853,7 +2853,7 @@ module.exports = {
     }
   },
   "fontWeights": {
-    "art-basel-headline-0": {
+    "artBaselHeadline0": {
       "value": "700",
       "type": "fontWeights",
       "filePath": "src/global.json",
@@ -2862,7 +2862,7 @@ module.exports = {
         "value": "Bold",
         "type": "fontWeights"
       },
-      "name": "mch_font_weights_art_basel_headline_0",
+      "name": "mchFontWeightsArtBaselHeadline0",
       "attributes": {
         "category": "fontWeights",
         "type": "art-basel-headline-0"
@@ -2872,7 +2872,7 @@ module.exports = {
         "art-basel-headline-0"
       ]
     },
-    "art-basel-text-1": {
+    "artBaselText1": {
       "value": "400",
       "type": "fontWeights",
       "filePath": "src/global.json",
@@ -2881,7 +2881,7 @@ module.exports = {
         "value": "Regular",
         "type": "fontWeights"
       },
-      "name": "mch_font_weights_art_basel_text_1",
+      "name": "mchFontWeightsArtBaselText1",
       "attributes": {
         "category": "fontWeights",
         "type": "art-basel-text-1"
@@ -2891,7 +2891,7 @@ module.exports = {
         "art-basel-text-1"
       ]
     },
-    "art-basel-text-2": {
+    "artBaselText2": {
       "value": "700",
       "type": "fontWeights",
       "filePath": "src/global.json",
@@ -2900,7 +2900,7 @@ module.exports = {
         "value": "Bold",
         "type": "fontWeights"
       },
-      "name": "mch_font_weights_art_basel_text_2",
+      "name": "mchFontWeightsArtBaselText2",
       "attributes": {
         "category": "fontWeights",
         "type": "art-basel-text-2"
@@ -2910,7 +2910,7 @@ module.exports = {
         "art-basel-text-2"
       ]
     },
-    "ivar-display-3": {
+    "ivarDisplay3": {
       "value": "600",
       "type": "fontWeights",
       "filePath": "src/global.json",
@@ -2919,7 +2919,7 @@ module.exports = {
         "value": "SemiBold",
         "type": "fontWeights"
       },
-      "name": "mch_font_weights_ivar_display_3",
+      "name": "mchFontWeightsIvarDisplay3",
       "attributes": {
         "category": "fontWeights",
         "type": "ivar-display-3"
@@ -2929,7 +2929,7 @@ module.exports = {
         "ivar-display-3"
       ]
     },
-    "ivar-display-4": {
+    "ivarDisplay4": {
       "value": "400",
       "type": "fontWeights",
       "filePath": "src/global.json",
@@ -2938,7 +2938,7 @@ module.exports = {
         "value": "Regular",
         "type": "fontWeights"
       },
-      "name": "mch_font_weights_ivar_display_4",
+      "name": "mchFontWeightsIvarDisplay4",
       "attributes": {
         "category": "fontWeights",
         "type": "ivar-display-4"
@@ -2959,7 +2959,7 @@ module.exports = {
         "value": "12",
         "type": "fontSizes"
       },
-      "name": "mch_font_size_0",
+      "name": "mchFontSize0",
       "attributes": {
         "category": "fontSize",
         "type": "0"
@@ -2978,7 +2978,7 @@ module.exports = {
         "value": "14",
         "type": "fontSizes"
       },
-      "name": "mch_font_size_1",
+      "name": "mchFontSize1",
       "attributes": {
         "category": "fontSize",
         "type": "1"
@@ -2997,7 +2997,7 @@ module.exports = {
         "value": "16",
         "type": "fontSizes"
       },
-      "name": "mch_font_size_2",
+      "name": "mchFontSize2",
       "attributes": {
         "category": "fontSize",
         "type": "2"
@@ -3016,7 +3016,7 @@ module.exports = {
         "value": "18",
         "type": "fontSizes"
       },
-      "name": "mch_font_size_3",
+      "name": "mchFontSize3",
       "attributes": {
         "category": "fontSize",
         "type": "3"
@@ -3035,7 +3035,7 @@ module.exports = {
         "value": "20",
         "type": "fontSizes"
       },
-      "name": "mch_font_size_4",
+      "name": "mchFontSize4",
       "attributes": {
         "category": "fontSize",
         "type": "4"
@@ -3054,7 +3054,7 @@ module.exports = {
         "value": "24",
         "type": "fontSizes"
       },
-      "name": "mch_font_size_5",
+      "name": "mchFontSize5",
       "attributes": {
         "category": "fontSize",
         "type": "5"
@@ -3073,7 +3073,7 @@ module.exports = {
         "value": "26",
         "type": "fontSizes"
       },
-      "name": "mch_font_size_6",
+      "name": "mchFontSize6",
       "attributes": {
         "category": "fontSize",
         "type": "6"
@@ -3092,7 +3092,7 @@ module.exports = {
         "value": "30",
         "type": "fontSizes"
       },
-      "name": "mch_font_size_7",
+      "name": "mchFontSize7",
       "attributes": {
         "category": "fontSize",
         "type": "7"
@@ -3111,7 +3111,7 @@ module.exports = {
         "value": "32",
         "type": "fontSizes"
       },
-      "name": "mch_font_size_8",
+      "name": "mchFontSize8",
       "attributes": {
         "category": "fontSize",
         "type": "8"
@@ -3130,7 +3130,7 @@ module.exports = {
         "value": "34",
         "type": "fontSizes"
       },
-      "name": "mch_font_size_9",
+      "name": "mchFontSize9",
       "attributes": {
         "category": "fontSize",
         "type": "9"
@@ -3149,7 +3149,7 @@ module.exports = {
         "value": "36",
         "type": "fontSizes"
       },
-      "name": "mch_font_size_10",
+      "name": "mchFontSize10",
       "attributes": {
         "category": "fontSize",
         "type": "10"
@@ -3168,7 +3168,7 @@ module.exports = {
         "value": "38",
         "type": "fontSizes"
       },
-      "name": "mch_font_size_11",
+      "name": "mchFontSize11",
       "attributes": {
         "category": "fontSize",
         "type": "11"
@@ -3187,7 +3187,7 @@ module.exports = {
         "value": "40",
         "type": "fontSizes"
       },
-      "name": "mch_font_size_12",
+      "name": "mchFontSize12",
       "attributes": {
         "category": "fontSize",
         "type": "12"
@@ -3206,7 +3206,7 @@ module.exports = {
         "value": "42",
         "type": "fontSizes"
       },
-      "name": "mch_font_size_13",
+      "name": "mchFontSize13",
       "attributes": {
         "category": "fontSize",
         "type": "13"
@@ -3225,7 +3225,7 @@ module.exports = {
         "value": "48",
         "type": "fontSizes"
       },
-      "name": "mch_font_size_14",
+      "name": "mchFontSize14",
       "attributes": {
         "category": "fontSize",
         "type": "14"
@@ -3246,7 +3246,7 @@ module.exports = {
         "value": "0",
         "type": "letterSpacing"
       },
-      "name": "mch_letter_spacing_0",
+      "name": "mchLetterSpacing0",
       "attributes": {
         "category": "letterSpacing",
         "type": "0"
@@ -3265,7 +3265,7 @@ module.exports = {
         "value": "0%",
         "type": "letterSpacing"
       },
-      "name": "mch_letter_spacing_1",
+      "name": "mchLetterSpacing1",
       "attributes": {
         "category": "letterSpacing",
         "type": "1"
@@ -3284,7 +3284,7 @@ module.exports = {
         "value": "4",
         "type": "letterSpacing"
       },
-      "name": "mch_letter_spacing_2",
+      "name": "mchLetterSpacing2",
       "attributes": {
         "category": "letterSpacing",
         "type": "2"
@@ -3303,7 +3303,7 @@ module.exports = {
         "value": "1",
         "type": "letterSpacing"
       },
-      "name": "mch_letter_spacing_3",
+      "name": "mchLetterSpacing3",
       "attributes": {
         "category": "letterSpacing",
         "type": "3"
@@ -3322,7 +3322,7 @@ module.exports = {
         "value": "0.3",
         "type": "letterSpacing"
       },
-      "name": "mch_letter_spacing_4",
+      "name": "mchLetterSpacing4",
       "attributes": {
         "category": "letterSpacing",
         "type": "4"
@@ -3341,7 +3341,7 @@ module.exports = {
         "value": "0.5%",
         "type": "letterSpacing"
       },
-      "name": "mch_letter_spacing_5",
+      "name": "mchLetterSpacing5",
       "attributes": {
         "category": "letterSpacing",
         "type": "5"
@@ -3362,7 +3362,7 @@ module.exports = {
         "value": "0",
         "type": "paragraphSpacing"
       },
-      "name": "mch_paragraph_spacing_0",
+      "name": "mchParagraphSpacing0",
       "attributes": {
         "category": "paragraphSpacing",
         "type": "0"
@@ -3381,7 +3381,7 @@ module.exports = {
         "value": "4",
         "type": "paragraphSpacing"
       },
-      "name": "mch_paragraph_spacing_1",
+      "name": "mchParagraphSpacing1",
       "attributes": {
         "category": "paragraphSpacing",
         "type": "1"
@@ -3392,10 +3392,10 @@ module.exports = {
       ]
     }
   },
-  "Typography": {
-    "Headings": {
-      "XS-SM": {
-        "H1": {
+  "typography": {
+    "headings": {
+      "xsSm": {
+        "h1": {
           "fontFamily": {
             "value": "Art Basel Headline",
             "type": "fontFamilies",
@@ -3405,7 +3405,7 @@ module.exports = {
               "value": "{fontFamilies.art-basel-headline}",
               "type": "fontFamilies"
             },
-            "name": "mch_typography_headings_xs_sm_h1_font_family",
+            "name": "mchTypographyHeadingsXsSmH1FontFamily",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -3430,7 +3430,7 @@ module.exports = {
               "value": "{fontWeights.art-basel-headline-0}",
               "type": "fontWeights"
             },
-            "name": "mch_typography_headings_xs_sm_h1_font_weight",
+            "name": "mchTypographyHeadingsXsSmH1FontWeight",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -3455,7 +3455,7 @@ module.exports = {
               "value": "{lineHeights.0}",
               "type": "lineHeights"
             },
-            "name": "mch_typography_headings_xs_sm_h1_line_height",
+            "name": "mchTypographyHeadingsXsSmH1LineHeight",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -3480,7 +3480,7 @@ module.exports = {
               "value": "{fontSize.7}",
               "type": "fontSizes"
             },
-            "name": "mch_typography_headings_xs_sm_h1_font_size",
+            "name": "mchTypographyHeadingsXsSmH1FontSize",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -3505,7 +3505,7 @@ module.exports = {
               "value": "{letterSpacing.0}",
               "type": "letterSpacing"
             },
-            "name": "mch_typography_headings_xs_sm_h1_letter_spacing",
+            "name": "mchTypographyHeadingsXsSmH1LetterSpacing",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -3530,7 +3530,7 @@ module.exports = {
               "value": "{paragraphSpacing.0}",
               "type": "paragraphSpacing"
             },
-            "name": "mch_typography_headings_xs_sm_h1_paragraph_spacing",
+            "name": "mchTypographyHeadingsXsSmH1ParagraphSpacing",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -3555,7 +3555,7 @@ module.exports = {
               "value": "{paragraphIndent.0}",
               "type": "paragraphIndent"
             },
-            "name": "mch_typography_headings_xs_sm_h1_paragraph_indent",
+            "name": "mchTypographyHeadingsXsSmH1ParagraphIndent",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -3580,7 +3580,7 @@ module.exports = {
               "value": "{textCase.none}",
               "type": "textCase"
             },
-            "name": "mch_typography_headings_xs_sm_h1_text_case",
+            "name": "mchTypographyHeadingsXsSmH1TextCase",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -3605,7 +3605,7 @@ module.exports = {
               "value": "{textDecoration.none}",
               "type": "textDecoration"
             },
-            "name": "mch_typography_headings_xs_sm_h1_text_decoration",
+            "name": "mchTypographyHeadingsXsSmH1TextDecoration",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -3622,7 +3622,7 @@ module.exports = {
             ]
           }
         },
-        "H2": {
+        "h2": {
           "fontFamily": {
             "value": "Art Basel Headline",
             "type": "fontFamilies",
@@ -3632,7 +3632,7 @@ module.exports = {
               "value": "{fontFamilies.art-basel-headline}",
               "type": "fontFamilies"
             },
-            "name": "mch_typography_headings_xs_sm_h2_font_family",
+            "name": "mchTypographyHeadingsXsSmH2FontFamily",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -3657,7 +3657,7 @@ module.exports = {
               "value": "{fontWeights.art-basel-headline-0}",
               "type": "fontWeights"
             },
-            "name": "mch_typography_headings_xs_sm_h2_font_weight",
+            "name": "mchTypographyHeadingsXsSmH2FontWeight",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -3682,7 +3682,7 @@ module.exports = {
               "value": "{lineHeights.1}",
               "type": "lineHeights"
             },
-            "name": "mch_typography_headings_xs_sm_h2_line_height",
+            "name": "mchTypographyHeadingsXsSmH2LineHeight",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -3707,7 +3707,7 @@ module.exports = {
               "value": "{fontSize.6}",
               "type": "fontSizes"
             },
-            "name": "mch_typography_headings_xs_sm_h2_font_size",
+            "name": "mchTypographyHeadingsXsSmH2FontSize",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -3732,7 +3732,7 @@ module.exports = {
               "value": "{letterSpacing.0}",
               "type": "letterSpacing"
             },
-            "name": "mch_typography_headings_xs_sm_h2_letter_spacing",
+            "name": "mchTypographyHeadingsXsSmH2LetterSpacing",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -3757,7 +3757,7 @@ module.exports = {
               "value": "{paragraphSpacing.0}",
               "type": "paragraphSpacing"
             },
-            "name": "mch_typography_headings_xs_sm_h2_paragraph_spacing",
+            "name": "mchTypographyHeadingsXsSmH2ParagraphSpacing",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -3782,7 +3782,7 @@ module.exports = {
               "value": "{paragraphIndent.0}",
               "type": "paragraphIndent"
             },
-            "name": "mch_typography_headings_xs_sm_h2_paragraph_indent",
+            "name": "mchTypographyHeadingsXsSmH2ParagraphIndent",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -3807,7 +3807,7 @@ module.exports = {
               "value": "{textCase.none}",
               "type": "textCase"
             },
-            "name": "mch_typography_headings_xs_sm_h2_text_case",
+            "name": "mchTypographyHeadingsXsSmH2TextCase",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -3832,7 +3832,7 @@ module.exports = {
               "value": "{textDecoration.none}",
               "type": "textDecoration"
             },
-            "name": "mch_typography_headings_xs_sm_h2_text_decoration",
+            "name": "mchTypographyHeadingsXsSmH2TextDecoration",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -3849,7 +3849,7 @@ module.exports = {
             ]
           }
         },
-        "H3": {
+        "h3": {
           "fontFamily": {
             "value": "Art Basel Headline",
             "type": "fontFamilies",
@@ -3859,7 +3859,7 @@ module.exports = {
               "value": "{fontFamilies.art-basel-headline}",
               "type": "fontFamilies"
             },
-            "name": "mch_typography_headings_xs_sm_h3_font_family",
+            "name": "mchTypographyHeadingsXsSmH3FontFamily",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -3884,7 +3884,7 @@ module.exports = {
               "value": "{fontWeights.art-basel-headline-0}",
               "type": "fontWeights"
             },
-            "name": "mch_typography_headings_xs_sm_h3_font_weight",
+            "name": "mchTypographyHeadingsXsSmH3FontWeight",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -3909,7 +3909,7 @@ module.exports = {
               "value": "{lineHeights.2}",
               "type": "lineHeights"
             },
-            "name": "mch_typography_headings_xs_sm_h3_line_height",
+            "name": "mchTypographyHeadingsXsSmH3LineHeight",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -3934,7 +3934,7 @@ module.exports = {
               "value": "{fontSize.5}",
               "type": "fontSizes"
             },
-            "name": "mch_typography_headings_xs_sm_h3_font_size",
+            "name": "mchTypographyHeadingsXsSmH3FontSize",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -3959,7 +3959,7 @@ module.exports = {
               "value": "{letterSpacing.0}",
               "type": "letterSpacing"
             },
-            "name": "mch_typography_headings_xs_sm_h3_letter_spacing",
+            "name": "mchTypographyHeadingsXsSmH3LetterSpacing",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -3984,7 +3984,7 @@ module.exports = {
               "value": "{paragraphSpacing.0}",
               "type": "paragraphSpacing"
             },
-            "name": "mch_typography_headings_xs_sm_h3_paragraph_spacing",
+            "name": "mchTypographyHeadingsXsSmH3ParagraphSpacing",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -4009,7 +4009,7 @@ module.exports = {
               "value": "{paragraphIndent.0}",
               "type": "paragraphIndent"
             },
-            "name": "mch_typography_headings_xs_sm_h3_paragraph_indent",
+            "name": "mchTypographyHeadingsXsSmH3ParagraphIndent",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -4034,7 +4034,7 @@ module.exports = {
               "value": "{textCase.none}",
               "type": "textCase"
             },
-            "name": "mch_typography_headings_xs_sm_h3_text_case",
+            "name": "mchTypographyHeadingsXsSmH3TextCase",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -4059,7 +4059,7 @@ module.exports = {
               "value": "{textDecoration.none}",
               "type": "textDecoration"
             },
-            "name": "mch_typography_headings_xs_sm_h3_text_decoration",
+            "name": "mchTypographyHeadingsXsSmH3TextDecoration",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -4076,7 +4076,7 @@ module.exports = {
             ]
           }
         },
-        "H4": {
+        "h4": {
           "fontFamily": {
             "value": "Art Basel Headline",
             "type": "fontFamilies",
@@ -4086,7 +4086,7 @@ module.exports = {
               "value": "{fontFamilies.art-basel-headline}",
               "type": "fontFamilies"
             },
-            "name": "mch_typography_headings_xs_sm_h4_font_family",
+            "name": "mchTypographyHeadingsXsSmH4FontFamily",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -4111,7 +4111,7 @@ module.exports = {
               "value": "{fontWeights.art-basel-headline-0}",
               "type": "fontWeights"
             },
-            "name": "mch_typography_headings_xs_sm_h4_font_weight",
+            "name": "mchTypographyHeadingsXsSmH4FontWeight",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -4136,7 +4136,7 @@ module.exports = {
               "value": "{lineHeights.3}",
               "type": "lineHeights"
             },
-            "name": "mch_typography_headings_xs_sm_h4_line_height",
+            "name": "mchTypographyHeadingsXsSmH4LineHeight",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -4161,7 +4161,7 @@ module.exports = {
               "value": "{fontSize.4}",
               "type": "fontSizes"
             },
-            "name": "mch_typography_headings_xs_sm_h4_font_size",
+            "name": "mchTypographyHeadingsXsSmH4FontSize",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -4186,7 +4186,7 @@ module.exports = {
               "value": "{letterSpacing.0}",
               "type": "letterSpacing"
             },
-            "name": "mch_typography_headings_xs_sm_h4_letter_spacing",
+            "name": "mchTypographyHeadingsXsSmH4LetterSpacing",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -4211,7 +4211,7 @@ module.exports = {
               "value": "{paragraphSpacing.0}",
               "type": "paragraphSpacing"
             },
-            "name": "mch_typography_headings_xs_sm_h4_paragraph_spacing",
+            "name": "mchTypographyHeadingsXsSmH4ParagraphSpacing",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -4236,7 +4236,7 @@ module.exports = {
               "value": "{paragraphIndent.0}",
               "type": "paragraphIndent"
             },
-            "name": "mch_typography_headings_xs_sm_h4_paragraph_indent",
+            "name": "mchTypographyHeadingsXsSmH4ParagraphIndent",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -4261,7 +4261,7 @@ module.exports = {
               "value": "{textCase.none}",
               "type": "textCase"
             },
-            "name": "mch_typography_headings_xs_sm_h4_text_case",
+            "name": "mchTypographyHeadingsXsSmH4TextCase",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -4286,7 +4286,7 @@ module.exports = {
               "value": "{textDecoration.none}",
               "type": "textDecoration"
             },
-            "name": "mch_typography_headings_xs_sm_h4_text_decoration",
+            "name": "mchTypographyHeadingsXsSmH4TextDecoration",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -4303,7 +4303,7 @@ module.exports = {
             ]
           }
         },
-        "H5": {
+        "h5": {
           "fontFamily": {
             "value": "Art Basel Headline",
             "type": "fontFamilies",
@@ -4313,7 +4313,7 @@ module.exports = {
               "value": "{fontFamilies.art-basel-headline}",
               "type": "fontFamilies"
             },
-            "name": "mch_typography_headings_xs_sm_h5_font_family",
+            "name": "mchTypographyHeadingsXsSmH5FontFamily",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -4338,7 +4338,7 @@ module.exports = {
               "value": "{fontWeights.art-basel-headline-0}",
               "type": "fontWeights"
             },
-            "name": "mch_typography_headings_xs_sm_h5_font_weight",
+            "name": "mchTypographyHeadingsXsSmH5FontWeight",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -4363,7 +4363,7 @@ module.exports = {
               "value": "{lineHeights.4}",
               "type": "lineHeights"
             },
-            "name": "mch_typography_headings_xs_sm_h5_line_height",
+            "name": "mchTypographyHeadingsXsSmH5LineHeight",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -4388,7 +4388,7 @@ module.exports = {
               "value": "{fontSize.3}",
               "type": "fontSizes"
             },
-            "name": "mch_typography_headings_xs_sm_h5_font_size",
+            "name": "mchTypographyHeadingsXsSmH5FontSize",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -4413,7 +4413,7 @@ module.exports = {
               "value": "{letterSpacing.0}",
               "type": "letterSpacing"
             },
-            "name": "mch_typography_headings_xs_sm_h5_letter_spacing",
+            "name": "mchTypographyHeadingsXsSmH5LetterSpacing",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -4438,7 +4438,7 @@ module.exports = {
               "value": "{paragraphSpacing.0}",
               "type": "paragraphSpacing"
             },
-            "name": "mch_typography_headings_xs_sm_h5_paragraph_spacing",
+            "name": "mchTypographyHeadingsXsSmH5ParagraphSpacing",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -4463,7 +4463,7 @@ module.exports = {
               "value": "{paragraphIndent.0}",
               "type": "paragraphIndent"
             },
-            "name": "mch_typography_headings_xs_sm_h5_paragraph_indent",
+            "name": "mchTypographyHeadingsXsSmH5ParagraphIndent",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -4488,7 +4488,7 @@ module.exports = {
               "value": "{textCase.none}",
               "type": "textCase"
             },
-            "name": "mch_typography_headings_xs_sm_h5_text_case",
+            "name": "mchTypographyHeadingsXsSmH5TextCase",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -4513,7 +4513,7 @@ module.exports = {
               "value": "{textDecoration.none}",
               "type": "textDecoration"
             },
-            "name": "mch_typography_headings_xs_sm_h5_text_decoration",
+            "name": "mchTypographyHeadingsXsSmH5TextDecoration",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -4531,8 +4531,8 @@ module.exports = {
           }
         }
       },
-      "XL": {
-        "H1": {
+      "xl": {
+        "h1": {
           "fontFamily": {
             "value": "Art Basel Headline",
             "type": "fontFamilies",
@@ -4542,7 +4542,7 @@ module.exports = {
               "value": "{fontFamilies.art-basel-headline}",
               "type": "fontFamilies"
             },
-            "name": "mch_typography_headings_xl_h1_font_family",
+            "name": "mchTypographyHeadingsXlH1FontFamily",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -4567,7 +4567,7 @@ module.exports = {
               "value": "{fontWeights.art-basel-headline-0}",
               "type": "fontWeights"
             },
-            "name": "mch_typography_headings_xl_h1_font_weight",
+            "name": "mchTypographyHeadingsXlH1FontWeight",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -4592,7 +4592,7 @@ module.exports = {
               "value": "{lineHeights.5}",
               "type": "lineHeights"
             },
-            "name": "mch_typography_headings_xl_h1_line_height",
+            "name": "mchTypographyHeadingsXlH1LineHeight",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -4617,7 +4617,7 @@ module.exports = {
               "value": "{fontSize.13}",
               "type": "fontSizes"
             },
-            "name": "mch_typography_headings_xl_h1_font_size",
+            "name": "mchTypographyHeadingsXlH1FontSize",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -4642,7 +4642,7 @@ module.exports = {
               "value": "{letterSpacing.0}",
               "type": "letterSpacing"
             },
-            "name": "mch_typography_headings_xl_h1_letter_spacing",
+            "name": "mchTypographyHeadingsXlH1LetterSpacing",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -4667,7 +4667,7 @@ module.exports = {
               "value": "{paragraphSpacing.0}",
               "type": "paragraphSpacing"
             },
-            "name": "mch_typography_headings_xl_h1_paragraph_spacing",
+            "name": "mchTypographyHeadingsXlH1ParagraphSpacing",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -4692,7 +4692,7 @@ module.exports = {
               "value": "{paragraphIndent.0}",
               "type": "paragraphIndent"
             },
-            "name": "mch_typography_headings_xl_h1_paragraph_indent",
+            "name": "mchTypographyHeadingsXlH1ParagraphIndent",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -4717,7 +4717,7 @@ module.exports = {
               "value": "{textCase.none}",
               "type": "textCase"
             },
-            "name": "mch_typography_headings_xl_h1_text_case",
+            "name": "mchTypographyHeadingsXlH1TextCase",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -4742,7 +4742,7 @@ module.exports = {
               "value": "{textDecoration.none}",
               "type": "textDecoration"
             },
-            "name": "mch_typography_headings_xl_h1_text_decoration",
+            "name": "mchTypographyHeadingsXlH1TextDecoration",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -4759,7 +4759,7 @@ module.exports = {
             ]
           }
         },
-        "H2": {
+        "h2": {
           "fontFamily": {
             "value": "Art Basel Headline",
             "type": "fontFamilies",
@@ -4769,7 +4769,7 @@ module.exports = {
               "value": "{fontFamilies.art-basel-headline}",
               "type": "fontFamilies"
             },
-            "name": "mch_typography_headings_xl_h2_font_family",
+            "name": "mchTypographyHeadingsXlH2FontFamily",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -4794,7 +4794,7 @@ module.exports = {
               "value": "{fontWeights.art-basel-headline-0}",
               "type": "fontWeights"
             },
-            "name": "mch_typography_headings_xl_h2_font_weight",
+            "name": "mchTypographyHeadingsXlH2FontWeight",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -4819,7 +4819,7 @@ module.exports = {
               "value": "{lineHeights.6}",
               "type": "lineHeights"
             },
-            "name": "mch_typography_headings_xl_h2_line_height",
+            "name": "mchTypographyHeadingsXlH2LineHeight",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -4844,7 +4844,7 @@ module.exports = {
               "value": "{fontSize.10}",
               "type": "fontSizes"
             },
-            "name": "mch_typography_headings_xl_h2_font_size",
+            "name": "mchTypographyHeadingsXlH2FontSize",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -4869,7 +4869,7 @@ module.exports = {
               "value": "{letterSpacing.0}",
               "type": "letterSpacing"
             },
-            "name": "mch_typography_headings_xl_h2_letter_spacing",
+            "name": "mchTypographyHeadingsXlH2LetterSpacing",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -4894,7 +4894,7 @@ module.exports = {
               "value": "{paragraphSpacing.0}",
               "type": "paragraphSpacing"
             },
-            "name": "mch_typography_headings_xl_h2_paragraph_spacing",
+            "name": "mchTypographyHeadingsXlH2ParagraphSpacing",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -4919,7 +4919,7 @@ module.exports = {
               "value": "{paragraphIndent.0}",
               "type": "paragraphIndent"
             },
-            "name": "mch_typography_headings_xl_h2_paragraph_indent",
+            "name": "mchTypographyHeadingsXlH2ParagraphIndent",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -4944,7 +4944,7 @@ module.exports = {
               "value": "{textCase.none}",
               "type": "textCase"
             },
-            "name": "mch_typography_headings_xl_h2_text_case",
+            "name": "mchTypographyHeadingsXlH2TextCase",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -4969,7 +4969,7 @@ module.exports = {
               "value": "{textDecoration.none}",
               "type": "textDecoration"
             },
-            "name": "mch_typography_headings_xl_h2_text_decoration",
+            "name": "mchTypographyHeadingsXlH2TextDecoration",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -4986,7 +4986,7 @@ module.exports = {
             ]
           }
         },
-        "H3": {
+        "h3": {
           "fontFamily": {
             "value": "Art Basel Headline",
             "type": "fontFamilies",
@@ -4996,7 +4996,7 @@ module.exports = {
               "value": "{fontFamilies.art-basel-headline}",
               "type": "fontFamilies"
             },
-            "name": "mch_typography_headings_xl_h3_font_family",
+            "name": "mchTypographyHeadingsXlH3FontFamily",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -5021,7 +5021,7 @@ module.exports = {
               "value": "{fontWeights.art-basel-headline-0}",
               "type": "fontWeights"
             },
-            "name": "mch_typography_headings_xl_h3_font_weight",
+            "name": "mchTypographyHeadingsXlH3FontWeight",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -5046,7 +5046,7 @@ module.exports = {
               "value": "{lineHeights.7}",
               "type": "lineHeights"
             },
-            "name": "mch_typography_headings_xl_h3_line_height",
+            "name": "mchTypographyHeadingsXlH3LineHeight",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -5071,7 +5071,7 @@ module.exports = {
               "value": "{fontSize.7}",
               "type": "fontSizes"
             },
-            "name": "mch_typography_headings_xl_h3_font_size",
+            "name": "mchTypographyHeadingsXlH3FontSize",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -5096,7 +5096,7 @@ module.exports = {
               "value": "{letterSpacing.0}",
               "type": "letterSpacing"
             },
-            "name": "mch_typography_headings_xl_h3_letter_spacing",
+            "name": "mchTypographyHeadingsXlH3LetterSpacing",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -5121,7 +5121,7 @@ module.exports = {
               "value": "{paragraphSpacing.0}",
               "type": "paragraphSpacing"
             },
-            "name": "mch_typography_headings_xl_h3_paragraph_spacing",
+            "name": "mchTypographyHeadingsXlH3ParagraphSpacing",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -5146,7 +5146,7 @@ module.exports = {
               "value": "{paragraphIndent.0}",
               "type": "paragraphIndent"
             },
-            "name": "mch_typography_headings_xl_h3_paragraph_indent",
+            "name": "mchTypographyHeadingsXlH3ParagraphIndent",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -5171,7 +5171,7 @@ module.exports = {
               "value": "{textCase.none}",
               "type": "textCase"
             },
-            "name": "mch_typography_headings_xl_h3_text_case",
+            "name": "mchTypographyHeadingsXlH3TextCase",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -5196,7 +5196,7 @@ module.exports = {
               "value": "{textDecoration.none}",
               "type": "textDecoration"
             },
-            "name": "mch_typography_headings_xl_h3_text_decoration",
+            "name": "mchTypographyHeadingsXlH3TextDecoration",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -5213,7 +5213,7 @@ module.exports = {
             ]
           }
         },
-        "H4": {
+        "h4": {
           "fontFamily": {
             "value": "Art Basel Headline",
             "type": "fontFamilies",
@@ -5223,7 +5223,7 @@ module.exports = {
               "value": "{fontFamilies.art-basel-headline}",
               "type": "fontFamilies"
             },
-            "name": "mch_typography_headings_xl_h4_font_family",
+            "name": "mchTypographyHeadingsXlH4FontFamily",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -5248,7 +5248,7 @@ module.exports = {
               "value": "{fontWeights.art-basel-headline-0}",
               "type": "fontWeights"
             },
-            "name": "mch_typography_headings_xl_h4_font_weight",
+            "name": "mchTypographyHeadingsXlH4FontWeight",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -5273,7 +5273,7 @@ module.exports = {
               "value": "{lineHeights.2}",
               "type": "lineHeights"
             },
-            "name": "mch_typography_headings_xl_h4_line_height",
+            "name": "mchTypographyHeadingsXlH4LineHeight",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -5298,7 +5298,7 @@ module.exports = {
               "value": "{fontSize.5}",
               "type": "fontSizes"
             },
-            "name": "mch_typography_headings_xl_h4_font_size",
+            "name": "mchTypographyHeadingsXlH4FontSize",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -5323,7 +5323,7 @@ module.exports = {
               "value": "{letterSpacing.0}",
               "type": "letterSpacing"
             },
-            "name": "mch_typography_headings_xl_h4_letter_spacing",
+            "name": "mchTypographyHeadingsXlH4LetterSpacing",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -5348,7 +5348,7 @@ module.exports = {
               "value": "{paragraphSpacing.0}",
               "type": "paragraphSpacing"
             },
-            "name": "mch_typography_headings_xl_h4_paragraph_spacing",
+            "name": "mchTypographyHeadingsXlH4ParagraphSpacing",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -5373,7 +5373,7 @@ module.exports = {
               "value": "{paragraphIndent.0}",
               "type": "paragraphIndent"
             },
-            "name": "mch_typography_headings_xl_h4_paragraph_indent",
+            "name": "mchTypographyHeadingsXlH4ParagraphIndent",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -5398,7 +5398,7 @@ module.exports = {
               "value": "{textCase.none}",
               "type": "textCase"
             },
-            "name": "mch_typography_headings_xl_h4_text_case",
+            "name": "mchTypographyHeadingsXlH4TextCase",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -5423,7 +5423,7 @@ module.exports = {
               "value": "{textDecoration.none}",
               "type": "textDecoration"
             },
-            "name": "mch_typography_headings_xl_h4_text_decoration",
+            "name": "mchTypographyHeadingsXlH4TextDecoration",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -5440,7 +5440,7 @@ module.exports = {
             ]
           }
         },
-        "H5": {
+        "h5": {
           "fontFamily": {
             "value": "Art Basel Headline",
             "type": "fontFamilies",
@@ -5450,7 +5450,7 @@ module.exports = {
               "value": "{fontFamilies.art-basel-headline}",
               "type": "fontFamilies"
             },
-            "name": "mch_typography_headings_xl_h5_font_family",
+            "name": "mchTypographyHeadingsXlH5FontFamily",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -5475,7 +5475,7 @@ module.exports = {
               "value": "{fontWeights.art-basel-headline-0}",
               "type": "fontWeights"
             },
-            "name": "mch_typography_headings_xl_h5_font_weight",
+            "name": "mchTypographyHeadingsXlH5FontWeight",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -5500,7 +5500,7 @@ module.exports = {
               "value": "{lineHeights.4}",
               "type": "lineHeights"
             },
-            "name": "mch_typography_headings_xl_h5_line_height",
+            "name": "mchTypographyHeadingsXlH5LineHeight",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -5525,7 +5525,7 @@ module.exports = {
               "value": "{fontSize.3}",
               "type": "fontSizes"
             },
-            "name": "mch_typography_headings_xl_h5_font_size",
+            "name": "mchTypographyHeadingsXlH5FontSize",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -5550,7 +5550,7 @@ module.exports = {
               "value": "{letterSpacing.0}",
               "type": "letterSpacing"
             },
-            "name": "mch_typography_headings_xl_h5_letter_spacing",
+            "name": "mchTypographyHeadingsXlH5LetterSpacing",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -5575,7 +5575,7 @@ module.exports = {
               "value": "{paragraphSpacing.0}",
               "type": "paragraphSpacing"
             },
-            "name": "mch_typography_headings_xl_h5_paragraph_spacing",
+            "name": "mchTypographyHeadingsXlH5ParagraphSpacing",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -5600,7 +5600,7 @@ module.exports = {
               "value": "{paragraphIndent.0}",
               "type": "paragraphIndent"
             },
-            "name": "mch_typography_headings_xl_h5_paragraph_indent",
+            "name": "mchTypographyHeadingsXlH5ParagraphIndent",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -5625,7 +5625,7 @@ module.exports = {
               "value": "{textCase.none}",
               "type": "textCase"
             },
-            "name": "mch_typography_headings_xl_h5_text_case",
+            "name": "mchTypographyHeadingsXlH5TextCase",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -5650,7 +5650,7 @@ module.exports = {
               "value": "{textDecoration.none}",
               "type": "textDecoration"
             },
-            "name": "mch_typography_headings_xl_h5_text_decoration",
+            "name": "mchTypographyHeadingsXlH5TextDecoration",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -5668,8 +5668,8 @@ module.exports = {
           }
         }
       },
-      "MD": {
-        "H1": {
+      "md": {
+        "h1": {
           "fontFamily": {
             "value": "Art Basel Headline",
             "type": "fontFamilies",
@@ -5679,7 +5679,7 @@ module.exports = {
               "value": "{fontFamilies.art-basel-headline}",
               "type": "fontFamilies"
             },
-            "name": "mch_typography_headings_md_h1_font_family",
+            "name": "mchTypographyHeadingsMdH1FontFamily",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -5704,7 +5704,7 @@ module.exports = {
               "value": "{fontWeights.art-basel-headline-0}",
               "type": "fontWeights"
             },
-            "name": "mch_typography_headings_md_h1_font_weight",
+            "name": "mchTypographyHeadingsMdH1FontWeight",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -5729,7 +5729,7 @@ module.exports = {
               "value": "{lineHeights.8}",
               "type": "lineHeights"
             },
-            "name": "mch_typography_headings_md_h1_line_height",
+            "name": "mchTypographyHeadingsMdH1LineHeight",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -5754,7 +5754,7 @@ module.exports = {
               "value": "{fontSize.10}",
               "type": "fontSizes"
             },
-            "name": "mch_typography_headings_md_h1_font_size",
+            "name": "mchTypographyHeadingsMdH1FontSize",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -5779,7 +5779,7 @@ module.exports = {
               "value": "{letterSpacing.1}",
               "type": "letterSpacing"
             },
-            "name": "mch_typography_headings_md_h1_letter_spacing",
+            "name": "mchTypographyHeadingsMdH1LetterSpacing",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -5804,7 +5804,7 @@ module.exports = {
               "value": "{paragraphSpacing.1}",
               "type": "paragraphSpacing"
             },
-            "name": "mch_typography_headings_md_h1_paragraph_spacing",
+            "name": "mchTypographyHeadingsMdH1ParagraphSpacing",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -5829,7 +5829,7 @@ module.exports = {
               "value": "{paragraphIndent.0}",
               "type": "paragraphIndent"
             },
-            "name": "mch_typography_headings_md_h1_paragraph_indent",
+            "name": "mchTypographyHeadingsMdH1ParagraphIndent",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -5854,7 +5854,7 @@ module.exports = {
               "value": "{textCase.none}",
               "type": "textCase"
             },
-            "name": "mch_typography_headings_md_h1_text_case",
+            "name": "mchTypographyHeadingsMdH1TextCase",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -5879,7 +5879,7 @@ module.exports = {
               "value": "{textDecoration.none}",
               "type": "textDecoration"
             },
-            "name": "mch_typography_headings_md_h1_text_decoration",
+            "name": "mchTypographyHeadingsMdH1TextDecoration",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -5896,7 +5896,7 @@ module.exports = {
             ]
           }
         },
-        "H2": {
+        "h2": {
           "fontFamily": {
             "value": "Art Basel Headline",
             "type": "fontFamilies",
@@ -5906,7 +5906,7 @@ module.exports = {
               "value": "{fontFamilies.art-basel-headline}",
               "type": "fontFamilies"
             },
-            "name": "mch_typography_headings_md_h2_font_family",
+            "name": "mchTypographyHeadingsMdH2FontFamily",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -5931,7 +5931,7 @@ module.exports = {
               "value": "{fontWeights.art-basel-headline-0}",
               "type": "fontWeights"
             },
-            "name": "mch_typography_headings_md_h2_font_weight",
+            "name": "mchTypographyHeadingsMdH2FontWeight",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -5956,7 +5956,7 @@ module.exports = {
               "value": "{lineHeights.0}",
               "type": "lineHeights"
             },
-            "name": "mch_typography_headings_md_h2_line_height",
+            "name": "mchTypographyHeadingsMdH2LineHeight",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -5981,7 +5981,7 @@ module.exports = {
               "value": "{fontSize.7}",
               "type": "fontSizes"
             },
-            "name": "mch_typography_headings_md_h2_font_size",
+            "name": "mchTypographyHeadingsMdH2FontSize",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -6006,7 +6006,7 @@ module.exports = {
               "value": "{letterSpacing.1}",
               "type": "letterSpacing"
             },
-            "name": "mch_typography_headings_md_h2_letter_spacing",
+            "name": "mchTypographyHeadingsMdH2LetterSpacing",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -6031,7 +6031,7 @@ module.exports = {
               "value": "{paragraphSpacing.1}",
               "type": "paragraphSpacing"
             },
-            "name": "mch_typography_headings_md_h2_paragraph_spacing",
+            "name": "mchTypographyHeadingsMdH2ParagraphSpacing",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -6056,7 +6056,7 @@ module.exports = {
               "value": "{paragraphIndent.0}",
               "type": "paragraphIndent"
             },
-            "name": "mch_typography_headings_md_h2_paragraph_indent",
+            "name": "mchTypographyHeadingsMdH2ParagraphIndent",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -6081,7 +6081,7 @@ module.exports = {
               "value": "{textCase.none}",
               "type": "textCase"
             },
-            "name": "mch_typography_headings_md_h2_text_case",
+            "name": "mchTypographyHeadingsMdH2TextCase",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -6106,7 +6106,7 @@ module.exports = {
               "value": "{textDecoration.none}",
               "type": "textDecoration"
             },
-            "name": "mch_typography_headings_md_h2_text_decoration",
+            "name": "mchTypographyHeadingsMdH2TextDecoration",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -6123,7 +6123,7 @@ module.exports = {
             ]
           }
         },
-        "H3": {
+        "h3": {
           "fontFamily": {
             "value": "Art Basel Headline",
             "type": "fontFamilies",
@@ -6133,7 +6133,7 @@ module.exports = {
               "value": "{fontFamilies.art-basel-headline}",
               "type": "fontFamilies"
             },
-            "name": "mch_typography_headings_md_h3_font_family",
+            "name": "mchTypographyHeadingsMdH3FontFamily",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -6158,7 +6158,7 @@ module.exports = {
               "value": "{fontWeights.art-basel-headline-0}",
               "type": "fontWeights"
             },
-            "name": "mch_typography_headings_md_h3_font_weight",
+            "name": "mchTypographyHeadingsMdH3FontWeight",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -6183,7 +6183,7 @@ module.exports = {
               "value": "{lineHeights.1}",
               "type": "lineHeights"
             },
-            "name": "mch_typography_headings_md_h3_line_height",
+            "name": "mchTypographyHeadingsMdH3LineHeight",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -6208,7 +6208,7 @@ module.exports = {
               "value": "{fontSize.6}",
               "type": "fontSizes"
             },
-            "name": "mch_typography_headings_md_h3_font_size",
+            "name": "mchTypographyHeadingsMdH3FontSize",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -6233,7 +6233,7 @@ module.exports = {
               "value": "{letterSpacing.1}",
               "type": "letterSpacing"
             },
-            "name": "mch_typography_headings_md_h3_letter_spacing",
+            "name": "mchTypographyHeadingsMdH3LetterSpacing",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -6258,7 +6258,7 @@ module.exports = {
               "value": "{paragraphSpacing.1}",
               "type": "paragraphSpacing"
             },
-            "name": "mch_typography_headings_md_h3_paragraph_spacing",
+            "name": "mchTypographyHeadingsMdH3ParagraphSpacing",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -6283,7 +6283,7 @@ module.exports = {
               "value": "{paragraphIndent.0}",
               "type": "paragraphIndent"
             },
-            "name": "mch_typography_headings_md_h3_paragraph_indent",
+            "name": "mchTypographyHeadingsMdH3ParagraphIndent",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -6308,7 +6308,7 @@ module.exports = {
               "value": "{textCase.none}",
               "type": "textCase"
             },
-            "name": "mch_typography_headings_md_h3_text_case",
+            "name": "mchTypographyHeadingsMdH3TextCase",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -6333,7 +6333,7 @@ module.exports = {
               "value": "{textDecoration.none}",
               "type": "textDecoration"
             },
-            "name": "mch_typography_headings_md_h3_text_decoration",
+            "name": "mchTypographyHeadingsMdH3TextDecoration",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -6350,7 +6350,7 @@ module.exports = {
             ]
           }
         },
-        "H4": {
+        "h4": {
           "fontFamily": {
             "value": "Art Basel Headline",
             "type": "fontFamilies",
@@ -6360,7 +6360,7 @@ module.exports = {
               "value": "{fontFamilies.art-basel-headline}",
               "type": "fontFamilies"
             },
-            "name": "mch_typography_headings_md_h4_font_family",
+            "name": "mchTypographyHeadingsMdH4FontFamily",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -6385,7 +6385,7 @@ module.exports = {
               "value": "{fontWeights.art-basel-headline-0}",
               "type": "fontWeights"
             },
-            "name": "mch_typography_headings_md_h4_font_weight",
+            "name": "mchTypographyHeadingsMdH4FontWeight",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -6410,7 +6410,7 @@ module.exports = {
               "value": "{lineHeights.2}",
               "type": "lineHeights"
             },
-            "name": "mch_typography_headings_md_h4_line_height",
+            "name": "mchTypographyHeadingsMdH4LineHeight",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -6435,7 +6435,7 @@ module.exports = {
               "value": "{fontSize.5}",
               "type": "fontSizes"
             },
-            "name": "mch_typography_headings_md_h4_font_size",
+            "name": "mchTypographyHeadingsMdH4FontSize",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -6460,7 +6460,7 @@ module.exports = {
               "value": "{letterSpacing.1}",
               "type": "letterSpacing"
             },
-            "name": "mch_typography_headings_md_h4_letter_spacing",
+            "name": "mchTypographyHeadingsMdH4LetterSpacing",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -6485,7 +6485,7 @@ module.exports = {
               "value": "{paragraphSpacing.1}",
               "type": "paragraphSpacing"
             },
-            "name": "mch_typography_headings_md_h4_paragraph_spacing",
+            "name": "mchTypographyHeadingsMdH4ParagraphSpacing",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -6510,7 +6510,7 @@ module.exports = {
               "value": "{paragraphIndent.0}",
               "type": "paragraphIndent"
             },
-            "name": "mch_typography_headings_md_h4_paragraph_indent",
+            "name": "mchTypographyHeadingsMdH4ParagraphIndent",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -6535,7 +6535,7 @@ module.exports = {
               "value": "{textCase.none}",
               "type": "textCase"
             },
-            "name": "mch_typography_headings_md_h4_text_case",
+            "name": "mchTypographyHeadingsMdH4TextCase",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -6560,7 +6560,7 @@ module.exports = {
               "value": "{textDecoration.none}",
               "type": "textDecoration"
             },
-            "name": "mch_typography_headings_md_h4_text_decoration",
+            "name": "mchTypographyHeadingsMdH4TextDecoration",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -6577,7 +6577,7 @@ module.exports = {
             ]
           }
         },
-        "H5": {
+        "h5": {
           "fontFamily": {
             "value": "Art Basel Headline",
             "type": "fontFamilies",
@@ -6587,7 +6587,7 @@ module.exports = {
               "value": "{fontFamilies.art-basel-headline}",
               "type": "fontFamilies"
             },
-            "name": "mch_typography_headings_md_h5_font_family",
+            "name": "mchTypographyHeadingsMdH5FontFamily",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -6612,7 +6612,7 @@ module.exports = {
               "value": "{fontWeights.art-basel-headline-0}",
               "type": "fontWeights"
             },
-            "name": "mch_typography_headings_md_h5_font_weight",
+            "name": "mchTypographyHeadingsMdH5FontWeight",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -6637,7 +6637,7 @@ module.exports = {
               "value": "{lineHeights.4}",
               "type": "lineHeights"
             },
-            "name": "mch_typography_headings_md_h5_line_height",
+            "name": "mchTypographyHeadingsMdH5LineHeight",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -6662,7 +6662,7 @@ module.exports = {
               "value": "{fontSize.3}",
               "type": "fontSizes"
             },
-            "name": "mch_typography_headings_md_h5_font_size",
+            "name": "mchTypographyHeadingsMdH5FontSize",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -6687,7 +6687,7 @@ module.exports = {
               "value": "{letterSpacing.1}",
               "type": "letterSpacing"
             },
-            "name": "mch_typography_headings_md_h5_letter_spacing",
+            "name": "mchTypographyHeadingsMdH5LetterSpacing",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -6712,7 +6712,7 @@ module.exports = {
               "value": "{paragraphSpacing.1}",
               "type": "paragraphSpacing"
             },
-            "name": "mch_typography_headings_md_h5_paragraph_spacing",
+            "name": "mchTypographyHeadingsMdH5ParagraphSpacing",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -6737,7 +6737,7 @@ module.exports = {
               "value": "{paragraphIndent.0}",
               "type": "paragraphIndent"
             },
-            "name": "mch_typography_headings_md_h5_paragraph_indent",
+            "name": "mchTypographyHeadingsMdH5ParagraphIndent",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -6762,7 +6762,7 @@ module.exports = {
               "value": "{textCase.none}",
               "type": "textCase"
             },
-            "name": "mch_typography_headings_md_h5_text_case",
+            "name": "mchTypographyHeadingsMdH5TextCase",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -6787,7 +6787,7 @@ module.exports = {
               "value": "{textDecoration.none}",
               "type": "textDecoration"
             },
-            "name": "mch_typography_headings_md_h5_text_decoration",
+            "name": "mchTypographyHeadingsMdH5TextDecoration",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -6805,8 +6805,8 @@ module.exports = {
           }
         }
       },
-      "LG": {
-        "H1": {
+      "lg": {
+        "h1": {
           "fontFamily": {
             "value": "Art Basel Headline",
             "type": "fontFamilies",
@@ -6816,7 +6816,7 @@ module.exports = {
               "value": "{fontFamilies.art-basel-headline}",
               "type": "fontFamilies"
             },
-            "name": "mch_typography_headings_lg_h1_font_family",
+            "name": "mchTypographyHeadingsLgH1FontFamily",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -6841,7 +6841,7 @@ module.exports = {
               "value": "{fontWeights.art-basel-headline-0}",
               "type": "fontWeights"
             },
-            "name": "mch_typography_headings_lg_h1_font_weight",
+            "name": "mchTypographyHeadingsLgH1FontWeight",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -6866,7 +6866,7 @@ module.exports = {
               "value": "{lineHeights.9}",
               "type": "lineHeights"
             },
-            "name": "mch_typography_headings_lg_h1_line_height",
+            "name": "mchTypographyHeadingsLgH1LineHeight",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -6891,7 +6891,7 @@ module.exports = {
               "value": "{fontSize.12}",
               "type": "fontSizes"
             },
-            "name": "mch_typography_headings_lg_h1_font_size",
+            "name": "mchTypographyHeadingsLgH1FontSize",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -6916,7 +6916,7 @@ module.exports = {
               "value": "{letterSpacing.1}",
               "type": "letterSpacing"
             },
-            "name": "mch_typography_headings_lg_h1_letter_spacing",
+            "name": "mchTypographyHeadingsLgH1LetterSpacing",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -6941,7 +6941,7 @@ module.exports = {
               "value": "{paragraphSpacing.1}",
               "type": "paragraphSpacing"
             },
-            "name": "mch_typography_headings_lg_h1_paragraph_spacing",
+            "name": "mchTypographyHeadingsLgH1ParagraphSpacing",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -6966,7 +6966,7 @@ module.exports = {
               "value": "{paragraphIndent.0}",
               "type": "paragraphIndent"
             },
-            "name": "mch_typography_headings_lg_h1_paragraph_indent",
+            "name": "mchTypographyHeadingsLgH1ParagraphIndent",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -6991,7 +6991,7 @@ module.exports = {
               "value": "{textCase.none}",
               "type": "textCase"
             },
-            "name": "mch_typography_headings_lg_h1_text_case",
+            "name": "mchTypographyHeadingsLgH1TextCase",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -7016,7 +7016,7 @@ module.exports = {
               "value": "{textDecoration.none}",
               "type": "textDecoration"
             },
-            "name": "mch_typography_headings_lg_h1_text_decoration",
+            "name": "mchTypographyHeadingsLgH1TextDecoration",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -7033,7 +7033,7 @@ module.exports = {
             ]
           }
         },
-        "H2": {
+        "h2": {
           "fontFamily": {
             "value": "Art Basel Headline",
             "type": "fontFamilies",
@@ -7043,7 +7043,7 @@ module.exports = {
               "value": "{fontFamilies.art-basel-headline}",
               "type": "fontFamilies"
             },
-            "name": "mch_typography_headings_lg_h2_font_family",
+            "name": "mchTypographyHeadingsLgH2FontFamily",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -7068,7 +7068,7 @@ module.exports = {
               "value": "{fontWeights.art-basel-headline-0}",
               "type": "fontWeights"
             },
-            "name": "mch_typography_headings_lg_h2_font_weight",
+            "name": "mchTypographyHeadingsLgH2FontWeight",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -7093,7 +7093,7 @@ module.exports = {
               "value": "{lineHeights.6}",
               "type": "lineHeights"
             },
-            "name": "mch_typography_headings_lg_h2_line_height",
+            "name": "mchTypographyHeadingsLgH2LineHeight",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -7118,7 +7118,7 @@ module.exports = {
               "value": "{fontSize.10}",
               "type": "fontSizes"
             },
-            "name": "mch_typography_headings_lg_h2_font_size",
+            "name": "mchTypographyHeadingsLgH2FontSize",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -7143,7 +7143,7 @@ module.exports = {
               "value": "{letterSpacing.1}",
               "type": "letterSpacing"
             },
-            "name": "mch_typography_headings_lg_h2_letter_spacing",
+            "name": "mchTypographyHeadingsLgH2LetterSpacing",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -7168,7 +7168,7 @@ module.exports = {
               "value": "{paragraphSpacing.1}",
               "type": "paragraphSpacing"
             },
-            "name": "mch_typography_headings_lg_h2_paragraph_spacing",
+            "name": "mchTypographyHeadingsLgH2ParagraphSpacing",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -7193,7 +7193,7 @@ module.exports = {
               "value": "{paragraphIndent.0}",
               "type": "paragraphIndent"
             },
-            "name": "mch_typography_headings_lg_h2_paragraph_indent",
+            "name": "mchTypographyHeadingsLgH2ParagraphIndent",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -7218,7 +7218,7 @@ module.exports = {
               "value": "{textCase.none}",
               "type": "textCase"
             },
-            "name": "mch_typography_headings_lg_h2_text_case",
+            "name": "mchTypographyHeadingsLgH2TextCase",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -7243,7 +7243,7 @@ module.exports = {
               "value": "{textDecoration.none}",
               "type": "textDecoration"
             },
-            "name": "mch_typography_headings_lg_h2_text_decoration",
+            "name": "mchTypographyHeadingsLgH2TextDecoration",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -7260,7 +7260,7 @@ module.exports = {
             ]
           }
         },
-        "H3": {
+        "h3": {
           "fontFamily": {
             "value": "Art Basel Headline",
             "type": "fontFamilies",
@@ -7270,7 +7270,7 @@ module.exports = {
               "value": "{fontFamilies.art-basel-headline}",
               "type": "fontFamilies"
             },
-            "name": "mch_typography_headings_lg_h3_font_family",
+            "name": "mchTypographyHeadingsLgH3FontFamily",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -7295,7 +7295,7 @@ module.exports = {
               "value": "{fontWeights.art-basel-headline-0}",
               "type": "fontWeights"
             },
-            "name": "mch_typography_headings_lg_h3_font_weight",
+            "name": "mchTypographyHeadingsLgH3FontWeight",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -7320,7 +7320,7 @@ module.exports = {
               "value": "{lineHeights.0}",
               "type": "lineHeights"
             },
-            "name": "mch_typography_headings_lg_h3_line_height",
+            "name": "mchTypographyHeadingsLgH3LineHeight",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -7345,7 +7345,7 @@ module.exports = {
               "value": "{fontSize.7}",
               "type": "fontSizes"
             },
-            "name": "mch_typography_headings_lg_h3_font_size",
+            "name": "mchTypographyHeadingsLgH3FontSize",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -7370,7 +7370,7 @@ module.exports = {
               "value": "{letterSpacing.1}",
               "type": "letterSpacing"
             },
-            "name": "mch_typography_headings_lg_h3_letter_spacing",
+            "name": "mchTypographyHeadingsLgH3LetterSpacing",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -7395,7 +7395,7 @@ module.exports = {
               "value": "{paragraphSpacing.1}",
               "type": "paragraphSpacing"
             },
-            "name": "mch_typography_headings_lg_h3_paragraph_spacing",
+            "name": "mchTypographyHeadingsLgH3ParagraphSpacing",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -7420,7 +7420,7 @@ module.exports = {
               "value": "{paragraphIndent.0}",
               "type": "paragraphIndent"
             },
-            "name": "mch_typography_headings_lg_h3_paragraph_indent",
+            "name": "mchTypographyHeadingsLgH3ParagraphIndent",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -7445,7 +7445,7 @@ module.exports = {
               "value": "{textCase.none}",
               "type": "textCase"
             },
-            "name": "mch_typography_headings_lg_h3_text_case",
+            "name": "mchTypographyHeadingsLgH3TextCase",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -7470,7 +7470,7 @@ module.exports = {
               "value": "{textDecoration.none}",
               "type": "textDecoration"
             },
-            "name": "mch_typography_headings_lg_h3_text_decoration",
+            "name": "mchTypographyHeadingsLgH3TextDecoration",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -7487,7 +7487,7 @@ module.exports = {
             ]
           }
         },
-        "H4": {
+        "h4": {
           "fontFamily": {
             "value": "Art Basel Headline",
             "type": "fontFamilies",
@@ -7497,7 +7497,7 @@ module.exports = {
               "value": "{fontFamilies.art-basel-headline}",
               "type": "fontFamilies"
             },
-            "name": "mch_typography_headings_lg_h4_font_family",
+            "name": "mchTypographyHeadingsLgH4FontFamily",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -7522,7 +7522,7 @@ module.exports = {
               "value": "{fontWeights.art-basel-headline-0}",
               "type": "fontWeights"
             },
-            "name": "mch_typography_headings_lg_h4_font_weight",
+            "name": "mchTypographyHeadingsLgH4FontWeight",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -7547,7 +7547,7 @@ module.exports = {
               "value": "{lineHeights.2}",
               "type": "lineHeights"
             },
-            "name": "mch_typography_headings_lg_h4_line_height",
+            "name": "mchTypographyHeadingsLgH4LineHeight",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -7572,7 +7572,7 @@ module.exports = {
               "value": "{fontSize.5}",
               "type": "fontSizes"
             },
-            "name": "mch_typography_headings_lg_h4_font_size",
+            "name": "mchTypographyHeadingsLgH4FontSize",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -7597,7 +7597,7 @@ module.exports = {
               "value": "{letterSpacing.1}",
               "type": "letterSpacing"
             },
-            "name": "mch_typography_headings_lg_h4_letter_spacing",
+            "name": "mchTypographyHeadingsLgH4LetterSpacing",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -7622,7 +7622,7 @@ module.exports = {
               "value": "{paragraphSpacing.1}",
               "type": "paragraphSpacing"
             },
-            "name": "mch_typography_headings_lg_h4_paragraph_spacing",
+            "name": "mchTypographyHeadingsLgH4ParagraphSpacing",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -7647,7 +7647,7 @@ module.exports = {
               "value": "{paragraphIndent.0}",
               "type": "paragraphIndent"
             },
-            "name": "mch_typography_headings_lg_h4_paragraph_indent",
+            "name": "mchTypographyHeadingsLgH4ParagraphIndent",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -7672,7 +7672,7 @@ module.exports = {
               "value": "{textCase.none}",
               "type": "textCase"
             },
-            "name": "mch_typography_headings_lg_h4_text_case",
+            "name": "mchTypographyHeadingsLgH4TextCase",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -7697,7 +7697,7 @@ module.exports = {
               "value": "{textDecoration.none}",
               "type": "textDecoration"
             },
-            "name": "mch_typography_headings_lg_h4_text_decoration",
+            "name": "mchTypographyHeadingsLgH4TextDecoration",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -7714,7 +7714,7 @@ module.exports = {
             ]
           }
         },
-        "H5": {
+        "h5": {
           "fontFamily": {
             "value": "Art Basel Headline",
             "type": "fontFamilies",
@@ -7724,7 +7724,7 @@ module.exports = {
               "value": "{fontFamilies.art-basel-headline}",
               "type": "fontFamilies"
             },
-            "name": "mch_typography_headings_lg_h5_font_family",
+            "name": "mchTypographyHeadingsLgH5FontFamily",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -7749,7 +7749,7 @@ module.exports = {
               "value": "{fontWeights.art-basel-headline-0}",
               "type": "fontWeights"
             },
-            "name": "mch_typography_headings_lg_h5_font_weight",
+            "name": "mchTypographyHeadingsLgH5FontWeight",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -7774,7 +7774,7 @@ module.exports = {
               "value": "{lineHeights.4}",
               "type": "lineHeights"
             },
-            "name": "mch_typography_headings_lg_h5_line_height",
+            "name": "mchTypographyHeadingsLgH5LineHeight",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -7799,7 +7799,7 @@ module.exports = {
               "value": "{fontSize.3}",
               "type": "fontSizes"
             },
-            "name": "mch_typography_headings_lg_h5_font_size",
+            "name": "mchTypographyHeadingsLgH5FontSize",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -7824,7 +7824,7 @@ module.exports = {
               "value": "{letterSpacing.1}",
               "type": "letterSpacing"
             },
-            "name": "mch_typography_headings_lg_h5_letter_spacing",
+            "name": "mchTypographyHeadingsLgH5LetterSpacing",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -7849,7 +7849,7 @@ module.exports = {
               "value": "{paragraphSpacing.1}",
               "type": "paragraphSpacing"
             },
-            "name": "mch_typography_headings_lg_h5_paragraph_spacing",
+            "name": "mchTypographyHeadingsLgH5ParagraphSpacing",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -7874,7 +7874,7 @@ module.exports = {
               "value": "{paragraphIndent.0}",
               "type": "paragraphIndent"
             },
-            "name": "mch_typography_headings_lg_h5_paragraph_indent",
+            "name": "mchTypographyHeadingsLgH5ParagraphIndent",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -7899,7 +7899,7 @@ module.exports = {
               "value": "{textCase.none}",
               "type": "textCase"
             },
-            "name": "mch_typography_headings_lg_h5_text_case",
+            "name": "mchTypographyHeadingsLgH5TextCase",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -7924,7 +7924,7 @@ module.exports = {
               "value": "{textDecoration.none}",
               "type": "textDecoration"
             },
-            "name": "mch_typography_headings_lg_h5_text_decoration",
+            "name": "mchTypographyHeadingsLgH5TextDecoration",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -7942,8 +7942,8 @@ module.exports = {
           }
         }
       },
-      "2XL": {
-        "H1": {
+      "2Xl": {
+        "h1": {
           "fontFamily": {
             "value": "Art Basel Headline",
             "type": "fontFamilies",
@@ -7953,7 +7953,7 @@ module.exports = {
               "value": "{fontFamilies.art-basel-headline}",
               "type": "fontFamilies"
             },
-            "name": "mch_typography_headings_2_xl_h1_font_family",
+            "name": "mchTypographyHeadings2XlH1FontFamily",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -7978,7 +7978,7 @@ module.exports = {
               "value": "{fontWeights.art-basel-headline-0}",
               "type": "fontWeights"
             },
-            "name": "mch_typography_headings_2_xl_h1_font_weight",
+            "name": "mchTypographyHeadings2XlH1FontWeight",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -8003,7 +8003,7 @@ module.exports = {
               "value": "{lineHeights.10}",
               "type": "lineHeights"
             },
-            "name": "mch_typography_headings_2_xl_h1_line_height",
+            "name": "mchTypographyHeadings2XlH1LineHeight",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -8028,7 +8028,7 @@ module.exports = {
               "value": "{fontSize.14}",
               "type": "fontSizes"
             },
-            "name": "mch_typography_headings_2_xl_h1_font_size",
+            "name": "mchTypographyHeadings2XlH1FontSize",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -8053,7 +8053,7 @@ module.exports = {
               "value": "{letterSpacing.0}",
               "type": "letterSpacing"
             },
-            "name": "mch_typography_headings_2_xl_h1_letter_spacing",
+            "name": "mchTypographyHeadings2XlH1LetterSpacing",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -8078,7 +8078,7 @@ module.exports = {
               "value": "{paragraphSpacing.0}",
               "type": "paragraphSpacing"
             },
-            "name": "mch_typography_headings_2_xl_h1_paragraph_spacing",
+            "name": "mchTypographyHeadings2XlH1ParagraphSpacing",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -8103,7 +8103,7 @@ module.exports = {
               "value": "{paragraphIndent.0}",
               "type": "paragraphIndent"
             },
-            "name": "mch_typography_headings_2_xl_h1_paragraph_indent",
+            "name": "mchTypographyHeadings2XlH1ParagraphIndent",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -8128,7 +8128,7 @@ module.exports = {
               "value": "{textCase.none}",
               "type": "textCase"
             },
-            "name": "mch_typography_headings_2_xl_h1_text_case",
+            "name": "mchTypographyHeadings2XlH1TextCase",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -8153,7 +8153,7 @@ module.exports = {
               "value": "{textDecoration.none}",
               "type": "textDecoration"
             },
-            "name": "mch_typography_headings_2_xl_h1_text_decoration",
+            "name": "mchTypographyHeadings2XlH1TextDecoration",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -8170,7 +8170,7 @@ module.exports = {
             ]
           }
         },
-        "H2": {
+        "h2": {
           "fontFamily": {
             "value": "Art Basel Headline",
             "type": "fontFamilies",
@@ -8180,7 +8180,7 @@ module.exports = {
               "value": "{fontFamilies.art-basel-headline}",
               "type": "fontFamilies"
             },
-            "name": "mch_typography_headings_2_xl_h2_font_family",
+            "name": "mchTypographyHeadings2XlH2FontFamily",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -8205,7 +8205,7 @@ module.exports = {
               "value": "{fontWeights.art-basel-headline-0}",
               "type": "fontWeights"
             },
-            "name": "mch_typography_headings_2_xl_h2_font_weight",
+            "name": "mchTypographyHeadings2XlH2FontWeight",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -8230,7 +8230,7 @@ module.exports = {
               "value": "{lineHeights.6}",
               "type": "lineHeights"
             },
-            "name": "mch_typography_headings_2_xl_h2_line_height",
+            "name": "mchTypographyHeadings2XlH2LineHeight",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -8255,7 +8255,7 @@ module.exports = {
               "value": "{fontSize.10}",
               "type": "fontSizes"
             },
-            "name": "mch_typography_headings_2_xl_h2_font_size",
+            "name": "mchTypographyHeadings2XlH2FontSize",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -8280,7 +8280,7 @@ module.exports = {
               "value": "{letterSpacing.0}",
               "type": "letterSpacing"
             },
-            "name": "mch_typography_headings_2_xl_h2_letter_spacing",
+            "name": "mchTypographyHeadings2XlH2LetterSpacing",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -8305,7 +8305,7 @@ module.exports = {
               "value": "{paragraphSpacing.0}",
               "type": "paragraphSpacing"
             },
-            "name": "mch_typography_headings_2_xl_h2_paragraph_spacing",
+            "name": "mchTypographyHeadings2XlH2ParagraphSpacing",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -8330,7 +8330,7 @@ module.exports = {
               "value": "{paragraphIndent.0}",
               "type": "paragraphIndent"
             },
-            "name": "mch_typography_headings_2_xl_h2_paragraph_indent",
+            "name": "mchTypographyHeadings2XlH2ParagraphIndent",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -8355,7 +8355,7 @@ module.exports = {
               "value": "{textCase.none}",
               "type": "textCase"
             },
-            "name": "mch_typography_headings_2_xl_h2_text_case",
+            "name": "mchTypographyHeadings2XlH2TextCase",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -8380,7 +8380,7 @@ module.exports = {
               "value": "{textDecoration.none}",
               "type": "textDecoration"
             },
-            "name": "mch_typography_headings_2_xl_h2_text_decoration",
+            "name": "mchTypographyHeadings2XlH2TextDecoration",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -8397,7 +8397,7 @@ module.exports = {
             ]
           }
         },
-        "H3": {
+        "h3": {
           "fontFamily": {
             "value": "Art Basel Headline",
             "type": "fontFamilies",
@@ -8407,7 +8407,7 @@ module.exports = {
               "value": "{fontFamilies.art-basel-headline}",
               "type": "fontFamilies"
             },
-            "name": "mch_typography_headings_2_xl_h3_font_family",
+            "name": "mchTypographyHeadings2XlH3FontFamily",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -8432,7 +8432,7 @@ module.exports = {
               "value": "{fontWeights.art-basel-headline-0}",
               "type": "fontWeights"
             },
-            "name": "mch_typography_headings_2_xl_h3_font_weight",
+            "name": "mchTypographyHeadings2XlH3FontWeight",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -8457,7 +8457,7 @@ module.exports = {
               "value": "{lineHeights.7}",
               "type": "lineHeights"
             },
-            "name": "mch_typography_headings_2_xl_h3_line_height",
+            "name": "mchTypographyHeadings2XlH3LineHeight",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -8482,7 +8482,7 @@ module.exports = {
               "value": "{fontSize.7}",
               "type": "fontSizes"
             },
-            "name": "mch_typography_headings_2_xl_h3_font_size",
+            "name": "mchTypographyHeadings2XlH3FontSize",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -8507,7 +8507,7 @@ module.exports = {
               "value": "{letterSpacing.0}",
               "type": "letterSpacing"
             },
-            "name": "mch_typography_headings_2_xl_h3_letter_spacing",
+            "name": "mchTypographyHeadings2XlH3LetterSpacing",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -8532,7 +8532,7 @@ module.exports = {
               "value": "{paragraphSpacing.0}",
               "type": "paragraphSpacing"
             },
-            "name": "mch_typography_headings_2_xl_h3_paragraph_spacing",
+            "name": "mchTypographyHeadings2XlH3ParagraphSpacing",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -8557,7 +8557,7 @@ module.exports = {
               "value": "{paragraphIndent.0}",
               "type": "paragraphIndent"
             },
-            "name": "mch_typography_headings_2_xl_h3_paragraph_indent",
+            "name": "mchTypographyHeadings2XlH3ParagraphIndent",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -8582,7 +8582,7 @@ module.exports = {
               "value": "{textCase.none}",
               "type": "textCase"
             },
-            "name": "mch_typography_headings_2_xl_h3_text_case",
+            "name": "mchTypographyHeadings2XlH3TextCase",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -8607,7 +8607,7 @@ module.exports = {
               "value": "{textDecoration.none}",
               "type": "textDecoration"
             },
-            "name": "mch_typography_headings_2_xl_h3_text_decoration",
+            "name": "mchTypographyHeadings2XlH3TextDecoration",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -8624,7 +8624,7 @@ module.exports = {
             ]
           }
         },
-        "H4": {
+        "h4": {
           "fontFamily": {
             "value": "Art Basel Headline",
             "type": "fontFamilies",
@@ -8634,7 +8634,7 @@ module.exports = {
               "value": "{fontFamilies.art-basel-headline}",
               "type": "fontFamilies"
             },
-            "name": "mch_typography_headings_2_xl_h4_font_family",
+            "name": "mchTypographyHeadings2XlH4FontFamily",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -8659,7 +8659,7 @@ module.exports = {
               "value": "{fontWeights.art-basel-headline-0}",
               "type": "fontWeights"
             },
-            "name": "mch_typography_headings_2_xl_h4_font_weight",
+            "name": "mchTypographyHeadings2XlH4FontWeight",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -8684,7 +8684,7 @@ module.exports = {
               "value": "{lineHeights.2}",
               "type": "lineHeights"
             },
-            "name": "mch_typography_headings_2_xl_h4_line_height",
+            "name": "mchTypographyHeadings2XlH4LineHeight",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -8709,7 +8709,7 @@ module.exports = {
               "value": "{fontSize.5}",
               "type": "fontSizes"
             },
-            "name": "mch_typography_headings_2_xl_h4_font_size",
+            "name": "mchTypographyHeadings2XlH4FontSize",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -8734,7 +8734,7 @@ module.exports = {
               "value": "{letterSpacing.0}",
               "type": "letterSpacing"
             },
-            "name": "mch_typography_headings_2_xl_h4_letter_spacing",
+            "name": "mchTypographyHeadings2XlH4LetterSpacing",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -8759,7 +8759,7 @@ module.exports = {
               "value": "{paragraphSpacing.0}",
               "type": "paragraphSpacing"
             },
-            "name": "mch_typography_headings_2_xl_h4_paragraph_spacing",
+            "name": "mchTypographyHeadings2XlH4ParagraphSpacing",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -8784,7 +8784,7 @@ module.exports = {
               "value": "{paragraphIndent.0}",
               "type": "paragraphIndent"
             },
-            "name": "mch_typography_headings_2_xl_h4_paragraph_indent",
+            "name": "mchTypographyHeadings2XlH4ParagraphIndent",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -8809,7 +8809,7 @@ module.exports = {
               "value": "{textCase.none}",
               "type": "textCase"
             },
-            "name": "mch_typography_headings_2_xl_h4_text_case",
+            "name": "mchTypographyHeadings2XlH4TextCase",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -8834,7 +8834,7 @@ module.exports = {
               "value": "{textDecoration.none}",
               "type": "textDecoration"
             },
-            "name": "mch_typography_headings_2_xl_h4_text_decoration",
+            "name": "mchTypographyHeadings2XlH4TextDecoration",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -8851,7 +8851,7 @@ module.exports = {
             ]
           }
         },
-        "H5": {
+        "h5": {
           "fontFamily": {
             "value": "Art Basel Headline",
             "type": "fontFamilies",
@@ -8861,7 +8861,7 @@ module.exports = {
               "value": "{fontFamilies.art-basel-headline}",
               "type": "fontFamilies"
             },
-            "name": "mch_typography_headings_2_xl_h5_font_family",
+            "name": "mchTypographyHeadings2XlH5FontFamily",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -8886,7 +8886,7 @@ module.exports = {
               "value": "{fontWeights.art-basel-headline-0}",
               "type": "fontWeights"
             },
-            "name": "mch_typography_headings_2_xl_h5_font_weight",
+            "name": "mchTypographyHeadings2XlH5FontWeight",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -8911,7 +8911,7 @@ module.exports = {
               "value": "{lineHeights.4}",
               "type": "lineHeights"
             },
-            "name": "mch_typography_headings_2_xl_h5_line_height",
+            "name": "mchTypographyHeadings2XlH5LineHeight",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -8936,7 +8936,7 @@ module.exports = {
               "value": "{fontSize.3}",
               "type": "fontSizes"
             },
-            "name": "mch_typography_headings_2_xl_h5_font_size",
+            "name": "mchTypographyHeadings2XlH5FontSize",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -8961,7 +8961,7 @@ module.exports = {
               "value": "{letterSpacing.0}",
               "type": "letterSpacing"
             },
-            "name": "mch_typography_headings_2_xl_h5_letter_spacing",
+            "name": "mchTypographyHeadings2XlH5LetterSpacing",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -8986,7 +8986,7 @@ module.exports = {
               "value": "{paragraphSpacing.0}",
               "type": "paragraphSpacing"
             },
-            "name": "mch_typography_headings_2_xl_h5_paragraph_spacing",
+            "name": "mchTypographyHeadings2XlH5ParagraphSpacing",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -9011,7 +9011,7 @@ module.exports = {
               "value": "{paragraphIndent.0}",
               "type": "paragraphIndent"
             },
-            "name": "mch_typography_headings_2_xl_h5_paragraph_indent",
+            "name": "mchTypographyHeadings2XlH5ParagraphIndent",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -9036,7 +9036,7 @@ module.exports = {
               "value": "{textCase.none}",
               "type": "textCase"
             },
-            "name": "mch_typography_headings_2_xl_h5_text_case",
+            "name": "mchTypographyHeadings2XlH5TextCase",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -9061,7 +9061,7 @@ module.exports = {
               "value": "{textDecoration.none}",
               "type": "textDecoration"
             },
-            "name": "mch_typography_headings_2_xl_h5_text_decoration",
+            "name": "mchTypographyHeadings2XlH5TextDecoration",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -9080,9 +9080,9 @@ module.exports = {
         }
       }
     },
-    "Paragraphs": {
-      "XS-SM": {
-        "P1": {
+    "paragraphs": {
+      "xsSm": {
+        "p1": {
           "fontFamily": {
             "value": "Art Basel Text",
             "type": "fontFamilies",
@@ -9092,7 +9092,7 @@ module.exports = {
               "value": "{fontFamilies.art-basel-text}",
               "type": "fontFamilies"
             },
-            "name": "mch_typography_paragraphs_xs_sm_p1_font_family",
+            "name": "mchTypographyParagraphsXsSmP1FontFamily",
             "attributes": {
               "category": "Typography",
               "type": "Paragraphs",
@@ -9117,7 +9117,7 @@ module.exports = {
               "value": "{fontWeights.art-basel-text-1}",
               "type": "fontWeights"
             },
-            "name": "mch_typography_paragraphs_xs_sm_p1_font_weight",
+            "name": "mchTypographyParagraphsXsSmP1FontWeight",
             "attributes": {
               "category": "Typography",
               "type": "Paragraphs",
@@ -9142,7 +9142,7 @@ module.exports = {
               "value": "{lineHeights.2}",
               "type": "lineHeights"
             },
-            "name": "mch_typography_paragraphs_xs_sm_p1_line_height",
+            "name": "mchTypographyParagraphsXsSmP1LineHeight",
             "attributes": {
               "category": "Typography",
               "type": "Paragraphs",
@@ -9167,7 +9167,7 @@ module.exports = {
               "value": "{fontSize.5}",
               "type": "fontSizes"
             },
-            "name": "mch_typography_paragraphs_xs_sm_p1_font_size",
+            "name": "mchTypographyParagraphsXsSmP1FontSize",
             "attributes": {
               "category": "Typography",
               "type": "Paragraphs",
@@ -9192,7 +9192,7 @@ module.exports = {
               "value": "{letterSpacing.0}",
               "type": "letterSpacing"
             },
-            "name": "mch_typography_paragraphs_xs_sm_p1_letter_spacing",
+            "name": "mchTypographyParagraphsXsSmP1LetterSpacing",
             "attributes": {
               "category": "Typography",
               "type": "Paragraphs",
@@ -9217,7 +9217,7 @@ module.exports = {
               "value": "{paragraphSpacing.0}",
               "type": "paragraphSpacing"
             },
-            "name": "mch_typography_paragraphs_xs_sm_p1_paragraph_spacing",
+            "name": "mchTypographyParagraphsXsSmP1ParagraphSpacing",
             "attributes": {
               "category": "Typography",
               "type": "Paragraphs",
@@ -9242,7 +9242,7 @@ module.exports = {
               "value": "{paragraphIndent.0}",
               "type": "paragraphIndent"
             },
-            "name": "mch_typography_paragraphs_xs_sm_p1_paragraph_indent",
+            "name": "mchTypographyParagraphsXsSmP1ParagraphIndent",
             "attributes": {
               "category": "Typography",
               "type": "Paragraphs",
@@ -9267,7 +9267,7 @@ module.exports = {
               "value": "{textCase.none}",
               "type": "textCase"
             },
-            "name": "mch_typography_paragraphs_xs_sm_p1_text_case",
+            "name": "mchTypographyParagraphsXsSmP1TextCase",
             "attributes": {
               "category": "Typography",
               "type": "Paragraphs",
@@ -9292,7 +9292,7 @@ module.exports = {
               "value": "{textDecoration.none}",
               "type": "textDecoration"
             },
-            "name": "mch_typography_paragraphs_xs_sm_p1_text_decoration",
+            "name": "mchTypographyParagraphsXsSmP1TextDecoration",
             "attributes": {
               "category": "Typography",
               "type": "Paragraphs",
@@ -9309,7 +9309,7 @@ module.exports = {
             ]
           }
         },
-        "P2": {
+        "p2": {
           "fontFamily": {
             "value": "Art Basel Text",
             "type": "fontFamilies",
@@ -9319,7 +9319,7 @@ module.exports = {
               "value": "{fontFamilies.art-basel-text}",
               "type": "fontFamilies"
             },
-            "name": "mch_typography_paragraphs_xs_sm_p2_font_family",
+            "name": "mchTypographyParagraphsXsSmP2FontFamily",
             "attributes": {
               "category": "Typography",
               "type": "Paragraphs",
@@ -9344,7 +9344,7 @@ module.exports = {
               "value": "{fontWeights.art-basel-text-1}",
               "type": "fontWeights"
             },
-            "name": "mch_typography_paragraphs_xs_sm_p2_font_weight",
+            "name": "mchTypographyParagraphsXsSmP2FontWeight",
             "attributes": {
               "category": "Typography",
               "type": "Paragraphs",
@@ -9369,7 +9369,7 @@ module.exports = {
               "value": "{lineHeights.3}",
               "type": "lineHeights"
             },
-            "name": "mch_typography_paragraphs_xs_sm_p2_line_height",
+            "name": "mchTypographyParagraphsXsSmP2LineHeight",
             "attributes": {
               "category": "Typography",
               "type": "Paragraphs",
@@ -9394,7 +9394,7 @@ module.exports = {
               "value": "{fontSize.4}",
               "type": "fontSizes"
             },
-            "name": "mch_typography_paragraphs_xs_sm_p2_font_size",
+            "name": "mchTypographyParagraphsXsSmP2FontSize",
             "attributes": {
               "category": "Typography",
               "type": "Paragraphs",
@@ -9419,7 +9419,7 @@ module.exports = {
               "value": "{letterSpacing.0}",
               "type": "letterSpacing"
             },
-            "name": "mch_typography_paragraphs_xs_sm_p2_letter_spacing",
+            "name": "mchTypographyParagraphsXsSmP2LetterSpacing",
             "attributes": {
               "category": "Typography",
               "type": "Paragraphs",
@@ -9444,7 +9444,7 @@ module.exports = {
               "value": "{paragraphSpacing.0}",
               "type": "paragraphSpacing"
             },
-            "name": "mch_typography_paragraphs_xs_sm_p2_paragraph_spacing",
+            "name": "mchTypographyParagraphsXsSmP2ParagraphSpacing",
             "attributes": {
               "category": "Typography",
               "type": "Paragraphs",
@@ -9469,7 +9469,7 @@ module.exports = {
               "value": "{paragraphIndent.0}",
               "type": "paragraphIndent"
             },
-            "name": "mch_typography_paragraphs_xs_sm_p2_paragraph_indent",
+            "name": "mchTypographyParagraphsXsSmP2ParagraphIndent",
             "attributes": {
               "category": "Typography",
               "type": "Paragraphs",
@@ -9494,7 +9494,7 @@ module.exports = {
               "value": "{textCase.none}",
               "type": "textCase"
             },
-            "name": "mch_typography_paragraphs_xs_sm_p2_text_case",
+            "name": "mchTypographyParagraphsXsSmP2TextCase",
             "attributes": {
               "category": "Typography",
               "type": "Paragraphs",
@@ -9519,7 +9519,7 @@ module.exports = {
               "value": "{textDecoration.none}",
               "type": "textDecoration"
             },
-            "name": "mch_typography_paragraphs_xs_sm_p2_text_decoration",
+            "name": "mchTypographyParagraphsXsSmP2TextDecoration",
             "attributes": {
               "category": "Typography",
               "type": "Paragraphs",
@@ -9537,8 +9537,8 @@ module.exports = {
           }
         }
       },
-      "XL": {
-        "P1": {
+      "xl": {
+        "p1": {
           "fontFamily": {
             "value": "Art Basel Text",
             "type": "fontFamilies",
@@ -9548,7 +9548,7 @@ module.exports = {
               "value": "{fontFamilies.art-basel-text}",
               "type": "fontFamilies"
             },
-            "name": "mch_typography_paragraphs_xl_p1_font_family",
+            "name": "mchTypographyParagraphsXlP1FontFamily",
             "attributes": {
               "category": "Typography",
               "type": "Paragraphs",
@@ -9573,7 +9573,7 @@ module.exports = {
               "value": "{fontWeights.art-basel-text-1}",
               "type": "fontWeights"
             },
-            "name": "mch_typography_paragraphs_xl_p1_font_weight",
+            "name": "mchTypographyParagraphsXlP1FontWeight",
             "attributes": {
               "category": "Typography",
               "type": "Paragraphs",
@@ -9598,7 +9598,7 @@ module.exports = {
               "value": "{lineHeights.7}",
               "type": "lineHeights"
             },
-            "name": "mch_typography_paragraphs_xl_p1_line_height",
+            "name": "mchTypographyParagraphsXlP1LineHeight",
             "attributes": {
               "category": "Typography",
               "type": "Paragraphs",
@@ -9623,7 +9623,7 @@ module.exports = {
               "value": "{fontSize.7}",
               "type": "fontSizes"
             },
-            "name": "mch_typography_paragraphs_xl_p1_font_size",
+            "name": "mchTypographyParagraphsXlP1FontSize",
             "attributes": {
               "category": "Typography",
               "type": "Paragraphs",
@@ -9648,7 +9648,7 @@ module.exports = {
               "value": "{letterSpacing.0}",
               "type": "letterSpacing"
             },
-            "name": "mch_typography_paragraphs_xl_p1_letter_spacing",
+            "name": "mchTypographyParagraphsXlP1LetterSpacing",
             "attributes": {
               "category": "Typography",
               "type": "Paragraphs",
@@ -9673,7 +9673,7 @@ module.exports = {
               "value": "{paragraphSpacing.0}",
               "type": "paragraphSpacing"
             },
-            "name": "mch_typography_paragraphs_xl_p1_paragraph_spacing",
+            "name": "mchTypographyParagraphsXlP1ParagraphSpacing",
             "attributes": {
               "category": "Typography",
               "type": "Paragraphs",
@@ -9698,7 +9698,7 @@ module.exports = {
               "value": "{paragraphIndent.0}",
               "type": "paragraphIndent"
             },
-            "name": "mch_typography_paragraphs_xl_p1_paragraph_indent",
+            "name": "mchTypographyParagraphsXlP1ParagraphIndent",
             "attributes": {
               "category": "Typography",
               "type": "Paragraphs",
@@ -9723,7 +9723,7 @@ module.exports = {
               "value": "{textCase.none}",
               "type": "textCase"
             },
-            "name": "mch_typography_paragraphs_xl_p1_text_case",
+            "name": "mchTypographyParagraphsXlP1TextCase",
             "attributes": {
               "category": "Typography",
               "type": "Paragraphs",
@@ -9748,7 +9748,7 @@ module.exports = {
               "value": "{textDecoration.none}",
               "type": "textDecoration"
             },
-            "name": "mch_typography_paragraphs_xl_p1_text_decoration",
+            "name": "mchTypographyParagraphsXlP1TextDecoration",
             "attributes": {
               "category": "Typography",
               "type": "Paragraphs",
@@ -9765,7 +9765,7 @@ module.exports = {
             ]
           }
         },
-        "P2": {
+        "p2": {
           "fontFamily": {
             "value": "Art Basel Text",
             "type": "fontFamilies",
@@ -9775,7 +9775,7 @@ module.exports = {
               "value": "{fontFamilies.art-basel-text}",
               "type": "fontFamilies"
             },
-            "name": "mch_typography_paragraphs_xl_p2_font_family",
+            "name": "mchTypographyParagraphsXlP2FontFamily",
             "attributes": {
               "category": "Typography",
               "type": "Paragraphs",
@@ -9800,7 +9800,7 @@ module.exports = {
               "value": "{fontWeights.art-basel-text-1}",
               "type": "fontWeights"
             },
-            "name": "mch_typography_paragraphs_xl_p2_font_weight",
+            "name": "mchTypographyParagraphsXlP2FontWeight",
             "attributes": {
               "category": "Typography",
               "type": "Paragraphs",
@@ -9825,7 +9825,7 @@ module.exports = {
               "value": "{lineHeights.2}",
               "type": "lineHeights"
             },
-            "name": "mch_typography_paragraphs_xl_p2_line_height",
+            "name": "mchTypographyParagraphsXlP2LineHeight",
             "attributes": {
               "category": "Typography",
               "type": "Paragraphs",
@@ -9850,7 +9850,7 @@ module.exports = {
               "value": "{fontSize.5}",
               "type": "fontSizes"
             },
-            "name": "mch_typography_paragraphs_xl_p2_font_size",
+            "name": "mchTypographyParagraphsXlP2FontSize",
             "attributes": {
               "category": "Typography",
               "type": "Paragraphs",
@@ -9875,7 +9875,7 @@ module.exports = {
               "value": "{letterSpacing.0}",
               "type": "letterSpacing"
             },
-            "name": "mch_typography_paragraphs_xl_p2_letter_spacing",
+            "name": "mchTypographyParagraphsXlP2LetterSpacing",
             "attributes": {
               "category": "Typography",
               "type": "Paragraphs",
@@ -9900,7 +9900,7 @@ module.exports = {
               "value": "{paragraphSpacing.0}",
               "type": "paragraphSpacing"
             },
-            "name": "mch_typography_paragraphs_xl_p2_paragraph_spacing",
+            "name": "mchTypographyParagraphsXlP2ParagraphSpacing",
             "attributes": {
               "category": "Typography",
               "type": "Paragraphs",
@@ -9925,7 +9925,7 @@ module.exports = {
               "value": "{paragraphIndent.0}",
               "type": "paragraphIndent"
             },
-            "name": "mch_typography_paragraphs_xl_p2_paragraph_indent",
+            "name": "mchTypographyParagraphsXlP2ParagraphIndent",
             "attributes": {
               "category": "Typography",
               "type": "Paragraphs",
@@ -9950,7 +9950,7 @@ module.exports = {
               "value": "{textCase.none}",
               "type": "textCase"
             },
-            "name": "mch_typography_paragraphs_xl_p2_text_case",
+            "name": "mchTypographyParagraphsXlP2TextCase",
             "attributes": {
               "category": "Typography",
               "type": "Paragraphs",
@@ -9975,7 +9975,7 @@ module.exports = {
               "value": "{textDecoration.none}",
               "type": "textDecoration"
             },
-            "name": "mch_typography_paragraphs_xl_p2_text_decoration",
+            "name": "mchTypographyParagraphsXlP2TextDecoration",
             "attributes": {
               "category": "Typography",
               "type": "Paragraphs",
@@ -9993,8 +9993,8 @@ module.exports = {
           }
         }
       },
-      "MD": {
-        "P1": {
+      "md": {
+        "p1": {
           "fontFamily": {
             "value": "Art Basel Text",
             "type": "fontFamilies",
@@ -10004,7 +10004,7 @@ module.exports = {
               "value": "{fontFamilies.art-basel-text}",
               "type": "fontFamilies"
             },
-            "name": "mch_typography_paragraphs_md_p1_font_family",
+            "name": "mchTypographyParagraphsMdP1FontFamily",
             "attributes": {
               "category": "Typography",
               "type": "Paragraphs",
@@ -10029,7 +10029,7 @@ module.exports = {
               "value": "{fontWeights.art-basel-text-1}",
               "type": "fontWeights"
             },
-            "name": "mch_typography_paragraphs_md_p1_font_weight",
+            "name": "mchTypographyParagraphsMdP1FontWeight",
             "attributes": {
               "category": "Typography",
               "type": "Paragraphs",
@@ -10054,7 +10054,7 @@ module.exports = {
               "value": "{lineHeights.7}",
               "type": "lineHeights"
             },
-            "name": "mch_typography_paragraphs_md_p1_line_height",
+            "name": "mchTypographyParagraphsMdP1LineHeight",
             "attributes": {
               "category": "Typography",
               "type": "Paragraphs",
@@ -10079,7 +10079,7 @@ module.exports = {
               "value": "{fontSize.7}",
               "type": "fontSizes"
             },
-            "name": "mch_typography_paragraphs_md_p1_font_size",
+            "name": "mchTypographyParagraphsMdP1FontSize",
             "attributes": {
               "category": "Typography",
               "type": "Paragraphs",
@@ -10104,7 +10104,7 @@ module.exports = {
               "value": "{letterSpacing.1}",
               "type": "letterSpacing"
             },
-            "name": "mch_typography_paragraphs_md_p1_letter_spacing",
+            "name": "mchTypographyParagraphsMdP1LetterSpacing",
             "attributes": {
               "category": "Typography",
               "type": "Paragraphs",
@@ -10129,7 +10129,7 @@ module.exports = {
               "value": "{paragraphSpacing.1}",
               "type": "paragraphSpacing"
             },
-            "name": "mch_typography_paragraphs_md_p1_paragraph_spacing",
+            "name": "mchTypographyParagraphsMdP1ParagraphSpacing",
             "attributes": {
               "category": "Typography",
               "type": "Paragraphs",
@@ -10154,7 +10154,7 @@ module.exports = {
               "value": "{paragraphIndent.0}",
               "type": "paragraphIndent"
             },
-            "name": "mch_typography_paragraphs_md_p1_paragraph_indent",
+            "name": "mchTypographyParagraphsMdP1ParagraphIndent",
             "attributes": {
               "category": "Typography",
               "type": "Paragraphs",
@@ -10179,7 +10179,7 @@ module.exports = {
               "value": "{textCase.none}",
               "type": "textCase"
             },
-            "name": "mch_typography_paragraphs_md_p1_text_case",
+            "name": "mchTypographyParagraphsMdP1TextCase",
             "attributes": {
               "category": "Typography",
               "type": "Paragraphs",
@@ -10204,7 +10204,7 @@ module.exports = {
               "value": "{textDecoration.none}",
               "type": "textDecoration"
             },
-            "name": "mch_typography_paragraphs_md_p1_text_decoration",
+            "name": "mchTypographyParagraphsMdP1TextDecoration",
             "attributes": {
               "category": "Typography",
               "type": "Paragraphs",
@@ -10221,7 +10221,7 @@ module.exports = {
             ]
           }
         },
-        "P2": {
+        "p2": {
           "fontFamily": {
             "value": "Art Basel Text",
             "type": "fontFamilies",
@@ -10231,7 +10231,7 @@ module.exports = {
               "value": "{fontFamilies.art-basel-text}",
               "type": "fontFamilies"
             },
-            "name": "mch_typography_paragraphs_md_p2_font_family",
+            "name": "mchTypographyParagraphsMdP2FontFamily",
             "attributes": {
               "category": "Typography",
               "type": "Paragraphs",
@@ -10256,7 +10256,7 @@ module.exports = {
               "value": "{fontWeights.art-basel-text-1}",
               "type": "fontWeights"
             },
-            "name": "mch_typography_paragraphs_md_p2_font_weight",
+            "name": "mchTypographyParagraphsMdP2FontWeight",
             "attributes": {
               "category": "Typography",
               "type": "Paragraphs",
@@ -10281,7 +10281,7 @@ module.exports = {
               "value": "{lineHeights.2}",
               "type": "lineHeights"
             },
-            "name": "mch_typography_paragraphs_md_p2_line_height",
+            "name": "mchTypographyParagraphsMdP2LineHeight",
             "attributes": {
               "category": "Typography",
               "type": "Paragraphs",
@@ -10306,7 +10306,7 @@ module.exports = {
               "value": "{fontSize.5}",
               "type": "fontSizes"
             },
-            "name": "mch_typography_paragraphs_md_p2_font_size",
+            "name": "mchTypographyParagraphsMdP2FontSize",
             "attributes": {
               "category": "Typography",
               "type": "Paragraphs",
@@ -10331,7 +10331,7 @@ module.exports = {
               "value": "{letterSpacing.1}",
               "type": "letterSpacing"
             },
-            "name": "mch_typography_paragraphs_md_p2_letter_spacing",
+            "name": "mchTypographyParagraphsMdP2LetterSpacing",
             "attributes": {
               "category": "Typography",
               "type": "Paragraphs",
@@ -10356,7 +10356,7 @@ module.exports = {
               "value": "{paragraphSpacing.1}",
               "type": "paragraphSpacing"
             },
-            "name": "mch_typography_paragraphs_md_p2_paragraph_spacing",
+            "name": "mchTypographyParagraphsMdP2ParagraphSpacing",
             "attributes": {
               "category": "Typography",
               "type": "Paragraphs",
@@ -10381,7 +10381,7 @@ module.exports = {
               "value": "{paragraphIndent.0}",
               "type": "paragraphIndent"
             },
-            "name": "mch_typography_paragraphs_md_p2_paragraph_indent",
+            "name": "mchTypographyParagraphsMdP2ParagraphIndent",
             "attributes": {
               "category": "Typography",
               "type": "Paragraphs",
@@ -10406,7 +10406,7 @@ module.exports = {
               "value": "{textCase.none}",
               "type": "textCase"
             },
-            "name": "mch_typography_paragraphs_md_p2_text_case",
+            "name": "mchTypographyParagraphsMdP2TextCase",
             "attributes": {
               "category": "Typography",
               "type": "Paragraphs",
@@ -10431,7 +10431,7 @@ module.exports = {
               "value": "{textDecoration.none}",
               "type": "textDecoration"
             },
-            "name": "mch_typography_paragraphs_md_p2_text_decoration",
+            "name": "mchTypographyParagraphsMdP2TextDecoration",
             "attributes": {
               "category": "Typography",
               "type": "Paragraphs",
@@ -10449,8 +10449,8 @@ module.exports = {
           }
         }
       },
-      "LG": {
-        "P1": {
+      "lg": {
+        "p1": {
           "fontFamily": {
             "value": "Art Basel Text",
             "type": "fontFamilies",
@@ -10460,7 +10460,7 @@ module.exports = {
               "value": "{fontFamilies.art-basel-text}",
               "type": "fontFamilies"
             },
-            "name": "mch_typography_paragraphs_lg_p1_font_family",
+            "name": "mchTypographyParagraphsLgP1FontFamily",
             "attributes": {
               "category": "Typography",
               "type": "Paragraphs",
@@ -10485,7 +10485,7 @@ module.exports = {
               "value": "{fontWeights.art-basel-text-1}",
               "type": "fontWeights"
             },
-            "name": "mch_typography_paragraphs_lg_p1_font_weight",
+            "name": "mchTypographyParagraphsLgP1FontWeight",
             "attributes": {
               "category": "Typography",
               "type": "Paragraphs",
@@ -10510,7 +10510,7 @@ module.exports = {
               "value": "{lineHeights.7}",
               "type": "lineHeights"
             },
-            "name": "mch_typography_paragraphs_lg_p1_line_height",
+            "name": "mchTypographyParagraphsLgP1LineHeight",
             "attributes": {
               "category": "Typography",
               "type": "Paragraphs",
@@ -10535,7 +10535,7 @@ module.exports = {
               "value": "{fontSize.7}",
               "type": "fontSizes"
             },
-            "name": "mch_typography_paragraphs_lg_p1_font_size",
+            "name": "mchTypographyParagraphsLgP1FontSize",
             "attributes": {
               "category": "Typography",
               "type": "Paragraphs",
@@ -10560,7 +10560,7 @@ module.exports = {
               "value": "{letterSpacing.1}",
               "type": "letterSpacing"
             },
-            "name": "mch_typography_paragraphs_lg_p1_letter_spacing",
+            "name": "mchTypographyParagraphsLgP1LetterSpacing",
             "attributes": {
               "category": "Typography",
               "type": "Paragraphs",
@@ -10585,7 +10585,7 @@ module.exports = {
               "value": "{paragraphSpacing.1}",
               "type": "paragraphSpacing"
             },
-            "name": "mch_typography_paragraphs_lg_p1_paragraph_spacing",
+            "name": "mchTypographyParagraphsLgP1ParagraphSpacing",
             "attributes": {
               "category": "Typography",
               "type": "Paragraphs",
@@ -10610,7 +10610,7 @@ module.exports = {
               "value": "{paragraphIndent.0}",
               "type": "paragraphIndent"
             },
-            "name": "mch_typography_paragraphs_lg_p1_paragraph_indent",
+            "name": "mchTypographyParagraphsLgP1ParagraphIndent",
             "attributes": {
               "category": "Typography",
               "type": "Paragraphs",
@@ -10635,7 +10635,7 @@ module.exports = {
               "value": "{textCase.none}",
               "type": "textCase"
             },
-            "name": "mch_typography_paragraphs_lg_p1_text_case",
+            "name": "mchTypographyParagraphsLgP1TextCase",
             "attributes": {
               "category": "Typography",
               "type": "Paragraphs",
@@ -10660,7 +10660,7 @@ module.exports = {
               "value": "{textDecoration.none}",
               "type": "textDecoration"
             },
-            "name": "mch_typography_paragraphs_lg_p1_text_decoration",
+            "name": "mchTypographyParagraphsLgP1TextDecoration",
             "attributes": {
               "category": "Typography",
               "type": "Paragraphs",
@@ -10677,7 +10677,7 @@ module.exports = {
             ]
           }
         },
-        "P2": {
+        "p2": {
           "fontFamily": {
             "value": "Art Basel Text",
             "type": "fontFamilies",
@@ -10687,7 +10687,7 @@ module.exports = {
               "value": "{fontFamilies.art-basel-text}",
               "type": "fontFamilies"
             },
-            "name": "mch_typography_paragraphs_lg_p2_font_family",
+            "name": "mchTypographyParagraphsLgP2FontFamily",
             "attributes": {
               "category": "Typography",
               "type": "Paragraphs",
@@ -10712,7 +10712,7 @@ module.exports = {
               "value": "{fontWeights.art-basel-text-1}",
               "type": "fontWeights"
             },
-            "name": "mch_typography_paragraphs_lg_p2_font_weight",
+            "name": "mchTypographyParagraphsLgP2FontWeight",
             "attributes": {
               "category": "Typography",
               "type": "Paragraphs",
@@ -10737,7 +10737,7 @@ module.exports = {
               "value": "{lineHeights.2}",
               "type": "lineHeights"
             },
-            "name": "mch_typography_paragraphs_lg_p2_line_height",
+            "name": "mchTypographyParagraphsLgP2LineHeight",
             "attributes": {
               "category": "Typography",
               "type": "Paragraphs",
@@ -10762,7 +10762,7 @@ module.exports = {
               "value": "{fontSize.5}",
               "type": "fontSizes"
             },
-            "name": "mch_typography_paragraphs_lg_p2_font_size",
+            "name": "mchTypographyParagraphsLgP2FontSize",
             "attributes": {
               "category": "Typography",
               "type": "Paragraphs",
@@ -10787,7 +10787,7 @@ module.exports = {
               "value": "{letterSpacing.1}",
               "type": "letterSpacing"
             },
-            "name": "mch_typography_paragraphs_lg_p2_letter_spacing",
+            "name": "mchTypographyParagraphsLgP2LetterSpacing",
             "attributes": {
               "category": "Typography",
               "type": "Paragraphs",
@@ -10812,7 +10812,7 @@ module.exports = {
               "value": "{paragraphSpacing.1}",
               "type": "paragraphSpacing"
             },
-            "name": "mch_typography_paragraphs_lg_p2_paragraph_spacing",
+            "name": "mchTypographyParagraphsLgP2ParagraphSpacing",
             "attributes": {
               "category": "Typography",
               "type": "Paragraphs",
@@ -10837,7 +10837,7 @@ module.exports = {
               "value": "{paragraphIndent.0}",
               "type": "paragraphIndent"
             },
-            "name": "mch_typography_paragraphs_lg_p2_paragraph_indent",
+            "name": "mchTypographyParagraphsLgP2ParagraphIndent",
             "attributes": {
               "category": "Typography",
               "type": "Paragraphs",
@@ -10862,7 +10862,7 @@ module.exports = {
               "value": "{textCase.none}",
               "type": "textCase"
             },
-            "name": "mch_typography_paragraphs_lg_p2_text_case",
+            "name": "mchTypographyParagraphsLgP2TextCase",
             "attributes": {
               "category": "Typography",
               "type": "Paragraphs",
@@ -10887,7 +10887,7 @@ module.exports = {
               "value": "{textDecoration.none}",
               "type": "textDecoration"
             },
-            "name": "mch_typography_paragraphs_lg_p2_text_decoration",
+            "name": "mchTypographyParagraphsLgP2TextDecoration",
             "attributes": {
               "category": "Typography",
               "type": "Paragraphs",
@@ -10906,7 +10906,7 @@ module.exports = {
         }
       }
     },
-    "Headings (fixed)": {
+    "headingsFixed": {
       "01": {
         "fontFamily": {
           "value": "Art Basel Headline",
@@ -10917,7 +10917,7 @@ module.exports = {
             "value": "{fontFamilies.art-basel-headline}",
             "type": "fontFamilies"
           },
-          "name": "mch_typography_headings_fixed_01_font_family",
+          "name": "mchTypographyHeadingsFixed01FontFamily",
           "attributes": {
             "category": "Typography",
             "type": "Headings (fixed)",
@@ -10940,7 +10940,7 @@ module.exports = {
             "value": "{fontWeights.art-basel-headline-0}",
             "type": "fontWeights"
           },
-          "name": "mch_typography_headings_fixed_01_font_weight",
+          "name": "mchTypographyHeadingsFixed01FontWeight",
           "attributes": {
             "category": "Typography",
             "type": "Headings (fixed)",
@@ -10963,7 +10963,7 @@ module.exports = {
             "value": "{lineHeights.4}",
             "type": "lineHeights"
           },
-          "name": "mch_typography_headings_fixed_01_line_height",
+          "name": "mchTypographyHeadingsFixed01LineHeight",
           "attributes": {
             "category": "Typography",
             "type": "Headings (fixed)",
@@ -10986,7 +10986,7 @@ module.exports = {
             "value": "{fontSize.3}",
             "type": "fontSizes"
           },
-          "name": "mch_typography_headings_fixed_01_font_size",
+          "name": "mchTypographyHeadingsFixed01FontSize",
           "attributes": {
             "category": "Typography",
             "type": "Headings (fixed)",
@@ -11009,7 +11009,7 @@ module.exports = {
             "value": "{letterSpacing.2}",
             "type": "letterSpacing"
           },
-          "name": "mch_typography_headings_fixed_01_letter_spacing",
+          "name": "mchTypographyHeadingsFixed01LetterSpacing",
           "attributes": {
             "category": "Typography",
             "type": "Headings (fixed)",
@@ -11032,7 +11032,7 @@ module.exports = {
             "value": "{paragraphSpacing.0}",
             "type": "paragraphSpacing"
           },
-          "name": "mch_typography_headings_fixed_01_paragraph_spacing",
+          "name": "mchTypographyHeadingsFixed01ParagraphSpacing",
           "attributes": {
             "category": "Typography",
             "type": "Headings (fixed)",
@@ -11055,7 +11055,7 @@ module.exports = {
             "value": "{paragraphIndent.0}",
             "type": "paragraphIndent"
           },
-          "name": "mch_typography_headings_fixed_01_paragraph_indent",
+          "name": "mchTypographyHeadingsFixed01ParagraphIndent",
           "attributes": {
             "category": "Typography",
             "type": "Headings (fixed)",
@@ -11078,7 +11078,7 @@ module.exports = {
             "value": "{textCase.uppercase}",
             "type": "textCase"
           },
-          "name": "mch_typography_headings_fixed_01_text_case",
+          "name": "mchTypographyHeadingsFixed01TextCase",
           "attributes": {
             "category": "Typography",
             "type": "Headings (fixed)",
@@ -11101,7 +11101,7 @@ module.exports = {
             "value": "{textDecoration.none}",
             "type": "textDecoration"
           },
-          "name": "mch_typography_headings_fixed_01_text_decoration",
+          "name": "mchTypographyHeadingsFixed01TextDecoration",
           "attributes": {
             "category": "Typography",
             "type": "Headings (fixed)",
@@ -11126,7 +11126,7 @@ module.exports = {
             "value": "{fontFamilies.art-basel-headline}",
             "type": "fontFamilies"
           },
-          "name": "mch_typography_headings_fixed_02_font_family",
+          "name": "mchTypographyHeadingsFixed02FontFamily",
           "attributes": {
             "category": "Typography",
             "type": "Headings (fixed)",
@@ -11149,7 +11149,7 @@ module.exports = {
             "value": "{fontWeights.art-basel-headline-0}",
             "type": "fontWeights"
           },
-          "name": "mch_typography_headings_fixed_02_font_weight",
+          "name": "mchTypographyHeadingsFixed02FontWeight",
           "attributes": {
             "category": "Typography",
             "type": "Headings (fixed)",
@@ -11172,7 +11172,7 @@ module.exports = {
             "value": "{lineHeights.11}",
             "type": "lineHeights"
           },
-          "name": "mch_typography_headings_fixed_02_line_height",
+          "name": "mchTypographyHeadingsFixed02LineHeight",
           "attributes": {
             "category": "Typography",
             "type": "Headings (fixed)",
@@ -11195,7 +11195,7 @@ module.exports = {
             "value": "{fontSize.1}",
             "type": "fontSizes"
           },
-          "name": "mch_typography_headings_fixed_02_font_size",
+          "name": "mchTypographyHeadingsFixed02FontSize",
           "attributes": {
             "category": "Typography",
             "type": "Headings (fixed)",
@@ -11218,7 +11218,7 @@ module.exports = {
             "value": "{letterSpacing.3}",
             "type": "letterSpacing"
           },
-          "name": "mch_typography_headings_fixed_02_letter_spacing",
+          "name": "mchTypographyHeadingsFixed02LetterSpacing",
           "attributes": {
             "category": "Typography",
             "type": "Headings (fixed)",
@@ -11241,7 +11241,7 @@ module.exports = {
             "value": "{paragraphSpacing.0}",
             "type": "paragraphSpacing"
           },
-          "name": "mch_typography_headings_fixed_02_paragraph_spacing",
+          "name": "mchTypographyHeadingsFixed02ParagraphSpacing",
           "attributes": {
             "category": "Typography",
             "type": "Headings (fixed)",
@@ -11264,7 +11264,7 @@ module.exports = {
             "value": "{paragraphIndent.0}",
             "type": "paragraphIndent"
           },
-          "name": "mch_typography_headings_fixed_02_paragraph_indent",
+          "name": "mchTypographyHeadingsFixed02ParagraphIndent",
           "attributes": {
             "category": "Typography",
             "type": "Headings (fixed)",
@@ -11287,7 +11287,7 @@ module.exports = {
             "value": "{textCase.uppercase}",
             "type": "textCase"
           },
-          "name": "mch_typography_headings_fixed_02_text_case",
+          "name": "mchTypographyHeadingsFixed02TextCase",
           "attributes": {
             "category": "Typography",
             "type": "Headings (fixed)",
@@ -11310,7 +11310,7 @@ module.exports = {
             "value": "{textDecoration.none}",
             "type": "textDecoration"
           },
-          "name": "mch_typography_headings_fixed_02_text_decoration",
+          "name": "mchTypographyHeadingsFixed02TextDecoration",
           "attributes": {
             "category": "Typography",
             "type": "Headings (fixed)",
@@ -11326,8 +11326,8 @@ module.exports = {
         }
       }
     },
-    "Body": {
-      "Text - Large": {
+    "body": {
+      "textLarge": {
         "fontFamily": {
           "value": "Art Basel Text",
           "type": "fontFamilies",
@@ -11337,7 +11337,7 @@ module.exports = {
             "value": "{fontFamilies.art-basel-text}",
             "type": "fontFamilies"
           },
-          "name": "mch_typography_body_text_large_font_family",
+          "name": "mchTypographyBodyTextLargeFontFamily",
           "attributes": {
             "category": "Typography",
             "type": "Body",
@@ -11360,7 +11360,7 @@ module.exports = {
             "value": "{fontWeights.art-basel-text-1}",
             "type": "fontWeights"
           },
-          "name": "mch_typography_body_text_large_font_weight",
+          "name": "mchTypographyBodyTextLargeFontWeight",
           "attributes": {
             "category": "Typography",
             "type": "Body",
@@ -11383,7 +11383,7 @@ module.exports = {
             "value": "{lineHeights.12}",
             "type": "lineHeights"
           },
-          "name": "mch_typography_body_text_large_line_height",
+          "name": "mchTypographyBodyTextLargeLineHeight",
           "attributes": {
             "category": "Typography",
             "type": "Body",
@@ -11406,7 +11406,7 @@ module.exports = {
             "value": "{fontSize.3}",
             "type": "fontSizes"
           },
-          "name": "mch_typography_body_text_large_font_size",
+          "name": "mchTypographyBodyTextLargeFontSize",
           "attributes": {
             "category": "Typography",
             "type": "Body",
@@ -11429,7 +11429,7 @@ module.exports = {
             "value": "{letterSpacing.0}",
             "type": "letterSpacing"
           },
-          "name": "mch_typography_body_text_large_letter_spacing",
+          "name": "mchTypographyBodyTextLargeLetterSpacing",
           "attributes": {
             "category": "Typography",
             "type": "Body",
@@ -11452,7 +11452,7 @@ module.exports = {
             "value": "{paragraphSpacing.0}",
             "type": "paragraphSpacing"
           },
-          "name": "mch_typography_body_text_large_paragraph_spacing",
+          "name": "mchTypographyBodyTextLargeParagraphSpacing",
           "attributes": {
             "category": "Typography",
             "type": "Body",
@@ -11475,7 +11475,7 @@ module.exports = {
             "value": "{paragraphIndent.0}",
             "type": "paragraphIndent"
           },
-          "name": "mch_typography_body_text_large_paragraph_indent",
+          "name": "mchTypographyBodyTextLargeParagraphIndent",
           "attributes": {
             "category": "Typography",
             "type": "Body",
@@ -11498,7 +11498,7 @@ module.exports = {
             "value": "{textCase.none}",
             "type": "textCase"
           },
-          "name": "mch_typography_body_text_large_text_case",
+          "name": "mchTypographyBodyTextLargeTextCase",
           "attributes": {
             "category": "Typography",
             "type": "Body",
@@ -11521,7 +11521,7 @@ module.exports = {
             "value": "{textDecoration.none}",
             "type": "textDecoration"
           },
-          "name": "mch_typography_body_text_large_text_decoration",
+          "name": "mchTypographyBodyTextLargeTextDecoration",
           "attributes": {
             "category": "Typography",
             "type": "Body",
@@ -11536,7 +11536,7 @@ module.exports = {
           ]
         }
       },
-      "Text - Medium": {
+      "textMedium": {
         "fontFamily": {
           "value": "Art Basel Text",
           "type": "fontFamilies",
@@ -11546,7 +11546,7 @@ module.exports = {
             "value": "{fontFamilies.art-basel-text}",
             "type": "fontFamilies"
           },
-          "name": "mch_typography_body_text_medium_font_family",
+          "name": "mchTypographyBodyTextMediumFontFamily",
           "attributes": {
             "category": "Typography",
             "type": "Body",
@@ -11569,7 +11569,7 @@ module.exports = {
             "value": "{fontWeights.art-basel-text-1}",
             "type": "fontWeights"
           },
-          "name": "mch_typography_body_text_medium_font_weight",
+          "name": "mchTypographyBodyTextMediumFontWeight",
           "attributes": {
             "category": "Typography",
             "type": "Body",
@@ -11592,7 +11592,7 @@ module.exports = {
             "value": "{lineHeights.13}",
             "type": "lineHeights"
           },
-          "name": "mch_typography_body_text_medium_line_height",
+          "name": "mchTypographyBodyTextMediumLineHeight",
           "attributes": {
             "category": "Typography",
             "type": "Body",
@@ -11615,7 +11615,7 @@ module.exports = {
             "value": "{fontSize.2}",
             "type": "fontSizes"
           },
-          "name": "mch_typography_body_text_medium_font_size",
+          "name": "mchTypographyBodyTextMediumFontSize",
           "attributes": {
             "category": "Typography",
             "type": "Body",
@@ -11638,7 +11638,7 @@ module.exports = {
             "value": "{letterSpacing.0}",
             "type": "letterSpacing"
           },
-          "name": "mch_typography_body_text_medium_letter_spacing",
+          "name": "mchTypographyBodyTextMediumLetterSpacing",
           "attributes": {
             "category": "Typography",
             "type": "Body",
@@ -11661,7 +11661,7 @@ module.exports = {
             "value": "{paragraphSpacing.0}",
             "type": "paragraphSpacing"
           },
-          "name": "mch_typography_body_text_medium_paragraph_spacing",
+          "name": "mchTypographyBodyTextMediumParagraphSpacing",
           "attributes": {
             "category": "Typography",
             "type": "Body",
@@ -11684,7 +11684,7 @@ module.exports = {
             "value": "{paragraphIndent.0}",
             "type": "paragraphIndent"
           },
-          "name": "mch_typography_body_text_medium_paragraph_indent",
+          "name": "mchTypographyBodyTextMediumParagraphIndent",
           "attributes": {
             "category": "Typography",
             "type": "Body",
@@ -11707,7 +11707,7 @@ module.exports = {
             "value": "{textCase.none}",
             "type": "textCase"
           },
-          "name": "mch_typography_body_text_medium_text_case",
+          "name": "mchTypographyBodyTextMediumTextCase",
           "attributes": {
             "category": "Typography",
             "type": "Body",
@@ -11730,7 +11730,7 @@ module.exports = {
             "value": "{textDecoration.none}",
             "type": "textDecoration"
           },
-          "name": "mch_typography_body_text_medium_text_decoration",
+          "name": "mchTypographyBodyTextMediumTextDecoration",
           "attributes": {
             "category": "Typography",
             "type": "Body",
@@ -11745,7 +11745,7 @@ module.exports = {
           ]
         }
       },
-      "Text - Small": {
+      "textSmall": {
         "fontFamily": {
           "value": "Art Basel Text",
           "type": "fontFamilies",
@@ -11755,7 +11755,7 @@ module.exports = {
             "value": "{fontFamilies.art-basel-text}",
             "type": "fontFamilies"
           },
-          "name": "mch_typography_body_text_small_font_family",
+          "name": "mchTypographyBodyTextSmallFontFamily",
           "attributes": {
             "category": "Typography",
             "type": "Body",
@@ -11778,7 +11778,7 @@ module.exports = {
             "value": "{fontWeights.art-basel-text-1}",
             "type": "fontWeights"
           },
-          "name": "mch_typography_body_text_small_font_weight",
+          "name": "mchTypographyBodyTextSmallFontWeight",
           "attributes": {
             "category": "Typography",
             "type": "Body",
@@ -11801,7 +11801,7 @@ module.exports = {
             "value": "{lineHeights.11}",
             "type": "lineHeights"
           },
-          "name": "mch_typography_body_text_small_line_height",
+          "name": "mchTypographyBodyTextSmallLineHeight",
           "attributes": {
             "category": "Typography",
             "type": "Body",
@@ -11824,7 +11824,7 @@ module.exports = {
             "value": "{fontSize.1}",
             "type": "fontSizes"
           },
-          "name": "mch_typography_body_text_small_font_size",
+          "name": "mchTypographyBodyTextSmallFontSize",
           "attributes": {
             "category": "Typography",
             "type": "Body",
@@ -11847,7 +11847,7 @@ module.exports = {
             "value": "{letterSpacing.0}",
             "type": "letterSpacing"
           },
-          "name": "mch_typography_body_text_small_letter_spacing",
+          "name": "mchTypographyBodyTextSmallLetterSpacing",
           "attributes": {
             "category": "Typography",
             "type": "Body",
@@ -11870,7 +11870,7 @@ module.exports = {
             "value": "{paragraphSpacing.0}",
             "type": "paragraphSpacing"
           },
-          "name": "mch_typography_body_text_small_paragraph_spacing",
+          "name": "mchTypographyBodyTextSmallParagraphSpacing",
           "attributes": {
             "category": "Typography",
             "type": "Body",
@@ -11893,7 +11893,7 @@ module.exports = {
             "value": "{paragraphIndent.0}",
             "type": "paragraphIndent"
           },
-          "name": "mch_typography_body_text_small_paragraph_indent",
+          "name": "mchTypographyBodyTextSmallParagraphIndent",
           "attributes": {
             "category": "Typography",
             "type": "Body",
@@ -11916,7 +11916,7 @@ module.exports = {
             "value": "{textCase.none}",
             "type": "textCase"
           },
-          "name": "mch_typography_body_text_small_text_case",
+          "name": "mchTypographyBodyTextSmallTextCase",
           "attributes": {
             "category": "Typography",
             "type": "Body",
@@ -11939,7 +11939,7 @@ module.exports = {
             "value": "{textDecoration.none}",
             "type": "textDecoration"
           },
-          "name": "mch_typography_body_text_small_text_decoration",
+          "name": "mchTypographyBodyTextSmallTextDecoration",
           "attributes": {
             "category": "Typography",
             "type": "Body",
@@ -11955,8 +11955,8 @@ module.exports = {
         }
       }
     },
-    "Supporting": {
-      "Label - XLarge": {
+    "supporting": {
+      "labelXLarge": {
         "fontFamily": {
           "value": "Art Basel Text",
           "type": "fontFamilies",
@@ -11966,7 +11966,7 @@ module.exports = {
             "value": "{fontFamilies.art-basel-text}",
             "type": "fontFamilies"
           },
-          "name": "mch_typography_supporting_label_x_large_font_family",
+          "name": "mchTypographySupportingLabelXLargeFontFamily",
           "attributes": {
             "category": "Typography",
             "type": "Supporting",
@@ -11989,7 +11989,7 @@ module.exports = {
             "value": "{fontWeights.art-basel-text-2}",
             "type": "fontWeights"
           },
-          "name": "mch_typography_supporting_label_x_large_font_weight",
+          "name": "mchTypographySupportingLabelXLargeFontWeight",
           "attributes": {
             "category": "Typography",
             "type": "Supporting",
@@ -12012,7 +12012,7 @@ module.exports = {
             "value": "{lineHeights.13}",
             "type": "lineHeights"
           },
-          "name": "mch_typography_supporting_label_x_large_line_height",
+          "name": "mchTypographySupportingLabelXLargeLineHeight",
           "attributes": {
             "category": "Typography",
             "type": "Supporting",
@@ -12035,7 +12035,7 @@ module.exports = {
             "value": "{fontSize.2}",
             "type": "fontSizes"
           },
-          "name": "mch_typography_supporting_label_x_large_font_size",
+          "name": "mchTypographySupportingLabelXLargeFontSize",
           "attributes": {
             "category": "Typography",
             "type": "Supporting",
@@ -12058,7 +12058,7 @@ module.exports = {
             "value": "{letterSpacing.0}",
             "type": "letterSpacing"
           },
-          "name": "mch_typography_supporting_label_x_large_letter_spacing",
+          "name": "mchTypographySupportingLabelXLargeLetterSpacing",
           "attributes": {
             "category": "Typography",
             "type": "Supporting",
@@ -12081,7 +12081,7 @@ module.exports = {
             "value": "{paragraphSpacing.0}",
             "type": "paragraphSpacing"
           },
-          "name": "mch_typography_supporting_label_x_large_paragraph_spacing",
+          "name": "mchTypographySupportingLabelXLargeParagraphSpacing",
           "attributes": {
             "category": "Typography",
             "type": "Supporting",
@@ -12104,7 +12104,7 @@ module.exports = {
             "value": "{paragraphIndent.0}",
             "type": "paragraphIndent"
           },
-          "name": "mch_typography_supporting_label_x_large_paragraph_indent",
+          "name": "mchTypographySupportingLabelXLargeParagraphIndent",
           "attributes": {
             "category": "Typography",
             "type": "Supporting",
@@ -12127,7 +12127,7 @@ module.exports = {
             "value": "{textCase.none}",
             "type": "textCase"
           },
-          "name": "mch_typography_supporting_label_x_large_text_case",
+          "name": "mchTypographySupportingLabelXLargeTextCase",
           "attributes": {
             "category": "Typography",
             "type": "Supporting",
@@ -12150,7 +12150,7 @@ module.exports = {
             "value": "{textDecoration.none}",
             "type": "textDecoration"
           },
-          "name": "mch_typography_supporting_label_x_large_text_decoration",
+          "name": "mchTypographySupportingLabelXLargeTextDecoration",
           "attributes": {
             "category": "Typography",
             "type": "Supporting",
@@ -12165,7 +12165,7 @@ module.exports = {
           ]
         }
       },
-      "Label - Large": {
+      "labelLarge": {
         "fontFamily": {
           "value": "Art Basel Text",
           "type": "fontFamilies",
@@ -12175,7 +12175,7 @@ module.exports = {
             "value": "{fontFamilies.art-basel-text}",
             "type": "fontFamilies"
           },
-          "name": "mch_typography_supporting_label_large_font_family",
+          "name": "mchTypographySupportingLabelLargeFontFamily",
           "attributes": {
             "category": "Typography",
             "type": "Supporting",
@@ -12198,7 +12198,7 @@ module.exports = {
             "value": "{fontWeights.art-basel-text-2}",
             "type": "fontWeights"
           },
-          "name": "mch_typography_supporting_label_large_font_weight",
+          "name": "mchTypographySupportingLabelLargeFontWeight",
           "attributes": {
             "category": "Typography",
             "type": "Supporting",
@@ -12221,7 +12221,7 @@ module.exports = {
             "value": "{lineHeights.11}",
             "type": "lineHeights"
           },
-          "name": "mch_typography_supporting_label_large_line_height",
+          "name": "mchTypographySupportingLabelLargeLineHeight",
           "attributes": {
             "category": "Typography",
             "type": "Supporting",
@@ -12244,7 +12244,7 @@ module.exports = {
             "value": "{fontSize.1}",
             "type": "fontSizes"
           },
-          "name": "mch_typography_supporting_label_large_font_size",
+          "name": "mchTypographySupportingLabelLargeFontSize",
           "attributes": {
             "category": "Typography",
             "type": "Supporting",
@@ -12267,7 +12267,7 @@ module.exports = {
             "value": "{letterSpacing.0}",
             "type": "letterSpacing"
           },
-          "name": "mch_typography_supporting_label_large_letter_spacing",
+          "name": "mchTypographySupportingLabelLargeLetterSpacing",
           "attributes": {
             "category": "Typography",
             "type": "Supporting",
@@ -12290,7 +12290,7 @@ module.exports = {
             "value": "{paragraphSpacing.0}",
             "type": "paragraphSpacing"
           },
-          "name": "mch_typography_supporting_label_large_paragraph_spacing",
+          "name": "mchTypographySupportingLabelLargeParagraphSpacing",
           "attributes": {
             "category": "Typography",
             "type": "Supporting",
@@ -12313,7 +12313,7 @@ module.exports = {
             "value": "{paragraphIndent.0}",
             "type": "paragraphIndent"
           },
-          "name": "mch_typography_supporting_label_large_paragraph_indent",
+          "name": "mchTypographySupportingLabelLargeParagraphIndent",
           "attributes": {
             "category": "Typography",
             "type": "Supporting",
@@ -12336,7 +12336,7 @@ module.exports = {
             "value": "{textCase.none}",
             "type": "textCase"
           },
-          "name": "mch_typography_supporting_label_large_text_case",
+          "name": "mchTypographySupportingLabelLargeTextCase",
           "attributes": {
             "category": "Typography",
             "type": "Supporting",
@@ -12359,7 +12359,7 @@ module.exports = {
             "value": "{textDecoration.none}",
             "type": "textDecoration"
           },
-          "name": "mch_typography_supporting_label_large_text_decoration",
+          "name": "mchTypographySupportingLabelLargeTextDecoration",
           "attributes": {
             "category": "Typography",
             "type": "Supporting",
@@ -12374,7 +12374,7 @@ module.exports = {
           ]
         }
       },
-      "Label - Medium": {
+      "labelMedium": {
         "fontFamily": {
           "value": "Art Basel Text",
           "type": "fontFamilies",
@@ -12384,7 +12384,7 @@ module.exports = {
             "value": "{fontFamilies.art-basel-text}",
             "type": "fontFamilies"
           },
-          "name": "mch_typography_supporting_label_medium_font_family",
+          "name": "mchTypographySupportingLabelMediumFontFamily",
           "attributes": {
             "category": "Typography",
             "type": "Supporting",
@@ -12407,7 +12407,7 @@ module.exports = {
             "value": "{fontWeights.art-basel-text-2}",
             "type": "fontWeights"
           },
-          "name": "mch_typography_supporting_label_medium_font_weight",
+          "name": "mchTypographySupportingLabelMediumFontWeight",
           "attributes": {
             "category": "Typography",
             "type": "Supporting",
@@ -12430,7 +12430,7 @@ module.exports = {
             "value": "{lineHeights.14}",
             "type": "lineHeights"
           },
-          "name": "mch_typography_supporting_label_medium_line_height",
+          "name": "mchTypographySupportingLabelMediumLineHeight",
           "attributes": {
             "category": "Typography",
             "type": "Supporting",
@@ -12453,7 +12453,7 @@ module.exports = {
             "value": "{fontSize.0}",
             "type": "fontSizes"
           },
-          "name": "mch_typography_supporting_label_medium_font_size",
+          "name": "mchTypographySupportingLabelMediumFontSize",
           "attributes": {
             "category": "Typography",
             "type": "Supporting",
@@ -12476,7 +12476,7 @@ module.exports = {
             "value": "{letterSpacing.0}",
             "type": "letterSpacing"
           },
-          "name": "mch_typography_supporting_label_medium_letter_spacing",
+          "name": "mchTypographySupportingLabelMediumLetterSpacing",
           "attributes": {
             "category": "Typography",
             "type": "Supporting",
@@ -12499,7 +12499,7 @@ module.exports = {
             "value": "{paragraphSpacing.0}",
             "type": "paragraphSpacing"
           },
-          "name": "mch_typography_supporting_label_medium_paragraph_spacing",
+          "name": "mchTypographySupportingLabelMediumParagraphSpacing",
           "attributes": {
             "category": "Typography",
             "type": "Supporting",
@@ -12522,7 +12522,7 @@ module.exports = {
             "value": "{paragraphIndent.0}",
             "type": "paragraphIndent"
           },
-          "name": "mch_typography_supporting_label_medium_paragraph_indent",
+          "name": "mchTypographySupportingLabelMediumParagraphIndent",
           "attributes": {
             "category": "Typography",
             "type": "Supporting",
@@ -12545,7 +12545,7 @@ module.exports = {
             "value": "{textCase.none}",
             "type": "textCase"
           },
-          "name": "mch_typography_supporting_label_medium_text_case",
+          "name": "mchTypographySupportingLabelMediumTextCase",
           "attributes": {
             "category": "Typography",
             "type": "Supporting",
@@ -12568,7 +12568,7 @@ module.exports = {
             "value": "{textDecoration.none}",
             "type": "textDecoration"
           },
-          "name": "mch_typography_supporting_label_medium_text_decoration",
+          "name": "mchTypographySupportingLabelMediumTextDecoration",
           "attributes": {
             "category": "Typography",
             "type": "Supporting",
@@ -12583,7 +12583,7 @@ module.exports = {
           ]
         }
       },
-      "Label - Small": {
+      "labelSmall": {
         "fontFamily": {
           "value": "Art Basel Text",
           "type": "fontFamilies",
@@ -12593,7 +12593,7 @@ module.exports = {
             "value": "{fontFamilies.art-basel-text}",
             "type": "fontFamilies"
           },
-          "name": "mch_typography_supporting_label_small_font_family",
+          "name": "mchTypographySupportingLabelSmallFontFamily",
           "attributes": {
             "category": "Typography",
             "type": "Supporting",
@@ -12616,7 +12616,7 @@ module.exports = {
             "value": "{fontWeights.art-basel-text-1}",
             "type": "fontWeights"
           },
-          "name": "mch_typography_supporting_label_small_font_weight",
+          "name": "mchTypographySupportingLabelSmallFontWeight",
           "attributes": {
             "category": "Typography",
             "type": "Supporting",
@@ -12639,7 +12639,7 @@ module.exports = {
             "value": "{lineHeights.14}",
             "type": "lineHeights"
           },
-          "name": "mch_typography_supporting_label_small_line_height",
+          "name": "mchTypographySupportingLabelSmallLineHeight",
           "attributes": {
             "category": "Typography",
             "type": "Supporting",
@@ -12662,7 +12662,7 @@ module.exports = {
             "value": "{fontSize.0}",
             "type": "fontSizes"
           },
-          "name": "mch_typography_supporting_label_small_font_size",
+          "name": "mchTypographySupportingLabelSmallFontSize",
           "attributes": {
             "category": "Typography",
             "type": "Supporting",
@@ -12685,7 +12685,7 @@ module.exports = {
             "value": "{letterSpacing.4}",
             "type": "letterSpacing"
           },
-          "name": "mch_typography_supporting_label_small_letter_spacing",
+          "name": "mchTypographySupportingLabelSmallLetterSpacing",
           "attributes": {
             "category": "Typography",
             "type": "Supporting",
@@ -12708,7 +12708,7 @@ module.exports = {
             "value": "{paragraphSpacing.0}",
             "type": "paragraphSpacing"
           },
-          "name": "mch_typography_supporting_label_small_paragraph_spacing",
+          "name": "mchTypographySupportingLabelSmallParagraphSpacing",
           "attributes": {
             "category": "Typography",
             "type": "Supporting",
@@ -12731,7 +12731,7 @@ module.exports = {
             "value": "{paragraphIndent.0}",
             "type": "paragraphIndent"
           },
-          "name": "mch_typography_supporting_label_small_paragraph_indent",
+          "name": "mchTypographySupportingLabelSmallParagraphIndent",
           "attributes": {
             "category": "Typography",
             "type": "Supporting",
@@ -12754,7 +12754,7 @@ module.exports = {
             "value": "{textCase.none}",
             "type": "textCase"
           },
-          "name": "mch_typography_supporting_label_small_text_case",
+          "name": "mchTypographySupportingLabelSmallTextCase",
           "attributes": {
             "category": "Typography",
             "type": "Supporting",
@@ -12777,7 +12777,7 @@ module.exports = {
             "value": "{textDecoration.none}",
             "type": "textDecoration"
           },
-          "name": "mch_typography_supporting_label_small_text_decoration",
+          "name": "mchTypographySupportingLabelSmallTextDecoration",
           "attributes": {
             "category": "Typography",
             "type": "Supporting",
@@ -12793,8 +12793,8 @@ module.exports = {
         }
       }
     },
-    "Links": {
-      "Text Link - Medium (Default)": {
+    "links": {
+      "textLinkMediumDefault": {
         "fontFamily": {
           "value": "Art Basel Text",
           "type": "fontFamilies",
@@ -12804,7 +12804,7 @@ module.exports = {
             "value": "{fontFamilies.art-basel-text}",
             "type": "fontFamilies"
           },
-          "name": "mch_typography_links_text_link_medium_default_font_family",
+          "name": "mchTypographyLinksTextLinkMediumDefaultFontFamily",
           "attributes": {
             "category": "Typography",
             "type": "Links",
@@ -12827,7 +12827,7 @@ module.exports = {
             "value": "{fontWeights.art-basel-text-2}",
             "type": "fontWeights"
           },
-          "name": "mch_typography_links_text_link_medium_default_font_weight",
+          "name": "mchTypographyLinksTextLinkMediumDefaultFontWeight",
           "attributes": {
             "category": "Typography",
             "type": "Links",
@@ -12850,7 +12850,7 @@ module.exports = {
             "value": "{lineHeights.15}",
             "type": "lineHeights"
           },
-          "name": "mch_typography_links_text_link_medium_default_line_height",
+          "name": "mchTypographyLinksTextLinkMediumDefaultLineHeight",
           "attributes": {
             "category": "Typography",
             "type": "Links",
@@ -12873,7 +12873,7 @@ module.exports = {
             "value": "{fontSize.2}",
             "type": "fontSizes"
           },
-          "name": "mch_typography_links_text_link_medium_default_font_size",
+          "name": "mchTypographyLinksTextLinkMediumDefaultFontSize",
           "attributes": {
             "category": "Typography",
             "type": "Links",
@@ -12896,7 +12896,7 @@ module.exports = {
             "value": "{letterSpacing.0}",
             "type": "letterSpacing"
           },
-          "name": "mch_typography_links_text_link_medium_default_letter_spacing",
+          "name": "mchTypographyLinksTextLinkMediumDefaultLetterSpacing",
           "attributes": {
             "category": "Typography",
             "type": "Links",
@@ -12919,7 +12919,7 @@ module.exports = {
             "value": "{paragraphSpacing.0}",
             "type": "paragraphSpacing"
           },
-          "name": "mch_typography_links_text_link_medium_default_paragraph_spacing",
+          "name": "mchTypographyLinksTextLinkMediumDefaultParagraphSpacing",
           "attributes": {
             "category": "Typography",
             "type": "Links",
@@ -12942,7 +12942,7 @@ module.exports = {
             "value": "{paragraphIndent.0}",
             "type": "paragraphIndent"
           },
-          "name": "mch_typography_links_text_link_medium_default_paragraph_indent",
+          "name": "mchTypographyLinksTextLinkMediumDefaultParagraphIndent",
           "attributes": {
             "category": "Typography",
             "type": "Links",
@@ -12965,7 +12965,7 @@ module.exports = {
             "value": "{textCase.none}",
             "type": "textCase"
           },
-          "name": "mch_typography_links_text_link_medium_default_text_case",
+          "name": "mchTypographyLinksTextLinkMediumDefaultTextCase",
           "attributes": {
             "category": "Typography",
             "type": "Links",
@@ -12988,7 +12988,7 @@ module.exports = {
             "value": "{textDecoration.none}",
             "type": "textDecoration"
           },
-          "name": "mch_typography_links_text_link_medium_default_text_decoration",
+          "name": "mchTypographyLinksTextLinkMediumDefaultTextDecoration",
           "attributes": {
             "category": "Typography",
             "type": "Links",
@@ -13003,7 +13003,7 @@ module.exports = {
           ]
         }
       },
-      "Text Link - Medium (Hover)": {
+      "textLinkMediumHover": {
         "fontFamily": {
           "value": "Art Basel Text",
           "type": "fontFamilies",
@@ -13013,7 +13013,7 @@ module.exports = {
             "value": "{fontFamilies.art-basel-text}",
             "type": "fontFamilies"
           },
-          "name": "mch_typography_links_text_link_medium_hover_font_family",
+          "name": "mchTypographyLinksTextLinkMediumHoverFontFamily",
           "attributes": {
             "category": "Typography",
             "type": "Links",
@@ -13036,7 +13036,7 @@ module.exports = {
             "value": "{fontWeights.art-basel-text-2}",
             "type": "fontWeights"
           },
-          "name": "mch_typography_links_text_link_medium_hover_font_weight",
+          "name": "mchTypographyLinksTextLinkMediumHoverFontWeight",
           "attributes": {
             "category": "Typography",
             "type": "Links",
@@ -13059,7 +13059,7 @@ module.exports = {
             "value": "{lineHeights.15}",
             "type": "lineHeights"
           },
-          "name": "mch_typography_links_text_link_medium_hover_line_height",
+          "name": "mchTypographyLinksTextLinkMediumHoverLineHeight",
           "attributes": {
             "category": "Typography",
             "type": "Links",
@@ -13082,7 +13082,7 @@ module.exports = {
             "value": "{fontSize.2}",
             "type": "fontSizes"
           },
-          "name": "mch_typography_links_text_link_medium_hover_font_size",
+          "name": "mchTypographyLinksTextLinkMediumHoverFontSize",
           "attributes": {
             "category": "Typography",
             "type": "Links",
@@ -13105,7 +13105,7 @@ module.exports = {
             "value": "{letterSpacing.0}",
             "type": "letterSpacing"
           },
-          "name": "mch_typography_links_text_link_medium_hover_letter_spacing",
+          "name": "mchTypographyLinksTextLinkMediumHoverLetterSpacing",
           "attributes": {
             "category": "Typography",
             "type": "Links",
@@ -13128,7 +13128,7 @@ module.exports = {
             "value": "{paragraphSpacing.0}",
             "type": "paragraphSpacing"
           },
-          "name": "mch_typography_links_text_link_medium_hover_paragraph_spacing",
+          "name": "mchTypographyLinksTextLinkMediumHoverParagraphSpacing",
           "attributes": {
             "category": "Typography",
             "type": "Links",
@@ -13151,7 +13151,7 @@ module.exports = {
             "value": "{paragraphIndent.0}",
             "type": "paragraphIndent"
           },
-          "name": "mch_typography_links_text_link_medium_hover_paragraph_indent",
+          "name": "mchTypographyLinksTextLinkMediumHoverParagraphIndent",
           "attributes": {
             "category": "Typography",
             "type": "Links",
@@ -13174,7 +13174,7 @@ module.exports = {
             "value": "{textCase.none}",
             "type": "textCase"
           },
-          "name": "mch_typography_links_text_link_medium_hover_text_case",
+          "name": "mchTypographyLinksTextLinkMediumHoverTextCase",
           "attributes": {
             "category": "Typography",
             "type": "Links",
@@ -13197,7 +13197,7 @@ module.exports = {
             "value": "{textDecoration.underline}",
             "type": "textDecoration"
           },
-          "name": "mch_typography_links_text_link_medium_hover_text_decoration",
+          "name": "mchTypographyLinksTextLinkMediumHoverTextDecoration",
           "attributes": {
             "category": "Typography",
             "type": "Links",
@@ -13212,7 +13212,7 @@ module.exports = {
           ]
         }
       },
-      "External Link - Medium (Default)": {
+      "externalLinkMediumDefault": {
         "fontFamily": {
           "value": "Art Basel Text",
           "type": "fontFamilies",
@@ -13222,7 +13222,7 @@ module.exports = {
             "value": "{fontFamilies.art-basel-text}",
             "type": "fontFamilies"
           },
-          "name": "mch_typography_links_external_link_medium_default_font_family",
+          "name": "mchTypographyLinksExternalLinkMediumDefaultFontFamily",
           "attributes": {
             "category": "Typography",
             "type": "Links",
@@ -13245,7 +13245,7 @@ module.exports = {
             "value": "{fontWeights.art-basel-text-2}",
             "type": "fontWeights"
           },
-          "name": "mch_typography_links_external_link_medium_default_font_weight",
+          "name": "mchTypographyLinksExternalLinkMediumDefaultFontWeight",
           "attributes": {
             "category": "Typography",
             "type": "Links",
@@ -13268,7 +13268,7 @@ module.exports = {
             "value": "{lineHeights.15}",
             "type": "lineHeights"
           },
-          "name": "mch_typography_links_external_link_medium_default_line_height",
+          "name": "mchTypographyLinksExternalLinkMediumDefaultLineHeight",
           "attributes": {
             "category": "Typography",
             "type": "Links",
@@ -13291,7 +13291,7 @@ module.exports = {
             "value": "{fontSize.2}",
             "type": "fontSizes"
           },
-          "name": "mch_typography_links_external_link_medium_default_font_size",
+          "name": "mchTypographyLinksExternalLinkMediumDefaultFontSize",
           "attributes": {
             "category": "Typography",
             "type": "Links",
@@ -13314,7 +13314,7 @@ module.exports = {
             "value": "{letterSpacing.0}",
             "type": "letterSpacing"
           },
-          "name": "mch_typography_links_external_link_medium_default_letter_spacing",
+          "name": "mchTypographyLinksExternalLinkMediumDefaultLetterSpacing",
           "attributes": {
             "category": "Typography",
             "type": "Links",
@@ -13337,7 +13337,7 @@ module.exports = {
             "value": "{paragraphSpacing.0}",
             "type": "paragraphSpacing"
           },
-          "name": "mch_typography_links_external_link_medium_default_paragraph_spacing",
+          "name": "mchTypographyLinksExternalLinkMediumDefaultParagraphSpacing",
           "attributes": {
             "category": "Typography",
             "type": "Links",
@@ -13360,7 +13360,7 @@ module.exports = {
             "value": "{paragraphIndent.0}",
             "type": "paragraphIndent"
           },
-          "name": "mch_typography_links_external_link_medium_default_paragraph_indent",
+          "name": "mchTypographyLinksExternalLinkMediumDefaultParagraphIndent",
           "attributes": {
             "category": "Typography",
             "type": "Links",
@@ -13383,7 +13383,7 @@ module.exports = {
             "value": "{textCase.uppercase}",
             "type": "textCase"
           },
-          "name": "mch_typography_links_external_link_medium_default_text_case",
+          "name": "mchTypographyLinksExternalLinkMediumDefaultTextCase",
           "attributes": {
             "category": "Typography",
             "type": "Links",
@@ -13406,7 +13406,7 @@ module.exports = {
             "value": "{textDecoration.none}",
             "type": "textDecoration"
           },
-          "name": "mch_typography_links_external_link_medium_default_text_decoration",
+          "name": "mchTypographyLinksExternalLinkMediumDefaultTextDecoration",
           "attributes": {
             "category": "Typography",
             "type": "Links",
@@ -13421,7 +13421,7 @@ module.exports = {
           ]
         }
       },
-      "Button - Medium": {
+      "buttonMedium": {
         "fontFamily": {
           "value": "Art Basel Text",
           "type": "fontFamilies",
@@ -13431,7 +13431,7 @@ module.exports = {
             "value": "{fontFamilies.art-basel-text}",
             "type": "fontFamilies"
           },
-          "name": "mch_typography_links_button_medium_font_family",
+          "name": "mchTypographyLinksButtonMediumFontFamily",
           "attributes": {
             "category": "Typography",
             "type": "Links",
@@ -13454,7 +13454,7 @@ module.exports = {
             "value": "{fontWeights.art-basel-text-2}",
             "type": "fontWeights"
           },
-          "name": "mch_typography_links_button_medium_font_weight",
+          "name": "mchTypographyLinksButtonMediumFontWeight",
           "attributes": {
             "category": "Typography",
             "type": "Links",
@@ -13477,7 +13477,7 @@ module.exports = {
             "value": "{lineHeights.11}",
             "type": "lineHeights"
           },
-          "name": "mch_typography_links_button_medium_line_height",
+          "name": "mchTypographyLinksButtonMediumLineHeight",
           "attributes": {
             "category": "Typography",
             "type": "Links",
@@ -13500,7 +13500,7 @@ module.exports = {
             "value": "{fontSize.1}",
             "type": "fontSizes"
           },
-          "name": "mch_typography_links_button_medium_font_size",
+          "name": "mchTypographyLinksButtonMediumFontSize",
           "attributes": {
             "category": "Typography",
             "type": "Links",
@@ -13523,7 +13523,7 @@ module.exports = {
             "value": "{letterSpacing.0}",
             "type": "letterSpacing"
           },
-          "name": "mch_typography_links_button_medium_letter_spacing",
+          "name": "mchTypographyLinksButtonMediumLetterSpacing",
           "attributes": {
             "category": "Typography",
             "type": "Links",
@@ -13546,7 +13546,7 @@ module.exports = {
             "value": "{paragraphSpacing.0}",
             "type": "paragraphSpacing"
           },
-          "name": "mch_typography_links_button_medium_paragraph_spacing",
+          "name": "mchTypographyLinksButtonMediumParagraphSpacing",
           "attributes": {
             "category": "Typography",
             "type": "Links",
@@ -13569,7 +13569,7 @@ module.exports = {
             "value": "{paragraphIndent.0}",
             "type": "paragraphIndent"
           },
-          "name": "mch_typography_links_button_medium_paragraph_indent",
+          "name": "mchTypographyLinksButtonMediumParagraphIndent",
           "attributes": {
             "category": "Typography",
             "type": "Links",
@@ -13592,7 +13592,7 @@ module.exports = {
             "value": "{textCase.uppercase}",
             "type": "textCase"
           },
-          "name": "mch_typography_links_button_medium_text_case",
+          "name": "mchTypographyLinksButtonMediumTextCase",
           "attributes": {
             "category": "Typography",
             "type": "Links",
@@ -13615,7 +13615,7 @@ module.exports = {
             "value": "{textDecoration.none}",
             "type": "textDecoration"
           },
-          "name": "mch_typography_links_button_medium_text_decoration",
+          "name": "mchTypographyLinksButtonMediumTextDecoration",
           "attributes": {
             "category": "Typography",
             "type": "Links",
@@ -13631,9 +13631,9 @@ module.exports = {
         }
       }
     },
-    "Editorial Headings": {
-      "XS-SM": {
-        "H1": {
+    "editorialHeadings": {
+      "xsSm": {
+        "h1": {
           "fontFamily": {
             "value": "Ivar Display",
             "type": "fontFamilies",
@@ -13643,7 +13643,7 @@ module.exports = {
               "value": "{fontFamilies.ivar-display}",
               "type": "fontFamilies"
             },
-            "name": "mch_typography_editorial_headings_xs_sm_h1_font_family",
+            "name": "mchTypographyEditorialHeadingsXsSmH1FontFamily",
             "attributes": {
               "category": "Typography",
               "type": "Editorial Headings",
@@ -13668,7 +13668,7 @@ module.exports = {
               "value": "{fontWeights.ivar-display-3}",
               "type": "fontWeights"
             },
-            "name": "mch_typography_editorial_headings_xs_sm_h1_font_weight",
+            "name": "mchTypographyEditorialHeadingsXsSmH1FontWeight",
             "attributes": {
               "category": "Typography",
               "type": "Editorial Headings",
@@ -13693,7 +13693,7 @@ module.exports = {
               "value": "{lineHeights.6}",
               "type": "lineHeights"
             },
-            "name": "mch_typography_editorial_headings_xs_sm_h1_line_height",
+            "name": "mchTypographyEditorialHeadingsXsSmH1LineHeight",
             "attributes": {
               "category": "Typography",
               "type": "Editorial Headings",
@@ -13718,7 +13718,7 @@ module.exports = {
               "value": "{fontSize.7}",
               "type": "fontSizes"
             },
-            "name": "mch_typography_editorial_headings_xs_sm_h1_font_size",
+            "name": "mchTypographyEditorialHeadingsXsSmH1FontSize",
             "attributes": {
               "category": "Typography",
               "type": "Editorial Headings",
@@ -13743,7 +13743,7 @@ module.exports = {
               "value": "{letterSpacing.1}",
               "type": "letterSpacing"
             },
-            "name": "mch_typography_editorial_headings_xs_sm_h1_letter_spacing",
+            "name": "mchTypographyEditorialHeadingsXsSmH1LetterSpacing",
             "attributes": {
               "category": "Typography",
               "type": "Editorial Headings",
@@ -13768,7 +13768,7 @@ module.exports = {
               "value": "{paragraphSpacing.1}",
               "type": "paragraphSpacing"
             },
-            "name": "mch_typography_editorial_headings_xs_sm_h1_paragraph_spacing",
+            "name": "mchTypographyEditorialHeadingsXsSmH1ParagraphSpacing",
             "attributes": {
               "category": "Typography",
               "type": "Editorial Headings",
@@ -13793,7 +13793,7 @@ module.exports = {
               "value": "{paragraphIndent.0}",
               "type": "paragraphIndent"
             },
-            "name": "mch_typography_editorial_headings_xs_sm_h1_paragraph_indent",
+            "name": "mchTypographyEditorialHeadingsXsSmH1ParagraphIndent",
             "attributes": {
               "category": "Typography",
               "type": "Editorial Headings",
@@ -13818,7 +13818,7 @@ module.exports = {
               "value": "{textCase.none}",
               "type": "textCase"
             },
-            "name": "mch_typography_editorial_headings_xs_sm_h1_text_case",
+            "name": "mchTypographyEditorialHeadingsXsSmH1TextCase",
             "attributes": {
               "category": "Typography",
               "type": "Editorial Headings",
@@ -13843,7 +13843,7 @@ module.exports = {
               "value": "{textDecoration.none}",
               "type": "textDecoration"
             },
-            "name": "mch_typography_editorial_headings_xs_sm_h1_text_decoration",
+            "name": "mchTypographyEditorialHeadingsXsSmH1TextDecoration",
             "attributes": {
               "category": "Typography",
               "type": "Editorial Headings",
@@ -13860,7 +13860,7 @@ module.exports = {
             ]
           }
         },
-        "H2": {
+        "h2": {
           "fontFamily": {
             "value": "Ivar Display",
             "type": "fontFamilies",
@@ -13870,7 +13870,7 @@ module.exports = {
               "value": "{fontFamilies.ivar-display}",
               "type": "fontFamilies"
             },
-            "name": "mch_typography_editorial_headings_xs_sm_h2_font_family",
+            "name": "mchTypographyEditorialHeadingsXsSmH2FontFamily",
             "attributes": {
               "category": "Typography",
               "type": "Editorial Headings",
@@ -13895,7 +13895,7 @@ module.exports = {
               "value": "{fontWeights.ivar-display-3}",
               "type": "fontWeights"
             },
-            "name": "mch_typography_editorial_headings_xs_sm_h2_font_weight",
+            "name": "mchTypographyEditorialHeadingsXsSmH2FontWeight",
             "attributes": {
               "category": "Typography",
               "type": "Editorial Headings",
@@ -13920,7 +13920,7 @@ module.exports = {
               "value": "{lineHeights.1}",
               "type": "lineHeights"
             },
-            "name": "mch_typography_editorial_headings_xs_sm_h2_line_height",
+            "name": "mchTypographyEditorialHeadingsXsSmH2LineHeight",
             "attributes": {
               "category": "Typography",
               "type": "Editorial Headings",
@@ -13945,7 +13945,7 @@ module.exports = {
               "value": "{fontSize.6}",
               "type": "fontSizes"
             },
-            "name": "mch_typography_editorial_headings_xs_sm_h2_font_size",
+            "name": "mchTypographyEditorialHeadingsXsSmH2FontSize",
             "attributes": {
               "category": "Typography",
               "type": "Editorial Headings",
@@ -13970,7 +13970,7 @@ module.exports = {
               "value": "{letterSpacing.1}",
               "type": "letterSpacing"
             },
-            "name": "mch_typography_editorial_headings_xs_sm_h2_letter_spacing",
+            "name": "mchTypographyEditorialHeadingsXsSmH2LetterSpacing",
             "attributes": {
               "category": "Typography",
               "type": "Editorial Headings",
@@ -13995,7 +13995,7 @@ module.exports = {
               "value": "{paragraphSpacing.1}",
               "type": "paragraphSpacing"
             },
-            "name": "mch_typography_editorial_headings_xs_sm_h2_paragraph_spacing",
+            "name": "mchTypographyEditorialHeadingsXsSmH2ParagraphSpacing",
             "attributes": {
               "category": "Typography",
               "type": "Editorial Headings",
@@ -14020,7 +14020,7 @@ module.exports = {
               "value": "{paragraphIndent.0}",
               "type": "paragraphIndent"
             },
-            "name": "mch_typography_editorial_headings_xs_sm_h2_paragraph_indent",
+            "name": "mchTypographyEditorialHeadingsXsSmH2ParagraphIndent",
             "attributes": {
               "category": "Typography",
               "type": "Editorial Headings",
@@ -14045,7 +14045,7 @@ module.exports = {
               "value": "{textCase.none}",
               "type": "textCase"
             },
-            "name": "mch_typography_editorial_headings_xs_sm_h2_text_case",
+            "name": "mchTypographyEditorialHeadingsXsSmH2TextCase",
             "attributes": {
               "category": "Typography",
               "type": "Editorial Headings",
@@ -14070,7 +14070,7 @@ module.exports = {
               "value": "{textDecoration.none}",
               "type": "textDecoration"
             },
-            "name": "mch_typography_editorial_headings_xs_sm_h2_text_decoration",
+            "name": "mchTypographyEditorialHeadingsXsSmH2TextDecoration",
             "attributes": {
               "category": "Typography",
               "type": "Editorial Headings",
@@ -14087,7 +14087,7 @@ module.exports = {
             ]
           }
         },
-        "H3": {
+        "h3": {
           "fontFamily": {
             "value": "Ivar Display",
             "type": "fontFamilies",
@@ -14097,7 +14097,7 @@ module.exports = {
               "value": "{fontFamilies.ivar-display}",
               "type": "fontFamilies"
             },
-            "name": "mch_typography_editorial_headings_xs_sm_h3_font_family",
+            "name": "mchTypographyEditorialHeadingsXsSmH3FontFamily",
             "attributes": {
               "category": "Typography",
               "type": "Editorial Headings",
@@ -14122,7 +14122,7 @@ module.exports = {
               "value": "{fontWeights.ivar-display-3}",
               "type": "fontWeights"
             },
-            "name": "mch_typography_editorial_headings_xs_sm_h3_font_weight",
+            "name": "mchTypographyEditorialHeadingsXsSmH3FontWeight",
             "attributes": {
               "category": "Typography",
               "type": "Editorial Headings",
@@ -14147,7 +14147,7 @@ module.exports = {
               "value": "{lineHeights.16}",
               "type": "lineHeights"
             },
-            "name": "mch_typography_editorial_headings_xs_sm_h3_line_height",
+            "name": "mchTypographyEditorialHeadingsXsSmH3LineHeight",
             "attributes": {
               "category": "Typography",
               "type": "Editorial Headings",
@@ -14172,7 +14172,7 @@ module.exports = {
               "value": "{fontSize.5}",
               "type": "fontSizes"
             },
-            "name": "mch_typography_editorial_headings_xs_sm_h3_font_size",
+            "name": "mchTypographyEditorialHeadingsXsSmH3FontSize",
             "attributes": {
               "category": "Typography",
               "type": "Editorial Headings",
@@ -14197,7 +14197,7 @@ module.exports = {
               "value": "{letterSpacing.1}",
               "type": "letterSpacing"
             },
-            "name": "mch_typography_editorial_headings_xs_sm_h3_letter_spacing",
+            "name": "mchTypographyEditorialHeadingsXsSmH3LetterSpacing",
             "attributes": {
               "category": "Typography",
               "type": "Editorial Headings",
@@ -14222,7 +14222,7 @@ module.exports = {
               "value": "{paragraphSpacing.1}",
               "type": "paragraphSpacing"
             },
-            "name": "mch_typography_editorial_headings_xs_sm_h3_paragraph_spacing",
+            "name": "mchTypographyEditorialHeadingsXsSmH3ParagraphSpacing",
             "attributes": {
               "category": "Typography",
               "type": "Editorial Headings",
@@ -14247,7 +14247,7 @@ module.exports = {
               "value": "{paragraphIndent.0}",
               "type": "paragraphIndent"
             },
-            "name": "mch_typography_editorial_headings_xs_sm_h3_paragraph_indent",
+            "name": "mchTypographyEditorialHeadingsXsSmH3ParagraphIndent",
             "attributes": {
               "category": "Typography",
               "type": "Editorial Headings",
@@ -14272,7 +14272,7 @@ module.exports = {
               "value": "{textCase.none}",
               "type": "textCase"
             },
-            "name": "mch_typography_editorial_headings_xs_sm_h3_text_case",
+            "name": "mchTypographyEditorialHeadingsXsSmH3TextCase",
             "attributes": {
               "category": "Typography",
               "type": "Editorial Headings",
@@ -14297,7 +14297,7 @@ module.exports = {
               "value": "{textDecoration.none}",
               "type": "textDecoration"
             },
-            "name": "mch_typography_editorial_headings_xs_sm_h3_text_decoration",
+            "name": "mchTypographyEditorialHeadingsXsSmH3TextDecoration",
             "attributes": {
               "category": "Typography",
               "type": "Editorial Headings",
@@ -14314,7 +14314,7 @@ module.exports = {
             ]
           }
         },
-        "H4": {
+        "h4": {
           "fontFamily": {
             "value": "Ivar Display",
             "type": "fontFamilies",
@@ -14324,7 +14324,7 @@ module.exports = {
               "value": "{fontFamilies.ivar-display}",
               "type": "fontFamilies"
             },
-            "name": "mch_typography_editorial_headings_xs_sm_h4_font_family",
+            "name": "mchTypographyEditorialHeadingsXsSmH4FontFamily",
             "attributes": {
               "category": "Typography",
               "type": "Editorial Headings",
@@ -14349,7 +14349,7 @@ module.exports = {
               "value": "{fontWeights.ivar-display-3}",
               "type": "fontWeights"
             },
-            "name": "mch_typography_editorial_headings_xs_sm_h4_font_weight",
+            "name": "mchTypographyEditorialHeadingsXsSmH4FontWeight",
             "attributes": {
               "category": "Typography",
               "type": "Editorial Headings",
@@ -14374,7 +14374,7 @@ module.exports = {
               "value": "{lineHeights.12}",
               "type": "lineHeights"
             },
-            "name": "mch_typography_editorial_headings_xs_sm_h4_line_height",
+            "name": "mchTypographyEditorialHeadingsXsSmH4LineHeight",
             "attributes": {
               "category": "Typography",
               "type": "Editorial Headings",
@@ -14399,7 +14399,7 @@ module.exports = {
               "value": "{fontSize.4}",
               "type": "fontSizes"
             },
-            "name": "mch_typography_editorial_headings_xs_sm_h4_font_size",
+            "name": "mchTypographyEditorialHeadingsXsSmH4FontSize",
             "attributes": {
               "category": "Typography",
               "type": "Editorial Headings",
@@ -14424,7 +14424,7 @@ module.exports = {
               "value": "{letterSpacing.1}",
               "type": "letterSpacing"
             },
-            "name": "mch_typography_editorial_headings_xs_sm_h4_letter_spacing",
+            "name": "mchTypographyEditorialHeadingsXsSmH4LetterSpacing",
             "attributes": {
               "category": "Typography",
               "type": "Editorial Headings",
@@ -14449,7 +14449,7 @@ module.exports = {
               "value": "{paragraphSpacing.1}",
               "type": "paragraphSpacing"
             },
-            "name": "mch_typography_editorial_headings_xs_sm_h4_paragraph_spacing",
+            "name": "mchTypographyEditorialHeadingsXsSmH4ParagraphSpacing",
             "attributes": {
               "category": "Typography",
               "type": "Editorial Headings",
@@ -14474,7 +14474,7 @@ module.exports = {
               "value": "{paragraphIndent.0}",
               "type": "paragraphIndent"
             },
-            "name": "mch_typography_editorial_headings_xs_sm_h4_paragraph_indent",
+            "name": "mchTypographyEditorialHeadingsXsSmH4ParagraphIndent",
             "attributes": {
               "category": "Typography",
               "type": "Editorial Headings",
@@ -14499,7 +14499,7 @@ module.exports = {
               "value": "{textCase.none}",
               "type": "textCase"
             },
-            "name": "mch_typography_editorial_headings_xs_sm_h4_text_case",
+            "name": "mchTypographyEditorialHeadingsXsSmH4TextCase",
             "attributes": {
               "category": "Typography",
               "type": "Editorial Headings",
@@ -14524,7 +14524,7 @@ module.exports = {
               "value": "{textDecoration.none}",
               "type": "textDecoration"
             },
-            "name": "mch_typography_editorial_headings_xs_sm_h4_text_decoration",
+            "name": "mchTypographyEditorialHeadingsXsSmH4TextDecoration",
             "attributes": {
               "category": "Typography",
               "type": "Editorial Headings",
@@ -14541,7 +14541,7 @@ module.exports = {
             ]
           }
         },
-        "H5": {
+        "h5": {
           "fontFamily": {
             "value": "Ivar Display",
             "type": "fontFamilies",
@@ -14551,7 +14551,7 @@ module.exports = {
               "value": "{fontFamilies.ivar-display}",
               "type": "fontFamilies"
             },
-            "name": "mch_typography_editorial_headings_xs_sm_h5_font_family",
+            "name": "mchTypographyEditorialHeadingsXsSmH5FontFamily",
             "attributes": {
               "category": "Typography",
               "type": "Editorial Headings",
@@ -14576,7 +14576,7 @@ module.exports = {
               "value": "{fontWeights.ivar-display-3}",
               "type": "fontWeights"
             },
-            "name": "mch_typography_editorial_headings_xs_sm_h5_font_weight",
+            "name": "mchTypographyEditorialHeadingsXsSmH5FontWeight",
             "attributes": {
               "category": "Typography",
               "type": "Editorial Headings",
@@ -14601,7 +14601,7 @@ module.exports = {
               "value": "{lineHeights.15}",
               "type": "lineHeights"
             },
-            "name": "mch_typography_editorial_headings_xs_sm_h5_line_height",
+            "name": "mchTypographyEditorialHeadingsXsSmH5LineHeight",
             "attributes": {
               "category": "Typography",
               "type": "Editorial Headings",
@@ -14626,7 +14626,7 @@ module.exports = {
               "value": "{fontSize.3}",
               "type": "fontSizes"
             },
-            "name": "mch_typography_editorial_headings_xs_sm_h5_font_size",
+            "name": "mchTypographyEditorialHeadingsXsSmH5FontSize",
             "attributes": {
               "category": "Typography",
               "type": "Editorial Headings",
@@ -14651,7 +14651,7 @@ module.exports = {
               "value": "{letterSpacing.1}",
               "type": "letterSpacing"
             },
-            "name": "mch_typography_editorial_headings_xs_sm_h5_letter_spacing",
+            "name": "mchTypographyEditorialHeadingsXsSmH5LetterSpacing",
             "attributes": {
               "category": "Typography",
               "type": "Editorial Headings",
@@ -14676,7 +14676,7 @@ module.exports = {
               "value": "{paragraphSpacing.1}",
               "type": "paragraphSpacing"
             },
-            "name": "mch_typography_editorial_headings_xs_sm_h5_paragraph_spacing",
+            "name": "mchTypographyEditorialHeadingsXsSmH5ParagraphSpacing",
             "attributes": {
               "category": "Typography",
               "type": "Editorial Headings",
@@ -14701,7 +14701,7 @@ module.exports = {
               "value": "{paragraphIndent.0}",
               "type": "paragraphIndent"
             },
-            "name": "mch_typography_editorial_headings_xs_sm_h5_paragraph_indent",
+            "name": "mchTypographyEditorialHeadingsXsSmH5ParagraphIndent",
             "attributes": {
               "category": "Typography",
               "type": "Editorial Headings",
@@ -14726,7 +14726,7 @@ module.exports = {
               "value": "{textCase.none}",
               "type": "textCase"
             },
-            "name": "mch_typography_editorial_headings_xs_sm_h5_text_case",
+            "name": "mchTypographyEditorialHeadingsXsSmH5TextCase",
             "attributes": {
               "category": "Typography",
               "type": "Editorial Headings",
@@ -14751,7 +14751,7 @@ module.exports = {
               "value": "{textDecoration.none}",
               "type": "textDecoration"
             },
-            "name": "mch_typography_editorial_headings_xs_sm_h5_text_decoration",
+            "name": "mchTypographyEditorialHeadingsXsSmH5TextDecoration",
             "attributes": {
               "category": "Typography",
               "type": "Editorial Headings",
@@ -14769,8 +14769,8 @@ module.exports = {
           }
         }
       },
-      "XL": {
-        "H1": {
+      "xl": {
+        "h1": {
           "fontFamily": {
             "value": "Ivar Display",
             "type": "fontFamilies",
@@ -14780,7 +14780,7 @@ module.exports = {
               "value": "{fontFamilies.ivar-display}",
               "type": "fontFamilies"
             },
-            "name": "mch_typography_editorial_headings_xl_h1_font_family",
+            "name": "mchTypographyEditorialHeadingsXlH1FontFamily",
             "attributes": {
               "category": "Typography",
               "type": "Editorial Headings",
@@ -14805,7 +14805,7 @@ module.exports = {
               "value": "{fontWeights.ivar-display-3}",
               "type": "fontWeights"
             },
-            "name": "mch_typography_editorial_headings_xl_h1_font_weight",
+            "name": "mchTypographyEditorialHeadingsXlH1FontWeight",
             "attributes": {
               "category": "Typography",
               "type": "Editorial Headings",
@@ -14830,7 +14830,7 @@ module.exports = {
               "value": "{lineHeights.17}",
               "type": "lineHeights"
             },
-            "name": "mch_typography_editorial_headings_xl_h1_line_height",
+            "name": "mchTypographyEditorialHeadingsXlH1LineHeight",
             "attributes": {
               "category": "Typography",
               "type": "Editorial Headings",
@@ -14855,7 +14855,7 @@ module.exports = {
               "value": "{fontSize.14}",
               "type": "fontSizes"
             },
-            "name": "mch_typography_editorial_headings_xl_h1_font_size",
+            "name": "mchTypographyEditorialHeadingsXlH1FontSize",
             "attributes": {
               "category": "Typography",
               "type": "Editorial Headings",
@@ -14880,7 +14880,7 @@ module.exports = {
               "value": "{letterSpacing.0}",
               "type": "letterSpacing"
             },
-            "name": "mch_typography_editorial_headings_xl_h1_letter_spacing",
+            "name": "mchTypographyEditorialHeadingsXlH1LetterSpacing",
             "attributes": {
               "category": "Typography",
               "type": "Editorial Headings",
@@ -14905,7 +14905,7 @@ module.exports = {
               "value": "{paragraphSpacing.1}",
               "type": "paragraphSpacing"
             },
-            "name": "mch_typography_editorial_headings_xl_h1_paragraph_spacing",
+            "name": "mchTypographyEditorialHeadingsXlH1ParagraphSpacing",
             "attributes": {
               "category": "Typography",
               "type": "Editorial Headings",
@@ -14930,7 +14930,7 @@ module.exports = {
               "value": "{paragraphIndent.0}",
               "type": "paragraphIndent"
             },
-            "name": "mch_typography_editorial_headings_xl_h1_paragraph_indent",
+            "name": "mchTypographyEditorialHeadingsXlH1ParagraphIndent",
             "attributes": {
               "category": "Typography",
               "type": "Editorial Headings",
@@ -14955,7 +14955,7 @@ module.exports = {
               "value": "{textCase.none}",
               "type": "textCase"
             },
-            "name": "mch_typography_editorial_headings_xl_h1_text_case",
+            "name": "mchTypographyEditorialHeadingsXlH1TextCase",
             "attributes": {
               "category": "Typography",
               "type": "Editorial Headings",
@@ -14980,7 +14980,7 @@ module.exports = {
               "value": "{textDecoration.none}",
               "type": "textDecoration"
             },
-            "name": "mch_typography_editorial_headings_xl_h1_text_decoration",
+            "name": "mchTypographyEditorialHeadingsXlH1TextDecoration",
             "attributes": {
               "category": "Typography",
               "type": "Editorial Headings",
@@ -14997,7 +14997,7 @@ module.exports = {
             ]
           }
         },
-        "H2": {
+        "h2": {
           "fontFamily": {
             "value": "Ivar Display",
             "type": "fontFamilies",
@@ -15007,7 +15007,7 @@ module.exports = {
               "value": "{fontFamilies.ivar-display}",
               "type": "fontFamilies"
             },
-            "name": "mch_typography_editorial_headings_xl_h2_font_family",
+            "name": "mchTypographyEditorialHeadingsXlH2FontFamily",
             "attributes": {
               "category": "Typography",
               "type": "Editorial Headings",
@@ -15032,7 +15032,7 @@ module.exports = {
               "value": "{fontWeights.ivar-display-3}",
               "type": "fontWeights"
             },
-            "name": "mch_typography_editorial_headings_xl_h2_font_weight",
+            "name": "mchTypographyEditorialHeadingsXlH2FontWeight",
             "attributes": {
               "category": "Typography",
               "type": "Editorial Headings",
@@ -15057,7 +15057,7 @@ module.exports = {
               "value": "{lineHeights.18}",
               "type": "lineHeights"
             },
-            "name": "mch_typography_editorial_headings_xl_h2_line_height",
+            "name": "mchTypographyEditorialHeadingsXlH2LineHeight",
             "attributes": {
               "category": "Typography",
               "type": "Editorial Headings",
@@ -15082,7 +15082,7 @@ module.exports = {
               "value": "{fontSize.13}",
               "type": "fontSizes"
             },
-            "name": "mch_typography_editorial_headings_xl_h2_font_size",
+            "name": "mchTypographyEditorialHeadingsXlH2FontSize",
             "attributes": {
               "category": "Typography",
               "type": "Editorial Headings",
@@ -15107,7 +15107,7 @@ module.exports = {
               "value": "{letterSpacing.1}",
               "type": "letterSpacing"
             },
-            "name": "mch_typography_editorial_headings_xl_h2_letter_spacing",
+            "name": "mchTypographyEditorialHeadingsXlH2LetterSpacing",
             "attributes": {
               "category": "Typography",
               "type": "Editorial Headings",
@@ -15132,7 +15132,7 @@ module.exports = {
               "value": "{paragraphSpacing.1}",
               "type": "paragraphSpacing"
             },
-            "name": "mch_typography_editorial_headings_xl_h2_paragraph_spacing",
+            "name": "mchTypographyEditorialHeadingsXlH2ParagraphSpacing",
             "attributes": {
               "category": "Typography",
               "type": "Editorial Headings",
@@ -15157,7 +15157,7 @@ module.exports = {
               "value": "{paragraphIndent.0}",
               "type": "paragraphIndent"
             },
-            "name": "mch_typography_editorial_headings_xl_h2_paragraph_indent",
+            "name": "mchTypographyEditorialHeadingsXlH2ParagraphIndent",
             "attributes": {
               "category": "Typography",
               "type": "Editorial Headings",
@@ -15182,7 +15182,7 @@ module.exports = {
               "value": "{textCase.none}",
               "type": "textCase"
             },
-            "name": "mch_typography_editorial_headings_xl_h2_text_case",
+            "name": "mchTypographyEditorialHeadingsXlH2TextCase",
             "attributes": {
               "category": "Typography",
               "type": "Editorial Headings",
@@ -15207,7 +15207,7 @@ module.exports = {
               "value": "{textDecoration.none}",
               "type": "textDecoration"
             },
-            "name": "mch_typography_editorial_headings_xl_h2_text_decoration",
+            "name": "mchTypographyEditorialHeadingsXlH2TextDecoration",
             "attributes": {
               "category": "Typography",
               "type": "Editorial Headings",
@@ -15224,7 +15224,7 @@ module.exports = {
             ]
           }
         },
-        "H3": {
+        "h3": {
           "fontFamily": {
             "value": "Ivar Display",
             "type": "fontFamilies",
@@ -15234,7 +15234,7 @@ module.exports = {
               "value": "{fontFamilies.ivar-display}",
               "type": "fontFamilies"
             },
-            "name": "mch_typography_editorial_headings_xl_h3_font_family",
+            "name": "mchTypographyEditorialHeadingsXlH3FontFamily",
             "attributes": {
               "category": "Typography",
               "type": "Editorial Headings",
@@ -15259,7 +15259,7 @@ module.exports = {
               "value": "{fontWeights.ivar-display-3}",
               "type": "fontWeights"
             },
-            "name": "mch_typography_editorial_headings_xl_h3_font_weight",
+            "name": "mchTypographyEditorialHeadingsXlH3FontWeight",
             "attributes": {
               "category": "Typography",
               "type": "Editorial Headings",
@@ -15284,7 +15284,7 @@ module.exports = {
               "value": "{lineHeights.5}",
               "type": "lineHeights"
             },
-            "name": "mch_typography_editorial_headings_xl_h3_line_height",
+            "name": "mchTypographyEditorialHeadingsXlH3LineHeight",
             "attributes": {
               "category": "Typography",
               "type": "Editorial Headings",
@@ -15309,7 +15309,7 @@ module.exports = {
               "value": "{fontSize.10}",
               "type": "fontSizes"
             },
-            "name": "mch_typography_editorial_headings_xl_h3_font_size",
+            "name": "mchTypographyEditorialHeadingsXlH3FontSize",
             "attributes": {
               "category": "Typography",
               "type": "Editorial Headings",
@@ -15334,7 +15334,7 @@ module.exports = {
               "value": "{letterSpacing.1}",
               "type": "letterSpacing"
             },
-            "name": "mch_typography_editorial_headings_xl_h3_letter_spacing",
+            "name": "mchTypographyEditorialHeadingsXlH3LetterSpacing",
             "attributes": {
               "category": "Typography",
               "type": "Editorial Headings",
@@ -15359,7 +15359,7 @@ module.exports = {
               "value": "{paragraphSpacing.1}",
               "type": "paragraphSpacing"
             },
-            "name": "mch_typography_editorial_headings_xl_h3_paragraph_spacing",
+            "name": "mchTypographyEditorialHeadingsXlH3ParagraphSpacing",
             "attributes": {
               "category": "Typography",
               "type": "Editorial Headings",
@@ -15384,7 +15384,7 @@ module.exports = {
               "value": "{paragraphIndent.0}",
               "type": "paragraphIndent"
             },
-            "name": "mch_typography_editorial_headings_xl_h3_paragraph_indent",
+            "name": "mchTypographyEditorialHeadingsXlH3ParagraphIndent",
             "attributes": {
               "category": "Typography",
               "type": "Editorial Headings",
@@ -15409,7 +15409,7 @@ module.exports = {
               "value": "{textCase.none}",
               "type": "textCase"
             },
-            "name": "mch_typography_editorial_headings_xl_h3_text_case",
+            "name": "mchTypographyEditorialHeadingsXlH3TextCase",
             "attributes": {
               "category": "Typography",
               "type": "Editorial Headings",
@@ -15434,7 +15434,7 @@ module.exports = {
               "value": "{textDecoration.none}",
               "type": "textDecoration"
             },
-            "name": "mch_typography_editorial_headings_xl_h3_text_decoration",
+            "name": "mchTypographyEditorialHeadingsXlH3TextDecoration",
             "attributes": {
               "category": "Typography",
               "type": "Editorial Headings",
@@ -15451,7 +15451,7 @@ module.exports = {
             ]
           }
         },
-        "H4": {
+        "h4": {
           "fontFamily": {
             "value": "Ivar Display",
             "type": "fontFamilies",
@@ -15461,7 +15461,7 @@ module.exports = {
               "value": "{fontFamilies.ivar-display}",
               "type": "fontFamilies"
             },
-            "name": "mch_typography_editorial_headings_xl_h4_font_family",
+            "name": "mchTypographyEditorialHeadingsXlH4FontFamily",
             "attributes": {
               "category": "Typography",
               "type": "Editorial Headings",
@@ -15486,7 +15486,7 @@ module.exports = {
               "value": "{fontWeights.ivar-display-3}",
               "type": "fontWeights"
             },
-            "name": "mch_typography_editorial_headings_xl_h4_font_weight",
+            "name": "mchTypographyEditorialHeadingsXlH4FontWeight",
             "attributes": {
               "category": "Typography",
               "type": "Editorial Headings",
@@ -15511,7 +15511,7 @@ module.exports = {
               "value": "{lineHeights.6}",
               "type": "lineHeights"
             },
-            "name": "mch_typography_editorial_headings_xl_h4_line_height",
+            "name": "mchTypographyEditorialHeadingsXlH4LineHeight",
             "attributes": {
               "category": "Typography",
               "type": "Editorial Headings",
@@ -15536,7 +15536,7 @@ module.exports = {
               "value": "{fontSize.7}",
               "type": "fontSizes"
             },
-            "name": "mch_typography_editorial_headings_xl_h4_font_size",
+            "name": "mchTypographyEditorialHeadingsXlH4FontSize",
             "attributes": {
               "category": "Typography",
               "type": "Editorial Headings",
@@ -15561,7 +15561,7 @@ module.exports = {
               "value": "{letterSpacing.1}",
               "type": "letterSpacing"
             },
-            "name": "mch_typography_editorial_headings_xl_h4_letter_spacing",
+            "name": "mchTypographyEditorialHeadingsXlH4LetterSpacing",
             "attributes": {
               "category": "Typography",
               "type": "Editorial Headings",
@@ -15586,7 +15586,7 @@ module.exports = {
               "value": "{paragraphSpacing.1}",
               "type": "paragraphSpacing"
             },
-            "name": "mch_typography_editorial_headings_xl_h4_paragraph_spacing",
+            "name": "mchTypographyEditorialHeadingsXlH4ParagraphSpacing",
             "attributes": {
               "category": "Typography",
               "type": "Editorial Headings",
@@ -15611,7 +15611,7 @@ module.exports = {
               "value": "{paragraphIndent.0}",
               "type": "paragraphIndent"
             },
-            "name": "mch_typography_editorial_headings_xl_h4_paragraph_indent",
+            "name": "mchTypographyEditorialHeadingsXlH4ParagraphIndent",
             "attributes": {
               "category": "Typography",
               "type": "Editorial Headings",
@@ -15636,7 +15636,7 @@ module.exports = {
               "value": "{textCase.none}",
               "type": "textCase"
             },
-            "name": "mch_typography_editorial_headings_xl_h4_text_case",
+            "name": "mchTypographyEditorialHeadingsXlH4TextCase",
             "attributes": {
               "category": "Typography",
               "type": "Editorial Headings",
@@ -15661,7 +15661,7 @@ module.exports = {
               "value": "{textDecoration.none}",
               "type": "textDecoration"
             },
-            "name": "mch_typography_editorial_headings_xl_h4_text_decoration",
+            "name": "mchTypographyEditorialHeadingsXlH4TextDecoration",
             "attributes": {
               "category": "Typography",
               "type": "Editorial Headings",
@@ -15678,7 +15678,7 @@ module.exports = {
             ]
           }
         },
-        "H5": {
+        "h5": {
           "fontFamily": {
             "value": "Ivar Display",
             "type": "fontFamilies",
@@ -15688,7 +15688,7 @@ module.exports = {
               "value": "{fontFamilies.ivar-display}",
               "type": "fontFamilies"
             },
-            "name": "mch_typography_editorial_headings_xl_h5_font_family",
+            "name": "mchTypographyEditorialHeadingsXlH5FontFamily",
             "attributes": {
               "category": "Typography",
               "type": "Editorial Headings",
@@ -15713,7 +15713,7 @@ module.exports = {
               "value": "{fontWeights.ivar-display-3}",
               "type": "fontWeights"
             },
-            "name": "mch_typography_editorial_headings_xl_h5_font_weight",
+            "name": "mchTypographyEditorialHeadingsXlH5FontWeight",
             "attributes": {
               "category": "Typography",
               "type": "Editorial Headings",
@@ -15738,7 +15738,7 @@ module.exports = {
               "value": "{lineHeights.16}",
               "type": "lineHeights"
             },
-            "name": "mch_typography_editorial_headings_xl_h5_line_height",
+            "name": "mchTypographyEditorialHeadingsXlH5LineHeight",
             "attributes": {
               "category": "Typography",
               "type": "Editorial Headings",
@@ -15763,7 +15763,7 @@ module.exports = {
               "value": "{fontSize.5}",
               "type": "fontSizes"
             },
-            "name": "mch_typography_editorial_headings_xl_h5_font_size",
+            "name": "mchTypographyEditorialHeadingsXlH5FontSize",
             "attributes": {
               "category": "Typography",
               "type": "Editorial Headings",
@@ -15788,7 +15788,7 @@ module.exports = {
               "value": "{letterSpacing.1}",
               "type": "letterSpacing"
             },
-            "name": "mch_typography_editorial_headings_xl_h5_letter_spacing",
+            "name": "mchTypographyEditorialHeadingsXlH5LetterSpacing",
             "attributes": {
               "category": "Typography",
               "type": "Editorial Headings",
@@ -15813,7 +15813,7 @@ module.exports = {
               "value": "{paragraphSpacing.1}",
               "type": "paragraphSpacing"
             },
-            "name": "mch_typography_editorial_headings_xl_h5_paragraph_spacing",
+            "name": "mchTypographyEditorialHeadingsXlH5ParagraphSpacing",
             "attributes": {
               "category": "Typography",
               "type": "Editorial Headings",
@@ -15838,7 +15838,7 @@ module.exports = {
               "value": "{paragraphIndent.0}",
               "type": "paragraphIndent"
             },
-            "name": "mch_typography_editorial_headings_xl_h5_paragraph_indent",
+            "name": "mchTypographyEditorialHeadingsXlH5ParagraphIndent",
             "attributes": {
               "category": "Typography",
               "type": "Editorial Headings",
@@ -15863,7 +15863,7 @@ module.exports = {
               "value": "{textCase.none}",
               "type": "textCase"
             },
-            "name": "mch_typography_editorial_headings_xl_h5_text_case",
+            "name": "mchTypographyEditorialHeadingsXlH5TextCase",
             "attributes": {
               "category": "Typography",
               "type": "Editorial Headings",
@@ -15888,7 +15888,7 @@ module.exports = {
               "value": "{textDecoration.none}",
               "type": "textDecoration"
             },
-            "name": "mch_typography_editorial_headings_xl_h5_text_decoration",
+            "name": "mchTypographyEditorialHeadingsXlH5TextDecoration",
             "attributes": {
               "category": "Typography",
               "type": "Editorial Headings",
@@ -15906,8 +15906,8 @@ module.exports = {
           }
         }
       },
-      "MD": {
-        "H1": {
+      "md": {
+        "h1": {
           "fontFamily": {
             "value": "Ivar Display",
             "type": "fontFamilies",
@@ -15917,7 +15917,7 @@ module.exports = {
               "value": "{fontFamilies.ivar-display}",
               "type": "fontFamilies"
             },
-            "name": "mch_typography_editorial_headings_md_h1_font_family",
+            "name": "mchTypographyEditorialHeadingsMdH1FontFamily",
             "attributes": {
               "category": "Typography",
               "type": "Editorial Headings",
@@ -15942,7 +15942,7 @@ module.exports = {
               "value": "{fontWeights.ivar-display-3}",
               "type": "fontWeights"
             },
-            "name": "mch_typography_editorial_headings_md_h1_font_weight",
+            "name": "mchTypographyEditorialHeadingsMdH1FontWeight",
             "attributes": {
               "category": "Typography",
               "type": "Editorial Headings",
@@ -15967,7 +15967,7 @@ module.exports = {
               "value": "{lineHeights.5}",
               "type": "lineHeights"
             },
-            "name": "mch_typography_editorial_headings_md_h1_line_height",
+            "name": "mchTypographyEditorialHeadingsMdH1LineHeight",
             "attributes": {
               "category": "Typography",
               "type": "Editorial Headings",
@@ -15992,7 +15992,7 @@ module.exports = {
               "value": "{fontSize.10}",
               "type": "fontSizes"
             },
-            "name": "mch_typography_editorial_headings_md_h1_font_size",
+            "name": "mchTypographyEditorialHeadingsMdH1FontSize",
             "attributes": {
               "category": "Typography",
               "type": "Editorial Headings",
@@ -16017,7 +16017,7 @@ module.exports = {
               "value": "{letterSpacing.1}",
               "type": "letterSpacing"
             },
-            "name": "mch_typography_editorial_headings_md_h1_letter_spacing",
+            "name": "mchTypographyEditorialHeadingsMdH1LetterSpacing",
             "attributes": {
               "category": "Typography",
               "type": "Editorial Headings",
@@ -16042,7 +16042,7 @@ module.exports = {
               "value": "{paragraphSpacing.1}",
               "type": "paragraphSpacing"
             },
-            "name": "mch_typography_editorial_headings_md_h1_paragraph_spacing",
+            "name": "mchTypographyEditorialHeadingsMdH1ParagraphSpacing",
             "attributes": {
               "category": "Typography",
               "type": "Editorial Headings",
@@ -16067,7 +16067,7 @@ module.exports = {
               "value": "{paragraphIndent.0}",
               "type": "paragraphIndent"
             },
-            "name": "mch_typography_editorial_headings_md_h1_paragraph_indent",
+            "name": "mchTypographyEditorialHeadingsMdH1ParagraphIndent",
             "attributes": {
               "category": "Typography",
               "type": "Editorial Headings",
@@ -16092,7 +16092,7 @@ module.exports = {
               "value": "{textCase.none}",
               "type": "textCase"
             },
-            "name": "mch_typography_editorial_headings_md_h1_text_case",
+            "name": "mchTypographyEditorialHeadingsMdH1TextCase",
             "attributes": {
               "category": "Typography",
               "type": "Editorial Headings",
@@ -16117,7 +16117,7 @@ module.exports = {
               "value": "{textDecoration.none}",
               "type": "textDecoration"
             },
-            "name": "mch_typography_editorial_headings_md_h1_text_decoration",
+            "name": "mchTypographyEditorialHeadingsMdH1TextDecoration",
             "attributes": {
               "category": "Typography",
               "type": "Editorial Headings",
@@ -16134,7 +16134,7 @@ module.exports = {
             ]
           }
         },
-        "H2": {
+        "h2": {
           "fontFamily": {
             "value": "Ivar Display",
             "type": "fontFamilies",
@@ -16144,7 +16144,7 @@ module.exports = {
               "value": "{fontFamilies.ivar-display}",
               "type": "fontFamilies"
             },
-            "name": "mch_typography_editorial_headings_md_h2_font_family",
+            "name": "mchTypographyEditorialHeadingsMdH2FontFamily",
             "attributes": {
               "category": "Typography",
               "type": "Editorial Headings",
@@ -16169,7 +16169,7 @@ module.exports = {
               "value": "{fontWeights.ivar-display-3}",
               "type": "fontWeights"
             },
-            "name": "mch_typography_editorial_headings_md_h2_font_weight",
+            "name": "mchTypographyEditorialHeadingsMdH2FontWeight",
             "attributes": {
               "category": "Typography",
               "type": "Editorial Headings",
@@ -16194,7 +16194,7 @@ module.exports = {
               "value": "{lineHeights.6}",
               "type": "lineHeights"
             },
-            "name": "mch_typography_editorial_headings_md_h2_line_height",
+            "name": "mchTypographyEditorialHeadingsMdH2LineHeight",
             "attributes": {
               "category": "Typography",
               "type": "Editorial Headings",
@@ -16219,7 +16219,7 @@ module.exports = {
               "value": "{fontSize.7}",
               "type": "fontSizes"
             },
-            "name": "mch_typography_editorial_headings_md_h2_font_size",
+            "name": "mchTypographyEditorialHeadingsMdH2FontSize",
             "attributes": {
               "category": "Typography",
               "type": "Editorial Headings",
@@ -16244,7 +16244,7 @@ module.exports = {
               "value": "{letterSpacing.1}",
               "type": "letterSpacing"
             },
-            "name": "mch_typography_editorial_headings_md_h2_letter_spacing",
+            "name": "mchTypographyEditorialHeadingsMdH2LetterSpacing",
             "attributes": {
               "category": "Typography",
               "type": "Editorial Headings",
@@ -16269,7 +16269,7 @@ module.exports = {
               "value": "{paragraphSpacing.1}",
               "type": "paragraphSpacing"
             },
-            "name": "mch_typography_editorial_headings_md_h2_paragraph_spacing",
+            "name": "mchTypographyEditorialHeadingsMdH2ParagraphSpacing",
             "attributes": {
               "category": "Typography",
               "type": "Editorial Headings",
@@ -16294,7 +16294,7 @@ module.exports = {
               "value": "{paragraphIndent.0}",
               "type": "paragraphIndent"
             },
-            "name": "mch_typography_editorial_headings_md_h2_paragraph_indent",
+            "name": "mchTypographyEditorialHeadingsMdH2ParagraphIndent",
             "attributes": {
               "category": "Typography",
               "type": "Editorial Headings",
@@ -16319,7 +16319,7 @@ module.exports = {
               "value": "{textCase.none}",
               "type": "textCase"
             },
-            "name": "mch_typography_editorial_headings_md_h2_text_case",
+            "name": "mchTypographyEditorialHeadingsMdH2TextCase",
             "attributes": {
               "category": "Typography",
               "type": "Editorial Headings",
@@ -16344,7 +16344,7 @@ module.exports = {
               "value": "{textDecoration.none}",
               "type": "textDecoration"
             },
-            "name": "mch_typography_editorial_headings_md_h2_text_decoration",
+            "name": "mchTypographyEditorialHeadingsMdH2TextDecoration",
             "attributes": {
               "category": "Typography",
               "type": "Editorial Headings",
@@ -16361,7 +16361,7 @@ module.exports = {
             ]
           }
         },
-        "H3": {
+        "h3": {
           "fontFamily": {
             "value": "Ivar Display",
             "type": "fontFamilies",
@@ -16371,7 +16371,7 @@ module.exports = {
               "value": "{fontFamilies.ivar-display}",
               "type": "fontFamilies"
             },
-            "name": "mch_typography_editorial_headings_md_h3_font_family",
+            "name": "mchTypographyEditorialHeadingsMdH3FontFamily",
             "attributes": {
               "category": "Typography",
               "type": "Editorial Headings",
@@ -16396,7 +16396,7 @@ module.exports = {
               "value": "{fontWeights.ivar-display-3}",
               "type": "fontWeights"
             },
-            "name": "mch_typography_editorial_headings_md_h3_font_weight",
+            "name": "mchTypographyEditorialHeadingsMdH3FontWeight",
             "attributes": {
               "category": "Typography",
               "type": "Editorial Headings",
@@ -16421,7 +16421,7 @@ module.exports = {
               "value": "{lineHeights.19}",
               "type": "lineHeights"
             },
-            "name": "mch_typography_editorial_headings_md_h3_line_height",
+            "name": "mchTypographyEditorialHeadingsMdH3LineHeight",
             "attributes": {
               "category": "Typography",
               "type": "Editorial Headings",
@@ -16446,7 +16446,7 @@ module.exports = {
               "value": "{fontSize.6}",
               "type": "fontSizes"
             },
-            "name": "mch_typography_editorial_headings_md_h3_font_size",
+            "name": "mchTypographyEditorialHeadingsMdH3FontSize",
             "attributes": {
               "category": "Typography",
               "type": "Editorial Headings",
@@ -16471,7 +16471,7 @@ module.exports = {
               "value": "{letterSpacing.1}",
               "type": "letterSpacing"
             },
-            "name": "mch_typography_editorial_headings_md_h3_letter_spacing",
+            "name": "mchTypographyEditorialHeadingsMdH3LetterSpacing",
             "attributes": {
               "category": "Typography",
               "type": "Editorial Headings",
@@ -16496,7 +16496,7 @@ module.exports = {
               "value": "{paragraphSpacing.1}",
               "type": "paragraphSpacing"
             },
-            "name": "mch_typography_editorial_headings_md_h3_paragraph_spacing",
+            "name": "mchTypographyEditorialHeadingsMdH3ParagraphSpacing",
             "attributes": {
               "category": "Typography",
               "type": "Editorial Headings",
@@ -16521,7 +16521,7 @@ module.exports = {
               "value": "{paragraphIndent.0}",
               "type": "paragraphIndent"
             },
-            "name": "mch_typography_editorial_headings_md_h3_paragraph_indent",
+            "name": "mchTypographyEditorialHeadingsMdH3ParagraphIndent",
             "attributes": {
               "category": "Typography",
               "type": "Editorial Headings",
@@ -16546,7 +16546,7 @@ module.exports = {
               "value": "{textCase.none}",
               "type": "textCase"
             },
-            "name": "mch_typography_editorial_headings_md_h3_text_case",
+            "name": "mchTypographyEditorialHeadingsMdH3TextCase",
             "attributes": {
               "category": "Typography",
               "type": "Editorial Headings",
@@ -16571,7 +16571,7 @@ module.exports = {
               "value": "{textDecoration.none}",
               "type": "textDecoration"
             },
-            "name": "mch_typography_editorial_headings_md_h3_text_decoration",
+            "name": "mchTypographyEditorialHeadingsMdH3TextDecoration",
             "attributes": {
               "category": "Typography",
               "type": "Editorial Headings",
@@ -16588,7 +16588,7 @@ module.exports = {
             ]
           }
         },
-        "H4": {
+        "h4": {
           "fontFamily": {
             "value": "Ivar Display",
             "type": "fontFamilies",
@@ -16598,7 +16598,7 @@ module.exports = {
               "value": "{fontFamilies.ivar-display}",
               "type": "fontFamilies"
             },
-            "name": "mch_typography_editorial_headings_md_h4_font_family",
+            "name": "mchTypographyEditorialHeadingsMdH4FontFamily",
             "attributes": {
               "category": "Typography",
               "type": "Editorial Headings",
@@ -16623,7 +16623,7 @@ module.exports = {
               "value": "{fontWeights.ivar-display-3}",
               "type": "fontWeights"
             },
-            "name": "mch_typography_editorial_headings_md_h4_font_weight",
+            "name": "mchTypographyEditorialHeadingsMdH4FontWeight",
             "attributes": {
               "category": "Typography",
               "type": "Editorial Headings",
@@ -16648,7 +16648,7 @@ module.exports = {
               "value": "{lineHeights.16}",
               "type": "lineHeights"
             },
-            "name": "mch_typography_editorial_headings_md_h4_line_height",
+            "name": "mchTypographyEditorialHeadingsMdH4LineHeight",
             "attributes": {
               "category": "Typography",
               "type": "Editorial Headings",
@@ -16673,7 +16673,7 @@ module.exports = {
               "value": "{fontSize.5}",
               "type": "fontSizes"
             },
-            "name": "mch_typography_editorial_headings_md_h4_font_size",
+            "name": "mchTypographyEditorialHeadingsMdH4FontSize",
             "attributes": {
               "category": "Typography",
               "type": "Editorial Headings",
@@ -16698,7 +16698,7 @@ module.exports = {
               "value": "{letterSpacing.1}",
               "type": "letterSpacing"
             },
-            "name": "mch_typography_editorial_headings_md_h4_letter_spacing",
+            "name": "mchTypographyEditorialHeadingsMdH4LetterSpacing",
             "attributes": {
               "category": "Typography",
               "type": "Editorial Headings",
@@ -16723,7 +16723,7 @@ module.exports = {
               "value": "{paragraphSpacing.1}",
               "type": "paragraphSpacing"
             },
-            "name": "mch_typography_editorial_headings_md_h4_paragraph_spacing",
+            "name": "mchTypographyEditorialHeadingsMdH4ParagraphSpacing",
             "attributes": {
               "category": "Typography",
               "type": "Editorial Headings",
@@ -16748,7 +16748,7 @@ module.exports = {
               "value": "{paragraphIndent.0}",
               "type": "paragraphIndent"
             },
-            "name": "mch_typography_editorial_headings_md_h4_paragraph_indent",
+            "name": "mchTypographyEditorialHeadingsMdH4ParagraphIndent",
             "attributes": {
               "category": "Typography",
               "type": "Editorial Headings",
@@ -16773,7 +16773,7 @@ module.exports = {
               "value": "{textCase.none}",
               "type": "textCase"
             },
-            "name": "mch_typography_editorial_headings_md_h4_text_case",
+            "name": "mchTypographyEditorialHeadingsMdH4TextCase",
             "attributes": {
               "category": "Typography",
               "type": "Editorial Headings",
@@ -16798,7 +16798,7 @@ module.exports = {
               "value": "{textDecoration.none}",
               "type": "textDecoration"
             },
-            "name": "mch_typography_editorial_headings_md_h4_text_decoration",
+            "name": "mchTypographyEditorialHeadingsMdH4TextDecoration",
             "attributes": {
               "category": "Typography",
               "type": "Editorial Headings",
@@ -16815,7 +16815,7 @@ module.exports = {
             ]
           }
         },
-        "H5": {
+        "h5": {
           "fontFamily": {
             "value": "Ivar Display",
             "type": "fontFamilies",
@@ -16825,7 +16825,7 @@ module.exports = {
               "value": "{fontFamilies.ivar-display}",
               "type": "fontFamilies"
             },
-            "name": "mch_typography_editorial_headings_md_h5_font_family",
+            "name": "mchTypographyEditorialHeadingsMdH5FontFamily",
             "attributes": {
               "category": "Typography",
               "type": "Editorial Headings",
@@ -16850,7 +16850,7 @@ module.exports = {
               "value": "{fontWeights.ivar-display-3}",
               "type": "fontWeights"
             },
-            "name": "mch_typography_editorial_headings_md_h5_font_weight",
+            "name": "mchTypographyEditorialHeadingsMdH5FontWeight",
             "attributes": {
               "category": "Typography",
               "type": "Editorial Headings",
@@ -16875,7 +16875,7 @@ module.exports = {
               "value": "{lineHeights.12}",
               "type": "lineHeights"
             },
-            "name": "mch_typography_editorial_headings_md_h5_line_height",
+            "name": "mchTypographyEditorialHeadingsMdH5LineHeight",
             "attributes": {
               "category": "Typography",
               "type": "Editorial Headings",
@@ -16900,7 +16900,7 @@ module.exports = {
               "value": "{fontSize.4}",
               "type": "fontSizes"
             },
-            "name": "mch_typography_editorial_headings_md_h5_font_size",
+            "name": "mchTypographyEditorialHeadingsMdH5FontSize",
             "attributes": {
               "category": "Typography",
               "type": "Editorial Headings",
@@ -16925,7 +16925,7 @@ module.exports = {
               "value": "{letterSpacing.1}",
               "type": "letterSpacing"
             },
-            "name": "mch_typography_editorial_headings_md_h5_letter_spacing",
+            "name": "mchTypographyEditorialHeadingsMdH5LetterSpacing",
             "attributes": {
               "category": "Typography",
               "type": "Editorial Headings",
@@ -16950,7 +16950,7 @@ module.exports = {
               "value": "{paragraphSpacing.1}",
               "type": "paragraphSpacing"
             },
-            "name": "mch_typography_editorial_headings_md_h5_paragraph_spacing",
+            "name": "mchTypographyEditorialHeadingsMdH5ParagraphSpacing",
             "attributes": {
               "category": "Typography",
               "type": "Editorial Headings",
@@ -16975,7 +16975,7 @@ module.exports = {
               "value": "{paragraphIndent.0}",
               "type": "paragraphIndent"
             },
-            "name": "mch_typography_editorial_headings_md_h5_paragraph_indent",
+            "name": "mchTypographyEditorialHeadingsMdH5ParagraphIndent",
             "attributes": {
               "category": "Typography",
               "type": "Editorial Headings",
@@ -17000,7 +17000,7 @@ module.exports = {
               "value": "{textCase.none}",
               "type": "textCase"
             },
-            "name": "mch_typography_editorial_headings_md_h5_text_case",
+            "name": "mchTypographyEditorialHeadingsMdH5TextCase",
             "attributes": {
               "category": "Typography",
               "type": "Editorial Headings",
@@ -17025,7 +17025,7 @@ module.exports = {
               "value": "{textDecoration.none}",
               "type": "textDecoration"
             },
-            "name": "mch_typography_editorial_headings_md_h5_text_decoration",
+            "name": "mchTypographyEditorialHeadingsMdH5TextDecoration",
             "attributes": {
               "category": "Typography",
               "type": "Editorial Headings",
@@ -17043,8 +17043,8 @@ module.exports = {
           }
         }
       },
-      "LG": {
-        "H1": {
+      "lg": {
+        "h1": {
           "fontFamily": {
             "value": "Ivar Display",
             "type": "fontFamilies",
@@ -17054,7 +17054,7 @@ module.exports = {
               "value": "{fontFamilies.ivar-display}",
               "type": "fontFamilies"
             },
-            "name": "mch_typography_editorial_headings_lg_h1_font_family",
+            "name": "mchTypographyEditorialHeadingsLgH1FontFamily",
             "attributes": {
               "category": "Typography",
               "type": "Editorial Headings",
@@ -17079,7 +17079,7 @@ module.exports = {
               "value": "{fontWeights.ivar-display-3}",
               "type": "fontWeights"
             },
-            "name": "mch_typography_editorial_headings_lg_h1_font_weight",
+            "name": "mchTypographyEditorialHeadingsLgH1FontWeight",
             "attributes": {
               "category": "Typography",
               "type": "Editorial Headings",
@@ -17104,7 +17104,7 @@ module.exports = {
               "value": "{lineHeights.18}",
               "type": "lineHeights"
             },
-            "name": "mch_typography_editorial_headings_lg_h1_line_height",
+            "name": "mchTypographyEditorialHeadingsLgH1LineHeight",
             "attributes": {
               "category": "Typography",
               "type": "Editorial Headings",
@@ -17129,7 +17129,7 @@ module.exports = {
               "value": "{fontSize.13}",
               "type": "fontSizes"
             },
-            "name": "mch_typography_editorial_headings_lg_h1_font_size",
+            "name": "mchTypographyEditorialHeadingsLgH1FontSize",
             "attributes": {
               "category": "Typography",
               "type": "Editorial Headings",
@@ -17154,7 +17154,7 @@ module.exports = {
               "value": "{letterSpacing.1}",
               "type": "letterSpacing"
             },
-            "name": "mch_typography_editorial_headings_lg_h1_letter_spacing",
+            "name": "mchTypographyEditorialHeadingsLgH1LetterSpacing",
             "attributes": {
               "category": "Typography",
               "type": "Editorial Headings",
@@ -17179,7 +17179,7 @@ module.exports = {
               "value": "{paragraphSpacing.1}",
               "type": "paragraphSpacing"
             },
-            "name": "mch_typography_editorial_headings_lg_h1_paragraph_spacing",
+            "name": "mchTypographyEditorialHeadingsLgH1ParagraphSpacing",
             "attributes": {
               "category": "Typography",
               "type": "Editorial Headings",
@@ -17204,7 +17204,7 @@ module.exports = {
               "value": "{paragraphIndent.0}",
               "type": "paragraphIndent"
             },
-            "name": "mch_typography_editorial_headings_lg_h1_paragraph_indent",
+            "name": "mchTypographyEditorialHeadingsLgH1ParagraphIndent",
             "attributes": {
               "category": "Typography",
               "type": "Editorial Headings",
@@ -17229,7 +17229,7 @@ module.exports = {
               "value": "{textCase.none}",
               "type": "textCase"
             },
-            "name": "mch_typography_editorial_headings_lg_h1_text_case",
+            "name": "mchTypographyEditorialHeadingsLgH1TextCase",
             "attributes": {
               "category": "Typography",
               "type": "Editorial Headings",
@@ -17254,7 +17254,7 @@ module.exports = {
               "value": "{textDecoration.none}",
               "type": "textDecoration"
             },
-            "name": "mch_typography_editorial_headings_lg_h1_text_decoration",
+            "name": "mchTypographyEditorialHeadingsLgH1TextDecoration",
             "attributes": {
               "category": "Typography",
               "type": "Editorial Headings",
@@ -17271,7 +17271,7 @@ module.exports = {
             ]
           }
         },
-        "H2": {
+        "h2": {
           "fontFamily": {
             "value": "Ivar Display",
             "type": "fontFamilies",
@@ -17281,7 +17281,7 @@ module.exports = {
               "value": "{fontFamilies.ivar-display}",
               "type": "fontFamilies"
             },
-            "name": "mch_typography_editorial_headings_lg_h2_font_family",
+            "name": "mchTypographyEditorialHeadingsLgH2FontFamily",
             "attributes": {
               "category": "Typography",
               "type": "Editorial Headings",
@@ -17306,7 +17306,7 @@ module.exports = {
               "value": "{fontWeights.ivar-display-3}",
               "type": "fontWeights"
             },
-            "name": "mch_typography_editorial_headings_lg_h2_font_weight",
+            "name": "mchTypographyEditorialHeadingsLgH2FontWeight",
             "attributes": {
               "category": "Typography",
               "type": "Editorial Headings",
@@ -17331,7 +17331,7 @@ module.exports = {
               "value": "{lineHeights.5}",
               "type": "lineHeights"
             },
-            "name": "mch_typography_editorial_headings_lg_h2_line_height",
+            "name": "mchTypographyEditorialHeadingsLgH2LineHeight",
             "attributes": {
               "category": "Typography",
               "type": "Editorial Headings",
@@ -17356,7 +17356,7 @@ module.exports = {
               "value": "{fontSize.10}",
               "type": "fontSizes"
             },
-            "name": "mch_typography_editorial_headings_lg_h2_font_size",
+            "name": "mchTypographyEditorialHeadingsLgH2FontSize",
             "attributes": {
               "category": "Typography",
               "type": "Editorial Headings",
@@ -17381,7 +17381,7 @@ module.exports = {
               "value": "{letterSpacing.1}",
               "type": "letterSpacing"
             },
-            "name": "mch_typography_editorial_headings_lg_h2_letter_spacing",
+            "name": "mchTypographyEditorialHeadingsLgH2LetterSpacing",
             "attributes": {
               "category": "Typography",
               "type": "Editorial Headings",
@@ -17406,7 +17406,7 @@ module.exports = {
               "value": "{paragraphSpacing.1}",
               "type": "paragraphSpacing"
             },
-            "name": "mch_typography_editorial_headings_lg_h2_paragraph_spacing",
+            "name": "mchTypographyEditorialHeadingsLgH2ParagraphSpacing",
             "attributes": {
               "category": "Typography",
               "type": "Editorial Headings",
@@ -17431,7 +17431,7 @@ module.exports = {
               "value": "{paragraphIndent.0}",
               "type": "paragraphIndent"
             },
-            "name": "mch_typography_editorial_headings_lg_h2_paragraph_indent",
+            "name": "mchTypographyEditorialHeadingsLgH2ParagraphIndent",
             "attributes": {
               "category": "Typography",
               "type": "Editorial Headings",
@@ -17456,7 +17456,7 @@ module.exports = {
               "value": "{textCase.none}",
               "type": "textCase"
             },
-            "name": "mch_typography_editorial_headings_lg_h2_text_case",
+            "name": "mchTypographyEditorialHeadingsLgH2TextCase",
             "attributes": {
               "category": "Typography",
               "type": "Editorial Headings",
@@ -17481,7 +17481,7 @@ module.exports = {
               "value": "{textDecoration.none}",
               "type": "textDecoration"
             },
-            "name": "mch_typography_editorial_headings_lg_h2_text_decoration",
+            "name": "mchTypographyEditorialHeadingsLgH2TextDecoration",
             "attributes": {
               "category": "Typography",
               "type": "Editorial Headings",
@@ -17498,7 +17498,7 @@ module.exports = {
             ]
           }
         },
-        "H3": {
+        "h3": {
           "fontFamily": {
             "value": "Ivar Display",
             "type": "fontFamilies",
@@ -17508,7 +17508,7 @@ module.exports = {
               "value": "{fontFamilies.ivar-display}",
               "type": "fontFamilies"
             },
-            "name": "mch_typography_editorial_headings_lg_h3_font_family",
+            "name": "mchTypographyEditorialHeadingsLgH3FontFamily",
             "attributes": {
               "category": "Typography",
               "type": "Editorial Headings",
@@ -17533,7 +17533,7 @@ module.exports = {
               "value": "{fontWeights.ivar-display-3}",
               "type": "fontWeights"
             },
-            "name": "mch_typography_editorial_headings_lg_h3_font_weight",
+            "name": "mchTypographyEditorialHeadingsLgH3FontWeight",
             "attributes": {
               "category": "Typography",
               "type": "Editorial Headings",
@@ -17558,7 +17558,7 @@ module.exports = {
               "value": "{lineHeights.6}",
               "type": "lineHeights"
             },
-            "name": "mch_typography_editorial_headings_lg_h3_line_height",
+            "name": "mchTypographyEditorialHeadingsLgH3LineHeight",
             "attributes": {
               "category": "Typography",
               "type": "Editorial Headings",
@@ -17583,7 +17583,7 @@ module.exports = {
               "value": "{fontSize.7}",
               "type": "fontSizes"
             },
-            "name": "mch_typography_editorial_headings_lg_h3_font_size",
+            "name": "mchTypographyEditorialHeadingsLgH3FontSize",
             "attributes": {
               "category": "Typography",
               "type": "Editorial Headings",
@@ -17608,7 +17608,7 @@ module.exports = {
               "value": "{letterSpacing.1}",
               "type": "letterSpacing"
             },
-            "name": "mch_typography_editorial_headings_lg_h3_letter_spacing",
+            "name": "mchTypographyEditorialHeadingsLgH3LetterSpacing",
             "attributes": {
               "category": "Typography",
               "type": "Editorial Headings",
@@ -17633,7 +17633,7 @@ module.exports = {
               "value": "{paragraphSpacing.1}",
               "type": "paragraphSpacing"
             },
-            "name": "mch_typography_editorial_headings_lg_h3_paragraph_spacing",
+            "name": "mchTypographyEditorialHeadingsLgH3ParagraphSpacing",
             "attributes": {
               "category": "Typography",
               "type": "Editorial Headings",
@@ -17658,7 +17658,7 @@ module.exports = {
               "value": "{paragraphIndent.0}",
               "type": "paragraphIndent"
             },
-            "name": "mch_typography_editorial_headings_lg_h3_paragraph_indent",
+            "name": "mchTypographyEditorialHeadingsLgH3ParagraphIndent",
             "attributes": {
               "category": "Typography",
               "type": "Editorial Headings",
@@ -17683,7 +17683,7 @@ module.exports = {
               "value": "{textCase.none}",
               "type": "textCase"
             },
-            "name": "mch_typography_editorial_headings_lg_h3_text_case",
+            "name": "mchTypographyEditorialHeadingsLgH3TextCase",
             "attributes": {
               "category": "Typography",
               "type": "Editorial Headings",
@@ -17708,7 +17708,7 @@ module.exports = {
               "value": "{textDecoration.none}",
               "type": "textDecoration"
             },
-            "name": "mch_typography_editorial_headings_lg_h3_text_decoration",
+            "name": "mchTypographyEditorialHeadingsLgH3TextDecoration",
             "attributes": {
               "category": "Typography",
               "type": "Editorial Headings",
@@ -17725,7 +17725,7 @@ module.exports = {
             ]
           }
         },
-        "H4": {
+        "h4": {
           "fontFamily": {
             "value": "Ivar Display",
             "type": "fontFamilies",
@@ -17735,7 +17735,7 @@ module.exports = {
               "value": "{fontFamilies.ivar-display}",
               "type": "fontFamilies"
             },
-            "name": "mch_typography_editorial_headings_lg_h4_font_family",
+            "name": "mchTypographyEditorialHeadingsLgH4FontFamily",
             "attributes": {
               "category": "Typography",
               "type": "Editorial Headings",
@@ -17760,7 +17760,7 @@ module.exports = {
               "value": "{fontWeights.ivar-display-3}",
               "type": "fontWeights"
             },
-            "name": "mch_typography_editorial_headings_lg_h4_font_weight",
+            "name": "mchTypographyEditorialHeadingsLgH4FontWeight",
             "attributes": {
               "category": "Typography",
               "type": "Editorial Headings",
@@ -17785,7 +17785,7 @@ module.exports = {
               "value": "{lineHeights.19}",
               "type": "lineHeights"
             },
-            "name": "mch_typography_editorial_headings_lg_h4_line_height",
+            "name": "mchTypographyEditorialHeadingsLgH4LineHeight",
             "attributes": {
               "category": "Typography",
               "type": "Editorial Headings",
@@ -17810,7 +17810,7 @@ module.exports = {
               "value": "{fontSize.6}",
               "type": "fontSizes"
             },
-            "name": "mch_typography_editorial_headings_lg_h4_font_size",
+            "name": "mchTypographyEditorialHeadingsLgH4FontSize",
             "attributes": {
               "category": "Typography",
               "type": "Editorial Headings",
@@ -17835,7 +17835,7 @@ module.exports = {
               "value": "{letterSpacing.1}",
               "type": "letterSpacing"
             },
-            "name": "mch_typography_editorial_headings_lg_h4_letter_spacing",
+            "name": "mchTypographyEditorialHeadingsLgH4LetterSpacing",
             "attributes": {
               "category": "Typography",
               "type": "Editorial Headings",
@@ -17860,7 +17860,7 @@ module.exports = {
               "value": "{paragraphSpacing.1}",
               "type": "paragraphSpacing"
             },
-            "name": "mch_typography_editorial_headings_lg_h4_paragraph_spacing",
+            "name": "mchTypographyEditorialHeadingsLgH4ParagraphSpacing",
             "attributes": {
               "category": "Typography",
               "type": "Editorial Headings",
@@ -17885,7 +17885,7 @@ module.exports = {
               "value": "{paragraphIndent.0}",
               "type": "paragraphIndent"
             },
-            "name": "mch_typography_editorial_headings_lg_h4_paragraph_indent",
+            "name": "mchTypographyEditorialHeadingsLgH4ParagraphIndent",
             "attributes": {
               "category": "Typography",
               "type": "Editorial Headings",
@@ -17910,7 +17910,7 @@ module.exports = {
               "value": "{textCase.none}",
               "type": "textCase"
             },
-            "name": "mch_typography_editorial_headings_lg_h4_text_case",
+            "name": "mchTypographyEditorialHeadingsLgH4TextCase",
             "attributes": {
               "category": "Typography",
               "type": "Editorial Headings",
@@ -17935,7 +17935,7 @@ module.exports = {
               "value": "{textDecoration.none}",
               "type": "textDecoration"
             },
-            "name": "mch_typography_editorial_headings_lg_h4_text_decoration",
+            "name": "mchTypographyEditorialHeadingsLgH4TextDecoration",
             "attributes": {
               "category": "Typography",
               "type": "Editorial Headings",
@@ -17952,7 +17952,7 @@ module.exports = {
             ]
           }
         },
-        "H5": {
+        "h5": {
           "fontFamily": {
             "value": "Ivar Display",
             "type": "fontFamilies",
@@ -17962,7 +17962,7 @@ module.exports = {
               "value": "{fontFamilies.ivar-display}",
               "type": "fontFamilies"
             },
-            "name": "mch_typography_editorial_headings_lg_h5_font_family",
+            "name": "mchTypographyEditorialHeadingsLgH5FontFamily",
             "attributes": {
               "category": "Typography",
               "type": "Editorial Headings",
@@ -17987,7 +17987,7 @@ module.exports = {
               "value": "{fontWeights.ivar-display-3}",
               "type": "fontWeights"
             },
-            "name": "mch_typography_editorial_headings_lg_h5_font_weight",
+            "name": "mchTypographyEditorialHeadingsLgH5FontWeight",
             "attributes": {
               "category": "Typography",
               "type": "Editorial Headings",
@@ -18012,7 +18012,7 @@ module.exports = {
               "value": "{lineHeights.16}",
               "type": "lineHeights"
             },
-            "name": "mch_typography_editorial_headings_lg_h5_line_height",
+            "name": "mchTypographyEditorialHeadingsLgH5LineHeight",
             "attributes": {
               "category": "Typography",
               "type": "Editorial Headings",
@@ -18037,7 +18037,7 @@ module.exports = {
               "value": "{fontSize.5}",
               "type": "fontSizes"
             },
-            "name": "mch_typography_editorial_headings_lg_h5_font_size",
+            "name": "mchTypographyEditorialHeadingsLgH5FontSize",
             "attributes": {
               "category": "Typography",
               "type": "Editorial Headings",
@@ -18062,7 +18062,7 @@ module.exports = {
               "value": "{letterSpacing.1}",
               "type": "letterSpacing"
             },
-            "name": "mch_typography_editorial_headings_lg_h5_letter_spacing",
+            "name": "mchTypographyEditorialHeadingsLgH5LetterSpacing",
             "attributes": {
               "category": "Typography",
               "type": "Editorial Headings",
@@ -18087,7 +18087,7 @@ module.exports = {
               "value": "{paragraphSpacing.1}",
               "type": "paragraphSpacing"
             },
-            "name": "mch_typography_editorial_headings_lg_h5_paragraph_spacing",
+            "name": "mchTypographyEditorialHeadingsLgH5ParagraphSpacing",
             "attributes": {
               "category": "Typography",
               "type": "Editorial Headings",
@@ -18112,7 +18112,7 @@ module.exports = {
               "value": "{paragraphIndent.0}",
               "type": "paragraphIndent"
             },
-            "name": "mch_typography_editorial_headings_lg_h5_paragraph_indent",
+            "name": "mchTypographyEditorialHeadingsLgH5ParagraphIndent",
             "attributes": {
               "category": "Typography",
               "type": "Editorial Headings",
@@ -18137,7 +18137,7 @@ module.exports = {
               "value": "{textCase.none}",
               "type": "textCase"
             },
-            "name": "mch_typography_editorial_headings_lg_h5_text_case",
+            "name": "mchTypographyEditorialHeadingsLgH5TextCase",
             "attributes": {
               "category": "Typography",
               "type": "Editorial Headings",
@@ -18162,7 +18162,7 @@ module.exports = {
               "value": "{textDecoration.none}",
               "type": "textDecoration"
             },
-            "name": "mch_typography_editorial_headings_lg_h5_text_decoration",
+            "name": "mchTypographyEditorialHeadingsLgH5TextDecoration",
             "attributes": {
               "category": "Typography",
               "type": "Editorial Headings",
@@ -18180,8 +18180,8 @@ module.exports = {
           }
         }
       },
-      "2XL": {
-        "H1": {
+      "2Xl": {
+        "h1": {
           "fontFamily": {
             "value": "Ivar Display",
             "type": "fontFamilies",
@@ -18191,7 +18191,7 @@ module.exports = {
               "value": "{fontFamilies.ivar-display}",
               "type": "fontFamilies"
             },
-            "name": "mch_typography_editorial_headings_2_xl_h1_font_family",
+            "name": "mchTypographyEditorialHeadings2XlH1FontFamily",
             "attributes": {
               "category": "Typography",
               "type": "Editorial Headings",
@@ -18216,7 +18216,7 @@ module.exports = {
               "value": "{fontWeights.ivar-display-3}",
               "type": "fontWeights"
             },
-            "name": "mch_typography_editorial_headings_2_xl_h1_font_weight",
+            "name": "mchTypographyEditorialHeadings2XlH1FontWeight",
             "attributes": {
               "category": "Typography",
               "type": "Editorial Headings",
@@ -18241,7 +18241,7 @@ module.exports = {
               "value": "{lineHeights.17}",
               "type": "lineHeights"
             },
-            "name": "mch_typography_editorial_headings_2_xl_h1_line_height",
+            "name": "mchTypographyEditorialHeadings2XlH1LineHeight",
             "attributes": {
               "category": "Typography",
               "type": "Editorial Headings",
@@ -18266,7 +18266,7 @@ module.exports = {
               "value": "{fontSize.14}",
               "type": "fontSizes"
             },
-            "name": "mch_typography_editorial_headings_2_xl_h1_font_size",
+            "name": "mchTypographyEditorialHeadings2XlH1FontSize",
             "attributes": {
               "category": "Typography",
               "type": "Editorial Headings",
@@ -18291,7 +18291,7 @@ module.exports = {
               "value": "{letterSpacing.0}",
               "type": "letterSpacing"
             },
-            "name": "mch_typography_editorial_headings_2_xl_h1_letter_spacing",
+            "name": "mchTypographyEditorialHeadings2XlH1LetterSpacing",
             "attributes": {
               "category": "Typography",
               "type": "Editorial Headings",
@@ -18316,7 +18316,7 @@ module.exports = {
               "value": "{paragraphSpacing.1}",
               "type": "paragraphSpacing"
             },
-            "name": "mch_typography_editorial_headings_2_xl_h1_paragraph_spacing",
+            "name": "mchTypographyEditorialHeadings2XlH1ParagraphSpacing",
             "attributes": {
               "category": "Typography",
               "type": "Editorial Headings",
@@ -18341,7 +18341,7 @@ module.exports = {
               "value": "{paragraphIndent.0}",
               "type": "paragraphIndent"
             },
-            "name": "mch_typography_editorial_headings_2_xl_h1_paragraph_indent",
+            "name": "mchTypographyEditorialHeadings2XlH1ParagraphIndent",
             "attributes": {
               "category": "Typography",
               "type": "Editorial Headings",
@@ -18366,7 +18366,7 @@ module.exports = {
               "value": "{textCase.none}",
               "type": "textCase"
             },
-            "name": "mch_typography_editorial_headings_2_xl_h1_text_case",
+            "name": "mchTypographyEditorialHeadings2XlH1TextCase",
             "attributes": {
               "category": "Typography",
               "type": "Editorial Headings",
@@ -18391,7 +18391,7 @@ module.exports = {
               "value": "{textDecoration.none}",
               "type": "textDecoration"
             },
-            "name": "mch_typography_editorial_headings_2_xl_h1_text_decoration",
+            "name": "mchTypographyEditorialHeadings2XlH1TextDecoration",
             "attributes": {
               "category": "Typography",
               "type": "Editorial Headings",
@@ -18408,7 +18408,7 @@ module.exports = {
             ]
           }
         },
-        "H2": {
+        "h2": {
           "fontFamily": {
             "value": "Ivar Display",
             "type": "fontFamilies",
@@ -18418,7 +18418,7 @@ module.exports = {
               "value": "{fontFamilies.ivar-display}",
               "type": "fontFamilies"
             },
-            "name": "mch_typography_editorial_headings_2_xl_h2_font_family",
+            "name": "mchTypographyEditorialHeadings2XlH2FontFamily",
             "attributes": {
               "category": "Typography",
               "type": "Editorial Headings",
@@ -18443,7 +18443,7 @@ module.exports = {
               "value": "{fontWeights.ivar-display-3}",
               "type": "fontWeights"
             },
-            "name": "mch_typography_editorial_headings_2_xl_h2_font_weight",
+            "name": "mchTypographyEditorialHeadings2XlH2FontWeight",
             "attributes": {
               "category": "Typography",
               "type": "Editorial Headings",
@@ -18468,7 +18468,7 @@ module.exports = {
               "value": "{lineHeights.18}",
               "type": "lineHeights"
             },
-            "name": "mch_typography_editorial_headings_2_xl_h2_line_height",
+            "name": "mchTypographyEditorialHeadings2XlH2LineHeight",
             "attributes": {
               "category": "Typography",
               "type": "Editorial Headings",
@@ -18493,7 +18493,7 @@ module.exports = {
               "value": "{fontSize.13}",
               "type": "fontSizes"
             },
-            "name": "mch_typography_editorial_headings_2_xl_h2_font_size",
+            "name": "mchTypographyEditorialHeadings2XlH2FontSize",
             "attributes": {
               "category": "Typography",
               "type": "Editorial Headings",
@@ -18518,7 +18518,7 @@ module.exports = {
               "value": "{letterSpacing.1}",
               "type": "letterSpacing"
             },
-            "name": "mch_typography_editorial_headings_2_xl_h2_letter_spacing",
+            "name": "mchTypographyEditorialHeadings2XlH2LetterSpacing",
             "attributes": {
               "category": "Typography",
               "type": "Editorial Headings",
@@ -18543,7 +18543,7 @@ module.exports = {
               "value": "{paragraphSpacing.1}",
               "type": "paragraphSpacing"
             },
-            "name": "mch_typography_editorial_headings_2_xl_h2_paragraph_spacing",
+            "name": "mchTypographyEditorialHeadings2XlH2ParagraphSpacing",
             "attributes": {
               "category": "Typography",
               "type": "Editorial Headings",
@@ -18568,7 +18568,7 @@ module.exports = {
               "value": "{paragraphIndent.0}",
               "type": "paragraphIndent"
             },
-            "name": "mch_typography_editorial_headings_2_xl_h2_paragraph_indent",
+            "name": "mchTypographyEditorialHeadings2XlH2ParagraphIndent",
             "attributes": {
               "category": "Typography",
               "type": "Editorial Headings",
@@ -18593,7 +18593,7 @@ module.exports = {
               "value": "{textCase.none}",
               "type": "textCase"
             },
-            "name": "mch_typography_editorial_headings_2_xl_h2_text_case",
+            "name": "mchTypographyEditorialHeadings2XlH2TextCase",
             "attributes": {
               "category": "Typography",
               "type": "Editorial Headings",
@@ -18618,7 +18618,7 @@ module.exports = {
               "value": "{textDecoration.none}",
               "type": "textDecoration"
             },
-            "name": "mch_typography_editorial_headings_2_xl_h2_text_decoration",
+            "name": "mchTypographyEditorialHeadings2XlH2TextDecoration",
             "attributes": {
               "category": "Typography",
               "type": "Editorial Headings",
@@ -18635,7 +18635,7 @@ module.exports = {
             ]
           }
         },
-        "H3": {
+        "h3": {
           "fontFamily": {
             "value": "Ivar Display",
             "type": "fontFamilies",
@@ -18645,7 +18645,7 @@ module.exports = {
               "value": "{fontFamilies.ivar-display}",
               "type": "fontFamilies"
             },
-            "name": "mch_typography_editorial_headings_2_xl_h3_font_family",
+            "name": "mchTypographyEditorialHeadings2XlH3FontFamily",
             "attributes": {
               "category": "Typography",
               "type": "Editorial Headings",
@@ -18670,7 +18670,7 @@ module.exports = {
               "value": "{fontWeights.ivar-display-3}",
               "type": "fontWeights"
             },
-            "name": "mch_typography_editorial_headings_2_xl_h3_font_weight",
+            "name": "mchTypographyEditorialHeadings2XlH3FontWeight",
             "attributes": {
               "category": "Typography",
               "type": "Editorial Headings",
@@ -18695,7 +18695,7 @@ module.exports = {
               "value": "{lineHeights.5}",
               "type": "lineHeights"
             },
-            "name": "mch_typography_editorial_headings_2_xl_h3_line_height",
+            "name": "mchTypographyEditorialHeadings2XlH3LineHeight",
             "attributes": {
               "category": "Typography",
               "type": "Editorial Headings",
@@ -18720,7 +18720,7 @@ module.exports = {
               "value": "{fontSize.10}",
               "type": "fontSizes"
             },
-            "name": "mch_typography_editorial_headings_2_xl_h3_font_size",
+            "name": "mchTypographyEditorialHeadings2XlH3FontSize",
             "attributes": {
               "category": "Typography",
               "type": "Editorial Headings",
@@ -18745,7 +18745,7 @@ module.exports = {
               "value": "{letterSpacing.1}",
               "type": "letterSpacing"
             },
-            "name": "mch_typography_editorial_headings_2_xl_h3_letter_spacing",
+            "name": "mchTypographyEditorialHeadings2XlH3LetterSpacing",
             "attributes": {
               "category": "Typography",
               "type": "Editorial Headings",
@@ -18770,7 +18770,7 @@ module.exports = {
               "value": "{paragraphSpacing.1}",
               "type": "paragraphSpacing"
             },
-            "name": "mch_typography_editorial_headings_2_xl_h3_paragraph_spacing",
+            "name": "mchTypographyEditorialHeadings2XlH3ParagraphSpacing",
             "attributes": {
               "category": "Typography",
               "type": "Editorial Headings",
@@ -18795,7 +18795,7 @@ module.exports = {
               "value": "{paragraphIndent.0}",
               "type": "paragraphIndent"
             },
-            "name": "mch_typography_editorial_headings_2_xl_h3_paragraph_indent",
+            "name": "mchTypographyEditorialHeadings2XlH3ParagraphIndent",
             "attributes": {
               "category": "Typography",
               "type": "Editorial Headings",
@@ -18820,7 +18820,7 @@ module.exports = {
               "value": "{textCase.none}",
               "type": "textCase"
             },
-            "name": "mch_typography_editorial_headings_2_xl_h3_text_case",
+            "name": "mchTypographyEditorialHeadings2XlH3TextCase",
             "attributes": {
               "category": "Typography",
               "type": "Editorial Headings",
@@ -18845,7 +18845,7 @@ module.exports = {
               "value": "{textDecoration.none}",
               "type": "textDecoration"
             },
-            "name": "mch_typography_editorial_headings_2_xl_h3_text_decoration",
+            "name": "mchTypographyEditorialHeadings2XlH3TextDecoration",
             "attributes": {
               "category": "Typography",
               "type": "Editorial Headings",
@@ -18872,7 +18872,7 @@ module.exports = {
               "value": "{fontFamilies.ivar-display}",
               "type": "fontFamilies"
             },
-            "name": "mch_typography_editorial_headings_2_xl_h4_font_family",
+            "name": "mchTypographyEditorialHeadings2XlH4FontFamily",
             "attributes": {
               "category": "Typography",
               "type": "Editorial Headings",
@@ -18897,7 +18897,7 @@ module.exports = {
               "value": "{fontWeights.ivar-display-3}",
               "type": "fontWeights"
             },
-            "name": "mch_typography_editorial_headings_2_xl_h4_font_weight",
+            "name": "mchTypographyEditorialHeadings2XlH4FontWeight",
             "attributes": {
               "category": "Typography",
               "type": "Editorial Headings",
@@ -18922,7 +18922,7 @@ module.exports = {
               "value": "{lineHeights.6}",
               "type": "lineHeights"
             },
-            "name": "mch_typography_editorial_headings_2_xl_h4_line_height",
+            "name": "mchTypographyEditorialHeadings2XlH4LineHeight",
             "attributes": {
               "category": "Typography",
               "type": "Editorial Headings",
@@ -18947,7 +18947,7 @@ module.exports = {
               "value": "{fontSize.7}",
               "type": "fontSizes"
             },
-            "name": "mch_typography_editorial_headings_2_xl_h4_font_size",
+            "name": "mchTypographyEditorialHeadings2XlH4FontSize",
             "attributes": {
               "category": "Typography",
               "type": "Editorial Headings",
@@ -18972,7 +18972,7 @@ module.exports = {
               "value": "{letterSpacing.1}",
               "type": "letterSpacing"
             },
-            "name": "mch_typography_editorial_headings_2_xl_h4_letter_spacing",
+            "name": "mchTypographyEditorialHeadings2XlH4LetterSpacing",
             "attributes": {
               "category": "Typography",
               "type": "Editorial Headings",
@@ -18997,7 +18997,7 @@ module.exports = {
               "value": "{paragraphSpacing.1}",
               "type": "paragraphSpacing"
             },
-            "name": "mch_typography_editorial_headings_2_xl_h4_paragraph_spacing",
+            "name": "mchTypographyEditorialHeadings2XlH4ParagraphSpacing",
             "attributes": {
               "category": "Typography",
               "type": "Editorial Headings",
@@ -19022,7 +19022,7 @@ module.exports = {
               "value": "{paragraphIndent.0}",
               "type": "paragraphIndent"
             },
-            "name": "mch_typography_editorial_headings_2_xl_h4_paragraph_indent",
+            "name": "mchTypographyEditorialHeadings2XlH4ParagraphIndent",
             "attributes": {
               "category": "Typography",
               "type": "Editorial Headings",
@@ -19047,7 +19047,7 @@ module.exports = {
               "value": "{textCase.none}",
               "type": "textCase"
             },
-            "name": "mch_typography_editorial_headings_2_xl_h4_text_case",
+            "name": "mchTypographyEditorialHeadings2XlH4TextCase",
             "attributes": {
               "category": "Typography",
               "type": "Editorial Headings",
@@ -19072,7 +19072,7 @@ module.exports = {
               "value": "{textDecoration.none}",
               "type": "textDecoration"
             },
-            "name": "mch_typography_editorial_headings_2_xl_h4_text_decoration",
+            "name": "mchTypographyEditorialHeadings2XlH4TextDecoration",
             "attributes": {
               "category": "Typography",
               "type": "Editorial Headings",
@@ -19089,7 +19089,7 @@ module.exports = {
             ]
           }
         },
-        "H5": {
+        "h5": {
           "fontFamily": {
             "value": "Ivar Display",
             "type": "fontFamilies",
@@ -19099,7 +19099,7 @@ module.exports = {
               "value": "{fontFamilies.ivar-display}",
               "type": "fontFamilies"
             },
-            "name": "mch_typography_editorial_headings_2_xl_h5_font_family",
+            "name": "mchTypographyEditorialHeadings2XlH5FontFamily",
             "attributes": {
               "category": "Typography",
               "type": "Editorial Headings",
@@ -19124,7 +19124,7 @@ module.exports = {
               "value": "{fontWeights.ivar-display-3}",
               "type": "fontWeights"
             },
-            "name": "mch_typography_editorial_headings_2_xl_h5_font_weight",
+            "name": "mchTypographyEditorialHeadings2XlH5FontWeight",
             "attributes": {
               "category": "Typography",
               "type": "Editorial Headings",
@@ -19149,7 +19149,7 @@ module.exports = {
               "value": "{lineHeights.16}",
               "type": "lineHeights"
             },
-            "name": "mch_typography_editorial_headings_2_xl_h5_line_height",
+            "name": "mchTypographyEditorialHeadings2XlH5LineHeight",
             "attributes": {
               "category": "Typography",
               "type": "Editorial Headings",
@@ -19174,7 +19174,7 @@ module.exports = {
               "value": "{fontSize.5}",
               "type": "fontSizes"
             },
-            "name": "mch_typography_editorial_headings_2_xl_h5_font_size",
+            "name": "mchTypographyEditorialHeadings2XlH5FontSize",
             "attributes": {
               "category": "Typography",
               "type": "Editorial Headings",
@@ -19199,7 +19199,7 @@ module.exports = {
               "value": "{letterSpacing.1}",
               "type": "letterSpacing"
             },
-            "name": "mch_typography_editorial_headings_2_xl_h5_letter_spacing",
+            "name": "mchTypographyEditorialHeadings2XlH5LetterSpacing",
             "attributes": {
               "category": "Typography",
               "type": "Editorial Headings",
@@ -19224,7 +19224,7 @@ module.exports = {
               "value": "{paragraphSpacing.1}",
               "type": "paragraphSpacing"
             },
-            "name": "mch_typography_editorial_headings_2_xl_h5_paragraph_spacing",
+            "name": "mchTypographyEditorialHeadings2XlH5ParagraphSpacing",
             "attributes": {
               "category": "Typography",
               "type": "Editorial Headings",
@@ -19249,7 +19249,7 @@ module.exports = {
               "value": "{paragraphIndent.0}",
               "type": "paragraphIndent"
             },
-            "name": "mch_typography_editorial_headings_2_xl_h5_paragraph_indent",
+            "name": "mchTypographyEditorialHeadings2XlH5ParagraphIndent",
             "attributes": {
               "category": "Typography",
               "type": "Editorial Headings",
@@ -19274,7 +19274,7 @@ module.exports = {
               "value": "{textCase.none}",
               "type": "textCase"
             },
-            "name": "mch_typography_editorial_headings_2_xl_h5_text_case",
+            "name": "mchTypographyEditorialHeadings2XlH5TextCase",
             "attributes": {
               "category": "Typography",
               "type": "Editorial Headings",
@@ -19299,7 +19299,7 @@ module.exports = {
               "value": "{textDecoration.none}",
               "type": "textDecoration"
             },
-            "name": "mch_typography_editorial_headings_2_xl_h5_text_decoration",
+            "name": "mchTypographyEditorialHeadings2XlH5TextDecoration",
             "attributes": {
               "category": "Typography",
               "type": "Editorial Headings",
@@ -19318,8 +19318,8 @@ module.exports = {
         }
       }
     },
-    "Editorial Quote": {
-      "Quote - 2XL": {
+    "editorialQuote": {
+      "quote2Xl": {
         "fontFamily": {
           "value": "Ivar Display",
           "type": "fontFamilies",
@@ -19329,7 +19329,7 @@ module.exports = {
             "value": "{fontFamilies.ivar-display}",
             "type": "fontFamilies"
           },
-          "name": "mch_typography_editorial_quote_quote_2_xl_font_family",
+          "name": "mchTypographyEditorialQuoteQuote2XlFontFamily",
           "attributes": {
             "category": "Typography",
             "type": "Editorial Quote",
@@ -19352,7 +19352,7 @@ module.exports = {
             "value": "{fontWeights.ivar-display-4}",
             "type": "fontWeights"
           },
-          "name": "mch_typography_editorial_quote_quote_2_xl_font_weight",
+          "name": "mchTypographyEditorialQuoteQuote2XlFontWeight",
           "attributes": {
             "category": "Typography",
             "type": "Editorial Quote",
@@ -19375,7 +19375,7 @@ module.exports = {
             "value": "{lineHeights.18}",
             "type": "lineHeights"
           },
-          "name": "mch_typography_editorial_quote_quote_2_xl_line_height",
+          "name": "mchTypographyEditorialQuoteQuote2XlLineHeight",
           "attributes": {
             "category": "Typography",
             "type": "Editorial Quote",
@@ -19398,7 +19398,7 @@ module.exports = {
             "value": "{fontSize.13}",
             "type": "fontSizes"
           },
-          "name": "mch_typography_editorial_quote_quote_2_xl_font_size",
+          "name": "mchTypographyEditorialQuoteQuote2XlFontSize",
           "attributes": {
             "category": "Typography",
             "type": "Editorial Quote",
@@ -19421,7 +19421,7 @@ module.exports = {
             "value": "{letterSpacing.1}",
             "type": "letterSpacing"
           },
-          "name": "mch_typography_editorial_quote_quote_2_xl_letter_spacing",
+          "name": "mchTypographyEditorialQuoteQuote2XlLetterSpacing",
           "attributes": {
             "category": "Typography",
             "type": "Editorial Quote",
@@ -19444,7 +19444,7 @@ module.exports = {
             "value": "{paragraphSpacing.1}",
             "type": "paragraphSpacing"
           },
-          "name": "mch_typography_editorial_quote_quote_2_xl_paragraph_spacing",
+          "name": "mchTypographyEditorialQuoteQuote2XlParagraphSpacing",
           "attributes": {
             "category": "Typography",
             "type": "Editorial Quote",
@@ -19467,7 +19467,7 @@ module.exports = {
             "value": "{paragraphIndent.0}",
             "type": "paragraphIndent"
           },
-          "name": "mch_typography_editorial_quote_quote_2_xl_paragraph_indent",
+          "name": "mchTypographyEditorialQuoteQuote2XlParagraphIndent",
           "attributes": {
             "category": "Typography",
             "type": "Editorial Quote",
@@ -19490,7 +19490,7 @@ module.exports = {
             "value": "{textCase.none}",
             "type": "textCase"
           },
-          "name": "mch_typography_editorial_quote_quote_2_xl_text_case",
+          "name": "mchTypographyEditorialQuoteQuote2XlTextCase",
           "attributes": {
             "category": "Typography",
             "type": "Editorial Quote",
@@ -19513,7 +19513,7 @@ module.exports = {
             "value": "{textDecoration.none}",
             "type": "textDecoration"
           },
-          "name": "mch_typography_editorial_quote_quote_2_xl_text_decoration",
+          "name": "mchTypographyEditorialQuoteQuote2XlTextDecoration",
           "attributes": {
             "category": "Typography",
             "type": "Editorial Quote",
@@ -19528,7 +19528,7 @@ module.exports = {
           ]
         }
       },
-      "Quote - XL": {
+      "quoteXl": {
         "fontFamily": {
           "value": "Ivar Display",
           "type": "fontFamilies",
@@ -19538,7 +19538,7 @@ module.exports = {
             "value": "{fontFamilies.ivar-display}",
             "type": "fontFamilies"
           },
-          "name": "mch_typography_editorial_quote_quote_xl_font_family",
+          "name": "mchTypographyEditorialQuoteQuoteXlFontFamily",
           "attributes": {
             "category": "Typography",
             "type": "Editorial Quote",
@@ -19561,7 +19561,7 @@ module.exports = {
             "value": "{fontWeights.ivar-display-4}",
             "type": "fontWeights"
           },
-          "name": "mch_typography_editorial_quote_quote_xl_font_weight",
+          "name": "mchTypographyEditorialQuoteQuoteXlFontWeight",
           "attributes": {
             "category": "Typography",
             "type": "Editorial Quote",
@@ -19584,7 +19584,7 @@ module.exports = {
             "value": "{lineHeights.10}",
             "type": "lineHeights"
           },
-          "name": "mch_typography_editorial_quote_quote_xl_line_height",
+          "name": "mchTypographyEditorialQuoteQuoteXlLineHeight",
           "attributes": {
             "category": "Typography",
             "type": "Editorial Quote",
@@ -19607,7 +19607,7 @@ module.exports = {
             "value": "{fontSize.11}",
             "type": "fontSizes"
           },
-          "name": "mch_typography_editorial_quote_quote_xl_font_size",
+          "name": "mchTypographyEditorialQuoteQuoteXlFontSize",
           "attributes": {
             "category": "Typography",
             "type": "Editorial Quote",
@@ -19630,7 +19630,7 @@ module.exports = {
             "value": "{letterSpacing.5}",
             "type": "letterSpacing"
           },
-          "name": "mch_typography_editorial_quote_quote_xl_letter_spacing",
+          "name": "mchTypographyEditorialQuoteQuoteXlLetterSpacing",
           "attributes": {
             "category": "Typography",
             "type": "Editorial Quote",
@@ -19653,7 +19653,7 @@ module.exports = {
             "value": "{paragraphSpacing.1}",
             "type": "paragraphSpacing"
           },
-          "name": "mch_typography_editorial_quote_quote_xl_paragraph_spacing",
+          "name": "mchTypographyEditorialQuoteQuoteXlParagraphSpacing",
           "attributes": {
             "category": "Typography",
             "type": "Editorial Quote",
@@ -19676,7 +19676,7 @@ module.exports = {
             "value": "{paragraphIndent.0}",
             "type": "paragraphIndent"
           },
-          "name": "mch_typography_editorial_quote_quote_xl_paragraph_indent",
+          "name": "mchTypographyEditorialQuoteQuoteXlParagraphIndent",
           "attributes": {
             "category": "Typography",
             "type": "Editorial Quote",
@@ -19699,7 +19699,7 @@ module.exports = {
             "value": "{textCase.none}",
             "type": "textCase"
           },
-          "name": "mch_typography_editorial_quote_quote_xl_text_case",
+          "name": "mchTypographyEditorialQuoteQuoteXlTextCase",
           "attributes": {
             "category": "Typography",
             "type": "Editorial Quote",
@@ -19722,7 +19722,7 @@ module.exports = {
             "value": "{textDecoration.none}",
             "type": "textDecoration"
           },
-          "name": "mch_typography_editorial_quote_quote_xl_text_decoration",
+          "name": "mchTypographyEditorialQuoteQuoteXlTextDecoration",
           "attributes": {
             "category": "Typography",
             "type": "Editorial Quote",
@@ -19737,7 +19737,7 @@ module.exports = {
           ]
         }
       },
-      "Quote - LG": {
+      "quoteLg": {
         "fontFamily": {
           "value": "Ivar Display",
           "type": "fontFamilies",
@@ -19747,7 +19747,7 @@ module.exports = {
             "value": "{fontFamilies.ivar-display}",
             "type": "fontFamilies"
           },
-          "name": "mch_typography_editorial_quote_quote_lg_font_family",
+          "name": "mchTypographyEditorialQuoteQuoteLgFontFamily",
           "attributes": {
             "category": "Typography",
             "type": "Editorial Quote",
@@ -19770,7 +19770,7 @@ module.exports = {
             "value": "{fontWeights.ivar-display-4}",
             "type": "fontWeights"
           },
-          "name": "mch_typography_editorial_quote_quote_lg_font_weight",
+          "name": "mchTypographyEditorialQuoteQuoteLgFontWeight",
           "attributes": {
             "category": "Typography",
             "type": "Editorial Quote",
@@ -19793,7 +19793,7 @@ module.exports = {
             "value": "{lineHeights.5}",
             "type": "lineHeights"
           },
-          "name": "mch_typography_editorial_quote_quote_lg_line_height",
+          "name": "mchTypographyEditorialQuoteQuoteLgLineHeight",
           "attributes": {
             "category": "Typography",
             "type": "Editorial Quote",
@@ -19816,7 +19816,7 @@ module.exports = {
             "value": "{fontSize.10}",
             "type": "fontSizes"
           },
-          "name": "mch_typography_editorial_quote_quote_lg_font_size",
+          "name": "mchTypographyEditorialQuoteQuoteLgFontSize",
           "attributes": {
             "category": "Typography",
             "type": "Editorial Quote",
@@ -19839,7 +19839,7 @@ module.exports = {
             "value": "{letterSpacing.1}",
             "type": "letterSpacing"
           },
-          "name": "mch_typography_editorial_quote_quote_lg_letter_spacing",
+          "name": "mchTypographyEditorialQuoteQuoteLgLetterSpacing",
           "attributes": {
             "category": "Typography",
             "type": "Editorial Quote",
@@ -19862,7 +19862,7 @@ module.exports = {
             "value": "{paragraphSpacing.0}",
             "type": "paragraphSpacing"
           },
-          "name": "mch_typography_editorial_quote_quote_lg_paragraph_spacing",
+          "name": "mchTypographyEditorialQuoteQuoteLgParagraphSpacing",
           "attributes": {
             "category": "Typography",
             "type": "Editorial Quote",
@@ -19885,7 +19885,7 @@ module.exports = {
             "value": "{paragraphIndent.0}",
             "type": "paragraphIndent"
           },
-          "name": "mch_typography_editorial_quote_quote_lg_paragraph_indent",
+          "name": "mchTypographyEditorialQuoteQuoteLgParagraphIndent",
           "attributes": {
             "category": "Typography",
             "type": "Editorial Quote",
@@ -19908,7 +19908,7 @@ module.exports = {
             "value": "{textCase.none}",
             "type": "textCase"
           },
-          "name": "mch_typography_editorial_quote_quote_lg_text_case",
+          "name": "mchTypographyEditorialQuoteQuoteLgTextCase",
           "attributes": {
             "category": "Typography",
             "type": "Editorial Quote",
@@ -19931,7 +19931,7 @@ module.exports = {
             "value": "{textDecoration.none}",
             "type": "textDecoration"
           },
-          "name": "mch_typography_editorial_quote_quote_lg_text_decoration",
+          "name": "mchTypographyEditorialQuoteQuoteLgTextDecoration",
           "attributes": {
             "category": "Typography",
             "type": "Editorial Quote",
@@ -19946,7 +19946,7 @@ module.exports = {
           ]
         }
       },
-      "Quote - MD": {
+      "quoteMd": {
         "fontFamily": {
           "value": "Ivar Display",
           "type": "fontFamilies",
@@ -19956,7 +19956,7 @@ module.exports = {
             "value": "{fontFamilies.ivar-display}",
             "type": "fontFamilies"
           },
-          "name": "mch_typography_editorial_quote_quote_md_font_family",
+          "name": "mchTypographyEditorialQuoteQuoteMdFontFamily",
           "attributes": {
             "category": "Typography",
             "type": "Editorial Quote",
@@ -19979,7 +19979,7 @@ module.exports = {
             "value": "{fontWeights.ivar-display-4}",
             "type": "fontWeights"
           },
-          "name": "mch_typography_editorial_quote_quote_md_font_weight",
+          "name": "mchTypographyEditorialQuoteQuoteMdFontWeight",
           "attributes": {
             "category": "Typography",
             "type": "Editorial Quote",
@@ -20002,7 +20002,7 @@ module.exports = {
             "value": "{lineHeights.6}",
             "type": "lineHeights"
           },
-          "name": "mch_typography_editorial_quote_quote_md_line_height",
+          "name": "mchTypographyEditorialQuoteQuoteMdLineHeight",
           "attributes": {
             "category": "Typography",
             "type": "Editorial Quote",
@@ -20025,7 +20025,7 @@ module.exports = {
             "value": "{fontSize.9}",
             "type": "fontSizes"
           },
-          "name": "mch_typography_editorial_quote_quote_md_font_size",
+          "name": "mchTypographyEditorialQuoteQuoteMdFontSize",
           "attributes": {
             "category": "Typography",
             "type": "Editorial Quote",
@@ -20048,7 +20048,7 @@ module.exports = {
             "value": "{letterSpacing.1}",
             "type": "letterSpacing"
           },
-          "name": "mch_typography_editorial_quote_quote_md_letter_spacing",
+          "name": "mchTypographyEditorialQuoteQuoteMdLetterSpacing",
           "attributes": {
             "category": "Typography",
             "type": "Editorial Quote",
@@ -20071,7 +20071,7 @@ module.exports = {
             "value": "{paragraphSpacing.0}",
             "type": "paragraphSpacing"
           },
-          "name": "mch_typography_editorial_quote_quote_md_paragraph_spacing",
+          "name": "mchTypographyEditorialQuoteQuoteMdParagraphSpacing",
           "attributes": {
             "category": "Typography",
             "type": "Editorial Quote",
@@ -20094,7 +20094,7 @@ module.exports = {
             "value": "{paragraphIndent.0}",
             "type": "paragraphIndent"
           },
-          "name": "mch_typography_editorial_quote_quote_md_paragraph_indent",
+          "name": "mchTypographyEditorialQuoteQuoteMdParagraphIndent",
           "attributes": {
             "category": "Typography",
             "type": "Editorial Quote",
@@ -20117,7 +20117,7 @@ module.exports = {
             "value": "{textCase.none}",
             "type": "textCase"
           },
-          "name": "mch_typography_editorial_quote_quote_md_text_case",
+          "name": "mchTypographyEditorialQuoteQuoteMdTextCase",
           "attributes": {
             "category": "Typography",
             "type": "Editorial Quote",
@@ -20140,7 +20140,7 @@ module.exports = {
             "value": "{textDecoration.none}",
             "type": "textDecoration"
           },
-          "name": "mch_typography_editorial_quote_quote_md_text_decoration",
+          "name": "mchTypographyEditorialQuoteQuoteMdTextDecoration",
           "attributes": {
             "category": "Typography",
             "type": "Editorial Quote",
@@ -20155,7 +20155,7 @@ module.exports = {
           ]
         }
       },
-      "Quote - XS-SM": {
+      "quoteXsSm": {
         "fontFamily": {
           "value": "Ivar Display",
           "type": "fontFamilies",
@@ -20165,7 +20165,7 @@ module.exports = {
             "value": "{fontFamilies.ivar-display}",
             "type": "fontFamilies"
           },
-          "name": "mch_typography_editorial_quote_quote_xs_sm_font_family",
+          "name": "mchTypographyEditorialQuoteQuoteXsSmFontFamily",
           "attributes": {
             "category": "Typography",
             "type": "Editorial Quote",
@@ -20188,7 +20188,7 @@ module.exports = {
             "value": "{fontWeights.ivar-display-4}",
             "type": "fontWeights"
           },
-          "name": "mch_typography_editorial_quote_quote_xs_sm_font_weight",
+          "name": "mchTypographyEditorialQuoteQuoteXsSmFontWeight",
           "attributes": {
             "category": "Typography",
             "type": "Editorial Quote",
@@ -20211,7 +20211,7 @@ module.exports = {
             "value": "{lineHeights.6}",
             "type": "lineHeights"
           },
-          "name": "mch_typography_editorial_quote_quote_xs_sm_line_height",
+          "name": "mchTypographyEditorialQuoteQuoteXsSmLineHeight",
           "attributes": {
             "category": "Typography",
             "type": "Editorial Quote",
@@ -20234,7 +20234,7 @@ module.exports = {
             "value": "{fontSize.8}",
             "type": "fontSizes"
           },
-          "name": "mch_typography_editorial_quote_quote_xs_sm_font_size",
+          "name": "mchTypographyEditorialQuoteQuoteXsSmFontSize",
           "attributes": {
             "category": "Typography",
             "type": "Editorial Quote",
@@ -20257,7 +20257,7 @@ module.exports = {
             "value": "{letterSpacing.1}",
             "type": "letterSpacing"
           },
-          "name": "mch_typography_editorial_quote_quote_xs_sm_letter_spacing",
+          "name": "mchTypographyEditorialQuoteQuoteXsSmLetterSpacing",
           "attributes": {
             "category": "Typography",
             "type": "Editorial Quote",
@@ -20280,7 +20280,7 @@ module.exports = {
             "value": "{paragraphSpacing.0}",
             "type": "paragraphSpacing"
           },
-          "name": "mch_typography_editorial_quote_quote_xs_sm_paragraph_spacing",
+          "name": "mchTypographyEditorialQuoteQuoteXsSmParagraphSpacing",
           "attributes": {
             "category": "Typography",
             "type": "Editorial Quote",
@@ -20303,7 +20303,7 @@ module.exports = {
             "value": "{paragraphIndent.0}",
             "type": "paragraphIndent"
           },
-          "name": "mch_typography_editorial_quote_quote_xs_sm_paragraph_indent",
+          "name": "mchTypographyEditorialQuoteQuoteXsSmParagraphIndent",
           "attributes": {
             "category": "Typography",
             "type": "Editorial Quote",
@@ -20326,7 +20326,7 @@ module.exports = {
             "value": "{textCase.none}",
             "type": "textCase"
           },
-          "name": "mch_typography_editorial_quote_quote_xs_sm_text_case",
+          "name": "mchTypographyEditorialQuoteQuoteXsSmTextCase",
           "attributes": {
             "category": "Typography",
             "type": "Editorial Quote",
@@ -20349,7 +20349,7 @@ module.exports = {
             "value": "{textDecoration.none}",
             "type": "textDecoration"
           },
-          "name": "mch_typography_editorial_quote_quote_xs_sm_text_decoration",
+          "name": "mchTypographyEditorialQuoteQuoteXsSmTextDecoration",
           "attributes": {
             "category": "Typography",
             "type": "Editorial Quote",
@@ -20376,7 +20376,7 @@ module.exports = {
         "value": "none",
         "type": "textCase"
       },
-      "name": "mch_text_case_none",
+      "name": "mchTextCaseNone",
       "attributes": {
         "category": "textCase",
         "type": "none"
@@ -20395,7 +20395,7 @@ module.exports = {
         "value": "uppercase",
         "type": "textCase"
       },
-      "name": "mch_text_case_uppercase",
+      "name": "mchTextCaseUppercase",
       "attributes": {
         "category": "textCase",
         "type": "uppercase"
@@ -20416,7 +20416,7 @@ module.exports = {
         "value": "none",
         "type": "textDecoration"
       },
-      "name": "mch_text_decoration_none",
+      "name": "mchTextDecorationNone",
       "attributes": {
         "category": "textDecoration",
         "type": "none"
@@ -20435,7 +20435,7 @@ module.exports = {
         "value": "underline",
         "type": "textDecoration"
       },
-      "name": "mch_text_decoration_underline",
+      "name": "mchTextDecorationUnderline",
       "attributes": {
         "category": "textDecoration",
         "type": "underline"
@@ -20456,7 +20456,7 @@ module.exports = {
         "value": "0px",
         "type": "dimension"
       },
-      "name": "mch_paragraph_indent_0",
+      "name": "mchParagraphIndent0",
       "attributes": {
         "category": "paragraphIndent",
         "type": "0"
@@ -20477,7 +20477,7 @@ module.exports = {
         "value": "0",
         "type": "borderRadius"
       },
-      "name": "mch_border_radius_0",
+      "name": "mchBorderRadius0",
       "attributes": {
         "category": "borderRadius",
         "type": "0"
@@ -20496,7 +20496,7 @@ module.exports = {
         "value": "2px",
         "type": "borderRadius"
       },
-      "name": "mch_border_radius_2",
+      "name": "mchBorderRadius2",
       "attributes": {
         "category": "borderRadius",
         "type": "2"
@@ -20515,7 +20515,7 @@ module.exports = {
         "value": "4px",
         "type": "borderRadius"
       },
-      "name": "mch_border_radius_4",
+      "name": "mchBorderRadius4",
       "attributes": {
         "category": "borderRadius",
         "type": "4"
@@ -20534,7 +20534,7 @@ module.exports = {
         "value": "12px",
         "type": "borderRadius"
       },
-      "name": "mch_border_radius_12",
+      "name": "mchBorderRadius12",
       "attributes": {
         "category": "borderRadius",
         "type": "12"
@@ -20553,7 +20553,7 @@ module.exports = {
         "value": "24px",
         "type": "borderRadius"
       },
-      "name": "mch_border_radius_24",
+      "name": "mchBorderRadius24",
       "attributes": {
         "category": "borderRadius",
         "type": "24"
@@ -20572,7 +20572,7 @@ module.exports = {
         "value": "40px",
         "type": "borderRadius"
       },
-      "name": "mch_border_radius_40",
+      "name": "mchBorderRadius40",
       "attributes": {
         "category": "borderRadius",
         "type": "40"
@@ -20591,7 +20591,7 @@ module.exports = {
         "value": "50%",
         "type": "borderRadius"
       },
-      "name": "mch_border_radius_half",
+      "name": "mchBorderRadiusHalf",
       "attributes": {
         "category": "borderRadius",
         "type": "half"
@@ -20610,7 +20610,7 @@ module.exports = {
         "value": "100%",
         "type": "borderRadius"
       },
-      "name": "mch_border_radius_full",
+      "name": "mchBorderRadiusFull",
       "attributes": {
         "category": "borderRadius",
         "type": "full"
@@ -20631,7 +20631,7 @@ module.exports = {
         "value": "0",
         "type": "borderWidth"
       },
-      "name": "mch_border_width_0",
+      "name": "mchBorderWidth0",
       "attributes": {
         "category": "borderWidth",
         "type": "0"
@@ -20650,7 +20650,7 @@ module.exports = {
         "value": "1",
         "type": "borderWidth"
       },
-      "name": "mch_border_width_1",
+      "name": "mchBorderWidth1",
       "attributes": {
         "category": "borderWidth",
         "type": "1"
@@ -20669,7 +20669,7 @@ module.exports = {
         "value": "2",
         "type": "borderWidth"
       },
-      "name": "mch_border_width_2",
+      "name": "mchBorderWidth2",
       "attributes": {
         "category": "borderWidth",
         "type": "2"
