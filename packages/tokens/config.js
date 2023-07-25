@@ -485,7 +485,7 @@ async function run() {
       },
       jsModule: {
         // transformGroup: 'js',
-        transforms: ["attribute/cti","name/cti/camel","fontSize/pxToRem","color/hex", 'ts/type/fontWeight', "remove/pindent/px"],
+        transforms: ["attribute/cti","name/cti/snake","fontSize/pxToRem","color/hex", 'ts/type/fontWeight', "remove/pindent/px"],
         buildPath: 'build/js/',
         prefix: "mch_",
         files: [
