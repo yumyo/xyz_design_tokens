@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Tue, 25 Jul 2023 15:43:30 GMT
+ * Generated on Mon, 31 Jul 2023 16:52:56 GMT
  */
 
 export const mch_color_light_base_neutrals_0 = "#ffffff";
@@ -59,7 +59,7 @@ export const mch_color_light_sectors_film = "#f7dce9";
 export const mch_color_light_sectors_parcour_public = "#cddff2";
 export const mch_color_light_sectors_unlimited_encounters_meridians = "#dff0cb";
 export const mch_color_light_sectors_discoveries_statements_positions = "#D2D3EC";
-export const mch_color_light_sectors_galleries = "#eaeaea";
+export const mch_color_light_sectors_galleries = "#CDCDCD";
 export const mch_color_light_sectors_feature_nova = "#d8eeeb";
 export const mch_color_light_sectors_edition = "#fff7bf";
 export const mch_color_light_sectors_kabinett = "#fcdfaa";
@@ -116,7 +116,7 @@ export const mch_color_dark_sectors_film = "#f7dce9";
 export const mch_color_dark_sectors_parcour_public = "#cddff2";
 export const mch_color_dark_sectors_unlimited_encounters_meridians = "#dff0cb";
 export const mch_color_dark_sectors_discoveries_statements_positions = "#D2D3EC";
-export const mch_color_dark_sectors_galleries = "#eaeaea";
+export const mch_color_dark_sectors_galleries = "#CDCDCD";
 export const mch_color_dark_sectors_feature_nova = "#d8eeeb";
 export const mch_color_dark_sectors_edition = "#fff7bf";
 export const mch_color_dark_sectors_kabinett = "#fcdfaa";

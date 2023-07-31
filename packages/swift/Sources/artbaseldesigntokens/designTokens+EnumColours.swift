@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Tue, 25 Jul 2023 15:43:30 GMT
+// Generated on Mon, 31 Jul 2023 16:52:56 GMT
 
 
 import UIKit
@@ -67,7 +67,7 @@ public enum StyleDictionaryEnumColours {
     public static let mchColorDarkSectorsEdition = UIColor(red: 1.000, green: 0.969, blue: 0.749, alpha: 1)
     public static let mchColorDarkSectorsFeatureNova = UIColor(red: 0.847, green: 0.933, blue: 0.922, alpha: 1)
     public static let mchColorDarkSectorsFilm = UIColor(red: 0.969, green: 0.863, blue: 0.914, alpha: 1)
-    public static let mchColorDarkSectorsGalleries = UIColor(red: 0.918, green: 0.918, blue: 0.918, alpha: 1)
+    public static let mchColorDarkSectorsGalleries = UIColor(red: 0.804, green: 0.804, blue: 0.804, alpha: 1)
     public static let mchColorDarkSectorsInsightsSurvey = UIColor(red: 0.988, green: 0.835, blue: 0.843, alpha: 1)
     public static let mchColorDarkSectorsKabinett = UIColor(red: 0.988, green: 0.875, blue: 0.667, alpha: 1)
     public static let mchColorDarkSectorsParcourPublic = UIColor(red: 0.804, green: 0.875, blue: 0.949, alpha: 1)
@@ -129,7 +129,7 @@ public enum StyleDictionaryEnumColours {
     public static let mchColorLightSectorsEdition = UIColor(red: 1.000, green: 0.969, blue: 0.749, alpha: 1)
     public static let mchColorLightSectorsFeatureNova = UIColor(red: 0.847, green: 0.933, blue: 0.922, alpha: 1)
     public static let mchColorLightSectorsFilm = UIColor(red: 0.969, green: 0.863, blue: 0.914, alpha: 1)
-    public static let mchColorLightSectorsGalleries = UIColor(red: 0.918, green: 0.918, blue: 0.918, alpha: 1)
+    public static let mchColorLightSectorsGalleries = UIColor(red: 0.804, green: 0.804, blue: 0.804, alpha: 1)
     public static let mchColorLightSectorsInsightsSurvey = UIColor(red: 0.988, green: 0.835, blue: 0.843, alpha: 1)
     public static let mchColorLightSectorsKabinett = UIColor(red: 0.988, green: 0.875, blue: 0.667, alpha: 1)
     public static let mchColorLightSectorsParcourPublic = UIColor(red: 0.804, green: 0.875, blue: 0.949, alpha: 1)
