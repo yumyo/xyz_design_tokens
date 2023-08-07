@@ -428,15 +428,15 @@ async function run() {
         files: [
           {
             filter: function(prop) {
-              return (prop.type === 'fontSizes' && prop.filePath !== 'src/global.json' || 
-                      prop.path[0] === 'lineSpacing' && prop.filePath !== 'src/global.json' ||
-                      prop.type === 'borderRadius' && prop.filePath !== 'src/global.json' ||
-                      prop.type === 'borderWidth' && prop.filePath !== 'src/global.json' ||
-                      prop.type === 'spacing' && prop.filePath !== 'src/global.json'
+              return (prop.type === 'fontSizes' && prop.filePath === 'src/App.json' || 
+                      prop.path[0] === 'lineSpacing' && prop.filePath === 'src/App.json' ||
+                      prop.type === 'borderRadius' && prop.filePath === 'src/App.json' ||
+                      prop.type === 'borderWidth' && prop.filePath === 'src/App.json' ||
+                      prop.type === 'spacing' && prop.filePath === 'src/App.json'
                       );
             },
             resourceType: "dimen",
-            destination: `${mobileDesignTokensFileName}App.xml`,
+            destination: `${mobileDesignTokensFileName}${capitalizeFirstLetter(theme.name)}.xml`,
             format: "android/resources",
           },
           {
@@ -469,7 +469,7 @@ async function run() {
 
   // Global tokens export.
   StyleDictionary.extend({
-    source: ['src/global.json'],
+    source: ['src/global.json', 'src/Global-Colours.json'],
     platforms: {
       js: {
         // transformGroup: 'js',
