@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Mon, 07 Aug 2023 17:17:45 GMT
+ * Generated on Mon, 07 Aug 2023 17:22:21 GMT
  */
 
 module.exports = {
@@ -804,6 +804,3162 @@ module.exports = {
               "Success"
             ]
           }
+        }
+      }
+    },
+    "light": {
+      "base": {
+        "neutrals": {
+          "0": {
+            "value": "#ffffff",
+            "type": "color",
+            "description": "On Light Mode (default) this is the pure MCH White colour",
+            "filePath": "src/Global-Colours.json",
+            "isSource": true,
+            "original": {
+              "value": "#ffffff",
+              "type": "color",
+              "description": "On Light Mode (default) this is the pure MCH White colour"
+            },
+            "name": "mch_color_light_base_neutrals_0",
+            "attributes": {
+              "category": "Color",
+              "type": "Light",
+              "item": "Base",
+              "subitem": "Neutrals",
+              "state": "0"
+            },
+            "path": [
+              "Color",
+              "Light",
+              "Base",
+              "Neutrals",
+              "0"
+            ]
+          },
+          "100": {
+            "value": "#f8f8f8",
+            "type": "color",
+            "filePath": "src/Global-Colours.json",
+            "isSource": true,
+            "original": {
+              "value": "#f8f8f8",
+              "type": "color"
+            },
+            "name": "mch_color_light_base_neutrals_100",
+            "attributes": {
+              "category": "Color",
+              "type": "Light",
+              "item": "Base",
+              "subitem": "Neutrals",
+              "state": "100"
+            },
+            "path": [
+              "Color",
+              "Light",
+              "Base",
+              "Neutrals",
+              "100"
+            ]
+          },
+          "200": {
+            "value": "#f0f0f0",
+            "type": "color",
+            "filePath": "src/Global-Colours.json",
+            "isSource": true,
+            "original": {
+              "value": "#f0f0f0",
+              "type": "color"
+            },
+            "name": "mch_color_light_base_neutrals_200",
+            "attributes": {
+              "category": "Color",
+              "type": "Light",
+              "item": "Base",
+              "subitem": "Neutrals",
+              "state": "200"
+            },
+            "path": [
+              "Color",
+              "Light",
+              "Base",
+              "Neutrals",
+              "200"
+            ]
+          },
+          "300": {
+            "value": "#e8e8e8",
+            "type": "color",
+            "filePath": "src/Global-Colours.json",
+            "isSource": true,
+            "original": {
+              "value": "#e8e8e8",
+              "type": "color"
+            },
+            "name": "mch_color_light_base_neutrals_300",
+            "attributes": {
+              "category": "Color",
+              "type": "Light",
+              "item": "Base",
+              "subitem": "Neutrals",
+              "state": "300"
+            },
+            "path": [
+              "Color",
+              "Light",
+              "Base",
+              "Neutrals",
+              "300"
+            ]
+          },
+          "400": {
+            "value": "#dadada",
+            "type": "color",
+            "filePath": "src/Global-Colours.json",
+            "isSource": true,
+            "original": {
+              "value": "#dadada",
+              "type": "color"
+            },
+            "name": "mch_color_light_base_neutrals_400",
+            "attributes": {
+              "category": "Color",
+              "type": "Light",
+              "item": "Base",
+              "subitem": "Neutrals",
+              "state": "400"
+            },
+            "path": [
+              "Color",
+              "Light",
+              "Base",
+              "Neutrals",
+              "400"
+            ]
+          },
+          "500": {
+            "value": "#bfbfbf",
+            "type": "color",
+            "filePath": "src/Global-Colours.json",
+            "isSource": true,
+            "original": {
+              "value": "#bfbfbf",
+              "type": "color"
+            },
+            "name": "mch_color_light_base_neutrals_500",
+            "attributes": {
+              "category": "Color",
+              "type": "Light",
+              "item": "Base",
+              "subitem": "Neutrals",
+              "state": "500"
+            },
+            "path": [
+              "Color",
+              "Light",
+              "Base",
+              "Neutrals",
+              "500"
+            ]
+          },
+          "600": {
+            "value": "#999999",
+            "type": "color",
+            "filePath": "src/Global-Colours.json",
+            "isSource": true,
+            "original": {
+              "value": "#999999",
+              "type": "color"
+            },
+            "name": "mch_color_light_base_neutrals_600",
+            "attributes": {
+              "category": "Color",
+              "type": "Light",
+              "item": "Base",
+              "subitem": "Neutrals",
+              "state": "600"
+            },
+            "path": [
+              "Color",
+              "Light",
+              "Base",
+              "Neutrals",
+              "600"
+            ]
+          },
+          "700": {
+            "value": "#696969",
+            "type": "color",
+            "filePath": "src/Global-Colours.json",
+            "isSource": true,
+            "original": {
+              "value": "#696969",
+              "type": "color"
+            },
+            "name": "mch_color_light_base_neutrals_700",
+            "attributes": {
+              "category": "Color",
+              "type": "Light",
+              "item": "Base",
+              "subitem": "Neutrals",
+              "state": "700"
+            },
+            "path": [
+              "Color",
+              "Light",
+              "Base",
+              "Neutrals",
+              "700"
+            ]
+          },
+          "800": {
+            "value": "#404040",
+            "type": "color",
+            "filePath": "src/Global-Colours.json",
+            "isSource": true,
+            "original": {
+              "value": "#404040",
+              "type": "color"
+            },
+            "name": "mch_color_light_base_neutrals_800",
+            "attributes": {
+              "category": "Color",
+              "type": "Light",
+              "item": "Base",
+              "subitem": "Neutrals",
+              "state": "800"
+            },
+            "path": [
+              "Color",
+              "Light",
+              "Base",
+              "Neutrals",
+              "800"
+            ]
+          },
+          "900": {
+            "value": "#242424",
+            "type": "color",
+            "filePath": "src/Global-Colours.json",
+            "isSource": true,
+            "original": {
+              "value": "#242424",
+              "type": "color"
+            },
+            "name": "mch_color_light_base_neutrals_900",
+            "attributes": {
+              "category": "Color",
+              "type": "Light",
+              "item": "Base",
+              "subitem": "Neutrals",
+              "state": "900"
+            },
+            "path": [
+              "Color",
+              "Light",
+              "Base",
+              "Neutrals",
+              "900"
+            ]
+          },
+          "1000": {
+            "value": "#121212",
+            "type": "color",
+            "description": "On Light Mode (default), this is the MCH principal Black colour",
+            "filePath": "src/Global-Colours.json",
+            "isSource": true,
+            "original": {
+              "value": "#121212",
+              "type": "color",
+              "description": "On Light Mode (default), this is the MCH principal Black colour"
+            },
+            "name": "mch_color_light_base_neutrals_1000",
+            "attributes": {
+              "category": "Color",
+              "type": "Light",
+              "item": "Base",
+              "subitem": "Neutrals",
+              "state": "1000"
+            },
+            "path": [
+              "Color",
+              "Light",
+              "Base",
+              "Neutrals",
+              "1000"
+            ]
+          }
+        },
+        "alerts": {
+          "gold": {
+            "100": {
+              "value": "#fdf6ec",
+              "type": "color",
+              "filePath": "src/Global-Colours.json",
+              "isSource": true,
+              "original": {
+                "value": "#fdf6ec",
+                "type": "color"
+              },
+              "name": "mch_color_light_base_alerts_gold_100",
+              "attributes": {
+                "category": "Color",
+                "type": "Light",
+                "item": "Base",
+                "subitem": "Alerts",
+                "state": "Gold"
+              },
+              "path": [
+                "Color",
+                "Light",
+                "Base",
+                "Alerts",
+                "Gold",
+                "100"
+              ]
+            },
+            "200": {
+              "value": "#fbecd4",
+              "type": "color",
+              "filePath": "src/Global-Colours.json",
+              "isSource": true,
+              "original": {
+                "value": "#fbecd4",
+                "type": "color"
+              },
+              "name": "mch_color_light_base_alerts_gold_200",
+              "attributes": {
+                "category": "Color",
+                "type": "Light",
+                "item": "Base",
+                "subitem": "Alerts",
+                "state": "Gold"
+              },
+              "path": [
+                "Color",
+                "Light",
+                "Base",
+                "Alerts",
+                "Gold",
+                "200"
+              ]
+            },
+            "300": {
+              "value": "#f7dbac",
+              "type": "color",
+              "filePath": "src/Global-Colours.json",
+              "isSource": true,
+              "original": {
+                "value": "#f7dbac",
+                "type": "color"
+              },
+              "name": "mch_color_light_base_alerts_gold_300",
+              "attributes": {
+                "category": "Color",
+                "type": "Light",
+                "item": "Base",
+                "subitem": "Alerts",
+                "state": "Gold"
+              },
+              "path": [
+                "Color",
+                "Light",
+                "Base",
+                "Alerts",
+                "Gold",
+                "300"
+              ]
+            },
+            "400": {
+              "value": "#f3ce89",
+              "type": "color",
+              "filePath": "src/Global-Colours.json",
+              "isSource": true,
+              "original": {
+                "value": "#f3ce89",
+                "type": "color"
+              },
+              "name": "mch_color_light_base_alerts_gold_400",
+              "attributes": {
+                "category": "Color",
+                "type": "Light",
+                "item": "Base",
+                "subitem": "Alerts",
+                "state": "Gold"
+              },
+              "path": [
+                "Color",
+                "Light",
+                "Base",
+                "Alerts",
+                "Gold",
+                "400"
+              ]
+            },
+            "500": {
+              "value": "#e9aa21",
+              "type": "color",
+              "filePath": "src/Global-Colours.json",
+              "isSource": true,
+              "original": {
+                "value": "#e9aa21",
+                "type": "color"
+              },
+              "name": "mch_color_light_base_alerts_gold_500",
+              "attributes": {
+                "category": "Color",
+                "type": "Light",
+                "item": "Base",
+                "subitem": "Alerts",
+                "state": "Gold"
+              },
+              "path": [
+                "Color",
+                "Light",
+                "Base",
+                "Alerts",
+                "Gold",
+                "500"
+              ]
+            },
+            "600": {
+              "value": "#c78b0a",
+              "type": "color",
+              "filePath": "src/Global-Colours.json",
+              "isSource": true,
+              "original": {
+                "value": "#c78b0a",
+                "type": "color"
+              },
+              "name": "mch_color_light_base_alerts_gold_600",
+              "attributes": {
+                "category": "Color",
+                "type": "Light",
+                "item": "Base",
+                "subitem": "Alerts",
+                "state": "Gold"
+              },
+              "path": [
+                "Color",
+                "Light",
+                "Base",
+                "Alerts",
+                "Gold",
+                "600"
+              ]
+            },
+            "700": {
+              "value": "#9f6d00",
+              "type": "color",
+              "filePath": "src/Global-Colours.json",
+              "isSource": true,
+              "original": {
+                "value": "#9f6d00",
+                "type": "color"
+              },
+              "name": "mch_color_light_base_alerts_gold_700",
+              "attributes": {
+                "category": "Color",
+                "type": "Light",
+                "item": "Base",
+                "subitem": "Alerts",
+                "state": "Gold"
+              },
+              "path": [
+                "Color",
+                "Light",
+                "Base",
+                "Alerts",
+                "Gold",
+                "700"
+              ]
+            },
+            "800": {
+              "value": "#855b00",
+              "type": "color",
+              "filePath": "src/Global-Colours.json",
+              "isSource": true,
+              "original": {
+                "value": "#855b00",
+                "type": "color"
+              },
+              "name": "mch_color_light_base_alerts_gold_800",
+              "attributes": {
+                "category": "Color",
+                "type": "Light",
+                "item": "Base",
+                "subitem": "Alerts",
+                "state": "Gold"
+              },
+              "path": [
+                "Color",
+                "Light",
+                "Base",
+                "Alerts",
+                "Gold",
+                "800"
+              ]
+            },
+            "900": {
+              "value": "#6b4900",
+              "type": "color",
+              "filePath": "src/Global-Colours.json",
+              "isSource": true,
+              "original": {
+                "value": "#6b4900",
+                "type": "color"
+              },
+              "name": "mch_color_light_base_alerts_gold_900",
+              "attributes": {
+                "category": "Color",
+                "type": "Light",
+                "item": "Base",
+                "subitem": "Alerts",
+                "state": "Gold"
+              },
+              "path": [
+                "Color",
+                "Light",
+                "Base",
+                "Alerts",
+                "Gold",
+                "900"
+              ]
+            }
+          },
+          "red": {
+            "100": {
+              "value": "#fff1f3",
+              "type": "color",
+              "filePath": "src/Global-Colours.json",
+              "isSource": true,
+              "original": {
+                "value": "#fff1f3",
+                "type": "color"
+              },
+              "name": "mch_color_light_base_alerts_red_100",
+              "attributes": {
+                "category": "Color",
+                "type": "Light",
+                "item": "Base",
+                "subitem": "Alerts",
+                "state": "Red"
+              },
+              "path": [
+                "Color",
+                "Light",
+                "Base",
+                "Alerts",
+                "Red",
+                "100"
+              ]
+            },
+            "200": {
+              "value": "#ffdee3",
+              "type": "color",
+              "filePath": "src/Global-Colours.json",
+              "isSource": true,
+              "original": {
+                "value": "#ffdee3",
+                "type": "color"
+              },
+              "name": "mch_color_light_base_alerts_red_200",
+              "attributes": {
+                "category": "Color",
+                "type": "Light",
+                "item": "Base",
+                "subitem": "Alerts",
+                "state": "Red"
+              },
+              "path": [
+                "Color",
+                "Light",
+                "Base",
+                "Alerts",
+                "Red",
+                "200"
+              ]
+            },
+            "300": {
+              "value": "#ffbfc9",
+              "type": "color",
+              "filePath": "src/Global-Colours.json",
+              "isSource": true,
+              "original": {
+                "value": "#ffbfc9",
+                "type": "color"
+              },
+              "name": "mch_color_light_base_alerts_red_300",
+              "attributes": {
+                "category": "Color",
+                "type": "Light",
+                "item": "Base",
+                "subitem": "Alerts",
+                "state": "Red"
+              },
+              "path": [
+                "Color",
+                "Light",
+                "Base",
+                "Alerts",
+                "Red",
+                "300"
+              ]
+            },
+            "400": {
+              "value": "#ffa3b3",
+              "type": "color",
+              "filePath": "src/Global-Colours.json",
+              "isSource": true,
+              "original": {
+                "value": "#ffa3b3",
+                "type": "color"
+              },
+              "name": "mch_color_light_base_alerts_red_400",
+              "attributes": {
+                "category": "Color",
+                "type": "Light",
+                "item": "Base",
+                "subitem": "Alerts",
+                "state": "Red"
+              },
+              "path": [
+                "Color",
+                "Light",
+                "Base",
+                "Alerts",
+                "Red",
+                "400"
+              ]
+            },
+            "500": {
+              "value": "#ff526f",
+              "type": "color",
+              "filePath": "src/Global-Colours.json",
+              "isSource": true,
+              "original": {
+                "value": "#ff526f",
+                "type": "color"
+              },
+              "name": "mch_color_light_base_alerts_red_500",
+              "attributes": {
+                "category": "Color",
+                "type": "Light",
+                "item": "Base",
+                "subitem": "Alerts",
+                "state": "Red"
+              },
+              "path": [
+                "Color",
+                "Light",
+                "Base",
+                "Alerts",
+                "Red",
+                "500"
+              ]
+            },
+            "600": {
+              "value": "#f20d42",
+              "type": "color",
+              "filePath": "src/Global-Colours.json",
+              "isSource": true,
+              "original": {
+                "value": "#f20d42",
+                "type": "color"
+              },
+              "name": "mch_color_light_base_alerts_red_600",
+              "attributes": {
+                "category": "Color",
+                "type": "Light",
+                "item": "Base",
+                "subitem": "Alerts",
+                "state": "Red"
+              },
+              "path": [
+                "Color",
+                "Light",
+                "Base",
+                "Alerts",
+                "Red",
+                "600"
+              ]
+            },
+            "700": {
+              "value": "#ca002e",
+              "type": "color",
+              "filePath": "src/Global-Colours.json",
+              "isSource": true,
+              "original": {
+                "value": "#ca002e",
+                "type": "color"
+              },
+              "name": "mch_color_light_base_alerts_red_700",
+              "attributes": {
+                "category": "Color",
+                "type": "Light",
+                "item": "Base",
+                "subitem": "Alerts",
+                "state": "Red"
+              },
+              "path": [
+                "Color",
+                "Light",
+                "Base",
+                "Alerts",
+                "Red",
+                "700"
+              ]
+            },
+            "800": {
+              "value": "#b20029",
+              "type": "color",
+              "filePath": "src/Global-Colours.json",
+              "isSource": true,
+              "original": {
+                "value": "#b20029",
+                "type": "color"
+              },
+              "name": "mch_color_light_base_alerts_red_800",
+              "attributes": {
+                "category": "Color",
+                "type": "Light",
+                "item": "Base",
+                "subitem": "Alerts",
+                "state": "Red"
+              },
+              "path": [
+                "Color",
+                "Light",
+                "Base",
+                "Alerts",
+                "Red",
+                "800"
+              ]
+            },
+            "900": {
+              "value": "#990023",
+              "type": "color",
+              "filePath": "src/Global-Colours.json",
+              "isSource": true,
+              "original": {
+                "value": "#990023",
+                "type": "color"
+              },
+              "name": "mch_color_light_base_alerts_red_900",
+              "attributes": {
+                "category": "Color",
+                "type": "Light",
+                "item": "Base",
+                "subitem": "Alerts",
+                "state": "Red"
+              },
+              "path": [
+                "Color",
+                "Light",
+                "Base",
+                "Alerts",
+                "Red",
+                "900"
+              ]
+            }
+          },
+          "green": {
+            "100": {
+              "value": "#ecfaf4",
+              "type": "color",
+              "filePath": "src/Global-Colours.json",
+              "isSource": true,
+              "original": {
+                "value": "#ecfaf4",
+                "type": "color"
+              },
+              "name": "mch_color_light_base_alerts_green_100",
+              "attributes": {
+                "category": "Color",
+                "type": "Light",
+                "item": "Base",
+                "subitem": "Alerts",
+                "state": "Green"
+              },
+              "path": [
+                "Color",
+                "Light",
+                "Base",
+                "Alerts",
+                "Green",
+                "100"
+              ]
+            },
+            "200": {
+              "value": "#d4f4e7",
+              "type": "color",
+              "filePath": "src/Global-Colours.json",
+              "isSource": true,
+              "original": {
+                "value": "#d4f4e7",
+                "type": "color"
+              },
+              "name": "mch_color_light_base_alerts_green_200",
+              "attributes": {
+                "category": "Color",
+                "type": "Light",
+                "item": "Base",
+                "subitem": "Alerts",
+                "state": "Green"
+              },
+              "path": [
+                "Color",
+                "Light",
+                "Base",
+                "Alerts",
+                "Green",
+                "200"
+              ]
+            },
+            "300": {
+              "value": "#abe9d2",
+              "type": "color",
+              "filePath": "src/Global-Colours.json",
+              "isSource": true,
+              "original": {
+                "value": "#abe9d2",
+                "type": "color"
+              },
+              "name": "mch_color_light_base_alerts_green_300",
+              "attributes": {
+                "category": "Color",
+                "type": "Light",
+                "item": "Base",
+                "subitem": "Alerts",
+                "state": "Green"
+              },
+              "path": [
+                "Color",
+                "Light",
+                "Base",
+                "Alerts",
+                "Green",
+                "300"
+              ]
+            },
+            "400": {
+              "value": "#6fdab5",
+              "type": "color",
+              "filePath": "src/Global-Colours.json",
+              "isSource": true,
+              "original": {
+                "value": "#6fdab5",
+                "type": "color"
+              },
+              "name": "mch_color_light_base_alerts_green_400",
+              "attributes": {
+                "category": "Color",
+                "type": "Light",
+                "item": "Base",
+                "subitem": "Alerts",
+                "state": "Green"
+              },
+              "path": [
+                "Color",
+                "Light",
+                "Base",
+                "Alerts",
+                "Green",
+                "400"
+              ]
+            },
+            "500": {
+              "value": "#1ec597",
+              "type": "color",
+              "filePath": "src/Global-Colours.json",
+              "isSource": true,
+              "original": {
+                "value": "#1ec597",
+                "type": "color"
+              },
+              "name": "mch_color_light_base_alerts_green_500",
+              "attributes": {
+                "category": "Color",
+                "type": "Light",
+                "item": "Base",
+                "subitem": "Alerts",
+                "state": "Green"
+              },
+              "path": [
+                "Color",
+                "Light",
+                "Base",
+                "Alerts",
+                "Green",
+                "500"
+              ]
+            },
+            "600": {
+              "value": "#09a579",
+              "type": "color",
+              "filePath": "src/Global-Colours.json",
+              "isSource": true,
+              "original": {
+                "value": "#09a579",
+                "type": "color"
+              },
+              "name": "mch_color_light_base_alerts_green_600",
+              "attributes": {
+                "category": "Color",
+                "type": "Light",
+                "item": "Base",
+                "subitem": "Alerts",
+                "state": "Green"
+              },
+              "path": [
+                "Color",
+                "Light",
+                "Base",
+                "Alerts",
+                "Green",
+                "600"
+              ]
+            },
+            "700": {
+              "value": "#00845f",
+              "type": "color",
+              "filePath": "src/Global-Colours.json",
+              "isSource": true,
+              "original": {
+                "value": "#00845f",
+                "type": "color"
+              },
+              "name": "mch_color_light_base_alerts_green_700",
+              "attributes": {
+                "category": "Color",
+                "type": "Light",
+                "item": "Base",
+                "subitem": "Alerts",
+                "state": "Green"
+              },
+              "path": [
+                "Color",
+                "Light",
+                "Base",
+                "Alerts",
+                "Green",
+                "700"
+              ]
+            },
+            "800": {
+              "value": "#007051",
+              "type": "color",
+              "filePath": "src/Global-Colours.json",
+              "isSource": true,
+              "original": {
+                "value": "#007051",
+                "type": "color"
+              },
+              "name": "mch_color_light_base_alerts_green_800",
+              "attributes": {
+                "category": "Color",
+                "type": "Light",
+                "item": "Base",
+                "subitem": "Alerts",
+                "state": "Green"
+              },
+              "path": [
+                "Color",
+                "Light",
+                "Base",
+                "Alerts",
+                "Green",
+                "800"
+              ]
+            },
+            "900": {
+              "value": "#005c42",
+              "type": "color",
+              "filePath": "src/Global-Colours.json",
+              "isSource": true,
+              "original": {
+                "value": "#005c42",
+                "type": "color"
+              },
+              "name": "mch_color_light_base_alerts_green_900",
+              "attributes": {
+                "category": "Color",
+                "type": "Light",
+                "item": "Base",
+                "subitem": "Alerts",
+                "state": "Green"
+              },
+              "path": [
+                "Color",
+                "Light",
+                "Base",
+                "Alerts",
+                "Green",
+                "900"
+              ]
+            }
+          },
+          "blue": {
+            "100": {
+              "value": "#eef7ff",
+              "type": "color",
+              "filePath": "src/Global-Colours.json",
+              "isSource": true,
+              "original": {
+                "value": "#eef7ff",
+                "type": "color"
+              },
+              "name": "mch_color_light_base_alerts_blue_100",
+              "attributes": {
+                "category": "Color",
+                "type": "Light",
+                "item": "Base",
+                "subitem": "Alerts",
+                "state": "Blue"
+              },
+              "path": [
+                "Color",
+                "Light",
+                "Base",
+                "Alerts",
+                "Blue",
+                "100"
+              ]
+            },
+            "200": {
+              "value": "#d8ecff",
+              "type": "color",
+              "filePath": "src/Global-Colours.json",
+              "isSource": true,
+              "original": {
+                "value": "#d8ecff",
+                "type": "color"
+              },
+              "name": "mch_color_light_base_alerts_blue_200",
+              "attributes": {
+                "category": "Color",
+                "type": "Light",
+                "item": "Base",
+                "subitem": "Alerts",
+                "state": "Blue"
+              },
+              "path": [
+                "Color",
+                "Light",
+                "Base",
+                "Alerts",
+                "Blue",
+                "200"
+              ]
+            },
+            "300": {
+              "value": "#b4dbff",
+              "type": "color",
+              "filePath": "src/Global-Colours.json",
+              "isSource": true,
+              "original": {
+                "value": "#b4dbff",
+                "type": "color"
+              },
+              "name": "mch_color_light_base_alerts_blue_300",
+              "attributes": {
+                "category": "Color",
+                "type": "Light",
+                "item": "Base",
+                "subitem": "Alerts",
+                "state": "Blue"
+              },
+              "path": [
+                "Color",
+                "Light",
+                "Base",
+                "Alerts",
+                "Blue",
+                "300"
+              ]
+            },
+            "400": {
+              "value": "#7ec1ff",
+              "type": "color",
+              "filePath": "src/Global-Colours.json",
+              "isSource": true,
+              "original": {
+                "value": "#7ec1ff",
+                "type": "color"
+              },
+              "name": "mch_color_light_base_alerts_blue_400",
+              "attributes": {
+                "category": "Color",
+                "type": "Light",
+                "item": "Base",
+                "subitem": "Alerts",
+                "state": "Blue"
+              },
+              "path": [
+                "Color",
+                "Light",
+                "Base",
+                "Alerts",
+                "Blue",
+                "400"
+              ]
+            },
+            "500": {
+              "value": "#369eff",
+              "type": "color",
+              "filePath": "src/Global-Colours.json",
+              "isSource": true,
+              "original": {
+                "value": "#369eff",
+                "type": "color"
+              },
+              "name": "mch_color_light_base_alerts_blue_500",
+              "attributes": {
+                "category": "Color",
+                "type": "Light",
+                "item": "Base",
+                "subitem": "Alerts",
+                "state": "Blue"
+              },
+              "path": [
+                "Color",
+                "Light",
+                "Base",
+                "Alerts",
+                "Blue",
+                "500"
+              ]
+            },
+            "600": {
+              "value": "#007df0",
+              "type": "color",
+              "filePath": "src/Global-Colours.json",
+              "isSource": true,
+              "original": {
+                "value": "#007df0",
+                "type": "color"
+              },
+              "name": "mch_color_light_base_alerts_blue_600",
+              "attributes": {
+                "category": "Color",
+                "type": "Light",
+                "item": "Base",
+                "subitem": "Alerts",
+                "state": "Blue"
+              },
+              "path": [
+                "Color",
+                "Light",
+                "Base",
+                "Alerts",
+                "Blue",
+                "600"
+              ]
+            },
+            "700": {
+              "value": "#006fd6",
+              "type": "color",
+              "filePath": "src/Global-Colours.json",
+              "isSource": true,
+              "original": {
+                "value": "#006fd6",
+                "type": "color"
+              },
+              "name": "mch_color_light_base_alerts_blue_700",
+              "attributes": {
+                "category": "Color",
+                "type": "Light",
+                "item": "Base",
+                "subitem": "Alerts",
+                "state": "Blue"
+              },
+              "path": [
+                "Color",
+                "Light",
+                "Base",
+                "Alerts",
+                "Blue",
+                "700"
+              ]
+            },
+            "800": {
+              "value": "#0065c2",
+              "type": "color",
+              "filePath": "src/Global-Colours.json",
+              "isSource": true,
+              "original": {
+                "value": "#0065c2",
+                "type": "color"
+              },
+              "name": "mch_color_light_base_alerts_blue_800",
+              "attributes": {
+                "category": "Color",
+                "type": "Light",
+                "item": "Base",
+                "subitem": "Alerts",
+                "state": "Blue"
+              },
+              "path": [
+                "Color",
+                "Light",
+                "Base",
+                "Alerts",
+                "Blue",
+                "800"
+              ]
+            },
+            "900": {
+              "value": "#0058a8",
+              "type": "color",
+              "filePath": "src/Global-Colours.json",
+              "isSource": true,
+              "original": {
+                "value": "#0058a8",
+                "type": "color"
+              },
+              "name": "mch_color_light_base_alerts_blue_900",
+              "attributes": {
+                "category": "Color",
+                "type": "Light",
+                "item": "Base",
+                "subitem": "Alerts",
+                "state": "Blue"
+              },
+              "path": [
+                "Color",
+                "Light",
+                "Base",
+                "Alerts",
+                "Blue",
+                "900"
+              ]
+            }
+          }
+        }
+      },
+      "brands": {
+        "basel": {
+          "value": "#00a0cf",
+          "type": "color",
+          "filePath": "src/Global-Colours.json",
+          "isSource": true,
+          "original": {
+            "value": "#00a0cf",
+            "type": "color"
+          },
+          "name": "mch_color_light_brands_basel",
+          "attributes": {
+            "category": "Color",
+            "type": "Light",
+            "item": "Brands",
+            "subitem": "Basel"
+          },
+          "path": [
+            "Color",
+            "Light",
+            "Brands",
+            "Basel"
+          ]
+        },
+        "miami": {
+          "value": "#00c18b",
+          "type": "color",
+          "filePath": "src/Global-Colours.json",
+          "isSource": true,
+          "original": {
+            "value": "#00c18b",
+            "type": "color"
+          },
+          "name": "mch_color_light_brands_miami",
+          "attributes": {
+            "category": "Color",
+            "type": "Light",
+            "item": "Brands",
+            "subitem": "Miami"
+          },
+          "path": [
+            "Color",
+            "Light",
+            "Brands",
+            "Miami"
+          ]
+        },
+        "hongKong": {
+          "value": "#e0004d",
+          "type": "color",
+          "filePath": "src/Global-Colours.json",
+          "isSource": true,
+          "original": {
+            "value": "#e0004d",
+            "type": "color"
+          },
+          "name": "mch_color_light_brands_hong_kong",
+          "attributes": {
+            "category": "Color",
+            "type": "Light",
+            "item": "Brands",
+            "subitem": "Hong Kong"
+          },
+          "path": [
+            "Color",
+            "Light",
+            "Brands",
+            "Hong Kong"
+          ]
+        },
+        "cities": {
+          "value": "#fa4616",
+          "type": "color",
+          "filePath": "src/Global-Colours.json",
+          "isSource": true,
+          "original": {
+            "value": "#fa4616",
+            "type": "color"
+          },
+          "name": "mch_color_light_brands_cities",
+          "attributes": {
+            "category": "Color",
+            "type": "Light",
+            "item": "Brands",
+            "subitem": "Cities"
+          },
+          "path": [
+            "Color",
+            "Light",
+            "Brands",
+            "Cities"
+          ]
+        },
+        "paris": {
+          "value": "#1e1e1e",
+          "type": "color",
+          "filePath": "src/Global-Colours.json",
+          "isSource": true,
+          "original": {
+            "value": "#1e1e1e",
+            "type": "color"
+          },
+          "name": "mch_color_light_brands_paris",
+          "attributes": {
+            "category": "Color",
+            "type": "Light",
+            "item": "Brands",
+            "subitem": "Paris"
+          },
+          "path": [
+            "Color",
+            "Light",
+            "Brands",
+            "Paris"
+          ]
+        }
+      },
+      "sectors": {
+        "film": {
+          "value": "#f7dce9",
+          "type": "color",
+          "filePath": "src/Global-Colours.json",
+          "isSource": true,
+          "original": {
+            "value": "#f7dce9",
+            "type": "color"
+          },
+          "name": "mch_color_light_sectors_film",
+          "attributes": {
+            "category": "Color",
+            "type": "Light",
+            "item": "Sectors",
+            "subitem": "Film"
+          },
+          "path": [
+            "Color",
+            "Light",
+            "Sectors",
+            "Film"
+          ]
+        },
+        "parcourPublic": {
+          "value": "#cddff2",
+          "type": "color",
+          "filePath": "src/Global-Colours.json",
+          "isSource": true,
+          "original": {
+            "value": "#cddff2",
+            "type": "color"
+          },
+          "name": "mch_color_light_sectors_parcour_public",
+          "attributes": {
+            "category": "Color",
+            "type": "Light",
+            "item": "Sectors",
+            "subitem": "Parcour, Public"
+          },
+          "path": [
+            "Color",
+            "Light",
+            "Sectors",
+            "Parcour, Public"
+          ]
+        },
+        "unlimitedEncountersMeridians": {
+          "value": "#dff0cb",
+          "type": "color",
+          "filePath": "src/Global-Colours.json",
+          "isSource": true,
+          "original": {
+            "value": "#dff0cb",
+            "type": "color"
+          },
+          "name": "mch_color_light_sectors_unlimited_encounters_meridians",
+          "attributes": {
+            "category": "Color",
+            "type": "Light",
+            "item": "Sectors",
+            "subitem": "Unlimited, Encounters, Meridians"
+          },
+          "path": [
+            "Color",
+            "Light",
+            "Sectors",
+            "Unlimited, Encounters, Meridians"
+          ]
+        },
+        "discoveriesStatementsPositions": {
+          "value": "#D2D3EC",
+          "type": "color",
+          "filePath": "src/Global-Colours.json",
+          "isSource": true,
+          "original": {
+            "value": "#D2D3EC",
+            "type": "color"
+          },
+          "name": "mch_color_light_sectors_discoveries_statements_positions",
+          "attributes": {
+            "category": "Color",
+            "type": "Light",
+            "item": "Sectors",
+            "subitem": "Discoveries, Statements, Positions"
+          },
+          "path": [
+            "Color",
+            "Light",
+            "Sectors",
+            "Discoveries, Statements, Positions"
+          ]
+        },
+        "galleries": {
+          "value": "#CDCDCD",
+          "type": "color",
+          "filePath": "src/Global-Colours.json",
+          "isSource": true,
+          "original": {
+            "value": "#CDCDCD",
+            "type": "color"
+          },
+          "name": "mch_color_light_sectors_galleries",
+          "attributes": {
+            "category": "Color",
+            "type": "Light",
+            "item": "Sectors",
+            "subitem": "Galleries"
+          },
+          "path": [
+            "Color",
+            "Light",
+            "Sectors",
+            "Galleries"
+          ]
+        },
+        "featureNova": {
+          "value": "#d8eeeb",
+          "type": "color",
+          "filePath": "src/Global-Colours.json",
+          "isSource": true,
+          "original": {
+            "value": "#d8eeeb",
+            "type": "color"
+          },
+          "name": "mch_color_light_sectors_feature_nova",
+          "attributes": {
+            "category": "Color",
+            "type": "Light",
+            "item": "Sectors",
+            "subitem": "Feature, Nova"
+          },
+          "path": [
+            "Color",
+            "Light",
+            "Sectors",
+            "Feature, Nova"
+          ]
+        },
+        "edition": {
+          "value": "#fff7bf",
+          "type": "color",
+          "filePath": "src/Global-Colours.json",
+          "isSource": true,
+          "original": {
+            "value": "#fff7bf",
+            "type": "color"
+          },
+          "name": "mch_color_light_sectors_edition",
+          "attributes": {
+            "category": "Color",
+            "type": "Light",
+            "item": "Sectors",
+            "subitem": "Edition"
+          },
+          "path": [
+            "Color",
+            "Light",
+            "Sectors",
+            "Edition"
+          ]
+        },
+        "kabinett": {
+          "value": "#fcdfaa",
+          "type": "color",
+          "filePath": "src/Global-Colours.json",
+          "isSource": true,
+          "original": {
+            "value": "#fcdfaa",
+            "type": "color"
+          },
+          "name": "mch_color_light_sectors_kabinett",
+          "attributes": {
+            "category": "Color",
+            "type": "Light",
+            "item": "Sectors",
+            "subitem": "Kabinett"
+          },
+          "path": [
+            "Color",
+            "Light",
+            "Sectors",
+            "Kabinett"
+          ]
+        },
+        "insightsSurvey": {
+          "value": "#fcd5d7",
+          "type": "color",
+          "filePath": "src/Global-Colours.json",
+          "isSource": true,
+          "original": {
+            "value": "#fcd5d7",
+            "type": "color"
+          },
+          "name": "mch_color_light_sectors_insights_survey",
+          "attributes": {
+            "category": "Color",
+            "type": "Light",
+            "item": "Sectors",
+            "subitem": "Insights, Survey"
+          },
+          "path": [
+            "Color",
+            "Light",
+            "Sectors",
+            "Insights, Survey"
+          ]
+        },
+        "dialogues": {
+          "value": "#dcdcdc",
+          "type": "color",
+          "filePath": "src/Global-Colours.json",
+          "isSource": true,
+          "original": {
+            "value": "#dcdcdc",
+            "type": "color"
+          },
+          "name": "mch_color_light_sectors_dialogues",
+          "attributes": {
+            "category": "Color",
+            "type": "Light",
+            "item": "Sectors",
+            "subitem": "Dialogues"
+          },
+          "path": [
+            "Color",
+            "Light",
+            "Sectors",
+            "Dialogues"
+          ]
+        }
+      }
+    },
+    "dark": {
+      "base": {
+        "neutrals": {
+          "0": {
+            "value": "#121212",
+            "type": "color",
+            "filePath": "src/Global-Colours.json",
+            "isSource": true,
+            "original": {
+              "value": "#121212",
+              "type": "color"
+            },
+            "name": "mch_color_dark_base_neutrals_0",
+            "attributes": {
+              "category": "Color",
+              "type": "Dark",
+              "item": "Base",
+              "subitem": "Neutrals",
+              "state": "0"
+            },
+            "path": [
+              "Color",
+              "Dark",
+              "Base",
+              "Neutrals",
+              "0"
+            ]
+          },
+          "100": {
+            "value": "#191919",
+            "type": "color",
+            "filePath": "src/Global-Colours.json",
+            "isSource": true,
+            "original": {
+              "value": "#191919",
+              "type": "color"
+            },
+            "name": "mch_color_dark_base_neutrals_100",
+            "attributes": {
+              "category": "Color",
+              "type": "Dark",
+              "item": "Base",
+              "subitem": "Neutrals",
+              "state": "100"
+            },
+            "path": [
+              "Color",
+              "Dark",
+              "Base",
+              "Neutrals",
+              "100"
+            ]
+          },
+          "200": {
+            "value": "#212121",
+            "type": "color",
+            "filePath": "src/Global-Colours.json",
+            "isSource": true,
+            "original": {
+              "value": "#212121",
+              "type": "color"
+            },
+            "name": "mch_color_dark_base_neutrals_200",
+            "attributes": {
+              "category": "Color",
+              "type": "Dark",
+              "item": "Base",
+              "subitem": "Neutrals",
+              "state": "200"
+            },
+            "path": [
+              "Color",
+              "Dark",
+              "Base",
+              "Neutrals",
+              "200"
+            ]
+          },
+          "300": {
+            "value": "#292929",
+            "type": "color",
+            "filePath": "src/Global-Colours.json",
+            "isSource": true,
+            "original": {
+              "value": "#292929",
+              "type": "color"
+            },
+            "name": "mch_color_dark_base_neutrals_300",
+            "attributes": {
+              "category": "Color",
+              "type": "Dark",
+              "item": "Base",
+              "subitem": "Neutrals",
+              "state": "300"
+            },
+            "path": [
+              "Color",
+              "Dark",
+              "Base",
+              "Neutrals",
+              "300"
+            ]
+          },
+          "400": {
+            "value": "#383838",
+            "type": "color",
+            "filePath": "src/Global-Colours.json",
+            "isSource": true,
+            "original": {
+              "value": "#383838",
+              "type": "color"
+            },
+            "name": "mch_color_dark_base_neutrals_400",
+            "attributes": {
+              "category": "Color",
+              "type": "Dark",
+              "item": "Base",
+              "subitem": "Neutrals",
+              "state": "400"
+            },
+            "path": [
+              "Color",
+              "Dark",
+              "Base",
+              "Neutrals",
+              "400"
+            ]
+          },
+          "500": {
+            "value": "#525252",
+            "type": "color",
+            "filePath": "src/Global-Colours.json",
+            "isSource": true,
+            "original": {
+              "value": "#525252",
+              "type": "color"
+            },
+            "name": "mch_color_dark_base_neutrals_500",
+            "attributes": {
+              "category": "Color",
+              "type": "Dark",
+              "item": "Base",
+              "subitem": "Neutrals",
+              "state": "500"
+            },
+            "path": [
+              "Color",
+              "Dark",
+              "Base",
+              "Neutrals",
+              "500"
+            ]
+          },
+          "600": {
+            "value": "#787878",
+            "type": "color",
+            "filePath": "src/Global-Colours.json",
+            "isSource": true,
+            "original": {
+              "value": "#787878",
+              "type": "color"
+            },
+            "name": "mch_color_dark_base_neutrals_600",
+            "attributes": {
+              "category": "Color",
+              "type": "Dark",
+              "item": "Base",
+              "subitem": "Neutrals",
+              "state": "600"
+            },
+            "path": [
+              "Color",
+              "Dark",
+              "Base",
+              "Neutrals",
+              "600"
+            ]
+          },
+          "700": {
+            "value": "#a8a8a8",
+            "type": "color",
+            "filePath": "src/Global-Colours.json",
+            "isSource": true,
+            "original": {
+              "value": "#a8a8a8",
+              "type": "color"
+            },
+            "name": "mch_color_dark_base_neutrals_700",
+            "attributes": {
+              "category": "Color",
+              "type": "Dark",
+              "item": "Base",
+              "subitem": "Neutrals",
+              "state": "700"
+            },
+            "path": [
+              "Color",
+              "Dark",
+              "Base",
+              "Neutrals",
+              "700"
+            ]
+          },
+          "800": {
+            "value": "#d1d1d1",
+            "type": "color",
+            "filePath": "src/Global-Colours.json",
+            "isSource": true,
+            "original": {
+              "value": "#d1d1d1",
+              "type": "color"
+            },
+            "name": "mch_color_dark_base_neutrals_800",
+            "attributes": {
+              "category": "Color",
+              "type": "Dark",
+              "item": "Base",
+              "subitem": "Neutrals",
+              "state": "800"
+            },
+            "path": [
+              "Color",
+              "Dark",
+              "Base",
+              "Neutrals",
+              "800"
+            ]
+          },
+          "900": {
+            "value": "#ededed",
+            "type": "color",
+            "filePath": "src/Global-Colours.json",
+            "isSource": true,
+            "original": {
+              "value": "#ededed",
+              "type": "color"
+            },
+            "name": "mch_color_dark_base_neutrals_900",
+            "attributes": {
+              "category": "Color",
+              "type": "Dark",
+              "item": "Base",
+              "subitem": "Neutrals",
+              "state": "900"
+            },
+            "path": [
+              "Color",
+              "Dark",
+              "Base",
+              "Neutrals",
+              "900"
+            ]
+          },
+          "1000": {
+            "value": "#ffffff",
+            "type": "color",
+            "filePath": "src/Global-Colours.json",
+            "isSource": true,
+            "original": {
+              "value": "#ffffff",
+              "type": "color"
+            },
+            "name": "mch_color_dark_base_neutrals_1000",
+            "attributes": {
+              "category": "Color",
+              "type": "Dark",
+              "item": "Base",
+              "subitem": "Neutrals",
+              "state": "1000"
+            },
+            "path": [
+              "Color",
+              "Dark",
+              "Base",
+              "Neutrals",
+              "1000"
+            ]
+          }
+        },
+        "alerts": {
+          "gold": {
+            "100": {
+              "value": "#2d2b1f",
+              "type": "color",
+              "filePath": "src/Global-Colours.json",
+              "isSource": true,
+              "original": {
+                "value": "#2d2b1f",
+                "type": "color"
+              },
+              "name": "mch_color_dark_base_alerts_gold_100",
+              "attributes": {
+                "category": "Color",
+                "type": "Dark",
+                "item": "Base",
+                "subitem": "Alerts",
+                "state": "Gold"
+              },
+              "path": [
+                "Color",
+                "Dark",
+                "Base",
+                "Alerts",
+                "Gold",
+                "100"
+              ]
+            },
+            "200": {
+              "value": "#443614",
+              "type": "color",
+              "filePath": "src/Global-Colours.json",
+              "isSource": true,
+              "original": {
+                "value": "#443614",
+                "type": "color"
+              },
+              "name": "mch_color_dark_base_alerts_gold_200",
+              "attributes": {
+                "category": "Color",
+                "type": "Dark",
+                "item": "Base",
+                "subitem": "Alerts",
+                "state": "Gold"
+              },
+              "path": [
+                "Color",
+                "Dark",
+                "Base",
+                "Alerts",
+                "Gold",
+                "200"
+              ]
+            },
+            "300": {
+              "value": "#5b4208",
+              "type": "color",
+              "filePath": "src/Global-Colours.json",
+              "isSource": true,
+              "original": {
+                "value": "#5b4208",
+                "type": "color"
+              },
+              "name": "mch_color_dark_base_alerts_gold_300",
+              "attributes": {
+                "category": "Color",
+                "type": "Dark",
+                "item": "Base",
+                "subitem": "Alerts",
+                "state": "Gold"
+              },
+              "path": [
+                "Color",
+                "Dark",
+                "Base",
+                "Alerts",
+                "Gold",
+                "300"
+              ]
+            },
+            "400": {
+              "value": "#7a5504",
+              "type": "color",
+              "filePath": "src/Global-Colours.json",
+              "isSource": true,
+              "original": {
+                "value": "#7a5504",
+                "type": "color"
+              },
+              "name": "mch_color_dark_base_alerts_gold_400",
+              "attributes": {
+                "category": "Color",
+                "type": "Dark",
+                "item": "Base",
+                "subitem": "Alerts",
+                "state": "Gold"
+              },
+              "path": [
+                "Color",
+                "Dark",
+                "Base",
+                "Alerts",
+                "Gold",
+                "400"
+              ]
+            },
+            "500": {
+              "value": "#9f6d00",
+              "type": "color",
+              "filePath": "src/Global-Colours.json",
+              "isSource": true,
+              "original": {
+                "value": "#9f6d00",
+                "type": "color"
+              },
+              "name": "mch_color_dark_base_alerts_gold_500",
+              "attributes": {
+                "category": "Color",
+                "type": "Dark",
+                "item": "Base",
+                "subitem": "Alerts",
+                "state": "Gold"
+              },
+              "path": [
+                "Color",
+                "Dark",
+                "Base",
+                "Alerts",
+                "Gold",
+                "500"
+              ]
+            },
+            "600": {
+              "value": "#c78b0a",
+              "type": "color",
+              "filePath": "src/Global-Colours.json",
+              "isSource": true,
+              "original": {
+                "value": "#c78b0a",
+                "type": "color"
+              },
+              "name": "mch_color_dark_base_alerts_gold_600",
+              "attributes": {
+                "category": "Color",
+                "type": "Dark",
+                "item": "Base",
+                "subitem": "Alerts",
+                "state": "Gold"
+              },
+              "path": [
+                "Color",
+                "Dark",
+                "Base",
+                "Alerts",
+                "Gold",
+                "600"
+              ]
+            },
+            "700": {
+              "value": "#d99a12",
+              "type": "color",
+              "filePath": "src/Global-Colours.json",
+              "isSource": true,
+              "original": {
+                "value": "#d99a12",
+                "type": "color"
+              },
+              "name": "mch_color_dark_base_alerts_gold_700",
+              "attributes": {
+                "category": "Color",
+                "type": "Dark",
+                "item": "Base",
+                "subitem": "Alerts",
+                "state": "Gold"
+              },
+              "path": [
+                "Color",
+                "Dark",
+                "Base",
+                "Alerts",
+                "Gold",
+                "700"
+              ]
+            },
+            "800": {
+              "value": "#e7a413",
+              "type": "color",
+              "filePath": "src/Global-Colours.json",
+              "isSource": true,
+              "original": {
+                "value": "#e7a413",
+                "type": "color"
+              },
+              "name": "mch_color_dark_base_alerts_gold_800",
+              "attributes": {
+                "category": "Color",
+                "type": "Dark",
+                "item": "Base",
+                "subitem": "Alerts",
+                "state": "Gold"
+              },
+              "path": [
+                "Color",
+                "Dark",
+                "Base",
+                "Alerts",
+                "Gold",
+                "800"
+              ]
+            },
+            "900": {
+              "value": "#eaad2a",
+              "type": "color",
+              "filePath": "src/Global-Colours.json",
+              "isSource": true,
+              "original": {
+                "value": "#eaad2a",
+                "type": "color"
+              },
+              "name": "mch_color_dark_base_alerts_gold_900",
+              "attributes": {
+                "category": "Color",
+                "type": "Dark",
+                "item": "Base",
+                "subitem": "Alerts",
+                "state": "Gold"
+              },
+              "path": [
+                "Color",
+                "Dark",
+                "Base",
+                "Alerts",
+                "Gold",
+                "900"
+              ]
+            }
+          },
+          "red": {
+            "100": {
+              "value": "#3c1a26",
+              "type": "color",
+              "filePath": "src/Global-Colours.json",
+              "isSource": true,
+              "original": {
+                "value": "#3c1a26",
+                "type": "color"
+              },
+              "name": "mch_color_dark_base_alerts_red_100",
+              "attributes": {
+                "category": "Color",
+                "type": "Dark",
+                "item": "Base",
+                "subitem": "Alerts",
+                "state": "Red"
+              },
+              "path": [
+                "Color",
+                "Dark",
+                "Base",
+                "Alerts",
+                "Red",
+                "100"
+              ]
+            },
+            "200": {
+              "value": "#5b1125",
+              "type": "color",
+              "filePath": "src/Global-Colours.json",
+              "isSource": true,
+              "original": {
+                "value": "#5b1125",
+                "type": "color"
+              },
+              "name": "mch_color_dark_base_alerts_red_200",
+              "attributes": {
+                "category": "Color",
+                "type": "Dark",
+                "item": "Base",
+                "subitem": "Alerts",
+                "state": "Red"
+              },
+              "path": [
+                "Color",
+                "Dark",
+                "Base",
+                "Alerts",
+                "Red",
+                "200"
+              ]
+            },
+            "300": {
+              "value": "#800724",
+              "type": "color",
+              "filePath": "src/Global-Colours.json",
+              "isSource": true,
+              "original": {
+                "value": "#800724",
+                "type": "color"
+              },
+              "name": "mch_color_dark_base_alerts_red_300",
+              "attributes": {
+                "category": "Color",
+                "type": "Dark",
+                "item": "Base",
+                "subitem": "Alerts",
+                "state": "Red"
+              },
+              "path": [
+                "Color",
+                "Dark",
+                "Base",
+                "Alerts",
+                "Red",
+                "300"
+              ]
+            },
+            "400": {
+              "value": "#a30429",
+              "type": "color",
+              "filePath": "src/Global-Colours.json",
+              "isSource": true,
+              "original": {
+                "value": "#a30429",
+                "type": "color"
+              },
+              "name": "mch_color_dark_base_alerts_red_400",
+              "attributes": {
+                "category": "Color",
+                "type": "Dark",
+                "item": "Base",
+                "subitem": "Alerts",
+                "state": "Red"
+              },
+              "path": [
+                "Color",
+                "Dark",
+                "Base",
+                "Alerts",
+                "Red",
+                "400"
+              ]
+            },
+            "500": {
+              "value": "#ca002e",
+              "type": "color",
+              "filePath": "src/Global-Colours.json",
+              "isSource": true,
+              "original": {
+                "value": "#ca002e",
+                "type": "color"
+              },
+              "name": "mch_color_dark_base_alerts_red_500",
+              "attributes": {
+                "category": "Color",
+                "type": "Dark",
+                "item": "Base",
+                "subitem": "Alerts",
+                "state": "Red"
+              },
+              "path": [
+                "Color",
+                "Dark",
+                "Base",
+                "Alerts",
+                "Red",
+                "500"
+              ]
+            },
+            "600": {
+              "value": "#f20d42",
+              "type": "color",
+              "filePath": "src/Global-Colours.json",
+              "isSource": true,
+              "original": {
+                "value": "#f20d42",
+                "type": "color"
+              },
+              "name": "mch_color_dark_base_alerts_red_600",
+              "attributes": {
+                "category": "Color",
+                "type": "Dark",
+                "item": "Base",
+                "subitem": "Alerts",
+                "state": "Red"
+              },
+              "path": [
+                "Color",
+                "Dark",
+                "Base",
+                "Alerts",
+                "Red",
+                "600"
+              ]
+            },
+            "700": {
+              "value": "#ff385c",
+              "type": "color",
+              "filePath": "src/Global-Colours.json",
+              "isSource": true,
+              "original": {
+                "value": "#ff385c",
+                "type": "color"
+              },
+              "name": "mch_color_dark_base_alerts_red_700",
+              "attributes": {
+                "category": "Color",
+                "type": "Dark",
+                "item": "Base",
+                "subitem": "Alerts",
+                "state": "Red"
+              },
+              "path": [
+                "Color",
+                "Dark",
+                "Base",
+                "Alerts",
+                "Red",
+                "700"
+              ]
+            },
+            "800": {
+              "value": "#ff4766",
+              "type": "color",
+              "filePath": "src/Global-Colours.json",
+              "isSource": true,
+              "original": {
+                "value": "#ff4766",
+                "type": "color"
+              },
+              "name": "mch_color_dark_base_alerts_red_800",
+              "attributes": {
+                "category": "Color",
+                "type": "Dark",
+                "item": "Base",
+                "subitem": "Alerts",
+                "state": "Red"
+              },
+              "path": [
+                "Color",
+                "Dark",
+                "Base",
+                "Alerts",
+                "Red",
+                "800"
+              ]
+            },
+            "900": {
+              "value": "#ff5a80",
+              "type": "color",
+              "filePath": "src/Global-Colours.json",
+              "isSource": true,
+              "original": {
+                "value": "#ff5a80",
+                "type": "color"
+              },
+              "name": "mch_color_dark_base_alerts_red_900",
+              "attributes": {
+                "category": "Color",
+                "type": "Dark",
+                "item": "Base",
+                "subitem": "Alerts",
+                "state": "Red"
+              },
+              "path": [
+                "Color",
+                "Dark",
+                "Base",
+                "Alerts",
+                "Red",
+                "900"
+              ]
+            }
+          },
+          "green": {
+            "100": {
+              "value": "#172e2c",
+              "type": "color",
+              "filePath": "src/Global-Colours.json",
+              "isSource": true,
+              "original": {
+                "value": "#172e2c",
+                "type": "color"
+              },
+              "name": "mch_color_dark_base_alerts_green_100",
+              "attributes": {
+                "category": "Color",
+                "type": "Dark",
+                "item": "Base",
+                "subitem": "Alerts",
+                "state": "Green"
+              },
+              "path": [
+                "Color",
+                "Dark",
+                "Base",
+                "Alerts",
+                "Green",
+                "100"
+              ]
+            },
+            "200": {
+              "value": "#0e3f35",
+              "type": "color",
+              "filePath": "src/Global-Colours.json",
+              "isSource": true,
+              "original": {
+                "value": "#0e3f35",
+                "type": "color"
+              },
+              "name": "mch_color_dark_base_alerts_green_200",
+              "attributes": {
+                "category": "Color",
+                "type": "Dark",
+                "item": "Base",
+                "subitem": "Alerts",
+                "state": "Green"
+              },
+              "path": [
+                "Color",
+                "Dark",
+                "Base",
+                "Alerts",
+                "Green",
+                "200"
+              ]
+            },
+            "300": {
+              "value": "#06503d",
+              "type": "color",
+              "filePath": "src/Global-Colours.json",
+              "isSource": true,
+              "original": {
+                "value": "#06503d",
+                "type": "color"
+              },
+              "name": "mch_color_dark_base_alerts_green_300",
+              "attributes": {
+                "category": "Color",
+                "type": "Dark",
+                "item": "Base",
+                "subitem": "Alerts",
+                "state": "Green"
+              },
+              "path": [
+                "Color",
+                "Dark",
+                "Base",
+                "Alerts",
+                "Green",
+                "300"
+              ]
+            },
+            "400": {
+              "value": "#03684d",
+              "type": "color",
+              "filePath": "src/Global-Colours.json",
+              "isSource": true,
+              "original": {
+                "value": "#03684d",
+                "type": "color"
+              },
+              "name": "mch_color_dark_base_alerts_green_400",
+              "attributes": {
+                "category": "Color",
+                "type": "Dark",
+                "item": "Base",
+                "subitem": "Alerts",
+                "state": "Green"
+              },
+              "path": [
+                "Color",
+                "Dark",
+                "Base",
+                "Alerts",
+                "Green",
+                "400"
+              ]
+            },
+            "500": {
+              "value": "#00845f",
+              "type": "color",
+              "filePath": "src/Global-Colours.json",
+              "isSource": true,
+              "original": {
+                "value": "#00845f",
+                "type": "color"
+              },
+              "name": "mch_color_dark_base_alerts_green_500",
+              "attributes": {
+                "category": "Color",
+                "type": "Dark",
+                "item": "Base",
+                "subitem": "Alerts",
+                "state": "Green"
+              },
+              "path": [
+                "Color",
+                "Dark",
+                "Base",
+                "Alerts",
+                "Green",
+                "500"
+              ]
+            },
+            "600": {
+              "value": "#09a579",
+              "type": "color",
+              "filePath": "src/Global-Colours.json",
+              "isSource": true,
+              "original": {
+                "value": "#09a579",
+                "type": "color"
+              },
+              "name": "mch_color_dark_base_alerts_green_600",
+              "attributes": {
+                "category": "Color",
+                "type": "Dark",
+                "item": "Base",
+                "subitem": "Alerts",
+                "state": "Green"
+              },
+              "path": [
+                "Color",
+                "Dark",
+                "Base",
+                "Alerts",
+                "Green",
+                "600"
+              ]
+            },
+            "700": {
+              "value": "#0fb385",
+              "type": "color",
+              "filePath": "src/Global-Colours.json",
+              "isSource": true,
+              "original": {
+                "value": "#0fb385",
+                "type": "color"
+              },
+              "name": "mch_color_dark_base_alerts_green_700",
+              "attributes": {
+                "category": "Color",
+                "type": "Dark",
+                "item": "Base",
+                "subitem": "Alerts",
+                "state": "Green"
+              },
+              "path": [
+                "Color",
+                "Dark",
+                "Base",
+                "Alerts",
+                "Green",
+                "700"
+              ]
+            },
+            "800": {
+              "value": "#10c190",
+              "type": "color",
+              "filePath": "src/Global-Colours.json",
+              "isSource": true,
+              "original": {
+                "value": "#10c190",
+                "type": "color"
+              },
+              "name": "mch_color_dark_base_alerts_green_800",
+              "attributes": {
+                "category": "Color",
+                "type": "Dark",
+                "item": "Base",
+                "subitem": "Alerts",
+                "state": "Green"
+              },
+              "path": [
+                "Color",
+                "Dark",
+                "Base",
+                "Alerts",
+                "Green",
+                "800"
+              ]
+            },
+            "900": {
+              "value": "#10cb96",
+              "type": "color",
+              "filePath": "src/Global-Colours.json",
+              "isSource": true,
+              "original": {
+                "value": "#10cb96",
+                "type": "color"
+              },
+              "name": "mch_color_dark_base_alerts_green_900",
+              "attributes": {
+                "category": "Color",
+                "type": "Dark",
+                "item": "Base",
+                "subitem": "Alerts",
+                "state": "Green"
+              },
+              "path": [
+                "Color",
+                "Dark",
+                "Base",
+                "Alerts",
+                "Green",
+                "900"
+              ]
+            }
+          },
+          "blue": {
+            "100": {
+              "value": "#172d41",
+              "type": "color",
+              "filePath": "src/Global-Colours.json",
+              "isSource": true,
+              "original": {
+                "value": "#172d41",
+                "type": "color"
+              },
+              "name": "mch_color_dark_base_alerts_blue_100",
+              "attributes": {
+                "category": "Color",
+                "type": "Dark",
+                "item": "Base",
+                "subitem": "Alerts",
+                "state": "Blue"
+              },
+              "path": [
+                "Color",
+                "Dark",
+                "Base",
+                "Alerts",
+                "Blue",
+                "100"
+              ]
+            },
+            "200": {
+              "value": "#0e3d68",
+              "type": "color",
+              "filePath": "src/Global-Colours.json",
+              "isSource": true,
+              "original": {
+                "value": "#0e3d68",
+                "type": "color"
+              },
+              "name": "mch_color_dark_base_alerts_blue_200",
+              "attributes": {
+                "category": "Color",
+                "type": "Dark",
+                "item": "Base",
+                "subitem": "Alerts",
+                "state": "Blue"
+              },
+              "path": [
+                "Color",
+                "Dark",
+                "Base",
+                "Alerts",
+                "Blue",
+                "200"
+              ]
+            },
+            "300": {
+              "value": "#064d8e",
+              "type": "color",
+              "filePath": "src/Global-Colours.json",
+              "isSource": true,
+              "original": {
+                "value": "#064d8e",
+                "type": "color"
+              },
+              "name": "mch_color_dark_base_alerts_blue_300",
+              "attributes": {
+                "category": "Color",
+                "type": "Dark",
+                "item": "Base",
+                "subitem": "Alerts",
+                "state": "Blue"
+              },
+              "path": [
+                "Color",
+                "Dark",
+                "Base",
+                "Alerts",
+                "Blue",
+                "300"
+              ]
+            },
+            "400": {
+              "value": "#035eb2",
+              "type": "color",
+              "filePath": "src/Global-Colours.json",
+              "isSource": true,
+              "original": {
+                "value": "#035eb2",
+                "type": "color"
+              },
+              "name": "mch_color_dark_base_alerts_blue_400",
+              "attributes": {
+                "category": "Color",
+                "type": "Dark",
+                "item": "Base",
+                "subitem": "Alerts",
+                "state": "Blue"
+              },
+              "path": [
+                "Color",
+                "Dark",
+                "Base",
+                "Alerts",
+                "Blue",
+                "400"
+              ]
+            },
+            "500": {
+              "value": "#006fd6",
+              "type": "color",
+              "filePath": "src/Global-Colours.json",
+              "isSource": true,
+              "original": {
+                "value": "#006fd6",
+                "type": "color"
+              },
+              "name": "mch_color_dark_base_alerts_blue_500",
+              "attributes": {
+                "category": "Color",
+                "type": "Dark",
+                "item": "Base",
+                "subitem": "Alerts",
+                "state": "Blue"
+              },
+              "path": [
+                "Color",
+                "Dark",
+                "Base",
+                "Alerts",
+                "Blue",
+                "500"
+              ]
+            },
+            "600": {
+              "value": "#007df0",
+              "type": "color",
+              "filePath": "src/Global-Colours.json",
+              "isSource": true,
+              "original": {
+                "value": "#007df0",
+                "type": "color"
+              },
+              "name": "mch_color_dark_base_alerts_blue_600",
+              "attributes": {
+                "category": "Color",
+                "type": "Dark",
+                "item": "Base",
+                "subitem": "Alerts",
+                "state": "Blue"
+              },
+              "path": [
+                "Color",
+                "Dark",
+                "Base",
+                "Alerts",
+                "Blue",
+                "600"
+              ]
+            },
+            "700": {
+              "value": "#148eff",
+              "type": "color",
+              "filePath": "src/Global-Colours.json",
+              "isSource": true,
+              "original": {
+                "value": "#148eff",
+                "type": "color"
+              },
+              "name": "mch_color_dark_base_alerts_blue_700",
+              "attributes": {
+                "category": "Color",
+                "type": "Dark",
+                "item": "Base",
+                "subitem": "Alerts",
+                "state": "Blue"
+              },
+              "path": [
+                "Color",
+                "Dark",
+                "Base",
+                "Alerts",
+                "Blue",
+                "700"
+              ]
+            },
+            "800": {
+              "value": "#2998ff",
+              "type": "color",
+              "filePath": "src/Global-Colours.json",
+              "isSource": true,
+              "original": {
+                "value": "#2998ff",
+                "type": "color"
+              },
+              "name": "mch_color_dark_base_alerts_blue_800",
+              "attributes": {
+                "category": "Color",
+                "type": "Dark",
+                "item": "Base",
+                "subitem": "Alerts",
+                "state": "Blue"
+              },
+              "path": [
+                "Color",
+                "Dark",
+                "Base",
+                "Alerts",
+                "Blue",
+                "800"
+              ]
+            },
+            "900": {
+              "value": "#3da2ff",
+              "type": "color",
+              "filePath": "src/Global-Colours.json",
+              "isSource": true,
+              "original": {
+                "value": "#3da2ff",
+                "type": "color"
+              },
+              "name": "mch_color_dark_base_alerts_blue_900",
+              "attributes": {
+                "category": "Color",
+                "type": "Dark",
+                "item": "Base",
+                "subitem": "Alerts",
+                "state": "Blue"
+              },
+              "path": [
+                "Color",
+                "Dark",
+                "Base",
+                "Alerts",
+                "Blue",
+                "900"
+              ]
+            }
+          }
+        }
+      },
+      "sectors": {
+        "film": {
+          "value": "#f7dce9",
+          "type": "color",
+          "filePath": "src/Global-Colours.json",
+          "isSource": true,
+          "original": {
+            "value": "#f7dce9",
+            "type": "color"
+          },
+          "name": "mch_color_dark_sectors_film",
+          "attributes": {
+            "category": "Color",
+            "type": "Dark",
+            "item": "Sectors",
+            "subitem": "Film"
+          },
+          "path": [
+            "Color",
+            "Dark",
+            "Sectors",
+            "Film"
+          ]
+        },
+        "parcourPublic": {
+          "value": "#cddff2",
+          "type": "color",
+          "filePath": "src/Global-Colours.json",
+          "isSource": true,
+          "original": {
+            "value": "#cddff2",
+            "type": "color"
+          },
+          "name": "mch_color_dark_sectors_parcour_public",
+          "attributes": {
+            "category": "Color",
+            "type": "Dark",
+            "item": "Sectors",
+            "subitem": "Parcour, Public"
+          },
+          "path": [
+            "Color",
+            "Dark",
+            "Sectors",
+            "Parcour, Public"
+          ]
+        },
+        "unlimitedEncountersMeridians": {
+          "value": "#dff0cb",
+          "type": "color",
+          "filePath": "src/Global-Colours.json",
+          "isSource": true,
+          "original": {
+            "value": "#dff0cb",
+            "type": "color"
+          },
+          "name": "mch_color_dark_sectors_unlimited_encounters_meridians",
+          "attributes": {
+            "category": "Color",
+            "type": "Dark",
+            "item": "Sectors",
+            "subitem": "Unlimited, Encounters, Meridians"
+          },
+          "path": [
+            "Color",
+            "Dark",
+            "Sectors",
+            "Unlimited, Encounters, Meridians"
+          ]
+        },
+        "discoveriesStatementsPositions": {
+          "value": "#D2D3EC",
+          "type": "color",
+          "filePath": "src/Global-Colours.json",
+          "isSource": true,
+          "original": {
+            "value": "#D2D3EC",
+            "type": "color"
+          },
+          "name": "mch_color_dark_sectors_discoveries_statements_positions",
+          "attributes": {
+            "category": "Color",
+            "type": "Dark",
+            "item": "Sectors",
+            "subitem": "Discoveries, Statements, Positions"
+          },
+          "path": [
+            "Color",
+            "Dark",
+            "Sectors",
+            "Discoveries, Statements, Positions"
+          ]
+        },
+        "galleries": {
+          "value": "#CDCDCD",
+          "type": "color",
+          "filePath": "src/Global-Colours.json",
+          "isSource": true,
+          "original": {
+            "value": "#CDCDCD",
+            "type": "color"
+          },
+          "name": "mch_color_dark_sectors_galleries",
+          "attributes": {
+            "category": "Color",
+            "type": "Dark",
+            "item": "Sectors",
+            "subitem": "Galleries"
+          },
+          "path": [
+            "Color",
+            "Dark",
+            "Sectors",
+            "Galleries"
+          ]
+        },
+        "featureNova": {
+          "value": "#d8eeeb",
+          "type": "color",
+          "filePath": "src/Global-Colours.json",
+          "isSource": true,
+          "original": {
+            "value": "#d8eeeb",
+            "type": "color"
+          },
+          "name": "mch_color_dark_sectors_feature_nova",
+          "attributes": {
+            "category": "Color",
+            "type": "Dark",
+            "item": "Sectors",
+            "subitem": "Feature, Nova"
+          },
+          "path": [
+            "Color",
+            "Dark",
+            "Sectors",
+            "Feature, Nova"
+          ]
+        },
+        "edition": {
+          "value": "#fff7bf",
+          "type": "color",
+          "filePath": "src/Global-Colours.json",
+          "isSource": true,
+          "original": {
+            "value": "#fff7bf",
+            "type": "color"
+          },
+          "name": "mch_color_dark_sectors_edition",
+          "attributes": {
+            "category": "Color",
+            "type": "Dark",
+            "item": "Sectors",
+            "subitem": "Edition"
+          },
+          "path": [
+            "Color",
+            "Dark",
+            "Sectors",
+            "Edition"
+          ]
+        },
+        "kabinett": {
+          "value": "#fcdfaa",
+          "type": "color",
+          "filePath": "src/Global-Colours.json",
+          "isSource": true,
+          "original": {
+            "value": "#fcdfaa",
+            "type": "color"
+          },
+          "name": "mch_color_dark_sectors_kabinett",
+          "attributes": {
+            "category": "Color",
+            "type": "Dark",
+            "item": "Sectors",
+            "subitem": "Kabinett"
+          },
+          "path": [
+            "Color",
+            "Dark",
+            "Sectors",
+            "Kabinett"
+          ]
+        },
+        "insightsSurvey": {
+          "value": "#fcd5d7",
+          "type": "color",
+          "filePath": "src/Global-Colours.json",
+          "isSource": true,
+          "original": {
+            "value": "#fcd5d7",
+            "type": "color"
+          },
+          "name": "mch_color_dark_sectors_insights_survey",
+          "attributes": {
+            "category": "Color",
+            "type": "Dark",
+            "item": "Sectors",
+            "subitem": "Insights, Survey"
+          },
+          "path": [
+            "Color",
+            "Dark",
+            "Sectors",
+            "Insights, Survey"
+          ]
+        },
+        "dialogues": {
+          "value": "#dcdcdc",
+          "type": "color",
+          "filePath": "src/Global-Colours.json",
+          "isSource": true,
+          "original": {
+            "value": "#dcdcdc",
+            "type": "color"
+          },
+          "name": "mch_color_dark_sectors_dialogues",
+          "attributes": {
+            "category": "Color",
+            "type": "Dark",
+            "item": "Sectors",
+            "subitem": "Dialogues"
+          },
+          "path": [
+            "Color",
+            "Dark",
+            "Sectors",
+            "Dialogues"
+          ]
+        }
+      },
+      "brands": {
+        "basel": {
+          "value": "#00a0cf",
+          "type": "color",
+          "filePath": "src/Global-Colours.json",
+          "isSource": true,
+          "original": {
+            "value": "#00a0cf",
+            "type": "color"
+          },
+          "name": "mch_color_dark_brands_basel",
+          "attributes": {
+            "category": "Color",
+            "type": "Dark",
+            "item": "Brands",
+            "subitem": "Basel"
+          },
+          "path": [
+            "Color",
+            "Dark",
+            "Brands",
+            "Basel"
+          ]
+        },
+        "miami": {
+          "value": "#00c18b",
+          "type": "color",
+          "filePath": "src/Global-Colours.json",
+          "isSource": true,
+          "original": {
+            "value": "#00c18b",
+            "type": "color"
+          },
+          "name": "mch_color_dark_brands_miami",
+          "attributes": {
+            "category": "Color",
+            "type": "Dark",
+            "item": "Brands",
+            "subitem": "Miami"
+          },
+          "path": [
+            "Color",
+            "Dark",
+            "Brands",
+            "Miami"
+          ]
+        },
+        "hongKong": {
+          "value": "#e0004d",
+          "type": "color",
+          "filePath": "src/Global-Colours.json",
+          "isSource": true,
+          "original": {
+            "value": "#e0004d",
+            "type": "color"
+          },
+          "name": "mch_color_dark_brands_hong_kong",
+          "attributes": {
+            "category": "Color",
+            "type": "Dark",
+            "item": "Brands",
+            "subitem": "Hong Kong"
+          },
+          "path": [
+            "Color",
+            "Dark",
+            "Brands",
+            "Hong Kong"
+          ]
+        },
+        "cities": {
+          "value": "#fa4616",
+          "type": "color",
+          "filePath": "src/Global-Colours.json",
+          "isSource": true,
+          "original": {
+            "value": "#fa4616",
+            "type": "color"
+          },
+          "name": "mch_color_dark_brands_cities",
+          "attributes": {
+            "category": "Color",
+            "type": "Dark",
+            "item": "Brands",
+            "subitem": "Cities"
+          },
+          "path": [
+            "Color",
+            "Dark",
+            "Brands",
+            "Cities"
+          ]
+        },
+        "paris": {
+          "value": "#1e1e1e",
+          "type": "color",
+          "filePath": "src/Global-Colours.json",
+          "isSource": true,
+          "original": {
+            "value": "#1e1e1e",
+            "type": "color"
+          },
+          "name": "mch_color_dark_brands_paris",
+          "attributes": {
+            "category": "Color",
+            "type": "Dark",
+            "item": "Brands",
+            "subitem": "Paris"
+          },
+          "path": [
+            "Color",
+            "Dark",
+            "Brands",
+            "Paris"
+          ]
         }
       }
     }

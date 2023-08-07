@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Mon, 07 Aug 2023 17:17:45 GMT
+ * Generated on Mon, 07 Aug 2023 17:22:21 GMT
  */
 
 export default tokens;
@@ -75,6 +75,170 @@ declare const tokens: {
           "error": DesignToken,
           "success": DesignToken
         }
+      }
+    },
+    "light": {
+      "base": {
+        "neutrals": {
+          "0": DesignToken,
+          "100": DesignToken,
+          "200": DesignToken,
+          "300": DesignToken,
+          "400": DesignToken,
+          "500": DesignToken,
+          "600": DesignToken,
+          "700": DesignToken,
+          "800": DesignToken,
+          "900": DesignToken,
+          "1000": DesignToken
+        },
+        "alerts": {
+          "gold": {
+            "100": DesignToken,
+            "200": DesignToken,
+            "300": DesignToken,
+            "400": DesignToken,
+            "500": DesignToken,
+            "600": DesignToken,
+            "700": DesignToken,
+            "800": DesignToken,
+            "900": DesignToken
+          },
+          "red": {
+            "100": DesignToken,
+            "200": DesignToken,
+            "300": DesignToken,
+            "400": DesignToken,
+            "500": DesignToken,
+            "600": DesignToken,
+            "700": DesignToken,
+            "800": DesignToken,
+            "900": DesignToken
+          },
+          "green": {
+            "100": DesignToken,
+            "200": DesignToken,
+            "300": DesignToken,
+            "400": DesignToken,
+            "500": DesignToken,
+            "600": DesignToken,
+            "700": DesignToken,
+            "800": DesignToken,
+            "900": DesignToken
+          },
+          "blue": {
+            "100": DesignToken,
+            "200": DesignToken,
+            "300": DesignToken,
+            "400": DesignToken,
+            "500": DesignToken,
+            "600": DesignToken,
+            "700": DesignToken,
+            "800": DesignToken,
+            "900": DesignToken
+          }
+        }
+      },
+      "brands": {
+        "basel": DesignToken,
+        "miami": DesignToken,
+        "hongKong": DesignToken,
+        "cities": DesignToken,
+        "paris": DesignToken
+      },
+      "sectors": {
+        "film": DesignToken,
+        "parcourPublic": DesignToken,
+        "unlimitedEncountersMeridians": DesignToken,
+        "discoveriesStatementsPositions": DesignToken,
+        "galleries": DesignToken,
+        "featureNova": DesignToken,
+        "edition": DesignToken,
+        "kabinett": DesignToken,
+        "insightsSurvey": DesignToken,
+        "dialogues": DesignToken
+      }
+    },
+    "dark": {
+      "base": {
+        "neutrals": {
+          "0": DesignToken,
+          "100": DesignToken,
+          "200": DesignToken,
+          "300": DesignToken,
+          "400": DesignToken,
+          "500": DesignToken,
+          "600": DesignToken,
+          "700": DesignToken,
+          "800": DesignToken,
+          "900": DesignToken,
+          "1000": DesignToken
+        },
+        "alerts": {
+          "gold": {
+            "100": DesignToken,
+            "200": DesignToken,
+            "300": DesignToken,
+            "400": DesignToken,
+            "500": DesignToken,
+            "600": DesignToken,
+            "700": DesignToken,
+            "800": DesignToken,
+            "900": DesignToken
+          },
+          "red": {
+            "100": DesignToken,
+            "200": DesignToken,
+            "300": DesignToken,
+            "400": DesignToken,
+            "500": DesignToken,
+            "600": DesignToken,
+            "700": DesignToken,
+            "800": DesignToken,
+            "900": DesignToken
+          },
+          "green": {
+            "100": DesignToken,
+            "200": DesignToken,
+            "300": DesignToken,
+            "400": DesignToken,
+            "500": DesignToken,
+            "600": DesignToken,
+            "700": DesignToken,
+            "800": DesignToken,
+            "900": DesignToken
+          },
+          "blue": {
+            "100": DesignToken,
+            "200": DesignToken,
+            "300": DesignToken,
+            "400": DesignToken,
+            "500": DesignToken,
+            "600": DesignToken,
+            "700": DesignToken,
+            "800": DesignToken,
+            "900": DesignToken
+          }
+        }
+      },
+      "sectors": {
+        "film": DesignToken,
+        "parcourPublic": DesignToken,
+        "unlimitedEncountersMeridians": DesignToken,
+        "discoveriesStatementsPositions": DesignToken,
+        "galleries": DesignToken,
+        "featureNova": DesignToken,
+        "edition": DesignToken,
+        "kabinett": DesignToken,
+        "insightsSurvey": DesignToken,
+        "dialogues": DesignToken
+      },
+      "brands": {
+        "basel": DesignToken,
+        "miami": DesignToken,
+        "hongKong": DesignToken,
+        "cities": DesignToken,
+        "paris": DesignToken
       }
     }
   },
