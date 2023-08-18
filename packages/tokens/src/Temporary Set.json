@@ -1,70 +1,129 @@
 {
-  "App": {
-    "Elevations": {
-      "01": {
-        "value": [
-          {
-            "color": "#1d23271a",
-            "type": "dropShadow",
-            "x": "0",
-            "y": "1",
-            "blur": "4",
-            "spread": "0"
-          },
-          {
-            "color": "#1d23271a",
-            "type": "dropShadow",
-            "x": "0",
-            "y": "0",
-            "blur": "4",
-            "spread": "0"
-          }
-        ],
-        "type": "boxShadow"
-      },
-      "02": {
-        "value": [
-          {
-            "color": "#1d23271a",
-            "type": "dropShadow",
-            "x": "0",
-            "y": "4",
-            "blur": "8",
-            "spread": "0"
-          },
-          {
-            "color": "#1d23271a",
-            "type": "dropShadow",
-            "x": "0",
-            "y": "2",
-            "blur": "4",
-            "spread": "0"
-          }
-        ],
-        "type": "boxShadow"
-      },
-      "03": {
-        "value": [
-          {
-            "color": "#1d23271a",
-            "type": "dropShadow",
-            "x": "0",
-            "y": "8",
-            "blur": "16",
-            "spread": "0"
-          },
-          {
-            "color": "#1d23271a",
-            "type": "dropShadow",
-            "x": "0",
-            "y": "4",
-            "blur": "8",
-            "spread": "0"
-          }
-        ],
-        "type": "boxShadow"
-      }
+  "fontFamilies": {
+    "art-basel-headline": {
+      "value": "Art Basel Headline",
+      "type": "fontFamilies"
     },
+    "art-basel-text": {
+      "value": "Art Basel Text",
+      "type": "fontFamilies"
+    }
+  },
+  "lineHeights": {
+    "0": {
+      "value": "41",
+      "type": "lineHeights"
+    },
+    "1": {
+      "value": "34",
+      "type": "lineHeights"
+    },
+    "2": {
+      "value": "28",
+      "type": "lineHeights"
+    },
+    "3": {
+      "value": "25",
+      "type": "lineHeights"
+    },
+    "4": {
+      "value": "22",
+      "type": "lineHeights"
+    },
+    "5": {
+      "value": "20",
+      "type": "lineHeights"
+    },
+    "6": {
+      "value": "18",
+      "type": "lineHeights"
+    },
+    "7": {
+      "value": "21",
+      "type": "lineHeights"
+    },
+    "8": {
+      "value": "16",
+      "type": "lineHeights"
+    },
+    "9": {
+      "value": "13",
+      "type": "lineHeights"
+    }
+  },
+  "fontWeights": {
+    "art-basel-headline-0": {
+      "value": "Bold",
+      "type": "fontWeights"
+    },
+    "art-basel-text-1": {
+      "value": "Bold",
+      "type": "fontWeights"
+    },
+    "art-basel-text-2": {
+      "value": "Regular",
+      "type": "fontWeights"
+    }
+  },
+  "fontSize": {
+    "0": {
+      "value": "11",
+      "type": "fontSizes"
+    },
+    "1": {
+      "value": "12",
+      "type": "fontSizes"
+    },
+    "2": {
+      "value": "13",
+      "type": "fontSizes"
+    },
+    "3": {
+      "value": "14",
+      "type": "fontSizes"
+    },
+    "4": {
+      "value": "15",
+      "type": "fontSizes"
+    },
+    "5": {
+      "value": "16",
+      "type": "fontSizes"
+    },
+    "6": {
+      "value": "17",
+      "type": "fontSizes"
+    },
+    "7": {
+      "value": "20",
+      "type": "fontSizes"
+    },
+    "8": {
+      "value": "22",
+      "type": "fontSizes"
+    },
+    "9": {
+      "value": "28",
+      "type": "fontSizes"
+    },
+    "10": {
+      "value": "34",
+      "type": "fontSizes"
+    }
+  },
+  "letterSpacing": {
+    "0": {
+      "value": "0",
+      "type": "letterSpacing"
+    }
+  },
+  "paragraphSpacing": {
+    "0": {
+      "value": "0",
+      "type": "paragraphSpacing"
+    }
+  },
+  "App": {
     "Headings": {
       "Large Title": {
         "value": {
@@ -203,7 +262,7 @@
           "value": {
             "fontFamily": "{fontFamilies.art-basel-text}",
             "fontWeight": "{fontWeights.art-basel-text-2}",
-            "lineHeight": "{lineHeights.7}",
+            "lineHeight": "{lineHeights.6}",
             "fontSize": "{fontSize.3}",
             "letterSpacing": "{letterSpacing.0}",
             "paragraphSpacing": "{paragraphSpacing.0}",
@@ -217,7 +276,7 @@
           "value": {
             "fontFamily": "{fontFamilies.art-basel-text}",
             "fontWeight": "{fontWeights.art-basel-text-1}",
-            "lineHeight": "{lineHeights.7}",
+            "lineHeight": "{lineHeights.6}",
             "fontSize": "{fontSize.3}",
             "letterSpacing": "{letterSpacing.0}",
             "paragraphSpacing": "{paragraphSpacing.0}",
@@ -231,7 +290,7 @@
           "value": {
             "fontFamily": "{fontFamilies.art-basel-text}",
             "fontWeight": "{fontWeights.art-basel-text-1}",
-            "lineHeight": "{lineHeights.7}",
+            "lineHeight": "{lineHeights.6}",
             "fontSize": "{fontSize.3}",
             "letterSpacing": "{letterSpacing.0}",
             "paragraphSpacing": "{paragraphSpacing.0}",
@@ -248,7 +307,7 @@
         "value": {
           "fontFamily": "{fontFamilies.art-basel-text}",
           "fontWeight": "{fontWeights.art-basel-text-2}",
-          "lineHeight": "{lineHeights.6}",
+          "lineHeight": "{lineHeights.7}",
           "fontSize": "{fontSize.5}",
           "letterSpacing": "{letterSpacing.0}",
           "paragraphSpacing": "{paragraphSpacing.0}",
@@ -262,7 +321,7 @@
         "value": {
           "fontFamily": "{fontFamilies.art-basel-text}",
           "fontWeight": "{fontWeights.art-basel-text-1}",
-          "lineHeight": "{lineHeights.6}",
+          "lineHeight": "{lineHeights.7}",
           "fontSize": "{fontSize.5}",
           "letterSpacing": "{letterSpacing.0}",
           "paragraphSpacing": "{paragraphSpacing.0}",
@@ -278,7 +337,7 @@
         "value": {
           "fontFamily": "{fontFamilies.art-basel-text}",
           "fontWeight": "{fontWeights.art-basel-text-2}",
-          "lineHeight": "{lineHeights.7}",
+          "lineHeight": "{lineHeights.6}",
           "fontSize": "{fontSize.2}",
           "letterSpacing": "{letterSpacing.0}",
           "paragraphSpacing": "{paragraphSpacing.0}",
@@ -292,7 +351,7 @@
         "value": {
           "fontFamily": "{fontFamilies.art-basel-text}",
           "fontWeight": "{fontWeights.art-basel-text-1}",
-          "lineHeight": "{lineHeights.7}",
+          "lineHeight": "{lineHeights.6}",
           "fontSize": "{fontSize.2}",
           "letterSpacing": "{letterSpacing.0}",
           "paragraphSpacing": "{paragraphSpacing.0}",
@@ -366,145 +425,13 @@
       }
     }
   },
-  "fontFamilies": {
-    "art-basel-headline": {
-      "value": "Art Basel Headline",
-      "type": "fontFamilies"
-    },
-    "art-basel-text": {
-      "value": "Art Basel Text",
-      "type": "fontFamilies"
-    }
-  },
-  "lineHeights": {
-    "0": {
-      "value": "41",
-      "type": "lineHeights"
-    },
-    "1": {
-      "value": "34",
-      "type": "lineHeights"
-    },
-    "2": {
-      "value": "28",
-      "type": "lineHeights"
-    },
-    "3": {
-      "value": "25",
-      "type": "lineHeights"
-    },
-    "4": {
-      "value": "22",
-      "type": "lineHeights"
-    },
-    "5": {
-      "value": "20",
-      "type": "lineHeights"
-    },
-    "6": {
-      "value": "21",
-      "type": "lineHeights"
-    },
-    "7": {
-      "value": "18",
-      "type": "lineHeights"
-    },
-    "8": {
-      "value": "16",
-      "type": "lineHeights"
-    },
-    "9": {
-      "value": "13",
-      "type": "lineHeights"
-    }
-  },
-  "fontWeights": {
-    "art-basel-headline-0": {
-      "value": "Bold",
-      "type": "fontWeights"
-    },
-    "art-basel-text-1": {
-      "value": "Bold",
-      "type": "fontWeights"
-    },
-    "art-basel-text-2": {
-      "value": "Regular",
-      "type": "fontWeights"
-    }
-  },
-  "fontSize": {
-    "0": {
-      "value": "11",
-      "type": "fontSizes"
-    },
-    "1": {
-      "value": "12",
-      "type": "fontSizes"
-    },
-    "2": {
-      "value": "13",
-      "type": "fontSizes"
-    },
-    "3": {
-      "value": "14",
-      "type": "fontSizes"
-    },
-    "4": {
-      "value": "15",
-      "type": "fontSizes"
-    },
-    "5": {
-      "value": "16",
-      "type": "fontSizes"
-    },
-    "6": {
-      "value": "17",
-      "type": "fontSizes"
-    },
-    "7": {
-      "value": "20",
-      "type": "fontSizes"
-    },
-    "8": {
-      "value": "22",
-      "type": "fontSizes"
-    },
-    "9": {
-      "value": "28",
-      "type": "fontSizes"
-    },
-    "10": {
-      "value": "34",
-      "type": "fontSizes"
-    }
-  },
-  "letterSpacing": {
-    "0": {
-      "value": "0",
-      "type": "letterSpacing"
-    }
-  },
-  "paragraphSpacing": {
-    "0": {
-      "value": "0",
-      "type": "paragraphSpacing"
-    }
-  },
   "textCase": {
     "none": {
       "value": "none",
       "type": "textCase"
     },
-    "capitalize": {
-      "value": "capitalize",
-      "type": "textCase"
-    },
     "uppercase": {
       "value": "uppercase",
-      "type": "textCase"
-    },
-    "lowercase": {
-      "value": "lowercase",
       "type": "textCase"
     }
   },
@@ -518,166 +445,6 @@
     "0": {
       "value": "0px",
       "type": "dimension"
-    }
-  },
-  "lineSpacing": {
-    "LargeTitle": {
-      "value": "7",
-      "type": "other"
-    },
-    "H1": {
-      "value": "6",
-      "type": "other"
-    },
-    "H2": {
-      "value": "6",
-      "type": "other"
-    },
-    "H3": {
-      "value": "5",
-      "type": "other"
-    },
-    "H4": {
-      "value": "5",
-      "type": "other"
-    },
-    "Subhead": {
-      "value": "5",
-      "type": "other"
-    },
-    "BodyBase": {
-      "value": "5",
-      "type": "other"
-    },
-    "Callout": {
-      "value": "5",
-      "type": "other"
-    },
-    "BodySmall": {
-      "value": "4",
-      "type": "other"
-    },
-    "Footnote": {
-      "value": "5",
-      "type": "other"
-    },
-    "CaptionBase": {
-      "value": "4",
-      "type": "other"
-    },
-    "CaptionSmall": {
-      "value": "2",
-      "type": "other"
-    }
-  },
-  "borderRadius": {
-    "0": {
-      "value": "0",
-      "type": "borderRadius"
-    },
-    "2": {
-      "value": "2",
-      "type": "borderRadius"
-    },
-    "4": {
-      "value": "4",
-      "type": "borderRadius"
-    },
-    "12": {
-      "value": "12",
-      "type": "borderRadius"
-    },
-    "24": {
-      "value": "24",
-      "type": "borderRadius"
-    },
-    "40": {
-      "value": "40",
-      "type": "borderRadius"
-    }
-  },
-  "spacing": {
-    "2": {
-      "value": "2",
-      "type": "spacing"
-    },
-    "4": {
-      "value": "4",
-      "type": "spacing"
-    },
-    "8": {
-      "value": "8",
-      "type": "spacing"
-    },
-    "12": {
-      "value": "12",
-      "type": "spacing"
-    },
-    "16": {
-      "value": "16",
-      "type": "spacing"
-    },
-    "20": {
-      "value": "20",
-      "type": "spacing"
-    },
-    "24": {
-      "value": "24",
-      "type": "spacing"
-    },
-    "32": {
-      "value": "32",
-      "type": "spacing"
-    },
-    "40": {
-      "value": "40",
-      "type": "spacing"
-    },
-    "48": {
-      "value": "48",
-      "type": "spacing"
-    },
-    "56": {
-      "value": "56",
-      "type": "spacing"
-    },
-    "64": {
-      "value": "64",
-      "type": "spacing"
-    },
-    "72": {
-      "value": "72",
-      "type": "spacing"
-    },
-    "80": {
-      "value": "80",
-      "type": "spacing"
-    },
-    "96": {
-      "value": "96",
-      "type": "spacing"
-    },
-    "112": {
-      "value": "112",
-      "type": "spacing"
-    },
-    "120": {
-      "value": "120",
-      "type": "spacing"
-    }
-  },
-  "borderWidth": {
-    "0": {
-      "value": "0",
-      "type": "borderWidth"
-    },
-    "1": {
-      "value": "1",
-      "type": "borderWidth"
-    },
-    "2": {
-      "value": "2",
-      "type": "borderWidth"
     }
   }
 }

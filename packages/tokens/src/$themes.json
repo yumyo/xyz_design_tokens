@@ -6,7 +6,8 @@
     "selectedTokenSets": {
       "global": "source",
       "Light-Theme": "enabled",
-      "Global-Colours": "source"
+      "Global-Colours": "source",
+      "Temporary Set": "disabled"
     },
     "group": "mode",
     "$figmaCollectionId": "VariableCollectionId:20:852",
@@ -45,7 +46,8 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "App": "enabled",
-      "Global-Colours": "source"
+      "Global-Colours": "source",
+      "Temporary Set": "disabled"
     },
     "group": "mobile",
     "$figmaCollectionId": "VariableCollectionId:20:878",
@@ -87,7 +89,8 @@
     "selectedTokenSets": {
       "global": "source",
       "Dark-Theme": "enabled",
-      "Global-Colours": "source"
+      "Global-Colours": "source",
+      "Temporary Set": "disabled"
     },
     "$figmaCollectionId": "VariableCollectionId:20:852",
     "$figmaModeId": "20:30",
