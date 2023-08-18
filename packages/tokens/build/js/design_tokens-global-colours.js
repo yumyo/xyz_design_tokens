@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Fri, 18 Aug 2023 10:02:09 GMT
+ * Generated on Fri, 18 Aug 2023 10:06:28 GMT
  */
 
 export const mch_color_light_base_neutrals_0 = "#ffffff";
