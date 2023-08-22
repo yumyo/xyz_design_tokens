@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Tue, 22 Aug 2023 12:18:50 GMT
+// Generated on Tue, 22 Aug 2023 13:08:43 GMT
 
 
 import UIKit
@@ -204,18 +204,6 @@ public enum StyleDictionaryEnumApp {
     public static let mchLineHeights7 = 18
     public static let mchLineHeights8 = 16
     public static let mchLineHeights9 = 13
-    public static let mchLineSpacingBodyBase = 5
-    public static let mchLineSpacingBodySmall = 4
-    public static let mchLineSpacingCallout = 5
-    public static let mchLineSpacingCaptionBase = 4
-    public static let mchLineSpacingCaptionSmall = 2
-    public static let mchLineSpacingFootnote = 5
-    public static let mchLineSpacingH1 = 6
-    public static let mchLineSpacingH2 = 6
-    public static let mchLineSpacingH3 = 5
-    public static let mchLineSpacingH4 = 5
-    public static let mchLineSpacingLargeTitle = 7
-    public static let mchLineSpacingSubhead = 5
     public static let mchParagraphIndent0 = 0
     public static let mchParagraphSpacing0 = 0
     public static let mchSpacing112 = 112

@@ -309,103 +309,16 @@ async function run() {
       .filter(([, val]) => val !== 'disabled')
       .map(([tokenset]) => `src/${tokenset}.json`),
     platforms: {
-      js: {
-        // transformGroup: 'js',
-        transforms: ["attribute/cti","name/cti/snake","fontSize/pxToRem","color/hex", 'ts/type/fontWeight', "remove/pindent/px"],
-        buildPath: 'build/js/',
-        prefix: "mch_",
-        files: [
-          {
-            filter: function(prop) {     
-              return (prop.filePath !== 'src/global.json' && prop.filePath !== 'src/App.json' && prop.filePath !== 'src/Global-Colours.json');
-            },
-            format: 'javascript/es6',
-            destination: `${designTokensFileName}-${theme.name}.js`
-          },
-          {
-            filter: function(prop) {     
-              return (prop.filePath === 'src/Global-Colours.json');
-            },
-            format: 'javascript/es6',
-            destination: `${designTokensFileName}-global-colours.js`
-          },
-        ],
-      },
-      scss: {
-        // transformGroup: "scss",
-        transforms: ["attribute/cti","name/cti/snake","time/seconds","content/icon","font-family/quote/fix","fontSize/pxToRem","color/css",'ts/type/fontWeight',"convertUnit/letterspacing/%","remove/pindent/px"],
-        buildPath: "build/scss/",
-        prefix: "mch_",
-        files: [{
-          filter: function(prop) {
-            return (prop.filePath !== 'src/global.json' && prop.filePath !== 'src/App.json' && prop.filePath !== 'src/Global-Colours.json');
-          },
-          destination: `_${designTokensFileName}-${theme.name}.scss`,
-          format: "scss/variables"
-          },
-          {
-            filter: function(prop) {     
-              return (prop.filePath === 'src/Global-Colours.json');
-            },
-            format: 'javascript/es6',
-            destination: `_${designTokensFileName}-global-colours.scss`,
-            format: "scss/variables"
-          }
-        ]
-      },
-      css: {
-        transforms: [
-          'ts/descriptionToComment',
-          "size/rem",
-          'ts/opacity',
-          'ts/size/lineheight',
-          'ts/type/fontWeight',
-          'ts/resolveMath',
-          'ts/size/css/letterspacing',
-          "fontSize/pxToRem",
-          "convertUnit/letterspacing/%",
-          "remove/pindent/px",
-          'ts/border/css/shorthand',
-          'ts/shadow/css/shorthand',
-          'ts/color/css/hexrgba',
-          'ts/color/modifiers',
-          'name/cti/snake',
-          "font-family/quote/fix",
-        ],
-        buildPath: "build/css/",
-        prefix: "mch_",
-        files: [
-          {
-            filter: function(prop) {
-              return (prop.filePath !== 'src/global.json' && prop.filePath !== 'src/App.json' && prop.filePath !== 'src/Global-Colours.json');
-            },
-            destination: `${designTokensFileName}-${theme.name}.css`,
-            format: 'css/variables',
-          },
-          {
-            filter: function(prop) {     
-              return (prop.filePath === 'src/Global-Colours.json');
-            },
-            destination: `${designTokensFileName}-global-colours.css`,
-            format: 'css/variables',
-          }
-        ],
-      },
       iosSwift: {
         transforms: ["attribute/cti","name/cti/camel","custom-color/ColorSwiftUI","content/swift/literal","asset/swift/literal","size/swift/remToCGFloat","font/swift/literal","font-family/quote/fix",'ts/type/fontWeight',"text-decoration/quote","remove/space/px","remove/letterspacing/%", 'shadow/quote',"remove/pindent/px", "integerToFloat"],
         buildPath: "../swift/Sources/artbaseldesigntokens/",
         prefix: "mch_",
         files: [{
-          filter: function(prop) {
-            return (prop.type !== 'fontFamilies' && prop.filePath !== 'src/global.json' && prop.filePath !== 'src/App.json' && prop.filePath !== 'src/Global-Colours.json') ;
-          },
-          destination: `${mobileDesignTokensFileName}+Enum${capitalizeFirstLetter(theme.name)}.swift`,
-          format: "ios-swift/enum.swift",
-          className: `StyleDictionaryEnum${capitalizeFirstLetter(theme.name)}`,
-          },
-          {
             filter: function(prop) {
-              return (prop.type !== 'fontFamilies' && prop.filePath !== 'src/global.json' && prop.filePath === 'src/App.json');
+              return (prop.type !== 'fontFamilies' && 
+                      prop.path[0] !== 'lineSpacing' && 
+                      prop.filePath !== 'src/global.json' && 
+                      prop.filePath === 'src/App.json');
             },
             destination: `${mobileDesignTokensFileName}+Enum${capitalizeFirstLetter(theme.name)}.swift`,
             format: "ios-swift/enum.swift",
@@ -437,14 +350,6 @@ async function run() {
             },
             resourceType: "dimen",
             destination: `${mobileDesignTokensFileName}${capitalizeFirstLetter(theme.name)}.xml`,
-            format: "android/resources",
-          },
-          {
-            filter: function(prop) {
-              return prop.type === 'color' && prop.filePath !== 'src/global.json' && prop.filePath !== 'src/App.json' && prop.filePath !== 'src/Global-Colours.json';
-            },
-            resourceType: "color",
-            destination: `${mobileDesignTokensFileName}Colors${capitalizeFirstLetter(theme.name)}.xml`,
             format: "android/resources",
           },
           {
