@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Fri, 18 Aug 2023 10:06:27 GMT
+// Generated on Tue, 22 Aug 2023 12:18:50 GMT
 
 
 import UIKit
@@ -98,42 +98,6 @@ public enum StyleDictionaryEnumApp {
     public static let mchAppCaptionsSmallRegularParagraphSpacing = 0
     public static let mchAppCaptionsSmallRegularTextCase = "none"
     public static let mchAppCaptionsSmallRegularTextDecoration = "none"
-    public static let mchAppElevations011Blur = 4
-    public static let mchAppElevations011Color = UIColor(red: 0.114, green: 0.137, blue: 0.153, alpha: 0.10196078431372549)
-    public static let mchAppElevations011Spread = 0
-    public static let mchAppElevations011Type = "dropShadow"
-    public static let mchAppElevations011X = 0
-    public static let mchAppElevations011Y = 1
-    public static let mchAppElevations012Blur = 4
-    public static let mchAppElevations012Color = UIColor(red: 0.114, green: 0.137, blue: 0.153, alpha: 0.10196078431372549)
-    public static let mchAppElevations012Spread = 0
-    public static let mchAppElevations012Type = "dropShadow"
-    public static let mchAppElevations012X = 0
-    public static let mchAppElevations012Y = 0
-    public static let mchAppElevations021Blur = 8
-    public static let mchAppElevations021Color = UIColor(red: 0.114, green: 0.137, blue: 0.153, alpha: 0.10196078431372549)
-    public static let mchAppElevations021Spread = 0
-    public static let mchAppElevations021Type = "dropShadow"
-    public static let mchAppElevations021X = 0
-    public static let mchAppElevations021Y = 4
-    public static let mchAppElevations022Blur = 4
-    public static let mchAppElevations022Color = UIColor(red: 0.114, green: 0.137, blue: 0.153, alpha: 0.10196078431372549)
-    public static let mchAppElevations022Spread = 0
-    public static let mchAppElevations022Type = "dropShadow"
-    public static let mchAppElevations022X = 0
-    public static let mchAppElevations022Y = 2
-    public static let mchAppElevations031Blur = 16
-    public static let mchAppElevations031Color = UIColor(red: 0.114, green: 0.137, blue: 0.153, alpha: 0.10196078431372549)
-    public static let mchAppElevations031Spread = 0
-    public static let mchAppElevations031Type = "dropShadow"
-    public static let mchAppElevations031X = 0
-    public static let mchAppElevations031Y = 8
-    public static let mchAppElevations032Blur = 8
-    public static let mchAppElevations032Color = UIColor(red: 0.114, green: 0.137, blue: 0.153, alpha: 0.10196078431372549)
-    public static let mchAppElevations032Spread = 0
-    public static let mchAppElevations032Type = "dropShadow"
-    public static let mchAppElevations032X = 0
-    public static let mchAppElevations032Y = 4
     public static let mchAppFootnotesBoldFontSize = 13
     public static let mchAppFootnotesBoldFontWeight = 700
     public static let mchAppFootnotesBoldLetterSpacing = 0
