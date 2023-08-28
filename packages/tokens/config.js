@@ -315,10 +315,14 @@ async function run() {
         prefix: "mch_",
         files: [{
             filter: function(prop) {
-              return (prop.type !== 'fontFamilies' && 
-                      prop.path[0] !== 'lineSpacing' && 
-                      prop.filePath !== 'src/global.json' && 
-                      prop.filePath === 'src/App.json');
+              return ((prop.type === 'fontSizes' || 
+                      prop.type === 'lineHeights' ||
+                      prop.type === 'fontWeights' ||
+                      prop.type === 'borderRadius' ||
+                      prop.type === 'borderWidth' ||
+                      prop.type === 'spacing') && 
+                      prop.filePath === 'src/App.json'
+                    );
             },
             destination: `${mobileDesignTokensFileName}+Enum${capitalizeFirstLetter(theme.name)}.swift`,
             format: "ios-swift/enum.swift",
@@ -341,12 +345,13 @@ async function run() {
         files: [
           {
             filter: function(prop) {
-              return (prop.type === 'fontSizes' && prop.filePath === 'src/App.json' || 
-                      prop.path[0] === 'lineSpacing' && prop.filePath === 'src/App.json' ||
-                      prop.type === 'borderRadius' && prop.filePath === 'src/App.json' ||
-                      prop.type === 'borderWidth' && prop.filePath === 'src/App.json' ||
-                      prop.type === 'spacing' && prop.filePath === 'src/App.json'
-                      );
+              return ((prop.type === 'fontSizes' || 
+                      prop.path[0] === 'lineSpacing' ||
+                      prop.type === 'borderRadius' ||
+                      prop.type === 'borderWidth' ||
+                      prop.type === 'spacing') &&
+                      prop.filePath === 'src/App.json'
+                    );
             },
             resourceType: "dimen",
             destination: `${mobileDesignTokensFileName}${capitalizeFirstLetter(theme.name)}.xml`,
