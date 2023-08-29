@@ -2,7 +2,7 @@
 
 <!--
   Do not edit directly
-  Generated on Mon, 28 Aug 2023 09:13:08 GMT
+  Generated on Tue, 29 Aug 2023 11:06:35 GMT
 -->
 <resources>
   <color name="mch_color_light_base_neutrals_0">#ffffffff</color>
@@ -128,6 +128,6 @@
   <color name="mch_color_dark_brands_miami">#ff00c18b</color>
   <color name="mch_color_dark_brands_hong_kong">#ffe0004d</color>
   <color name="mch_color_dark_brands_cities">#fffa4616</color>
-  <color name="mch_color_dark_brands_paris">#ff1e1e1e</color>
+  <color name="mch_color_dark_brands_paris">#ff6f2cc7</color>
   
 </resources>
