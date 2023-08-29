@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Tue, 29 Aug 2023 11:06:35 GMT
+ * Generated on Tue, 29 Aug 2023 11:08:29 GMT
  */
 
 module.exports = {
@@ -2131,12 +2131,12 @@ module.exports = {
           ]
         },
         "paris": {
-          "value": "#1e1e1e",
+          "value": "#6f2cc7",
           "type": "color",
           "filePath": "src/Global-Colours.json",
           "isSource": true,
           "original": {
-            "value": "#1e1e1e",
+            "value": "#6f2cc7",
             "type": "color"
           },
           "name": "mch_color_light_brands_paris",

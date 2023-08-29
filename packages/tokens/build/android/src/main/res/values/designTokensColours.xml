@@ -2,7 +2,7 @@
 
 <!--
   Do not edit directly
-  Generated on Tue, 29 Aug 2023 11:06:35 GMT
+  Generated on Tue, 29 Aug 2023 11:08:29 GMT
 -->
 <resources>
   <color name="mch_color_light_base_neutrals_0">#ffffffff</color>
@@ -56,7 +56,7 @@
   <color name="mch_color_light_brands_miami">#ff00c18b</color>
   <color name="mch_color_light_brands_hong_kong">#ffe0004d</color>
   <color name="mch_color_light_brands_cities">#fffa4616</color>
-  <color name="mch_color_light_brands_paris">#ff1e1e1e</color>
+  <color name="mch_color_light_brands_paris">#ff6f2cc7</color>
   <color name="mch_color_light_sectors_film">#fff7dce9</color>
   <color name="mch_color_light_sectors_parcour_public">#ffcddff2</color>
   <color name="mch_color_light_sectors_unlimited_encounters_meridians">#ffdff0cb</color>

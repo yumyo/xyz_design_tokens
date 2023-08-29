@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Tue, 29 Aug 2023 11:06:35 GMT
+ * Generated on Tue, 29 Aug 2023 11:08:29 GMT
  */
 
 export const mch_color_base_primary_black = "#1d2327";
@@ -88,7 +88,7 @@ export const mch_color_light_brands_basel = "#00a0cf";
 export const mch_color_light_brands_miami = "#00c18b";
 export const mch_color_light_brands_hong_kong = "#e0004d";
 export const mch_color_light_brands_cities = "#fa4616";
-export const mch_color_light_brands_paris = "#1e1e1e";
+export const mch_color_light_brands_paris = "#6f2cc7";
 export const mch_color_light_sectors_film = "#f7dce9";
 export const mch_color_light_sectors_parcour_public = "#cddff2";
 export const mch_color_light_sectors_unlimited_encounters_meridians = "#dff0cb";
