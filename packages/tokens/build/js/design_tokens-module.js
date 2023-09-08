@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Tue, 29 Aug 2023 11:08:29 GMT
+ * Generated on Fri, 08 Sep 2023 12:35:43 GMT
  */
 
 module.exports = {
@@ -3969,12 +3969,12 @@ module.exports = {
       "01": {
         "1": {
           "color": {
-            "value": "#1d23271a",
+            "value": "rgba(18, 18, 18, 0.1)",
             "type": "color",
             "filePath": "src/global.json",
             "isSource": true,
             "original": {
-              "value": "#1d23271a",
+              "value": "rgba(18, 18, 18, 0.1)",
               "type": "color"
             },
             "name": "mch_shadows_outer_shadow_01_1_color",
@@ -4121,12 +4121,12 @@ module.exports = {
         },
         "2": {
           "color": {
-            "value": "#1d23271a",
+            "value": "rgba(18, 18, 18, 0.1)",
             "type": "color",
             "filePath": "src/global.json",
             "isSource": true,
             "original": {
-              "value": "#1d23271a",
+              "value": "rgba(18, 18, 18, 0.1)",
               "type": "color"
             },
             "name": "mch_shadows_outer_shadow_01_2_color",
@@ -4275,12 +4275,12 @@ module.exports = {
       "02": {
         "1": {
           "color": {
-            "value": "#1d23271a",
+            "value": "rgba(18, 18, 18, 0.1)",
             "type": "color",
             "filePath": "src/global.json",
             "isSource": true,
             "original": {
-              "value": "#1d23271a",
+              "value": "rgba(18, 18, 18, 0.1)",
               "type": "color"
             },
             "name": "mch_shadows_outer_shadow_02_1_color",
@@ -4427,12 +4427,12 @@ module.exports = {
         },
         "2": {
           "color": {
-            "value": "#1d23271a",
+            "value": "rgba(18, 18, 18, 0.1)",
             "type": "color",
             "filePath": "src/global.json",
             "isSource": true,
             "original": {
-              "value": "#1d23271a",
+              "value": "rgba(18, 18, 18, 0.1)",
               "type": "color"
             },
             "name": "mch_shadows_outer_shadow_02_2_color",
@@ -4581,12 +4581,12 @@ module.exports = {
       "03": {
         "1": {
           "color": {
-            "value": "#1d23271a",
+            "value": "rgba(18, 18, 18, 0.1)",
             "type": "color",
             "filePath": "src/global.json",
             "isSource": true,
             "original": {
-              "value": "#1d23271a",
+              "value": "rgba(18, 18, 18, 0.1)",
               "type": "color"
             },
             "name": "mch_shadows_outer_shadow_03_1_color",
@@ -4733,12 +4733,12 @@ module.exports = {
         },
         "2": {
           "color": {
-            "value": "#1d23271a",
+            "value": "rgba(18, 18, 18, 0.1)",
             "type": "color",
             "filePath": "src/global.json",
             "isSource": true,
             "original": {
-              "value": "#1d23271a",
+              "value": "rgba(18, 18, 18, 0.1)",
               "type": "color"
             },
             "name": "mch_shadows_outer_shadow_03_2_color",

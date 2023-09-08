@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Tue, 29 Aug 2023 11:08:29 GMT
+ * Generated on Fri, 08 Sep 2023 12:35:43 GMT
  */
 
 export const mch_color_base_primary_black = "#1d2327";
@@ -161,37 +161,37 @@ export const mch_color_dark_brands_miami = "#00c18b";
 export const mch_color_dark_brands_hong_kong = "#e0004d";
 export const mch_color_dark_brands_cities = "#fa4616";
 export const mch_color_dark_brands_paris = "#6f2cc7";
-export const mch_shadows_outer_shadow_01_1_color = "#1d23271a";
+export const mch_shadows_outer_shadow_01_1_color = "rgba(18, 18, 18, 0.1)";
 export const mch_shadows_outer_shadow_01_1_type = "dropShadow";
 export const mch_shadows_outer_shadow_01_1_x = "0";
 export const mch_shadows_outer_shadow_01_1_y = "1";
 export const mch_shadows_outer_shadow_01_1_blur = "4";
 export const mch_shadows_outer_shadow_01_1_spread = "0";
-export const mch_shadows_outer_shadow_01_2_color = "#1d23271a";
+export const mch_shadows_outer_shadow_01_2_color = "rgba(18, 18, 18, 0.1)";
 export const mch_shadows_outer_shadow_01_2_type = "dropShadow";
 export const mch_shadows_outer_shadow_01_2_x = "0";
 export const mch_shadows_outer_shadow_01_2_y = "0";
 export const mch_shadows_outer_shadow_01_2_blur = "4";
 export const mch_shadows_outer_shadow_01_2_spread = "0";
-export const mch_shadows_outer_shadow_02_1_color = "#1d23271a";
+export const mch_shadows_outer_shadow_02_1_color = "rgba(18, 18, 18, 0.1)";
 export const mch_shadows_outer_shadow_02_1_type = "dropShadow";
 export const mch_shadows_outer_shadow_02_1_x = "0";
 export const mch_shadows_outer_shadow_02_1_y = "4";
 export const mch_shadows_outer_shadow_02_1_blur = "8";
 export const mch_shadows_outer_shadow_02_1_spread = "0";
-export const mch_shadows_outer_shadow_02_2_color = "#1d23271a";
+export const mch_shadows_outer_shadow_02_2_color = "rgba(18, 18, 18, 0.1)";
 export const mch_shadows_outer_shadow_02_2_type = "dropShadow";
 export const mch_shadows_outer_shadow_02_2_x = "0";
 export const mch_shadows_outer_shadow_02_2_y = "2";
 export const mch_shadows_outer_shadow_02_2_blur = "4";
 export const mch_shadows_outer_shadow_02_2_spread = "1";
-export const mch_shadows_outer_shadow_03_1_color = "#1d23271a";
+export const mch_shadows_outer_shadow_03_1_color = "rgba(18, 18, 18, 0.1)";
 export const mch_shadows_outer_shadow_03_1_type = "dropShadow";
 export const mch_shadows_outer_shadow_03_1_x = "0";
 export const mch_shadows_outer_shadow_03_1_y = "8";
 export const mch_shadows_outer_shadow_03_1_blur = "16";
 export const mch_shadows_outer_shadow_03_1_spread = "0";
-export const mch_shadows_outer_shadow_03_2_color = "#1d23271a";
+export const mch_shadows_outer_shadow_03_2_color = "rgba(18, 18, 18, 0.1)";
 export const mch_shadows_outer_shadow_03_2_type = "dropShadow";
 export const mch_shadows_outer_shadow_03_2_x = "0";
 export const mch_shadows_outer_shadow_03_2_y = "4";
