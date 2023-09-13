@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Wed, 13 Sep 2023 13:33:43 GMT
+ * Generated on Wed, 13 Sep 2023 15:03:16 GMT
  */
 
 module.exports = {
@@ -6394,7 +6394,7 @@ module.exports = {
   },
   "letterSpacing": {
     "0": {
-      "value": "0%",
+      "value": "0rem",
       "type": "letterSpacing",
       "filePath": "src/global.json",
       "isSource": true,
@@ -6413,7 +6413,7 @@ module.exports = {
       ]
     },
     "1": {
-      "value": "0.3%",
+      "value": "0.01875rem",
       "type": "letterSpacing",
       "filePath": "src/global.json",
       "isSource": true,
@@ -6432,7 +6432,7 @@ module.exports = {
       ]
     },
     "2": {
-      "value": "1px",
+      "value": "0.0625rem",
       "type": "letterSpacing",
       "filePath": "src/global.json",
       "isSource": true,
@@ -6451,7 +6451,7 @@ module.exports = {
       ]
     },
     "3": {
-      "value": "4px",
+      "value": "0.25rem",
       "type": "letterSpacing",
       "filePath": "src/global.json",
       "isSource": true,
@@ -6615,7 +6615,7 @@ module.exports = {
             ]
           },
           "letterSpacing": {
-            "value": "0%",
+            "value": "0rem",
             "type": "letterSpacing",
             "filePath": "src/global.json",
             "isSource": true,
@@ -6842,7 +6842,7 @@ module.exports = {
             ]
           },
           "letterSpacing": {
-            "value": "0%",
+            "value": "0rem",
             "type": "letterSpacing",
             "filePath": "src/global.json",
             "isSource": true,
@@ -7069,7 +7069,7 @@ module.exports = {
             ]
           },
           "letterSpacing": {
-            "value": "0%",
+            "value": "0rem",
             "type": "letterSpacing",
             "filePath": "src/global.json",
             "isSource": true,
@@ -7296,7 +7296,7 @@ module.exports = {
             ]
           },
           "letterSpacing": {
-            "value": "0%",
+            "value": "0rem",
             "type": "letterSpacing",
             "filePath": "src/global.json",
             "isSource": true,
@@ -7523,7 +7523,7 @@ module.exports = {
             ]
           },
           "letterSpacing": {
-            "value": "0%",
+            "value": "0rem",
             "type": "letterSpacing",
             "filePath": "src/global.json",
             "isSource": true,
@@ -7752,7 +7752,7 @@ module.exports = {
             ]
           },
           "letterSpacing": {
-            "value": "0%",
+            "value": "0rem",
             "type": "letterSpacing",
             "filePath": "src/global.json",
             "isSource": true,
@@ -7979,7 +7979,7 @@ module.exports = {
             ]
           },
           "letterSpacing": {
-            "value": "0%",
+            "value": "0rem",
             "type": "letterSpacing",
             "filePath": "src/global.json",
             "isSource": true,
@@ -8206,7 +8206,7 @@ module.exports = {
             ]
           },
           "letterSpacing": {
-            "value": "0%",
+            "value": "0rem",
             "type": "letterSpacing",
             "filePath": "src/global.json",
             "isSource": true,
@@ -8433,7 +8433,7 @@ module.exports = {
             ]
           },
           "letterSpacing": {
-            "value": "0%",
+            "value": "0rem",
             "type": "letterSpacing",
             "filePath": "src/global.json",
             "isSource": true,
@@ -8660,7 +8660,7 @@ module.exports = {
             ]
           },
           "letterSpacing": {
-            "value": "0%",
+            "value": "0rem",
             "type": "letterSpacing",
             "filePath": "src/global.json",
             "isSource": true,
@@ -8889,7 +8889,7 @@ module.exports = {
             ]
           },
           "letterSpacing": {
-            "value": "0%",
+            "value": "0rem",
             "type": "letterSpacing",
             "filePath": "src/global.json",
             "isSource": true,
@@ -9116,7 +9116,7 @@ module.exports = {
             ]
           },
           "letterSpacing": {
-            "value": "0%",
+            "value": "0rem",
             "type": "letterSpacing",
             "filePath": "src/global.json",
             "isSource": true,
@@ -9343,7 +9343,7 @@ module.exports = {
             ]
           },
           "letterSpacing": {
-            "value": "0%",
+            "value": "0rem",
             "type": "letterSpacing",
             "filePath": "src/global.json",
             "isSource": true,
@@ -9570,7 +9570,7 @@ module.exports = {
             ]
           },
           "letterSpacing": {
-            "value": "0%",
+            "value": "0rem",
             "type": "letterSpacing",
             "filePath": "src/global.json",
             "isSource": true,
@@ -9797,7 +9797,7 @@ module.exports = {
             ]
           },
           "letterSpacing": {
-            "value": "0%",
+            "value": "0rem",
             "type": "letterSpacing",
             "filePath": "src/global.json",
             "isSource": true,
@@ -10026,7 +10026,7 @@ module.exports = {
             ]
           },
           "letterSpacing": {
-            "value": "0%",
+            "value": "0rem",
             "type": "letterSpacing",
             "filePath": "src/global.json",
             "isSource": true,
@@ -10253,7 +10253,7 @@ module.exports = {
             ]
           },
           "letterSpacing": {
-            "value": "0%",
+            "value": "0rem",
             "type": "letterSpacing",
             "filePath": "src/global.json",
             "isSource": true,
@@ -10480,7 +10480,7 @@ module.exports = {
             ]
           },
           "letterSpacing": {
-            "value": "0%",
+            "value": "0rem",
             "type": "letterSpacing",
             "filePath": "src/global.json",
             "isSource": true,
@@ -10707,7 +10707,7 @@ module.exports = {
             ]
           },
           "letterSpacing": {
-            "value": "0%",
+            "value": "0rem",
             "type": "letterSpacing",
             "filePath": "src/global.json",
             "isSource": true,
@@ -10934,7 +10934,7 @@ module.exports = {
             ]
           },
           "letterSpacing": {
-            "value": "0%",
+            "value": "0rem",
             "type": "letterSpacing",
             "filePath": "src/global.json",
             "isSource": true,
@@ -11163,7 +11163,7 @@ module.exports = {
             ]
           },
           "letterSpacing": {
-            "value": "0%",
+            "value": "0rem",
             "type": "letterSpacing",
             "filePath": "src/global.json",
             "isSource": true,
@@ -11390,7 +11390,7 @@ module.exports = {
             ]
           },
           "letterSpacing": {
-            "value": "0%",
+            "value": "0rem",
             "type": "letterSpacing",
             "filePath": "src/global.json",
             "isSource": true,
@@ -11617,7 +11617,7 @@ module.exports = {
             ]
           },
           "letterSpacing": {
-            "value": "0%",
+            "value": "0rem",
             "type": "letterSpacing",
             "filePath": "src/global.json",
             "isSource": true,
@@ -11844,7 +11844,7 @@ module.exports = {
             ]
           },
           "letterSpacing": {
-            "value": "0%",
+            "value": "0rem",
             "type": "letterSpacing",
             "filePath": "src/global.json",
             "isSource": true,
@@ -12071,7 +12071,7 @@ module.exports = {
             ]
           },
           "letterSpacing": {
-            "value": "0%",
+            "value": "0rem",
             "type": "letterSpacing",
             "filePath": "src/global.json",
             "isSource": true,
@@ -12302,7 +12302,7 @@ module.exports = {
             ]
           },
           "letterSpacing": {
-            "value": "0%",
+            "value": "0rem",
             "type": "letterSpacing",
             "filePath": "src/global.json",
             "isSource": true,
@@ -12529,7 +12529,7 @@ module.exports = {
             ]
           },
           "letterSpacing": {
-            "value": "0%",
+            "value": "0rem",
             "type": "letterSpacing",
             "filePath": "src/global.json",
             "isSource": true,
@@ -12758,7 +12758,7 @@ module.exports = {
             ]
           },
           "letterSpacing": {
-            "value": "0%",
+            "value": "0rem",
             "type": "letterSpacing",
             "filePath": "src/global.json",
             "isSource": true,
@@ -12985,7 +12985,7 @@ module.exports = {
             ]
           },
           "letterSpacing": {
-            "value": "0%",
+            "value": "0rem",
             "type": "letterSpacing",
             "filePath": "src/global.json",
             "isSource": true,
@@ -13214,7 +13214,7 @@ module.exports = {
             ]
           },
           "letterSpacing": {
-            "value": "0%",
+            "value": "0rem",
             "type": "letterSpacing",
             "filePath": "src/global.json",
             "isSource": true,
@@ -13441,7 +13441,7 @@ module.exports = {
             ]
           },
           "letterSpacing": {
-            "value": "0%",
+            "value": "0rem",
             "type": "letterSpacing",
             "filePath": "src/global.json",
             "isSource": true,
@@ -13670,7 +13670,7 @@ module.exports = {
             ]
           },
           "letterSpacing": {
-            "value": "0%",
+            "value": "0rem",
             "type": "letterSpacing",
             "filePath": "src/global.json",
             "isSource": true,
@@ -13897,7 +13897,7 @@ module.exports = {
             ]
           },
           "letterSpacing": {
-            "value": "0%",
+            "value": "0rem",
             "type": "letterSpacing",
             "filePath": "src/global.json",
             "isSource": true,
@@ -14119,7 +14119,7 @@ module.exports = {
           ]
         },
         "letterSpacing": {
-          "value": "4px",
+          "value": "0.25rem",
           "type": "letterSpacing",
           "filePath": "src/global.json",
           "isSource": true,
@@ -14328,7 +14328,7 @@ module.exports = {
           ]
         },
         "letterSpacing": {
-          "value": "1px",
+          "value": "0.0625rem",
           "type": "letterSpacing",
           "filePath": "src/global.json",
           "isSource": true,
@@ -14539,7 +14539,7 @@ module.exports = {
           ]
         },
         "letterSpacing": {
-          "value": "0%",
+          "value": "0rem",
           "type": "letterSpacing",
           "filePath": "src/global.json",
           "isSource": true,
@@ -14748,7 +14748,7 @@ module.exports = {
           ]
         },
         "letterSpacing": {
-          "value": "0%",
+          "value": "0rem",
           "type": "letterSpacing",
           "filePath": "src/global.json",
           "isSource": true,
@@ -14957,7 +14957,7 @@ module.exports = {
           ]
         },
         "letterSpacing": {
-          "value": "0%",
+          "value": "0rem",
           "type": "letterSpacing",
           "filePath": "src/global.json",
           "isSource": true,
@@ -15168,7 +15168,7 @@ module.exports = {
           ]
         },
         "letterSpacing": {
-          "value": "0%",
+          "value": "0rem",
           "type": "letterSpacing",
           "filePath": "src/global.json",
           "isSource": true,
@@ -15377,7 +15377,7 @@ module.exports = {
           ]
         },
         "letterSpacing": {
-          "value": "0%",
+          "value": "0rem",
           "type": "letterSpacing",
           "filePath": "src/global.json",
           "isSource": true,
@@ -15586,7 +15586,7 @@ module.exports = {
           ]
         },
         "letterSpacing": {
-          "value": "0%",
+          "value": "0rem",
           "type": "letterSpacing",
           "filePath": "src/global.json",
           "isSource": true,
@@ -15795,7 +15795,7 @@ module.exports = {
           ]
         },
         "letterSpacing": {
-          "value": "0.3%",
+          "value": "0.01875rem",
           "type": "letterSpacing",
           "filePath": "src/global.json",
           "isSource": true,
@@ -16006,7 +16006,7 @@ module.exports = {
           ]
         },
         "letterSpacing": {
-          "value": "0%",
+          "value": "0rem",
           "type": "letterSpacing",
           "filePath": "src/global.json",
           "isSource": true,
@@ -16215,7 +16215,7 @@ module.exports = {
           ]
         },
         "letterSpacing": {
-          "value": "0%",
+          "value": "0rem",
           "type": "letterSpacing",
           "filePath": "src/global.json",
           "isSource": true,
@@ -16424,7 +16424,7 @@ module.exports = {
           ]
         },
         "letterSpacing": {
-          "value": "0%",
+          "value": "0rem",
           "type": "letterSpacing",
           "filePath": "src/global.json",
           "isSource": true,
@@ -16633,7 +16633,7 @@ module.exports = {
           ]
         },
         "letterSpacing": {
-          "value": "0%",
+          "value": "0rem",
           "type": "letterSpacing",
           "filePath": "src/global.json",
           "isSource": true,
@@ -16853,7 +16853,7 @@ module.exports = {
             ]
           },
           "letterSpacing": {
-            "value": "0%",
+            "value": "0rem",
             "type": "letterSpacing",
             "filePath": "src/global.json",
             "isSource": true,
@@ -17080,7 +17080,7 @@ module.exports = {
             ]
           },
           "letterSpacing": {
-            "value": "0%",
+            "value": "0rem",
             "type": "letterSpacing",
             "filePath": "src/global.json",
             "isSource": true,
@@ -17307,7 +17307,7 @@ module.exports = {
             ]
           },
           "letterSpacing": {
-            "value": "0%",
+            "value": "0rem",
             "type": "letterSpacing",
             "filePath": "src/global.json",
             "isSource": true,
@@ -17534,7 +17534,7 @@ module.exports = {
             ]
           },
           "letterSpacing": {
-            "value": "0%",
+            "value": "0rem",
             "type": "letterSpacing",
             "filePath": "src/global.json",
             "isSource": true,
@@ -17761,7 +17761,7 @@ module.exports = {
             ]
           },
           "letterSpacing": {
-            "value": "0%",
+            "value": "0rem",
             "type": "letterSpacing",
             "filePath": "src/global.json",
             "isSource": true,
@@ -17990,7 +17990,7 @@ module.exports = {
             ]
           },
           "letterSpacing": {
-            "value": "0%",
+            "value": "0rem",
             "type": "letterSpacing",
             "filePath": "src/global.json",
             "isSource": true,
@@ -18217,7 +18217,7 @@ module.exports = {
             ]
           },
           "letterSpacing": {
-            "value": "0%",
+            "value": "0rem",
             "type": "letterSpacing",
             "filePath": "src/global.json",
             "isSource": true,
@@ -18444,7 +18444,7 @@ module.exports = {
             ]
           },
           "letterSpacing": {
-            "value": "0%",
+            "value": "0rem",
             "type": "letterSpacing",
             "filePath": "src/global.json",
             "isSource": true,
@@ -18671,7 +18671,7 @@ module.exports = {
             ]
           },
           "letterSpacing": {
-            "value": "0%",
+            "value": "0rem",
             "type": "letterSpacing",
             "filePath": "src/global.json",
             "isSource": true,
@@ -18898,7 +18898,7 @@ module.exports = {
             ]
           },
           "letterSpacing": {
-            "value": "0%",
+            "value": "0rem",
             "type": "letterSpacing",
             "filePath": "src/global.json",
             "isSource": true,
@@ -19127,7 +19127,7 @@ module.exports = {
             ]
           },
           "letterSpacing": {
-            "value": "0%",
+            "value": "0rem",
             "type": "letterSpacing",
             "filePath": "src/global.json",
             "isSource": true,
@@ -19354,7 +19354,7 @@ module.exports = {
             ]
           },
           "letterSpacing": {
-            "value": "0%",
+            "value": "0rem",
             "type": "letterSpacing",
             "filePath": "src/global.json",
             "isSource": true,
@@ -19581,7 +19581,7 @@ module.exports = {
             ]
           },
           "letterSpacing": {
-            "value": "0%",
+            "value": "0rem",
             "type": "letterSpacing",
             "filePath": "src/global.json",
             "isSource": true,
@@ -19808,7 +19808,7 @@ module.exports = {
             ]
           },
           "letterSpacing": {
-            "value": "0%",
+            "value": "0rem",
             "type": "letterSpacing",
             "filePath": "src/global.json",
             "isSource": true,
@@ -20035,7 +20035,7 @@ module.exports = {
             ]
           },
           "letterSpacing": {
-            "value": "0%",
+            "value": "0rem",
             "type": "letterSpacing",
             "filePath": "src/global.json",
             "isSource": true,
@@ -20264,7 +20264,7 @@ module.exports = {
             ]
           },
           "letterSpacing": {
-            "value": "0%",
+            "value": "0rem",
             "type": "letterSpacing",
             "filePath": "src/global.json",
             "isSource": true,
@@ -20491,7 +20491,7 @@ module.exports = {
             ]
           },
           "letterSpacing": {
-            "value": "0%",
+            "value": "0rem",
             "type": "letterSpacing",
             "filePath": "src/global.json",
             "isSource": true,
@@ -20718,7 +20718,7 @@ module.exports = {
             ]
           },
           "letterSpacing": {
-            "value": "0%",
+            "value": "0rem",
             "type": "letterSpacing",
             "filePath": "src/global.json",
             "isSource": true,
@@ -20945,7 +20945,7 @@ module.exports = {
             ]
           },
           "letterSpacing": {
-            "value": "0%",
+            "value": "0rem",
             "type": "letterSpacing",
             "filePath": "src/global.json",
             "isSource": true,
@@ -21172,7 +21172,7 @@ module.exports = {
             ]
           },
           "letterSpacing": {
-            "value": "0%",
+            "value": "0rem",
             "type": "letterSpacing",
             "filePath": "src/global.json",
             "isSource": true,
@@ -21401,7 +21401,7 @@ module.exports = {
             ]
           },
           "letterSpacing": {
-            "value": "0%",
+            "value": "0rem",
             "type": "letterSpacing",
             "filePath": "src/global.json",
             "isSource": true,
@@ -21628,7 +21628,7 @@ module.exports = {
             ]
           },
           "letterSpacing": {
-            "value": "0%",
+            "value": "0rem",
             "type": "letterSpacing",
             "filePath": "src/global.json",
             "isSource": true,
@@ -21855,7 +21855,7 @@ module.exports = {
             ]
           },
           "letterSpacing": {
-            "value": "0%",
+            "value": "0rem",
             "type": "letterSpacing",
             "filePath": "src/global.json",
             "isSource": true,
@@ -22082,7 +22082,7 @@ module.exports = {
             ]
           },
           "letterSpacing": {
-            "value": "0%",
+            "value": "0rem",
             "type": "letterSpacing",
             "filePath": "src/global.json",
             "isSource": true,
@@ -22309,7 +22309,7 @@ module.exports = {
             ]
           },
           "letterSpacing": {
-            "value": "0%",
+            "value": "0rem",
             "type": "letterSpacing",
             "filePath": "src/global.json",
             "isSource": true,
@@ -22531,7 +22531,7 @@ module.exports = {
           ]
         },
         "letterSpacing": {
-          "value": "0%",
+          "value": "0rem",
           "type": "letterSpacing",
           "filePath": "src/global.json",
           "isSource": true,
@@ -22740,7 +22740,7 @@ module.exports = {
           ]
         },
         "letterSpacing": {
-          "value": "0%",
+          "value": "0rem",
           "type": "letterSpacing",
           "filePath": "src/global.json",
           "isSource": true,
@@ -22949,7 +22949,7 @@ module.exports = {
           ]
         },
         "letterSpacing": {
-          "value": "0%",
+          "value": "0rem",
           "type": "letterSpacing",
           "filePath": "src/global.json",
           "isSource": true,
@@ -23158,7 +23158,7 @@ module.exports = {
           ]
         },
         "letterSpacing": {
-          "value": "0%",
+          "value": "0rem",
           "type": "letterSpacing",
           "filePath": "src/global.json",
           "isSource": true,
@@ -23367,7 +23367,7 @@ module.exports = {
           ]
         },
         "letterSpacing": {
-          "value": "0%",
+          "value": "0rem",
           "type": "letterSpacing",
           "filePath": "src/global.json",
           "isSource": true,
