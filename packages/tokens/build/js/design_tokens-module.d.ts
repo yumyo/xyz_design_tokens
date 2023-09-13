@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Fri, 08 Sep 2023 12:35:43 GMT
+ * Generated on Wed, 13 Sep 2023 13:28:21 GMT
  */
 
 export default tokens;
@@ -396,9 +396,7 @@ declare const tokens: {
     "0": DesignToken,
     "1": DesignToken,
     "2": DesignToken,
-    "3": DesignToken,
-    "4": DesignToken,
-    "5": DesignToken
+    "3": DesignToken
   },
   "paragraphSpacing": {
     "0": DesignToken,

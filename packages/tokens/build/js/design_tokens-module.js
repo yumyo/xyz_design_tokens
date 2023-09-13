@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Fri, 08 Sep 2023 12:35:43 GMT
+ * Generated on Wed, 13 Sep 2023 13:28:21 GMT
  */
 
 module.exports = {
@@ -6394,12 +6394,12 @@ module.exports = {
   },
   "letterSpacing": {
     "0": {
-      "value": "0",
+      "value": "0%",
       "type": "letterSpacing",
       "filePath": "src/global.json",
       "isSource": true,
       "original": {
-        "value": "0",
+        "value": "0%",
         "type": "letterSpacing"
       },
       "name": "mch_letter_spacing_0",
@@ -6413,12 +6413,12 @@ module.exports = {
       ]
     },
     "1": {
-      "value": "0%",
+      "value": "1px",
       "type": "letterSpacing",
       "filePath": "src/global.json",
       "isSource": true,
       "original": {
-        "value": "0%",
+        "value": "1px",
         "type": "letterSpacing"
       },
       "name": "mch_letter_spacing_1",
@@ -6432,12 +6432,12 @@ module.exports = {
       ]
     },
     "2": {
-      "value": "4",
+      "value": "4px",
       "type": "letterSpacing",
       "filePath": "src/global.json",
       "isSource": true,
       "original": {
-        "value": "4",
+        "value": "4px",
         "type": "letterSpacing"
       },
       "name": "mch_letter_spacing_2",
@@ -6451,12 +6451,12 @@ module.exports = {
       ]
     },
     "3": {
-      "value": "1",
+      "value": "0.3%",
       "type": "letterSpacing",
       "filePath": "src/global.json",
       "isSource": true,
       "original": {
-        "value": "1",
+        "value": "0.3%",
         "type": "letterSpacing"
       },
       "name": "mch_letter_spacing_3",
@@ -6467,44 +6467,6 @@ module.exports = {
       "path": [
         "letterSpacing",
         "3"
-      ]
-    },
-    "4": {
-      "value": "0.3",
-      "type": "letterSpacing",
-      "filePath": "src/global.json",
-      "isSource": true,
-      "original": {
-        "value": "0.3",
-        "type": "letterSpacing"
-      },
-      "name": "mch_letter_spacing_4",
-      "attributes": {
-        "category": "letterSpacing",
-        "type": "4"
-      },
-      "path": [
-        "letterSpacing",
-        "4"
-      ]
-    },
-    "5": {
-      "value": "0.5%",
-      "type": "letterSpacing",
-      "filePath": "src/global.json",
-      "isSource": true,
-      "original": {
-        "value": "0.5%",
-        "type": "letterSpacing"
-      },
-      "name": "mch_letter_spacing_5",
-      "attributes": {
-        "category": "letterSpacing",
-        "type": "5"
-      },
-      "path": [
-        "letterSpacing",
-        "5"
       ]
     }
   },
@@ -6653,7 +6615,7 @@ module.exports = {
             ]
           },
           "letterSpacing": {
-            "value": "0",
+            "value": "0%",
             "type": "letterSpacing",
             "filePath": "src/global.json",
             "isSource": true,
@@ -6880,7 +6842,7 @@ module.exports = {
             ]
           },
           "letterSpacing": {
-            "value": "0",
+            "value": "0%",
             "type": "letterSpacing",
             "filePath": "src/global.json",
             "isSource": true,
@@ -7107,7 +7069,7 @@ module.exports = {
             ]
           },
           "letterSpacing": {
-            "value": "0",
+            "value": "0%",
             "type": "letterSpacing",
             "filePath": "src/global.json",
             "isSource": true,
@@ -7334,7 +7296,7 @@ module.exports = {
             ]
           },
           "letterSpacing": {
-            "value": "0",
+            "value": "0%",
             "type": "letterSpacing",
             "filePath": "src/global.json",
             "isSource": true,
@@ -7561,7 +7523,7 @@ module.exports = {
             ]
           },
           "letterSpacing": {
-            "value": "0",
+            "value": "0%",
             "type": "letterSpacing",
             "filePath": "src/global.json",
             "isSource": true,
@@ -7790,7 +7752,7 @@ module.exports = {
             ]
           },
           "letterSpacing": {
-            "value": "0",
+            "value": "0%",
             "type": "letterSpacing",
             "filePath": "src/global.json",
             "isSource": true,
@@ -8017,7 +7979,7 @@ module.exports = {
             ]
           },
           "letterSpacing": {
-            "value": "0",
+            "value": "0%",
             "type": "letterSpacing",
             "filePath": "src/global.json",
             "isSource": true,
@@ -8244,7 +8206,7 @@ module.exports = {
             ]
           },
           "letterSpacing": {
-            "value": "0",
+            "value": "0%",
             "type": "letterSpacing",
             "filePath": "src/global.json",
             "isSource": true,
@@ -8471,7 +8433,7 @@ module.exports = {
             ]
           },
           "letterSpacing": {
-            "value": "0",
+            "value": "0%",
             "type": "letterSpacing",
             "filePath": "src/global.json",
             "isSource": true,
@@ -8698,7 +8660,7 @@ module.exports = {
             ]
           },
           "letterSpacing": {
-            "value": "0",
+            "value": "0%",
             "type": "letterSpacing",
             "filePath": "src/global.json",
             "isSource": true,
@@ -8932,7 +8894,7 @@ module.exports = {
             "filePath": "src/global.json",
             "isSource": true,
             "original": {
-              "value": "{letterSpacing.1}",
+              "value": "{letterSpacing.0}",
               "type": "letterSpacing"
             },
             "name": "mch_typography_headings_md_h1_letter_spacing",
@@ -9159,7 +9121,7 @@ module.exports = {
             "filePath": "src/global.json",
             "isSource": true,
             "original": {
-              "value": "{letterSpacing.1}",
+              "value": "{letterSpacing.0}",
               "type": "letterSpacing"
             },
             "name": "mch_typography_headings_md_h2_letter_spacing",
@@ -9386,7 +9348,7 @@ module.exports = {
             "filePath": "src/global.json",
             "isSource": true,
             "original": {
-              "value": "{letterSpacing.1}",
+              "value": "{letterSpacing.0}",
               "type": "letterSpacing"
             },
             "name": "mch_typography_headings_md_h3_letter_spacing",
@@ -9613,7 +9575,7 @@ module.exports = {
             "filePath": "src/global.json",
             "isSource": true,
             "original": {
-              "value": "{letterSpacing.1}",
+              "value": "{letterSpacing.0}",
               "type": "letterSpacing"
             },
             "name": "mch_typography_headings_md_h4_letter_spacing",
@@ -9840,7 +9802,7 @@ module.exports = {
             "filePath": "src/global.json",
             "isSource": true,
             "original": {
-              "value": "{letterSpacing.1}",
+              "value": "{letterSpacing.0}",
               "type": "letterSpacing"
             },
             "name": "mch_typography_headings_md_h5_letter_spacing",
@@ -10069,7 +10031,7 @@ module.exports = {
             "filePath": "src/global.json",
             "isSource": true,
             "original": {
-              "value": "{letterSpacing.1}",
+              "value": "{letterSpacing.0}",
               "type": "letterSpacing"
             },
             "name": "mch_typography_headings_lg_h1_letter_spacing",
@@ -10296,7 +10258,7 @@ module.exports = {
             "filePath": "src/global.json",
             "isSource": true,
             "original": {
-              "value": "{letterSpacing.1}",
+              "value": "{letterSpacing.0}",
               "type": "letterSpacing"
             },
             "name": "mch_typography_headings_lg_h2_letter_spacing",
@@ -10523,7 +10485,7 @@ module.exports = {
             "filePath": "src/global.json",
             "isSource": true,
             "original": {
-              "value": "{letterSpacing.1}",
+              "value": "{letterSpacing.0}",
               "type": "letterSpacing"
             },
             "name": "mch_typography_headings_lg_h3_letter_spacing",
@@ -10750,7 +10712,7 @@ module.exports = {
             "filePath": "src/global.json",
             "isSource": true,
             "original": {
-              "value": "{letterSpacing.1}",
+              "value": "{letterSpacing.0}",
               "type": "letterSpacing"
             },
             "name": "mch_typography_headings_lg_h4_letter_spacing",
@@ -10977,7 +10939,7 @@ module.exports = {
             "filePath": "src/global.json",
             "isSource": true,
             "original": {
-              "value": "{letterSpacing.1}",
+              "value": "{letterSpacing.0}",
               "type": "letterSpacing"
             },
             "name": "mch_typography_headings_lg_h5_letter_spacing",
@@ -11201,7 +11163,7 @@ module.exports = {
             ]
           },
           "letterSpacing": {
-            "value": "0",
+            "value": "0%",
             "type": "letterSpacing",
             "filePath": "src/global.json",
             "isSource": true,
@@ -11428,7 +11390,7 @@ module.exports = {
             ]
           },
           "letterSpacing": {
-            "value": "0",
+            "value": "0%",
             "type": "letterSpacing",
             "filePath": "src/global.json",
             "isSource": true,
@@ -11655,7 +11617,7 @@ module.exports = {
             ]
           },
           "letterSpacing": {
-            "value": "0",
+            "value": "0%",
             "type": "letterSpacing",
             "filePath": "src/global.json",
             "isSource": true,
@@ -11882,7 +11844,7 @@ module.exports = {
             ]
           },
           "letterSpacing": {
-            "value": "0",
+            "value": "0%",
             "type": "letterSpacing",
             "filePath": "src/global.json",
             "isSource": true,
@@ -12109,7 +12071,7 @@ module.exports = {
             ]
           },
           "letterSpacing": {
-            "value": "0",
+            "value": "0%",
             "type": "letterSpacing",
             "filePath": "src/global.json",
             "isSource": true,
@@ -12340,7 +12302,7 @@ module.exports = {
             ]
           },
           "letterSpacing": {
-            "value": "0",
+            "value": "0%",
             "type": "letterSpacing",
             "filePath": "src/global.json",
             "isSource": true,
@@ -12567,7 +12529,7 @@ module.exports = {
             ]
           },
           "letterSpacing": {
-            "value": "0",
+            "value": "0%",
             "type": "letterSpacing",
             "filePath": "src/global.json",
             "isSource": true,
@@ -12796,7 +12758,7 @@ module.exports = {
             ]
           },
           "letterSpacing": {
-            "value": "0",
+            "value": "0%",
             "type": "letterSpacing",
             "filePath": "src/global.json",
             "isSource": true,
@@ -13023,7 +12985,7 @@ module.exports = {
             ]
           },
           "letterSpacing": {
-            "value": "0",
+            "value": "0%",
             "type": "letterSpacing",
             "filePath": "src/global.json",
             "isSource": true,
@@ -13257,7 +13219,7 @@ module.exports = {
             "filePath": "src/global.json",
             "isSource": true,
             "original": {
-              "value": "{letterSpacing.1}",
+              "value": "{letterSpacing.0}",
               "type": "letterSpacing"
             },
             "name": "mch_typography_paragraphs_md_p1_letter_spacing",
@@ -13484,7 +13446,7 @@ module.exports = {
             "filePath": "src/global.json",
             "isSource": true,
             "original": {
-              "value": "{letterSpacing.1}",
+              "value": "{letterSpacing.0}",
               "type": "letterSpacing"
             },
             "name": "mch_typography_paragraphs_md_p2_letter_spacing",
@@ -13713,7 +13675,7 @@ module.exports = {
             "filePath": "src/global.json",
             "isSource": true,
             "original": {
-              "value": "{letterSpacing.1}",
+              "value": "{letterSpacing.0}",
               "type": "letterSpacing"
             },
             "name": "mch_typography_paragraphs_lg_p1_letter_spacing",
@@ -13940,7 +13902,7 @@ module.exports = {
             "filePath": "src/global.json",
             "isSource": true,
             "original": {
-              "value": "{letterSpacing.1}",
+              "value": "{letterSpacing.0}",
               "type": "letterSpacing"
             },
             "name": "mch_typography_paragraphs_lg_p2_letter_spacing",
@@ -14157,7 +14119,7 @@ module.exports = {
           ]
         },
         "letterSpacing": {
-          "value": "4",
+          "value": "4px",
           "type": "letterSpacing",
           "filePath": "src/global.json",
           "isSource": true,
@@ -14366,12 +14328,12 @@ module.exports = {
           ]
         },
         "letterSpacing": {
-          "value": "1",
+          "value": "1px",
           "type": "letterSpacing",
           "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "{letterSpacing.3}",
+            "value": "{letterSpacing.1}",
             "type": "letterSpacing"
           },
           "name": "mch_typography_headings_fixed_02_letter_spacing",
@@ -14577,7 +14539,7 @@ module.exports = {
           ]
         },
         "letterSpacing": {
-          "value": "0",
+          "value": "0%",
           "type": "letterSpacing",
           "filePath": "src/global.json",
           "isSource": true,
@@ -14786,7 +14748,7 @@ module.exports = {
           ]
         },
         "letterSpacing": {
-          "value": "0",
+          "value": "0%",
           "type": "letterSpacing",
           "filePath": "src/global.json",
           "isSource": true,
@@ -14995,7 +14957,7 @@ module.exports = {
           ]
         },
         "letterSpacing": {
-          "value": "0",
+          "value": "0%",
           "type": "letterSpacing",
           "filePath": "src/global.json",
           "isSource": true,
@@ -15206,7 +15168,7 @@ module.exports = {
           ]
         },
         "letterSpacing": {
-          "value": "0",
+          "value": "0%",
           "type": "letterSpacing",
           "filePath": "src/global.json",
           "isSource": true,
@@ -15415,7 +15377,7 @@ module.exports = {
           ]
         },
         "letterSpacing": {
-          "value": "0",
+          "value": "0%",
           "type": "letterSpacing",
           "filePath": "src/global.json",
           "isSource": true,
@@ -15624,7 +15586,7 @@ module.exports = {
           ]
         },
         "letterSpacing": {
-          "value": "0",
+          "value": "0%",
           "type": "letterSpacing",
           "filePath": "src/global.json",
           "isSource": true,
@@ -15833,12 +15795,12 @@ module.exports = {
           ]
         },
         "letterSpacing": {
-          "value": "0.3",
+          "value": "0.3%",
           "type": "letterSpacing",
           "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "{letterSpacing.4}",
+            "value": "{letterSpacing.3}",
             "type": "letterSpacing"
           },
           "name": "mch_typography_supporting_label_small_letter_spacing",
@@ -16044,7 +16006,7 @@ module.exports = {
           ]
         },
         "letterSpacing": {
-          "value": "0",
+          "value": "0%",
           "type": "letterSpacing",
           "filePath": "src/global.json",
           "isSource": true,
@@ -16253,7 +16215,7 @@ module.exports = {
           ]
         },
         "letterSpacing": {
-          "value": "0",
+          "value": "0%",
           "type": "letterSpacing",
           "filePath": "src/global.json",
           "isSource": true,
@@ -16462,7 +16424,7 @@ module.exports = {
           ]
         },
         "letterSpacing": {
-          "value": "0",
+          "value": "0%",
           "type": "letterSpacing",
           "filePath": "src/global.json",
           "isSource": true,
@@ -16671,7 +16633,7 @@ module.exports = {
           ]
         },
         "letterSpacing": {
-          "value": "0",
+          "value": "0%",
           "type": "letterSpacing",
           "filePath": "src/global.json",
           "isSource": true,
@@ -16896,7 +16858,7 @@ module.exports = {
             "filePath": "src/global.json",
             "isSource": true,
             "original": {
-              "value": "{letterSpacing.1}",
+              "value": "{letterSpacing.0}",
               "type": "letterSpacing"
             },
             "name": "mch_typography_editorial_headings_xs_sm_h1_letter_spacing",
@@ -17123,7 +17085,7 @@ module.exports = {
             "filePath": "src/global.json",
             "isSource": true,
             "original": {
-              "value": "{letterSpacing.1}",
+              "value": "{letterSpacing.0}",
               "type": "letterSpacing"
             },
             "name": "mch_typography_editorial_headings_xs_sm_h2_letter_spacing",
@@ -17350,7 +17312,7 @@ module.exports = {
             "filePath": "src/global.json",
             "isSource": true,
             "original": {
-              "value": "{letterSpacing.1}",
+              "value": "{letterSpacing.0}",
               "type": "letterSpacing"
             },
             "name": "mch_typography_editorial_headings_xs_sm_h3_letter_spacing",
@@ -17577,7 +17539,7 @@ module.exports = {
             "filePath": "src/global.json",
             "isSource": true,
             "original": {
-              "value": "{letterSpacing.1}",
+              "value": "{letterSpacing.0}",
               "type": "letterSpacing"
             },
             "name": "mch_typography_editorial_headings_xs_sm_h4_letter_spacing",
@@ -17804,7 +17766,7 @@ module.exports = {
             "filePath": "src/global.json",
             "isSource": true,
             "original": {
-              "value": "{letterSpacing.1}",
+              "value": "{letterSpacing.0}",
               "type": "letterSpacing"
             },
             "name": "mch_typography_editorial_headings_xs_sm_h5_letter_spacing",
@@ -18028,7 +17990,7 @@ module.exports = {
             ]
           },
           "letterSpacing": {
-            "value": "0",
+            "value": "0%",
             "type": "letterSpacing",
             "filePath": "src/global.json",
             "isSource": true,
@@ -18260,7 +18222,7 @@ module.exports = {
             "filePath": "src/global.json",
             "isSource": true,
             "original": {
-              "value": "{letterSpacing.1}",
+              "value": "{letterSpacing.0}",
               "type": "letterSpacing"
             },
             "name": "mch_typography_editorial_headings_xl_h2_letter_spacing",
@@ -18487,7 +18449,7 @@ module.exports = {
             "filePath": "src/global.json",
             "isSource": true,
             "original": {
-              "value": "{letterSpacing.1}",
+              "value": "{letterSpacing.0}",
               "type": "letterSpacing"
             },
             "name": "mch_typography_editorial_headings_xl_h3_letter_spacing",
@@ -18714,7 +18676,7 @@ module.exports = {
             "filePath": "src/global.json",
             "isSource": true,
             "original": {
-              "value": "{letterSpacing.1}",
+              "value": "{letterSpacing.0}",
               "type": "letterSpacing"
             },
             "name": "mch_typography_editorial_headings_xl_h4_letter_spacing",
@@ -18941,7 +18903,7 @@ module.exports = {
             "filePath": "src/global.json",
             "isSource": true,
             "original": {
-              "value": "{letterSpacing.1}",
+              "value": "{letterSpacing.0}",
               "type": "letterSpacing"
             },
             "name": "mch_typography_editorial_headings_xl_h5_letter_spacing",
@@ -19170,7 +19132,7 @@ module.exports = {
             "filePath": "src/global.json",
             "isSource": true,
             "original": {
-              "value": "{letterSpacing.1}",
+              "value": "{letterSpacing.0}",
               "type": "letterSpacing"
             },
             "name": "mch_typography_editorial_headings_md_h1_letter_spacing",
@@ -19397,7 +19359,7 @@ module.exports = {
             "filePath": "src/global.json",
             "isSource": true,
             "original": {
-              "value": "{letterSpacing.1}",
+              "value": "{letterSpacing.0}",
               "type": "letterSpacing"
             },
             "name": "mch_typography_editorial_headings_md_h2_letter_spacing",
@@ -19624,7 +19586,7 @@ module.exports = {
             "filePath": "src/global.json",
             "isSource": true,
             "original": {
-              "value": "{letterSpacing.1}",
+              "value": "{letterSpacing.0}",
               "type": "letterSpacing"
             },
             "name": "mch_typography_editorial_headings_md_h3_letter_spacing",
@@ -19851,7 +19813,7 @@ module.exports = {
             "filePath": "src/global.json",
             "isSource": true,
             "original": {
-              "value": "{letterSpacing.1}",
+              "value": "{letterSpacing.0}",
               "type": "letterSpacing"
             },
             "name": "mch_typography_editorial_headings_md_h4_letter_spacing",
@@ -20078,7 +20040,7 @@ module.exports = {
             "filePath": "src/global.json",
             "isSource": true,
             "original": {
-              "value": "{letterSpacing.1}",
+              "value": "{letterSpacing.0}",
               "type": "letterSpacing"
             },
             "name": "mch_typography_editorial_headings_md_h5_letter_spacing",
@@ -20307,7 +20269,7 @@ module.exports = {
             "filePath": "src/global.json",
             "isSource": true,
             "original": {
-              "value": "{letterSpacing.1}",
+              "value": "{letterSpacing.0}",
               "type": "letterSpacing"
             },
             "name": "mch_typography_editorial_headings_lg_h1_letter_spacing",
@@ -20534,7 +20496,7 @@ module.exports = {
             "filePath": "src/global.json",
             "isSource": true,
             "original": {
-              "value": "{letterSpacing.1}",
+              "value": "{letterSpacing.0}",
               "type": "letterSpacing"
             },
             "name": "mch_typography_editorial_headings_lg_h2_letter_spacing",
@@ -20761,7 +20723,7 @@ module.exports = {
             "filePath": "src/global.json",
             "isSource": true,
             "original": {
-              "value": "{letterSpacing.1}",
+              "value": "{letterSpacing.0}",
               "type": "letterSpacing"
             },
             "name": "mch_typography_editorial_headings_lg_h3_letter_spacing",
@@ -20988,7 +20950,7 @@ module.exports = {
             "filePath": "src/global.json",
             "isSource": true,
             "original": {
-              "value": "{letterSpacing.1}",
+              "value": "{letterSpacing.0}",
               "type": "letterSpacing"
             },
             "name": "mch_typography_editorial_headings_lg_h4_letter_spacing",
@@ -21215,7 +21177,7 @@ module.exports = {
             "filePath": "src/global.json",
             "isSource": true,
             "original": {
-              "value": "{letterSpacing.1}",
+              "value": "{letterSpacing.0}",
               "type": "letterSpacing"
             },
             "name": "mch_typography_editorial_headings_lg_h5_letter_spacing",
@@ -21439,7 +21401,7 @@ module.exports = {
             ]
           },
           "letterSpacing": {
-            "value": "0",
+            "value": "0%",
             "type": "letterSpacing",
             "filePath": "src/global.json",
             "isSource": true,
@@ -21671,7 +21633,7 @@ module.exports = {
             "filePath": "src/global.json",
             "isSource": true,
             "original": {
-              "value": "{letterSpacing.1}",
+              "value": "{letterSpacing.0}",
               "type": "letterSpacing"
             },
             "name": "mch_typography_editorial_headings_2_xl_h2_letter_spacing",
@@ -21898,7 +21860,7 @@ module.exports = {
             "filePath": "src/global.json",
             "isSource": true,
             "original": {
-              "value": "{letterSpacing.1}",
+              "value": "{letterSpacing.0}",
               "type": "letterSpacing"
             },
             "name": "mch_typography_editorial_headings_2_xl_h3_letter_spacing",
@@ -22125,7 +22087,7 @@ module.exports = {
             "filePath": "src/global.json",
             "isSource": true,
             "original": {
-              "value": "{letterSpacing.1}",
+              "value": "{letterSpacing.0}",
               "type": "letterSpacing"
             },
             "name": "mch_typography_editorial_headings_2_xl_h4_letter_spacing",
@@ -22352,7 +22314,7 @@ module.exports = {
             "filePath": "src/global.json",
             "isSource": true,
             "original": {
-              "value": "{letterSpacing.1}",
+              "value": "{letterSpacing.0}",
               "type": "letterSpacing"
             },
             "name": "mch_typography_editorial_headings_2_xl_h5_letter_spacing",
@@ -22574,7 +22536,7 @@ module.exports = {
           "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "{letterSpacing.1}",
+            "value": "{letterSpacing.0}",
             "type": "letterSpacing"
           },
           "name": "mch_typography_editorial_quote_quote_2_xl_letter_spacing",
@@ -22778,12 +22740,12 @@ module.exports = {
           ]
         },
         "letterSpacing": {
-          "value": "0.5%",
+          "value": "0%",
           "type": "letterSpacing",
           "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "{letterSpacing.5}",
+            "value": "{letterSpacing.0}",
             "type": "letterSpacing"
           },
           "name": "mch_typography_editorial_quote_quote_xl_letter_spacing",
@@ -22992,7 +22954,7 @@ module.exports = {
           "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "{letterSpacing.1}",
+            "value": "{letterSpacing.0}",
             "type": "letterSpacing"
           },
           "name": "mch_typography_editorial_quote_quote_lg_letter_spacing",
@@ -23201,7 +23163,7 @@ module.exports = {
           "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "{letterSpacing.1}",
+            "value": "{letterSpacing.0}",
             "type": "letterSpacing"
           },
           "name": "mch_typography_editorial_quote_quote_md_letter_spacing",
@@ -23410,7 +23372,7 @@ module.exports = {
           "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "{letterSpacing.1}",
+            "value": "{letterSpacing.0}",
             "type": "letterSpacing"
           },
           "name": "mch_typography_editorial_quote_quote_xs_sm_letter_spacing",
