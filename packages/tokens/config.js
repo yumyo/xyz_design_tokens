@@ -383,7 +383,7 @@ async function run() {
     platforms: {
       js: {
         // transformGroup: 'js',
-        transforms: ["attribute/cti","name/cti/snake","fontSize/pxToRem","color/hex", 'ts/type/fontWeight', "remove/pindent/px"],
+        transforms: ["attribute/cti","name/cti/snake","fontSize/pxToRem","color/hex", 'ts/type/fontWeight', "remove/pindent/px", "convertUnit/letterspacing/%"],
         buildPath: 'build/js/',
         prefix: "mch_",
         files: [
@@ -395,7 +395,7 @@ async function run() {
       },
       jsModule: {
         // transformGroup: 'js',
-        transforms: ["attribute/cti","name/cti/snake","fontSize/pxToRem","color/hex", 'ts/type/fontWeight', "remove/pindent/px"],
+        transforms: ["attribute/cti","name/cti/snake","fontSize/pxToRem","color/hex", 'ts/type/fontWeight', "remove/pindent/px", "convertUnit/letterspacing/%"],
         buildPath: 'build/js/',
         prefix: "mch_",
         files: [
