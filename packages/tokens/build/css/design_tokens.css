@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Wed, 13 Sep 2023 13:28:21 GMT
+ * Generated on Wed, 13 Sep 2023 13:33:43 GMT
  */
 
 :root {
@@ -277,9 +277,9 @@
   --mch_font_size_13: 2.625rem;
   --mch_font_size_14: 3rem;
   --mch_letter_spacing_0: 0rem;
-  --mch_letter_spacing_1: 0.0625rem;
-  --mch_letter_spacing_2: 0.25rem;
-  --mch_letter_spacing_3: 0.01875rem;
+  --mch_letter_spacing_1: 0.01875rem;
+  --mch_letter_spacing_2: 0.0625rem;
+  --mch_letter_spacing_3: 0.25rem;
   --mch_paragraph_spacing_0: 0;
   --mch_paragraph_spacing_1: 4;
   --mch_typography_headings_xs_sm_h1_font_family: "Art Basel Headline";

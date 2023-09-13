@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Wed, 13 Sep 2023 13:28:20 GMT
+ * Generated on Wed, 13 Sep 2023 13:33:43 GMT
  */
 
 export const mch_color_base_primary_black = "#1d2327";
@@ -276,9 +276,9 @@ export const mch_font_size_12 = "2.5rem";
 export const mch_font_size_13 = "2.625rem";
 export const mch_font_size_14 = "3rem";
 export const mch_letter_spacing_0 = "0%";
-export const mch_letter_spacing_1 = "1px";
-export const mch_letter_spacing_2 = "4px";
-export const mch_letter_spacing_3 = "0.3%";
+export const mch_letter_spacing_1 = "0.3%";
+export const mch_letter_spacing_2 = "1px";
+export const mch_letter_spacing_3 = "4px";
 export const mch_paragraph_spacing_0 = "0";
 export const mch_paragraph_spacing_1 = "4";
 export const mch_typography_headings_xs_sm_h1_font_family = "Art Basel Headline";

@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Wed, 13 Sep 2023 13:28:21 GMT
+ * Generated on Wed, 13 Sep 2023 13:33:43 GMT
  */
 
 module.exports = {
@@ -6413,12 +6413,12 @@ module.exports = {
       ]
     },
     "1": {
-      "value": "1px",
+      "value": "0.3%",
       "type": "letterSpacing",
       "filePath": "src/global.json",
       "isSource": true,
       "original": {
-        "value": "1px",
+        "value": "0.3%",
         "type": "letterSpacing"
       },
       "name": "mch_letter_spacing_1",
@@ -6432,12 +6432,12 @@ module.exports = {
       ]
     },
     "2": {
-      "value": "4px",
+      "value": "1px",
       "type": "letterSpacing",
       "filePath": "src/global.json",
       "isSource": true,
       "original": {
-        "value": "4px",
+        "value": "1px",
         "type": "letterSpacing"
       },
       "name": "mch_letter_spacing_2",
@@ -6451,12 +6451,12 @@ module.exports = {
       ]
     },
     "3": {
-      "value": "0.3%",
+      "value": "4px",
       "type": "letterSpacing",
       "filePath": "src/global.json",
       "isSource": true,
       "original": {
-        "value": "0.3%",
+        "value": "4px",
         "type": "letterSpacing"
       },
       "name": "mch_letter_spacing_3",
@@ -14124,7 +14124,7 @@ module.exports = {
           "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "{letterSpacing.2}",
+            "value": "{letterSpacing.3}",
             "type": "letterSpacing"
           },
           "name": "mch_typography_headings_fixed_01_letter_spacing",
@@ -14333,7 +14333,7 @@ module.exports = {
           "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "{letterSpacing.1}",
+            "value": "{letterSpacing.2}",
             "type": "letterSpacing"
           },
           "name": "mch_typography_headings_fixed_02_letter_spacing",
@@ -15800,7 +15800,7 @@ module.exports = {
           "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "{letterSpacing.3}",
+            "value": "{letterSpacing.1}",
             "type": "letterSpacing"
           },
           "name": "mch_typography_supporting_label_small_letter_spacing",
