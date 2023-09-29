@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Thu, 28 Sep 2023 15:37:54 GMT
+ * Generated on Fri, 29 Sep 2023 09:36:32 GMT
  */
 
 export const mch_color_base_primary_black = "#1d2327";
