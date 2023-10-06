@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Fri, 29 Sep 2023 14:13:58 GMT
+ * Generated on Fri, 06 Oct 2023 15:18:26 GMT
  */
 
 module.exports = {
@@ -6006,6 +6006,177 @@ module.exports = {
         "lineHeights",
         "19"
       ]
+    },
+    "20": {
+      "value": "8rem",
+      "type": "lineHeights",
+      "filePath": "src/global.json",
+      "isSource": true,
+      "original": {
+        "value": "128",
+        "type": "lineHeights"
+      },
+      "name": "mch_line_heights_20",
+      "attributes": {
+        "category": "lineHeights",
+        "type": "20"
+      },
+      "path": [
+        "lineHeights",
+        "20"
+      ]
+    },
+    "21": {
+      "value": "5.25rem",
+      "type": "lineHeights",
+      "filePath": "src/global.json",
+      "isSource": true,
+      "original": {
+        "value": "84",
+        "type": "lineHeights"
+      },
+      "name": "mch_line_heights_21",
+      "attributes": {
+        "category": "lineHeights",
+        "type": "21"
+      },
+      "path": [
+        "lineHeights",
+        "21"
+      ]
+    },
+    "22": {
+      "value": "6.5rem",
+      "type": "lineHeights",
+      "filePath": "src/global.json",
+      "isSource": true,
+      "original": {
+        "value": "104",
+        "type": "lineHeights"
+      },
+      "name": "mch_line_heights_22",
+      "attributes": {
+        "category": "lineHeights",
+        "type": "22"
+      },
+      "path": [
+        "lineHeights",
+        "22"
+      ]
+    },
+    "23": {
+      "value": "4.125rem",
+      "type": "lineHeights",
+      "filePath": "src/global.json",
+      "isSource": true,
+      "original": {
+        "value": "66",
+        "type": "lineHeights"
+      },
+      "name": "mch_line_heights_23",
+      "attributes": {
+        "category": "lineHeights",
+        "type": "23"
+      },
+      "path": [
+        "lineHeights",
+        "23"
+      ]
+    },
+    "24": {
+      "value": "3.25rem",
+      "type": "lineHeights",
+      "filePath": "src/global.json",
+      "isSource": true,
+      "original": {
+        "value": "52",
+        "type": "lineHeights"
+      },
+      "name": "mch_line_heights_24",
+      "attributes": {
+        "category": "lineHeights",
+        "type": "24"
+      },
+      "path": [
+        "lineHeights",
+        "24"
+      ]
+    },
+    "25": {
+      "value": "5.5rem",
+      "type": "lineHeights",
+      "filePath": "src/global.json",
+      "isSource": true,
+      "original": {
+        "value": "88",
+        "type": "lineHeights"
+      },
+      "name": "mch_line_heights_25",
+      "attributes": {
+        "category": "lineHeights",
+        "type": "25"
+      },
+      "path": [
+        "lineHeights",
+        "25"
+      ]
+    },
+    "26": {
+      "value": "3.625rem",
+      "type": "lineHeights",
+      "filePath": "src/global.json",
+      "isSource": true,
+      "original": {
+        "value": "58",
+        "type": "lineHeights"
+      },
+      "name": "mch_line_heights_26",
+      "attributes": {
+        "category": "lineHeights",
+        "type": "26"
+      },
+      "path": [
+        "lineHeights",
+        "26"
+      ]
+    },
+    "27": {
+      "value": "4.5rem",
+      "type": "lineHeights",
+      "filePath": "src/global.json",
+      "isSource": true,
+      "original": {
+        "value": "72",
+        "type": "lineHeights"
+      },
+      "name": "mch_line_heights_27",
+      "attributes": {
+        "category": "lineHeights",
+        "type": "27"
+      },
+      "path": [
+        "lineHeights",
+        "27"
+      ]
+    },
+    "28": {
+      "value": "2.5rem",
+      "type": "lineHeights",
+      "filePath": "src/global.json",
+      "isSource": true,
+      "original": {
+        "value": "40",
+        "type": "lineHeights"
+      },
+      "name": "mch_line_heights_28",
+      "attributes": {
+        "category": "lineHeights",
+        "type": "28"
+      },
+      "path": [
+        "lineHeights",
+        "28"
+      ]
     }
   },
   "fontWeights": {
@@ -6389,6 +6560,234 @@ module.exports = {
       "path": [
         "fontSize",
         "14"
+      ]
+    },
+    "15": {
+      "value": "1.75rem",
+      "type": "fontSizes",
+      "filePath": "src/global.json",
+      "isSource": true,
+      "original": {
+        "value": "28",
+        "type": "fontSizes"
+      },
+      "name": "mch_font_size_15",
+      "attributes": {
+        "category": "fontSize",
+        "type": "15"
+      },
+      "path": [
+        "fontSize",
+        "15"
+      ]
+    },
+    "16": {
+      "value": "2.75rem",
+      "type": "fontSizes",
+      "filePath": "src/global.json",
+      "isSource": true,
+      "original": {
+        "value": "44",
+        "type": "fontSizes"
+      },
+      "name": "mch_font_size_16",
+      "attributes": {
+        "category": "fontSize",
+        "type": "16"
+      },
+      "path": [
+        "fontSize",
+        "16"
+      ]
+    },
+    "17": {
+      "value": "2.875rem",
+      "type": "fontSizes",
+      "filePath": "src/global.json",
+      "isSource": true,
+      "original": {
+        "value": "46",
+        "type": "fontSizes"
+      },
+      "name": "mch_font_size_17",
+      "attributes": {
+        "category": "fontSize",
+        "type": "17"
+      },
+      "path": [
+        "fontSize",
+        "17"
+      ]
+    },
+    "18": {
+      "value": "3.25rem",
+      "type": "fontSizes",
+      "filePath": "src/global.json",
+      "isSource": true,
+      "original": {
+        "value": "52",
+        "type": "fontSizes"
+      },
+      "name": "mch_font_size_18",
+      "attributes": {
+        "category": "fontSize",
+        "type": "18"
+      },
+      "path": [
+        "fontSize",
+        "18"
+      ]
+    },
+    "19": {
+      "value": "3.625rem",
+      "type": "fontSizes",
+      "filePath": "src/global.json",
+      "isSource": true,
+      "original": {
+        "value": "58",
+        "type": "fontSizes"
+      },
+      "name": "mch_font_size_19",
+      "attributes": {
+        "category": "fontSize",
+        "type": "19"
+      },
+      "path": [
+        "fontSize",
+        "19"
+      ]
+    },
+    "20": {
+      "value": "4rem",
+      "type": "fontSizes",
+      "filePath": "src/global.json",
+      "isSource": true,
+      "original": {
+        "value": "64",
+        "type": "fontSizes"
+      },
+      "name": "mch_font_size_20",
+      "attributes": {
+        "category": "fontSize",
+        "type": "20"
+      },
+      "path": [
+        "fontSize",
+        "20"
+      ]
+    },
+    "21": {
+      "value": "4.125rem",
+      "type": "fontSizes",
+      "filePath": "src/global.json",
+      "isSource": true,
+      "original": {
+        "value": "66",
+        "type": "fontSizes"
+      },
+      "name": "mch_font_size_21",
+      "attributes": {
+        "category": "fontSize",
+        "type": "21"
+      },
+      "path": [
+        "fontSize",
+        "21"
+      ]
+    },
+    "22": {
+      "value": "4.5rem",
+      "type": "fontSizes",
+      "filePath": "src/global.json",
+      "isSource": true,
+      "original": {
+        "value": "72",
+        "type": "fontSizes"
+      },
+      "name": "mch_font_size_22",
+      "attributes": {
+        "category": "fontSize",
+        "type": "22"
+      },
+      "path": [
+        "fontSize",
+        "22"
+      ]
+    },
+    "23": {
+      "value": "5.25rem",
+      "type": "fontSizes",
+      "filePath": "src/global.json",
+      "isSource": true,
+      "original": {
+        "value": "84",
+        "type": "fontSizes"
+      },
+      "name": "mch_font_size_23",
+      "attributes": {
+        "category": "fontSize",
+        "type": "23"
+      },
+      "path": [
+        "fontSize",
+        "23"
+      ]
+    },
+    "24": {
+      "value": "5.5rem",
+      "type": "fontSizes",
+      "filePath": "src/global.json",
+      "isSource": true,
+      "original": {
+        "value": "88",
+        "type": "fontSizes"
+      },
+      "name": "mch_font_size_24",
+      "attributes": {
+        "category": "fontSize",
+        "type": "24"
+      },
+      "path": [
+        "fontSize",
+        "24"
+      ]
+    },
+    "25": {
+      "value": "6.5rem",
+      "type": "fontSizes",
+      "filePath": "src/global.json",
+      "isSource": true,
+      "original": {
+        "value": "104",
+        "type": "fontSizes"
+      },
+      "name": "mch_font_size_25",
+      "attributes": {
+        "category": "fontSize",
+        "type": "25"
+      },
+      "path": [
+        "fontSize",
+        "25"
+      ]
+    },
+    "26": {
+      "value": "8rem",
+      "type": "fontSizes",
+      "filePath": "src/global.json",
+      "isSource": true,
+      "original": {
+        "value": "128",
+        "type": "fontSizes"
+      },
+      "name": "mch_font_size_26",
+      "attributes": {
+        "category": "fontSize",
+        "type": "26"
+      },
+      "path": [
+        "fontSize",
+        "26"
       ]
     }
   },
@@ -23480,6 +23879,6828 @@ module.exports = {
             "Quote - XS-SM",
             "textDecoration"
           ]
+        }
+      }
+    },
+    "chHeadings": {
+      "2Xl": {
+        "display": {
+          "fontFamily": {
+            "value": "Ivar Display",
+            "type": "fontFamilies",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{fontFamilies.ivar-display}",
+              "type": "fontFamilies"
+            },
+            "name": "mch_typography_ch_headings_2_xl_display_font_family",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "2XL",
+              "subitem": "Display",
+              "state": "fontFamily"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "2XL",
+              "Display",
+              "fontFamily"
+            ]
+          },
+          "fontWeight": {
+            "value": "600",
+            "type": "fontWeights",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{fontWeights.ivar-display-3}",
+              "type": "fontWeights"
+            },
+            "name": "mch_typography_ch_headings_2_xl_display_font_weight",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "2XL",
+              "subitem": "Display",
+              "state": "fontWeight"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "2XL",
+              "Display",
+              "fontWeight"
+            ]
+          },
+          "lineHeight": {
+            "value": "8rem",
+            "type": "lineHeights",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{lineHeights.20}",
+              "type": "lineHeights"
+            },
+            "name": "mch_typography_ch_headings_2_xl_display_line_height",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "2XL",
+              "subitem": "Display",
+              "state": "lineHeight"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "2XL",
+              "Display",
+              "lineHeight"
+            ]
+          },
+          "fontSize": {
+            "value": "8rem",
+            "type": "fontSizes",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{fontSize.26}",
+              "type": "fontSizes"
+            },
+            "name": "mch_typography_ch_headings_2_xl_display_font_size",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "2XL",
+              "subitem": "Display",
+              "state": "fontSize"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "2XL",
+              "Display",
+              "fontSize"
+            ]
+          },
+          "letterSpacing": {
+            "value": "0rem",
+            "type": "letterSpacing",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{letterSpacing.0}",
+              "type": "letterSpacing"
+            },
+            "name": "mch_typography_ch_headings_2_xl_display_letter_spacing",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "2XL",
+              "subitem": "Display",
+              "state": "letterSpacing"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "2XL",
+              "Display",
+              "letterSpacing"
+            ]
+          },
+          "paragraphSpacing": {
+            "value": "0",
+            "type": "paragraphSpacing",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{paragraphSpacing.0}",
+              "type": "paragraphSpacing"
+            },
+            "name": "mch_typography_ch_headings_2_xl_display_paragraph_spacing",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "2XL",
+              "subitem": "Display",
+              "state": "paragraphSpacing"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "2XL",
+              "Display",
+              "paragraphSpacing"
+            ]
+          },
+          "paragraphIndent": {
+            "value": 0,
+            "type": "paragraphIndent",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{paragraphIndent.0}",
+              "type": "paragraphIndent"
+            },
+            "name": "mch_typography_ch_headings_2_xl_display_paragraph_indent",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "2XL",
+              "subitem": "Display",
+              "state": "paragraphIndent"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "2XL",
+              "Display",
+              "paragraphIndent"
+            ]
+          },
+          "textCase": {
+            "value": "none",
+            "type": "textCase",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{textCase.none}",
+              "type": "textCase"
+            },
+            "name": "mch_typography_ch_headings_2_xl_display_text_case",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "2XL",
+              "subitem": "Display",
+              "state": "textCase"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "2XL",
+              "Display",
+              "textCase"
+            ]
+          },
+          "textDecoration": {
+            "value": "none",
+            "type": "textDecoration",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{textDecoration.none}",
+              "type": "textDecoration"
+            },
+            "name": "mch_typography_ch_headings_2_xl_display_text_decoration",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "2XL",
+              "subitem": "Display",
+              "state": "textDecoration"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "2XL",
+              "Display",
+              "textDecoration"
+            ]
+          }
+        },
+        "h1": {
+          "fontFamily": {
+            "value": "Ivar Display",
+            "type": "fontFamilies",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{fontFamilies.ivar-display}",
+              "type": "fontFamilies"
+            },
+            "name": "mch_typography_ch_headings_2_xl_h1_font_family",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "2XL",
+              "subitem": "H1",
+              "state": "fontFamily"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "2XL",
+              "H1",
+              "fontFamily"
+            ]
+          },
+          "fontWeight": {
+            "value": "600",
+            "type": "fontWeights",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{fontWeights.ivar-display-3}",
+              "type": "fontWeights"
+            },
+            "name": "mch_typography_ch_headings_2_xl_h1_font_weight",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "2XL",
+              "subitem": "H1",
+              "state": "fontWeight"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "2XL",
+              "H1",
+              "fontWeight"
+            ]
+          },
+          "lineHeight": {
+            "value": "5.25rem",
+            "type": "lineHeights",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{lineHeights.21}",
+              "type": "lineHeights"
+            },
+            "name": "mch_typography_ch_headings_2_xl_h1_line_height",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "2XL",
+              "subitem": "H1",
+              "state": "lineHeight"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "2XL",
+              "H1",
+              "lineHeight"
+            ]
+          },
+          "fontSize": {
+            "value": "5.25rem",
+            "type": "fontSizes",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{fontSize.23}",
+              "type": "fontSizes"
+            },
+            "name": "mch_typography_ch_headings_2_xl_h1_font_size",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "2XL",
+              "subitem": "H1",
+              "state": "fontSize"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "2XL",
+              "H1",
+              "fontSize"
+            ]
+          },
+          "letterSpacing": {
+            "value": "0rem",
+            "type": "letterSpacing",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{letterSpacing.0}",
+              "type": "letterSpacing"
+            },
+            "name": "mch_typography_ch_headings_2_xl_h1_letter_spacing",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "2XL",
+              "subitem": "H1",
+              "state": "letterSpacing"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "2XL",
+              "H1",
+              "letterSpacing"
+            ]
+          },
+          "paragraphSpacing": {
+            "value": "0",
+            "type": "paragraphSpacing",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{paragraphSpacing.0}",
+              "type": "paragraphSpacing"
+            },
+            "name": "mch_typography_ch_headings_2_xl_h1_paragraph_spacing",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "2XL",
+              "subitem": "H1",
+              "state": "paragraphSpacing"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "2XL",
+              "H1",
+              "paragraphSpacing"
+            ]
+          },
+          "paragraphIndent": {
+            "value": 0,
+            "type": "paragraphIndent",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{paragraphIndent.0}",
+              "type": "paragraphIndent"
+            },
+            "name": "mch_typography_ch_headings_2_xl_h1_paragraph_indent",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "2XL",
+              "subitem": "H1",
+              "state": "paragraphIndent"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "2XL",
+              "H1",
+              "paragraphIndent"
+            ]
+          },
+          "textCase": {
+            "value": "none",
+            "type": "textCase",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{textCase.none}",
+              "type": "textCase"
+            },
+            "name": "mch_typography_ch_headings_2_xl_h1_text_case",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "2XL",
+              "subitem": "H1",
+              "state": "textCase"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "2XL",
+              "H1",
+              "textCase"
+            ]
+          },
+          "textDecoration": {
+            "value": "none",
+            "type": "textDecoration",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{textDecoration.none}",
+              "type": "textDecoration"
+            },
+            "name": "mch_typography_ch_headings_2_xl_h1_text_decoration",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "2XL",
+              "subitem": "H1",
+              "state": "textDecoration"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "2XL",
+              "H1",
+              "textDecoration"
+            ]
+          }
+        },
+        "h2": {
+          "fontFamily": {
+            "value": "Ivar Display",
+            "type": "fontFamilies",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{fontFamilies.ivar-display}",
+              "type": "fontFamilies"
+            },
+            "name": "mch_typography_ch_headings_2_xl_h2_font_family",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "2XL",
+              "subitem": "H2",
+              "state": "fontFamily"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "2XL",
+              "H2",
+              "fontFamily"
+            ]
+          },
+          "fontWeight": {
+            "value": "600",
+            "type": "fontWeights",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{fontWeights.ivar-display-3}",
+              "type": "fontWeights"
+            },
+            "name": "mch_typography_ch_headings_2_xl_h2_font_weight",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "2XL",
+              "subitem": "H2",
+              "state": "fontWeight"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "2XL",
+              "H2",
+              "fontWeight"
+            ]
+          },
+          "lineHeight": {
+            "value": "4rem",
+            "type": "lineHeights",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{lineHeights.17}",
+              "type": "lineHeights"
+            },
+            "name": "mch_typography_ch_headings_2_xl_h2_line_height",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "2XL",
+              "subitem": "H2",
+              "state": "lineHeight"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "2XL",
+              "H2",
+              "lineHeight"
+            ]
+          },
+          "fontSize": {
+            "value": "4rem",
+            "type": "fontSizes",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{fontSize.20}",
+              "type": "fontSizes"
+            },
+            "name": "mch_typography_ch_headings_2_xl_h2_font_size",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "2XL",
+              "subitem": "H2",
+              "state": "fontSize"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "2XL",
+              "H2",
+              "fontSize"
+            ]
+          },
+          "letterSpacing": {
+            "value": "0rem",
+            "type": "letterSpacing",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{letterSpacing.0}",
+              "type": "letterSpacing"
+            },
+            "name": "mch_typography_ch_headings_2_xl_h2_letter_spacing",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "2XL",
+              "subitem": "H2",
+              "state": "letterSpacing"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "2XL",
+              "H2",
+              "letterSpacing"
+            ]
+          },
+          "paragraphSpacing": {
+            "value": "0",
+            "type": "paragraphSpacing",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{paragraphSpacing.0}",
+              "type": "paragraphSpacing"
+            },
+            "name": "mch_typography_ch_headings_2_xl_h2_paragraph_spacing",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "2XL",
+              "subitem": "H2",
+              "state": "paragraphSpacing"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "2XL",
+              "H2",
+              "paragraphSpacing"
+            ]
+          },
+          "paragraphIndent": {
+            "value": 0,
+            "type": "paragraphIndent",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{paragraphIndent.0}",
+              "type": "paragraphIndent"
+            },
+            "name": "mch_typography_ch_headings_2_xl_h2_paragraph_indent",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "2XL",
+              "subitem": "H2",
+              "state": "paragraphIndent"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "2XL",
+              "H2",
+              "paragraphIndent"
+            ]
+          },
+          "textCase": {
+            "value": "none",
+            "type": "textCase",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{textCase.none}",
+              "type": "textCase"
+            },
+            "name": "mch_typography_ch_headings_2_xl_h2_text_case",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "2XL",
+              "subitem": "H2",
+              "state": "textCase"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "2XL",
+              "H2",
+              "textCase"
+            ]
+          },
+          "textDecoration": {
+            "value": "none",
+            "type": "textDecoration",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{textDecoration.none}",
+              "type": "textDecoration"
+            },
+            "name": "mch_typography_ch_headings_2_xl_h2_text_decoration",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "2XL",
+              "subitem": "H2",
+              "state": "textDecoration"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "2XL",
+              "H2",
+              "textDecoration"
+            ]
+          }
+        },
+        "h3": {
+          "fontFamily": {
+            "value": "Ivar Display",
+            "type": "fontFamilies",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{fontFamilies.ivar-display}",
+              "type": "fontFamilies"
+            },
+            "name": "mch_typography_ch_headings_2_xl_h3_font_family",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "2XL",
+              "subitem": "H3",
+              "state": "fontFamily"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "2XL",
+              "H3",
+              "fontFamily"
+            ]
+          },
+          "fontWeight": {
+            "value": "600",
+            "type": "fontWeights",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{fontWeights.ivar-display-3}",
+              "type": "fontWeights"
+            },
+            "name": "mch_typography_ch_headings_2_xl_h3_font_weight",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "2XL",
+              "subitem": "H3",
+              "state": "fontWeight"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "2XL",
+              "H3",
+              "fontWeight"
+            ]
+          },
+          "lineHeight": {
+            "value": "2.875rem",
+            "type": "lineHeights",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{lineHeights.9}",
+              "type": "lineHeights"
+            },
+            "name": "mch_typography_ch_headings_2_xl_h3_line_height",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "2XL",
+              "subitem": "H3",
+              "state": "lineHeight"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "2XL",
+              "H3",
+              "lineHeight"
+            ]
+          },
+          "fontSize": {
+            "value": "2.75rem",
+            "type": "fontSizes",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{fontSize.16}",
+              "type": "fontSizes"
+            },
+            "name": "mch_typography_ch_headings_2_xl_h3_font_size",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "2XL",
+              "subitem": "H3",
+              "state": "fontSize"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "2XL",
+              "H3",
+              "fontSize"
+            ]
+          },
+          "letterSpacing": {
+            "value": "0rem",
+            "type": "letterSpacing",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{letterSpacing.0}",
+              "type": "letterSpacing"
+            },
+            "name": "mch_typography_ch_headings_2_xl_h3_letter_spacing",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "2XL",
+              "subitem": "H3",
+              "state": "letterSpacing"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "2XL",
+              "H3",
+              "letterSpacing"
+            ]
+          },
+          "paragraphSpacing": {
+            "value": "0",
+            "type": "paragraphSpacing",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{paragraphSpacing.0}",
+              "type": "paragraphSpacing"
+            },
+            "name": "mch_typography_ch_headings_2_xl_h3_paragraph_spacing",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "2XL",
+              "subitem": "H3",
+              "state": "paragraphSpacing"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "2XL",
+              "H3",
+              "paragraphSpacing"
+            ]
+          },
+          "paragraphIndent": {
+            "value": 0,
+            "type": "paragraphIndent",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{paragraphIndent.0}",
+              "type": "paragraphIndent"
+            },
+            "name": "mch_typography_ch_headings_2_xl_h3_paragraph_indent",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "2XL",
+              "subitem": "H3",
+              "state": "paragraphIndent"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "2XL",
+              "H3",
+              "paragraphIndent"
+            ]
+          },
+          "textCase": {
+            "value": "none",
+            "type": "textCase",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{textCase.none}",
+              "type": "textCase"
+            },
+            "name": "mch_typography_ch_headings_2_xl_h3_text_case",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "2XL",
+              "subitem": "H3",
+              "state": "textCase"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "2XL",
+              "H3",
+              "textCase"
+            ]
+          },
+          "textDecoration": {
+            "value": "none",
+            "type": "textDecoration",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{textDecoration.none}",
+              "type": "textDecoration"
+            },
+            "name": "mch_typography_ch_headings_2_xl_h3_text_decoration",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "2XL",
+              "subitem": "H3",
+              "state": "textDecoration"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "2XL",
+              "H3",
+              "textDecoration"
+            ]
+          }
+        },
+        "h4": {
+          "fontFamily": {
+            "value": "Ivar Display",
+            "type": "fontFamilies",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{fontFamilies.ivar-display}",
+              "type": "fontFamilies"
+            },
+            "name": "mch_typography_ch_headings_2_xl_h4_font_family",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "2XL",
+              "subitem": "H4",
+              "state": "fontFamily"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "2XL",
+              "H4",
+              "fontFamily"
+            ]
+          },
+          "fontWeight": {
+            "value": "600",
+            "type": "fontWeights",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{fontWeights.ivar-display-3}",
+              "type": "fontWeights"
+            },
+            "name": "mch_typography_ch_headings_2_xl_h4_font_weight",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "2XL",
+              "subitem": "H4",
+              "state": "fontWeight"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "2XL",
+              "H4",
+              "fontWeight"
+            ]
+          },
+          "lineHeight": {
+            "value": "2.125rem",
+            "type": "lineHeights",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{lineHeights.7}",
+              "type": "lineHeights"
+            },
+            "name": "mch_typography_ch_headings_2_xl_h4_line_height",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "2XL",
+              "subitem": "H4",
+              "state": "lineHeight"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "2XL",
+              "H4",
+              "lineHeight"
+            ]
+          },
+          "fontSize": {
+            "value": "1.875rem",
+            "type": "fontSizes",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{fontSize.7}",
+              "type": "fontSizes"
+            },
+            "name": "mch_typography_ch_headings_2_xl_h4_font_size",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "2XL",
+              "subitem": "H4",
+              "state": "fontSize"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "2XL",
+              "H4",
+              "fontSize"
+            ]
+          },
+          "letterSpacing": {
+            "value": "0rem",
+            "type": "letterSpacing",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{letterSpacing.0}",
+              "type": "letterSpacing"
+            },
+            "name": "mch_typography_ch_headings_2_xl_h4_letter_spacing",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "2XL",
+              "subitem": "H4",
+              "state": "letterSpacing"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "2XL",
+              "H4",
+              "letterSpacing"
+            ]
+          },
+          "paragraphSpacing": {
+            "value": "0",
+            "type": "paragraphSpacing",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{paragraphSpacing.0}",
+              "type": "paragraphSpacing"
+            },
+            "name": "mch_typography_ch_headings_2_xl_h4_paragraph_spacing",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "2XL",
+              "subitem": "H4",
+              "state": "paragraphSpacing"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "2XL",
+              "H4",
+              "paragraphSpacing"
+            ]
+          },
+          "paragraphIndent": {
+            "value": 0,
+            "type": "paragraphIndent",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{paragraphIndent.0}",
+              "type": "paragraphIndent"
+            },
+            "name": "mch_typography_ch_headings_2_xl_h4_paragraph_indent",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "2XL",
+              "subitem": "H4",
+              "state": "paragraphIndent"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "2XL",
+              "H4",
+              "paragraphIndent"
+            ]
+          },
+          "textCase": {
+            "value": "none",
+            "type": "textCase",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{textCase.none}",
+              "type": "textCase"
+            },
+            "name": "mch_typography_ch_headings_2_xl_h4_text_case",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "2XL",
+              "subitem": "H4",
+              "state": "textCase"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "2XL",
+              "H4",
+              "textCase"
+            ]
+          },
+          "textDecoration": {
+            "value": "none",
+            "type": "textDecoration",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{textDecoration.none}",
+              "type": "textDecoration"
+            },
+            "name": "mch_typography_ch_headings_2_xl_h4_text_decoration",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "2XL",
+              "subitem": "H4",
+              "state": "textDecoration"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "2XL",
+              "H4",
+              "textDecoration"
+            ]
+          }
+        },
+        "h5": {
+          "fontFamily": {
+            "value": "Ivar Display",
+            "type": "fontFamilies",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{fontFamilies.ivar-display}",
+              "type": "fontFamilies"
+            },
+            "name": "mch_typography_ch_headings_2_xl_h5_font_family",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "2XL",
+              "subitem": "H5",
+              "state": "fontFamily"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "2XL",
+              "H5",
+              "fontFamily"
+            ]
+          },
+          "fontWeight": {
+            "value": "600",
+            "type": "fontWeights",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{fontWeights.ivar-display-3}",
+              "type": "fontWeights"
+            },
+            "name": "mch_typography_ch_headings_2_xl_h5_font_weight",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "2XL",
+              "subitem": "H5",
+              "state": "fontWeight"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "2XL",
+              "H5",
+              "fontWeight"
+            ]
+          },
+          "lineHeight": {
+            "value": "1.5rem",
+            "type": "lineHeights",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{lineHeights.12}",
+              "type": "lineHeights"
+            },
+            "name": "mch_typography_ch_headings_2_xl_h5_line_height",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "2XL",
+              "subitem": "H5",
+              "state": "lineHeight"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "2XL",
+              "H5",
+              "lineHeight"
+            ]
+          },
+          "fontSize": {
+            "value": "1.25rem",
+            "type": "fontSizes",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{fontSize.4}",
+              "type": "fontSizes"
+            },
+            "name": "mch_typography_ch_headings_2_xl_h5_font_size",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "2XL",
+              "subitem": "H5",
+              "state": "fontSize"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "2XL",
+              "H5",
+              "fontSize"
+            ]
+          },
+          "letterSpacing": {
+            "value": "0rem",
+            "type": "letterSpacing",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{letterSpacing.0}",
+              "type": "letterSpacing"
+            },
+            "name": "mch_typography_ch_headings_2_xl_h5_letter_spacing",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "2XL",
+              "subitem": "H5",
+              "state": "letterSpacing"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "2XL",
+              "H5",
+              "letterSpacing"
+            ]
+          },
+          "paragraphSpacing": {
+            "value": "0",
+            "type": "paragraphSpacing",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{paragraphSpacing.0}",
+              "type": "paragraphSpacing"
+            },
+            "name": "mch_typography_ch_headings_2_xl_h5_paragraph_spacing",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "2XL",
+              "subitem": "H5",
+              "state": "paragraphSpacing"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "2XL",
+              "H5",
+              "paragraphSpacing"
+            ]
+          },
+          "paragraphIndent": {
+            "value": 0,
+            "type": "paragraphIndent",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{paragraphIndent.0}",
+              "type": "paragraphIndent"
+            },
+            "name": "mch_typography_ch_headings_2_xl_h5_paragraph_indent",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "2XL",
+              "subitem": "H5",
+              "state": "paragraphIndent"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "2XL",
+              "H5",
+              "paragraphIndent"
+            ]
+          },
+          "textCase": {
+            "value": "none",
+            "type": "textCase",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{textCase.none}",
+              "type": "textCase"
+            },
+            "name": "mch_typography_ch_headings_2_xl_h5_text_case",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "2XL",
+              "subitem": "H5",
+              "state": "textCase"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "2XL",
+              "H5",
+              "textCase"
+            ]
+          },
+          "textDecoration": {
+            "value": "none",
+            "type": "textDecoration",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{textDecoration.none}",
+              "type": "textDecoration"
+            },
+            "name": "mch_typography_ch_headings_2_xl_h5_text_decoration",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "2XL",
+              "subitem": "H5",
+              "state": "textDecoration"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "2XL",
+              "H5",
+              "textDecoration"
+            ]
+          }
+        }
+      },
+      "xl": {
+        "display": {
+          "fontFamily": {
+            "value": "Ivar Display",
+            "type": "fontFamilies",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{fontFamilies.ivar-display}",
+              "type": "fontFamilies"
+            },
+            "name": "mch_typography_ch_headings_xl_display_font_family",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "XL",
+              "subitem": "Display",
+              "state": "fontFamily"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "XL",
+              "Display",
+              "fontFamily"
+            ]
+          },
+          "fontWeight": {
+            "value": "600",
+            "type": "fontWeights",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{fontWeights.ivar-display-3}",
+              "type": "fontWeights"
+            },
+            "name": "mch_typography_ch_headings_xl_display_font_weight",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "XL",
+              "subitem": "Display",
+              "state": "fontWeight"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "XL",
+              "Display",
+              "fontWeight"
+            ]
+          },
+          "lineHeight": {
+            "value": "8rem",
+            "type": "lineHeights",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{lineHeights.20}",
+              "type": "lineHeights"
+            },
+            "name": "mch_typography_ch_headings_xl_display_line_height",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "XL",
+              "subitem": "Display",
+              "state": "lineHeight"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "XL",
+              "Display",
+              "lineHeight"
+            ]
+          },
+          "fontSize": {
+            "value": "8rem",
+            "type": "fontSizes",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{fontSize.26}",
+              "type": "fontSizes"
+            },
+            "name": "mch_typography_ch_headings_xl_display_font_size",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "XL",
+              "subitem": "Display",
+              "state": "fontSize"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "XL",
+              "Display",
+              "fontSize"
+            ]
+          },
+          "letterSpacing": {
+            "value": "0rem",
+            "type": "letterSpacing",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{letterSpacing.0}",
+              "type": "letterSpacing"
+            },
+            "name": "mch_typography_ch_headings_xl_display_letter_spacing",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "XL",
+              "subitem": "Display",
+              "state": "letterSpacing"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "XL",
+              "Display",
+              "letterSpacing"
+            ]
+          },
+          "paragraphSpacing": {
+            "value": "0",
+            "type": "paragraphSpacing",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{paragraphSpacing.0}",
+              "type": "paragraphSpacing"
+            },
+            "name": "mch_typography_ch_headings_xl_display_paragraph_spacing",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "XL",
+              "subitem": "Display",
+              "state": "paragraphSpacing"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "XL",
+              "Display",
+              "paragraphSpacing"
+            ]
+          },
+          "paragraphIndent": {
+            "value": 0,
+            "type": "paragraphIndent",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{paragraphIndent.0}",
+              "type": "paragraphIndent"
+            },
+            "name": "mch_typography_ch_headings_xl_display_paragraph_indent",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "XL",
+              "subitem": "Display",
+              "state": "paragraphIndent"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "XL",
+              "Display",
+              "paragraphIndent"
+            ]
+          },
+          "textCase": {
+            "value": "none",
+            "type": "textCase",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{textCase.none}",
+              "type": "textCase"
+            },
+            "name": "mch_typography_ch_headings_xl_display_text_case",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "XL",
+              "subitem": "Display",
+              "state": "textCase"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "XL",
+              "Display",
+              "textCase"
+            ]
+          },
+          "textDecoration": {
+            "value": "none",
+            "type": "textDecoration",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{textDecoration.none}",
+              "type": "textDecoration"
+            },
+            "name": "mch_typography_ch_headings_xl_display_text_decoration",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "XL",
+              "subitem": "Display",
+              "state": "textDecoration"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "XL",
+              "Display",
+              "textDecoration"
+            ]
+          }
+        },
+        "h1": {
+          "fontFamily": {
+            "value": "Ivar Display",
+            "type": "fontFamilies",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{fontFamilies.ivar-display}",
+              "type": "fontFamilies"
+            },
+            "name": "mch_typography_ch_headings_xl_h1_font_family",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "XL",
+              "subitem": "H1",
+              "state": "fontFamily"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "XL",
+              "H1",
+              "fontFamily"
+            ]
+          },
+          "fontWeight": {
+            "value": "600",
+            "type": "fontWeights",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{fontWeights.ivar-display-3}",
+              "type": "fontWeights"
+            },
+            "name": "mch_typography_ch_headings_xl_h1_font_weight",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "XL",
+              "subitem": "H1",
+              "state": "fontWeight"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "XL",
+              "H1",
+              "fontWeight"
+            ]
+          },
+          "lineHeight": {
+            "value": "5.25rem",
+            "type": "lineHeights",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{lineHeights.21}",
+              "type": "lineHeights"
+            },
+            "name": "mch_typography_ch_headings_xl_h1_line_height",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "XL",
+              "subitem": "H1",
+              "state": "lineHeight"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "XL",
+              "H1",
+              "lineHeight"
+            ]
+          },
+          "fontSize": {
+            "value": "5.25rem",
+            "type": "fontSizes",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{fontSize.23}",
+              "type": "fontSizes"
+            },
+            "name": "mch_typography_ch_headings_xl_h1_font_size",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "XL",
+              "subitem": "H1",
+              "state": "fontSize"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "XL",
+              "H1",
+              "fontSize"
+            ]
+          },
+          "letterSpacing": {
+            "value": "0rem",
+            "type": "letterSpacing",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{letterSpacing.0}",
+              "type": "letterSpacing"
+            },
+            "name": "mch_typography_ch_headings_xl_h1_letter_spacing",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "XL",
+              "subitem": "H1",
+              "state": "letterSpacing"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "XL",
+              "H1",
+              "letterSpacing"
+            ]
+          },
+          "paragraphSpacing": {
+            "value": "0",
+            "type": "paragraphSpacing",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{paragraphSpacing.0}",
+              "type": "paragraphSpacing"
+            },
+            "name": "mch_typography_ch_headings_xl_h1_paragraph_spacing",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "XL",
+              "subitem": "H1",
+              "state": "paragraphSpacing"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "XL",
+              "H1",
+              "paragraphSpacing"
+            ]
+          },
+          "paragraphIndent": {
+            "value": 0,
+            "type": "paragraphIndent",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{paragraphIndent.0}",
+              "type": "paragraphIndent"
+            },
+            "name": "mch_typography_ch_headings_xl_h1_paragraph_indent",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "XL",
+              "subitem": "H1",
+              "state": "paragraphIndent"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "XL",
+              "H1",
+              "paragraphIndent"
+            ]
+          },
+          "textCase": {
+            "value": "none",
+            "type": "textCase",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{textCase.none}",
+              "type": "textCase"
+            },
+            "name": "mch_typography_ch_headings_xl_h1_text_case",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "XL",
+              "subitem": "H1",
+              "state": "textCase"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "XL",
+              "H1",
+              "textCase"
+            ]
+          },
+          "textDecoration": {
+            "value": "none",
+            "type": "textDecoration",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{textDecoration.none}",
+              "type": "textDecoration"
+            },
+            "name": "mch_typography_ch_headings_xl_h1_text_decoration",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "XL",
+              "subitem": "H1",
+              "state": "textDecoration"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "XL",
+              "H1",
+              "textDecoration"
+            ]
+          }
+        },
+        "h2": {
+          "fontFamily": {
+            "value": "Ivar Display",
+            "type": "fontFamilies",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{fontFamilies.ivar-display}",
+              "type": "fontFamilies"
+            },
+            "name": "mch_typography_ch_headings_xl_h2_font_family",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "XL",
+              "subitem": "H2",
+              "state": "fontFamily"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "XL",
+              "H2",
+              "fontFamily"
+            ]
+          },
+          "fontWeight": {
+            "value": "600",
+            "type": "fontWeights",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{fontWeights.ivar-display-3}",
+              "type": "fontWeights"
+            },
+            "name": "mch_typography_ch_headings_xl_h2_font_weight",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "XL",
+              "subitem": "H2",
+              "state": "fontWeight"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "XL",
+              "H2",
+              "fontWeight"
+            ]
+          },
+          "lineHeight": {
+            "value": "4rem",
+            "type": "lineHeights",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{lineHeights.17}",
+              "type": "lineHeights"
+            },
+            "name": "mch_typography_ch_headings_xl_h2_line_height",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "XL",
+              "subitem": "H2",
+              "state": "lineHeight"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "XL",
+              "H2",
+              "lineHeight"
+            ]
+          },
+          "fontSize": {
+            "value": "4rem",
+            "type": "fontSizes",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{fontSize.20}",
+              "type": "fontSizes"
+            },
+            "name": "mch_typography_ch_headings_xl_h2_font_size",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "XL",
+              "subitem": "H2",
+              "state": "fontSize"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "XL",
+              "H2",
+              "fontSize"
+            ]
+          },
+          "letterSpacing": {
+            "value": "0rem",
+            "type": "letterSpacing",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{letterSpacing.0}",
+              "type": "letterSpacing"
+            },
+            "name": "mch_typography_ch_headings_xl_h2_letter_spacing",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "XL",
+              "subitem": "H2",
+              "state": "letterSpacing"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "XL",
+              "H2",
+              "letterSpacing"
+            ]
+          },
+          "paragraphSpacing": {
+            "value": "0",
+            "type": "paragraphSpacing",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{paragraphSpacing.0}",
+              "type": "paragraphSpacing"
+            },
+            "name": "mch_typography_ch_headings_xl_h2_paragraph_spacing",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "XL",
+              "subitem": "H2",
+              "state": "paragraphSpacing"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "XL",
+              "H2",
+              "paragraphSpacing"
+            ]
+          },
+          "paragraphIndent": {
+            "value": 0,
+            "type": "paragraphIndent",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{paragraphIndent.0}",
+              "type": "paragraphIndent"
+            },
+            "name": "mch_typography_ch_headings_xl_h2_paragraph_indent",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "XL",
+              "subitem": "H2",
+              "state": "paragraphIndent"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "XL",
+              "H2",
+              "paragraphIndent"
+            ]
+          },
+          "textCase": {
+            "value": "none",
+            "type": "textCase",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{textCase.none}",
+              "type": "textCase"
+            },
+            "name": "mch_typography_ch_headings_xl_h2_text_case",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "XL",
+              "subitem": "H2",
+              "state": "textCase"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "XL",
+              "H2",
+              "textCase"
+            ]
+          },
+          "textDecoration": {
+            "value": "none",
+            "type": "textDecoration",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{textDecoration.none}",
+              "type": "textDecoration"
+            },
+            "name": "mch_typography_ch_headings_xl_h2_text_decoration",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "XL",
+              "subitem": "H2",
+              "state": "textDecoration"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "XL",
+              "H2",
+              "textDecoration"
+            ]
+          }
+        },
+        "h3": {
+          "fontFamily": {
+            "value": "Ivar Display",
+            "type": "fontFamilies",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{fontFamilies.ivar-display}",
+              "type": "fontFamilies"
+            },
+            "name": "mch_typography_ch_headings_xl_h3_font_family",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "XL",
+              "subitem": "H3",
+              "state": "fontFamily"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "XL",
+              "H3",
+              "fontFamily"
+            ]
+          },
+          "fontWeight": {
+            "value": "600",
+            "type": "fontWeights",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{fontWeights.ivar-display-3}",
+              "type": "fontWeights"
+            },
+            "name": "mch_typography_ch_headings_xl_h3_font_weight",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "XL",
+              "subitem": "H3",
+              "state": "fontWeight"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "XL",
+              "H3",
+              "fontWeight"
+            ]
+          },
+          "lineHeight": {
+            "value": "2.875rem",
+            "type": "lineHeights",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{lineHeights.9}",
+              "type": "lineHeights"
+            },
+            "name": "mch_typography_ch_headings_xl_h3_line_height",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "XL",
+              "subitem": "H3",
+              "state": "lineHeight"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "XL",
+              "H3",
+              "lineHeight"
+            ]
+          },
+          "fontSize": {
+            "value": "2.75rem",
+            "type": "fontSizes",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{fontSize.16}",
+              "type": "fontSizes"
+            },
+            "name": "mch_typography_ch_headings_xl_h3_font_size",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "XL",
+              "subitem": "H3",
+              "state": "fontSize"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "XL",
+              "H3",
+              "fontSize"
+            ]
+          },
+          "letterSpacing": {
+            "value": "0rem",
+            "type": "letterSpacing",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{letterSpacing.0}",
+              "type": "letterSpacing"
+            },
+            "name": "mch_typography_ch_headings_xl_h3_letter_spacing",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "XL",
+              "subitem": "H3",
+              "state": "letterSpacing"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "XL",
+              "H3",
+              "letterSpacing"
+            ]
+          },
+          "paragraphSpacing": {
+            "value": "0",
+            "type": "paragraphSpacing",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{paragraphSpacing.0}",
+              "type": "paragraphSpacing"
+            },
+            "name": "mch_typography_ch_headings_xl_h3_paragraph_spacing",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "XL",
+              "subitem": "H3",
+              "state": "paragraphSpacing"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "XL",
+              "H3",
+              "paragraphSpacing"
+            ]
+          },
+          "paragraphIndent": {
+            "value": 0,
+            "type": "paragraphIndent",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{paragraphIndent.0}",
+              "type": "paragraphIndent"
+            },
+            "name": "mch_typography_ch_headings_xl_h3_paragraph_indent",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "XL",
+              "subitem": "H3",
+              "state": "paragraphIndent"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "XL",
+              "H3",
+              "paragraphIndent"
+            ]
+          },
+          "textCase": {
+            "value": "none",
+            "type": "textCase",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{textCase.none}",
+              "type": "textCase"
+            },
+            "name": "mch_typography_ch_headings_xl_h3_text_case",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "XL",
+              "subitem": "H3",
+              "state": "textCase"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "XL",
+              "H3",
+              "textCase"
+            ]
+          },
+          "textDecoration": {
+            "value": "none",
+            "type": "textDecoration",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{textDecoration.none}",
+              "type": "textDecoration"
+            },
+            "name": "mch_typography_ch_headings_xl_h3_text_decoration",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "XL",
+              "subitem": "H3",
+              "state": "textDecoration"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "XL",
+              "H3",
+              "textDecoration"
+            ]
+          }
+        },
+        "h4": {
+          "fontFamily": {
+            "value": "Ivar Display",
+            "type": "fontFamilies",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{fontFamilies.ivar-display}",
+              "type": "fontFamilies"
+            },
+            "name": "mch_typography_ch_headings_xl_h4_font_family",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "XL",
+              "subitem": "H4",
+              "state": "fontFamily"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "XL",
+              "H4",
+              "fontFamily"
+            ]
+          },
+          "fontWeight": {
+            "value": "600",
+            "type": "fontWeights",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{fontWeights.ivar-display-3}",
+              "type": "fontWeights"
+            },
+            "name": "mch_typography_ch_headings_xl_h4_font_weight",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "XL",
+              "subitem": "H4",
+              "state": "fontWeight"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "XL",
+              "H4",
+              "fontWeight"
+            ]
+          },
+          "lineHeight": {
+            "value": "2.125rem",
+            "type": "lineHeights",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{lineHeights.7}",
+              "type": "lineHeights"
+            },
+            "name": "mch_typography_ch_headings_xl_h4_line_height",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "XL",
+              "subitem": "H4",
+              "state": "lineHeight"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "XL",
+              "H4",
+              "lineHeight"
+            ]
+          },
+          "fontSize": {
+            "value": "1.875rem",
+            "type": "fontSizes",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{fontSize.7}",
+              "type": "fontSizes"
+            },
+            "name": "mch_typography_ch_headings_xl_h4_font_size",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "XL",
+              "subitem": "H4",
+              "state": "fontSize"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "XL",
+              "H4",
+              "fontSize"
+            ]
+          },
+          "letterSpacing": {
+            "value": "0rem",
+            "type": "letterSpacing",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{letterSpacing.0}",
+              "type": "letterSpacing"
+            },
+            "name": "mch_typography_ch_headings_xl_h4_letter_spacing",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "XL",
+              "subitem": "H4",
+              "state": "letterSpacing"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "XL",
+              "H4",
+              "letterSpacing"
+            ]
+          },
+          "paragraphSpacing": {
+            "value": "0",
+            "type": "paragraphSpacing",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{paragraphSpacing.0}",
+              "type": "paragraphSpacing"
+            },
+            "name": "mch_typography_ch_headings_xl_h4_paragraph_spacing",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "XL",
+              "subitem": "H4",
+              "state": "paragraphSpacing"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "XL",
+              "H4",
+              "paragraphSpacing"
+            ]
+          },
+          "paragraphIndent": {
+            "value": 0,
+            "type": "paragraphIndent",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{paragraphIndent.0}",
+              "type": "paragraphIndent"
+            },
+            "name": "mch_typography_ch_headings_xl_h4_paragraph_indent",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "XL",
+              "subitem": "H4",
+              "state": "paragraphIndent"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "XL",
+              "H4",
+              "paragraphIndent"
+            ]
+          },
+          "textCase": {
+            "value": "none",
+            "type": "textCase",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{textCase.none}",
+              "type": "textCase"
+            },
+            "name": "mch_typography_ch_headings_xl_h4_text_case",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "XL",
+              "subitem": "H4",
+              "state": "textCase"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "XL",
+              "H4",
+              "textCase"
+            ]
+          },
+          "textDecoration": {
+            "value": "none",
+            "type": "textDecoration",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{textDecoration.none}",
+              "type": "textDecoration"
+            },
+            "name": "mch_typography_ch_headings_xl_h4_text_decoration",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "XL",
+              "subitem": "H4",
+              "state": "textDecoration"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "XL",
+              "H4",
+              "textDecoration"
+            ]
+          }
+        },
+        "h5": {
+          "fontFamily": {
+            "value": "Ivar Display",
+            "type": "fontFamilies",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{fontFamilies.ivar-display}",
+              "type": "fontFamilies"
+            },
+            "name": "mch_typography_ch_headings_xl_h5_font_family",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "XL",
+              "subitem": "H5",
+              "state": "fontFamily"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "XL",
+              "H5",
+              "fontFamily"
+            ]
+          },
+          "fontWeight": {
+            "value": "600",
+            "type": "fontWeights",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{fontWeights.ivar-display-3}",
+              "type": "fontWeights"
+            },
+            "name": "mch_typography_ch_headings_xl_h5_font_weight",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "XL",
+              "subitem": "H5",
+              "state": "fontWeight"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "XL",
+              "H5",
+              "fontWeight"
+            ]
+          },
+          "lineHeight": {
+            "value": "1.5rem",
+            "type": "lineHeights",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{lineHeights.12}",
+              "type": "lineHeights"
+            },
+            "name": "mch_typography_ch_headings_xl_h5_line_height",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "XL",
+              "subitem": "H5",
+              "state": "lineHeight"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "XL",
+              "H5",
+              "lineHeight"
+            ]
+          },
+          "fontSize": {
+            "value": "1.25rem",
+            "type": "fontSizes",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{fontSize.4}",
+              "type": "fontSizes"
+            },
+            "name": "mch_typography_ch_headings_xl_h5_font_size",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "XL",
+              "subitem": "H5",
+              "state": "fontSize"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "XL",
+              "H5",
+              "fontSize"
+            ]
+          },
+          "letterSpacing": {
+            "value": "0rem",
+            "type": "letterSpacing",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{letterSpacing.0}",
+              "type": "letterSpacing"
+            },
+            "name": "mch_typography_ch_headings_xl_h5_letter_spacing",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "XL",
+              "subitem": "H5",
+              "state": "letterSpacing"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "XL",
+              "H5",
+              "letterSpacing"
+            ]
+          },
+          "paragraphSpacing": {
+            "value": "0",
+            "type": "paragraphSpacing",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{paragraphSpacing.0}",
+              "type": "paragraphSpacing"
+            },
+            "name": "mch_typography_ch_headings_xl_h5_paragraph_spacing",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "XL",
+              "subitem": "H5",
+              "state": "paragraphSpacing"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "XL",
+              "H5",
+              "paragraphSpacing"
+            ]
+          },
+          "paragraphIndent": {
+            "value": 0,
+            "type": "paragraphIndent",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{paragraphIndent.0}",
+              "type": "paragraphIndent"
+            },
+            "name": "mch_typography_ch_headings_xl_h5_paragraph_indent",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "XL",
+              "subitem": "H5",
+              "state": "paragraphIndent"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "XL",
+              "H5",
+              "paragraphIndent"
+            ]
+          },
+          "textCase": {
+            "value": "none",
+            "type": "textCase",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{textCase.none}",
+              "type": "textCase"
+            },
+            "name": "mch_typography_ch_headings_xl_h5_text_case",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "XL",
+              "subitem": "H5",
+              "state": "textCase"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "XL",
+              "H5",
+              "textCase"
+            ]
+          },
+          "textDecoration": {
+            "value": "none",
+            "type": "textDecoration",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{textDecoration.none}",
+              "type": "textDecoration"
+            },
+            "name": "mch_typography_ch_headings_xl_h5_text_decoration",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "XL",
+              "subitem": "H5",
+              "state": "textDecoration"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "XL",
+              "H5",
+              "textDecoration"
+            ]
+          }
+        }
+      },
+      "lg": {
+        "display": {
+          "fontFamily": {
+            "value": "Ivar Display",
+            "type": "fontFamilies",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{fontFamilies.ivar-display}",
+              "type": "fontFamilies"
+            },
+            "name": "mch_typography_ch_headings_lg_display_font_family",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "LG",
+              "subitem": "Display",
+              "state": "fontFamily"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "LG",
+              "Display",
+              "fontFamily"
+            ]
+          },
+          "fontWeight": {
+            "value": "600",
+            "type": "fontWeights",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{fontWeights.ivar-display-3}",
+              "type": "fontWeights"
+            },
+            "name": "mch_typography_ch_headings_lg_display_font_weight",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "LG",
+              "subitem": "Display",
+              "state": "fontWeight"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "LG",
+              "Display",
+              "fontWeight"
+            ]
+          },
+          "lineHeight": {
+            "value": "6.5rem",
+            "type": "lineHeights",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{lineHeights.22}",
+              "type": "lineHeights"
+            },
+            "name": "mch_typography_ch_headings_lg_display_line_height",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "LG",
+              "subitem": "Display",
+              "state": "lineHeight"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "LG",
+              "Display",
+              "lineHeight"
+            ]
+          },
+          "fontSize": {
+            "value": "6.5rem",
+            "type": "fontSizes",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{fontSize.25}",
+              "type": "fontSizes"
+            },
+            "name": "mch_typography_ch_headings_lg_display_font_size",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "LG",
+              "subitem": "Display",
+              "state": "fontSize"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "LG",
+              "Display",
+              "fontSize"
+            ]
+          },
+          "letterSpacing": {
+            "value": "0rem",
+            "type": "letterSpacing",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{letterSpacing.0}",
+              "type": "letterSpacing"
+            },
+            "name": "mch_typography_ch_headings_lg_display_letter_spacing",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "LG",
+              "subitem": "Display",
+              "state": "letterSpacing"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "LG",
+              "Display",
+              "letterSpacing"
+            ]
+          },
+          "paragraphSpacing": {
+            "value": "0",
+            "type": "paragraphSpacing",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{paragraphSpacing.0}",
+              "type": "paragraphSpacing"
+            },
+            "name": "mch_typography_ch_headings_lg_display_paragraph_spacing",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "LG",
+              "subitem": "Display",
+              "state": "paragraphSpacing"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "LG",
+              "Display",
+              "paragraphSpacing"
+            ]
+          },
+          "paragraphIndent": {
+            "value": 0,
+            "type": "paragraphIndent",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{paragraphIndent.0}",
+              "type": "paragraphIndent"
+            },
+            "name": "mch_typography_ch_headings_lg_display_paragraph_indent",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "LG",
+              "subitem": "Display",
+              "state": "paragraphIndent"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "LG",
+              "Display",
+              "paragraphIndent"
+            ]
+          },
+          "textCase": {
+            "value": "none",
+            "type": "textCase",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{textCase.none}",
+              "type": "textCase"
+            },
+            "name": "mch_typography_ch_headings_lg_display_text_case",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "LG",
+              "subitem": "Display",
+              "state": "textCase"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "LG",
+              "Display",
+              "textCase"
+            ]
+          },
+          "textDecoration": {
+            "value": "none",
+            "type": "textDecoration",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{textDecoration.none}",
+              "type": "textDecoration"
+            },
+            "name": "mch_typography_ch_headings_lg_display_text_decoration",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "LG",
+              "subitem": "Display",
+              "state": "textDecoration"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "LG",
+              "Display",
+              "textDecoration"
+            ]
+          }
+        },
+        "h1": {
+          "fontFamily": {
+            "value": "Ivar Display",
+            "type": "fontFamilies",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{fontFamilies.ivar-display}",
+              "type": "fontFamilies"
+            },
+            "name": "mch_typography_ch_headings_lg_h1_font_family",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "LG",
+              "subitem": "H1",
+              "state": "fontFamily"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "LG",
+              "H1",
+              "fontFamily"
+            ]
+          },
+          "fontWeight": {
+            "value": "600",
+            "type": "fontWeights",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{fontWeights.ivar-display-3}",
+              "type": "fontWeights"
+            },
+            "name": "mch_typography_ch_headings_lg_h1_font_weight",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "LG",
+              "subitem": "H1",
+              "state": "fontWeight"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "LG",
+              "H1",
+              "fontWeight"
+            ]
+          },
+          "lineHeight": {
+            "value": "4.125rem",
+            "type": "lineHeights",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{lineHeights.23}",
+              "type": "lineHeights"
+            },
+            "name": "mch_typography_ch_headings_lg_h1_line_height",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "LG",
+              "subitem": "H1",
+              "state": "lineHeight"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "LG",
+              "H1",
+              "lineHeight"
+            ]
+          },
+          "fontSize": {
+            "value": "4.125rem",
+            "type": "fontSizes",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{fontSize.21}",
+              "type": "fontSizes"
+            },
+            "name": "mch_typography_ch_headings_lg_h1_font_size",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "LG",
+              "subitem": "H1",
+              "state": "fontSize"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "LG",
+              "H1",
+              "fontSize"
+            ]
+          },
+          "letterSpacing": {
+            "value": "0rem",
+            "type": "letterSpacing",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{letterSpacing.0}",
+              "type": "letterSpacing"
+            },
+            "name": "mch_typography_ch_headings_lg_h1_letter_spacing",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "LG",
+              "subitem": "H1",
+              "state": "letterSpacing"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "LG",
+              "H1",
+              "letterSpacing"
+            ]
+          },
+          "paragraphSpacing": {
+            "value": "0",
+            "type": "paragraphSpacing",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{paragraphSpacing.0}",
+              "type": "paragraphSpacing"
+            },
+            "name": "mch_typography_ch_headings_lg_h1_paragraph_spacing",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "LG",
+              "subitem": "H1",
+              "state": "paragraphSpacing"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "LG",
+              "H1",
+              "paragraphSpacing"
+            ]
+          },
+          "paragraphIndent": {
+            "value": 0,
+            "type": "paragraphIndent",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{paragraphIndent.0}",
+              "type": "paragraphIndent"
+            },
+            "name": "mch_typography_ch_headings_lg_h1_paragraph_indent",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "LG",
+              "subitem": "H1",
+              "state": "paragraphIndent"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "LG",
+              "H1",
+              "paragraphIndent"
+            ]
+          },
+          "textCase": {
+            "value": "none",
+            "type": "textCase",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{textCase.none}",
+              "type": "textCase"
+            },
+            "name": "mch_typography_ch_headings_lg_h1_text_case",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "LG",
+              "subitem": "H1",
+              "state": "textCase"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "LG",
+              "H1",
+              "textCase"
+            ]
+          },
+          "textDecoration": {
+            "value": "none",
+            "type": "textDecoration",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{textDecoration.none}",
+              "type": "textDecoration"
+            },
+            "name": "mch_typography_ch_headings_lg_h1_text_decoration",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "LG",
+              "subitem": "H1",
+              "state": "textDecoration"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "LG",
+              "H1",
+              "textDecoration"
+            ]
+          }
+        },
+        "h2": {
+          "fontFamily": {
+            "value": "Ivar Display",
+            "type": "fontFamilies",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{fontFamilies.ivar-display}",
+              "type": "fontFamilies"
+            },
+            "name": "mch_typography_ch_headings_lg_h2_font_family",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "LG",
+              "subitem": "H2",
+              "state": "fontFamily"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "LG",
+              "H2",
+              "fontFamily"
+            ]
+          },
+          "fontWeight": {
+            "value": "600",
+            "type": "fontWeights",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{fontWeights.ivar-display-3}",
+              "type": "fontWeights"
+            },
+            "name": "mch_typography_ch_headings_lg_h2_font_weight",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "LG",
+              "subitem": "H2",
+              "state": "fontWeight"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "LG",
+              "H2",
+              "fontWeight"
+            ]
+          },
+          "lineHeight": {
+            "value": "3.25rem",
+            "type": "lineHeights",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{lineHeights.24}",
+              "type": "lineHeights"
+            },
+            "name": "mch_typography_ch_headings_lg_h2_line_height",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "LG",
+              "subitem": "H2",
+              "state": "lineHeight"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "LG",
+              "H2",
+              "lineHeight"
+            ]
+          },
+          "fontSize": {
+            "value": "3.25rem",
+            "type": "fontSizes",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{fontSize.18}",
+              "type": "fontSizes"
+            },
+            "name": "mch_typography_ch_headings_lg_h2_font_size",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "LG",
+              "subitem": "H2",
+              "state": "fontSize"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "LG",
+              "H2",
+              "fontSize"
+            ]
+          },
+          "letterSpacing": {
+            "value": "0rem",
+            "type": "letterSpacing",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{letterSpacing.0}",
+              "type": "letterSpacing"
+            },
+            "name": "mch_typography_ch_headings_lg_h2_letter_spacing",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "LG",
+              "subitem": "H2",
+              "state": "letterSpacing"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "LG",
+              "H2",
+              "letterSpacing"
+            ]
+          },
+          "paragraphSpacing": {
+            "value": "0",
+            "type": "paragraphSpacing",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{paragraphSpacing.0}",
+              "type": "paragraphSpacing"
+            },
+            "name": "mch_typography_ch_headings_lg_h2_paragraph_spacing",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "LG",
+              "subitem": "H2",
+              "state": "paragraphSpacing"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "LG",
+              "H2",
+              "paragraphSpacing"
+            ]
+          },
+          "paragraphIndent": {
+            "value": 0,
+            "type": "paragraphIndent",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{paragraphIndent.0}",
+              "type": "paragraphIndent"
+            },
+            "name": "mch_typography_ch_headings_lg_h2_paragraph_indent",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "LG",
+              "subitem": "H2",
+              "state": "paragraphIndent"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "LG",
+              "H2",
+              "paragraphIndent"
+            ]
+          },
+          "textCase": {
+            "value": "none",
+            "type": "textCase",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{textCase.none}",
+              "type": "textCase"
+            },
+            "name": "mch_typography_ch_headings_lg_h2_text_case",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "LG",
+              "subitem": "H2",
+              "state": "textCase"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "LG",
+              "H2",
+              "textCase"
+            ]
+          },
+          "textDecoration": {
+            "value": "none",
+            "type": "textDecoration",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{textDecoration.none}",
+              "type": "textDecoration"
+            },
+            "name": "mch_typography_ch_headings_lg_h2_text_decoration",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "LG",
+              "subitem": "H2",
+              "state": "textDecoration"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "LG",
+              "H2",
+              "textDecoration"
+            ]
+          }
+        },
+        "h3": {
+          "fontFamily": {
+            "value": "Ivar Display",
+            "type": "fontFamilies",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{fontFamilies.ivar-display}",
+              "type": "fontFamilies"
+            },
+            "name": "mch_typography_ch_headings_lg_h3_font_family",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "LG",
+              "subitem": "H3",
+              "state": "fontFamily"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "LG",
+              "H3",
+              "fontFamily"
+            ]
+          },
+          "fontWeight": {
+            "value": "600",
+            "type": "fontWeights",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{fontWeights.ivar-display-3}",
+              "type": "fontWeights"
+            },
+            "name": "mch_typography_ch_headings_lg_h3_font_weight",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "LG",
+              "subitem": "H3",
+              "state": "fontWeight"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "LG",
+              "H3",
+              "fontWeight"
+            ]
+          },
+          "lineHeight": {
+            "value": "2.625rem",
+            "type": "lineHeights",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{lineHeights.6}",
+              "type": "lineHeights"
+            },
+            "name": "mch_typography_ch_headings_lg_h3_line_height",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "LG",
+              "subitem": "H3",
+              "state": "lineHeight"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "LG",
+              "H3",
+              "lineHeight"
+            ]
+          },
+          "fontSize": {
+            "value": "2.5rem",
+            "type": "fontSizes",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{fontSize.12}",
+              "type": "fontSizes"
+            },
+            "name": "mch_typography_ch_headings_lg_h3_font_size",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "LG",
+              "subitem": "H3",
+              "state": "fontSize"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "LG",
+              "H3",
+              "fontSize"
+            ]
+          },
+          "letterSpacing": {
+            "value": "0rem",
+            "type": "letterSpacing",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{letterSpacing.0}",
+              "type": "letterSpacing"
+            },
+            "name": "mch_typography_ch_headings_lg_h3_letter_spacing",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "LG",
+              "subitem": "H3",
+              "state": "letterSpacing"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "LG",
+              "H3",
+              "letterSpacing"
+            ]
+          },
+          "paragraphSpacing": {
+            "value": "0",
+            "type": "paragraphSpacing",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{paragraphSpacing.0}",
+              "type": "paragraphSpacing"
+            },
+            "name": "mch_typography_ch_headings_lg_h3_paragraph_spacing",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "LG",
+              "subitem": "H3",
+              "state": "paragraphSpacing"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "LG",
+              "H3",
+              "paragraphSpacing"
+            ]
+          },
+          "paragraphIndent": {
+            "value": 0,
+            "type": "paragraphIndent",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{paragraphIndent.0}",
+              "type": "paragraphIndent"
+            },
+            "name": "mch_typography_ch_headings_lg_h3_paragraph_indent",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "LG",
+              "subitem": "H3",
+              "state": "paragraphIndent"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "LG",
+              "H3",
+              "paragraphIndent"
+            ]
+          },
+          "textCase": {
+            "value": "none",
+            "type": "textCase",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{textCase.none}",
+              "type": "textCase"
+            },
+            "name": "mch_typography_ch_headings_lg_h3_text_case",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "LG",
+              "subitem": "H3",
+              "state": "textCase"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "LG",
+              "H3",
+              "textCase"
+            ]
+          },
+          "textDecoration": {
+            "value": "none",
+            "type": "textDecoration",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{textDecoration.none}",
+              "type": "textDecoration"
+            },
+            "name": "mch_typography_ch_headings_lg_h3_text_decoration",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "LG",
+              "subitem": "H3",
+              "state": "textDecoration"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "LG",
+              "H3",
+              "textDecoration"
+            ]
+          }
+        },
+        "h4": {
+          "fontFamily": {
+            "value": "Ivar Display",
+            "type": "fontFamilies",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{fontFamilies.ivar-display}",
+              "type": "fontFamilies"
+            },
+            "name": "mch_typography_ch_headings_lg_h4_font_family",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "LG",
+              "subitem": "H4",
+              "state": "fontFamily"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "LG",
+              "H4",
+              "fontFamily"
+            ]
+          },
+          "fontWeight": {
+            "value": "600",
+            "type": "fontWeights",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{fontWeights.ivar-display-3}",
+              "type": "fontWeights"
+            },
+            "name": "mch_typography_ch_headings_lg_h4_font_weight",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "LG",
+              "subitem": "H4",
+              "state": "fontWeight"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "LG",
+              "H4",
+              "fontWeight"
+            ]
+          },
+          "lineHeight": {
+            "value": "2rem",
+            "type": "lineHeights",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{lineHeights.16}",
+              "type": "lineHeights"
+            },
+            "name": "mch_typography_ch_headings_lg_h4_line_height",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "LG",
+              "subitem": "H4",
+              "state": "lineHeight"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "LG",
+              "H4",
+              "lineHeight"
+            ]
+          },
+          "fontSize": {
+            "value": "1.75rem",
+            "type": "fontSizes",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{fontSize.15}",
+              "type": "fontSizes"
+            },
+            "name": "mch_typography_ch_headings_lg_h4_font_size",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "LG",
+              "subitem": "H4",
+              "state": "fontSize"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "LG",
+              "H4",
+              "fontSize"
+            ]
+          },
+          "letterSpacing": {
+            "value": "0rem",
+            "type": "letterSpacing",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{letterSpacing.0}",
+              "type": "letterSpacing"
+            },
+            "name": "mch_typography_ch_headings_lg_h4_letter_spacing",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "LG",
+              "subitem": "H4",
+              "state": "letterSpacing"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "LG",
+              "H4",
+              "letterSpacing"
+            ]
+          },
+          "paragraphSpacing": {
+            "value": "0",
+            "type": "paragraphSpacing",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{paragraphSpacing.0}",
+              "type": "paragraphSpacing"
+            },
+            "name": "mch_typography_ch_headings_lg_h4_paragraph_spacing",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "LG",
+              "subitem": "H4",
+              "state": "paragraphSpacing"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "LG",
+              "H4",
+              "paragraphSpacing"
+            ]
+          },
+          "paragraphIndent": {
+            "value": 0,
+            "type": "paragraphIndent",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{paragraphIndent.0}",
+              "type": "paragraphIndent"
+            },
+            "name": "mch_typography_ch_headings_lg_h4_paragraph_indent",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "LG",
+              "subitem": "H4",
+              "state": "paragraphIndent"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "LG",
+              "H4",
+              "paragraphIndent"
+            ]
+          },
+          "textCase": {
+            "value": "none",
+            "type": "textCase",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{textCase.none}",
+              "type": "textCase"
+            },
+            "name": "mch_typography_ch_headings_lg_h4_text_case",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "LG",
+              "subitem": "H4",
+              "state": "textCase"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "LG",
+              "H4",
+              "textCase"
+            ]
+          },
+          "textDecoration": {
+            "value": "none",
+            "type": "textDecoration",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{textDecoration.none}",
+              "type": "textDecoration"
+            },
+            "name": "mch_typography_ch_headings_lg_h4_text_decoration",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "LG",
+              "subitem": "H4",
+              "state": "textDecoration"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "LG",
+              "H4",
+              "textDecoration"
+            ]
+          }
+        },
+        "h5": {
+          "fontFamily": {
+            "value": "Ivar Display",
+            "type": "fontFamilies",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{fontFamilies.ivar-display}",
+              "type": "fontFamilies"
+            },
+            "name": "mch_typography_ch_headings_lg_h5_font_family",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "LG",
+              "subitem": "H5",
+              "state": "fontFamily"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "LG",
+              "H5",
+              "fontFamily"
+            ]
+          },
+          "fontWeight": {
+            "value": "600",
+            "type": "fontWeights",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{fontWeights.ivar-display-3}",
+              "type": "fontWeights"
+            },
+            "name": "mch_typography_ch_headings_lg_h5_font_weight",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "LG",
+              "subitem": "H5",
+              "state": "fontWeight"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "LG",
+              "H5",
+              "fontWeight"
+            ]
+          },
+          "lineHeight": {
+            "value": "1.5rem",
+            "type": "lineHeights",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{lineHeights.12}",
+              "type": "lineHeights"
+            },
+            "name": "mch_typography_ch_headings_lg_h5_line_height",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "LG",
+              "subitem": "H5",
+              "state": "lineHeight"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "LG",
+              "H5",
+              "lineHeight"
+            ]
+          },
+          "fontSize": {
+            "value": "1.25rem",
+            "type": "fontSizes",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{fontSize.4}",
+              "type": "fontSizes"
+            },
+            "name": "mch_typography_ch_headings_lg_h5_font_size",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "LG",
+              "subitem": "H5",
+              "state": "fontSize"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "LG",
+              "H5",
+              "fontSize"
+            ]
+          },
+          "letterSpacing": {
+            "value": "0rem",
+            "type": "letterSpacing",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{letterSpacing.0}",
+              "type": "letterSpacing"
+            },
+            "name": "mch_typography_ch_headings_lg_h5_letter_spacing",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "LG",
+              "subitem": "H5",
+              "state": "letterSpacing"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "LG",
+              "H5",
+              "letterSpacing"
+            ]
+          },
+          "paragraphSpacing": {
+            "value": "0",
+            "type": "paragraphSpacing",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{paragraphSpacing.0}",
+              "type": "paragraphSpacing"
+            },
+            "name": "mch_typography_ch_headings_lg_h5_paragraph_spacing",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "LG",
+              "subitem": "H5",
+              "state": "paragraphSpacing"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "LG",
+              "H5",
+              "paragraphSpacing"
+            ]
+          },
+          "paragraphIndent": {
+            "value": 0,
+            "type": "paragraphIndent",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{paragraphIndent.0}",
+              "type": "paragraphIndent"
+            },
+            "name": "mch_typography_ch_headings_lg_h5_paragraph_indent",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "LG",
+              "subitem": "H5",
+              "state": "paragraphIndent"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "LG",
+              "H5",
+              "paragraphIndent"
+            ]
+          },
+          "textCase": {
+            "value": "none",
+            "type": "textCase",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{textCase.none}",
+              "type": "textCase"
+            },
+            "name": "mch_typography_ch_headings_lg_h5_text_case",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "LG",
+              "subitem": "H5",
+              "state": "textCase"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "LG",
+              "H5",
+              "textCase"
+            ]
+          },
+          "textDecoration": {
+            "value": "none",
+            "type": "textDecoration",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{textDecoration.none}",
+              "type": "textDecoration"
+            },
+            "name": "mch_typography_ch_headings_lg_h5_text_decoration",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "LG",
+              "subitem": "H5",
+              "state": "textDecoration"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "LG",
+              "H5",
+              "textDecoration"
+            ]
+          }
+        }
+      },
+      "md": {
+        "display": {
+          "fontFamily": {
+            "value": "Ivar Display",
+            "type": "fontFamilies",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{fontFamilies.ivar-display}",
+              "type": "fontFamilies"
+            },
+            "name": "mch_typography_ch_headings_md_display_font_family",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "MD",
+              "subitem": "Display",
+              "state": "fontFamily"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "MD",
+              "Display",
+              "fontFamily"
+            ]
+          },
+          "fontWeight": {
+            "value": "600",
+            "type": "fontWeights",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{fontWeights.ivar-display-3}",
+              "type": "fontWeights"
+            },
+            "name": "mch_typography_ch_headings_md_display_font_weight",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "MD",
+              "subitem": "Display",
+              "state": "fontWeight"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "MD",
+              "Display",
+              "fontWeight"
+            ]
+          },
+          "lineHeight": {
+            "value": "5.5rem",
+            "type": "lineHeights",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{lineHeights.25}",
+              "type": "lineHeights"
+            },
+            "name": "mch_typography_ch_headings_md_display_line_height",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "MD",
+              "subitem": "Display",
+              "state": "lineHeight"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "MD",
+              "Display",
+              "lineHeight"
+            ]
+          },
+          "fontSize": {
+            "value": "5.5rem",
+            "type": "fontSizes",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{fontSize.24}",
+              "type": "fontSizes"
+            },
+            "name": "mch_typography_ch_headings_md_display_font_size",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "MD",
+              "subitem": "Display",
+              "state": "fontSize"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "MD",
+              "Display",
+              "fontSize"
+            ]
+          },
+          "letterSpacing": {
+            "value": "0rem",
+            "type": "letterSpacing",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{letterSpacing.0}",
+              "type": "letterSpacing"
+            },
+            "name": "mch_typography_ch_headings_md_display_letter_spacing",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "MD",
+              "subitem": "Display",
+              "state": "letterSpacing"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "MD",
+              "Display",
+              "letterSpacing"
+            ]
+          },
+          "paragraphSpacing": {
+            "value": "0",
+            "type": "paragraphSpacing",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{paragraphSpacing.0}",
+              "type": "paragraphSpacing"
+            },
+            "name": "mch_typography_ch_headings_md_display_paragraph_spacing",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "MD",
+              "subitem": "Display",
+              "state": "paragraphSpacing"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "MD",
+              "Display",
+              "paragraphSpacing"
+            ]
+          },
+          "paragraphIndent": {
+            "value": 0,
+            "type": "paragraphIndent",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{paragraphIndent.0}",
+              "type": "paragraphIndent"
+            },
+            "name": "mch_typography_ch_headings_md_display_paragraph_indent",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "MD",
+              "subitem": "Display",
+              "state": "paragraphIndent"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "MD",
+              "Display",
+              "paragraphIndent"
+            ]
+          },
+          "textCase": {
+            "value": "none",
+            "type": "textCase",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{textCase.none}",
+              "type": "textCase"
+            },
+            "name": "mch_typography_ch_headings_md_display_text_case",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "MD",
+              "subitem": "Display",
+              "state": "textCase"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "MD",
+              "Display",
+              "textCase"
+            ]
+          },
+          "textDecoration": {
+            "value": "none",
+            "type": "textDecoration",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{textDecoration.none}",
+              "type": "textDecoration"
+            },
+            "name": "mch_typography_ch_headings_md_display_text_decoration",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "MD",
+              "subitem": "Display",
+              "state": "textDecoration"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "MD",
+              "Display",
+              "textDecoration"
+            ]
+          }
+        },
+        "h1": {
+          "fontFamily": {
+            "value": "Ivar Display",
+            "type": "fontFamilies",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{fontFamilies.ivar-display}",
+              "type": "fontFamilies"
+            },
+            "name": "mch_typography_ch_headings_md_h1_font_family",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "MD",
+              "subitem": "H1",
+              "state": "fontFamily"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "MD",
+              "H1",
+              "fontFamily"
+            ]
+          },
+          "fontWeight": {
+            "value": "600",
+            "type": "fontWeights",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{fontWeights.ivar-display-3}",
+              "type": "fontWeights"
+            },
+            "name": "mch_typography_ch_headings_md_h1_font_weight",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "MD",
+              "subitem": "H1",
+              "state": "fontWeight"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "MD",
+              "H1",
+              "fontWeight"
+            ]
+          },
+          "lineHeight": {
+            "value": "3.625rem",
+            "type": "lineHeights",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{lineHeights.26}",
+              "type": "lineHeights"
+            },
+            "name": "mch_typography_ch_headings_md_h1_line_height",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "MD",
+              "subitem": "H1",
+              "state": "lineHeight"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "MD",
+              "H1",
+              "lineHeight"
+            ]
+          },
+          "fontSize": {
+            "value": "3.625rem",
+            "type": "fontSizes",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{fontSize.19}",
+              "type": "fontSizes"
+            },
+            "name": "mch_typography_ch_headings_md_h1_font_size",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "MD",
+              "subitem": "H1",
+              "state": "fontSize"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "MD",
+              "H1",
+              "fontSize"
+            ]
+          },
+          "letterSpacing": {
+            "value": "0rem",
+            "type": "letterSpacing",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{letterSpacing.0}",
+              "type": "letterSpacing"
+            },
+            "name": "mch_typography_ch_headings_md_h1_letter_spacing",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "MD",
+              "subitem": "H1",
+              "state": "letterSpacing"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "MD",
+              "H1",
+              "letterSpacing"
+            ]
+          },
+          "paragraphSpacing": {
+            "value": "0",
+            "type": "paragraphSpacing",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{paragraphSpacing.0}",
+              "type": "paragraphSpacing"
+            },
+            "name": "mch_typography_ch_headings_md_h1_paragraph_spacing",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "MD",
+              "subitem": "H1",
+              "state": "paragraphSpacing"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "MD",
+              "H1",
+              "paragraphSpacing"
+            ]
+          },
+          "paragraphIndent": {
+            "value": 0,
+            "type": "paragraphIndent",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{paragraphIndent.0}",
+              "type": "paragraphIndent"
+            },
+            "name": "mch_typography_ch_headings_md_h1_paragraph_indent",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "MD",
+              "subitem": "H1",
+              "state": "paragraphIndent"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "MD",
+              "H1",
+              "paragraphIndent"
+            ]
+          },
+          "textCase": {
+            "value": "none",
+            "type": "textCase",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{textCase.none}",
+              "type": "textCase"
+            },
+            "name": "mch_typography_ch_headings_md_h1_text_case",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "MD",
+              "subitem": "H1",
+              "state": "textCase"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "MD",
+              "H1",
+              "textCase"
+            ]
+          },
+          "textDecoration": {
+            "value": "none",
+            "type": "textDecoration",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{textDecoration.none}",
+              "type": "textDecoration"
+            },
+            "name": "mch_typography_ch_headings_md_h1_text_decoration",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "MD",
+              "subitem": "H1",
+              "state": "textDecoration"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "MD",
+              "H1",
+              "textDecoration"
+            ]
+          }
+        },
+        "h2": {
+          "fontFamily": {
+            "value": "Ivar Display",
+            "type": "fontFamilies",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{fontFamilies.ivar-display}",
+              "type": "fontFamilies"
+            },
+            "name": "mch_typography_ch_headings_md_h2_font_family",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "MD",
+              "subitem": "H2",
+              "state": "fontFamily"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "MD",
+              "H2",
+              "fontFamily"
+            ]
+          },
+          "fontWeight": {
+            "value": "600",
+            "type": "fontWeights",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{fontWeights.ivar-display-3}",
+              "type": "fontWeights"
+            },
+            "name": "mch_typography_ch_headings_md_h2_font_weight",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "MD",
+              "subitem": "H2",
+              "state": "fontWeight"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "MD",
+              "H2",
+              "fontWeight"
+            ]
+          },
+          "lineHeight": {
+            "value": "2.875rem",
+            "type": "lineHeights",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{lineHeights.9}",
+              "type": "lineHeights"
+            },
+            "name": "mch_typography_ch_headings_md_h2_line_height",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "MD",
+              "subitem": "H2",
+              "state": "lineHeight"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "MD",
+              "H2",
+              "lineHeight"
+            ]
+          },
+          "fontSize": {
+            "value": "2.875rem",
+            "type": "fontSizes",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{fontSize.17}",
+              "type": "fontSizes"
+            },
+            "name": "mch_typography_ch_headings_md_h2_font_size",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "MD",
+              "subitem": "H2",
+              "state": "fontSize"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "MD",
+              "H2",
+              "fontSize"
+            ]
+          },
+          "letterSpacing": {
+            "value": "0rem",
+            "type": "letterSpacing",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{letterSpacing.0}",
+              "type": "letterSpacing"
+            },
+            "name": "mch_typography_ch_headings_md_h2_letter_spacing",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "MD",
+              "subitem": "H2",
+              "state": "letterSpacing"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "MD",
+              "H2",
+              "letterSpacing"
+            ]
+          },
+          "paragraphSpacing": {
+            "value": "0",
+            "type": "paragraphSpacing",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{paragraphSpacing.0}",
+              "type": "paragraphSpacing"
+            },
+            "name": "mch_typography_ch_headings_md_h2_paragraph_spacing",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "MD",
+              "subitem": "H2",
+              "state": "paragraphSpacing"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "MD",
+              "H2",
+              "paragraphSpacing"
+            ]
+          },
+          "paragraphIndent": {
+            "value": 0,
+            "type": "paragraphIndent",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{paragraphIndent.0}",
+              "type": "paragraphIndent"
+            },
+            "name": "mch_typography_ch_headings_md_h2_paragraph_indent",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "MD",
+              "subitem": "H2",
+              "state": "paragraphIndent"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "MD",
+              "H2",
+              "paragraphIndent"
+            ]
+          },
+          "textCase": {
+            "value": "none",
+            "type": "textCase",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{textCase.none}",
+              "type": "textCase"
+            },
+            "name": "mch_typography_ch_headings_md_h2_text_case",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "MD",
+              "subitem": "H2",
+              "state": "textCase"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "MD",
+              "H2",
+              "textCase"
+            ]
+          },
+          "textDecoration": {
+            "value": "none",
+            "type": "textDecoration",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{textDecoration.none}",
+              "type": "textDecoration"
+            },
+            "name": "mch_typography_ch_headings_md_h2_text_decoration",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "MD",
+              "subitem": "H2",
+              "state": "textDecoration"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "MD",
+              "H2",
+              "textDecoration"
+            ]
+          }
+        },
+        "h3": {
+          "fontFamily": {
+            "value": "Ivar Display",
+            "type": "fontFamilies",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{fontFamilies.ivar-display}",
+              "type": "fontFamilies"
+            },
+            "name": "mch_typography_ch_headings_md_h3_font_family",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "MD",
+              "subitem": "H3",
+              "state": "fontFamily"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "MD",
+              "H3",
+              "fontFamily"
+            ]
+          },
+          "fontWeight": {
+            "value": "600",
+            "type": "fontWeights",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{fontWeights.ivar-display-3}",
+              "type": "fontWeights"
+            },
+            "name": "mch_typography_ch_headings_md_h3_font_weight",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "MD",
+              "subitem": "H3",
+              "state": "fontWeight"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "MD",
+              "H3",
+              "fontWeight"
+            ]
+          },
+          "lineHeight": {
+            "value": "2.25rem",
+            "type": "lineHeights",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{lineHeights.19}",
+              "type": "lineHeights"
+            },
+            "name": "mch_typography_ch_headings_md_h3_line_height",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "MD",
+              "subitem": "H3",
+              "state": "lineHeight"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "MD",
+              "H3",
+              "lineHeight"
+            ]
+          },
+          "fontSize": {
+            "value": "2.125rem",
+            "type": "fontSizes",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{fontSize.9}",
+              "type": "fontSizes"
+            },
+            "name": "mch_typography_ch_headings_md_h3_font_size",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "MD",
+              "subitem": "H3",
+              "state": "fontSize"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "MD",
+              "H3",
+              "fontSize"
+            ]
+          },
+          "letterSpacing": {
+            "value": "0rem",
+            "type": "letterSpacing",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{letterSpacing.0}",
+              "type": "letterSpacing"
+            },
+            "name": "mch_typography_ch_headings_md_h3_letter_spacing",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "MD",
+              "subitem": "H3",
+              "state": "letterSpacing"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "MD",
+              "H3",
+              "letterSpacing"
+            ]
+          },
+          "paragraphSpacing": {
+            "value": "0",
+            "type": "paragraphSpacing",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{paragraphSpacing.0}",
+              "type": "paragraphSpacing"
+            },
+            "name": "mch_typography_ch_headings_md_h3_paragraph_spacing",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "MD",
+              "subitem": "H3",
+              "state": "paragraphSpacing"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "MD",
+              "H3",
+              "paragraphSpacing"
+            ]
+          },
+          "paragraphIndent": {
+            "value": 0,
+            "type": "paragraphIndent",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{paragraphIndent.0}",
+              "type": "paragraphIndent"
+            },
+            "name": "mch_typography_ch_headings_md_h3_paragraph_indent",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "MD",
+              "subitem": "H3",
+              "state": "paragraphIndent"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "MD",
+              "H3",
+              "paragraphIndent"
+            ]
+          },
+          "textCase": {
+            "value": "none",
+            "type": "textCase",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{textCase.none}",
+              "type": "textCase"
+            },
+            "name": "mch_typography_ch_headings_md_h3_text_case",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "MD",
+              "subitem": "H3",
+              "state": "textCase"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "MD",
+              "H3",
+              "textCase"
+            ]
+          },
+          "textDecoration": {
+            "value": "none",
+            "type": "textDecoration",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{textDecoration.none}",
+              "type": "textDecoration"
+            },
+            "name": "mch_typography_ch_headings_md_h3_text_decoration",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "MD",
+              "subitem": "H3",
+              "state": "textDecoration"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "MD",
+              "H3",
+              "textDecoration"
+            ]
+          }
+        },
+        "h4": {
+          "fontFamily": {
+            "value": "Ivar Display",
+            "type": "fontFamilies",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{fontFamilies.ivar-display}",
+              "type": "fontFamilies"
+            },
+            "name": "mch_typography_ch_headings_md_h4_font_family",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "MD",
+              "subitem": "H4",
+              "state": "fontFamily"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "MD",
+              "H4",
+              "fontFamily"
+            ]
+          },
+          "fontWeight": {
+            "value": "600",
+            "type": "fontWeights",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{fontWeights.ivar-display-3}",
+              "type": "fontWeights"
+            },
+            "name": "mch_typography_ch_headings_md_h4_font_weight",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "MD",
+              "subitem": "H4",
+              "state": "fontWeight"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "MD",
+              "H4",
+              "fontWeight"
+            ]
+          },
+          "lineHeight": {
+            "value": "1.75rem",
+            "type": "lineHeights",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{lineHeights.2}",
+              "type": "lineHeights"
+            },
+            "name": "mch_typography_ch_headings_md_h4_line_height",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "MD",
+              "subitem": "H4",
+              "state": "lineHeight"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "MD",
+              "H4",
+              "lineHeight"
+            ]
+          },
+          "fontSize": {
+            "value": "1.5rem",
+            "type": "fontSizes",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{fontSize.5}",
+              "type": "fontSizes"
+            },
+            "name": "mch_typography_ch_headings_md_h4_font_size",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "MD",
+              "subitem": "H4",
+              "state": "fontSize"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "MD",
+              "H4",
+              "fontSize"
+            ]
+          },
+          "letterSpacing": {
+            "value": "0rem",
+            "type": "letterSpacing",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{letterSpacing.0}",
+              "type": "letterSpacing"
+            },
+            "name": "mch_typography_ch_headings_md_h4_letter_spacing",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "MD",
+              "subitem": "H4",
+              "state": "letterSpacing"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "MD",
+              "H4",
+              "letterSpacing"
+            ]
+          },
+          "paragraphSpacing": {
+            "value": "0",
+            "type": "paragraphSpacing",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{paragraphSpacing.0}",
+              "type": "paragraphSpacing"
+            },
+            "name": "mch_typography_ch_headings_md_h4_paragraph_spacing",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "MD",
+              "subitem": "H4",
+              "state": "paragraphSpacing"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "MD",
+              "H4",
+              "paragraphSpacing"
+            ]
+          },
+          "paragraphIndent": {
+            "value": 0,
+            "type": "paragraphIndent",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{paragraphIndent.0}",
+              "type": "paragraphIndent"
+            },
+            "name": "mch_typography_ch_headings_md_h4_paragraph_indent",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "MD",
+              "subitem": "H4",
+              "state": "paragraphIndent"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "MD",
+              "H4",
+              "paragraphIndent"
+            ]
+          },
+          "textCase": {
+            "value": "none",
+            "type": "textCase",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{textCase.none}",
+              "type": "textCase"
+            },
+            "name": "mch_typography_ch_headings_md_h4_text_case",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "MD",
+              "subitem": "H4",
+              "state": "textCase"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "MD",
+              "H4",
+              "textCase"
+            ]
+          },
+          "textDecoration": {
+            "value": "none",
+            "type": "textDecoration",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{textDecoration.none}",
+              "type": "textDecoration"
+            },
+            "name": "mch_typography_ch_headings_md_h4_text_decoration",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "MD",
+              "subitem": "H4",
+              "state": "textDecoration"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "MD",
+              "H4",
+              "textDecoration"
+            ]
+          }
+        },
+        "h5": {
+          "fontFamily": {
+            "value": "Ivar Display",
+            "type": "fontFamilies",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{fontFamilies.ivar-display}",
+              "type": "fontFamilies"
+            },
+            "name": "mch_typography_ch_headings_md_h5_font_family",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "MD",
+              "subitem": "H5",
+              "state": "fontFamily"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "MD",
+              "H5",
+              "fontFamily"
+            ]
+          },
+          "fontWeight": {
+            "value": "600",
+            "type": "fontWeights",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{fontWeights.ivar-display-3}",
+              "type": "fontWeights"
+            },
+            "name": "mch_typography_ch_headings_md_h5_font_weight",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "MD",
+              "subitem": "H5",
+              "state": "fontWeight"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "MD",
+              "H5",
+              "fontWeight"
+            ]
+          },
+          "lineHeight": {
+            "value": "1.375rem",
+            "type": "lineHeights",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{lineHeights.13}",
+              "type": "lineHeights"
+            },
+            "name": "mch_typography_ch_headings_md_h5_line_height",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "MD",
+              "subitem": "H5",
+              "state": "lineHeight"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "MD",
+              "H5",
+              "lineHeight"
+            ]
+          },
+          "fontSize": {
+            "value": "1.125rem",
+            "type": "fontSizes",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{fontSize.3}",
+              "type": "fontSizes"
+            },
+            "name": "mch_typography_ch_headings_md_h5_font_size",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "MD",
+              "subitem": "H5",
+              "state": "fontSize"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "MD",
+              "H5",
+              "fontSize"
+            ]
+          },
+          "letterSpacing": {
+            "value": "0rem",
+            "type": "letterSpacing",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{letterSpacing.0}",
+              "type": "letterSpacing"
+            },
+            "name": "mch_typography_ch_headings_md_h5_letter_spacing",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "MD",
+              "subitem": "H5",
+              "state": "letterSpacing"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "MD",
+              "H5",
+              "letterSpacing"
+            ]
+          },
+          "paragraphSpacing": {
+            "value": "0",
+            "type": "paragraphSpacing",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{paragraphSpacing.0}",
+              "type": "paragraphSpacing"
+            },
+            "name": "mch_typography_ch_headings_md_h5_paragraph_spacing",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "MD",
+              "subitem": "H5",
+              "state": "paragraphSpacing"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "MD",
+              "H5",
+              "paragraphSpacing"
+            ]
+          },
+          "paragraphIndent": {
+            "value": 0,
+            "type": "paragraphIndent",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{paragraphIndent.0}",
+              "type": "paragraphIndent"
+            },
+            "name": "mch_typography_ch_headings_md_h5_paragraph_indent",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "MD",
+              "subitem": "H5",
+              "state": "paragraphIndent"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "MD",
+              "H5",
+              "paragraphIndent"
+            ]
+          },
+          "textCase": {
+            "value": "none",
+            "type": "textCase",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{textCase.none}",
+              "type": "textCase"
+            },
+            "name": "mch_typography_ch_headings_md_h5_text_case",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "MD",
+              "subitem": "H5",
+              "state": "textCase"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "MD",
+              "H5",
+              "textCase"
+            ]
+          },
+          "textDecoration": {
+            "value": "none",
+            "type": "textDecoration",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{textDecoration.none}",
+              "type": "textDecoration"
+            },
+            "name": "mch_typography_ch_headings_md_h5_text_decoration",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "MD",
+              "subitem": "H5",
+              "state": "textDecoration"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "MD",
+              "H5",
+              "textDecoration"
+            ]
+          }
+        }
+      },
+      "xsSm": {
+        "display": {
+          "fontFamily": {
+            "value": "Ivar Display",
+            "type": "fontFamilies",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{fontFamilies.ivar-display}",
+              "type": "fontFamilies"
+            },
+            "name": "mch_typography_ch_headings_xs_sm_display_font_family",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "XS-SM",
+              "subitem": "Display",
+              "state": "fontFamily"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "XS-SM",
+              "Display",
+              "fontFamily"
+            ]
+          },
+          "fontWeight": {
+            "value": "600",
+            "type": "fontWeights",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{fontWeights.ivar-display-3}",
+              "type": "fontWeights"
+            },
+            "name": "mch_typography_ch_headings_xs_sm_display_font_weight",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "XS-SM",
+              "subitem": "Display",
+              "state": "fontWeight"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "XS-SM",
+              "Display",
+              "fontWeight"
+            ]
+          },
+          "lineHeight": {
+            "value": "4.5rem",
+            "type": "lineHeights",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{lineHeights.27}",
+              "type": "lineHeights"
+            },
+            "name": "mch_typography_ch_headings_xs_sm_display_line_height",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "XS-SM",
+              "subitem": "Display",
+              "state": "lineHeight"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "XS-SM",
+              "Display",
+              "lineHeight"
+            ]
+          },
+          "fontSize": {
+            "value": "4.5rem",
+            "type": "fontSizes",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{fontSize.22}",
+              "type": "fontSizes"
+            },
+            "name": "mch_typography_ch_headings_xs_sm_display_font_size",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "XS-SM",
+              "subitem": "Display",
+              "state": "fontSize"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "XS-SM",
+              "Display",
+              "fontSize"
+            ]
+          },
+          "letterSpacing": {
+            "value": "0rem",
+            "type": "letterSpacing",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{letterSpacing.0}",
+              "type": "letterSpacing"
+            },
+            "name": "mch_typography_ch_headings_xs_sm_display_letter_spacing",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "XS-SM",
+              "subitem": "Display",
+              "state": "letterSpacing"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "XS-SM",
+              "Display",
+              "letterSpacing"
+            ]
+          },
+          "paragraphSpacing": {
+            "value": "0",
+            "type": "paragraphSpacing",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{paragraphSpacing.0}",
+              "type": "paragraphSpacing"
+            },
+            "name": "mch_typography_ch_headings_xs_sm_display_paragraph_spacing",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "XS-SM",
+              "subitem": "Display",
+              "state": "paragraphSpacing"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "XS-SM",
+              "Display",
+              "paragraphSpacing"
+            ]
+          },
+          "paragraphIndent": {
+            "value": 0,
+            "type": "paragraphIndent",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{paragraphIndent.0}",
+              "type": "paragraphIndent"
+            },
+            "name": "mch_typography_ch_headings_xs_sm_display_paragraph_indent",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "XS-SM",
+              "subitem": "Display",
+              "state": "paragraphIndent"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "XS-SM",
+              "Display",
+              "paragraphIndent"
+            ]
+          },
+          "textCase": {
+            "value": "none",
+            "type": "textCase",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{textCase.none}",
+              "type": "textCase"
+            },
+            "name": "mch_typography_ch_headings_xs_sm_display_text_case",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "XS-SM",
+              "subitem": "Display",
+              "state": "textCase"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "XS-SM",
+              "Display",
+              "textCase"
+            ]
+          },
+          "textDecoration": {
+            "value": "none",
+            "type": "textDecoration",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{textDecoration.none}",
+              "type": "textDecoration"
+            },
+            "name": "mch_typography_ch_headings_xs_sm_display_text_decoration",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "XS-SM",
+              "subitem": "Display",
+              "state": "textDecoration"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "XS-SM",
+              "Display",
+              "textDecoration"
+            ]
+          }
+        },
+        "h1": {
+          "fontFamily": {
+            "value": "Ivar Display",
+            "type": "fontFamilies",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{fontFamilies.ivar-display}",
+              "type": "fontFamilies"
+            },
+            "name": "mch_typography_ch_headings_xs_sm_h1_font_family",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "XS-SM",
+              "subitem": "H1",
+              "state": "fontFamily"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "XS-SM",
+              "H1",
+              "fontFamily"
+            ]
+          },
+          "fontWeight": {
+            "value": "600",
+            "type": "fontWeights",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{fontWeights.ivar-display-3}",
+              "type": "fontWeights"
+            },
+            "name": "mch_typography_ch_headings_xs_sm_h1_font_weight",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "XS-SM",
+              "subitem": "H1",
+              "state": "fontWeight"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "XS-SM",
+              "H1",
+              "fontWeight"
+            ]
+          },
+          "lineHeight": {
+            "value": "3rem",
+            "type": "lineHeights",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{lineHeights.5}",
+              "type": "lineHeights"
+            },
+            "name": "mch_typography_ch_headings_xs_sm_h1_line_height",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "XS-SM",
+              "subitem": "H1",
+              "state": "lineHeight"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "XS-SM",
+              "H1",
+              "lineHeight"
+            ]
+          },
+          "fontSize": {
+            "value": "3rem",
+            "type": "fontSizes",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{fontSize.14}",
+              "type": "fontSizes"
+            },
+            "name": "mch_typography_ch_headings_xs_sm_h1_font_size",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "XS-SM",
+              "subitem": "H1",
+              "state": "fontSize"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "XS-SM",
+              "H1",
+              "fontSize"
+            ]
+          },
+          "letterSpacing": {
+            "value": "0rem",
+            "type": "letterSpacing",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{letterSpacing.0}",
+              "type": "letterSpacing"
+            },
+            "name": "mch_typography_ch_headings_xs_sm_h1_letter_spacing",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "XS-SM",
+              "subitem": "H1",
+              "state": "letterSpacing"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "XS-SM",
+              "H1",
+              "letterSpacing"
+            ]
+          },
+          "paragraphSpacing": {
+            "value": "0",
+            "type": "paragraphSpacing",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{paragraphSpacing.0}",
+              "type": "paragraphSpacing"
+            },
+            "name": "mch_typography_ch_headings_xs_sm_h1_paragraph_spacing",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "XS-SM",
+              "subitem": "H1",
+              "state": "paragraphSpacing"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "XS-SM",
+              "H1",
+              "paragraphSpacing"
+            ]
+          },
+          "paragraphIndent": {
+            "value": 0,
+            "type": "paragraphIndent",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{paragraphIndent.0}",
+              "type": "paragraphIndent"
+            },
+            "name": "mch_typography_ch_headings_xs_sm_h1_paragraph_indent",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "XS-SM",
+              "subitem": "H1",
+              "state": "paragraphIndent"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "XS-SM",
+              "H1",
+              "paragraphIndent"
+            ]
+          },
+          "textCase": {
+            "value": "none",
+            "type": "textCase",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{textCase.none}",
+              "type": "textCase"
+            },
+            "name": "mch_typography_ch_headings_xs_sm_h1_text_case",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "XS-SM",
+              "subitem": "H1",
+              "state": "textCase"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "XS-SM",
+              "H1",
+              "textCase"
+            ]
+          },
+          "textDecoration": {
+            "value": "none",
+            "type": "textDecoration",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{textDecoration.none}",
+              "type": "textDecoration"
+            },
+            "name": "mch_typography_ch_headings_xs_sm_h1_text_decoration",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "XS-SM",
+              "subitem": "H1",
+              "state": "textDecoration"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "XS-SM",
+              "H1",
+              "textDecoration"
+            ]
+          }
+        },
+        "h2": {
+          "fontFamily": {
+            "value": "Ivar Display",
+            "type": "fontFamilies",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{fontFamilies.ivar-display}",
+              "type": "fontFamilies"
+            },
+            "name": "mch_typography_ch_headings_xs_sm_h2_font_family",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "XS-SM",
+              "subitem": "H2",
+              "state": "fontFamily"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "XS-SM",
+              "H2",
+              "fontFamily"
+            ]
+          },
+          "fontWeight": {
+            "value": "600",
+            "type": "fontWeights",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{fontWeights.ivar-display-3}",
+              "type": "fontWeights"
+            },
+            "name": "mch_typography_ch_headings_xs_sm_h2_font_weight",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "XS-SM",
+              "subitem": "H2",
+              "state": "fontWeight"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "XS-SM",
+              "H2",
+              "fontWeight"
+            ]
+          },
+          "lineHeight": {
+            "value": "2.5rem",
+            "type": "lineHeights",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{lineHeights.28}",
+              "type": "lineHeights"
+            },
+            "name": "mch_typography_ch_headings_xs_sm_h2_line_height",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "XS-SM",
+              "subitem": "H2",
+              "state": "lineHeight"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "XS-SM",
+              "H2",
+              "lineHeight"
+            ]
+          },
+          "fontSize": {
+            "value": "2.5rem",
+            "type": "fontSizes",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{fontSize.12}",
+              "type": "fontSizes"
+            },
+            "name": "mch_typography_ch_headings_xs_sm_h2_font_size",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "XS-SM",
+              "subitem": "H2",
+              "state": "fontSize"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "XS-SM",
+              "H2",
+              "fontSize"
+            ]
+          },
+          "letterSpacing": {
+            "value": "0rem",
+            "type": "letterSpacing",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{letterSpacing.0}",
+              "type": "letterSpacing"
+            },
+            "name": "mch_typography_ch_headings_xs_sm_h2_letter_spacing",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "XS-SM",
+              "subitem": "H2",
+              "state": "letterSpacing"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "XS-SM",
+              "H2",
+              "letterSpacing"
+            ]
+          },
+          "paragraphSpacing": {
+            "value": "0",
+            "type": "paragraphSpacing",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{paragraphSpacing.0}",
+              "type": "paragraphSpacing"
+            },
+            "name": "mch_typography_ch_headings_xs_sm_h2_paragraph_spacing",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "XS-SM",
+              "subitem": "H2",
+              "state": "paragraphSpacing"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "XS-SM",
+              "H2",
+              "paragraphSpacing"
+            ]
+          },
+          "paragraphIndent": {
+            "value": 0,
+            "type": "paragraphIndent",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{paragraphIndent.0}",
+              "type": "paragraphIndent"
+            },
+            "name": "mch_typography_ch_headings_xs_sm_h2_paragraph_indent",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "XS-SM",
+              "subitem": "H2",
+              "state": "paragraphIndent"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "XS-SM",
+              "H2",
+              "paragraphIndent"
+            ]
+          },
+          "textCase": {
+            "value": "none",
+            "type": "textCase",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{textCase.none}",
+              "type": "textCase"
+            },
+            "name": "mch_typography_ch_headings_xs_sm_h2_text_case",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "XS-SM",
+              "subitem": "H2",
+              "state": "textCase"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "XS-SM",
+              "H2",
+              "textCase"
+            ]
+          },
+          "textDecoration": {
+            "value": "none",
+            "type": "textDecoration",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{textDecoration.none}",
+              "type": "textDecoration"
+            },
+            "name": "mch_typography_ch_headings_xs_sm_h2_text_decoration",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "XS-SM",
+              "subitem": "H2",
+              "state": "textDecoration"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "XS-SM",
+              "H2",
+              "textDecoration"
+            ]
+          }
+        },
+        "h3": {
+          "fontFamily": {
+            "value": "Ivar Display",
+            "type": "fontFamilies",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{fontFamilies.ivar-display}",
+              "type": "fontFamilies"
+            },
+            "name": "mch_typography_ch_headings_xs_sm_h3_font_family",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "XS-SM",
+              "subitem": "H3",
+              "state": "fontFamily"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "XS-SM",
+              "H3",
+              "fontFamily"
+            ]
+          },
+          "fontWeight": {
+            "value": "600",
+            "type": "fontWeights",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{fontWeights.ivar-display-3}",
+              "type": "fontWeights"
+            },
+            "name": "mch_typography_ch_headings_xs_sm_h3_font_weight",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "XS-SM",
+              "subitem": "H3",
+              "state": "fontWeight"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "XS-SM",
+              "H3",
+              "fontWeight"
+            ]
+          },
+          "lineHeight": {
+            "value": "1.875rem",
+            "type": "lineHeights",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{lineHeights.1}",
+              "type": "lineHeights"
+            },
+            "name": "mch_typography_ch_headings_xs_sm_h3_line_height",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "XS-SM",
+              "subitem": "H3",
+              "state": "lineHeight"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "XS-SM",
+              "H3",
+              "lineHeight"
+            ]
+          },
+          "fontSize": {
+            "value": "1.75rem",
+            "type": "fontSizes",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{fontSize.15}",
+              "type": "fontSizes"
+            },
+            "name": "mch_typography_ch_headings_xs_sm_h3_font_size",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "XS-SM",
+              "subitem": "H3",
+              "state": "fontSize"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "XS-SM",
+              "H3",
+              "fontSize"
+            ]
+          },
+          "letterSpacing": {
+            "value": "0rem",
+            "type": "letterSpacing",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{letterSpacing.0}",
+              "type": "letterSpacing"
+            },
+            "name": "mch_typography_ch_headings_xs_sm_h3_letter_spacing",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "XS-SM",
+              "subitem": "H3",
+              "state": "letterSpacing"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "XS-SM",
+              "H3",
+              "letterSpacing"
+            ]
+          },
+          "paragraphSpacing": {
+            "value": "0",
+            "type": "paragraphSpacing",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{paragraphSpacing.0}",
+              "type": "paragraphSpacing"
+            },
+            "name": "mch_typography_ch_headings_xs_sm_h3_paragraph_spacing",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "XS-SM",
+              "subitem": "H3",
+              "state": "paragraphSpacing"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "XS-SM",
+              "H3",
+              "paragraphSpacing"
+            ]
+          },
+          "paragraphIndent": {
+            "value": 0,
+            "type": "paragraphIndent",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{paragraphIndent.0}",
+              "type": "paragraphIndent"
+            },
+            "name": "mch_typography_ch_headings_xs_sm_h3_paragraph_indent",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "XS-SM",
+              "subitem": "H3",
+              "state": "paragraphIndent"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "XS-SM",
+              "H3",
+              "paragraphIndent"
+            ]
+          },
+          "textCase": {
+            "value": "none",
+            "type": "textCase",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{textCase.none}",
+              "type": "textCase"
+            },
+            "name": "mch_typography_ch_headings_xs_sm_h3_text_case",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "XS-SM",
+              "subitem": "H3",
+              "state": "textCase"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "XS-SM",
+              "H3",
+              "textCase"
+            ]
+          },
+          "textDecoration": {
+            "value": "none",
+            "type": "textDecoration",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{textDecoration.none}",
+              "type": "textDecoration"
+            },
+            "name": "mch_typography_ch_headings_xs_sm_h3_text_decoration",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "XS-SM",
+              "subitem": "H3",
+              "state": "textDecoration"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "XS-SM",
+              "H3",
+              "textDecoration"
+            ]
+          }
+        },
+        "h4": {
+          "fontFamily": {
+            "value": "Ivar Display",
+            "type": "fontFamilies",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{fontFamilies.ivar-display}",
+              "type": "fontFamilies"
+            },
+            "name": "mch_typography_ch_headings_xs_sm_h4_font_family",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "XS-SM",
+              "subitem": "H4",
+              "state": "fontFamily"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "XS-SM",
+              "H4",
+              "fontFamily"
+            ]
+          },
+          "fontWeight": {
+            "value": "600",
+            "type": "fontWeights",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{fontWeights.ivar-display-3}",
+              "type": "fontWeights"
+            },
+            "name": "mch_typography_ch_headings_xs_sm_h4_font_weight",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "XS-SM",
+              "subitem": "H4",
+              "state": "fontWeight"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "XS-SM",
+              "H4",
+              "fontWeight"
+            ]
+          },
+          "lineHeight": {
+            "value": "1.75rem",
+            "type": "lineHeights",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{lineHeights.2}",
+              "type": "lineHeights"
+            },
+            "name": "mch_typography_ch_headings_xs_sm_h4_line_height",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "XS-SM",
+              "subitem": "H4",
+              "state": "lineHeight"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "XS-SM",
+              "H4",
+              "lineHeight"
+            ]
+          },
+          "fontSize": {
+            "value": "1.5rem",
+            "type": "fontSizes",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{fontSize.5}",
+              "type": "fontSizes"
+            },
+            "name": "mch_typography_ch_headings_xs_sm_h4_font_size",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "XS-SM",
+              "subitem": "H4",
+              "state": "fontSize"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "XS-SM",
+              "H4",
+              "fontSize"
+            ]
+          },
+          "letterSpacing": {
+            "value": "0rem",
+            "type": "letterSpacing",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{letterSpacing.0}",
+              "type": "letterSpacing"
+            },
+            "name": "mch_typography_ch_headings_xs_sm_h4_letter_spacing",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "XS-SM",
+              "subitem": "H4",
+              "state": "letterSpacing"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "XS-SM",
+              "H4",
+              "letterSpacing"
+            ]
+          },
+          "paragraphSpacing": {
+            "value": "0",
+            "type": "paragraphSpacing",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{paragraphSpacing.0}",
+              "type": "paragraphSpacing"
+            },
+            "name": "mch_typography_ch_headings_xs_sm_h4_paragraph_spacing",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "XS-SM",
+              "subitem": "H4",
+              "state": "paragraphSpacing"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "XS-SM",
+              "H4",
+              "paragraphSpacing"
+            ]
+          },
+          "paragraphIndent": {
+            "value": 0,
+            "type": "paragraphIndent",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{paragraphIndent.0}",
+              "type": "paragraphIndent"
+            },
+            "name": "mch_typography_ch_headings_xs_sm_h4_paragraph_indent",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "XS-SM",
+              "subitem": "H4",
+              "state": "paragraphIndent"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "XS-SM",
+              "H4",
+              "paragraphIndent"
+            ]
+          },
+          "textCase": {
+            "value": "none",
+            "type": "textCase",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{textCase.none}",
+              "type": "textCase"
+            },
+            "name": "mch_typography_ch_headings_xs_sm_h4_text_case",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "XS-SM",
+              "subitem": "H4",
+              "state": "textCase"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "XS-SM",
+              "H4",
+              "textCase"
+            ]
+          },
+          "textDecoration": {
+            "value": "none",
+            "type": "textDecoration",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{textDecoration.none}",
+              "type": "textDecoration"
+            },
+            "name": "mch_typography_ch_headings_xs_sm_h4_text_decoration",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "XS-SM",
+              "subitem": "H4",
+              "state": "textDecoration"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "XS-SM",
+              "H4",
+              "textDecoration"
+            ]
+          }
+        },
+        "h5": {
+          "fontFamily": {
+            "value": "Ivar Display",
+            "type": "fontFamilies",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{fontFamilies.ivar-display}",
+              "type": "fontFamilies"
+            },
+            "name": "mch_typography_ch_headings_xs_sm_h5_font_family",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "XS-SM",
+              "subitem": "H5",
+              "state": "fontFamily"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "XS-SM",
+              "H5",
+              "fontFamily"
+            ]
+          },
+          "fontWeight": {
+            "value": "600",
+            "type": "fontWeights",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{fontWeights.ivar-display-3}",
+              "type": "fontWeights"
+            },
+            "name": "mch_typography_ch_headings_xs_sm_h5_font_weight",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "XS-SM",
+              "subitem": "H5",
+              "state": "fontWeight"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "XS-SM",
+              "H5",
+              "fontWeight"
+            ]
+          },
+          "lineHeight": {
+            "value": "1.375rem",
+            "type": "lineHeights",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{lineHeights.13}",
+              "type": "lineHeights"
+            },
+            "name": "mch_typography_ch_headings_xs_sm_h5_line_height",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "XS-SM",
+              "subitem": "H5",
+              "state": "lineHeight"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "XS-SM",
+              "H5",
+              "lineHeight"
+            ]
+          },
+          "fontSize": {
+            "value": "1.125rem",
+            "type": "fontSizes",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{fontSize.3}",
+              "type": "fontSizes"
+            },
+            "name": "mch_typography_ch_headings_xs_sm_h5_font_size",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "XS-SM",
+              "subitem": "H5",
+              "state": "fontSize"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "XS-SM",
+              "H5",
+              "fontSize"
+            ]
+          },
+          "letterSpacing": {
+            "value": "0rem",
+            "type": "letterSpacing",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{letterSpacing.0}",
+              "type": "letterSpacing"
+            },
+            "name": "mch_typography_ch_headings_xs_sm_h5_letter_spacing",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "XS-SM",
+              "subitem": "H5",
+              "state": "letterSpacing"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "XS-SM",
+              "H5",
+              "letterSpacing"
+            ]
+          },
+          "paragraphSpacing": {
+            "value": "0",
+            "type": "paragraphSpacing",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{paragraphSpacing.0}",
+              "type": "paragraphSpacing"
+            },
+            "name": "mch_typography_ch_headings_xs_sm_h5_paragraph_spacing",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "XS-SM",
+              "subitem": "H5",
+              "state": "paragraphSpacing"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "XS-SM",
+              "H5",
+              "paragraphSpacing"
+            ]
+          },
+          "paragraphIndent": {
+            "value": 0,
+            "type": "paragraphIndent",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{paragraphIndent.0}",
+              "type": "paragraphIndent"
+            },
+            "name": "mch_typography_ch_headings_xs_sm_h5_paragraph_indent",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "XS-SM",
+              "subitem": "H5",
+              "state": "paragraphIndent"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "XS-SM",
+              "H5",
+              "paragraphIndent"
+            ]
+          },
+          "textCase": {
+            "value": "none",
+            "type": "textCase",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{textCase.none}",
+              "type": "textCase"
+            },
+            "name": "mch_typography_ch_headings_xs_sm_h5_text_case",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "XS-SM",
+              "subitem": "H5",
+              "state": "textCase"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "XS-SM",
+              "H5",
+              "textCase"
+            ]
+          },
+          "textDecoration": {
+            "value": "none",
+            "type": "textDecoration",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{textDecoration.none}",
+              "type": "textDecoration"
+            },
+            "name": "mch_typography_ch_headings_xs_sm_h5_text_decoration",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "XS-SM",
+              "subitem": "H5",
+              "state": "textDecoration"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "XS-SM",
+              "H5",
+              "textDecoration"
+            ]
+          }
         }
       }
     }
