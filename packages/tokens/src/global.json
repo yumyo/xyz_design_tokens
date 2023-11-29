@@ -505,6 +505,10 @@
     "28": {
       "value": "40",
       "type": "lineHeights"
+    },
+    "29": {
+      "value": "56",
+      "type": "lineHeights"
     }
   },
   "fontWeights": {
@@ -637,6 +641,10 @@
     "26": {
       "value": "128",
       "type": "fontSizes"
+    },
+    "27": {
+      "value": "56",
+      "type": "fontSizes"
     }
   },
   "letterSpacing": {
@@ -670,6 +678,20 @@
   "Typography": {
     "Headings": {
       "XS-SM": {
+        "Display": {
+          "value": {
+            "fontFamily": "{fontFamilies.art-basel-headline}",
+            "fontWeight": "{fontWeights.art-basel-headline-0}",
+            "lineHeight": "{lineHeights.28}",
+            "fontSize": "{fontSize.12}",
+            "letterSpacing": "{letterSpacing.0}",
+            "paragraphSpacing": "{paragraphSpacing.0}",
+            "paragraphIndent": "{paragraphIndent.0}",
+            "textCase": "{textCase.none}",
+            "textDecoration": "{textDecoration.none}"
+          },
+          "type": "typography"
+        },
         "H1": {
           "value": {
             "fontFamily": "{fontFamilies.art-basel-headline}",
@@ -742,6 +764,20 @@
         }
       },
       "XL": {
+        "Display": {
+          "value": {
+            "fontFamily": "{fontFamilies.art-basel-headline}",
+            "fontWeight": "{fontWeights.art-basel-headline-0}",
+            "lineHeight": "{lineHeights.17}",
+            "fontSize": "{fontSize.20}",
+            "letterSpacing": "{letterSpacing.0}",
+            "paragraphSpacing": "{paragraphSpacing.0}",
+            "paragraphIndent": "{paragraphIndent.0}",
+            "textCase": "{textCase.none}",
+            "textDecoration": "{textDecoration.none}"
+          },
+          "type": "typography"
+        },
         "H1": {
           "value": {
             "fontFamily": "{fontFamilies.art-basel-headline}",
@@ -814,6 +850,20 @@
         }
       },
       "MD": {
+        "Display": {
+          "value": {
+            "fontFamily": "{fontFamilies.art-basel-headline}",
+            "fontWeight": "{fontWeights.art-basel-headline-0}",
+            "lineHeight": "{lineHeights.5}",
+            "fontSize": "{fontSize.14}",
+            "letterSpacing": "{letterSpacing.0}",
+            "paragraphSpacing": "{paragraphSpacing.1}",
+            "paragraphIndent": "{paragraphIndent.0}",
+            "textCase": "{textCase.none}",
+            "textDecoration": "{textDecoration.none}"
+          },
+          "type": "typography"
+        },
         "H1": {
           "value": {
             "fontFamily": "{fontFamilies.art-basel-headline}",
@@ -886,6 +936,20 @@
         }
       },
       "LG": {
+        "Display": {
+          "value": {
+            "fontFamily": "{fontFamilies.art-basel-headline}",
+            "fontWeight": "{fontWeights.art-basel-headline-0}",
+            "lineHeight": "{lineHeights.29}",
+            "fontSize": "{fontSize.27}",
+            "letterSpacing": "{letterSpacing.0}",
+            "paragraphSpacing": "{paragraphSpacing.1}",
+            "paragraphIndent": "{paragraphIndent.0}",
+            "textCase": "{textCase.none}",
+            "textDecoration": "{textDecoration.none}"
+          },
+          "type": "typography"
+        },
         "H1": {
           "value": {
             "fontFamily": "{fontFamilies.art-basel-headline}",
@@ -958,6 +1022,20 @@
         }
       },
       "2XL": {
+        "Display": {
+          "value": {
+            "fontFamily": "{fontFamilies.art-basel-headline}",
+            "fontWeight": "{fontWeights.art-basel-headline-0}",
+            "lineHeight": "{lineHeights.17}",
+            "fontSize": "{fontSize.20}",
+            "letterSpacing": "{letterSpacing.0}",
+            "paragraphSpacing": "{paragraphSpacing.0}",
+            "paragraphIndent": "{paragraphIndent.0}",
+            "textCase": "{textCase.none}",
+            "textDecoration": "{textDecoration.none}"
+          },
+          "type": "typography"
+        },
         "H1": {
           "value": {
             "fontFamily": "{fontFamilies.art-basel-headline}",
