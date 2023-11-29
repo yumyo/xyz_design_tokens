@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Fri, 06 Oct 2023 15:18:27 GMT
+ * Generated on Wed, 29 Nov 2023 09:16:51 GMT
  */
 
 :root {
@@ -265,6 +265,7 @@
   --mch_line_heights_26: 3.625rem;
   --mch_line_heights_27: 4.5rem;
   --mch_line_heights_28: 2.5rem;
+  --mch_line_heights_29: 3.5rem;
   --mch_font_weights_art_basel_headline_0: 700;
   --mch_font_weights_art_basel_text_1: 400;
   --mch_font_weights_art_basel_text_2: 700;
@@ -297,12 +298,22 @@
   --mch_font_size_24: 5.5rem;
   --mch_font_size_25: 6.5rem;
   --mch_font_size_26: 8rem;
+  --mch_font_size_27: 3.5rem;
   --mch_letter_spacing_0: 0rem;
   --mch_letter_spacing_1: 0.01875rem;
   --mch_letter_spacing_2: 0.0625rem;
   --mch_letter_spacing_3: 0.25rem;
   --mch_paragraph_spacing_0: 0;
   --mch_paragraph_spacing_1: 4;
+  --mch_typography_headings_xs_sm_display_font_family: "Art Basel Headline";
+  --mch_typography_headings_xs_sm_display_font_weight: 700;
+  --mch_typography_headings_xs_sm_display_line_height: 2.5rem;
+  --mch_typography_headings_xs_sm_display_font_size: 2.5rem;
+  --mch_typography_headings_xs_sm_display_letter_spacing: 0rem;
+  --mch_typography_headings_xs_sm_display_paragraph_spacing: 0;
+  --mch_typography_headings_xs_sm_display_paragraph_indent: 0;
+  --mch_typography_headings_xs_sm_display_text_case: none;
+  --mch_typography_headings_xs_sm_display_text_decoration: none;
   --mch_typography_headings_xs_sm_h1_font_family: "Art Basel Headline";
   --mch_typography_headings_xs_sm_h1_font_weight: 700;
   --mch_typography_headings_xs_sm_h1_line_height: 2.188rem;
@@ -348,6 +359,15 @@
   --mch_typography_headings_xs_sm_h5_paragraph_indent: 0;
   --mch_typography_headings_xs_sm_h5_text_case: none;
   --mch_typography_headings_xs_sm_h5_text_decoration: none;
+  --mch_typography_headings_xl_display_font_family: "Art Basel Headline";
+  --mch_typography_headings_xl_display_font_weight: 700;
+  --mch_typography_headings_xl_display_line_height: 4rem;
+  --mch_typography_headings_xl_display_font_size: 4rem;
+  --mch_typography_headings_xl_display_letter_spacing: 0rem;
+  --mch_typography_headings_xl_display_paragraph_spacing: 0;
+  --mch_typography_headings_xl_display_paragraph_indent: 0;
+  --mch_typography_headings_xl_display_text_case: none;
+  --mch_typography_headings_xl_display_text_decoration: none;
   --mch_typography_headings_xl_h1_font_family: "Art Basel Headline";
   --mch_typography_headings_xl_h1_font_weight: 700;
   --mch_typography_headings_xl_h1_line_height: 3rem;
@@ -393,6 +413,15 @@
   --mch_typography_headings_xl_h5_paragraph_indent: 0;
   --mch_typography_headings_xl_h5_text_case: none;
   --mch_typography_headings_xl_h5_text_decoration: none;
+  --mch_typography_headings_md_display_font_family: "Art Basel Headline";
+  --mch_typography_headings_md_display_font_weight: 700;
+  --mch_typography_headings_md_display_line_height: 3rem;
+  --mch_typography_headings_md_display_font_size: 3rem;
+  --mch_typography_headings_md_display_letter_spacing: 0rem;
+  --mch_typography_headings_md_display_paragraph_spacing: 4;
+  --mch_typography_headings_md_display_paragraph_indent: 0;
+  --mch_typography_headings_md_display_text_case: none;
+  --mch_typography_headings_md_display_text_decoration: none;
   --mch_typography_headings_md_h1_font_family: "Art Basel Headline";
   --mch_typography_headings_md_h1_font_weight: 700;
   --mch_typography_headings_md_h1_line_height: 2.563rem;
@@ -438,6 +467,15 @@
   --mch_typography_headings_md_h5_paragraph_indent: 0;
   --mch_typography_headings_md_h5_text_case: none;
   --mch_typography_headings_md_h5_text_decoration: none;
+  --mch_typography_headings_lg_display_font_family: "Art Basel Headline";
+  --mch_typography_headings_lg_display_font_weight: 700;
+  --mch_typography_headings_lg_display_line_height: 3.5rem;
+  --mch_typography_headings_lg_display_font_size: 3.5rem;
+  --mch_typography_headings_lg_display_letter_spacing: 0rem;
+  --mch_typography_headings_lg_display_paragraph_spacing: 4;
+  --mch_typography_headings_lg_display_paragraph_indent: 0;
+  --mch_typography_headings_lg_display_text_case: none;
+  --mch_typography_headings_lg_display_text_decoration: none;
   --mch_typography_headings_lg_h1_font_family: "Art Basel Headline";
   --mch_typography_headings_lg_h1_font_weight: 700;
   --mch_typography_headings_lg_h1_line_height: 2.875rem;
@@ -483,6 +521,15 @@
   --mch_typography_headings_lg_h5_paragraph_indent: 0;
   --mch_typography_headings_lg_h5_text_case: none;
   --mch_typography_headings_lg_h5_text_decoration: none;
+  --mch_typography_headings_2_xl_display_font_family: "Art Basel Headline";
+  --mch_typography_headings_2_xl_display_font_weight: 700;
+  --mch_typography_headings_2_xl_display_line_height: 4rem;
+  --mch_typography_headings_2_xl_display_font_size: 4rem;
+  --mch_typography_headings_2_xl_display_letter_spacing: 0rem;
+  --mch_typography_headings_2_xl_display_paragraph_spacing: 0;
+  --mch_typography_headings_2_xl_display_paragraph_indent: 0;
+  --mch_typography_headings_2_xl_display_text_case: none;
+  --mch_typography_headings_2_xl_display_text_decoration: none;
   --mch_typography_headings_2_xl_h1_font_family: "Art Basel Headline";
   --mch_typography_headings_2_xl_h1_font_weight: 700;
   --mch_typography_headings_2_xl_h1_line_height: 3.125rem;

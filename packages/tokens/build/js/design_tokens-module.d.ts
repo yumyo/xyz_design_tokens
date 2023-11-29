@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Fri, 06 Oct 2023 15:18:26 GMT
+ * Generated on Wed, 29 Nov 2023 09:16:51 GMT
  */
 
 export default tokens;
@@ -375,7 +375,8 @@ declare const tokens: {
     "25": DesignToken,
     "26": DesignToken,
     "27": DesignToken,
-    "28": DesignToken
+    "28": DesignToken,
+    "29": DesignToken
   },
   "fontWeights": {
     "artBaselHeadline0": DesignToken,
@@ -411,7 +412,8 @@ declare const tokens: {
     "23": DesignToken,
     "24": DesignToken,
     "25": DesignToken,
-    "26": DesignToken
+    "26": DesignToken,
+    "27": DesignToken
   },
   "letterSpacing": {
     "0": DesignToken,
@@ -426,6 +428,17 @@ declare const tokens: {
   "typography": {
     "headings": {
       "xsSm": {
+        "display": {
+          "fontFamily": DesignToken,
+          "fontWeight": DesignToken,
+          "lineHeight": DesignToken,
+          "fontSize": DesignToken,
+          "letterSpacing": DesignToken,
+          "paragraphSpacing": DesignToken,
+          "paragraphIndent": DesignToken,
+          "textCase": DesignToken,
+          "textDecoration": DesignToken
+        },
         "h1": {
           "fontFamily": DesignToken,
           "fontWeight": DesignToken,
@@ -483,6 +496,17 @@ declare const tokens: {
         }
       },
       "xl": {
+        "display": {
+          "fontFamily": DesignToken,
+          "fontWeight": DesignToken,
+          "lineHeight": DesignToken,
+          "fontSize": DesignToken,
+          "letterSpacing": DesignToken,
+          "paragraphSpacing": DesignToken,
+          "paragraphIndent": DesignToken,
+          "textCase": DesignToken,
+          "textDecoration": DesignToken
+        },
         "h1": {
           "fontFamily": DesignToken,
           "fontWeight": DesignToken,
@@ -540,6 +564,17 @@ declare const tokens: {
         }
       },
       "md": {
+        "display": {
+          "fontFamily": DesignToken,
+          "fontWeight": DesignToken,
+          "lineHeight": DesignToken,
+          "fontSize": DesignToken,
+          "letterSpacing": DesignToken,
+          "paragraphSpacing": DesignToken,
+          "paragraphIndent": DesignToken,
+          "textCase": DesignToken,
+          "textDecoration": DesignToken
+        },
         "h1": {
           "fontFamily": DesignToken,
           "fontWeight": DesignToken,
@@ -597,6 +632,17 @@ declare const tokens: {
         }
       },
       "lg": {
+        "display": {
+          "fontFamily": DesignToken,
+          "fontWeight": DesignToken,
+          "lineHeight": DesignToken,
+          "fontSize": DesignToken,
+          "letterSpacing": DesignToken,
+          "paragraphSpacing": DesignToken,
+          "paragraphIndent": DesignToken,
+          "textCase": DesignToken,
+          "textDecoration": DesignToken
+        },
         "h1": {
           "fontFamily": DesignToken,
           "fontWeight": DesignToken,
@@ -654,6 +700,17 @@ declare const tokens: {
         }
       },
       "2Xl": {
+        "display": {
+          "fontFamily": DesignToken,
+          "fontWeight": DesignToken,
+          "lineHeight": DesignToken,
+          "fontSize": DesignToken,
+          "letterSpacing": DesignToken,
+          "paragraphSpacing": DesignToken,
+          "paragraphIndent": DesignToken,
+          "textCase": DesignToken,
+          "textDecoration": DesignToken
+        },
         "h1": {
           "fontFamily": DesignToken,
           "fontWeight": DesignToken,
