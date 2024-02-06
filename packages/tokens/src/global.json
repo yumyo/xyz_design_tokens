@@ -1926,5 +1926,35 @@
       "value": "2",
       "type": "borderWidth"
     }
+  },
+  "motion": {
+    "easings": {
+      "easeIn": {
+        "value": "0.76, 0.0, 1.0, 1.0",
+        "type": "other"
+      },
+      "easeOut": {
+        "value": "0.0, 0.0, 0.24, 1.0",
+        "type": "other"
+      },
+      "easeInOut": {
+        "value": "0.76, 0, 0.24, 1",
+        "type": "other"
+      }
+    },
+    "durations": {
+      "direct": {
+        "value": "0.3",
+        "type": "other"
+      },
+      "moderate": {
+        "value": "0.6",
+        "type": "other"
+      },
+      "relaxed": {
+        "value": "1.2",
+        "type": "other"
+      }
+    }
   }
 }
