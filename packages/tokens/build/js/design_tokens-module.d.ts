@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Tue, 16 Jan 2024 12:23:30 GMT
+ * Generated on Tue, 06 Feb 2024 15:31:23 GMT
  */
 
 export default tokens;
@@ -1385,5 +1385,17 @@ declare const tokens: {
     "0": DesignToken,
     "1": DesignToken,
     "2": DesignToken
+  },
+  "motion": {
+    "easings": {
+      "easeIn": DesignToken,
+      "easeOut": DesignToken,
+      "easeInOut": DesignToken
+    },
+    "durations": {
+      "direct": DesignToken,
+      "moderate": DesignToken,
+      "relaxed": DesignToken
+    }
   }
 }

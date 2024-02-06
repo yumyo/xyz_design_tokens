@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Tue, 16 Jan 2024 12:23:30 GMT
+ * Generated on Tue, 06 Feb 2024 15:31:23 GMT
  */
 
 module.exports = {
@@ -25456,6 +25456,138 @@ module.exports = {
         "borderWidth",
         "2"
       ]
+    }
+  },
+  "motion": {
+    "easings": {
+      "easeIn": {
+        "value": "0.76, 0.0, 1.0, 1.0",
+        "type": "other",
+        "filePath": "src/global.json",
+        "isSource": true,
+        "original": {
+          "value": "0.76, 0.0, 1.0, 1.0",
+          "type": "other"
+        },
+        "name": "mch_motion_easings_ease_in",
+        "attributes": {
+          "category": "motion",
+          "type": "easings",
+          "item": "easeIn"
+        },
+        "path": [
+          "motion",
+          "easings",
+          "easeIn"
+        ]
+      },
+      "easeOut": {
+        "value": "0.0, 0.0, 0.24, 1.0",
+        "type": "other",
+        "filePath": "src/global.json",
+        "isSource": true,
+        "original": {
+          "value": "0.0, 0.0, 0.24, 1.0",
+          "type": "other"
+        },
+        "name": "mch_motion_easings_ease_out",
+        "attributes": {
+          "category": "motion",
+          "type": "easings",
+          "item": "easeOut"
+        },
+        "path": [
+          "motion",
+          "easings",
+          "easeOut"
+        ]
+      },
+      "easeInOut": {
+        "value": "0.76, 0, 0.24, 1",
+        "type": "other",
+        "filePath": "src/global.json",
+        "isSource": true,
+        "original": {
+          "value": "0.76, 0, 0.24, 1",
+          "type": "other"
+        },
+        "name": "mch_motion_easings_ease_in_out",
+        "attributes": {
+          "category": "motion",
+          "type": "easings",
+          "item": "easeInOut"
+        },
+        "path": [
+          "motion",
+          "easings",
+          "easeInOut"
+        ]
+      }
+    },
+    "durations": {
+      "direct": {
+        "value": "0.3",
+        "type": "other",
+        "filePath": "src/global.json",
+        "isSource": true,
+        "original": {
+          "value": "0.3",
+          "type": "other"
+        },
+        "name": "mch_motion_durations_direct",
+        "attributes": {
+          "category": "motion",
+          "type": "durations",
+          "item": "direct"
+        },
+        "path": [
+          "motion",
+          "durations",
+          "direct"
+        ]
+      },
+      "moderate": {
+        "value": "0.6",
+        "type": "other",
+        "filePath": "src/global.json",
+        "isSource": true,
+        "original": {
+          "value": "0.6",
+          "type": "other"
+        },
+        "name": "mch_motion_durations_moderate",
+        "attributes": {
+          "category": "motion",
+          "type": "durations",
+          "item": "moderate"
+        },
+        "path": [
+          "motion",
+          "durations",
+          "moderate"
+        ]
+      },
+      "relaxed": {
+        "value": "1.2",
+        "type": "other",
+        "filePath": "src/global.json",
+        "isSource": true,
+        "original": {
+          "value": "1.2",
+          "type": "other"
+        },
+        "name": "mch_motion_durations_relaxed",
+        "attributes": {
+          "category": "motion",
+          "type": "durations",
+          "item": "relaxed"
+        },
+        "path": [
+          "motion",
+          "durations",
+          "relaxed"
+        ]
+      }
     }
   }
 };

@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Tue, 16 Jan 2024 12:23:30 GMT
+ * Generated on Tue, 06 Feb 2024 15:31:23 GMT
  */
 
 export const mch_color_base_primary_black = "#1d2327";
@@ -1049,3 +1049,9 @@ export const mch_border_radius_full = "100%";
 export const mch_border_width_0 = "0";
 export const mch_border_width_1 = "1";
 export const mch_border_width_2 = "2";
+export const mch_motion_easings_ease_in = "0.76, 0.0, 1.0, 1.0";
+export const mch_motion_easings_ease_out = "0.0, 0.0, 0.24, 1.0";
+export const mch_motion_easings_ease_in_out = "0.76, 0, 0.24, 1";
+export const mch_motion_durations_direct = "0.3";
+export const mch_motion_durations_moderate = "0.6";
+export const mch_motion_durations_relaxed = "1.2";
