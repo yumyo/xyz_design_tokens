@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Wed, 07 Aug 2024 08:49:48 GMT
+ * Generated on Wed, 07 Aug 2024 09:49:34 GMT
  */
 
 module.exports = {
@@ -6296,536 +6296,479 @@ module.exports = {
     }
   },
   "fontSize": {
-    "0": {
+    "11": {
+      "value": "0.6875rem",
+      "type": "fontSizes",
+      "filePath": "src/Web-Typography.json",
+      "isSource": true,
+      "original": {
+        "value": "11",
+        "type": "fontSizes"
+      },
+      "name": "mch_screen_font_size_11",
+      "attributes": {
+        "category": "font-size",
+        "type": "11"
+      },
+      "path": [
+        "font-size",
+        "11"
+      ]
+    },
+    "12": {
       "value": "0.75rem",
       "type": "fontSizes",
-      "filePath": "src/global.json",
+      "filePath": "src/Web-Typography.json",
       "isSource": true,
       "original": {
         "value": "12",
         "type": "fontSizes"
       },
-      "name": "mch_font_size_0",
+      "name": "mch_screen_font_size_12",
       "attributes": {
-        "category": "fontSize",
-        "type": "0"
+        "category": "font-size",
+        "type": "12"
       },
       "path": [
-        "fontSize",
-        "0"
+        "font-size",
+        "12"
       ]
     },
-    "1": {
+    "13": {
+      "value": "0.8125rem",
+      "type": "fontSizes",
+      "filePath": "src/Web-Typography.json",
+      "isSource": true,
+      "original": {
+        "value": "13",
+        "type": "fontSizes"
+      },
+      "name": "mch_screen_font_size_13",
+      "attributes": {
+        "category": "font-size",
+        "type": "13"
+      },
+      "path": [
+        "font-size",
+        "13"
+      ]
+    },
+    "14": {
       "value": "0.875rem",
       "type": "fontSizes",
-      "filePath": "src/global.json",
+      "filePath": "src/Web-Typography.json",
       "isSource": true,
       "original": {
         "value": "14",
         "type": "fontSizes"
       },
-      "name": "mch_font_size_1",
+      "name": "mch_screen_font_size_14",
       "attributes": {
-        "category": "fontSize",
-        "type": "1"
+        "category": "font-size",
+        "type": "14"
       },
       "path": [
-        "fontSize",
-        "1"
+        "font-size",
+        "14"
       ]
     },
-    "2": {
+    "15": {
+      "value": "0.9375rem",
+      "type": "fontSizes",
+      "filePath": "src/Web-Typography.json",
+      "isSource": true,
+      "original": {
+        "value": "15",
+        "type": "fontSizes"
+      },
+      "name": "mch_screen_font_size_15",
+      "attributes": {
+        "category": "font-size",
+        "type": "15"
+      },
+      "path": [
+        "font-size",
+        "15"
+      ]
+    },
+    "16": {
       "value": "1rem",
       "type": "fontSizes",
-      "filePath": "src/global.json",
+      "filePath": "src/Web-Typography.json",
       "isSource": true,
       "original": {
         "value": "16",
         "type": "fontSizes"
       },
-      "name": "mch_font_size_2",
+      "name": "mch_screen_font_size_16",
       "attributes": {
-        "category": "fontSize",
-        "type": "2"
+        "category": "font-size",
+        "type": "16"
       },
       "path": [
-        "fontSize",
-        "2"
+        "font-size",
+        "16"
       ]
     },
-    "3": {
+    "18": {
       "value": "1.125rem",
       "type": "fontSizes",
-      "filePath": "src/global.json",
+      "filePath": "src/Web-Typography.json",
       "isSource": true,
       "original": {
         "value": "18",
         "type": "fontSizes"
       },
-      "name": "mch_font_size_3",
+      "name": "mch_screen_font_size_18",
       "attributes": {
-        "category": "fontSize",
-        "type": "3"
+        "category": "font-size",
+        "type": "18"
       },
       "path": [
-        "fontSize",
-        "3"
+        "font-size",
+        "18"
       ]
     },
-    "4": {
+    "20": {
       "value": "1.25rem",
       "type": "fontSizes",
-      "filePath": "src/global.json",
+      "filePath": "src/Web-Typography.json",
       "isSource": true,
       "original": {
         "value": "20",
         "type": "fontSizes"
       },
-      "name": "mch_font_size_4",
+      "name": "mch_screen_font_size_20",
       "attributes": {
-        "category": "fontSize",
-        "type": "4"
+        "category": "font-size",
+        "type": "20"
       },
       "path": [
-        "fontSize",
-        "4"
+        "font-size",
+        "20"
       ]
     },
-    "5": {
+    "24": {
       "value": "1.5rem",
       "type": "fontSizes",
-      "filePath": "src/global.json",
+      "filePath": "src/Web-Typography.json",
       "isSource": true,
       "original": {
         "value": "24",
         "type": "fontSizes"
       },
-      "name": "mch_font_size_5",
+      "name": "mch_screen_font_size_24",
       "attributes": {
-        "category": "fontSize",
-        "type": "5"
+        "category": "font-size",
+        "type": "24"
       },
       "path": [
-        "fontSize",
-        "5"
+        "font-size",
+        "24"
       ]
     },
-    "6": {
-      "value": "1.625rem",
-      "type": "fontSizes",
-      "filePath": "src/global.json",
-      "isSource": true,
-      "original": {
-        "value": "26",
-        "type": "fontSizes"
-      },
-      "name": "mch_font_size_6",
-      "attributes": {
-        "category": "fontSize",
-        "type": "6"
-      },
-      "path": [
-        "fontSize",
-        "6"
-      ]
-    },
-    "7": {
-      "value": "1.875rem",
-      "type": "fontSizes",
-      "filePath": "src/global.json",
-      "isSource": true,
-      "original": {
-        "value": "30",
-        "type": "fontSizes"
-      },
-      "name": "mch_font_size_7",
-      "attributes": {
-        "category": "fontSize",
-        "type": "7"
-      },
-      "path": [
-        "fontSize",
-        "7"
-      ]
-    },
-    "8": {
-      "value": "2rem",
-      "type": "fontSizes",
-      "filePath": "src/global.json",
-      "isSource": true,
-      "original": {
-        "value": "32",
-        "type": "fontSizes"
-      },
-      "name": "mch_font_size_8",
-      "attributes": {
-        "category": "fontSize",
-        "type": "8"
-      },
-      "path": [
-        "fontSize",
-        "8"
-      ]
-    },
-    "9": {
-      "value": "2.125rem",
-      "type": "fontSizes",
-      "filePath": "src/global.json",
-      "isSource": true,
-      "original": {
-        "value": "34",
-        "type": "fontSizes"
-      },
-      "name": "mch_font_size_9",
-      "attributes": {
-        "category": "fontSize",
-        "type": "9"
-      },
-      "path": [
-        "fontSize",
-        "9"
-      ]
-    },
-    "10": {
-      "value": "2.25rem",
-      "type": "fontSizes",
-      "filePath": "src/global.json",
-      "isSource": true,
-      "original": {
-        "value": "36",
-        "type": "fontSizes"
-      },
-      "name": "mch_font_size_10",
-      "attributes": {
-        "category": "fontSize",
-        "type": "10"
-      },
-      "path": [
-        "fontSize",
-        "10"
-      ]
-    },
-    "11": {
-      "value": "2.375rem",
-      "type": "fontSizes",
-      "filePath": "src/global.json",
-      "isSource": true,
-      "original": {
-        "value": "38",
-        "type": "fontSizes"
-      },
-      "name": "mch_font_size_11",
-      "attributes": {
-        "category": "fontSize",
-        "type": "11"
-      },
-      "path": [
-        "fontSize",
-        "11"
-      ]
-    },
-    "12": {
-      "value": "2.5rem",
-      "type": "fontSizes",
-      "filePath": "src/global.json",
-      "isSource": true,
-      "original": {
-        "value": "40",
-        "type": "fontSizes"
-      },
-      "name": "mch_font_size_12",
-      "attributes": {
-        "category": "fontSize",
-        "type": "12"
-      },
-      "path": [
-        "fontSize",
-        "12"
-      ]
-    },
-    "13": {
-      "value": "2.625rem",
-      "type": "fontSizes",
-      "filePath": "src/global.json",
-      "isSource": true,
-      "original": {
-        "value": "42",
-        "type": "fontSizes"
-      },
-      "name": "mch_font_size_13",
-      "attributes": {
-        "category": "fontSize",
-        "type": "13"
-      },
-      "path": [
-        "fontSize",
-        "13"
-      ]
-    },
-    "14": {
-      "value": "3rem",
-      "type": "fontSizes",
-      "filePath": "src/global.json",
-      "isSource": true,
-      "original": {
-        "value": "48",
-        "type": "fontSizes"
-      },
-      "name": "mch_font_size_14",
-      "attributes": {
-        "category": "fontSize",
-        "type": "14"
-      },
-      "path": [
-        "fontSize",
-        "14"
-      ]
-    },
-    "15": {
+    "28": {
       "value": "1.75rem",
       "type": "fontSizes",
-      "filePath": "src/global.json",
+      "filePath": "src/Web-Typography.json",
       "isSource": true,
       "original": {
         "value": "28",
         "type": "fontSizes"
       },
-      "name": "mch_font_size_15",
+      "name": "mch_screen_font_size_28",
       "attributes": {
-        "category": "fontSize",
-        "type": "15"
+        "category": "font-size",
+        "type": "28"
       },
       "path": [
-        "fontSize",
-        "15"
+        "font-size",
+        "28"
       ]
     },
-    "16": {
+    "30": {
+      "value": "1.875rem",
+      "type": "fontSizes",
+      "filePath": "src/Web-Typography.json",
+      "isSource": true,
+      "original": {
+        "value": "30",
+        "type": "fontSizes"
+      },
+      "name": "mch_screen_font_size_30",
+      "attributes": {
+        "category": "font-size",
+        "type": "30"
+      },
+      "path": [
+        "font-size",
+        "30"
+      ]
+    },
+    "34": {
+      "value": "2.125rem",
+      "type": "fontSizes",
+      "filePath": "src/Web-Typography.json",
+      "isSource": true,
+      "original": {
+        "value": "34",
+        "type": "fontSizes"
+      },
+      "name": "mch_screen_font_size_34",
+      "attributes": {
+        "category": "font-size",
+        "type": "34"
+      },
+      "path": [
+        "font-size",
+        "34"
+      ]
+    },
+    "40": {
+      "value": "2.5rem",
+      "type": "fontSizes",
+      "filePath": "src/Web-Typography.json",
+      "isSource": true,
+      "original": {
+        "value": "40",
+        "type": "fontSizes"
+      },
+      "name": "mch_screen_font_size_40",
+      "attributes": {
+        "category": "font-size",
+        "type": "40"
+      },
+      "path": [
+        "font-size",
+        "40"
+      ]
+    },
+    "44": {
       "value": "2.75rem",
       "type": "fontSizes",
-      "filePath": "src/global.json",
+      "filePath": "src/Web-Typography.json",
       "isSource": true,
       "original": {
         "value": "44",
         "type": "fontSizes"
       },
-      "name": "mch_font_size_16",
+      "name": "mch_screen_font_size_44",
       "attributes": {
-        "category": "fontSize",
-        "type": "16"
+        "category": "font-size",
+        "type": "44"
       },
       "path": [
-        "fontSize",
-        "16"
+        "font-size",
+        "44"
       ]
     },
-    "17": {
+    "46": {
       "value": "2.875rem",
       "type": "fontSizes",
-      "filePath": "src/global.json",
+      "filePath": "src/Web-Typography.json",
       "isSource": true,
       "original": {
         "value": "46",
         "type": "fontSizes"
       },
-      "name": "mch_font_size_17",
+      "name": "mch_screen_font_size_46",
       "attributes": {
-        "category": "fontSize",
-        "type": "17"
+        "category": "font-size",
+        "type": "46"
       },
       "path": [
-        "fontSize",
-        "17"
+        "font-size",
+        "46"
       ]
     },
-    "18": {
+    "48": {
+      "value": "3rem",
+      "type": "fontSizes",
+      "filePath": "src/Web-Typography.json",
+      "isSource": true,
+      "original": {
+        "value": "48",
+        "type": "fontSizes"
+      },
+      "name": "mch_screen_font_size_48",
+      "attributes": {
+        "category": "font-size",
+        "type": "48"
+      },
+      "path": [
+        "font-size",
+        "48"
+      ]
+    },
+    "52": {
       "value": "3.25rem",
       "type": "fontSizes",
-      "filePath": "src/global.json",
+      "filePath": "src/Web-Typography.json",
       "isSource": true,
       "original": {
         "value": "52",
         "type": "fontSizes"
       },
-      "name": "mch_font_size_18",
+      "name": "mch_screen_font_size_52",
       "attributes": {
-        "category": "fontSize",
-        "type": "18"
+        "category": "font-size",
+        "type": "52"
       },
       "path": [
-        "fontSize",
-        "18"
+        "font-size",
+        "52"
       ]
     },
-    "19": {
+    "58": {
       "value": "3.625rem",
       "type": "fontSizes",
-      "filePath": "src/global.json",
+      "filePath": "src/Web-Typography.json",
       "isSource": true,
       "original": {
         "value": "58",
         "type": "fontSizes"
       },
-      "name": "mch_font_size_19",
+      "name": "mch_screen_font_size_58",
       "attributes": {
-        "category": "fontSize",
-        "type": "19"
+        "category": "font-size",
+        "type": "58"
       },
       "path": [
-        "fontSize",
-        "19"
+        "font-size",
+        "58"
       ]
     },
-    "20": {
+    "64": {
       "value": "4rem",
       "type": "fontSizes",
-      "filePath": "src/global.json",
+      "filePath": "src/Web-Typography.json",
       "isSource": true,
       "original": {
         "value": "64",
         "type": "fontSizes"
       },
-      "name": "mch_font_size_20",
+      "name": "mch_screen_font_size_64",
       "attributes": {
-        "category": "fontSize",
-        "type": "20"
+        "category": "font-size",
+        "type": "64"
       },
       "path": [
-        "fontSize",
-        "20"
+        "font-size",
+        "64"
       ]
     },
-    "21": {
+    "66": {
       "value": "4.125rem",
       "type": "fontSizes",
-      "filePath": "src/global.json",
+      "filePath": "src/Web-Typography.json",
       "isSource": true,
       "original": {
         "value": "66",
         "type": "fontSizes"
       },
-      "name": "mch_font_size_21",
+      "name": "mch_screen_font_size_66",
       "attributes": {
-        "category": "fontSize",
-        "type": "21"
+        "category": "font-size",
+        "type": "66"
       },
       "path": [
-        "fontSize",
-        "21"
+        "font-size",
+        "66"
       ]
     },
-    "22": {
+    "72": {
       "value": "4.5rem",
       "type": "fontSizes",
-      "filePath": "src/global.json",
+      "filePath": "src/Web-Typography.json",
       "isSource": true,
       "original": {
         "value": "72",
         "type": "fontSizes"
       },
-      "name": "mch_font_size_22",
+      "name": "mch_screen_font_size_72",
       "attributes": {
-        "category": "fontSize",
-        "type": "22"
+        "category": "font-size",
+        "type": "72"
       },
       "path": [
-        "fontSize",
-        "22"
+        "font-size",
+        "72"
       ]
     },
-    "23": {
+    "84": {
       "value": "5.25rem",
       "type": "fontSizes",
-      "filePath": "src/global.json",
+      "filePath": "src/Web-Typography.json",
       "isSource": true,
       "original": {
         "value": "84",
         "type": "fontSizes"
       },
-      "name": "mch_font_size_23",
+      "name": "mch_screen_font_size_84",
       "attributes": {
-        "category": "fontSize",
-        "type": "23"
+        "category": "font-size",
+        "type": "84"
       },
       "path": [
-        "fontSize",
-        "23"
+        "font-size",
+        "84"
       ]
     },
-    "24": {
+    "88": {
       "value": "5.5rem",
       "type": "fontSizes",
-      "filePath": "src/global.json",
+      "filePath": "src/Web-Typography.json",
       "isSource": true,
       "original": {
         "value": "88",
         "type": "fontSizes"
       },
-      "name": "mch_font_size_24",
+      "name": "mch_screen_font_size_88",
       "attributes": {
-        "category": "fontSize",
-        "type": "24"
+        "category": "font-size",
+        "type": "88"
       },
       "path": [
-        "fontSize",
-        "24"
+        "font-size",
+        "88"
       ]
     },
-    "25": {
+    "104": {
       "value": "6.5rem",
       "type": "fontSizes",
-      "filePath": "src/global.json",
+      "filePath": "src/Web-Typography.json",
       "isSource": true,
       "original": {
         "value": "104",
         "type": "fontSizes"
       },
-      "name": "mch_font_size_25",
+      "name": "mch_screen_font_size_104",
       "attributes": {
-        "category": "fontSize",
-        "type": "25"
+        "category": "font-size",
+        "type": "104"
       },
       "path": [
-        "fontSize",
-        "25"
+        "font-size",
+        "104"
       ]
     },
-    "26": {
+    "128": {
       "value": "8rem",
       "type": "fontSizes",
-      "filePath": "src/global.json",
+      "filePath": "src/Web-Typography.json",
       "isSource": true,
       "original": {
         "value": "128",
         "type": "fontSizes"
       },
-      "name": "mch_font_size_26",
+      "name": "mch_screen_font_size_128",
       "attributes": {
-        "category": "fontSize",
-        "type": "26"
+        "category": "font-size",
+        "type": "128"
       },
       "path": [
-        "fontSize",
-        "26"
-      ]
-    },
-    "27": {
-      "value": "3.5rem",
-      "type": "fontSizes",
-      "filePath": "src/global.json",
-      "isSource": true,
-      "original": {
-        "value": "56",
-        "type": "fontSizes"
-      },
-      "name": "mch_font_size_27",
-      "attributes": {
-        "category": "fontSize",
-        "type": "27"
-      },
-      "path": [
-        "fontSize",
-        "27"
+        "font-size",
+        "128"
       ]
     }
   },
@@ -6833,77 +6776,77 @@ module.exports = {
     "0": {
       "value": "0rem",
       "type": "letterSpacing",
-      "filePath": "src/global.json",
+      "filePath": "src/Web-Typography.json",
       "isSource": true,
       "original": {
-        "value": "0%",
+        "value": "0",
         "type": "letterSpacing"
       },
-      "name": "mch_letter_spacing_0",
+      "name": "mch_screen_letter_spacing_0",
       "attributes": {
-        "category": "letterSpacing",
+        "category": "letter-spacing",
         "type": "0"
       },
       "path": [
-        "letterSpacing",
+        "letter-spacing",
         "0"
       ]
     },
-    "1": {
-      "value": "0.01875rem",
-      "type": "letterSpacing",
-      "filePath": "src/global.json",
-      "isSource": true,
-      "original": {
-        "value": "0.3%",
-        "type": "letterSpacing"
-      },
-      "name": "mch_letter_spacing_1",
-      "attributes": {
-        "category": "letterSpacing",
-        "type": "1"
-      },
-      "path": [
-        "letterSpacing",
-        "1"
-      ]
-    },
-    "2": {
+    "10": {
       "value": "0.0625rem",
       "type": "letterSpacing",
-      "filePath": "src/global.json",
+      "filePath": "src/Web-Typography.json",
       "isSource": true,
       "original": {
-        "value": "1px",
+        "value": "1",
         "type": "letterSpacing"
       },
-      "name": "mch_letter_spacing_2",
+      "name": "mch_screen_letter_spacing_10",
       "attributes": {
-        "category": "letterSpacing",
-        "type": "2"
+        "category": "letter-spacing",
+        "type": "10"
       },
       "path": [
-        "letterSpacing",
-        "2"
+        "letter-spacing",
+        "10"
       ]
     },
-    "3": {
-      "value": "0.25rem",
+    "15": {
+      "value": "0.09375rem",
       "type": "letterSpacing",
-      "filePath": "src/global.json",
+      "filePath": "src/Web-Typography.json",
       "isSource": true,
       "original": {
-        "value": "4px",
+        "value": "1.5",
         "type": "letterSpacing"
       },
-      "name": "mch_letter_spacing_3",
+      "name": "mch_screen_letter_spacing_15",
       "attributes": {
-        "category": "letterSpacing",
-        "type": "3"
+        "category": "letter-spacing",
+        "type": "15"
       },
       "path": [
-        "letterSpacing",
-        "3"
+        "letter-spacing",
+        "15"
+      ]
+    },
+    "20": {
+      "value": "0.125rem",
+      "type": "letterSpacing",
+      "filePath": "src/Web-Typography.json",
+      "isSource": true,
+      "original": {
+        "value": "2",
+        "type": "letterSpacing"
+      },
+      "name": "mch_screen_letter_spacing_20",
+      "attributes": {
+        "category": "letter-spacing",
+        "type": "20"
+      },
+      "path": [
+        "letter-spacing",
+        "20"
       ]
     }
   },
@@ -6948,18198 +6891,6267 @@ module.exports = {
     }
   },
   "typography": {
-    "headings": {
-      "xsSm": {
-        "display": {
-          "fontFamily": {
-            "value": "Art Basel Headline",
-            "type": "fontFamilies",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{fontFamilies.art-basel-headline}",
-              "type": "fontFamilies"
+    "heading": {
+      "standard": {
+        "xsSm": {
+          "display": {
+            "fontFamily": {
+              "value": "Art Basel Headline Screen",
+              "type": "fontFamilies",
+              "filePath": "src/Web-Typography.json",
+              "isSource": true,
+              "original": {
+                "value": "{font-family.art-basel-headline-screen}",
+                "type": "fontFamilies"
+              },
+              "name": "mch_screen_typography_heading_standard_xs_sm_display_font_family",
+              "attributes": {
+                "category": "typography",
+                "type": "heading",
+                "item": "standard",
+                "subitem": "xs-sm",
+                "state": "display"
+              },
+              "path": [
+                "typography",
+                "heading",
+                "standard",
+                "xs-sm",
+                "display",
+                "fontFamily"
+              ]
             },
-            "name": "mch_typography_headings_xs_sm_display_font_family",
-            "attributes": {
-              "category": "Typography",
-              "type": "Headings",
-              "item": "XS-SM",
-              "subitem": "Display",
-              "state": "fontFamily"
+            "fontWeight": {
+              "value": "700",
+              "type": "fontWeights",
+              "filePath": "src/Web-Typography.json",
+              "isSource": true,
+              "original": {
+                "value": "{font-weight.bold}",
+                "type": "fontWeights"
+              },
+              "name": "mch_screen_typography_heading_standard_xs_sm_display_font_weight",
+              "attributes": {
+                "category": "typography",
+                "type": "heading",
+                "item": "standard",
+                "subitem": "xs-sm",
+                "state": "display"
+              },
+              "path": [
+                "typography",
+                "heading",
+                "standard",
+                "xs-sm",
+                "display",
+                "fontWeight"
+              ]
             },
-            "path": [
-              "Typography",
-              "Headings",
-              "XS-SM",
-              "Display",
-              "fontFamily"
-            ]
+            "fontSize": {
+              "value": "4.5rem",
+              "type": "fontSizes",
+              "filePath": "src/Web-Typography.json",
+              "isSource": true,
+              "original": {
+                "value": "{font-size.72}",
+                "type": "fontSizes"
+              },
+              "name": "mch_screen_typography_heading_standard_xs_sm_display_font_size",
+              "attributes": {
+                "category": "typography",
+                "type": "heading",
+                "item": "standard",
+                "subitem": "xs-sm",
+                "state": "display"
+              },
+              "path": [
+                "typography",
+                "heading",
+                "standard",
+                "xs-sm",
+                "display",
+                "fontSize"
+              ]
+            },
+            "lineHeight": {
+              "value": "4.125rem",
+              "type": "lineHeights",
+              "filePath": "src/Web-Typography.json",
+              "isSource": true,
+              "original": {
+                "value": "{line-height.66}",
+                "type": "lineHeights"
+              },
+              "name": "mch_screen_typography_heading_standard_xs_sm_display_line_height",
+              "attributes": {
+                "category": "typography",
+                "type": "heading",
+                "item": "standard",
+                "subitem": "xs-sm",
+                "state": "display"
+              },
+              "path": [
+                "typography",
+                "heading",
+                "standard",
+                "xs-sm",
+                "display",
+                "lineHeight"
+              ]
+            }
           },
-          "fontWeight": {
-            "value": "700",
-            "type": "fontWeights",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{fontWeights.art-basel-headline-0}",
-              "type": "fontWeights"
+          "h1": {
+            "fontFamily": {
+              "value": "Art Basel Headline Screen",
+              "type": "fontFamilies",
+              "filePath": "src/Web-Typography.json",
+              "isSource": true,
+              "original": {
+                "value": "{font-family.art-basel-headline-screen}",
+                "type": "fontFamilies"
+              },
+              "name": "mch_screen_typography_heading_standard_xs_sm_h1_font_family",
+              "attributes": {
+                "category": "typography",
+                "type": "heading",
+                "item": "standard",
+                "subitem": "xs-sm",
+                "state": "h1"
+              },
+              "path": [
+                "typography",
+                "heading",
+                "standard",
+                "xs-sm",
+                "h1",
+                "fontFamily"
+              ]
             },
-            "name": "mch_typography_headings_xs_sm_display_font_weight",
-            "attributes": {
-              "category": "Typography",
-              "type": "Headings",
-              "item": "XS-SM",
-              "subitem": "Display",
-              "state": "fontWeight"
+            "fontWeight": {
+              "value": "700",
+              "type": "fontWeights",
+              "filePath": "src/Web-Typography.json",
+              "isSource": true,
+              "original": {
+                "value": "{font-weight.bold}",
+                "type": "fontWeights"
+              },
+              "name": "mch_screen_typography_heading_standard_xs_sm_h1_font_weight",
+              "attributes": {
+                "category": "typography",
+                "type": "heading",
+                "item": "standard",
+                "subitem": "xs-sm",
+                "state": "h1"
+              },
+              "path": [
+                "typography",
+                "heading",
+                "standard",
+                "xs-sm",
+                "h1",
+                "fontWeight"
+              ]
             },
-            "path": [
-              "Typography",
-              "Headings",
-              "XS-SM",
-              "Display",
-              "fontWeight"
-            ]
+            "fontSize": {
+              "value": "3rem",
+              "type": "fontSizes",
+              "filePath": "src/Web-Typography.json",
+              "isSource": true,
+              "original": {
+                "value": "{font-size.48}",
+                "type": "fontSizes"
+              },
+              "name": "mch_screen_typography_heading_standard_xs_sm_h1_font_size",
+              "attributes": {
+                "category": "typography",
+                "type": "heading",
+                "item": "standard",
+                "subitem": "xs-sm",
+                "state": "h1"
+              },
+              "path": [
+                "typography",
+                "heading",
+                "standard",
+                "xs-sm",
+                "h1",
+                "fontSize"
+              ]
+            },
+            "lineHeight": {
+              "value": "2.875rem",
+              "type": "lineHeights",
+              "filePath": "src/Web-Typography.json",
+              "isSource": true,
+              "original": {
+                "value": "{line-height.46}",
+                "type": "lineHeights"
+              },
+              "name": "mch_screen_typography_heading_standard_xs_sm_h1_line_height",
+              "attributes": {
+                "category": "typography",
+                "type": "heading",
+                "item": "standard",
+                "subitem": "xs-sm",
+                "state": "h1"
+              },
+              "path": [
+                "typography",
+                "heading",
+                "standard",
+                "xs-sm",
+                "h1",
+                "lineHeight"
+              ]
+            }
           },
-          "lineHeight": {
-            "value": "2.5rem",
-            "type": "lineHeights",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{lineHeights.28}",
-              "type": "lineHeights"
+          "h2": {
+            "fontFamily": {
+              "value": "Art Basel Headline Screen",
+              "type": "fontFamilies",
+              "filePath": "src/Web-Typography.json",
+              "isSource": true,
+              "original": {
+                "value": "{font-family.art-basel-headline-screen}",
+                "type": "fontFamilies"
+              },
+              "name": "mch_screen_typography_heading_standard_xs_sm_h2_font_family",
+              "attributes": {
+                "category": "typography",
+                "type": "heading",
+                "item": "standard",
+                "subitem": "xs-sm",
+                "state": "h2"
+              },
+              "path": [
+                "typography",
+                "heading",
+                "standard",
+                "xs-sm",
+                "h2",
+                "fontFamily"
+              ]
             },
-            "name": "mch_typography_headings_xs_sm_display_line_height",
-            "attributes": {
-              "category": "Typography",
-              "type": "Headings",
-              "item": "XS-SM",
-              "subitem": "Display",
-              "state": "lineHeight"
+            "fontWeight": {
+              "value": "700",
+              "type": "fontWeights",
+              "filePath": "src/Web-Typography.json",
+              "isSource": true,
+              "original": {
+                "value": "{font-weight.bold}",
+                "type": "fontWeights"
+              },
+              "name": "mch_screen_typography_heading_standard_xs_sm_h2_font_weight",
+              "attributes": {
+                "category": "typography",
+                "type": "heading",
+                "item": "standard",
+                "subitem": "xs-sm",
+                "state": "h2"
+              },
+              "path": [
+                "typography",
+                "heading",
+                "standard",
+                "xs-sm",
+                "h2",
+                "fontWeight"
+              ]
             },
-            "path": [
-              "Typography",
-              "Headings",
-              "XS-SM",
-              "Display",
-              "lineHeight"
-            ]
+            "fontSize": {
+              "value": "2.5rem",
+              "type": "fontSizes",
+              "filePath": "src/Web-Typography.json",
+              "isSource": true,
+              "original": {
+                "value": "{font-size.40}",
+                "type": "fontSizes"
+              },
+              "name": "mch_screen_typography_heading_standard_xs_sm_h2_font_size",
+              "attributes": {
+                "category": "typography",
+                "type": "heading",
+                "item": "standard",
+                "subitem": "xs-sm",
+                "state": "h2"
+              },
+              "path": [
+                "typography",
+                "heading",
+                "standard",
+                "xs-sm",
+                "h2",
+                "fontSize"
+              ]
+            },
+            "lineHeight": {
+              "value": "2.5rem",
+              "type": "lineHeights",
+              "filePath": "src/Web-Typography.json",
+              "isSource": true,
+              "original": {
+                "value": "{line-height.40}",
+                "type": "lineHeights"
+              },
+              "name": "mch_screen_typography_heading_standard_xs_sm_h2_line_height",
+              "attributes": {
+                "category": "typography",
+                "type": "heading",
+                "item": "standard",
+                "subitem": "xs-sm",
+                "state": "h2"
+              },
+              "path": [
+                "typography",
+                "heading",
+                "standard",
+                "xs-sm",
+                "h2",
+                "lineHeight"
+              ]
+            }
           },
-          "fontSize": {
-            "value": "2.5rem",
-            "type": "fontSizes",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{fontSize.12}",
-              "type": "fontSizes"
+          "h3": {
+            "fontFamily": {
+              "value": "Art Basel Headline Screen",
+              "type": "fontFamilies",
+              "filePath": "src/Web-Typography.json",
+              "isSource": true,
+              "original": {
+                "value": "{font-family.art-basel-headline-screen}",
+                "type": "fontFamilies"
+              },
+              "name": "mch_screen_typography_heading_standard_xs_sm_h3_font_family",
+              "attributes": {
+                "category": "typography",
+                "type": "heading",
+                "item": "standard",
+                "subitem": "xs-sm",
+                "state": "h3"
+              },
+              "path": [
+                "typography",
+                "heading",
+                "standard",
+                "xs-sm",
+                "h3",
+                "fontFamily"
+              ]
             },
-            "name": "mch_typography_headings_xs_sm_display_font_size",
-            "attributes": {
-              "category": "Typography",
-              "type": "Headings",
-              "item": "XS-SM",
-              "subitem": "Display",
-              "state": "fontSize"
+            "fontWeight": {
+              "value": "700",
+              "type": "fontWeights",
+              "filePath": "src/Web-Typography.json",
+              "isSource": true,
+              "original": {
+                "value": "{font-weight.bold}",
+                "type": "fontWeights"
+              },
+              "name": "mch_screen_typography_heading_standard_xs_sm_h3_font_weight",
+              "attributes": {
+                "category": "typography",
+                "type": "heading",
+                "item": "standard",
+                "subitem": "xs-sm",
+                "state": "h3"
+              },
+              "path": [
+                "typography",
+                "heading",
+                "standard",
+                "xs-sm",
+                "h3",
+                "fontWeight"
+              ]
             },
-            "path": [
-              "Typography",
-              "Headings",
-              "XS-SM",
-              "Display",
-              "fontSize"
-            ]
+            "fontSize": {
+              "value": "1.75rem",
+              "type": "fontSizes",
+              "filePath": "src/Web-Typography.json",
+              "isSource": true,
+              "original": {
+                "value": "{font-size.28}",
+                "type": "fontSizes"
+              },
+              "name": "mch_screen_typography_heading_standard_xs_sm_h3_font_size",
+              "attributes": {
+                "category": "typography",
+                "type": "heading",
+                "item": "standard",
+                "subitem": "xs-sm",
+                "state": "h3"
+              },
+              "path": [
+                "typography",
+                "heading",
+                "standard",
+                "xs-sm",
+                "h3",
+                "fontSize"
+              ]
+            },
+            "lineHeight": {
+              "value": "1.875rem",
+              "type": "lineHeights",
+              "filePath": "src/Web-Typography.json",
+              "isSource": true,
+              "original": {
+                "value": "{line-height.30}",
+                "type": "lineHeights"
+              },
+              "name": "mch_screen_typography_heading_standard_xs_sm_h3_line_height",
+              "attributes": {
+                "category": "typography",
+                "type": "heading",
+                "item": "standard",
+                "subitem": "xs-sm",
+                "state": "h3"
+              },
+              "path": [
+                "typography",
+                "heading",
+                "standard",
+                "xs-sm",
+                "h3",
+                "lineHeight"
+              ]
+            }
           },
-          "letterSpacing": {
-            "value": "0rem",
-            "type": "letterSpacing",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{letterSpacing.0}",
-              "type": "letterSpacing"
+          "h4": {
+            "fontFamily": {
+              "value": "Art Basel Headline Screen",
+              "type": "fontFamilies",
+              "filePath": "src/Web-Typography.json",
+              "isSource": true,
+              "original": {
+                "value": "{font-family.art-basel-headline-screen}",
+                "type": "fontFamilies"
+              },
+              "name": "mch_screen_typography_heading_standard_xs_sm_h4_font_family",
+              "attributes": {
+                "category": "typography",
+                "type": "heading",
+                "item": "standard",
+                "subitem": "xs-sm",
+                "state": "h4"
+              },
+              "path": [
+                "typography",
+                "heading",
+                "standard",
+                "xs-sm",
+                "h4",
+                "fontFamily"
+              ]
             },
-            "name": "mch_typography_headings_xs_sm_display_letter_spacing",
-            "attributes": {
-              "category": "Typography",
-              "type": "Headings",
-              "item": "XS-SM",
-              "subitem": "Display",
-              "state": "letterSpacing"
+            "fontWeight": {
+              "value": "700",
+              "type": "fontWeights",
+              "filePath": "src/Web-Typography.json",
+              "isSource": true,
+              "original": {
+                "value": "{font-weight.bold}",
+                "type": "fontWeights"
+              },
+              "name": "mch_screen_typography_heading_standard_xs_sm_h4_font_weight",
+              "attributes": {
+                "category": "typography",
+                "type": "heading",
+                "item": "standard",
+                "subitem": "xs-sm",
+                "state": "h4"
+              },
+              "path": [
+                "typography",
+                "heading",
+                "standard",
+                "xs-sm",
+                "h4",
+                "fontWeight"
+              ]
             },
-            "path": [
-              "Typography",
-              "Headings",
-              "XS-SM",
-              "Display",
-              "letterSpacing"
-            ]
-          },
-          "paragraphSpacing": {
-            "value": "0",
-            "type": "paragraphSpacing",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{paragraphSpacing.0}",
-              "type": "paragraphSpacing"
+            "fontSize": {
+              "value": "1.5rem",
+              "type": "fontSizes",
+              "filePath": "src/Web-Typography.json",
+              "isSource": true,
+              "original": {
+                "value": "{font-size.24}",
+                "type": "fontSizes"
+              },
+              "name": "mch_screen_typography_heading_standard_xs_sm_h4_font_size",
+              "attributes": {
+                "category": "typography",
+                "type": "heading",
+                "item": "standard",
+                "subitem": "xs-sm",
+                "state": "h4"
+              },
+              "path": [
+                "typography",
+                "heading",
+                "standard",
+                "xs-sm",
+                "h4",
+                "fontSize"
+              ]
             },
-            "name": "mch_typography_headings_xs_sm_display_paragraph_spacing",
-            "attributes": {
-              "category": "Typography",
-              "type": "Headings",
-              "item": "XS-SM",
-              "subitem": "Display",
-              "state": "paragraphSpacing"
-            },
-            "path": [
-              "Typography",
-              "Headings",
-              "XS-SM",
-              "Display",
-              "paragraphSpacing"
-            ]
-          },
-          "paragraphIndent": {
-            "value": 0,
-            "type": "paragraphIndent",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{paragraphIndent.0}",
-              "type": "paragraphIndent"
-            },
-            "name": "mch_typography_headings_xs_sm_display_paragraph_indent",
-            "attributes": {
-              "category": "Typography",
-              "type": "Headings",
-              "item": "XS-SM",
-              "subitem": "Display",
-              "state": "paragraphIndent"
-            },
-            "path": [
-              "Typography",
-              "Headings",
-              "XS-SM",
-              "Display",
-              "paragraphIndent"
-            ]
-          },
-          "textCase": {
-            "value": "none",
-            "type": "textCase",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{textCase.none}",
-              "type": "textCase"
-            },
-            "name": "mch_typography_headings_xs_sm_display_text_case",
-            "attributes": {
-              "category": "Typography",
-              "type": "Headings",
-              "item": "XS-SM",
-              "subitem": "Display",
-              "state": "textCase"
-            },
-            "path": [
-              "Typography",
-              "Headings",
-              "XS-SM",
-              "Display",
-              "textCase"
-            ]
-          },
-          "textDecoration": {
-            "value": "none",
-            "type": "textDecoration",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{textDecoration.none}",
-              "type": "textDecoration"
-            },
-            "name": "mch_typography_headings_xs_sm_display_text_decoration",
-            "attributes": {
-              "category": "Typography",
-              "type": "Headings",
-              "item": "XS-SM",
-              "subitem": "Display",
-              "state": "textDecoration"
-            },
-            "path": [
-              "Typography",
-              "Headings",
-              "XS-SM",
-              "Display",
-              "textDecoration"
-            ]
+            "lineHeight": {
+              "value": "1.75rem",
+              "type": "lineHeights",
+              "filePath": "src/Web-Typography.json",
+              "isSource": true,
+              "original": {
+                "value": "{line-height.28}",
+                "type": "lineHeights"
+              },
+              "name": "mch_screen_typography_heading_standard_xs_sm_h4_line_height",
+              "attributes": {
+                "category": "typography",
+                "type": "heading",
+                "item": "standard",
+                "subitem": "xs-sm",
+                "state": "h4"
+              },
+              "path": [
+                "typography",
+                "heading",
+                "standard",
+                "xs-sm",
+                "h4",
+                "lineHeight"
+              ]
+            }
           }
         },
-        "h1": {
-          "fontFamily": {
-            "value": "Art Basel Headline",
-            "type": "fontFamilies",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{fontFamilies.art-basel-headline}",
-              "type": "fontFamilies"
+        "md": {
+          "display": {
+            "fontFamily": {
+              "value": "Art Basel Headline Screen",
+              "type": "fontFamilies",
+              "filePath": "src/Web-Typography.json",
+              "isSource": true,
+              "original": {
+                "value": "{font-family.art-basel-headline-screen}",
+                "type": "fontFamilies"
+              },
+              "name": "mch_screen_typography_heading_standard_md_display_font_family",
+              "attributes": {
+                "category": "typography",
+                "type": "heading",
+                "item": "standard",
+                "subitem": "md",
+                "state": "display"
+              },
+              "path": [
+                "typography",
+                "heading",
+                "standard",
+                "md",
+                "display",
+                "fontFamily"
+              ]
             },
-            "name": "mch_typography_headings_xs_sm_h1_font_family",
-            "attributes": {
-              "category": "Typography",
-              "type": "Headings",
-              "item": "XS-SM",
-              "subitem": "H1",
-              "state": "fontFamily"
+            "fontWeight": {
+              "value": "700",
+              "type": "fontWeights",
+              "filePath": "src/Web-Typography.json",
+              "isSource": true,
+              "original": {
+                "value": "{font-weight.bold}",
+                "type": "fontWeights"
+              },
+              "name": "mch_screen_typography_heading_standard_md_display_font_weight",
+              "attributes": {
+                "category": "typography",
+                "type": "heading",
+                "item": "standard",
+                "subitem": "md",
+                "state": "display"
+              },
+              "path": [
+                "typography",
+                "heading",
+                "standard",
+                "md",
+                "display",
+                "fontWeight"
+              ]
             },
-            "path": [
-              "Typography",
-              "Headings",
-              "XS-SM",
-              "H1",
-              "fontFamily"
-            ]
+            "fontSize": {
+              "value": "5.5rem",
+              "type": "fontSizes",
+              "filePath": "src/Web-Typography.json",
+              "isSource": true,
+              "original": {
+                "value": "{font-size.88}",
+                "type": "fontSizes"
+              },
+              "name": "mch_screen_typography_heading_standard_md_display_font_size",
+              "attributes": {
+                "category": "typography",
+                "type": "heading",
+                "item": "standard",
+                "subitem": "md",
+                "state": "display"
+              },
+              "path": [
+                "typography",
+                "heading",
+                "standard",
+                "md",
+                "display",
+                "fontSize"
+              ]
+            },
+            "lineHeight": {
+              "value": "5rem",
+              "type": "lineHeights",
+              "filePath": "src/Web-Typography.json",
+              "isSource": true,
+              "original": {
+                "value": "{line-height.80}",
+                "type": "lineHeights"
+              },
+              "name": "mch_screen_typography_heading_standard_md_display_line_height",
+              "attributes": {
+                "category": "typography",
+                "type": "heading",
+                "item": "standard",
+                "subitem": "md",
+                "state": "display"
+              },
+              "path": [
+                "typography",
+                "heading",
+                "standard",
+                "md",
+                "display",
+                "lineHeight"
+              ]
+            }
           },
-          "fontWeight": {
-            "value": "700",
-            "type": "fontWeights",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{fontWeights.art-basel-headline-0}",
-              "type": "fontWeights"
+          "h1": {
+            "fontFamily": {
+              "value": "Art Basel Headline Screen",
+              "type": "fontFamilies",
+              "filePath": "src/Web-Typography.json",
+              "isSource": true,
+              "original": {
+                "value": "{font-family.art-basel-headline-screen}",
+                "type": "fontFamilies"
+              },
+              "name": "mch_screen_typography_heading_standard_md_h1_font_family",
+              "attributes": {
+                "category": "typography",
+                "type": "heading",
+                "item": "standard",
+                "subitem": "md",
+                "state": "h1"
+              },
+              "path": [
+                "typography",
+                "heading",
+                "standard",
+                "md",
+                "h1",
+                "fontFamily"
+              ]
             },
-            "name": "mch_typography_headings_xs_sm_h1_font_weight",
-            "attributes": {
-              "category": "Typography",
-              "type": "Headings",
-              "item": "XS-SM",
-              "subitem": "H1",
-              "state": "fontWeight"
+            "fontWeight": {
+              "value": "700",
+              "type": "fontWeights",
+              "filePath": "src/Web-Typography.json",
+              "isSource": true,
+              "original": {
+                "value": "{font-weight.bold}",
+                "type": "fontWeights"
+              },
+              "name": "mch_screen_typography_heading_standard_md_h1_font_weight",
+              "attributes": {
+                "category": "typography",
+                "type": "heading",
+                "item": "standard",
+                "subitem": "md",
+                "state": "h1"
+              },
+              "path": [
+                "typography",
+                "heading",
+                "standard",
+                "md",
+                "h1",
+                "fontWeight"
+              ]
             },
-            "path": [
-              "Typography",
-              "Headings",
-              "XS-SM",
-              "H1",
-              "fontWeight"
-            ]
+            "fontSize": {
+              "value": "3.625rem",
+              "type": "fontSizes",
+              "filePath": "src/Web-Typography.json",
+              "isSource": true,
+              "original": {
+                "value": "{font-size.58}",
+                "type": "fontSizes"
+              },
+              "name": "mch_screen_typography_heading_standard_md_h1_font_size",
+              "attributes": {
+                "category": "typography",
+                "type": "heading",
+                "item": "standard",
+                "subitem": "md",
+                "state": "h1"
+              },
+              "path": [
+                "typography",
+                "heading",
+                "standard",
+                "md",
+                "h1",
+                "fontSize"
+              ]
+            },
+            "lineHeight": {
+              "value": "3.375rem",
+              "type": "lineHeights",
+              "filePath": "src/Web-Typography.json",
+              "isSource": true,
+              "original": {
+                "value": "{line-height.54}",
+                "type": "lineHeights"
+              },
+              "name": "mch_screen_typography_heading_standard_md_h1_line_height",
+              "attributes": {
+                "category": "typography",
+                "type": "heading",
+                "item": "standard",
+                "subitem": "md",
+                "state": "h1"
+              },
+              "path": [
+                "typography",
+                "heading",
+                "standard",
+                "md",
+                "h1",
+                "lineHeight"
+              ]
+            }
           },
-          "lineHeight": {
-            "value": "2.1875rem",
-            "type": "lineHeights",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{lineHeights.0}",
-              "type": "lineHeights"
+          "h2": {
+            "fontFamily": {
+              "value": "Art Basel Headline Screen",
+              "type": "fontFamilies",
+              "filePath": "src/Web-Typography.json",
+              "isSource": true,
+              "original": {
+                "value": "{font-family.art-basel-headline-screen}",
+                "type": "fontFamilies"
+              },
+              "name": "mch_screen_typography_heading_standard_md_h2_font_family",
+              "attributes": {
+                "category": "typography",
+                "type": "heading",
+                "item": "standard",
+                "subitem": "md",
+                "state": "h2"
+              },
+              "path": [
+                "typography",
+                "heading",
+                "standard",
+                "md",
+                "h2",
+                "fontFamily"
+              ]
             },
-            "name": "mch_typography_headings_xs_sm_h1_line_height",
-            "attributes": {
-              "category": "Typography",
-              "type": "Headings",
-              "item": "XS-SM",
-              "subitem": "H1",
-              "state": "lineHeight"
+            "fontWeight": {
+              "value": "700",
+              "type": "fontWeights",
+              "filePath": "src/Web-Typography.json",
+              "isSource": true,
+              "original": {
+                "value": "{font-weight.bold}",
+                "type": "fontWeights"
+              },
+              "name": "mch_screen_typography_heading_standard_md_h2_font_weight",
+              "attributes": {
+                "category": "typography",
+                "type": "heading",
+                "item": "standard",
+                "subitem": "md",
+                "state": "h2"
+              },
+              "path": [
+                "typography",
+                "heading",
+                "standard",
+                "md",
+                "h2",
+                "fontWeight"
+              ]
             },
-            "path": [
-              "Typography",
-              "Headings",
-              "XS-SM",
-              "H1",
-              "lineHeight"
-            ]
+            "fontSize": {
+              "value": "2.875rem",
+              "type": "fontSizes",
+              "filePath": "src/Web-Typography.json",
+              "isSource": true,
+              "original": {
+                "value": "{font-size.46}",
+                "type": "fontSizes"
+              },
+              "name": "mch_screen_typography_heading_standard_md_h2_font_size",
+              "attributes": {
+                "category": "typography",
+                "type": "heading",
+                "item": "standard",
+                "subitem": "md",
+                "state": "h2"
+              },
+              "path": [
+                "typography",
+                "heading",
+                "standard",
+                "md",
+                "h2",
+                "fontSize"
+              ]
+            },
+            "lineHeight": {
+              "value": "2.875rem",
+              "type": "lineHeights",
+              "filePath": "src/Web-Typography.json",
+              "isSource": true,
+              "original": {
+                "value": "{line-height.46}",
+                "type": "lineHeights"
+              },
+              "name": "mch_screen_typography_heading_standard_md_h2_line_height",
+              "attributes": {
+                "category": "typography",
+                "type": "heading",
+                "item": "standard",
+                "subitem": "md",
+                "state": "h2"
+              },
+              "path": [
+                "typography",
+                "heading",
+                "standard",
+                "md",
+                "h2",
+                "lineHeight"
+              ]
+            }
           },
-          "fontSize": {
-            "value": "1.875rem",
-            "type": "fontSizes",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{fontSize.7}",
-              "type": "fontSizes"
+          "h3": {
+            "fontFamily": {
+              "value": "Art Basel Headline Screen",
+              "type": "fontFamilies",
+              "filePath": "src/Web-Typography.json",
+              "isSource": true,
+              "original": {
+                "value": "{font-family.art-basel-headline-screen}",
+                "type": "fontFamilies"
+              },
+              "name": "mch_screen_typography_heading_standard_md_h3_font_family",
+              "attributes": {
+                "category": "typography",
+                "type": "heading",
+                "item": "standard",
+                "subitem": "md",
+                "state": "h3"
+              },
+              "path": [
+                "typography",
+                "heading",
+                "standard",
+                "md",
+                "h3",
+                "fontFamily"
+              ]
             },
-            "name": "mch_typography_headings_xs_sm_h1_font_size",
-            "attributes": {
-              "category": "Typography",
-              "type": "Headings",
-              "item": "XS-SM",
-              "subitem": "H1",
-              "state": "fontSize"
+            "fontWeight": {
+              "value": "700",
+              "type": "fontWeights",
+              "filePath": "src/Web-Typography.json",
+              "isSource": true,
+              "original": {
+                "value": "{font-weight.bold}",
+                "type": "fontWeights"
+              },
+              "name": "mch_screen_typography_heading_standard_md_h3_font_weight",
+              "attributes": {
+                "category": "typography",
+                "type": "heading",
+                "item": "standard",
+                "subitem": "md",
+                "state": "h3"
+              },
+              "path": [
+                "typography",
+                "heading",
+                "standard",
+                "md",
+                "h3",
+                "fontWeight"
+              ]
             },
-            "path": [
-              "Typography",
-              "Headings",
-              "XS-SM",
-              "H1",
-              "fontSize"
-            ]
+            "fontSize": {
+              "value": "2.125rem",
+              "type": "fontSizes",
+              "filePath": "src/Web-Typography.json",
+              "isSource": true,
+              "original": {
+                "value": "{font-size.34}",
+                "type": "fontSizes"
+              },
+              "name": "mch_screen_typography_heading_standard_md_h3_font_size",
+              "attributes": {
+                "category": "typography",
+                "type": "heading",
+                "item": "standard",
+                "subitem": "md",
+                "state": "h3"
+              },
+              "path": [
+                "typography",
+                "heading",
+                "standard",
+                "md",
+                "h3",
+                "fontSize"
+              ]
+            },
+            "lineHeight": {
+              "value": "2.25rem",
+              "type": "lineHeights",
+              "filePath": "src/Web-Typography.json",
+              "isSource": true,
+              "original": {
+                "value": "{line-height.36}",
+                "type": "lineHeights"
+              },
+              "name": "mch_screen_typography_heading_standard_md_h3_line_height",
+              "attributes": {
+                "category": "typography",
+                "type": "heading",
+                "item": "standard",
+                "subitem": "md",
+                "state": "h3"
+              },
+              "path": [
+                "typography",
+                "heading",
+                "standard",
+                "md",
+                "h3",
+                "lineHeight"
+              ]
+            }
           },
-          "letterSpacing": {
-            "value": "0rem",
-            "type": "letterSpacing",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{letterSpacing.0}",
-              "type": "letterSpacing"
+          "h4": {
+            "fontFamily": {
+              "value": "Art Basel Headline Screen",
+              "type": "fontFamilies",
+              "filePath": "src/Web-Typography.json",
+              "isSource": true,
+              "original": {
+                "value": "{font-family.art-basel-headline-screen}",
+                "type": "fontFamilies"
+              },
+              "name": "mch_screen_typography_heading_standard_md_h4_font_family",
+              "attributes": {
+                "category": "typography",
+                "type": "heading",
+                "item": "standard",
+                "subitem": "md",
+                "state": "h4"
+              },
+              "path": [
+                "typography",
+                "heading",
+                "standard",
+                "md",
+                "h4",
+                "fontFamily"
+              ]
             },
-            "name": "mch_typography_headings_xs_sm_h1_letter_spacing",
-            "attributes": {
-              "category": "Typography",
-              "type": "Headings",
-              "item": "XS-SM",
-              "subitem": "H1",
-              "state": "letterSpacing"
+            "fontWeight": {
+              "value": "700",
+              "type": "fontWeights",
+              "filePath": "src/Web-Typography.json",
+              "isSource": true,
+              "original": {
+                "value": "{font-weight.bold}",
+                "type": "fontWeights"
+              },
+              "name": "mch_screen_typography_heading_standard_md_h4_font_weight",
+              "attributes": {
+                "category": "typography",
+                "type": "heading",
+                "item": "standard",
+                "subitem": "md",
+                "state": "h4"
+              },
+              "path": [
+                "typography",
+                "heading",
+                "standard",
+                "md",
+                "h4",
+                "fontWeight"
+              ]
             },
-            "path": [
-              "Typography",
-              "Headings",
-              "XS-SM",
-              "H1",
-              "letterSpacing"
-            ]
-          },
-          "paragraphSpacing": {
-            "value": "0",
-            "type": "paragraphSpacing",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{paragraphSpacing.0}",
-              "type": "paragraphSpacing"
+            "fontSize": {
+              "value": "1.5rem",
+              "type": "fontSizes",
+              "filePath": "src/Web-Typography.json",
+              "isSource": true,
+              "original": {
+                "value": "{font-size.24}",
+                "type": "fontSizes"
+              },
+              "name": "mch_screen_typography_heading_standard_md_h4_font_size",
+              "attributes": {
+                "category": "typography",
+                "type": "heading",
+                "item": "standard",
+                "subitem": "md",
+                "state": "h4"
+              },
+              "path": [
+                "typography",
+                "heading",
+                "standard",
+                "md",
+                "h4",
+                "fontSize"
+              ]
             },
-            "name": "mch_typography_headings_xs_sm_h1_paragraph_spacing",
-            "attributes": {
-              "category": "Typography",
-              "type": "Headings",
-              "item": "XS-SM",
-              "subitem": "H1",
-              "state": "paragraphSpacing"
-            },
-            "path": [
-              "Typography",
-              "Headings",
-              "XS-SM",
-              "H1",
-              "paragraphSpacing"
-            ]
-          },
-          "paragraphIndent": {
-            "value": 0,
-            "type": "paragraphIndent",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{paragraphIndent.0}",
-              "type": "paragraphIndent"
-            },
-            "name": "mch_typography_headings_xs_sm_h1_paragraph_indent",
-            "attributes": {
-              "category": "Typography",
-              "type": "Headings",
-              "item": "XS-SM",
-              "subitem": "H1",
-              "state": "paragraphIndent"
-            },
-            "path": [
-              "Typography",
-              "Headings",
-              "XS-SM",
-              "H1",
-              "paragraphIndent"
-            ]
-          },
-          "textCase": {
-            "value": "none",
-            "type": "textCase",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{textCase.none}",
-              "type": "textCase"
-            },
-            "name": "mch_typography_headings_xs_sm_h1_text_case",
-            "attributes": {
-              "category": "Typography",
-              "type": "Headings",
-              "item": "XS-SM",
-              "subitem": "H1",
-              "state": "textCase"
-            },
-            "path": [
-              "Typography",
-              "Headings",
-              "XS-SM",
-              "H1",
-              "textCase"
-            ]
-          },
-          "textDecoration": {
-            "value": "none",
-            "type": "textDecoration",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{textDecoration.none}",
-              "type": "textDecoration"
-            },
-            "name": "mch_typography_headings_xs_sm_h1_text_decoration",
-            "attributes": {
-              "category": "Typography",
-              "type": "Headings",
-              "item": "XS-SM",
-              "subitem": "H1",
-              "state": "textDecoration"
-            },
-            "path": [
-              "Typography",
-              "Headings",
-              "XS-SM",
-              "H1",
-              "textDecoration"
-            ]
+            "lineHeight": {
+              "value": "1.75rem",
+              "type": "lineHeights",
+              "filePath": "src/Web-Typography.json",
+              "isSource": true,
+              "original": {
+                "value": "{line-height.28}",
+                "type": "lineHeights"
+              },
+              "name": "mch_screen_typography_heading_standard_md_h4_line_height",
+              "attributes": {
+                "category": "typography",
+                "type": "heading",
+                "item": "standard",
+                "subitem": "md",
+                "state": "h4"
+              },
+              "path": [
+                "typography",
+                "heading",
+                "standard",
+                "md",
+                "h4",
+                "lineHeight"
+              ]
+            }
           }
         },
-        "h2": {
-          "fontFamily": {
-            "value": "Art Basel Headline",
-            "type": "fontFamilies",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{fontFamilies.art-basel-headline}",
-              "type": "fontFamilies"
+        "lg": {
+          "display": {
+            "fontFamily": {
+              "value": "Art Basel Headline Screen",
+              "type": "fontFamilies",
+              "filePath": "src/Web-Typography.json",
+              "isSource": true,
+              "original": {
+                "value": "{font-family.art-basel-headline-screen}",
+                "type": "fontFamilies"
+              },
+              "name": "mch_screen_typography_heading_standard_lg_display_font_family",
+              "attributes": {
+                "category": "typography",
+                "type": "heading",
+                "item": "standard",
+                "subitem": "lg",
+                "state": "display"
+              },
+              "path": [
+                "typography",
+                "heading",
+                "standard",
+                "lg",
+                "display",
+                "fontFamily"
+              ]
             },
-            "name": "mch_typography_headings_xs_sm_h2_font_family",
-            "attributes": {
-              "category": "Typography",
-              "type": "Headings",
-              "item": "XS-SM",
-              "subitem": "H2",
-              "state": "fontFamily"
+            "fontWeight": {
+              "value": "700",
+              "type": "fontWeights",
+              "filePath": "src/Web-Typography.json",
+              "isSource": true,
+              "original": {
+                "value": "{font-weight.bold}",
+                "type": "fontWeights"
+              },
+              "name": "mch_screen_typography_heading_standard_lg_display_font_weight",
+              "attributes": {
+                "category": "typography",
+                "type": "heading",
+                "item": "standard",
+                "subitem": "lg",
+                "state": "display"
+              },
+              "path": [
+                "typography",
+                "heading",
+                "standard",
+                "lg",
+                "display",
+                "fontWeight"
+              ]
             },
-            "path": [
-              "Typography",
-              "Headings",
-              "XS-SM",
-              "H2",
-              "fontFamily"
-            ]
+            "fontSize": {
+              "value": "6.5rem",
+              "type": "fontSizes",
+              "filePath": "src/Web-Typography.json",
+              "isSource": true,
+              "original": {
+                "value": "{font-size.104}",
+                "type": "fontSizes"
+              },
+              "name": "mch_screen_typography_heading_standard_lg_display_font_size",
+              "attributes": {
+                "category": "typography",
+                "type": "heading",
+                "item": "standard",
+                "subitem": "lg",
+                "state": "display"
+              },
+              "path": [
+                "typography",
+                "heading",
+                "standard",
+                "lg",
+                "display",
+                "fontSize"
+              ]
+            },
+            "lineHeight": {
+              "value": "6rem",
+              "type": "lineHeights",
+              "filePath": "src/Web-Typography.json",
+              "isSource": true,
+              "original": {
+                "value": "{line-height.96}",
+                "type": "lineHeights"
+              },
+              "name": "mch_screen_typography_heading_standard_lg_display_line_height",
+              "attributes": {
+                "category": "typography",
+                "type": "heading",
+                "item": "standard",
+                "subitem": "lg",
+                "state": "display"
+              },
+              "path": [
+                "typography",
+                "heading",
+                "standard",
+                "lg",
+                "display",
+                "lineHeight"
+              ]
+            }
           },
-          "fontWeight": {
-            "value": "700",
-            "type": "fontWeights",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{fontWeights.art-basel-headline-0}",
-              "type": "fontWeights"
+          "h1": {
+            "fontFamily": {
+              "value": "Art Basel Headline Screen",
+              "type": "fontFamilies",
+              "filePath": "src/Web-Typography.json",
+              "isSource": true,
+              "original": {
+                "value": "{font-family.art-basel-headline-screen}",
+                "type": "fontFamilies"
+              },
+              "name": "mch_screen_typography_heading_standard_lg_h1_font_family",
+              "attributes": {
+                "category": "typography",
+                "type": "heading",
+                "item": "standard",
+                "subitem": "lg",
+                "state": "h1"
+              },
+              "path": [
+                "typography",
+                "heading",
+                "standard",
+                "lg",
+                "h1",
+                "fontFamily"
+              ]
             },
-            "name": "mch_typography_headings_xs_sm_h2_font_weight",
-            "attributes": {
-              "category": "Typography",
-              "type": "Headings",
-              "item": "XS-SM",
-              "subitem": "H2",
-              "state": "fontWeight"
+            "fontWeight": {
+              "value": "700",
+              "type": "fontWeights",
+              "filePath": "src/Web-Typography.json",
+              "isSource": true,
+              "original": {
+                "value": "{font-weight.bold}",
+                "type": "fontWeights"
+              },
+              "name": "mch_screen_typography_heading_standard_lg_h1_font_weight",
+              "attributes": {
+                "category": "typography",
+                "type": "heading",
+                "item": "standard",
+                "subitem": "lg",
+                "state": "h1"
+              },
+              "path": [
+                "typography",
+                "heading",
+                "standard",
+                "lg",
+                "h1",
+                "fontWeight"
+              ]
             },
-            "path": [
-              "Typography",
-              "Headings",
-              "XS-SM",
-              "H2",
-              "fontWeight"
-            ]
+            "fontSize": {
+              "value": "4.125rem",
+              "type": "fontSizes",
+              "filePath": "src/Web-Typography.json",
+              "isSource": true,
+              "original": {
+                "value": "{font-size.66}",
+                "type": "fontSizes"
+              },
+              "name": "mch_screen_typography_heading_standard_lg_h1_font_size",
+              "attributes": {
+                "category": "typography",
+                "type": "heading",
+                "item": "standard",
+                "subitem": "lg",
+                "state": "h1"
+              },
+              "path": [
+                "typography",
+                "heading",
+                "standard",
+                "lg",
+                "h1",
+                "fontSize"
+              ]
+            },
+            "lineHeight": {
+              "value": "3.875rem",
+              "type": "lineHeights",
+              "filePath": "src/Web-Typography.json",
+              "isSource": true,
+              "original": {
+                "value": "{line-height.62}",
+                "type": "lineHeights"
+              },
+              "name": "mch_screen_typography_heading_standard_lg_h1_line_height",
+              "attributes": {
+                "category": "typography",
+                "type": "heading",
+                "item": "standard",
+                "subitem": "lg",
+                "state": "h1"
+              },
+              "path": [
+                "typography",
+                "heading",
+                "standard",
+                "lg",
+                "h1",
+                "lineHeight"
+              ]
+            }
           },
-          "lineHeight": {
-            "value": "1.875rem",
-            "type": "lineHeights",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{lineHeights.1}",
-              "type": "lineHeights"
+          "h2": {
+            "fontFamily": {
+              "value": "Art Basel Headline Screen",
+              "type": "fontFamilies",
+              "filePath": "src/Web-Typography.json",
+              "isSource": true,
+              "original": {
+                "value": "{font-family.art-basel-headline-screen}",
+                "type": "fontFamilies"
+              },
+              "name": "mch_screen_typography_heading_standard_lg_h2_font_family",
+              "attributes": {
+                "category": "typography",
+                "type": "heading",
+                "item": "standard",
+                "subitem": "lg",
+                "state": "h2"
+              },
+              "path": [
+                "typography",
+                "heading",
+                "standard",
+                "lg",
+                "h2",
+                "fontFamily"
+              ]
             },
-            "name": "mch_typography_headings_xs_sm_h2_line_height",
-            "attributes": {
-              "category": "Typography",
-              "type": "Headings",
-              "item": "XS-SM",
-              "subitem": "H2",
-              "state": "lineHeight"
+            "fontWeight": {
+              "value": "700",
+              "type": "fontWeights",
+              "filePath": "src/Web-Typography.json",
+              "isSource": true,
+              "original": {
+                "value": "{font-weight.bold}",
+                "type": "fontWeights"
+              },
+              "name": "mch_screen_typography_heading_standard_lg_h2_font_weight",
+              "attributes": {
+                "category": "typography",
+                "type": "heading",
+                "item": "standard",
+                "subitem": "lg",
+                "state": "h2"
+              },
+              "path": [
+                "typography",
+                "heading",
+                "standard",
+                "lg",
+                "h2",
+                "fontWeight"
+              ]
             },
-            "path": [
-              "Typography",
-              "Headings",
-              "XS-SM",
-              "H2",
-              "lineHeight"
-            ]
+            "fontSize": {
+              "value": "3.25rem",
+              "type": "fontSizes",
+              "filePath": "src/Web-Typography.json",
+              "isSource": true,
+              "original": {
+                "value": "{font-size.52}",
+                "type": "fontSizes"
+              },
+              "name": "mch_screen_typography_heading_standard_lg_h2_font_size",
+              "attributes": {
+                "category": "typography",
+                "type": "heading",
+                "item": "standard",
+                "subitem": "lg",
+                "state": "h2"
+              },
+              "path": [
+                "typography",
+                "heading",
+                "standard",
+                "lg",
+                "h2",
+                "fontSize"
+              ]
+            },
+            "lineHeight": {
+              "value": "3.25rem",
+              "type": "lineHeights",
+              "filePath": "src/Web-Typography.json",
+              "isSource": true,
+              "original": {
+                "value": "{line-height.52}",
+                "type": "lineHeights"
+              },
+              "name": "mch_screen_typography_heading_standard_lg_h2_line_height",
+              "attributes": {
+                "category": "typography",
+                "type": "heading",
+                "item": "standard",
+                "subitem": "lg",
+                "state": "h2"
+              },
+              "path": [
+                "typography",
+                "heading",
+                "standard",
+                "lg",
+                "h2",
+                "lineHeight"
+              ]
+            }
           },
-          "fontSize": {
-            "value": "1.625rem",
-            "type": "fontSizes",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{fontSize.6}",
-              "type": "fontSizes"
+          "h3": {
+            "fontFamily": {
+              "value": "Art Basel Headline Screen",
+              "type": "fontFamilies",
+              "filePath": "src/Web-Typography.json",
+              "isSource": true,
+              "original": {
+                "value": "{font-family.art-basel-headline-screen}",
+                "type": "fontFamilies"
+              },
+              "name": "mch_screen_typography_heading_standard_lg_h3_font_family",
+              "attributes": {
+                "category": "typography",
+                "type": "heading",
+                "item": "standard",
+                "subitem": "lg",
+                "state": "h3"
+              },
+              "path": [
+                "typography",
+                "heading",
+                "standard",
+                "lg",
+                "h3",
+                "fontFamily"
+              ]
             },
-            "name": "mch_typography_headings_xs_sm_h2_font_size",
-            "attributes": {
-              "category": "Typography",
-              "type": "Headings",
-              "item": "XS-SM",
-              "subitem": "H2",
-              "state": "fontSize"
+            "fontWeight": {
+              "value": "700",
+              "type": "fontWeights",
+              "filePath": "src/Web-Typography.json",
+              "isSource": true,
+              "original": {
+                "value": "{font-weight.bold}",
+                "type": "fontWeights"
+              },
+              "name": "mch_screen_typography_heading_standard_lg_h3_font_weight",
+              "attributes": {
+                "category": "typography",
+                "type": "heading",
+                "item": "standard",
+                "subitem": "lg",
+                "state": "h3"
+              },
+              "path": [
+                "typography",
+                "heading",
+                "standard",
+                "lg",
+                "h3",
+                "fontWeight"
+              ]
             },
-            "path": [
-              "Typography",
-              "Headings",
-              "XS-SM",
-              "H2",
-              "fontSize"
-            ]
+            "fontSize": {
+              "value": "2.5rem",
+              "type": "fontSizes",
+              "filePath": "src/Web-Typography.json",
+              "isSource": true,
+              "original": {
+                "value": "{font-size.40}",
+                "type": "fontSizes"
+              },
+              "name": "mch_screen_typography_heading_standard_lg_h3_font_size",
+              "attributes": {
+                "category": "typography",
+                "type": "heading",
+                "item": "standard",
+                "subitem": "lg",
+                "state": "h3"
+              },
+              "path": [
+                "typography",
+                "heading",
+                "standard",
+                "lg",
+                "h3",
+                "fontSize"
+              ]
+            },
+            "lineHeight": {
+              "value": "2.625rem",
+              "type": "lineHeights",
+              "filePath": "src/Web-Typography.json",
+              "isSource": true,
+              "original": {
+                "value": "{line-height.42}",
+                "type": "lineHeights"
+              },
+              "name": "mch_screen_typography_heading_standard_lg_h3_line_height",
+              "attributes": {
+                "category": "typography",
+                "type": "heading",
+                "item": "standard",
+                "subitem": "lg",
+                "state": "h3"
+              },
+              "path": [
+                "typography",
+                "heading",
+                "standard",
+                "lg",
+                "h3",
+                "lineHeight"
+              ]
+            }
           },
-          "letterSpacing": {
-            "value": "0rem",
-            "type": "letterSpacing",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{letterSpacing.0}",
-              "type": "letterSpacing"
+          "h4": {
+            "fontFamily": {
+              "value": "Art Basel Headline Screen",
+              "type": "fontFamilies",
+              "filePath": "src/Web-Typography.json",
+              "isSource": true,
+              "original": {
+                "value": "{font-family.art-basel-headline-screen}",
+                "type": "fontFamilies"
+              },
+              "name": "mch_screen_typography_heading_standard_lg_h4_font_family",
+              "attributes": {
+                "category": "typography",
+                "type": "heading",
+                "item": "standard",
+                "subitem": "lg",
+                "state": "h4"
+              },
+              "path": [
+                "typography",
+                "heading",
+                "standard",
+                "lg",
+                "h4",
+                "fontFamily"
+              ]
             },
-            "name": "mch_typography_headings_xs_sm_h2_letter_spacing",
-            "attributes": {
-              "category": "Typography",
-              "type": "Headings",
-              "item": "XS-SM",
-              "subitem": "H2",
-              "state": "letterSpacing"
+            "fontWeight": {
+              "value": "700",
+              "type": "fontWeights",
+              "filePath": "src/Web-Typography.json",
+              "isSource": true,
+              "original": {
+                "value": "{font-weight.bold}",
+                "type": "fontWeights"
+              },
+              "name": "mch_screen_typography_heading_standard_lg_h4_font_weight",
+              "attributes": {
+                "category": "typography",
+                "type": "heading",
+                "item": "standard",
+                "subitem": "lg",
+                "state": "h4"
+              },
+              "path": [
+                "typography",
+                "heading",
+                "standard",
+                "lg",
+                "h4",
+                "fontWeight"
+              ]
             },
-            "path": [
-              "Typography",
-              "Headings",
-              "XS-SM",
-              "H2",
-              "letterSpacing"
-            ]
-          },
-          "paragraphSpacing": {
-            "value": "0",
-            "type": "paragraphSpacing",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{paragraphSpacing.0}",
-              "type": "paragraphSpacing"
+            "fontSize": {
+              "value": "1.75rem",
+              "type": "fontSizes",
+              "filePath": "src/Web-Typography.json",
+              "isSource": true,
+              "original": {
+                "value": "{font-size.28}",
+                "type": "fontSizes"
+              },
+              "name": "mch_screen_typography_heading_standard_lg_h4_font_size",
+              "attributes": {
+                "category": "typography",
+                "type": "heading",
+                "item": "standard",
+                "subitem": "lg",
+                "state": "h4"
+              },
+              "path": [
+                "typography",
+                "heading",
+                "standard",
+                "lg",
+                "h4",
+                "fontSize"
+              ]
             },
-            "name": "mch_typography_headings_xs_sm_h2_paragraph_spacing",
-            "attributes": {
-              "category": "Typography",
-              "type": "Headings",
-              "item": "XS-SM",
-              "subitem": "H2",
-              "state": "paragraphSpacing"
-            },
-            "path": [
-              "Typography",
-              "Headings",
-              "XS-SM",
-              "H2",
-              "paragraphSpacing"
-            ]
-          },
-          "paragraphIndent": {
-            "value": 0,
-            "type": "paragraphIndent",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{paragraphIndent.0}",
-              "type": "paragraphIndent"
-            },
-            "name": "mch_typography_headings_xs_sm_h2_paragraph_indent",
-            "attributes": {
-              "category": "Typography",
-              "type": "Headings",
-              "item": "XS-SM",
-              "subitem": "H2",
-              "state": "paragraphIndent"
-            },
-            "path": [
-              "Typography",
-              "Headings",
-              "XS-SM",
-              "H2",
-              "paragraphIndent"
-            ]
-          },
-          "textCase": {
-            "value": "none",
-            "type": "textCase",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{textCase.none}",
-              "type": "textCase"
-            },
-            "name": "mch_typography_headings_xs_sm_h2_text_case",
-            "attributes": {
-              "category": "Typography",
-              "type": "Headings",
-              "item": "XS-SM",
-              "subitem": "H2",
-              "state": "textCase"
-            },
-            "path": [
-              "Typography",
-              "Headings",
-              "XS-SM",
-              "H2",
-              "textCase"
-            ]
-          },
-          "textDecoration": {
-            "value": "none",
-            "type": "textDecoration",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{textDecoration.none}",
-              "type": "textDecoration"
-            },
-            "name": "mch_typography_headings_xs_sm_h2_text_decoration",
-            "attributes": {
-              "category": "Typography",
-              "type": "Headings",
-              "item": "XS-SM",
-              "subitem": "H2",
-              "state": "textDecoration"
-            },
-            "path": [
-              "Typography",
-              "Headings",
-              "XS-SM",
-              "H2",
-              "textDecoration"
-            ]
+            "lineHeight": {
+              "value": "2rem",
+              "type": "lineHeights",
+              "filePath": "src/Web-Typography.json",
+              "isSource": true,
+              "original": {
+                "value": "{line-height.32}",
+                "type": "lineHeights"
+              },
+              "name": "mch_screen_typography_heading_standard_lg_h4_line_height",
+              "attributes": {
+                "category": "typography",
+                "type": "heading",
+                "item": "standard",
+                "subitem": "lg",
+                "state": "h4"
+              },
+              "path": [
+                "typography",
+                "heading",
+                "standard",
+                "lg",
+                "h4",
+                "lineHeight"
+              ]
+            }
           }
         },
-        "h3": {
-          "fontFamily": {
-            "value": "Art Basel Headline",
-            "type": "fontFamilies",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{fontFamilies.art-basel-headline}",
-              "type": "fontFamilies"
+        "xl": {
+          "display": {
+            "fontFamily": {
+              "value": "Art Basel Headline Screen",
+              "type": "fontFamilies",
+              "filePath": "src/Web-Typography.json",
+              "isSource": true,
+              "original": {
+                "value": "{font-family.art-basel-headline-screen}",
+                "type": "fontFamilies"
+              },
+              "name": "mch_screen_typography_heading_standard_xl_display_font_family",
+              "attributes": {
+                "category": "typography",
+                "type": "heading",
+                "item": "standard",
+                "subitem": "xl",
+                "state": "display"
+              },
+              "path": [
+                "typography",
+                "heading",
+                "standard",
+                "xl",
+                "display",
+                "fontFamily"
+              ]
             },
-            "name": "mch_typography_headings_xs_sm_h3_font_family",
-            "attributes": {
-              "category": "Typography",
-              "type": "Headings",
-              "item": "XS-SM",
-              "subitem": "H3",
-              "state": "fontFamily"
+            "fontWeight": {
+              "value": "700",
+              "type": "fontWeights",
+              "filePath": "src/Web-Typography.json",
+              "isSource": true,
+              "original": {
+                "value": "{font-weight.bold}",
+                "type": "fontWeights"
+              },
+              "name": "mch_screen_typography_heading_standard_xl_display_font_weight",
+              "attributes": {
+                "category": "typography",
+                "type": "heading",
+                "item": "standard",
+                "subitem": "xl",
+                "state": "display"
+              },
+              "path": [
+                "typography",
+                "heading",
+                "standard",
+                "xl",
+                "display",
+                "fontWeight"
+              ]
             },
-            "path": [
-              "Typography",
-              "Headings",
-              "XS-SM",
-              "H3",
-              "fontFamily"
-            ]
+            "fontSize": {
+              "value": "8rem",
+              "type": "fontSizes",
+              "filePath": "src/Web-Typography.json",
+              "isSource": true,
+              "original": {
+                "value": "{font-size.128}",
+                "type": "fontSizes"
+              },
+              "name": "mch_screen_typography_heading_standard_xl_display_font_size",
+              "attributes": {
+                "category": "typography",
+                "type": "heading",
+                "item": "standard",
+                "subitem": "xl",
+                "state": "display"
+              },
+              "path": [
+                "typography",
+                "heading",
+                "standard",
+                "xl",
+                "display",
+                "fontSize"
+              ]
+            },
+            "lineHeight": {
+              "value": "7.375rem",
+              "type": "lineHeights",
+              "filePath": "src/Web-Typography.json",
+              "isSource": true,
+              "original": {
+                "value": "{line-height.118}",
+                "type": "lineHeights"
+              },
+              "name": "mch_screen_typography_heading_standard_xl_display_line_height",
+              "attributes": {
+                "category": "typography",
+                "type": "heading",
+                "item": "standard",
+                "subitem": "xl",
+                "state": "display"
+              },
+              "path": [
+                "typography",
+                "heading",
+                "standard",
+                "xl",
+                "display",
+                "lineHeight"
+              ]
+            }
           },
-          "fontWeight": {
-            "value": "700",
-            "type": "fontWeights",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{fontWeights.art-basel-headline-0}",
-              "type": "fontWeights"
+          "h1": {
+            "fontFamily": {
+              "value": "Art Basel Headline Screen",
+              "type": "fontFamilies",
+              "filePath": "src/Web-Typography.json",
+              "isSource": true,
+              "original": {
+                "value": "{font-family.art-basel-headline-screen}",
+                "type": "fontFamilies"
+              },
+              "name": "mch_screen_typography_heading_standard_xl_h1_font_family",
+              "attributes": {
+                "category": "typography",
+                "type": "heading",
+                "item": "standard",
+                "subitem": "xl",
+                "state": "h1"
+              },
+              "path": [
+                "typography",
+                "heading",
+                "standard",
+                "xl",
+                "h1",
+                "fontFamily"
+              ]
             },
-            "name": "mch_typography_headings_xs_sm_h3_font_weight",
-            "attributes": {
-              "category": "Typography",
-              "type": "Headings",
-              "item": "XS-SM",
-              "subitem": "H3",
-              "state": "fontWeight"
+            "fontWeight": {
+              "value": "700",
+              "type": "fontWeights",
+              "filePath": "src/Web-Typography.json",
+              "isSource": true,
+              "original": {
+                "value": "{font-weight.bold}",
+                "type": "fontWeights"
+              },
+              "name": "mch_screen_typography_heading_standard_xl_h1_font_weight",
+              "attributes": {
+                "category": "typography",
+                "type": "heading",
+                "item": "standard",
+                "subitem": "xl",
+                "state": "h1"
+              },
+              "path": [
+                "typography",
+                "heading",
+                "standard",
+                "xl",
+                "h1",
+                "fontWeight"
+              ]
             },
-            "path": [
-              "Typography",
-              "Headings",
-              "XS-SM",
-              "H3",
-              "fontWeight"
-            ]
+            "fontSize": {
+              "value": "5.25rem",
+              "type": "fontSizes",
+              "filePath": "src/Web-Typography.json",
+              "isSource": true,
+              "original": {
+                "value": "{font-size.84}",
+                "type": "fontSizes"
+              },
+              "name": "mch_screen_typography_heading_standard_xl_h1_font_size",
+              "attributes": {
+                "category": "typography",
+                "type": "heading",
+                "item": "standard",
+                "subitem": "xl",
+                "state": "h1"
+              },
+              "path": [
+                "typography",
+                "heading",
+                "standard",
+                "xl",
+                "h1",
+                "fontSize"
+              ]
+            },
+            "lineHeight": {
+              "value": "5rem",
+              "type": "lineHeights",
+              "filePath": "src/Web-Typography.json",
+              "isSource": true,
+              "original": {
+                "value": "{line-height.80}",
+                "type": "lineHeights"
+              },
+              "name": "mch_screen_typography_heading_standard_xl_h1_line_height",
+              "attributes": {
+                "category": "typography",
+                "type": "heading",
+                "item": "standard",
+                "subitem": "xl",
+                "state": "h1"
+              },
+              "path": [
+                "typography",
+                "heading",
+                "standard",
+                "xl",
+                "h1",
+                "lineHeight"
+              ]
+            }
           },
-          "lineHeight": {
-            "value": "1.75rem",
-            "type": "lineHeights",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{lineHeights.2}",
-              "type": "lineHeights"
+          "h2": {
+            "fontFamily": {
+              "value": "Art Basel Headline Screen",
+              "type": "fontFamilies",
+              "filePath": "src/Web-Typography.json",
+              "isSource": true,
+              "original": {
+                "value": "{font-family.art-basel-headline-screen}",
+                "type": "fontFamilies"
+              },
+              "name": "mch_screen_typography_heading_standard_xl_h2_font_family",
+              "attributes": {
+                "category": "typography",
+                "type": "heading",
+                "item": "standard",
+                "subitem": "xl",
+                "state": "h2"
+              },
+              "path": [
+                "typography",
+                "heading",
+                "standard",
+                "xl",
+                "h2",
+                "fontFamily"
+              ]
             },
-            "name": "mch_typography_headings_xs_sm_h3_line_height",
-            "attributes": {
-              "category": "Typography",
-              "type": "Headings",
-              "item": "XS-SM",
-              "subitem": "H3",
-              "state": "lineHeight"
+            "fontWeight": {
+              "value": "700",
+              "type": "fontWeights",
+              "filePath": "src/Web-Typography.json",
+              "isSource": true,
+              "original": {
+                "value": "{font-weight.bold}",
+                "type": "fontWeights"
+              },
+              "name": "mch_screen_typography_heading_standard_xl_h2_font_weight",
+              "attributes": {
+                "category": "typography",
+                "type": "heading",
+                "item": "standard",
+                "subitem": "xl",
+                "state": "h2"
+              },
+              "path": [
+                "typography",
+                "heading",
+                "standard",
+                "xl",
+                "h2",
+                "fontWeight"
+              ]
             },
-            "path": [
-              "Typography",
-              "Headings",
-              "XS-SM",
-              "H3",
-              "lineHeight"
-            ]
+            "fontSize": {
+              "value": "4rem",
+              "type": "fontSizes",
+              "filePath": "src/Web-Typography.json",
+              "isSource": true,
+              "original": {
+                "value": "{font-size.64}",
+                "type": "fontSizes"
+              },
+              "name": "mch_screen_typography_heading_standard_xl_h2_font_size",
+              "attributes": {
+                "category": "typography",
+                "type": "heading",
+                "item": "standard",
+                "subitem": "xl",
+                "state": "h2"
+              },
+              "path": [
+                "typography",
+                "heading",
+                "standard",
+                "xl",
+                "h2",
+                "fontSize"
+              ]
+            },
+            "lineHeight": {
+              "value": "4rem",
+              "type": "lineHeights",
+              "filePath": "src/Web-Typography.json",
+              "isSource": true,
+              "original": {
+                "value": "{line-height.64}",
+                "type": "lineHeights"
+              },
+              "name": "mch_screen_typography_heading_standard_xl_h2_line_height",
+              "attributes": {
+                "category": "typography",
+                "type": "heading",
+                "item": "standard",
+                "subitem": "xl",
+                "state": "h2"
+              },
+              "path": [
+                "typography",
+                "heading",
+                "standard",
+                "xl",
+                "h2",
+                "lineHeight"
+              ]
+            }
           },
-          "fontSize": {
-            "value": "1.5rem",
-            "type": "fontSizes",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{fontSize.5}",
-              "type": "fontSizes"
+          "h3": {
+            "fontFamily": {
+              "value": "Art Basel Headline Screen",
+              "type": "fontFamilies",
+              "filePath": "src/Web-Typography.json",
+              "isSource": true,
+              "original": {
+                "value": "{font-family.art-basel-headline-screen}",
+                "type": "fontFamilies"
+              },
+              "name": "mch_screen_typography_heading_standard_xl_h3_font_family",
+              "attributes": {
+                "category": "typography",
+                "type": "heading",
+                "item": "standard",
+                "subitem": "xl",
+                "state": "h3"
+              },
+              "path": [
+                "typography",
+                "heading",
+                "standard",
+                "xl",
+                "h3",
+                "fontFamily"
+              ]
             },
-            "name": "mch_typography_headings_xs_sm_h3_font_size",
-            "attributes": {
-              "category": "Typography",
-              "type": "Headings",
-              "item": "XS-SM",
-              "subitem": "H3",
-              "state": "fontSize"
+            "fontWeight": {
+              "value": "700",
+              "type": "fontWeights",
+              "filePath": "src/Web-Typography.json",
+              "isSource": true,
+              "original": {
+                "value": "{font-weight.bold}",
+                "type": "fontWeights"
+              },
+              "name": "mch_screen_typography_heading_standard_xl_h3_font_weight",
+              "attributes": {
+                "category": "typography",
+                "type": "heading",
+                "item": "standard",
+                "subitem": "xl",
+                "state": "h3"
+              },
+              "path": [
+                "typography",
+                "heading",
+                "standard",
+                "xl",
+                "h3",
+                "fontWeight"
+              ]
             },
-            "path": [
-              "Typography",
-              "Headings",
-              "XS-SM",
-              "H3",
-              "fontSize"
-            ]
+            "fontSize": {
+              "value": "2.75rem",
+              "type": "fontSizes",
+              "filePath": "src/Web-Typography.json",
+              "isSource": true,
+              "original": {
+                "value": "{font-size.44}",
+                "type": "fontSizes"
+              },
+              "name": "mch_screen_typography_heading_standard_xl_h3_font_size",
+              "attributes": {
+                "category": "typography",
+                "type": "heading",
+                "item": "standard",
+                "subitem": "xl",
+                "state": "h3"
+              },
+              "path": [
+                "typography",
+                "heading",
+                "standard",
+                "xl",
+                "h3",
+                "fontSize"
+              ]
+            },
+            "lineHeight": {
+              "value": "2.875rem",
+              "type": "lineHeights",
+              "filePath": "src/Web-Typography.json",
+              "isSource": true,
+              "original": {
+                "value": "{line-height.46}",
+                "type": "lineHeights"
+              },
+              "name": "mch_screen_typography_heading_standard_xl_h3_line_height",
+              "attributes": {
+                "category": "typography",
+                "type": "heading",
+                "item": "standard",
+                "subitem": "xl",
+                "state": "h3"
+              },
+              "path": [
+                "typography",
+                "heading",
+                "standard",
+                "xl",
+                "h3",
+                "lineHeight"
+              ]
+            }
           },
-          "letterSpacing": {
-            "value": "0rem",
-            "type": "letterSpacing",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{letterSpacing.0}",
-              "type": "letterSpacing"
+          "h4": {
+            "fontFamily": {
+              "value": "Art Basel Headline Screen",
+              "type": "fontFamilies",
+              "filePath": "src/Web-Typography.json",
+              "isSource": true,
+              "original": {
+                "value": "{font-family.art-basel-headline-screen}",
+                "type": "fontFamilies"
+              },
+              "name": "mch_screen_typography_heading_standard_xl_h4_font_family",
+              "attributes": {
+                "category": "typography",
+                "type": "heading",
+                "item": "standard",
+                "subitem": "xl",
+                "state": "h4"
+              },
+              "path": [
+                "typography",
+                "heading",
+                "standard",
+                "xl",
+                "h4",
+                "fontFamily"
+              ]
             },
-            "name": "mch_typography_headings_xs_sm_h3_letter_spacing",
-            "attributes": {
-              "category": "Typography",
-              "type": "Headings",
-              "item": "XS-SM",
-              "subitem": "H3",
-              "state": "letterSpacing"
+            "fontWeight": {
+              "value": "700",
+              "type": "fontWeights",
+              "filePath": "src/Web-Typography.json",
+              "isSource": true,
+              "original": {
+                "value": "{font-weight.bold}",
+                "type": "fontWeights"
+              },
+              "name": "mch_screen_typography_heading_standard_xl_h4_font_weight",
+              "attributes": {
+                "category": "typography",
+                "type": "heading",
+                "item": "standard",
+                "subitem": "xl",
+                "state": "h4"
+              },
+              "path": [
+                "typography",
+                "heading",
+                "standard",
+                "xl",
+                "h4",
+                "fontWeight"
+              ]
             },
-            "path": [
-              "Typography",
-              "Headings",
-              "XS-SM",
-              "H3",
-              "letterSpacing"
-            ]
+            "fontSize": {
+              "value": "1.875rem",
+              "type": "fontSizes",
+              "filePath": "src/Web-Typography.json",
+              "isSource": true,
+              "original": {
+                "value": "{font-size.30}",
+                "type": "fontSizes"
+              },
+              "name": "mch_screen_typography_heading_standard_xl_h4_font_size",
+              "attributes": {
+                "category": "typography",
+                "type": "heading",
+                "item": "standard",
+                "subitem": "xl",
+                "state": "h4"
+              },
+              "path": [
+                "typography",
+                "heading",
+                "standard",
+                "xl",
+                "h4",
+                "fontSize"
+              ]
+            },
+            "lineHeight": {
+              "value": "2.125rem",
+              "type": "lineHeights",
+              "filePath": "src/Web-Typography.json",
+              "isSource": true,
+              "original": {
+                "value": "{line-height.34}",
+                "type": "lineHeights"
+              },
+              "name": "mch_screen_typography_heading_standard_xl_h4_line_height",
+              "attributes": {
+                "category": "typography",
+                "type": "heading",
+                "item": "standard",
+                "subitem": "xl",
+                "state": "h4"
+              },
+              "path": [
+                "typography",
+                "heading",
+                "standard",
+                "xl",
+                "h4",
+                "lineHeight"
+              ]
+            }
+          }
+        }
+      },
+      "editorial": {
+        "xsSm": {
+          "display": {
+            "fontFamily": {
+              "value": "Ivar Display",
+              "type": "fontFamilies",
+              "filePath": "src/Web-Typography.json",
+              "isSource": true,
+              "original": {
+                "value": "{font-family.ivar-display}",
+                "type": "fontFamilies"
+              },
+              "name": "mch_screen_typography_heading_editorial_xs_sm_display_font_family",
+              "attributes": {
+                "category": "typography",
+                "type": "heading",
+                "item": "editorial",
+                "subitem": "xs-sm",
+                "state": "display"
+              },
+              "path": [
+                "typography",
+                "heading",
+                "editorial",
+                "xs-sm",
+                "display",
+                "fontFamily"
+              ]
+            },
+            "fontWeight": {
+              "value": "600",
+              "type": "fontWeights",
+              "filePath": "src/Web-Typography.json",
+              "isSource": true,
+              "original": {
+                "value": "{font-weight.semibold}",
+                "type": "fontWeights"
+              },
+              "name": "mch_screen_typography_heading_editorial_xs_sm_display_font_weight",
+              "attributes": {
+                "category": "typography",
+                "type": "heading",
+                "item": "editorial",
+                "subitem": "xs-sm",
+                "state": "display"
+              },
+              "path": [
+                "typography",
+                "heading",
+                "editorial",
+                "xs-sm",
+                "display",
+                "fontWeight"
+              ]
+            },
+            "fontSize": {
+              "value": "4.5rem",
+              "type": "fontSizes",
+              "filePath": "src/Web-Typography.json",
+              "isSource": true,
+              "original": {
+                "value": "{font-size.72}",
+                "type": "fontSizes"
+              },
+              "name": "mch_screen_typography_heading_editorial_xs_sm_display_font_size",
+              "attributes": {
+                "category": "typography",
+                "type": "heading",
+                "item": "editorial",
+                "subitem": "xs-sm",
+                "state": "display"
+              },
+              "path": [
+                "typography",
+                "heading",
+                "editorial",
+                "xs-sm",
+                "display",
+                "fontSize"
+              ]
+            },
+            "lineHeight": {
+              "value": "4.5rem",
+              "type": "lineHeights",
+              "filePath": "src/Web-Typography.json",
+              "isSource": true,
+              "original": {
+                "value": "{line-height.72}",
+                "type": "lineHeights"
+              },
+              "name": "mch_screen_typography_heading_editorial_xs_sm_display_line_height",
+              "attributes": {
+                "category": "typography",
+                "type": "heading",
+                "item": "editorial",
+                "subitem": "xs-sm",
+                "state": "display"
+              },
+              "path": [
+                "typography",
+                "heading",
+                "editorial",
+                "xs-sm",
+                "display",
+                "lineHeight"
+              ]
+            }
           },
-          "paragraphSpacing": {
-            "value": "0",
-            "type": "paragraphSpacing",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{paragraphSpacing.0}",
-              "type": "paragraphSpacing"
+          "h1": {
+            "fontFamily": {
+              "value": "Ivar Display",
+              "type": "fontFamilies",
+              "filePath": "src/Web-Typography.json",
+              "isSource": true,
+              "original": {
+                "value": "{font-family.ivar-display}",
+                "type": "fontFamilies"
+              },
+              "name": "mch_screen_typography_heading_editorial_xs_sm_h1_font_family",
+              "attributes": {
+                "category": "typography",
+                "type": "heading",
+                "item": "editorial",
+                "subitem": "xs-sm",
+                "state": "h1"
+              },
+              "path": [
+                "typography",
+                "heading",
+                "editorial",
+                "xs-sm",
+                "h1",
+                "fontFamily"
+              ]
             },
-            "name": "mch_typography_headings_xs_sm_h3_paragraph_spacing",
-            "attributes": {
-              "category": "Typography",
-              "type": "Headings",
-              "item": "XS-SM",
-              "subitem": "H3",
-              "state": "paragraphSpacing"
+            "fontWeight": {
+              "value": "600",
+              "type": "fontWeights",
+              "filePath": "src/Web-Typography.json",
+              "isSource": true,
+              "original": {
+                "value": "{font-weight.semibold}",
+                "type": "fontWeights"
+              },
+              "name": "mch_screen_typography_heading_editorial_xs_sm_h1_font_weight",
+              "attributes": {
+                "category": "typography",
+                "type": "heading",
+                "item": "editorial",
+                "subitem": "xs-sm",
+                "state": "h1"
+              },
+              "path": [
+                "typography",
+                "heading",
+                "editorial",
+                "xs-sm",
+                "h1",
+                "fontWeight"
+              ]
             },
-            "path": [
-              "Typography",
-              "Headings",
-              "XS-SM",
-              "H3",
-              "paragraphSpacing"
-            ]
+            "fontSize": {
+              "value": "3rem",
+              "type": "fontSizes",
+              "filePath": "src/Web-Typography.json",
+              "isSource": true,
+              "original": {
+                "value": "{font-size.48}",
+                "type": "fontSizes"
+              },
+              "name": "mch_screen_typography_heading_editorial_xs_sm_h1_font_size",
+              "attributes": {
+                "category": "typography",
+                "type": "heading",
+                "item": "editorial",
+                "subitem": "xs-sm",
+                "state": "h1"
+              },
+              "path": [
+                "typography",
+                "heading",
+                "editorial",
+                "xs-sm",
+                "h1",
+                "fontSize"
+              ]
+            },
+            "lineHeight": {
+              "value": "3rem",
+              "type": "lineHeights",
+              "filePath": "src/Web-Typography.json",
+              "isSource": true,
+              "original": {
+                "value": "{line-height.48}",
+                "type": "lineHeights"
+              },
+              "name": "mch_screen_typography_heading_editorial_xs_sm_h1_line_height",
+              "attributes": {
+                "category": "typography",
+                "type": "heading",
+                "item": "editorial",
+                "subitem": "xs-sm",
+                "state": "h1"
+              },
+              "path": [
+                "typography",
+                "heading",
+                "editorial",
+                "xs-sm",
+                "h1",
+                "lineHeight"
+              ]
+            }
           },
-          "paragraphIndent": {
-            "value": 0,
-            "type": "paragraphIndent",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{paragraphIndent.0}",
-              "type": "paragraphIndent"
+          "h2": {
+            "fontFamily": {
+              "value": "Ivar Display",
+              "type": "fontFamilies",
+              "filePath": "src/Web-Typography.json",
+              "isSource": true,
+              "original": {
+                "value": "{font-family.ivar-display}",
+                "type": "fontFamilies"
+              },
+              "name": "mch_screen_typography_heading_editorial_xs_sm_h2_font_family",
+              "attributes": {
+                "category": "typography",
+                "type": "heading",
+                "item": "editorial",
+                "subitem": "xs-sm",
+                "state": "h2"
+              },
+              "path": [
+                "typography",
+                "heading",
+                "editorial",
+                "xs-sm",
+                "h2",
+                "fontFamily"
+              ]
             },
-            "name": "mch_typography_headings_xs_sm_h3_paragraph_indent",
-            "attributes": {
-              "category": "Typography",
-              "type": "Headings",
-              "item": "XS-SM",
-              "subitem": "H3",
-              "state": "paragraphIndent"
+            "fontWeight": {
+              "value": "600",
+              "type": "fontWeights",
+              "filePath": "src/Web-Typography.json",
+              "isSource": true,
+              "original": {
+                "value": "{font-weight.semibold}",
+                "type": "fontWeights"
+              },
+              "name": "mch_screen_typography_heading_editorial_xs_sm_h2_font_weight",
+              "attributes": {
+                "category": "typography",
+                "type": "heading",
+                "item": "editorial",
+                "subitem": "xs-sm",
+                "state": "h2"
+              },
+              "path": [
+                "typography",
+                "heading",
+                "editorial",
+                "xs-sm",
+                "h2",
+                "fontWeight"
+              ]
             },
-            "path": [
-              "Typography",
-              "Headings",
-              "XS-SM",
-              "H3",
-              "paragraphIndent"
-            ]
+            "fontSize": {
+              "value": "2.5rem",
+              "type": "fontSizes",
+              "filePath": "src/Web-Typography.json",
+              "isSource": true,
+              "original": {
+                "value": "{font-size.40}",
+                "type": "fontSizes"
+              },
+              "name": "mch_screen_typography_heading_editorial_xs_sm_h2_font_size",
+              "attributes": {
+                "category": "typography",
+                "type": "heading",
+                "item": "editorial",
+                "subitem": "xs-sm",
+                "state": "h2"
+              },
+              "path": [
+                "typography",
+                "heading",
+                "editorial",
+                "xs-sm",
+                "h2",
+                "fontSize"
+              ]
+            },
+            "lineHeight": {
+              "value": "2.5rem",
+              "type": "lineHeights",
+              "filePath": "src/Web-Typography.json",
+              "isSource": true,
+              "original": {
+                "value": "{line-height.40}",
+                "type": "lineHeights"
+              },
+              "name": "mch_screen_typography_heading_editorial_xs_sm_h2_line_height",
+              "attributes": {
+                "category": "typography",
+                "type": "heading",
+                "item": "editorial",
+                "subitem": "xs-sm",
+                "state": "h2"
+              },
+              "path": [
+                "typography",
+                "heading",
+                "editorial",
+                "xs-sm",
+                "h2",
+                "lineHeight"
+              ]
+            }
           },
-          "textCase": {
-            "value": "none",
-            "type": "textCase",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{textCase.none}",
-              "type": "textCase"
+          "h3": {
+            "fontFamily": {
+              "value": "Ivar Display",
+              "type": "fontFamilies",
+              "filePath": "src/Web-Typography.json",
+              "isSource": true,
+              "original": {
+                "value": "{font-family.ivar-display}",
+                "type": "fontFamilies"
+              },
+              "name": "mch_screen_typography_heading_editorial_xs_sm_h3_font_family",
+              "attributes": {
+                "category": "typography",
+                "type": "heading",
+                "item": "editorial",
+                "subitem": "xs-sm",
+                "state": "h3"
+              },
+              "path": [
+                "typography",
+                "heading",
+                "editorial",
+                "xs-sm",
+                "h3",
+                "fontFamily"
+              ]
             },
-            "name": "mch_typography_headings_xs_sm_h3_text_case",
-            "attributes": {
-              "category": "Typography",
-              "type": "Headings",
-              "item": "XS-SM",
-              "subitem": "H3",
-              "state": "textCase"
+            "fontWeight": {
+              "value": "600",
+              "type": "fontWeights",
+              "filePath": "src/Web-Typography.json",
+              "isSource": true,
+              "original": {
+                "value": "{font-weight.semibold}",
+                "type": "fontWeights"
+              },
+              "name": "mch_screen_typography_heading_editorial_xs_sm_h3_font_weight",
+              "attributes": {
+                "category": "typography",
+                "type": "heading",
+                "item": "editorial",
+                "subitem": "xs-sm",
+                "state": "h3"
+              },
+              "path": [
+                "typography",
+                "heading",
+                "editorial",
+                "xs-sm",
+                "h3",
+                "fontWeight"
+              ]
             },
-            "path": [
-              "Typography",
-              "Headings",
-              "XS-SM",
-              "H3",
-              "textCase"
-            ]
+            "fontSize": {
+              "value": "1.75rem",
+              "type": "fontSizes",
+              "filePath": "src/Web-Typography.json",
+              "isSource": true,
+              "original": {
+                "value": "{font-size.28}",
+                "type": "fontSizes"
+              },
+              "name": "mch_screen_typography_heading_editorial_xs_sm_h3_font_size",
+              "attributes": {
+                "category": "typography",
+                "type": "heading",
+                "item": "editorial",
+                "subitem": "xs-sm",
+                "state": "h3"
+              },
+              "path": [
+                "typography",
+                "heading",
+                "editorial",
+                "xs-sm",
+                "h3",
+                "fontSize"
+              ]
+            },
+            "lineHeight": {
+              "value": "1.875rem",
+              "type": "lineHeights",
+              "filePath": "src/Web-Typography.json",
+              "isSource": true,
+              "original": {
+                "value": "{line-height.30}",
+                "type": "lineHeights"
+              },
+              "name": "mch_screen_typography_heading_editorial_xs_sm_h3_line_height",
+              "attributes": {
+                "category": "typography",
+                "type": "heading",
+                "item": "editorial",
+                "subitem": "xs-sm",
+                "state": "h3"
+              },
+              "path": [
+                "typography",
+                "heading",
+                "editorial",
+                "xs-sm",
+                "h3",
+                "lineHeight"
+              ]
+            }
           },
-          "textDecoration": {
-            "value": "none",
-            "type": "textDecoration",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{textDecoration.none}",
-              "type": "textDecoration"
+          "h4": {
+            "fontFamily": {
+              "value": "Ivar Display",
+              "type": "fontFamilies",
+              "filePath": "src/Web-Typography.json",
+              "isSource": true,
+              "original": {
+                "value": "{font-family.ivar-display}",
+                "type": "fontFamilies"
+              },
+              "name": "mch_screen_typography_heading_editorial_xs_sm_h4_font_family",
+              "attributes": {
+                "category": "typography",
+                "type": "heading",
+                "item": "editorial",
+                "subitem": "xs-sm",
+                "state": "h4"
+              },
+              "path": [
+                "typography",
+                "heading",
+                "editorial",
+                "xs-sm",
+                "h4",
+                "fontFamily"
+              ]
             },
-            "name": "mch_typography_headings_xs_sm_h3_text_decoration",
-            "attributes": {
-              "category": "Typography",
-              "type": "Headings",
-              "item": "XS-SM",
-              "subitem": "H3",
-              "state": "textDecoration"
+            "fontWeight": {
+              "value": "600",
+              "type": "fontWeights",
+              "filePath": "src/Web-Typography.json",
+              "isSource": true,
+              "original": {
+                "value": "{font-weight.semibold}",
+                "type": "fontWeights"
+              },
+              "name": "mch_screen_typography_heading_editorial_xs_sm_h4_font_weight",
+              "attributes": {
+                "category": "typography",
+                "type": "heading",
+                "item": "editorial",
+                "subitem": "xs-sm",
+                "state": "h4"
+              },
+              "path": [
+                "typography",
+                "heading",
+                "editorial",
+                "xs-sm",
+                "h4",
+                "fontWeight"
+              ]
             },
-            "path": [
-              "Typography",
-              "Headings",
-              "XS-SM",
-              "H3",
-              "textDecoration"
-            ]
+            "fontSize": {
+              "value": "1.5rem",
+              "type": "fontSizes",
+              "filePath": "src/Web-Typography.json",
+              "isSource": true,
+              "original": {
+                "value": "{font-size.24}",
+                "type": "fontSizes"
+              },
+              "name": "mch_screen_typography_heading_editorial_xs_sm_h4_font_size",
+              "attributes": {
+                "category": "typography",
+                "type": "heading",
+                "item": "editorial",
+                "subitem": "xs-sm",
+                "state": "h4"
+              },
+              "path": [
+                "typography",
+                "heading",
+                "editorial",
+                "xs-sm",
+                "h4",
+                "fontSize"
+              ]
+            },
+            "lineHeight": {
+              "value": "1.75rem",
+              "type": "lineHeights",
+              "filePath": "src/Web-Typography.json",
+              "isSource": true,
+              "original": {
+                "value": "{line-height.28}",
+                "type": "lineHeights"
+              },
+              "name": "mch_screen_typography_heading_editorial_xs_sm_h4_line_height",
+              "attributes": {
+                "category": "typography",
+                "type": "heading",
+                "item": "editorial",
+                "subitem": "xs-sm",
+                "state": "h4"
+              },
+              "path": [
+                "typography",
+                "heading",
+                "editorial",
+                "xs-sm",
+                "h4",
+                "lineHeight"
+              ]
+            }
+          },
+          "h5": {
+            "fontFamily": {
+              "value": "Ivar Display",
+              "type": "fontFamilies",
+              "filePath": "src/Web-Typography.json",
+              "isSource": true,
+              "original": {
+                "value": "{font-family.ivar-display}",
+                "type": "fontFamilies"
+              },
+              "name": "mch_screen_typography_heading_editorial_xs_sm_h5_font_family",
+              "attributes": {
+                "category": "typography",
+                "type": "heading",
+                "item": "editorial",
+                "subitem": "xs-sm",
+                "state": "h5"
+              },
+              "path": [
+                "typography",
+                "heading",
+                "editorial",
+                "xs-sm",
+                "h5",
+                "fontFamily"
+              ]
+            },
+            "fontWeight": {
+              "value": "600",
+              "type": "fontWeights",
+              "filePath": "src/Web-Typography.json",
+              "isSource": true,
+              "original": {
+                "value": "{font-weight.semibold}",
+                "type": "fontWeights"
+              },
+              "name": "mch_screen_typography_heading_editorial_xs_sm_h5_font_weight",
+              "attributes": {
+                "category": "typography",
+                "type": "heading",
+                "item": "editorial",
+                "subitem": "xs-sm",
+                "state": "h5"
+              },
+              "path": [
+                "typography",
+                "heading",
+                "editorial",
+                "xs-sm",
+                "h5",
+                "fontWeight"
+              ]
+            },
+            "fontSize": {
+              "value": "1.125rem",
+              "type": "fontSizes",
+              "filePath": "src/Web-Typography.json",
+              "isSource": true,
+              "original": {
+                "value": "{font-size.18}",
+                "type": "fontSizes"
+              },
+              "name": "mch_screen_typography_heading_editorial_xs_sm_h5_font_size",
+              "attributes": {
+                "category": "typography",
+                "type": "heading",
+                "item": "editorial",
+                "subitem": "xs-sm",
+                "state": "h5"
+              },
+              "path": [
+                "typography",
+                "heading",
+                "editorial",
+                "xs-sm",
+                "h5",
+                "fontSize"
+              ]
+            },
+            "lineHeight": {
+              "value": "1.375rem",
+              "type": "lineHeights",
+              "filePath": "src/Web-Typography.json",
+              "isSource": true,
+              "original": {
+                "value": "{line-height.22}",
+                "type": "lineHeights"
+              },
+              "name": "mch_screen_typography_heading_editorial_xs_sm_h5_line_height",
+              "attributes": {
+                "category": "typography",
+                "type": "heading",
+                "item": "editorial",
+                "subitem": "xs-sm",
+                "state": "h5"
+              },
+              "path": [
+                "typography",
+                "heading",
+                "editorial",
+                "xs-sm",
+                "h5",
+                "lineHeight"
+              ]
+            }
           }
         },
-        "h4": {
+        "md": {
+          "display": {
+            "fontFamily": {
+              "value": "Ivar Display",
+              "type": "fontFamilies",
+              "filePath": "src/Web-Typography.json",
+              "isSource": true,
+              "original": {
+                "value": "{font-family.ivar-display}",
+                "type": "fontFamilies"
+              },
+              "name": "mch_screen_typography_heading_editorial_md_display_font_family",
+              "attributes": {
+                "category": "typography",
+                "type": "heading",
+                "item": "editorial",
+                "subitem": "md",
+                "state": "display"
+              },
+              "path": [
+                "typography",
+                "heading",
+                "editorial",
+                "md",
+                "display",
+                "fontFamily"
+              ]
+            },
+            "fontWeight": {
+              "value": "600",
+              "type": "fontWeights",
+              "filePath": "src/Web-Typography.json",
+              "isSource": true,
+              "original": {
+                "value": "{font-weight.semibold}",
+                "type": "fontWeights"
+              },
+              "name": "mch_screen_typography_heading_editorial_md_display_font_weight",
+              "attributes": {
+                "category": "typography",
+                "type": "heading",
+                "item": "editorial",
+                "subitem": "md",
+                "state": "display"
+              },
+              "path": [
+                "typography",
+                "heading",
+                "editorial",
+                "md",
+                "display",
+                "fontWeight"
+              ]
+            },
+            "fontSize": {
+              "value": "5.5rem",
+              "type": "fontSizes",
+              "filePath": "src/Web-Typography.json",
+              "isSource": true,
+              "original": {
+                "value": "{font-size.88}",
+                "type": "fontSizes"
+              },
+              "name": "mch_screen_typography_heading_editorial_md_display_font_size",
+              "attributes": {
+                "category": "typography",
+                "type": "heading",
+                "item": "editorial",
+                "subitem": "md",
+                "state": "display"
+              },
+              "path": [
+                "typography",
+                "heading",
+                "editorial",
+                "md",
+                "display",
+                "fontSize"
+              ]
+            },
+            "lineHeight": {
+              "value": "5.5rem",
+              "type": "lineHeights",
+              "filePath": "src/Web-Typography.json",
+              "isSource": true,
+              "original": {
+                "value": "{line-height.88}",
+                "type": "lineHeights"
+              },
+              "name": "mch_screen_typography_heading_editorial_md_display_line_height",
+              "attributes": {
+                "category": "typography",
+                "type": "heading",
+                "item": "editorial",
+                "subitem": "md",
+                "state": "display"
+              },
+              "path": [
+                "typography",
+                "heading",
+                "editorial",
+                "md",
+                "display",
+                "lineHeight"
+              ]
+            }
+          },
+          "h1": {
+            "fontFamily": {
+              "value": "Ivar Display",
+              "type": "fontFamilies",
+              "filePath": "src/Web-Typography.json",
+              "isSource": true,
+              "original": {
+                "value": "{font-family.ivar-display}",
+                "type": "fontFamilies"
+              },
+              "name": "mch_screen_typography_heading_editorial_md_h1_font_family",
+              "attributes": {
+                "category": "typography",
+                "type": "heading",
+                "item": "editorial",
+                "subitem": "md",
+                "state": "h1"
+              },
+              "path": [
+                "typography",
+                "heading",
+                "editorial",
+                "md",
+                "h1",
+                "fontFamily"
+              ]
+            },
+            "fontWeight": {
+              "value": "600",
+              "type": "fontWeights",
+              "filePath": "src/Web-Typography.json",
+              "isSource": true,
+              "original": {
+                "value": "{font-weight.semibold}",
+                "type": "fontWeights"
+              },
+              "name": "mch_screen_typography_heading_editorial_md_h1_font_weight",
+              "attributes": {
+                "category": "typography",
+                "type": "heading",
+                "item": "editorial",
+                "subitem": "md",
+                "state": "h1"
+              },
+              "path": [
+                "typography",
+                "heading",
+                "editorial",
+                "md",
+                "h1",
+                "fontWeight"
+              ]
+            },
+            "fontSize": {
+              "value": "3.625rem",
+              "type": "fontSizes",
+              "filePath": "src/Web-Typography.json",
+              "isSource": true,
+              "original": {
+                "value": "{font-size.58}",
+                "type": "fontSizes"
+              },
+              "name": "mch_screen_typography_heading_editorial_md_h1_font_size",
+              "attributes": {
+                "category": "typography",
+                "type": "heading",
+                "item": "editorial",
+                "subitem": "md",
+                "state": "h1"
+              },
+              "path": [
+                "typography",
+                "heading",
+                "editorial",
+                "md",
+                "h1",
+                "fontSize"
+              ]
+            },
+            "lineHeight": {
+              "value": "3.625rem",
+              "type": "lineHeights",
+              "filePath": "src/Web-Typography.json",
+              "isSource": true,
+              "original": {
+                "value": "{line-height.58}",
+                "type": "lineHeights"
+              },
+              "name": "mch_screen_typography_heading_editorial_md_h1_line_height",
+              "attributes": {
+                "category": "typography",
+                "type": "heading",
+                "item": "editorial",
+                "subitem": "md",
+                "state": "h1"
+              },
+              "path": [
+                "typography",
+                "heading",
+                "editorial",
+                "md",
+                "h1",
+                "lineHeight"
+              ]
+            }
+          },
+          "h2": {
+            "fontFamily": {
+              "value": "Ivar Display",
+              "type": "fontFamilies",
+              "filePath": "src/Web-Typography.json",
+              "isSource": true,
+              "original": {
+                "value": "{font-family.ivar-display}",
+                "type": "fontFamilies"
+              },
+              "name": "mch_screen_typography_heading_editorial_md_h2_font_family",
+              "attributes": {
+                "category": "typography",
+                "type": "heading",
+                "item": "editorial",
+                "subitem": "md",
+                "state": "h2"
+              },
+              "path": [
+                "typography",
+                "heading",
+                "editorial",
+                "md",
+                "h2",
+                "fontFamily"
+              ]
+            },
+            "fontWeight": {
+              "value": "600",
+              "type": "fontWeights",
+              "filePath": "src/Web-Typography.json",
+              "isSource": true,
+              "original": {
+                "value": "{font-weight.semibold}",
+                "type": "fontWeights"
+              },
+              "name": "mch_screen_typography_heading_editorial_md_h2_font_weight",
+              "attributes": {
+                "category": "typography",
+                "type": "heading",
+                "item": "editorial",
+                "subitem": "md",
+                "state": "h2"
+              },
+              "path": [
+                "typography",
+                "heading",
+                "editorial",
+                "md",
+                "h2",
+                "fontWeight"
+              ]
+            },
+            "fontSize": {
+              "value": "2.875rem",
+              "type": "fontSizes",
+              "filePath": "src/Web-Typography.json",
+              "isSource": true,
+              "original": {
+                "value": "{font-size.46}",
+                "type": "fontSizes"
+              },
+              "name": "mch_screen_typography_heading_editorial_md_h2_font_size",
+              "attributes": {
+                "category": "typography",
+                "type": "heading",
+                "item": "editorial",
+                "subitem": "md",
+                "state": "h2"
+              },
+              "path": [
+                "typography",
+                "heading",
+                "editorial",
+                "md",
+                "h2",
+                "fontSize"
+              ]
+            },
+            "lineHeight": {
+              "value": "2.875rem",
+              "type": "lineHeights",
+              "filePath": "src/Web-Typography.json",
+              "isSource": true,
+              "original": {
+                "value": "{line-height.46}",
+                "type": "lineHeights"
+              },
+              "name": "mch_screen_typography_heading_editorial_md_h2_line_height",
+              "attributes": {
+                "category": "typography",
+                "type": "heading",
+                "item": "editorial",
+                "subitem": "md",
+                "state": "h2"
+              },
+              "path": [
+                "typography",
+                "heading",
+                "editorial",
+                "md",
+                "h2",
+                "lineHeight"
+              ]
+            }
+          },
+          "h3": {
+            "fontFamily": {
+              "value": "Ivar Display",
+              "type": "fontFamilies",
+              "filePath": "src/Web-Typography.json",
+              "isSource": true,
+              "original": {
+                "value": "{font-family.ivar-display}",
+                "type": "fontFamilies"
+              },
+              "name": "mch_screen_typography_heading_editorial_md_h3_font_family",
+              "attributes": {
+                "category": "typography",
+                "type": "heading",
+                "item": "editorial",
+                "subitem": "md",
+                "state": "h3"
+              },
+              "path": [
+                "typography",
+                "heading",
+                "editorial",
+                "md",
+                "h3",
+                "fontFamily"
+              ]
+            },
+            "fontWeight": {
+              "value": "600",
+              "type": "fontWeights",
+              "filePath": "src/Web-Typography.json",
+              "isSource": true,
+              "original": {
+                "value": "{font-weight.semibold}",
+                "type": "fontWeights"
+              },
+              "name": "mch_screen_typography_heading_editorial_md_h3_font_weight",
+              "attributes": {
+                "category": "typography",
+                "type": "heading",
+                "item": "editorial",
+                "subitem": "md",
+                "state": "h3"
+              },
+              "path": [
+                "typography",
+                "heading",
+                "editorial",
+                "md",
+                "h3",
+                "fontWeight"
+              ]
+            },
+            "fontSize": {
+              "value": "2.125rem",
+              "type": "fontSizes",
+              "filePath": "src/Web-Typography.json",
+              "isSource": true,
+              "original": {
+                "value": "{font-size.34}",
+                "type": "fontSizes"
+              },
+              "name": "mch_screen_typography_heading_editorial_md_h3_font_size",
+              "attributes": {
+                "category": "typography",
+                "type": "heading",
+                "item": "editorial",
+                "subitem": "md",
+                "state": "h3"
+              },
+              "path": [
+                "typography",
+                "heading",
+                "editorial",
+                "md",
+                "h3",
+                "fontSize"
+              ]
+            },
+            "lineHeight": {
+              "value": "2.25rem",
+              "type": "lineHeights",
+              "filePath": "src/Web-Typography.json",
+              "isSource": true,
+              "original": {
+                "value": "{line-height.36}",
+                "type": "lineHeights"
+              },
+              "name": "mch_screen_typography_heading_editorial_md_h3_line_height",
+              "attributes": {
+                "category": "typography",
+                "type": "heading",
+                "item": "editorial",
+                "subitem": "md",
+                "state": "h3"
+              },
+              "path": [
+                "typography",
+                "heading",
+                "editorial",
+                "md",
+                "h3",
+                "lineHeight"
+              ]
+            }
+          },
+          "h4": {
+            "fontFamily": {
+              "value": "Ivar Display",
+              "type": "fontFamilies",
+              "filePath": "src/Web-Typography.json",
+              "isSource": true,
+              "original": {
+                "value": "{font-family.ivar-display}",
+                "type": "fontFamilies"
+              },
+              "name": "mch_screen_typography_heading_editorial_md_h4_font_family",
+              "attributes": {
+                "category": "typography",
+                "type": "heading",
+                "item": "editorial",
+                "subitem": "md",
+                "state": "h4"
+              },
+              "path": [
+                "typography",
+                "heading",
+                "editorial",
+                "md",
+                "h4",
+                "fontFamily"
+              ]
+            },
+            "fontWeight": {
+              "value": "600",
+              "type": "fontWeights",
+              "filePath": "src/Web-Typography.json",
+              "isSource": true,
+              "original": {
+                "value": "{font-weight.semibold}",
+                "type": "fontWeights"
+              },
+              "name": "mch_screen_typography_heading_editorial_md_h4_font_weight",
+              "attributes": {
+                "category": "typography",
+                "type": "heading",
+                "item": "editorial",
+                "subitem": "md",
+                "state": "h4"
+              },
+              "path": [
+                "typography",
+                "heading",
+                "editorial",
+                "md",
+                "h4",
+                "fontWeight"
+              ]
+            },
+            "fontSize": {
+              "value": "1.5rem",
+              "type": "fontSizes",
+              "filePath": "src/Web-Typography.json",
+              "isSource": true,
+              "original": {
+                "value": "{font-size.24}",
+                "type": "fontSizes"
+              },
+              "name": "mch_screen_typography_heading_editorial_md_h4_font_size",
+              "attributes": {
+                "category": "typography",
+                "type": "heading",
+                "item": "editorial",
+                "subitem": "md",
+                "state": "h4"
+              },
+              "path": [
+                "typography",
+                "heading",
+                "editorial",
+                "md",
+                "h4",
+                "fontSize"
+              ]
+            },
+            "lineHeight": {
+              "value": "1.75rem",
+              "type": "lineHeights",
+              "filePath": "src/Web-Typography.json",
+              "isSource": true,
+              "original": {
+                "value": "{line-height.28}",
+                "type": "lineHeights"
+              },
+              "name": "mch_screen_typography_heading_editorial_md_h4_line_height",
+              "attributes": {
+                "category": "typography",
+                "type": "heading",
+                "item": "editorial",
+                "subitem": "md",
+                "state": "h4"
+              },
+              "path": [
+                "typography",
+                "heading",
+                "editorial",
+                "md",
+                "h4",
+                "lineHeight"
+              ]
+            }
+          },
+          "h5": {
+            "fontFamily": {
+              "value": "Ivar Display",
+              "type": "fontFamilies",
+              "filePath": "src/Web-Typography.json",
+              "isSource": true,
+              "original": {
+                "value": "{font-family.ivar-display}",
+                "type": "fontFamilies"
+              },
+              "name": "mch_screen_typography_heading_editorial_md_h5_font_family",
+              "attributes": {
+                "category": "typography",
+                "type": "heading",
+                "item": "editorial",
+                "subitem": "md",
+                "state": "h5"
+              },
+              "path": [
+                "typography",
+                "heading",
+                "editorial",
+                "md",
+                "h5",
+                "fontFamily"
+              ]
+            },
+            "fontWeight": {
+              "value": "600",
+              "type": "fontWeights",
+              "filePath": "src/Web-Typography.json",
+              "isSource": true,
+              "original": {
+                "value": "{font-weight.semibold}",
+                "type": "fontWeights"
+              },
+              "name": "mch_screen_typography_heading_editorial_md_h5_font_weight",
+              "attributes": {
+                "category": "typography",
+                "type": "heading",
+                "item": "editorial",
+                "subitem": "md",
+                "state": "h5"
+              },
+              "path": [
+                "typography",
+                "heading",
+                "editorial",
+                "md",
+                "h5",
+                "fontWeight"
+              ]
+            },
+            "fontSize": {
+              "value": "1.125rem",
+              "type": "fontSizes",
+              "filePath": "src/Web-Typography.json",
+              "isSource": true,
+              "original": {
+                "value": "{font-size.18}",
+                "type": "fontSizes"
+              },
+              "name": "mch_screen_typography_heading_editorial_md_h5_font_size",
+              "attributes": {
+                "category": "typography",
+                "type": "heading",
+                "item": "editorial",
+                "subitem": "md",
+                "state": "h5"
+              },
+              "path": [
+                "typography",
+                "heading",
+                "editorial",
+                "md",
+                "h5",
+                "fontSize"
+              ]
+            },
+            "lineHeight": {
+              "value": "1.375rem",
+              "type": "lineHeights",
+              "filePath": "src/Web-Typography.json",
+              "isSource": true,
+              "original": {
+                "value": "{line-height.22}",
+                "type": "lineHeights"
+              },
+              "name": "mch_screen_typography_heading_editorial_md_h5_line_height",
+              "attributes": {
+                "category": "typography",
+                "type": "heading",
+                "item": "editorial",
+                "subitem": "md",
+                "state": "h5"
+              },
+              "path": [
+                "typography",
+                "heading",
+                "editorial",
+                "md",
+                "h5",
+                "lineHeight"
+              ]
+            }
+          }
+        },
+        "lg": {
+          "display": {
+            "fontFamily": {
+              "value": "Ivar Display",
+              "type": "fontFamilies",
+              "filePath": "src/Web-Typography.json",
+              "isSource": true,
+              "original": {
+                "value": "{font-family.ivar-display}",
+                "type": "fontFamilies"
+              },
+              "name": "mch_screen_typography_heading_editorial_lg_display_font_family",
+              "attributes": {
+                "category": "typography",
+                "type": "heading",
+                "item": "editorial",
+                "subitem": "lg",
+                "state": "display"
+              },
+              "path": [
+                "typography",
+                "heading",
+                "editorial",
+                "lg",
+                "display",
+                "fontFamily"
+              ]
+            },
+            "fontWeight": {
+              "value": "600",
+              "type": "fontWeights",
+              "filePath": "src/Web-Typography.json",
+              "isSource": true,
+              "original": {
+                "value": "{font-weight.semibold}",
+                "type": "fontWeights"
+              },
+              "name": "mch_screen_typography_heading_editorial_lg_display_font_weight",
+              "attributes": {
+                "category": "typography",
+                "type": "heading",
+                "item": "editorial",
+                "subitem": "lg",
+                "state": "display"
+              },
+              "path": [
+                "typography",
+                "heading",
+                "editorial",
+                "lg",
+                "display",
+                "fontWeight"
+              ]
+            },
+            "fontSize": {
+              "value": "6.5rem",
+              "type": "fontSizes",
+              "filePath": "src/Web-Typography.json",
+              "isSource": true,
+              "original": {
+                "value": "{font-size.104}",
+                "type": "fontSizes"
+              },
+              "name": "mch_screen_typography_heading_editorial_lg_display_font_size",
+              "attributes": {
+                "category": "typography",
+                "type": "heading",
+                "item": "editorial",
+                "subitem": "lg",
+                "state": "display"
+              },
+              "path": [
+                "typography",
+                "heading",
+                "editorial",
+                "lg",
+                "display",
+                "fontSize"
+              ]
+            },
+            "lineHeight": {
+              "value": "6.5rem",
+              "type": "lineHeights",
+              "filePath": "src/Web-Typography.json",
+              "isSource": true,
+              "original": {
+                "value": "{line-height.104}",
+                "type": "lineHeights"
+              },
+              "name": "mch_screen_typography_heading_editorial_lg_display_line_height",
+              "attributes": {
+                "category": "typography",
+                "type": "heading",
+                "item": "editorial",
+                "subitem": "lg",
+                "state": "display"
+              },
+              "path": [
+                "typography",
+                "heading",
+                "editorial",
+                "lg",
+                "display",
+                "lineHeight"
+              ]
+            }
+          },
+          "h1": {
+            "fontFamily": {
+              "value": "Ivar Display",
+              "type": "fontFamilies",
+              "filePath": "src/Web-Typography.json",
+              "isSource": true,
+              "original": {
+                "value": "{font-family.ivar-display}",
+                "type": "fontFamilies"
+              },
+              "name": "mch_screen_typography_heading_editorial_lg_h1_font_family",
+              "attributes": {
+                "category": "typography",
+                "type": "heading",
+                "item": "editorial",
+                "subitem": "lg",
+                "state": "h1"
+              },
+              "path": [
+                "typography",
+                "heading",
+                "editorial",
+                "lg",
+                "h1",
+                "fontFamily"
+              ]
+            },
+            "fontWeight": {
+              "value": "600",
+              "type": "fontWeights",
+              "filePath": "src/Web-Typography.json",
+              "isSource": true,
+              "original": {
+                "value": "{font-weight.semibold}",
+                "type": "fontWeights"
+              },
+              "name": "mch_screen_typography_heading_editorial_lg_h1_font_weight",
+              "attributes": {
+                "category": "typography",
+                "type": "heading",
+                "item": "editorial",
+                "subitem": "lg",
+                "state": "h1"
+              },
+              "path": [
+                "typography",
+                "heading",
+                "editorial",
+                "lg",
+                "h1",
+                "fontWeight"
+              ]
+            },
+            "fontSize": {
+              "value": "4.125rem",
+              "type": "fontSizes",
+              "filePath": "src/Web-Typography.json",
+              "isSource": true,
+              "original": {
+                "value": "{font-size.66}",
+                "type": "fontSizes"
+              },
+              "name": "mch_screen_typography_heading_editorial_lg_h1_font_size",
+              "attributes": {
+                "category": "typography",
+                "type": "heading",
+                "item": "editorial",
+                "subitem": "lg",
+                "state": "h1"
+              },
+              "path": [
+                "typography",
+                "heading",
+                "editorial",
+                "lg",
+                "h1",
+                "fontSize"
+              ]
+            },
+            "lineHeight": {
+              "value": "4.125rem",
+              "type": "lineHeights",
+              "filePath": "src/Web-Typography.json",
+              "isSource": true,
+              "original": {
+                "value": "{line-height.66}",
+                "type": "lineHeights"
+              },
+              "name": "mch_screen_typography_heading_editorial_lg_h1_line_height",
+              "attributes": {
+                "category": "typography",
+                "type": "heading",
+                "item": "editorial",
+                "subitem": "lg",
+                "state": "h1"
+              },
+              "path": [
+                "typography",
+                "heading",
+                "editorial",
+                "lg",
+                "h1",
+                "lineHeight"
+              ]
+            }
+          },
+          "h2": {
+            "fontFamily": {
+              "value": "Ivar Display",
+              "type": "fontFamilies",
+              "filePath": "src/Web-Typography.json",
+              "isSource": true,
+              "original": {
+                "value": "{font-family.ivar-display}",
+                "type": "fontFamilies"
+              },
+              "name": "mch_screen_typography_heading_editorial_lg_h2_font_family",
+              "attributes": {
+                "category": "typography",
+                "type": "heading",
+                "item": "editorial",
+                "subitem": "lg",
+                "state": "h2"
+              },
+              "path": [
+                "typography",
+                "heading",
+                "editorial",
+                "lg",
+                "h2",
+                "fontFamily"
+              ]
+            },
+            "fontWeight": {
+              "value": "600",
+              "type": "fontWeights",
+              "filePath": "src/Web-Typography.json",
+              "isSource": true,
+              "original": {
+                "value": "{font-weight.semibold}",
+                "type": "fontWeights"
+              },
+              "name": "mch_screen_typography_heading_editorial_lg_h2_font_weight",
+              "attributes": {
+                "category": "typography",
+                "type": "heading",
+                "item": "editorial",
+                "subitem": "lg",
+                "state": "h2"
+              },
+              "path": [
+                "typography",
+                "heading",
+                "editorial",
+                "lg",
+                "h2",
+                "fontWeight"
+              ]
+            },
+            "fontSize": {
+              "value": "3.25rem",
+              "type": "fontSizes",
+              "filePath": "src/Web-Typography.json",
+              "isSource": true,
+              "original": {
+                "value": "{font-size.52}",
+                "type": "fontSizes"
+              },
+              "name": "mch_screen_typography_heading_editorial_lg_h2_font_size",
+              "attributes": {
+                "category": "typography",
+                "type": "heading",
+                "item": "editorial",
+                "subitem": "lg",
+                "state": "h2"
+              },
+              "path": [
+                "typography",
+                "heading",
+                "editorial",
+                "lg",
+                "h2",
+                "fontSize"
+              ]
+            },
+            "lineHeight": {
+              "value": "3.25rem",
+              "type": "lineHeights",
+              "filePath": "src/Web-Typography.json",
+              "isSource": true,
+              "original": {
+                "value": "{line-height.52}",
+                "type": "lineHeights"
+              },
+              "name": "mch_screen_typography_heading_editorial_lg_h2_line_height",
+              "attributes": {
+                "category": "typography",
+                "type": "heading",
+                "item": "editorial",
+                "subitem": "lg",
+                "state": "h2"
+              },
+              "path": [
+                "typography",
+                "heading",
+                "editorial",
+                "lg",
+                "h2",
+                "lineHeight"
+              ]
+            }
+          },
+          "h3": {
+            "fontFamily": {
+              "value": "Ivar Display",
+              "type": "fontFamilies",
+              "filePath": "src/Web-Typography.json",
+              "isSource": true,
+              "original": {
+                "value": "{font-family.ivar-display}",
+                "type": "fontFamilies"
+              },
+              "name": "mch_screen_typography_heading_editorial_lg_h3_font_family",
+              "attributes": {
+                "category": "typography",
+                "type": "heading",
+                "item": "editorial",
+                "subitem": "lg",
+                "state": "h3"
+              },
+              "path": [
+                "typography",
+                "heading",
+                "editorial",
+                "lg",
+                "h3",
+                "fontFamily"
+              ]
+            },
+            "fontWeight": {
+              "value": "600",
+              "type": "fontWeights",
+              "filePath": "src/Web-Typography.json",
+              "isSource": true,
+              "original": {
+                "value": "{font-weight.semibold}",
+                "type": "fontWeights"
+              },
+              "name": "mch_screen_typography_heading_editorial_lg_h3_font_weight",
+              "attributes": {
+                "category": "typography",
+                "type": "heading",
+                "item": "editorial",
+                "subitem": "lg",
+                "state": "h3"
+              },
+              "path": [
+                "typography",
+                "heading",
+                "editorial",
+                "lg",
+                "h3",
+                "fontWeight"
+              ]
+            },
+            "fontSize": {
+              "value": "2.5rem",
+              "type": "fontSizes",
+              "filePath": "src/Web-Typography.json",
+              "isSource": true,
+              "original": {
+                "value": "{font-size.40}",
+                "type": "fontSizes"
+              },
+              "name": "mch_screen_typography_heading_editorial_lg_h3_font_size",
+              "attributes": {
+                "category": "typography",
+                "type": "heading",
+                "item": "editorial",
+                "subitem": "lg",
+                "state": "h3"
+              },
+              "path": [
+                "typography",
+                "heading",
+                "editorial",
+                "lg",
+                "h3",
+                "fontSize"
+              ]
+            },
+            "lineHeight": {
+              "value": "2.625rem",
+              "type": "lineHeights",
+              "filePath": "src/Web-Typography.json",
+              "isSource": true,
+              "original": {
+                "value": "{line-height.42}",
+                "type": "lineHeights"
+              },
+              "name": "mch_screen_typography_heading_editorial_lg_h3_line_height",
+              "attributes": {
+                "category": "typography",
+                "type": "heading",
+                "item": "editorial",
+                "subitem": "lg",
+                "state": "h3"
+              },
+              "path": [
+                "typography",
+                "heading",
+                "editorial",
+                "lg",
+                "h3",
+                "lineHeight"
+              ]
+            }
+          },
+          "h4": {
+            "fontFamily": {
+              "value": "Ivar Display",
+              "type": "fontFamilies",
+              "filePath": "src/Web-Typography.json",
+              "isSource": true,
+              "original": {
+                "value": "{font-family.ivar-display}",
+                "type": "fontFamilies"
+              },
+              "name": "mch_screen_typography_heading_editorial_lg_h4_font_family",
+              "attributes": {
+                "category": "typography",
+                "type": "heading",
+                "item": "editorial",
+                "subitem": "lg",
+                "state": "h4"
+              },
+              "path": [
+                "typography",
+                "heading",
+                "editorial",
+                "lg",
+                "h4",
+                "fontFamily"
+              ]
+            },
+            "fontWeight": {
+              "value": "600",
+              "type": "fontWeights",
+              "filePath": "src/Web-Typography.json",
+              "isSource": true,
+              "original": {
+                "value": "{font-weight.semibold}",
+                "type": "fontWeights"
+              },
+              "name": "mch_screen_typography_heading_editorial_lg_h4_font_weight",
+              "attributes": {
+                "category": "typography",
+                "type": "heading",
+                "item": "editorial",
+                "subitem": "lg",
+                "state": "h4"
+              },
+              "path": [
+                "typography",
+                "heading",
+                "editorial",
+                "lg",
+                "h4",
+                "fontWeight"
+              ]
+            },
+            "fontSize": {
+              "value": "1.75rem",
+              "type": "fontSizes",
+              "filePath": "src/Web-Typography.json",
+              "isSource": true,
+              "original": {
+                "value": "{font-size.28}",
+                "type": "fontSizes"
+              },
+              "name": "mch_screen_typography_heading_editorial_lg_h4_font_size",
+              "attributes": {
+                "category": "typography",
+                "type": "heading",
+                "item": "editorial",
+                "subitem": "lg",
+                "state": "h4"
+              },
+              "path": [
+                "typography",
+                "heading",
+                "editorial",
+                "lg",
+                "h4",
+                "fontSize"
+              ]
+            },
+            "lineHeight": {
+              "value": "2rem",
+              "type": "lineHeights",
+              "filePath": "src/Web-Typography.json",
+              "isSource": true,
+              "original": {
+                "value": "{line-height.32}",
+                "type": "lineHeights"
+              },
+              "name": "mch_screen_typography_heading_editorial_lg_h4_line_height",
+              "attributes": {
+                "category": "typography",
+                "type": "heading",
+                "item": "editorial",
+                "subitem": "lg",
+                "state": "h4"
+              },
+              "path": [
+                "typography",
+                "heading",
+                "editorial",
+                "lg",
+                "h4",
+                "lineHeight"
+              ]
+            }
+          },
+          "h5": {
+            "fontFamily": {
+              "value": "Ivar Display",
+              "type": "fontFamilies",
+              "filePath": "src/Web-Typography.json",
+              "isSource": true,
+              "original": {
+                "value": "{font-family.ivar-display}",
+                "type": "fontFamilies"
+              },
+              "name": "mch_screen_typography_heading_editorial_lg_h5_font_family",
+              "attributes": {
+                "category": "typography",
+                "type": "heading",
+                "item": "editorial",
+                "subitem": "lg",
+                "state": "h5"
+              },
+              "path": [
+                "typography",
+                "heading",
+                "editorial",
+                "lg",
+                "h5",
+                "fontFamily"
+              ]
+            },
+            "fontWeight": {
+              "value": "600",
+              "type": "fontWeights",
+              "filePath": "src/Web-Typography.json",
+              "isSource": true,
+              "original": {
+                "value": "{font-weight.semibold}",
+                "type": "fontWeights"
+              },
+              "name": "mch_screen_typography_heading_editorial_lg_h5_font_weight",
+              "attributes": {
+                "category": "typography",
+                "type": "heading",
+                "item": "editorial",
+                "subitem": "lg",
+                "state": "h5"
+              },
+              "path": [
+                "typography",
+                "heading",
+                "editorial",
+                "lg",
+                "h5",
+                "fontWeight"
+              ]
+            },
+            "fontSize": {
+              "value": "1.25rem",
+              "type": "fontSizes",
+              "filePath": "src/Web-Typography.json",
+              "isSource": true,
+              "original": {
+                "value": "{font-size.20}",
+                "type": "fontSizes"
+              },
+              "name": "mch_screen_typography_heading_editorial_lg_h5_font_size",
+              "attributes": {
+                "category": "typography",
+                "type": "heading",
+                "item": "editorial",
+                "subitem": "lg",
+                "state": "h5"
+              },
+              "path": [
+                "typography",
+                "heading",
+                "editorial",
+                "lg",
+                "h5",
+                "fontSize"
+              ]
+            },
+            "lineHeight": {
+              "value": "1.5rem",
+              "type": "lineHeights",
+              "filePath": "src/Web-Typography.json",
+              "isSource": true,
+              "original": {
+                "value": "{line-height.24}",
+                "type": "lineHeights"
+              },
+              "name": "mch_screen_typography_heading_editorial_lg_h5_line_height",
+              "attributes": {
+                "category": "typography",
+                "type": "heading",
+                "item": "editorial",
+                "subitem": "lg",
+                "state": "h5"
+              },
+              "path": [
+                "typography",
+                "heading",
+                "editorial",
+                "lg",
+                "h5",
+                "lineHeight"
+              ]
+            }
+          }
+        },
+        "xl": {
+          "display": {
+            "fontFamily": {
+              "value": "Ivar Display",
+              "type": "fontFamilies",
+              "filePath": "src/Web-Typography.json",
+              "isSource": true,
+              "original": {
+                "value": "{font-family.ivar-display}",
+                "type": "fontFamilies"
+              },
+              "name": "mch_screen_typography_heading_editorial_xl_display_font_family",
+              "attributes": {
+                "category": "typography",
+                "type": "heading",
+                "item": "editorial",
+                "subitem": "xl",
+                "state": "display"
+              },
+              "path": [
+                "typography",
+                "heading",
+                "editorial",
+                "xl",
+                "display",
+                "fontFamily"
+              ]
+            },
+            "fontWeight": {
+              "value": "600",
+              "type": "fontWeights",
+              "filePath": "src/Web-Typography.json",
+              "isSource": true,
+              "original": {
+                "value": "{font-weight.semibold}",
+                "type": "fontWeights"
+              },
+              "name": "mch_screen_typography_heading_editorial_xl_display_font_weight",
+              "attributes": {
+                "category": "typography",
+                "type": "heading",
+                "item": "editorial",
+                "subitem": "xl",
+                "state": "display"
+              },
+              "path": [
+                "typography",
+                "heading",
+                "editorial",
+                "xl",
+                "display",
+                "fontWeight"
+              ]
+            },
+            "fontSize": {
+              "value": "8rem",
+              "type": "fontSizes",
+              "filePath": "src/Web-Typography.json",
+              "isSource": true,
+              "original": {
+                "value": "{font-size.128}",
+                "type": "fontSizes"
+              },
+              "name": "mch_screen_typography_heading_editorial_xl_display_font_size",
+              "attributes": {
+                "category": "typography",
+                "type": "heading",
+                "item": "editorial",
+                "subitem": "xl",
+                "state": "display"
+              },
+              "path": [
+                "typography",
+                "heading",
+                "editorial",
+                "xl",
+                "display",
+                "fontSize"
+              ]
+            },
+            "lineHeight": {
+              "value": "8rem",
+              "type": "lineHeights",
+              "filePath": "src/Web-Typography.json",
+              "isSource": true,
+              "original": {
+                "value": "{line-height.128}",
+                "type": "lineHeights"
+              },
+              "name": "mch_screen_typography_heading_editorial_xl_display_line_height",
+              "attributes": {
+                "category": "typography",
+                "type": "heading",
+                "item": "editorial",
+                "subitem": "xl",
+                "state": "display"
+              },
+              "path": [
+                "typography",
+                "heading",
+                "editorial",
+                "xl",
+                "display",
+                "lineHeight"
+              ]
+            }
+          },
+          "h1": {
+            "fontFamily": {
+              "value": "Ivar Display",
+              "type": "fontFamilies",
+              "filePath": "src/Web-Typography.json",
+              "isSource": true,
+              "original": {
+                "value": "{font-family.ivar-display}",
+                "type": "fontFamilies"
+              },
+              "name": "mch_screen_typography_heading_editorial_xl_h1_font_family",
+              "attributes": {
+                "category": "typography",
+                "type": "heading",
+                "item": "editorial",
+                "subitem": "xl",
+                "state": "h1"
+              },
+              "path": [
+                "typography",
+                "heading",
+                "editorial",
+                "xl",
+                "h1",
+                "fontFamily"
+              ]
+            },
+            "fontWeight": {
+              "value": "600",
+              "type": "fontWeights",
+              "filePath": "src/Web-Typography.json",
+              "isSource": true,
+              "original": {
+                "value": "{font-weight.semibold}",
+                "type": "fontWeights"
+              },
+              "name": "mch_screen_typography_heading_editorial_xl_h1_font_weight",
+              "attributes": {
+                "category": "typography",
+                "type": "heading",
+                "item": "editorial",
+                "subitem": "xl",
+                "state": "h1"
+              },
+              "path": [
+                "typography",
+                "heading",
+                "editorial",
+                "xl",
+                "h1",
+                "fontWeight"
+              ]
+            },
+            "fontSize": {
+              "value": "5.25rem",
+              "type": "fontSizes",
+              "filePath": "src/Web-Typography.json",
+              "isSource": true,
+              "original": {
+                "value": "{font-size.84}",
+                "type": "fontSizes"
+              },
+              "name": "mch_screen_typography_heading_editorial_xl_h1_font_size",
+              "attributes": {
+                "category": "typography",
+                "type": "heading",
+                "item": "editorial",
+                "subitem": "xl",
+                "state": "h1"
+              },
+              "path": [
+                "typography",
+                "heading",
+                "editorial",
+                "xl",
+                "h1",
+                "fontSize"
+              ]
+            },
+            "lineHeight": {
+              "value": "5.25rem",
+              "type": "lineHeights",
+              "filePath": "src/Web-Typography.json",
+              "isSource": true,
+              "original": {
+                "value": "{line-height.84}",
+                "type": "lineHeights"
+              },
+              "name": "mch_screen_typography_heading_editorial_xl_h1_line_height",
+              "attributes": {
+                "category": "typography",
+                "type": "heading",
+                "item": "editorial",
+                "subitem": "xl",
+                "state": "h1"
+              },
+              "path": [
+                "typography",
+                "heading",
+                "editorial",
+                "xl",
+                "h1",
+                "lineHeight"
+              ]
+            }
+          },
+          "h2": {
+            "fontFamily": {
+              "value": "Ivar Display",
+              "type": "fontFamilies",
+              "filePath": "src/Web-Typography.json",
+              "isSource": true,
+              "original": {
+                "value": "{font-family.ivar-display}",
+                "type": "fontFamilies"
+              },
+              "name": "mch_screen_typography_heading_editorial_xl_h2_font_family",
+              "attributes": {
+                "category": "typography",
+                "type": "heading",
+                "item": "editorial",
+                "subitem": "xl",
+                "state": "h2"
+              },
+              "path": [
+                "typography",
+                "heading",
+                "editorial",
+                "xl",
+                "h2",
+                "fontFamily"
+              ]
+            },
+            "fontWeight": {
+              "value": "600",
+              "type": "fontWeights",
+              "filePath": "src/Web-Typography.json",
+              "isSource": true,
+              "original": {
+                "value": "{font-weight.semibold}",
+                "type": "fontWeights"
+              },
+              "name": "mch_screen_typography_heading_editorial_xl_h2_font_weight",
+              "attributes": {
+                "category": "typography",
+                "type": "heading",
+                "item": "editorial",
+                "subitem": "xl",
+                "state": "h2"
+              },
+              "path": [
+                "typography",
+                "heading",
+                "editorial",
+                "xl",
+                "h2",
+                "fontWeight"
+              ]
+            },
+            "fontSize": {
+              "value": "4rem",
+              "type": "fontSizes",
+              "filePath": "src/Web-Typography.json",
+              "isSource": true,
+              "original": {
+                "value": "{font-size.64}",
+                "type": "fontSizes"
+              },
+              "name": "mch_screen_typography_heading_editorial_xl_h2_font_size",
+              "attributes": {
+                "category": "typography",
+                "type": "heading",
+                "item": "editorial",
+                "subitem": "xl",
+                "state": "h2"
+              },
+              "path": [
+                "typography",
+                "heading",
+                "editorial",
+                "xl",
+                "h2",
+                "fontSize"
+              ]
+            },
+            "lineHeight": {
+              "value": "4rem",
+              "type": "lineHeights",
+              "filePath": "src/Web-Typography.json",
+              "isSource": true,
+              "original": {
+                "value": "{line-height.64}",
+                "type": "lineHeights"
+              },
+              "name": "mch_screen_typography_heading_editorial_xl_h2_line_height",
+              "attributes": {
+                "category": "typography",
+                "type": "heading",
+                "item": "editorial",
+                "subitem": "xl",
+                "state": "h2"
+              },
+              "path": [
+                "typography",
+                "heading",
+                "editorial",
+                "xl",
+                "h2",
+                "lineHeight"
+              ]
+            }
+          },
+          "h3": {
+            "fontFamily": {
+              "value": "Ivar Display",
+              "type": "fontFamilies",
+              "filePath": "src/Web-Typography.json",
+              "isSource": true,
+              "original": {
+                "value": "{font-family.ivar-display}",
+                "type": "fontFamilies"
+              },
+              "name": "mch_screen_typography_heading_editorial_xl_h3_font_family",
+              "attributes": {
+                "category": "typography",
+                "type": "heading",
+                "item": "editorial",
+                "subitem": "xl",
+                "state": "h3"
+              },
+              "path": [
+                "typography",
+                "heading",
+                "editorial",
+                "xl",
+                "h3",
+                "fontFamily"
+              ]
+            },
+            "fontWeight": {
+              "value": "600",
+              "type": "fontWeights",
+              "filePath": "src/Web-Typography.json",
+              "isSource": true,
+              "original": {
+                "value": "{font-weight.semibold}",
+                "type": "fontWeights"
+              },
+              "name": "mch_screen_typography_heading_editorial_xl_h3_font_weight",
+              "attributes": {
+                "category": "typography",
+                "type": "heading",
+                "item": "editorial",
+                "subitem": "xl",
+                "state": "h3"
+              },
+              "path": [
+                "typography",
+                "heading",
+                "editorial",
+                "xl",
+                "h3",
+                "fontWeight"
+              ]
+            },
+            "fontSize": {
+              "value": "2.75rem",
+              "type": "fontSizes",
+              "filePath": "src/Web-Typography.json",
+              "isSource": true,
+              "original": {
+                "value": "{font-size.44}",
+                "type": "fontSizes"
+              },
+              "name": "mch_screen_typography_heading_editorial_xl_h3_font_size",
+              "attributes": {
+                "category": "typography",
+                "type": "heading",
+                "item": "editorial",
+                "subitem": "xl",
+                "state": "h3"
+              },
+              "path": [
+                "typography",
+                "heading",
+                "editorial",
+                "xl",
+                "h3",
+                "fontSize"
+              ]
+            },
+            "lineHeight": {
+              "value": "2.875rem",
+              "type": "lineHeights",
+              "filePath": "src/Web-Typography.json",
+              "isSource": true,
+              "original": {
+                "value": "{line-height.46}",
+                "type": "lineHeights"
+              },
+              "name": "mch_screen_typography_heading_editorial_xl_h3_line_height",
+              "attributes": {
+                "category": "typography",
+                "type": "heading",
+                "item": "editorial",
+                "subitem": "xl",
+                "state": "h3"
+              },
+              "path": [
+                "typography",
+                "heading",
+                "editorial",
+                "xl",
+                "h3",
+                "lineHeight"
+              ]
+            }
+          },
+          "h4": {
+            "fontFamily": {
+              "value": "Ivar Display",
+              "type": "fontFamilies",
+              "filePath": "src/Web-Typography.json",
+              "isSource": true,
+              "original": {
+                "value": "{font-family.ivar-display}",
+                "type": "fontFamilies"
+              },
+              "name": "mch_screen_typography_heading_editorial_xl_h4_font_family",
+              "attributes": {
+                "category": "typography",
+                "type": "heading",
+                "item": "editorial",
+                "subitem": "xl",
+                "state": "h4"
+              },
+              "path": [
+                "typography",
+                "heading",
+                "editorial",
+                "xl",
+                "h4",
+                "fontFamily"
+              ]
+            },
+            "fontWeight": {
+              "value": "600",
+              "type": "fontWeights",
+              "filePath": "src/Web-Typography.json",
+              "isSource": true,
+              "original": {
+                "value": "{font-weight.semibold}",
+                "type": "fontWeights"
+              },
+              "name": "mch_screen_typography_heading_editorial_xl_h4_font_weight",
+              "attributes": {
+                "category": "typography",
+                "type": "heading",
+                "item": "editorial",
+                "subitem": "xl",
+                "state": "h4"
+              },
+              "path": [
+                "typography",
+                "heading",
+                "editorial",
+                "xl",
+                "h4",
+                "fontWeight"
+              ]
+            },
+            "fontSize": {
+              "value": "1.875rem",
+              "type": "fontSizes",
+              "filePath": "src/Web-Typography.json",
+              "isSource": true,
+              "original": {
+                "value": "{font-size.30}",
+                "type": "fontSizes"
+              },
+              "name": "mch_screen_typography_heading_editorial_xl_h4_font_size",
+              "attributes": {
+                "category": "typography",
+                "type": "heading",
+                "item": "editorial",
+                "subitem": "xl",
+                "state": "h4"
+              },
+              "path": [
+                "typography",
+                "heading",
+                "editorial",
+                "xl",
+                "h4",
+                "fontSize"
+              ]
+            },
+            "lineHeight": {
+              "value": "2.125rem",
+              "type": "lineHeights",
+              "filePath": "src/Web-Typography.json",
+              "isSource": true,
+              "original": {
+                "value": "{line-height.34}",
+                "type": "lineHeights"
+              },
+              "name": "mch_screen_typography_heading_editorial_xl_h4_line_height",
+              "attributes": {
+                "category": "typography",
+                "type": "heading",
+                "item": "editorial",
+                "subitem": "xl",
+                "state": "h4"
+              },
+              "path": [
+                "typography",
+                "heading",
+                "editorial",
+                "xl",
+                "h4",
+                "lineHeight"
+              ]
+            }
+          },
+          "h5": {
+            "fontFamily": {
+              "value": "Ivar Display",
+              "type": "fontFamilies",
+              "filePath": "src/Web-Typography.json",
+              "isSource": true,
+              "original": {
+                "value": "{font-family.ivar-display}",
+                "type": "fontFamilies"
+              },
+              "name": "mch_screen_typography_heading_editorial_xl_h5_font_family",
+              "attributes": {
+                "category": "typography",
+                "type": "heading",
+                "item": "editorial",
+                "subitem": "xl",
+                "state": "h5"
+              },
+              "path": [
+                "typography",
+                "heading",
+                "editorial",
+                "xl",
+                "h5",
+                "fontFamily"
+              ]
+            },
+            "fontWeight": {
+              "value": "600",
+              "type": "fontWeights",
+              "filePath": "src/Web-Typography.json",
+              "isSource": true,
+              "original": {
+                "value": "{font-weight.semibold}",
+                "type": "fontWeights"
+              },
+              "name": "mch_screen_typography_heading_editorial_xl_h5_font_weight",
+              "attributes": {
+                "category": "typography",
+                "type": "heading",
+                "item": "editorial",
+                "subitem": "xl",
+                "state": "h5"
+              },
+              "path": [
+                "typography",
+                "heading",
+                "editorial",
+                "xl",
+                "h5",
+                "fontWeight"
+              ]
+            },
+            "fontSize": {
+              "value": "1.25rem",
+              "type": "fontSizes",
+              "filePath": "src/Web-Typography.json",
+              "isSource": true,
+              "original": {
+                "value": "{font-size.20}",
+                "type": "fontSizes"
+              },
+              "name": "mch_screen_typography_heading_editorial_xl_h5_font_size",
+              "attributes": {
+                "category": "typography",
+                "type": "heading",
+                "item": "editorial",
+                "subitem": "xl",
+                "state": "h5"
+              },
+              "path": [
+                "typography",
+                "heading",
+                "editorial",
+                "xl",
+                "h5",
+                "fontSize"
+              ]
+            },
+            "lineHeight": {
+              "value": "1.5rem",
+              "type": "lineHeights",
+              "filePath": "src/Web-Typography.json",
+              "isSource": true,
+              "original": {
+                "value": "{line-height.24}",
+                "type": "lineHeights"
+              },
+              "name": "mch_screen_typography_heading_editorial_xl_h5_line_height",
+              "attributes": {
+                "category": "typography",
+                "type": "heading",
+                "item": "editorial",
+                "subitem": "xl",
+                "state": "h5"
+              },
+              "path": [
+                "typography",
+                "heading",
+                "editorial",
+                "xl",
+                "h5",
+                "lineHeight"
+              ]
+            }
+          }
+        }
+      }
+    },
+    "title": {
+      "standard": {
+        "xlarge": {
           "fontFamily": {
-            "value": "Art Basel Headline",
+            "value": "Art Basel Text Screen",
             "type": "fontFamilies",
-            "filePath": "src/global.json",
+            "filePath": "src/Web-Typography.json",
             "isSource": true,
             "original": {
-              "value": "{fontFamilies.art-basel-headline}",
+              "value": "{font-family.art-basel-text-screen}",
               "type": "fontFamilies"
             },
-            "name": "mch_typography_headings_xs_sm_h4_font_family",
+            "name": "mch_screen_typography_title_standard_xlarge_font_family",
             "attributes": {
-              "category": "Typography",
-              "type": "Headings",
-              "item": "XS-SM",
-              "subitem": "H4",
+              "category": "typography",
+              "type": "title",
+              "item": "standard",
+              "subitem": "xlarge",
               "state": "fontFamily"
             },
             "path": [
-              "Typography",
-              "Headings",
-              "XS-SM",
-              "H4",
+              "typography",
+              "title",
+              "standard",
+              "xlarge",
               "fontFamily"
             ]
           },
           "fontWeight": {
             "value": "700",
             "type": "fontWeights",
-            "filePath": "src/global.json",
+            "filePath": "src/Web-Typography.json",
             "isSource": true,
             "original": {
-              "value": "{fontWeights.art-basel-headline-0}",
+              "value": "{font-weight.bold}",
               "type": "fontWeights"
             },
-            "name": "mch_typography_headings_xs_sm_h4_font_weight",
+            "name": "mch_screen_typography_title_standard_xlarge_font_weight",
             "attributes": {
-              "category": "Typography",
-              "type": "Headings",
-              "item": "XS-SM",
-              "subitem": "H4",
+              "category": "typography",
+              "type": "title",
+              "item": "standard",
+              "subitem": "xlarge",
               "state": "fontWeight"
             },
             "path": [
-              "Typography",
-              "Headings",
-              "XS-SM",
-              "H4",
+              "typography",
+              "title",
+              "standard",
+              "xlarge",
               "fontWeight"
-            ]
-          },
-          "lineHeight": {
-            "value": "1.4375rem",
-            "type": "lineHeights",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{lineHeights.3}",
-              "type": "lineHeights"
-            },
-            "name": "mch_typography_headings_xs_sm_h4_line_height",
-            "attributes": {
-              "category": "Typography",
-              "type": "Headings",
-              "item": "XS-SM",
-              "subitem": "H4",
-              "state": "lineHeight"
-            },
-            "path": [
-              "Typography",
-              "Headings",
-              "XS-SM",
-              "H4",
-              "lineHeight"
             ]
           },
           "fontSize": {
             "value": "1.25rem",
             "type": "fontSizes",
-            "filePath": "src/global.json",
+            "filePath": "src/Web-Typography.json",
             "isSource": true,
             "original": {
-              "value": "{fontSize.4}",
+              "value": "{font-size.20}",
               "type": "fontSizes"
             },
-            "name": "mch_typography_headings_xs_sm_h4_font_size",
+            "name": "mch_screen_typography_title_standard_xlarge_font_size",
             "attributes": {
-              "category": "Typography",
-              "type": "Headings",
-              "item": "XS-SM",
-              "subitem": "H4",
+              "category": "typography",
+              "type": "title",
+              "item": "standard",
+              "subitem": "xlarge",
               "state": "fontSize"
             },
             "path": [
-              "Typography",
-              "Headings",
-              "XS-SM",
-              "H4",
+              "typography",
+              "title",
+              "standard",
+              "xlarge",
               "fontSize"
             ]
           },
-          "letterSpacing": {
-            "value": "0rem",
-            "type": "letterSpacing",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{letterSpacing.0}",
-              "type": "letterSpacing"
-            },
-            "name": "mch_typography_headings_xs_sm_h4_letter_spacing",
-            "attributes": {
-              "category": "Typography",
-              "type": "Headings",
-              "item": "XS-SM",
-              "subitem": "H4",
-              "state": "letterSpacing"
-            },
-            "path": [
-              "Typography",
-              "Headings",
-              "XS-SM",
-              "H4",
-              "letterSpacing"
-            ]
-          },
-          "paragraphSpacing": {
-            "value": "0",
-            "type": "paragraphSpacing",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{paragraphSpacing.0}",
-              "type": "paragraphSpacing"
-            },
-            "name": "mch_typography_headings_xs_sm_h4_paragraph_spacing",
-            "attributes": {
-              "category": "Typography",
-              "type": "Headings",
-              "item": "XS-SM",
-              "subitem": "H4",
-              "state": "paragraphSpacing"
-            },
-            "path": [
-              "Typography",
-              "Headings",
-              "XS-SM",
-              "H4",
-              "paragraphSpacing"
-            ]
-          },
-          "paragraphIndent": {
-            "value": 0,
-            "type": "paragraphIndent",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{paragraphIndent.0}",
-              "type": "paragraphIndent"
-            },
-            "name": "mch_typography_headings_xs_sm_h4_paragraph_indent",
-            "attributes": {
-              "category": "Typography",
-              "type": "Headings",
-              "item": "XS-SM",
-              "subitem": "H4",
-              "state": "paragraphIndent"
-            },
-            "path": [
-              "Typography",
-              "Headings",
-              "XS-SM",
-              "H4",
-              "paragraphIndent"
-            ]
-          },
-          "textCase": {
-            "value": "none",
-            "type": "textCase",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{textCase.none}",
-              "type": "textCase"
-            },
-            "name": "mch_typography_headings_xs_sm_h4_text_case",
-            "attributes": {
-              "category": "Typography",
-              "type": "Headings",
-              "item": "XS-SM",
-              "subitem": "H4",
-              "state": "textCase"
-            },
-            "path": [
-              "Typography",
-              "Headings",
-              "XS-SM",
-              "H4",
-              "textCase"
-            ]
-          },
-          "textDecoration": {
-            "value": "none",
-            "type": "textDecoration",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{textDecoration.none}",
-              "type": "textDecoration"
-            },
-            "name": "mch_typography_headings_xs_sm_h4_text_decoration",
-            "attributes": {
-              "category": "Typography",
-              "type": "Headings",
-              "item": "XS-SM",
-              "subitem": "H4",
-              "state": "textDecoration"
-            },
-            "path": [
-              "Typography",
-              "Headings",
-              "XS-SM",
-              "H4",
-              "textDecoration"
-            ]
-          }
-        },
-        "h5": {
-          "fontFamily": {
-            "value": "Art Basel Headline",
-            "type": "fontFamilies",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{fontFamilies.art-basel-headline}",
-              "type": "fontFamilies"
-            },
-            "name": "mch_typography_headings_xs_sm_h5_font_family",
-            "attributes": {
-              "category": "Typography",
-              "type": "Headings",
-              "item": "XS-SM",
-              "subitem": "H5",
-              "state": "fontFamily"
-            },
-            "path": [
-              "Typography",
-              "Headings",
-              "XS-SM",
-              "H5",
-              "fontFamily"
-            ]
-          },
-          "fontWeight": {
-            "value": "700",
-            "type": "fontWeights",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{fontWeights.art-basel-headline-0}",
-              "type": "fontWeights"
-            },
-            "name": "mch_typography_headings_xs_sm_h5_font_weight",
-            "attributes": {
-              "category": "Typography",
-              "type": "Headings",
-              "item": "XS-SM",
-              "subitem": "H5",
-              "state": "fontWeight"
-            },
-            "path": [
-              "Typography",
-              "Headings",
-              "XS-SM",
-              "H5",
-              "fontWeight"
-            ]
-          },
           "lineHeight": {
-            "value": "1.3125rem",
-            "type": "lineHeights",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{lineHeights.4}",
-              "type": "lineHeights"
-            },
-            "name": "mch_typography_headings_xs_sm_h5_line_height",
-            "attributes": {
-              "category": "Typography",
-              "type": "Headings",
-              "item": "XS-SM",
-              "subitem": "H5",
-              "state": "lineHeight"
-            },
-            "path": [
-              "Typography",
-              "Headings",
-              "XS-SM",
-              "H5",
-              "lineHeight"
-            ]
-          },
-          "fontSize": {
-            "value": "1.125rem",
-            "type": "fontSizes",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{fontSize.3}",
-              "type": "fontSizes"
-            },
-            "name": "mch_typography_headings_xs_sm_h5_font_size",
-            "attributes": {
-              "category": "Typography",
-              "type": "Headings",
-              "item": "XS-SM",
-              "subitem": "H5",
-              "state": "fontSize"
-            },
-            "path": [
-              "Typography",
-              "Headings",
-              "XS-SM",
-              "H5",
-              "fontSize"
-            ]
-          },
-          "letterSpacing": {
-            "value": "0rem",
-            "type": "letterSpacing",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{letterSpacing.0}",
-              "type": "letterSpacing"
-            },
-            "name": "mch_typography_headings_xs_sm_h5_letter_spacing",
-            "attributes": {
-              "category": "Typography",
-              "type": "Headings",
-              "item": "XS-SM",
-              "subitem": "H5",
-              "state": "letterSpacing"
-            },
-            "path": [
-              "Typography",
-              "Headings",
-              "XS-SM",
-              "H5",
-              "letterSpacing"
-            ]
-          },
-          "paragraphSpacing": {
-            "value": "0",
-            "type": "paragraphSpacing",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{paragraphSpacing.0}",
-              "type": "paragraphSpacing"
-            },
-            "name": "mch_typography_headings_xs_sm_h5_paragraph_spacing",
-            "attributes": {
-              "category": "Typography",
-              "type": "Headings",
-              "item": "XS-SM",
-              "subitem": "H5",
-              "state": "paragraphSpacing"
-            },
-            "path": [
-              "Typography",
-              "Headings",
-              "XS-SM",
-              "H5",
-              "paragraphSpacing"
-            ]
-          },
-          "paragraphIndent": {
-            "value": 0,
-            "type": "paragraphIndent",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{paragraphIndent.0}",
-              "type": "paragraphIndent"
-            },
-            "name": "mch_typography_headings_xs_sm_h5_paragraph_indent",
-            "attributes": {
-              "category": "Typography",
-              "type": "Headings",
-              "item": "XS-SM",
-              "subitem": "H5",
-              "state": "paragraphIndent"
-            },
-            "path": [
-              "Typography",
-              "Headings",
-              "XS-SM",
-              "H5",
-              "paragraphIndent"
-            ]
-          },
-          "textCase": {
-            "value": "none",
-            "type": "textCase",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{textCase.none}",
-              "type": "textCase"
-            },
-            "name": "mch_typography_headings_xs_sm_h5_text_case",
-            "attributes": {
-              "category": "Typography",
-              "type": "Headings",
-              "item": "XS-SM",
-              "subitem": "H5",
-              "state": "textCase"
-            },
-            "path": [
-              "Typography",
-              "Headings",
-              "XS-SM",
-              "H5",
-              "textCase"
-            ]
-          },
-          "textDecoration": {
-            "value": "none",
-            "type": "textDecoration",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{textDecoration.none}",
-              "type": "textDecoration"
-            },
-            "name": "mch_typography_headings_xs_sm_h5_text_decoration",
-            "attributes": {
-              "category": "Typography",
-              "type": "Headings",
-              "item": "XS-SM",
-              "subitem": "H5",
-              "state": "textDecoration"
-            },
-            "path": [
-              "Typography",
-              "Headings",
-              "XS-SM",
-              "H5",
-              "textDecoration"
-            ]
-          }
-        }
-      },
-      "xl": {
-        "display": {
-          "fontFamily": {
-            "value": "Art Basel Headline",
-            "type": "fontFamilies",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{fontFamilies.art-basel-headline}",
-              "type": "fontFamilies"
-            },
-            "name": "mch_typography_headings_xl_display_font_family",
-            "attributes": {
-              "category": "Typography",
-              "type": "Headings",
-              "item": "XL",
-              "subitem": "Display",
-              "state": "fontFamily"
-            },
-            "path": [
-              "Typography",
-              "Headings",
-              "XL",
-              "Display",
-              "fontFamily"
-            ]
-          },
-          "fontWeight": {
-            "value": "700",
-            "type": "fontWeights",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{fontWeights.art-basel-headline-0}",
-              "type": "fontWeights"
-            },
-            "name": "mch_typography_headings_xl_display_font_weight",
-            "attributes": {
-              "category": "Typography",
-              "type": "Headings",
-              "item": "XL",
-              "subitem": "Display",
-              "state": "fontWeight"
-            },
-            "path": [
-              "Typography",
-              "Headings",
-              "XL",
-              "Display",
-              "fontWeight"
-            ]
-          },
-          "lineHeight": {
-            "value": "4rem",
-            "type": "lineHeights",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{lineHeights.17}",
-              "type": "lineHeights"
-            },
-            "name": "mch_typography_headings_xl_display_line_height",
-            "attributes": {
-              "category": "Typography",
-              "type": "Headings",
-              "item": "XL",
-              "subitem": "Display",
-              "state": "lineHeight"
-            },
-            "path": [
-              "Typography",
-              "Headings",
-              "XL",
-              "Display",
-              "lineHeight"
-            ]
-          },
-          "fontSize": {
-            "value": "4rem",
-            "type": "fontSizes",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{fontSize.20}",
-              "type": "fontSizes"
-            },
-            "name": "mch_typography_headings_xl_display_font_size",
-            "attributes": {
-              "category": "Typography",
-              "type": "Headings",
-              "item": "XL",
-              "subitem": "Display",
-              "state": "fontSize"
-            },
-            "path": [
-              "Typography",
-              "Headings",
-              "XL",
-              "Display",
-              "fontSize"
-            ]
-          },
-          "letterSpacing": {
-            "value": "0rem",
-            "type": "letterSpacing",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{letterSpacing.0}",
-              "type": "letterSpacing"
-            },
-            "name": "mch_typography_headings_xl_display_letter_spacing",
-            "attributes": {
-              "category": "Typography",
-              "type": "Headings",
-              "item": "XL",
-              "subitem": "Display",
-              "state": "letterSpacing"
-            },
-            "path": [
-              "Typography",
-              "Headings",
-              "XL",
-              "Display",
-              "letterSpacing"
-            ]
-          },
-          "paragraphSpacing": {
-            "value": "0",
-            "type": "paragraphSpacing",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{paragraphSpacing.0}",
-              "type": "paragraphSpacing"
-            },
-            "name": "mch_typography_headings_xl_display_paragraph_spacing",
-            "attributes": {
-              "category": "Typography",
-              "type": "Headings",
-              "item": "XL",
-              "subitem": "Display",
-              "state": "paragraphSpacing"
-            },
-            "path": [
-              "Typography",
-              "Headings",
-              "XL",
-              "Display",
-              "paragraphSpacing"
-            ]
-          },
-          "paragraphIndent": {
-            "value": 0,
-            "type": "paragraphIndent",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{paragraphIndent.0}",
-              "type": "paragraphIndent"
-            },
-            "name": "mch_typography_headings_xl_display_paragraph_indent",
-            "attributes": {
-              "category": "Typography",
-              "type": "Headings",
-              "item": "XL",
-              "subitem": "Display",
-              "state": "paragraphIndent"
-            },
-            "path": [
-              "Typography",
-              "Headings",
-              "XL",
-              "Display",
-              "paragraphIndent"
-            ]
-          },
-          "textCase": {
-            "value": "none",
-            "type": "textCase",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{textCase.none}",
-              "type": "textCase"
-            },
-            "name": "mch_typography_headings_xl_display_text_case",
-            "attributes": {
-              "category": "Typography",
-              "type": "Headings",
-              "item": "XL",
-              "subitem": "Display",
-              "state": "textCase"
-            },
-            "path": [
-              "Typography",
-              "Headings",
-              "XL",
-              "Display",
-              "textCase"
-            ]
-          },
-          "textDecoration": {
-            "value": "none",
-            "type": "textDecoration",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{textDecoration.none}",
-              "type": "textDecoration"
-            },
-            "name": "mch_typography_headings_xl_display_text_decoration",
-            "attributes": {
-              "category": "Typography",
-              "type": "Headings",
-              "item": "XL",
-              "subitem": "Display",
-              "state": "textDecoration"
-            },
-            "path": [
-              "Typography",
-              "Headings",
-              "XL",
-              "Display",
-              "textDecoration"
-            ]
-          }
-        },
-        "h1": {
-          "fontFamily": {
-            "value": "Art Basel Headline",
-            "type": "fontFamilies",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{fontFamilies.art-basel-headline}",
-              "type": "fontFamilies"
-            },
-            "name": "mch_typography_headings_xl_h1_font_family",
-            "attributes": {
-              "category": "Typography",
-              "type": "Headings",
-              "item": "XL",
-              "subitem": "H1",
-              "state": "fontFamily"
-            },
-            "path": [
-              "Typography",
-              "Headings",
-              "XL",
-              "H1",
-              "fontFamily"
-            ]
-          },
-          "fontWeight": {
-            "value": "700",
-            "type": "fontWeights",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{fontWeights.art-basel-headline-0}",
-              "type": "fontWeights"
-            },
-            "name": "mch_typography_headings_xl_h1_font_weight",
-            "attributes": {
-              "category": "Typography",
-              "type": "Headings",
-              "item": "XL",
-              "subitem": "H1",
-              "state": "fontWeight"
-            },
-            "path": [
-              "Typography",
-              "Headings",
-              "XL",
-              "H1",
-              "fontWeight"
-            ]
-          },
-          "lineHeight": {
-            "value": "3rem",
-            "type": "lineHeights",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{lineHeights.5}",
-              "type": "lineHeights"
-            },
-            "name": "mch_typography_headings_xl_h1_line_height",
-            "attributes": {
-              "category": "Typography",
-              "type": "Headings",
-              "item": "XL",
-              "subitem": "H1",
-              "state": "lineHeight"
-            },
-            "path": [
-              "Typography",
-              "Headings",
-              "XL",
-              "H1",
-              "lineHeight"
-            ]
-          },
-          "fontSize": {
-            "value": "2.625rem",
-            "type": "fontSizes",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{fontSize.13}",
-              "type": "fontSizes"
-            },
-            "name": "mch_typography_headings_xl_h1_font_size",
-            "attributes": {
-              "category": "Typography",
-              "type": "Headings",
-              "item": "XL",
-              "subitem": "H1",
-              "state": "fontSize"
-            },
-            "path": [
-              "Typography",
-              "Headings",
-              "XL",
-              "H1",
-              "fontSize"
-            ]
-          },
-          "letterSpacing": {
-            "value": "0rem",
-            "type": "letterSpacing",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{letterSpacing.0}",
-              "type": "letterSpacing"
-            },
-            "name": "mch_typography_headings_xl_h1_letter_spacing",
-            "attributes": {
-              "category": "Typography",
-              "type": "Headings",
-              "item": "XL",
-              "subitem": "H1",
-              "state": "letterSpacing"
-            },
-            "path": [
-              "Typography",
-              "Headings",
-              "XL",
-              "H1",
-              "letterSpacing"
-            ]
-          },
-          "paragraphSpacing": {
-            "value": "0",
-            "type": "paragraphSpacing",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{paragraphSpacing.0}",
-              "type": "paragraphSpacing"
-            },
-            "name": "mch_typography_headings_xl_h1_paragraph_spacing",
-            "attributes": {
-              "category": "Typography",
-              "type": "Headings",
-              "item": "XL",
-              "subitem": "H1",
-              "state": "paragraphSpacing"
-            },
-            "path": [
-              "Typography",
-              "Headings",
-              "XL",
-              "H1",
-              "paragraphSpacing"
-            ]
-          },
-          "paragraphIndent": {
-            "value": 0,
-            "type": "paragraphIndent",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{paragraphIndent.0}",
-              "type": "paragraphIndent"
-            },
-            "name": "mch_typography_headings_xl_h1_paragraph_indent",
-            "attributes": {
-              "category": "Typography",
-              "type": "Headings",
-              "item": "XL",
-              "subitem": "H1",
-              "state": "paragraphIndent"
-            },
-            "path": [
-              "Typography",
-              "Headings",
-              "XL",
-              "H1",
-              "paragraphIndent"
-            ]
-          },
-          "textCase": {
-            "value": "none",
-            "type": "textCase",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{textCase.none}",
-              "type": "textCase"
-            },
-            "name": "mch_typography_headings_xl_h1_text_case",
-            "attributes": {
-              "category": "Typography",
-              "type": "Headings",
-              "item": "XL",
-              "subitem": "H1",
-              "state": "textCase"
-            },
-            "path": [
-              "Typography",
-              "Headings",
-              "XL",
-              "H1",
-              "textCase"
-            ]
-          },
-          "textDecoration": {
-            "value": "none",
-            "type": "textDecoration",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{textDecoration.none}",
-              "type": "textDecoration"
-            },
-            "name": "mch_typography_headings_xl_h1_text_decoration",
-            "attributes": {
-              "category": "Typography",
-              "type": "Headings",
-              "item": "XL",
-              "subitem": "H1",
-              "state": "textDecoration"
-            },
-            "path": [
-              "Typography",
-              "Headings",
-              "XL",
-              "H1",
-              "textDecoration"
-            ]
-          }
-        },
-        "h2": {
-          "fontFamily": {
-            "value": "Art Basel Headline",
-            "type": "fontFamilies",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{fontFamilies.art-basel-headline}",
-              "type": "fontFamilies"
-            },
-            "name": "mch_typography_headings_xl_h2_font_family",
-            "attributes": {
-              "category": "Typography",
-              "type": "Headings",
-              "item": "XL",
-              "subitem": "H2",
-              "state": "fontFamily"
-            },
-            "path": [
-              "Typography",
-              "Headings",
-              "XL",
-              "H2",
-              "fontFamily"
-            ]
-          },
-          "fontWeight": {
-            "value": "700",
-            "type": "fontWeights",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{fontWeights.art-basel-headline-0}",
-              "type": "fontWeights"
-            },
-            "name": "mch_typography_headings_xl_h2_font_weight",
-            "attributes": {
-              "category": "Typography",
-              "type": "Headings",
-              "item": "XL",
-              "subitem": "H2",
-              "state": "fontWeight"
-            },
-            "path": [
-              "Typography",
-              "Headings",
-              "XL",
-              "H2",
-              "fontWeight"
-            ]
-          },
-          "lineHeight": {
-            "value": "2.625rem",
-            "type": "lineHeights",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{lineHeights.6}",
-              "type": "lineHeights"
-            },
-            "name": "mch_typography_headings_xl_h2_line_height",
-            "attributes": {
-              "category": "Typography",
-              "type": "Headings",
-              "item": "XL",
-              "subitem": "H2",
-              "state": "lineHeight"
-            },
-            "path": [
-              "Typography",
-              "Headings",
-              "XL",
-              "H2",
-              "lineHeight"
-            ]
-          },
-          "fontSize": {
-            "value": "2.25rem",
-            "type": "fontSizes",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{fontSize.10}",
-              "type": "fontSizes"
-            },
-            "name": "mch_typography_headings_xl_h2_font_size",
-            "attributes": {
-              "category": "Typography",
-              "type": "Headings",
-              "item": "XL",
-              "subitem": "H2",
-              "state": "fontSize"
-            },
-            "path": [
-              "Typography",
-              "Headings",
-              "XL",
-              "H2",
-              "fontSize"
-            ]
-          },
-          "letterSpacing": {
-            "value": "0rem",
-            "type": "letterSpacing",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{letterSpacing.0}",
-              "type": "letterSpacing"
-            },
-            "name": "mch_typography_headings_xl_h2_letter_spacing",
-            "attributes": {
-              "category": "Typography",
-              "type": "Headings",
-              "item": "XL",
-              "subitem": "H2",
-              "state": "letterSpacing"
-            },
-            "path": [
-              "Typography",
-              "Headings",
-              "XL",
-              "H2",
-              "letterSpacing"
-            ]
-          },
-          "paragraphSpacing": {
-            "value": "0",
-            "type": "paragraphSpacing",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{paragraphSpacing.0}",
-              "type": "paragraphSpacing"
-            },
-            "name": "mch_typography_headings_xl_h2_paragraph_spacing",
-            "attributes": {
-              "category": "Typography",
-              "type": "Headings",
-              "item": "XL",
-              "subitem": "H2",
-              "state": "paragraphSpacing"
-            },
-            "path": [
-              "Typography",
-              "Headings",
-              "XL",
-              "H2",
-              "paragraphSpacing"
-            ]
-          },
-          "paragraphIndent": {
-            "value": 0,
-            "type": "paragraphIndent",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{paragraphIndent.0}",
-              "type": "paragraphIndent"
-            },
-            "name": "mch_typography_headings_xl_h2_paragraph_indent",
-            "attributes": {
-              "category": "Typography",
-              "type": "Headings",
-              "item": "XL",
-              "subitem": "H2",
-              "state": "paragraphIndent"
-            },
-            "path": [
-              "Typography",
-              "Headings",
-              "XL",
-              "H2",
-              "paragraphIndent"
-            ]
-          },
-          "textCase": {
-            "value": "none",
-            "type": "textCase",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{textCase.none}",
-              "type": "textCase"
-            },
-            "name": "mch_typography_headings_xl_h2_text_case",
-            "attributes": {
-              "category": "Typography",
-              "type": "Headings",
-              "item": "XL",
-              "subitem": "H2",
-              "state": "textCase"
-            },
-            "path": [
-              "Typography",
-              "Headings",
-              "XL",
-              "H2",
-              "textCase"
-            ]
-          },
-          "textDecoration": {
-            "value": "none",
-            "type": "textDecoration",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{textDecoration.none}",
-              "type": "textDecoration"
-            },
-            "name": "mch_typography_headings_xl_h2_text_decoration",
-            "attributes": {
-              "category": "Typography",
-              "type": "Headings",
-              "item": "XL",
-              "subitem": "H2",
-              "state": "textDecoration"
-            },
-            "path": [
-              "Typography",
-              "Headings",
-              "XL",
-              "H2",
-              "textDecoration"
-            ]
-          }
-        },
-        "h3": {
-          "fontFamily": {
-            "value": "Art Basel Headline",
-            "type": "fontFamilies",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{fontFamilies.art-basel-headline}",
-              "type": "fontFamilies"
-            },
-            "name": "mch_typography_headings_xl_h3_font_family",
-            "attributes": {
-              "category": "Typography",
-              "type": "Headings",
-              "item": "XL",
-              "subitem": "H3",
-              "state": "fontFamily"
-            },
-            "path": [
-              "Typography",
-              "Headings",
-              "XL",
-              "H3",
-              "fontFamily"
-            ]
-          },
-          "fontWeight": {
-            "value": "700",
-            "type": "fontWeights",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{fontWeights.art-basel-headline-0}",
-              "type": "fontWeights"
-            },
-            "name": "mch_typography_headings_xl_h3_font_weight",
-            "attributes": {
-              "category": "Typography",
-              "type": "Headings",
-              "item": "XL",
-              "subitem": "H3",
-              "state": "fontWeight"
-            },
-            "path": [
-              "Typography",
-              "Headings",
-              "XL",
-              "H3",
-              "fontWeight"
-            ]
-          },
-          "lineHeight": {
-            "value": "2.125rem",
-            "type": "lineHeights",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{lineHeights.7}",
-              "type": "lineHeights"
-            },
-            "name": "mch_typography_headings_xl_h3_line_height",
-            "attributes": {
-              "category": "Typography",
-              "type": "Headings",
-              "item": "XL",
-              "subitem": "H3",
-              "state": "lineHeight"
-            },
-            "path": [
-              "Typography",
-              "Headings",
-              "XL",
-              "H3",
-              "lineHeight"
-            ]
-          },
-          "fontSize": {
-            "value": "1.875rem",
-            "type": "fontSizes",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{fontSize.7}",
-              "type": "fontSizes"
-            },
-            "name": "mch_typography_headings_xl_h3_font_size",
-            "attributes": {
-              "category": "Typography",
-              "type": "Headings",
-              "item": "XL",
-              "subitem": "H3",
-              "state": "fontSize"
-            },
-            "path": [
-              "Typography",
-              "Headings",
-              "XL",
-              "H3",
-              "fontSize"
-            ]
-          },
-          "letterSpacing": {
-            "value": "0rem",
-            "type": "letterSpacing",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{letterSpacing.0}",
-              "type": "letterSpacing"
-            },
-            "name": "mch_typography_headings_xl_h3_letter_spacing",
-            "attributes": {
-              "category": "Typography",
-              "type": "Headings",
-              "item": "XL",
-              "subitem": "H3",
-              "state": "letterSpacing"
-            },
-            "path": [
-              "Typography",
-              "Headings",
-              "XL",
-              "H3",
-              "letterSpacing"
-            ]
-          },
-          "paragraphSpacing": {
-            "value": "0",
-            "type": "paragraphSpacing",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{paragraphSpacing.0}",
-              "type": "paragraphSpacing"
-            },
-            "name": "mch_typography_headings_xl_h3_paragraph_spacing",
-            "attributes": {
-              "category": "Typography",
-              "type": "Headings",
-              "item": "XL",
-              "subitem": "H3",
-              "state": "paragraphSpacing"
-            },
-            "path": [
-              "Typography",
-              "Headings",
-              "XL",
-              "H3",
-              "paragraphSpacing"
-            ]
-          },
-          "paragraphIndent": {
-            "value": 0,
-            "type": "paragraphIndent",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{paragraphIndent.0}",
-              "type": "paragraphIndent"
-            },
-            "name": "mch_typography_headings_xl_h3_paragraph_indent",
-            "attributes": {
-              "category": "Typography",
-              "type": "Headings",
-              "item": "XL",
-              "subitem": "H3",
-              "state": "paragraphIndent"
-            },
-            "path": [
-              "Typography",
-              "Headings",
-              "XL",
-              "H3",
-              "paragraphIndent"
-            ]
-          },
-          "textCase": {
-            "value": "none",
-            "type": "textCase",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{textCase.none}",
-              "type": "textCase"
-            },
-            "name": "mch_typography_headings_xl_h3_text_case",
-            "attributes": {
-              "category": "Typography",
-              "type": "Headings",
-              "item": "XL",
-              "subitem": "H3",
-              "state": "textCase"
-            },
-            "path": [
-              "Typography",
-              "Headings",
-              "XL",
-              "H3",
-              "textCase"
-            ]
-          },
-          "textDecoration": {
-            "value": "none",
-            "type": "textDecoration",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{textDecoration.none}",
-              "type": "textDecoration"
-            },
-            "name": "mch_typography_headings_xl_h3_text_decoration",
-            "attributes": {
-              "category": "Typography",
-              "type": "Headings",
-              "item": "XL",
-              "subitem": "H3",
-              "state": "textDecoration"
-            },
-            "path": [
-              "Typography",
-              "Headings",
-              "XL",
-              "H3",
-              "textDecoration"
-            ]
-          }
-        },
-        "h4": {
-          "fontFamily": {
-            "value": "Art Basel Headline",
-            "type": "fontFamilies",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{fontFamilies.art-basel-headline}",
-              "type": "fontFamilies"
-            },
-            "name": "mch_typography_headings_xl_h4_font_family",
-            "attributes": {
-              "category": "Typography",
-              "type": "Headings",
-              "item": "XL",
-              "subitem": "H4",
-              "state": "fontFamily"
-            },
-            "path": [
-              "Typography",
-              "Headings",
-              "XL",
-              "H4",
-              "fontFamily"
-            ]
-          },
-          "fontWeight": {
-            "value": "700",
-            "type": "fontWeights",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{fontWeights.art-basel-headline-0}",
-              "type": "fontWeights"
-            },
-            "name": "mch_typography_headings_xl_h4_font_weight",
-            "attributes": {
-              "category": "Typography",
-              "type": "Headings",
-              "item": "XL",
-              "subitem": "H4",
-              "state": "fontWeight"
-            },
-            "path": [
-              "Typography",
-              "Headings",
-              "XL",
-              "H4",
-              "fontWeight"
-            ]
-          },
-          "lineHeight": {
-            "value": "1.75rem",
-            "type": "lineHeights",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{lineHeights.2}",
-              "type": "lineHeights"
-            },
-            "name": "mch_typography_headings_xl_h4_line_height",
-            "attributes": {
-              "category": "Typography",
-              "type": "Headings",
-              "item": "XL",
-              "subitem": "H4",
-              "state": "lineHeight"
-            },
-            "path": [
-              "Typography",
-              "Headings",
-              "XL",
-              "H4",
-              "lineHeight"
-            ]
-          },
-          "fontSize": {
-            "value": "1.5rem",
-            "type": "fontSizes",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{fontSize.5}",
-              "type": "fontSizes"
-            },
-            "name": "mch_typography_headings_xl_h4_font_size",
-            "attributes": {
-              "category": "Typography",
-              "type": "Headings",
-              "item": "XL",
-              "subitem": "H4",
-              "state": "fontSize"
-            },
-            "path": [
-              "Typography",
-              "Headings",
-              "XL",
-              "H4",
-              "fontSize"
-            ]
-          },
-          "letterSpacing": {
-            "value": "0rem",
-            "type": "letterSpacing",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{letterSpacing.0}",
-              "type": "letterSpacing"
-            },
-            "name": "mch_typography_headings_xl_h4_letter_spacing",
-            "attributes": {
-              "category": "Typography",
-              "type": "Headings",
-              "item": "XL",
-              "subitem": "H4",
-              "state": "letterSpacing"
-            },
-            "path": [
-              "Typography",
-              "Headings",
-              "XL",
-              "H4",
-              "letterSpacing"
-            ]
-          },
-          "paragraphSpacing": {
-            "value": "0",
-            "type": "paragraphSpacing",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{paragraphSpacing.0}",
-              "type": "paragraphSpacing"
-            },
-            "name": "mch_typography_headings_xl_h4_paragraph_spacing",
-            "attributes": {
-              "category": "Typography",
-              "type": "Headings",
-              "item": "XL",
-              "subitem": "H4",
-              "state": "paragraphSpacing"
-            },
-            "path": [
-              "Typography",
-              "Headings",
-              "XL",
-              "H4",
-              "paragraphSpacing"
-            ]
-          },
-          "paragraphIndent": {
-            "value": 0,
-            "type": "paragraphIndent",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{paragraphIndent.0}",
-              "type": "paragraphIndent"
-            },
-            "name": "mch_typography_headings_xl_h4_paragraph_indent",
-            "attributes": {
-              "category": "Typography",
-              "type": "Headings",
-              "item": "XL",
-              "subitem": "H4",
-              "state": "paragraphIndent"
-            },
-            "path": [
-              "Typography",
-              "Headings",
-              "XL",
-              "H4",
-              "paragraphIndent"
-            ]
-          },
-          "textCase": {
-            "value": "none",
-            "type": "textCase",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{textCase.none}",
-              "type": "textCase"
-            },
-            "name": "mch_typography_headings_xl_h4_text_case",
-            "attributes": {
-              "category": "Typography",
-              "type": "Headings",
-              "item": "XL",
-              "subitem": "H4",
-              "state": "textCase"
-            },
-            "path": [
-              "Typography",
-              "Headings",
-              "XL",
-              "H4",
-              "textCase"
-            ]
-          },
-          "textDecoration": {
-            "value": "none",
-            "type": "textDecoration",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{textDecoration.none}",
-              "type": "textDecoration"
-            },
-            "name": "mch_typography_headings_xl_h4_text_decoration",
-            "attributes": {
-              "category": "Typography",
-              "type": "Headings",
-              "item": "XL",
-              "subitem": "H4",
-              "state": "textDecoration"
-            },
-            "path": [
-              "Typography",
-              "Headings",
-              "XL",
-              "H4",
-              "textDecoration"
-            ]
-          }
-        },
-        "h5": {
-          "fontFamily": {
-            "value": "Art Basel Headline",
-            "type": "fontFamilies",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{fontFamilies.art-basel-headline}",
-              "type": "fontFamilies"
-            },
-            "name": "mch_typography_headings_xl_h5_font_family",
-            "attributes": {
-              "category": "Typography",
-              "type": "Headings",
-              "item": "XL",
-              "subitem": "H5",
-              "state": "fontFamily"
-            },
-            "path": [
-              "Typography",
-              "Headings",
-              "XL",
-              "H5",
-              "fontFamily"
-            ]
-          },
-          "fontWeight": {
-            "value": "700",
-            "type": "fontWeights",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{fontWeights.art-basel-headline-0}",
-              "type": "fontWeights"
-            },
-            "name": "mch_typography_headings_xl_h5_font_weight",
-            "attributes": {
-              "category": "Typography",
-              "type": "Headings",
-              "item": "XL",
-              "subitem": "H5",
-              "state": "fontWeight"
-            },
-            "path": [
-              "Typography",
-              "Headings",
-              "XL",
-              "H5",
-              "fontWeight"
-            ]
-          },
-          "lineHeight": {
-            "value": "1.3125rem",
-            "type": "lineHeights",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{lineHeights.4}",
-              "type": "lineHeights"
-            },
-            "name": "mch_typography_headings_xl_h5_line_height",
-            "attributes": {
-              "category": "Typography",
-              "type": "Headings",
-              "item": "XL",
-              "subitem": "H5",
-              "state": "lineHeight"
-            },
-            "path": [
-              "Typography",
-              "Headings",
-              "XL",
-              "H5",
-              "lineHeight"
-            ]
-          },
-          "fontSize": {
-            "value": "1.125rem",
-            "type": "fontSizes",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{fontSize.3}",
-              "type": "fontSizes"
-            },
-            "name": "mch_typography_headings_xl_h5_font_size",
-            "attributes": {
-              "category": "Typography",
-              "type": "Headings",
-              "item": "XL",
-              "subitem": "H5",
-              "state": "fontSize"
-            },
-            "path": [
-              "Typography",
-              "Headings",
-              "XL",
-              "H5",
-              "fontSize"
-            ]
-          },
-          "letterSpacing": {
-            "value": "0rem",
-            "type": "letterSpacing",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{letterSpacing.0}",
-              "type": "letterSpacing"
-            },
-            "name": "mch_typography_headings_xl_h5_letter_spacing",
-            "attributes": {
-              "category": "Typography",
-              "type": "Headings",
-              "item": "XL",
-              "subitem": "H5",
-              "state": "letterSpacing"
-            },
-            "path": [
-              "Typography",
-              "Headings",
-              "XL",
-              "H5",
-              "letterSpacing"
-            ]
-          },
-          "paragraphSpacing": {
-            "value": "0",
-            "type": "paragraphSpacing",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{paragraphSpacing.0}",
-              "type": "paragraphSpacing"
-            },
-            "name": "mch_typography_headings_xl_h5_paragraph_spacing",
-            "attributes": {
-              "category": "Typography",
-              "type": "Headings",
-              "item": "XL",
-              "subitem": "H5",
-              "state": "paragraphSpacing"
-            },
-            "path": [
-              "Typography",
-              "Headings",
-              "XL",
-              "H5",
-              "paragraphSpacing"
-            ]
-          },
-          "paragraphIndent": {
-            "value": 0,
-            "type": "paragraphIndent",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{paragraphIndent.0}",
-              "type": "paragraphIndent"
-            },
-            "name": "mch_typography_headings_xl_h5_paragraph_indent",
-            "attributes": {
-              "category": "Typography",
-              "type": "Headings",
-              "item": "XL",
-              "subitem": "H5",
-              "state": "paragraphIndent"
-            },
-            "path": [
-              "Typography",
-              "Headings",
-              "XL",
-              "H5",
-              "paragraphIndent"
-            ]
-          },
-          "textCase": {
-            "value": "none",
-            "type": "textCase",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{textCase.none}",
-              "type": "textCase"
-            },
-            "name": "mch_typography_headings_xl_h5_text_case",
-            "attributes": {
-              "category": "Typography",
-              "type": "Headings",
-              "item": "XL",
-              "subitem": "H5",
-              "state": "textCase"
-            },
-            "path": [
-              "Typography",
-              "Headings",
-              "XL",
-              "H5",
-              "textCase"
-            ]
-          },
-          "textDecoration": {
-            "value": "none",
-            "type": "textDecoration",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{textDecoration.none}",
-              "type": "textDecoration"
-            },
-            "name": "mch_typography_headings_xl_h5_text_decoration",
-            "attributes": {
-              "category": "Typography",
-              "type": "Headings",
-              "item": "XL",
-              "subitem": "H5",
-              "state": "textDecoration"
-            },
-            "path": [
-              "Typography",
-              "Headings",
-              "XL",
-              "H5",
-              "textDecoration"
-            ]
-          }
-        }
-      },
-      "md": {
-        "display": {
-          "fontFamily": {
-            "value": "Art Basel Headline",
-            "type": "fontFamilies",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{fontFamilies.art-basel-headline}",
-              "type": "fontFamilies"
-            },
-            "name": "mch_typography_headings_md_display_font_family",
-            "attributes": {
-              "category": "Typography",
-              "type": "Headings",
-              "item": "MD",
-              "subitem": "Display",
-              "state": "fontFamily"
-            },
-            "path": [
-              "Typography",
-              "Headings",
-              "MD",
-              "Display",
-              "fontFamily"
-            ]
-          },
-          "fontWeight": {
-            "value": "700",
-            "type": "fontWeights",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{fontWeights.art-basel-headline-0}",
-              "type": "fontWeights"
-            },
-            "name": "mch_typography_headings_md_display_font_weight",
-            "attributes": {
-              "category": "Typography",
-              "type": "Headings",
-              "item": "MD",
-              "subitem": "Display",
-              "state": "fontWeight"
-            },
-            "path": [
-              "Typography",
-              "Headings",
-              "MD",
-              "Display",
-              "fontWeight"
-            ]
-          },
-          "lineHeight": {
-            "value": "3rem",
-            "type": "lineHeights",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{lineHeights.5}",
-              "type": "lineHeights"
-            },
-            "name": "mch_typography_headings_md_display_line_height",
-            "attributes": {
-              "category": "Typography",
-              "type": "Headings",
-              "item": "MD",
-              "subitem": "Display",
-              "state": "lineHeight"
-            },
-            "path": [
-              "Typography",
-              "Headings",
-              "MD",
-              "Display",
-              "lineHeight"
-            ]
-          },
-          "fontSize": {
-            "value": "3rem",
-            "type": "fontSizes",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{fontSize.14}",
-              "type": "fontSizes"
-            },
-            "name": "mch_typography_headings_md_display_font_size",
-            "attributes": {
-              "category": "Typography",
-              "type": "Headings",
-              "item": "MD",
-              "subitem": "Display",
-              "state": "fontSize"
-            },
-            "path": [
-              "Typography",
-              "Headings",
-              "MD",
-              "Display",
-              "fontSize"
-            ]
-          },
-          "letterSpacing": {
-            "value": "0rem",
-            "type": "letterSpacing",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{letterSpacing.0}",
-              "type": "letterSpacing"
-            },
-            "name": "mch_typography_headings_md_display_letter_spacing",
-            "attributes": {
-              "category": "Typography",
-              "type": "Headings",
-              "item": "MD",
-              "subitem": "Display",
-              "state": "letterSpacing"
-            },
-            "path": [
-              "Typography",
-              "Headings",
-              "MD",
-              "Display",
-              "letterSpacing"
-            ]
-          },
-          "paragraphSpacing": {
-            "value": "4",
-            "type": "paragraphSpacing",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{paragraphSpacing.1}",
-              "type": "paragraphSpacing"
-            },
-            "name": "mch_typography_headings_md_display_paragraph_spacing",
-            "attributes": {
-              "category": "Typography",
-              "type": "Headings",
-              "item": "MD",
-              "subitem": "Display",
-              "state": "paragraphSpacing"
-            },
-            "path": [
-              "Typography",
-              "Headings",
-              "MD",
-              "Display",
-              "paragraphSpacing"
-            ]
-          },
-          "paragraphIndent": {
-            "value": 0,
-            "type": "paragraphIndent",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{paragraphIndent.0}",
-              "type": "paragraphIndent"
-            },
-            "name": "mch_typography_headings_md_display_paragraph_indent",
-            "attributes": {
-              "category": "Typography",
-              "type": "Headings",
-              "item": "MD",
-              "subitem": "Display",
-              "state": "paragraphIndent"
-            },
-            "path": [
-              "Typography",
-              "Headings",
-              "MD",
-              "Display",
-              "paragraphIndent"
-            ]
-          },
-          "textCase": {
-            "value": "none",
-            "type": "textCase",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{textCase.none}",
-              "type": "textCase"
-            },
-            "name": "mch_typography_headings_md_display_text_case",
-            "attributes": {
-              "category": "Typography",
-              "type": "Headings",
-              "item": "MD",
-              "subitem": "Display",
-              "state": "textCase"
-            },
-            "path": [
-              "Typography",
-              "Headings",
-              "MD",
-              "Display",
-              "textCase"
-            ]
-          },
-          "textDecoration": {
-            "value": "none",
-            "type": "textDecoration",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{textDecoration.none}",
-              "type": "textDecoration"
-            },
-            "name": "mch_typography_headings_md_display_text_decoration",
-            "attributes": {
-              "category": "Typography",
-              "type": "Headings",
-              "item": "MD",
-              "subitem": "Display",
-              "state": "textDecoration"
-            },
-            "path": [
-              "Typography",
-              "Headings",
-              "MD",
-              "Display",
-              "textDecoration"
-            ]
-          }
-        },
-        "h1": {
-          "fontFamily": {
-            "value": "Art Basel Headline",
-            "type": "fontFamilies",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{fontFamilies.art-basel-headline}",
-              "type": "fontFamilies"
-            },
-            "name": "mch_typography_headings_md_h1_font_family",
-            "attributes": {
-              "category": "Typography",
-              "type": "Headings",
-              "item": "MD",
-              "subitem": "H1",
-              "state": "fontFamily"
-            },
-            "path": [
-              "Typography",
-              "Headings",
-              "MD",
-              "H1",
-              "fontFamily"
-            ]
-          },
-          "fontWeight": {
-            "value": "700",
-            "type": "fontWeights",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{fontWeights.art-basel-headline-0}",
-              "type": "fontWeights"
-            },
-            "name": "mch_typography_headings_md_h1_font_weight",
-            "attributes": {
-              "category": "Typography",
-              "type": "Headings",
-              "item": "MD",
-              "subitem": "H1",
-              "state": "fontWeight"
-            },
-            "path": [
-              "Typography",
-              "Headings",
-              "MD",
-              "H1",
-              "fontWeight"
-            ]
-          },
-          "lineHeight": {
-            "value": "2.5625rem",
-            "type": "lineHeights",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{lineHeights.8}",
-              "type": "lineHeights"
-            },
-            "name": "mch_typography_headings_md_h1_line_height",
-            "attributes": {
-              "category": "Typography",
-              "type": "Headings",
-              "item": "MD",
-              "subitem": "H1",
-              "state": "lineHeight"
-            },
-            "path": [
-              "Typography",
-              "Headings",
-              "MD",
-              "H1",
-              "lineHeight"
-            ]
-          },
-          "fontSize": {
-            "value": "2.25rem",
-            "type": "fontSizes",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{fontSize.10}",
-              "type": "fontSizes"
-            },
-            "name": "mch_typography_headings_md_h1_font_size",
-            "attributes": {
-              "category": "Typography",
-              "type": "Headings",
-              "item": "MD",
-              "subitem": "H1",
-              "state": "fontSize"
-            },
-            "path": [
-              "Typography",
-              "Headings",
-              "MD",
-              "H1",
-              "fontSize"
-            ]
-          },
-          "letterSpacing": {
-            "value": "0rem",
-            "type": "letterSpacing",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{letterSpacing.0}",
-              "type": "letterSpacing"
-            },
-            "name": "mch_typography_headings_md_h1_letter_spacing",
-            "attributes": {
-              "category": "Typography",
-              "type": "Headings",
-              "item": "MD",
-              "subitem": "H1",
-              "state": "letterSpacing"
-            },
-            "path": [
-              "Typography",
-              "Headings",
-              "MD",
-              "H1",
-              "letterSpacing"
-            ]
-          },
-          "paragraphSpacing": {
-            "value": "4",
-            "type": "paragraphSpacing",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{paragraphSpacing.1}",
-              "type": "paragraphSpacing"
-            },
-            "name": "mch_typography_headings_md_h1_paragraph_spacing",
-            "attributes": {
-              "category": "Typography",
-              "type": "Headings",
-              "item": "MD",
-              "subitem": "H1",
-              "state": "paragraphSpacing"
-            },
-            "path": [
-              "Typography",
-              "Headings",
-              "MD",
-              "H1",
-              "paragraphSpacing"
-            ]
-          },
-          "paragraphIndent": {
-            "value": 0,
-            "type": "paragraphIndent",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{paragraphIndent.0}",
-              "type": "paragraphIndent"
-            },
-            "name": "mch_typography_headings_md_h1_paragraph_indent",
-            "attributes": {
-              "category": "Typography",
-              "type": "Headings",
-              "item": "MD",
-              "subitem": "H1",
-              "state": "paragraphIndent"
-            },
-            "path": [
-              "Typography",
-              "Headings",
-              "MD",
-              "H1",
-              "paragraphIndent"
-            ]
-          },
-          "textCase": {
-            "value": "none",
-            "type": "textCase",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{textCase.none}",
-              "type": "textCase"
-            },
-            "name": "mch_typography_headings_md_h1_text_case",
-            "attributes": {
-              "category": "Typography",
-              "type": "Headings",
-              "item": "MD",
-              "subitem": "H1",
-              "state": "textCase"
-            },
-            "path": [
-              "Typography",
-              "Headings",
-              "MD",
-              "H1",
-              "textCase"
-            ]
-          },
-          "textDecoration": {
-            "value": "none",
-            "type": "textDecoration",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{textDecoration.none}",
-              "type": "textDecoration"
-            },
-            "name": "mch_typography_headings_md_h1_text_decoration",
-            "attributes": {
-              "category": "Typography",
-              "type": "Headings",
-              "item": "MD",
-              "subitem": "H1",
-              "state": "textDecoration"
-            },
-            "path": [
-              "Typography",
-              "Headings",
-              "MD",
-              "H1",
-              "textDecoration"
-            ]
-          }
-        },
-        "h2": {
-          "fontFamily": {
-            "value": "Art Basel Headline",
-            "type": "fontFamilies",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{fontFamilies.art-basel-headline}",
-              "type": "fontFamilies"
-            },
-            "name": "mch_typography_headings_md_h2_font_family",
-            "attributes": {
-              "category": "Typography",
-              "type": "Headings",
-              "item": "MD",
-              "subitem": "H2",
-              "state": "fontFamily"
-            },
-            "path": [
-              "Typography",
-              "Headings",
-              "MD",
-              "H2",
-              "fontFamily"
-            ]
-          },
-          "fontWeight": {
-            "value": "700",
-            "type": "fontWeights",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{fontWeights.art-basel-headline-0}",
-              "type": "fontWeights"
-            },
-            "name": "mch_typography_headings_md_h2_font_weight",
-            "attributes": {
-              "category": "Typography",
-              "type": "Headings",
-              "item": "MD",
-              "subitem": "H2",
-              "state": "fontWeight"
-            },
-            "path": [
-              "Typography",
-              "Headings",
-              "MD",
-              "H2",
-              "fontWeight"
-            ]
-          },
-          "lineHeight": {
-            "value": "2.1875rem",
-            "type": "lineHeights",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{lineHeights.0}",
-              "type": "lineHeights"
-            },
-            "name": "mch_typography_headings_md_h2_line_height",
-            "attributes": {
-              "category": "Typography",
-              "type": "Headings",
-              "item": "MD",
-              "subitem": "H2",
-              "state": "lineHeight"
-            },
-            "path": [
-              "Typography",
-              "Headings",
-              "MD",
-              "H2",
-              "lineHeight"
-            ]
-          },
-          "fontSize": {
-            "value": "1.875rem",
-            "type": "fontSizes",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{fontSize.7}",
-              "type": "fontSizes"
-            },
-            "name": "mch_typography_headings_md_h2_font_size",
-            "attributes": {
-              "category": "Typography",
-              "type": "Headings",
-              "item": "MD",
-              "subitem": "H2",
-              "state": "fontSize"
-            },
-            "path": [
-              "Typography",
-              "Headings",
-              "MD",
-              "H2",
-              "fontSize"
-            ]
-          },
-          "letterSpacing": {
-            "value": "0rem",
-            "type": "letterSpacing",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{letterSpacing.0}",
-              "type": "letterSpacing"
-            },
-            "name": "mch_typography_headings_md_h2_letter_spacing",
-            "attributes": {
-              "category": "Typography",
-              "type": "Headings",
-              "item": "MD",
-              "subitem": "H2",
-              "state": "letterSpacing"
-            },
-            "path": [
-              "Typography",
-              "Headings",
-              "MD",
-              "H2",
-              "letterSpacing"
-            ]
-          },
-          "paragraphSpacing": {
-            "value": "4",
-            "type": "paragraphSpacing",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{paragraphSpacing.1}",
-              "type": "paragraphSpacing"
-            },
-            "name": "mch_typography_headings_md_h2_paragraph_spacing",
-            "attributes": {
-              "category": "Typography",
-              "type": "Headings",
-              "item": "MD",
-              "subitem": "H2",
-              "state": "paragraphSpacing"
-            },
-            "path": [
-              "Typography",
-              "Headings",
-              "MD",
-              "H2",
-              "paragraphSpacing"
-            ]
-          },
-          "paragraphIndent": {
-            "value": 0,
-            "type": "paragraphIndent",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{paragraphIndent.0}",
-              "type": "paragraphIndent"
-            },
-            "name": "mch_typography_headings_md_h2_paragraph_indent",
-            "attributes": {
-              "category": "Typography",
-              "type": "Headings",
-              "item": "MD",
-              "subitem": "H2",
-              "state": "paragraphIndent"
-            },
-            "path": [
-              "Typography",
-              "Headings",
-              "MD",
-              "H2",
-              "paragraphIndent"
-            ]
-          },
-          "textCase": {
-            "value": "none",
-            "type": "textCase",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{textCase.none}",
-              "type": "textCase"
-            },
-            "name": "mch_typography_headings_md_h2_text_case",
-            "attributes": {
-              "category": "Typography",
-              "type": "Headings",
-              "item": "MD",
-              "subitem": "H2",
-              "state": "textCase"
-            },
-            "path": [
-              "Typography",
-              "Headings",
-              "MD",
-              "H2",
-              "textCase"
-            ]
-          },
-          "textDecoration": {
-            "value": "none",
-            "type": "textDecoration",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{textDecoration.none}",
-              "type": "textDecoration"
-            },
-            "name": "mch_typography_headings_md_h2_text_decoration",
-            "attributes": {
-              "category": "Typography",
-              "type": "Headings",
-              "item": "MD",
-              "subitem": "H2",
-              "state": "textDecoration"
-            },
-            "path": [
-              "Typography",
-              "Headings",
-              "MD",
-              "H2",
-              "textDecoration"
-            ]
-          }
-        },
-        "h3": {
-          "fontFamily": {
-            "value": "Art Basel Headline",
-            "type": "fontFamilies",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{fontFamilies.art-basel-headline}",
-              "type": "fontFamilies"
-            },
-            "name": "mch_typography_headings_md_h3_font_family",
-            "attributes": {
-              "category": "Typography",
-              "type": "Headings",
-              "item": "MD",
-              "subitem": "H3",
-              "state": "fontFamily"
-            },
-            "path": [
-              "Typography",
-              "Headings",
-              "MD",
-              "H3",
-              "fontFamily"
-            ]
-          },
-          "fontWeight": {
-            "value": "700",
-            "type": "fontWeights",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{fontWeights.art-basel-headline-0}",
-              "type": "fontWeights"
-            },
-            "name": "mch_typography_headings_md_h3_font_weight",
-            "attributes": {
-              "category": "Typography",
-              "type": "Headings",
-              "item": "MD",
-              "subitem": "H3",
-              "state": "fontWeight"
-            },
-            "path": [
-              "Typography",
-              "Headings",
-              "MD",
-              "H3",
-              "fontWeight"
-            ]
-          },
-          "lineHeight": {
-            "value": "1.875rem",
-            "type": "lineHeights",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{lineHeights.1}",
-              "type": "lineHeights"
-            },
-            "name": "mch_typography_headings_md_h3_line_height",
-            "attributes": {
-              "category": "Typography",
-              "type": "Headings",
-              "item": "MD",
-              "subitem": "H3",
-              "state": "lineHeight"
-            },
-            "path": [
-              "Typography",
-              "Headings",
-              "MD",
-              "H3",
-              "lineHeight"
-            ]
-          },
-          "fontSize": {
-            "value": "1.625rem",
-            "type": "fontSizes",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{fontSize.6}",
-              "type": "fontSizes"
-            },
-            "name": "mch_typography_headings_md_h3_font_size",
-            "attributes": {
-              "category": "Typography",
-              "type": "Headings",
-              "item": "MD",
-              "subitem": "H3",
-              "state": "fontSize"
-            },
-            "path": [
-              "Typography",
-              "Headings",
-              "MD",
-              "H3",
-              "fontSize"
-            ]
-          },
-          "letterSpacing": {
-            "value": "0rem",
-            "type": "letterSpacing",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{letterSpacing.0}",
-              "type": "letterSpacing"
-            },
-            "name": "mch_typography_headings_md_h3_letter_spacing",
-            "attributes": {
-              "category": "Typography",
-              "type": "Headings",
-              "item": "MD",
-              "subitem": "H3",
-              "state": "letterSpacing"
-            },
-            "path": [
-              "Typography",
-              "Headings",
-              "MD",
-              "H3",
-              "letterSpacing"
-            ]
-          },
-          "paragraphSpacing": {
-            "value": "4",
-            "type": "paragraphSpacing",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{paragraphSpacing.1}",
-              "type": "paragraphSpacing"
-            },
-            "name": "mch_typography_headings_md_h3_paragraph_spacing",
-            "attributes": {
-              "category": "Typography",
-              "type": "Headings",
-              "item": "MD",
-              "subitem": "H3",
-              "state": "paragraphSpacing"
-            },
-            "path": [
-              "Typography",
-              "Headings",
-              "MD",
-              "H3",
-              "paragraphSpacing"
-            ]
-          },
-          "paragraphIndent": {
-            "value": 0,
-            "type": "paragraphIndent",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{paragraphIndent.0}",
-              "type": "paragraphIndent"
-            },
-            "name": "mch_typography_headings_md_h3_paragraph_indent",
-            "attributes": {
-              "category": "Typography",
-              "type": "Headings",
-              "item": "MD",
-              "subitem": "H3",
-              "state": "paragraphIndent"
-            },
-            "path": [
-              "Typography",
-              "Headings",
-              "MD",
-              "H3",
-              "paragraphIndent"
-            ]
-          },
-          "textCase": {
-            "value": "none",
-            "type": "textCase",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{textCase.none}",
-              "type": "textCase"
-            },
-            "name": "mch_typography_headings_md_h3_text_case",
-            "attributes": {
-              "category": "Typography",
-              "type": "Headings",
-              "item": "MD",
-              "subitem": "H3",
-              "state": "textCase"
-            },
-            "path": [
-              "Typography",
-              "Headings",
-              "MD",
-              "H3",
-              "textCase"
-            ]
-          },
-          "textDecoration": {
-            "value": "none",
-            "type": "textDecoration",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{textDecoration.none}",
-              "type": "textDecoration"
-            },
-            "name": "mch_typography_headings_md_h3_text_decoration",
-            "attributes": {
-              "category": "Typography",
-              "type": "Headings",
-              "item": "MD",
-              "subitem": "H3",
-              "state": "textDecoration"
-            },
-            "path": [
-              "Typography",
-              "Headings",
-              "MD",
-              "H3",
-              "textDecoration"
-            ]
-          }
-        },
-        "h4": {
-          "fontFamily": {
-            "value": "Art Basel Headline",
-            "type": "fontFamilies",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{fontFamilies.art-basel-headline}",
-              "type": "fontFamilies"
-            },
-            "name": "mch_typography_headings_md_h4_font_family",
-            "attributes": {
-              "category": "Typography",
-              "type": "Headings",
-              "item": "MD",
-              "subitem": "H4",
-              "state": "fontFamily"
-            },
-            "path": [
-              "Typography",
-              "Headings",
-              "MD",
-              "H4",
-              "fontFamily"
-            ]
-          },
-          "fontWeight": {
-            "value": "700",
-            "type": "fontWeights",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{fontWeights.art-basel-headline-0}",
-              "type": "fontWeights"
-            },
-            "name": "mch_typography_headings_md_h4_font_weight",
-            "attributes": {
-              "category": "Typography",
-              "type": "Headings",
-              "item": "MD",
-              "subitem": "H4",
-              "state": "fontWeight"
-            },
-            "path": [
-              "Typography",
-              "Headings",
-              "MD",
-              "H4",
-              "fontWeight"
-            ]
-          },
-          "lineHeight": {
-            "value": "1.75rem",
-            "type": "lineHeights",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{lineHeights.2}",
-              "type": "lineHeights"
-            },
-            "name": "mch_typography_headings_md_h4_line_height",
-            "attributes": {
-              "category": "Typography",
-              "type": "Headings",
-              "item": "MD",
-              "subitem": "H4",
-              "state": "lineHeight"
-            },
-            "path": [
-              "Typography",
-              "Headings",
-              "MD",
-              "H4",
-              "lineHeight"
-            ]
-          },
-          "fontSize": {
-            "value": "1.5rem",
-            "type": "fontSizes",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{fontSize.5}",
-              "type": "fontSizes"
-            },
-            "name": "mch_typography_headings_md_h4_font_size",
-            "attributes": {
-              "category": "Typography",
-              "type": "Headings",
-              "item": "MD",
-              "subitem": "H4",
-              "state": "fontSize"
-            },
-            "path": [
-              "Typography",
-              "Headings",
-              "MD",
-              "H4",
-              "fontSize"
-            ]
-          },
-          "letterSpacing": {
-            "value": "0rem",
-            "type": "letterSpacing",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{letterSpacing.0}",
-              "type": "letterSpacing"
-            },
-            "name": "mch_typography_headings_md_h4_letter_spacing",
-            "attributes": {
-              "category": "Typography",
-              "type": "Headings",
-              "item": "MD",
-              "subitem": "H4",
-              "state": "letterSpacing"
-            },
-            "path": [
-              "Typography",
-              "Headings",
-              "MD",
-              "H4",
-              "letterSpacing"
-            ]
-          },
-          "paragraphSpacing": {
-            "value": "4",
-            "type": "paragraphSpacing",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{paragraphSpacing.1}",
-              "type": "paragraphSpacing"
-            },
-            "name": "mch_typography_headings_md_h4_paragraph_spacing",
-            "attributes": {
-              "category": "Typography",
-              "type": "Headings",
-              "item": "MD",
-              "subitem": "H4",
-              "state": "paragraphSpacing"
-            },
-            "path": [
-              "Typography",
-              "Headings",
-              "MD",
-              "H4",
-              "paragraphSpacing"
-            ]
-          },
-          "paragraphIndent": {
-            "value": 0,
-            "type": "paragraphIndent",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{paragraphIndent.0}",
-              "type": "paragraphIndent"
-            },
-            "name": "mch_typography_headings_md_h4_paragraph_indent",
-            "attributes": {
-              "category": "Typography",
-              "type": "Headings",
-              "item": "MD",
-              "subitem": "H4",
-              "state": "paragraphIndent"
-            },
-            "path": [
-              "Typography",
-              "Headings",
-              "MD",
-              "H4",
-              "paragraphIndent"
-            ]
-          },
-          "textCase": {
-            "value": "none",
-            "type": "textCase",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{textCase.none}",
-              "type": "textCase"
-            },
-            "name": "mch_typography_headings_md_h4_text_case",
-            "attributes": {
-              "category": "Typography",
-              "type": "Headings",
-              "item": "MD",
-              "subitem": "H4",
-              "state": "textCase"
-            },
-            "path": [
-              "Typography",
-              "Headings",
-              "MD",
-              "H4",
-              "textCase"
-            ]
-          },
-          "textDecoration": {
-            "value": "none",
-            "type": "textDecoration",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{textDecoration.none}",
-              "type": "textDecoration"
-            },
-            "name": "mch_typography_headings_md_h4_text_decoration",
-            "attributes": {
-              "category": "Typography",
-              "type": "Headings",
-              "item": "MD",
-              "subitem": "H4",
-              "state": "textDecoration"
-            },
-            "path": [
-              "Typography",
-              "Headings",
-              "MD",
-              "H4",
-              "textDecoration"
-            ]
-          }
-        },
-        "h5": {
-          "fontFamily": {
-            "value": "Art Basel Headline",
-            "type": "fontFamilies",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{fontFamilies.art-basel-headline}",
-              "type": "fontFamilies"
-            },
-            "name": "mch_typography_headings_md_h5_font_family",
-            "attributes": {
-              "category": "Typography",
-              "type": "Headings",
-              "item": "MD",
-              "subitem": "H5",
-              "state": "fontFamily"
-            },
-            "path": [
-              "Typography",
-              "Headings",
-              "MD",
-              "H5",
-              "fontFamily"
-            ]
-          },
-          "fontWeight": {
-            "value": "700",
-            "type": "fontWeights",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{fontWeights.art-basel-headline-0}",
-              "type": "fontWeights"
-            },
-            "name": "mch_typography_headings_md_h5_font_weight",
-            "attributes": {
-              "category": "Typography",
-              "type": "Headings",
-              "item": "MD",
-              "subitem": "H5",
-              "state": "fontWeight"
-            },
-            "path": [
-              "Typography",
-              "Headings",
-              "MD",
-              "H5",
-              "fontWeight"
-            ]
-          },
-          "lineHeight": {
-            "value": "1.3125rem",
-            "type": "lineHeights",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{lineHeights.4}",
-              "type": "lineHeights"
-            },
-            "name": "mch_typography_headings_md_h5_line_height",
-            "attributes": {
-              "category": "Typography",
-              "type": "Headings",
-              "item": "MD",
-              "subitem": "H5",
-              "state": "lineHeight"
-            },
-            "path": [
-              "Typography",
-              "Headings",
-              "MD",
-              "H5",
-              "lineHeight"
-            ]
-          },
-          "fontSize": {
-            "value": "1.125rem",
-            "type": "fontSizes",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{fontSize.3}",
-              "type": "fontSizes"
-            },
-            "name": "mch_typography_headings_md_h5_font_size",
-            "attributes": {
-              "category": "Typography",
-              "type": "Headings",
-              "item": "MD",
-              "subitem": "H5",
-              "state": "fontSize"
-            },
-            "path": [
-              "Typography",
-              "Headings",
-              "MD",
-              "H5",
-              "fontSize"
-            ]
-          },
-          "letterSpacing": {
-            "value": "0rem",
-            "type": "letterSpacing",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{letterSpacing.0}",
-              "type": "letterSpacing"
-            },
-            "name": "mch_typography_headings_md_h5_letter_spacing",
-            "attributes": {
-              "category": "Typography",
-              "type": "Headings",
-              "item": "MD",
-              "subitem": "H5",
-              "state": "letterSpacing"
-            },
-            "path": [
-              "Typography",
-              "Headings",
-              "MD",
-              "H5",
-              "letterSpacing"
-            ]
-          },
-          "paragraphSpacing": {
-            "value": "4",
-            "type": "paragraphSpacing",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{paragraphSpacing.1}",
-              "type": "paragraphSpacing"
-            },
-            "name": "mch_typography_headings_md_h5_paragraph_spacing",
-            "attributes": {
-              "category": "Typography",
-              "type": "Headings",
-              "item": "MD",
-              "subitem": "H5",
-              "state": "paragraphSpacing"
-            },
-            "path": [
-              "Typography",
-              "Headings",
-              "MD",
-              "H5",
-              "paragraphSpacing"
-            ]
-          },
-          "paragraphIndent": {
-            "value": 0,
-            "type": "paragraphIndent",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{paragraphIndent.0}",
-              "type": "paragraphIndent"
-            },
-            "name": "mch_typography_headings_md_h5_paragraph_indent",
-            "attributes": {
-              "category": "Typography",
-              "type": "Headings",
-              "item": "MD",
-              "subitem": "H5",
-              "state": "paragraphIndent"
-            },
-            "path": [
-              "Typography",
-              "Headings",
-              "MD",
-              "H5",
-              "paragraphIndent"
-            ]
-          },
-          "textCase": {
-            "value": "none",
-            "type": "textCase",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{textCase.none}",
-              "type": "textCase"
-            },
-            "name": "mch_typography_headings_md_h5_text_case",
-            "attributes": {
-              "category": "Typography",
-              "type": "Headings",
-              "item": "MD",
-              "subitem": "H5",
-              "state": "textCase"
-            },
-            "path": [
-              "Typography",
-              "Headings",
-              "MD",
-              "H5",
-              "textCase"
-            ]
-          },
-          "textDecoration": {
-            "value": "none",
-            "type": "textDecoration",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{textDecoration.none}",
-              "type": "textDecoration"
-            },
-            "name": "mch_typography_headings_md_h5_text_decoration",
-            "attributes": {
-              "category": "Typography",
-              "type": "Headings",
-              "item": "MD",
-              "subitem": "H5",
-              "state": "textDecoration"
-            },
-            "path": [
-              "Typography",
-              "Headings",
-              "MD",
-              "H5",
-              "textDecoration"
-            ]
-          }
-        }
-      },
-      "lg": {
-        "display": {
-          "fontFamily": {
-            "value": "Art Basel Headline",
-            "type": "fontFamilies",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{fontFamilies.art-basel-headline}",
-              "type": "fontFamilies"
-            },
-            "name": "mch_typography_headings_lg_display_font_family",
-            "attributes": {
-              "category": "Typography",
-              "type": "Headings",
-              "item": "LG",
-              "subitem": "Display",
-              "state": "fontFamily"
-            },
-            "path": [
-              "Typography",
-              "Headings",
-              "LG",
-              "Display",
-              "fontFamily"
-            ]
-          },
-          "fontWeight": {
-            "value": "700",
-            "type": "fontWeights",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{fontWeights.art-basel-headline-0}",
-              "type": "fontWeights"
-            },
-            "name": "mch_typography_headings_lg_display_font_weight",
-            "attributes": {
-              "category": "Typography",
-              "type": "Headings",
-              "item": "LG",
-              "subitem": "Display",
-              "state": "fontWeight"
-            },
-            "path": [
-              "Typography",
-              "Headings",
-              "LG",
-              "Display",
-              "fontWeight"
-            ]
-          },
-          "lineHeight": {
-            "value": "3.5rem",
-            "type": "lineHeights",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{lineHeights.29}",
-              "type": "lineHeights"
-            },
-            "name": "mch_typography_headings_lg_display_line_height",
-            "attributes": {
-              "category": "Typography",
-              "type": "Headings",
-              "item": "LG",
-              "subitem": "Display",
-              "state": "lineHeight"
-            },
-            "path": [
-              "Typography",
-              "Headings",
-              "LG",
-              "Display",
-              "lineHeight"
-            ]
-          },
-          "fontSize": {
-            "value": "3.5rem",
-            "type": "fontSizes",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{fontSize.27}",
-              "type": "fontSizes"
-            },
-            "name": "mch_typography_headings_lg_display_font_size",
-            "attributes": {
-              "category": "Typography",
-              "type": "Headings",
-              "item": "LG",
-              "subitem": "Display",
-              "state": "fontSize"
-            },
-            "path": [
-              "Typography",
-              "Headings",
-              "LG",
-              "Display",
-              "fontSize"
-            ]
-          },
-          "letterSpacing": {
-            "value": "0rem",
-            "type": "letterSpacing",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{letterSpacing.0}",
-              "type": "letterSpacing"
-            },
-            "name": "mch_typography_headings_lg_display_letter_spacing",
-            "attributes": {
-              "category": "Typography",
-              "type": "Headings",
-              "item": "LG",
-              "subitem": "Display",
-              "state": "letterSpacing"
-            },
-            "path": [
-              "Typography",
-              "Headings",
-              "LG",
-              "Display",
-              "letterSpacing"
-            ]
-          },
-          "paragraphSpacing": {
-            "value": "4",
-            "type": "paragraphSpacing",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{paragraphSpacing.1}",
-              "type": "paragraphSpacing"
-            },
-            "name": "mch_typography_headings_lg_display_paragraph_spacing",
-            "attributes": {
-              "category": "Typography",
-              "type": "Headings",
-              "item": "LG",
-              "subitem": "Display",
-              "state": "paragraphSpacing"
-            },
-            "path": [
-              "Typography",
-              "Headings",
-              "LG",
-              "Display",
-              "paragraphSpacing"
-            ]
-          },
-          "paragraphIndent": {
-            "value": 0,
-            "type": "paragraphIndent",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{paragraphIndent.0}",
-              "type": "paragraphIndent"
-            },
-            "name": "mch_typography_headings_lg_display_paragraph_indent",
-            "attributes": {
-              "category": "Typography",
-              "type": "Headings",
-              "item": "LG",
-              "subitem": "Display",
-              "state": "paragraphIndent"
-            },
-            "path": [
-              "Typography",
-              "Headings",
-              "LG",
-              "Display",
-              "paragraphIndent"
-            ]
-          },
-          "textCase": {
-            "value": "none",
-            "type": "textCase",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{textCase.none}",
-              "type": "textCase"
-            },
-            "name": "mch_typography_headings_lg_display_text_case",
-            "attributes": {
-              "category": "Typography",
-              "type": "Headings",
-              "item": "LG",
-              "subitem": "Display",
-              "state": "textCase"
-            },
-            "path": [
-              "Typography",
-              "Headings",
-              "LG",
-              "Display",
-              "textCase"
-            ]
-          },
-          "textDecoration": {
-            "value": "none",
-            "type": "textDecoration",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{textDecoration.none}",
-              "type": "textDecoration"
-            },
-            "name": "mch_typography_headings_lg_display_text_decoration",
-            "attributes": {
-              "category": "Typography",
-              "type": "Headings",
-              "item": "LG",
-              "subitem": "Display",
-              "state": "textDecoration"
-            },
-            "path": [
-              "Typography",
-              "Headings",
-              "LG",
-              "Display",
-              "textDecoration"
-            ]
-          }
-        },
-        "h1": {
-          "fontFamily": {
-            "value": "Art Basel Headline",
-            "type": "fontFamilies",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{fontFamilies.art-basel-headline}",
-              "type": "fontFamilies"
-            },
-            "name": "mch_typography_headings_lg_h1_font_family",
-            "attributes": {
-              "category": "Typography",
-              "type": "Headings",
-              "item": "LG",
-              "subitem": "H1",
-              "state": "fontFamily"
-            },
-            "path": [
-              "Typography",
-              "Headings",
-              "LG",
-              "H1",
-              "fontFamily"
-            ]
-          },
-          "fontWeight": {
-            "value": "700",
-            "type": "fontWeights",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{fontWeights.art-basel-headline-0}",
-              "type": "fontWeights"
-            },
-            "name": "mch_typography_headings_lg_h1_font_weight",
-            "attributes": {
-              "category": "Typography",
-              "type": "Headings",
-              "item": "LG",
-              "subitem": "H1",
-              "state": "fontWeight"
-            },
-            "path": [
-              "Typography",
-              "Headings",
-              "LG",
-              "H1",
-              "fontWeight"
-            ]
-          },
-          "lineHeight": {
-            "value": "2.875rem",
-            "type": "lineHeights",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{lineHeights.9}",
-              "type": "lineHeights"
-            },
-            "name": "mch_typography_headings_lg_h1_line_height",
-            "attributes": {
-              "category": "Typography",
-              "type": "Headings",
-              "item": "LG",
-              "subitem": "H1",
-              "state": "lineHeight"
-            },
-            "path": [
-              "Typography",
-              "Headings",
-              "LG",
-              "H1",
-              "lineHeight"
-            ]
-          },
-          "fontSize": {
-            "value": "2.5rem",
-            "type": "fontSizes",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{fontSize.12}",
-              "type": "fontSizes"
-            },
-            "name": "mch_typography_headings_lg_h1_font_size",
-            "attributes": {
-              "category": "Typography",
-              "type": "Headings",
-              "item": "LG",
-              "subitem": "H1",
-              "state": "fontSize"
-            },
-            "path": [
-              "Typography",
-              "Headings",
-              "LG",
-              "H1",
-              "fontSize"
-            ]
-          },
-          "letterSpacing": {
-            "value": "0rem",
-            "type": "letterSpacing",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{letterSpacing.0}",
-              "type": "letterSpacing"
-            },
-            "name": "mch_typography_headings_lg_h1_letter_spacing",
-            "attributes": {
-              "category": "Typography",
-              "type": "Headings",
-              "item": "LG",
-              "subitem": "H1",
-              "state": "letterSpacing"
-            },
-            "path": [
-              "Typography",
-              "Headings",
-              "LG",
-              "H1",
-              "letterSpacing"
-            ]
-          },
-          "paragraphSpacing": {
-            "value": "4",
-            "type": "paragraphSpacing",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{paragraphSpacing.1}",
-              "type": "paragraphSpacing"
-            },
-            "name": "mch_typography_headings_lg_h1_paragraph_spacing",
-            "attributes": {
-              "category": "Typography",
-              "type": "Headings",
-              "item": "LG",
-              "subitem": "H1",
-              "state": "paragraphSpacing"
-            },
-            "path": [
-              "Typography",
-              "Headings",
-              "LG",
-              "H1",
-              "paragraphSpacing"
-            ]
-          },
-          "paragraphIndent": {
-            "value": 0,
-            "type": "paragraphIndent",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{paragraphIndent.0}",
-              "type": "paragraphIndent"
-            },
-            "name": "mch_typography_headings_lg_h1_paragraph_indent",
-            "attributes": {
-              "category": "Typography",
-              "type": "Headings",
-              "item": "LG",
-              "subitem": "H1",
-              "state": "paragraphIndent"
-            },
-            "path": [
-              "Typography",
-              "Headings",
-              "LG",
-              "H1",
-              "paragraphIndent"
-            ]
-          },
-          "textCase": {
-            "value": "none",
-            "type": "textCase",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{textCase.none}",
-              "type": "textCase"
-            },
-            "name": "mch_typography_headings_lg_h1_text_case",
-            "attributes": {
-              "category": "Typography",
-              "type": "Headings",
-              "item": "LG",
-              "subitem": "H1",
-              "state": "textCase"
-            },
-            "path": [
-              "Typography",
-              "Headings",
-              "LG",
-              "H1",
-              "textCase"
-            ]
-          },
-          "textDecoration": {
-            "value": "none",
-            "type": "textDecoration",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{textDecoration.none}",
-              "type": "textDecoration"
-            },
-            "name": "mch_typography_headings_lg_h1_text_decoration",
-            "attributes": {
-              "category": "Typography",
-              "type": "Headings",
-              "item": "LG",
-              "subitem": "H1",
-              "state": "textDecoration"
-            },
-            "path": [
-              "Typography",
-              "Headings",
-              "LG",
-              "H1",
-              "textDecoration"
-            ]
-          }
-        },
-        "h2": {
-          "fontFamily": {
-            "value": "Art Basel Headline",
-            "type": "fontFamilies",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{fontFamilies.art-basel-headline}",
-              "type": "fontFamilies"
-            },
-            "name": "mch_typography_headings_lg_h2_font_family",
-            "attributes": {
-              "category": "Typography",
-              "type": "Headings",
-              "item": "LG",
-              "subitem": "H2",
-              "state": "fontFamily"
-            },
-            "path": [
-              "Typography",
-              "Headings",
-              "LG",
-              "H2",
-              "fontFamily"
-            ]
-          },
-          "fontWeight": {
-            "value": "700",
-            "type": "fontWeights",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{fontWeights.art-basel-headline-0}",
-              "type": "fontWeights"
-            },
-            "name": "mch_typography_headings_lg_h2_font_weight",
-            "attributes": {
-              "category": "Typography",
-              "type": "Headings",
-              "item": "LG",
-              "subitem": "H2",
-              "state": "fontWeight"
-            },
-            "path": [
-              "Typography",
-              "Headings",
-              "LG",
-              "H2",
-              "fontWeight"
-            ]
-          },
-          "lineHeight": {
-            "value": "2.625rem",
-            "type": "lineHeights",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{lineHeights.6}",
-              "type": "lineHeights"
-            },
-            "name": "mch_typography_headings_lg_h2_line_height",
-            "attributes": {
-              "category": "Typography",
-              "type": "Headings",
-              "item": "LG",
-              "subitem": "H2",
-              "state": "lineHeight"
-            },
-            "path": [
-              "Typography",
-              "Headings",
-              "LG",
-              "H2",
-              "lineHeight"
-            ]
-          },
-          "fontSize": {
-            "value": "2.25rem",
-            "type": "fontSizes",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{fontSize.10}",
-              "type": "fontSizes"
-            },
-            "name": "mch_typography_headings_lg_h2_font_size",
-            "attributes": {
-              "category": "Typography",
-              "type": "Headings",
-              "item": "LG",
-              "subitem": "H2",
-              "state": "fontSize"
-            },
-            "path": [
-              "Typography",
-              "Headings",
-              "LG",
-              "H2",
-              "fontSize"
-            ]
-          },
-          "letterSpacing": {
-            "value": "0rem",
-            "type": "letterSpacing",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{letterSpacing.0}",
-              "type": "letterSpacing"
-            },
-            "name": "mch_typography_headings_lg_h2_letter_spacing",
-            "attributes": {
-              "category": "Typography",
-              "type": "Headings",
-              "item": "LG",
-              "subitem": "H2",
-              "state": "letterSpacing"
-            },
-            "path": [
-              "Typography",
-              "Headings",
-              "LG",
-              "H2",
-              "letterSpacing"
-            ]
-          },
-          "paragraphSpacing": {
-            "value": "4",
-            "type": "paragraphSpacing",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{paragraphSpacing.1}",
-              "type": "paragraphSpacing"
-            },
-            "name": "mch_typography_headings_lg_h2_paragraph_spacing",
-            "attributes": {
-              "category": "Typography",
-              "type": "Headings",
-              "item": "LG",
-              "subitem": "H2",
-              "state": "paragraphSpacing"
-            },
-            "path": [
-              "Typography",
-              "Headings",
-              "LG",
-              "H2",
-              "paragraphSpacing"
-            ]
-          },
-          "paragraphIndent": {
-            "value": 0,
-            "type": "paragraphIndent",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{paragraphIndent.0}",
-              "type": "paragraphIndent"
-            },
-            "name": "mch_typography_headings_lg_h2_paragraph_indent",
-            "attributes": {
-              "category": "Typography",
-              "type": "Headings",
-              "item": "LG",
-              "subitem": "H2",
-              "state": "paragraphIndent"
-            },
-            "path": [
-              "Typography",
-              "Headings",
-              "LG",
-              "H2",
-              "paragraphIndent"
-            ]
-          },
-          "textCase": {
-            "value": "none",
-            "type": "textCase",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{textCase.none}",
-              "type": "textCase"
-            },
-            "name": "mch_typography_headings_lg_h2_text_case",
-            "attributes": {
-              "category": "Typography",
-              "type": "Headings",
-              "item": "LG",
-              "subitem": "H2",
-              "state": "textCase"
-            },
-            "path": [
-              "Typography",
-              "Headings",
-              "LG",
-              "H2",
-              "textCase"
-            ]
-          },
-          "textDecoration": {
-            "value": "none",
-            "type": "textDecoration",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{textDecoration.none}",
-              "type": "textDecoration"
-            },
-            "name": "mch_typography_headings_lg_h2_text_decoration",
-            "attributes": {
-              "category": "Typography",
-              "type": "Headings",
-              "item": "LG",
-              "subitem": "H2",
-              "state": "textDecoration"
-            },
-            "path": [
-              "Typography",
-              "Headings",
-              "LG",
-              "H2",
-              "textDecoration"
-            ]
-          }
-        },
-        "h3": {
-          "fontFamily": {
-            "value": "Art Basel Headline",
-            "type": "fontFamilies",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{fontFamilies.art-basel-headline}",
-              "type": "fontFamilies"
-            },
-            "name": "mch_typography_headings_lg_h3_font_family",
-            "attributes": {
-              "category": "Typography",
-              "type": "Headings",
-              "item": "LG",
-              "subitem": "H3",
-              "state": "fontFamily"
-            },
-            "path": [
-              "Typography",
-              "Headings",
-              "LG",
-              "H3",
-              "fontFamily"
-            ]
-          },
-          "fontWeight": {
-            "value": "700",
-            "type": "fontWeights",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{fontWeights.art-basel-headline-0}",
-              "type": "fontWeights"
-            },
-            "name": "mch_typography_headings_lg_h3_font_weight",
-            "attributes": {
-              "category": "Typography",
-              "type": "Headings",
-              "item": "LG",
-              "subitem": "H3",
-              "state": "fontWeight"
-            },
-            "path": [
-              "Typography",
-              "Headings",
-              "LG",
-              "H3",
-              "fontWeight"
-            ]
-          },
-          "lineHeight": {
-            "value": "2.1875rem",
-            "type": "lineHeights",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{lineHeights.0}",
-              "type": "lineHeights"
-            },
-            "name": "mch_typography_headings_lg_h3_line_height",
-            "attributes": {
-              "category": "Typography",
-              "type": "Headings",
-              "item": "LG",
-              "subitem": "H3",
-              "state": "lineHeight"
-            },
-            "path": [
-              "Typography",
-              "Headings",
-              "LG",
-              "H3",
-              "lineHeight"
-            ]
-          },
-          "fontSize": {
-            "value": "1.875rem",
-            "type": "fontSizes",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{fontSize.7}",
-              "type": "fontSizes"
-            },
-            "name": "mch_typography_headings_lg_h3_font_size",
-            "attributes": {
-              "category": "Typography",
-              "type": "Headings",
-              "item": "LG",
-              "subitem": "H3",
-              "state": "fontSize"
-            },
-            "path": [
-              "Typography",
-              "Headings",
-              "LG",
-              "H3",
-              "fontSize"
-            ]
-          },
-          "letterSpacing": {
-            "value": "0rem",
-            "type": "letterSpacing",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{letterSpacing.0}",
-              "type": "letterSpacing"
-            },
-            "name": "mch_typography_headings_lg_h3_letter_spacing",
-            "attributes": {
-              "category": "Typography",
-              "type": "Headings",
-              "item": "LG",
-              "subitem": "H3",
-              "state": "letterSpacing"
-            },
-            "path": [
-              "Typography",
-              "Headings",
-              "LG",
-              "H3",
-              "letterSpacing"
-            ]
-          },
-          "paragraphSpacing": {
-            "value": "4",
-            "type": "paragraphSpacing",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{paragraphSpacing.1}",
-              "type": "paragraphSpacing"
-            },
-            "name": "mch_typography_headings_lg_h3_paragraph_spacing",
-            "attributes": {
-              "category": "Typography",
-              "type": "Headings",
-              "item": "LG",
-              "subitem": "H3",
-              "state": "paragraphSpacing"
-            },
-            "path": [
-              "Typography",
-              "Headings",
-              "LG",
-              "H3",
-              "paragraphSpacing"
-            ]
-          },
-          "paragraphIndent": {
-            "value": 0,
-            "type": "paragraphIndent",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{paragraphIndent.0}",
-              "type": "paragraphIndent"
-            },
-            "name": "mch_typography_headings_lg_h3_paragraph_indent",
-            "attributes": {
-              "category": "Typography",
-              "type": "Headings",
-              "item": "LG",
-              "subitem": "H3",
-              "state": "paragraphIndent"
-            },
-            "path": [
-              "Typography",
-              "Headings",
-              "LG",
-              "H3",
-              "paragraphIndent"
-            ]
-          },
-          "textCase": {
-            "value": "none",
-            "type": "textCase",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{textCase.none}",
-              "type": "textCase"
-            },
-            "name": "mch_typography_headings_lg_h3_text_case",
-            "attributes": {
-              "category": "Typography",
-              "type": "Headings",
-              "item": "LG",
-              "subitem": "H3",
-              "state": "textCase"
-            },
-            "path": [
-              "Typography",
-              "Headings",
-              "LG",
-              "H3",
-              "textCase"
-            ]
-          },
-          "textDecoration": {
-            "value": "none",
-            "type": "textDecoration",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{textDecoration.none}",
-              "type": "textDecoration"
-            },
-            "name": "mch_typography_headings_lg_h3_text_decoration",
-            "attributes": {
-              "category": "Typography",
-              "type": "Headings",
-              "item": "LG",
-              "subitem": "H3",
-              "state": "textDecoration"
-            },
-            "path": [
-              "Typography",
-              "Headings",
-              "LG",
-              "H3",
-              "textDecoration"
-            ]
-          }
-        },
-        "h4": {
-          "fontFamily": {
-            "value": "Art Basel Headline",
-            "type": "fontFamilies",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{fontFamilies.art-basel-headline}",
-              "type": "fontFamilies"
-            },
-            "name": "mch_typography_headings_lg_h4_font_family",
-            "attributes": {
-              "category": "Typography",
-              "type": "Headings",
-              "item": "LG",
-              "subitem": "H4",
-              "state": "fontFamily"
-            },
-            "path": [
-              "Typography",
-              "Headings",
-              "LG",
-              "H4",
-              "fontFamily"
-            ]
-          },
-          "fontWeight": {
-            "value": "700",
-            "type": "fontWeights",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{fontWeights.art-basel-headline-0}",
-              "type": "fontWeights"
-            },
-            "name": "mch_typography_headings_lg_h4_font_weight",
-            "attributes": {
-              "category": "Typography",
-              "type": "Headings",
-              "item": "LG",
-              "subitem": "H4",
-              "state": "fontWeight"
-            },
-            "path": [
-              "Typography",
-              "Headings",
-              "LG",
-              "H4",
-              "fontWeight"
-            ]
-          },
-          "lineHeight": {
-            "value": "1.75rem",
-            "type": "lineHeights",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{lineHeights.2}",
-              "type": "lineHeights"
-            },
-            "name": "mch_typography_headings_lg_h4_line_height",
-            "attributes": {
-              "category": "Typography",
-              "type": "Headings",
-              "item": "LG",
-              "subitem": "H4",
-              "state": "lineHeight"
-            },
-            "path": [
-              "Typography",
-              "Headings",
-              "LG",
-              "H4",
-              "lineHeight"
-            ]
-          },
-          "fontSize": {
-            "value": "1.5rem",
-            "type": "fontSizes",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{fontSize.5}",
-              "type": "fontSizes"
-            },
-            "name": "mch_typography_headings_lg_h4_font_size",
-            "attributes": {
-              "category": "Typography",
-              "type": "Headings",
-              "item": "LG",
-              "subitem": "H4",
-              "state": "fontSize"
-            },
-            "path": [
-              "Typography",
-              "Headings",
-              "LG",
-              "H4",
-              "fontSize"
-            ]
-          },
-          "letterSpacing": {
-            "value": "0rem",
-            "type": "letterSpacing",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{letterSpacing.0}",
-              "type": "letterSpacing"
-            },
-            "name": "mch_typography_headings_lg_h4_letter_spacing",
-            "attributes": {
-              "category": "Typography",
-              "type": "Headings",
-              "item": "LG",
-              "subitem": "H4",
-              "state": "letterSpacing"
-            },
-            "path": [
-              "Typography",
-              "Headings",
-              "LG",
-              "H4",
-              "letterSpacing"
-            ]
-          },
-          "paragraphSpacing": {
-            "value": "4",
-            "type": "paragraphSpacing",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{paragraphSpacing.1}",
-              "type": "paragraphSpacing"
-            },
-            "name": "mch_typography_headings_lg_h4_paragraph_spacing",
-            "attributes": {
-              "category": "Typography",
-              "type": "Headings",
-              "item": "LG",
-              "subitem": "H4",
-              "state": "paragraphSpacing"
-            },
-            "path": [
-              "Typography",
-              "Headings",
-              "LG",
-              "H4",
-              "paragraphSpacing"
-            ]
-          },
-          "paragraphIndent": {
-            "value": 0,
-            "type": "paragraphIndent",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{paragraphIndent.0}",
-              "type": "paragraphIndent"
-            },
-            "name": "mch_typography_headings_lg_h4_paragraph_indent",
-            "attributes": {
-              "category": "Typography",
-              "type": "Headings",
-              "item": "LG",
-              "subitem": "H4",
-              "state": "paragraphIndent"
-            },
-            "path": [
-              "Typography",
-              "Headings",
-              "LG",
-              "H4",
-              "paragraphIndent"
-            ]
-          },
-          "textCase": {
-            "value": "none",
-            "type": "textCase",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{textCase.none}",
-              "type": "textCase"
-            },
-            "name": "mch_typography_headings_lg_h4_text_case",
-            "attributes": {
-              "category": "Typography",
-              "type": "Headings",
-              "item": "LG",
-              "subitem": "H4",
-              "state": "textCase"
-            },
-            "path": [
-              "Typography",
-              "Headings",
-              "LG",
-              "H4",
-              "textCase"
-            ]
-          },
-          "textDecoration": {
-            "value": "none",
-            "type": "textDecoration",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{textDecoration.none}",
-              "type": "textDecoration"
-            },
-            "name": "mch_typography_headings_lg_h4_text_decoration",
-            "attributes": {
-              "category": "Typography",
-              "type": "Headings",
-              "item": "LG",
-              "subitem": "H4",
-              "state": "textDecoration"
-            },
-            "path": [
-              "Typography",
-              "Headings",
-              "LG",
-              "H4",
-              "textDecoration"
-            ]
-          }
-        },
-        "h5": {
-          "fontFamily": {
-            "value": "Art Basel Headline",
-            "type": "fontFamilies",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{fontFamilies.art-basel-headline}",
-              "type": "fontFamilies"
-            },
-            "name": "mch_typography_headings_lg_h5_font_family",
-            "attributes": {
-              "category": "Typography",
-              "type": "Headings",
-              "item": "LG",
-              "subitem": "H5",
-              "state": "fontFamily"
-            },
-            "path": [
-              "Typography",
-              "Headings",
-              "LG",
-              "H5",
-              "fontFamily"
-            ]
-          },
-          "fontWeight": {
-            "value": "700",
-            "type": "fontWeights",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{fontWeights.art-basel-headline-0}",
-              "type": "fontWeights"
-            },
-            "name": "mch_typography_headings_lg_h5_font_weight",
-            "attributes": {
-              "category": "Typography",
-              "type": "Headings",
-              "item": "LG",
-              "subitem": "H5",
-              "state": "fontWeight"
-            },
-            "path": [
-              "Typography",
-              "Headings",
-              "LG",
-              "H5",
-              "fontWeight"
-            ]
-          },
-          "lineHeight": {
-            "value": "1.3125rem",
-            "type": "lineHeights",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{lineHeights.4}",
-              "type": "lineHeights"
-            },
-            "name": "mch_typography_headings_lg_h5_line_height",
-            "attributes": {
-              "category": "Typography",
-              "type": "Headings",
-              "item": "LG",
-              "subitem": "H5",
-              "state": "lineHeight"
-            },
-            "path": [
-              "Typography",
-              "Headings",
-              "LG",
-              "H5",
-              "lineHeight"
-            ]
-          },
-          "fontSize": {
-            "value": "1.125rem",
-            "type": "fontSizes",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{fontSize.3}",
-              "type": "fontSizes"
-            },
-            "name": "mch_typography_headings_lg_h5_font_size",
-            "attributes": {
-              "category": "Typography",
-              "type": "Headings",
-              "item": "LG",
-              "subitem": "H5",
-              "state": "fontSize"
-            },
-            "path": [
-              "Typography",
-              "Headings",
-              "LG",
-              "H5",
-              "fontSize"
-            ]
-          },
-          "letterSpacing": {
-            "value": "0rem",
-            "type": "letterSpacing",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{letterSpacing.0}",
-              "type": "letterSpacing"
-            },
-            "name": "mch_typography_headings_lg_h5_letter_spacing",
-            "attributes": {
-              "category": "Typography",
-              "type": "Headings",
-              "item": "LG",
-              "subitem": "H5",
-              "state": "letterSpacing"
-            },
-            "path": [
-              "Typography",
-              "Headings",
-              "LG",
-              "H5",
-              "letterSpacing"
-            ]
-          },
-          "paragraphSpacing": {
-            "value": "4",
-            "type": "paragraphSpacing",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{paragraphSpacing.1}",
-              "type": "paragraphSpacing"
-            },
-            "name": "mch_typography_headings_lg_h5_paragraph_spacing",
-            "attributes": {
-              "category": "Typography",
-              "type": "Headings",
-              "item": "LG",
-              "subitem": "H5",
-              "state": "paragraphSpacing"
-            },
-            "path": [
-              "Typography",
-              "Headings",
-              "LG",
-              "H5",
-              "paragraphSpacing"
-            ]
-          },
-          "paragraphIndent": {
-            "value": 0,
-            "type": "paragraphIndent",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{paragraphIndent.0}",
-              "type": "paragraphIndent"
-            },
-            "name": "mch_typography_headings_lg_h5_paragraph_indent",
-            "attributes": {
-              "category": "Typography",
-              "type": "Headings",
-              "item": "LG",
-              "subitem": "H5",
-              "state": "paragraphIndent"
-            },
-            "path": [
-              "Typography",
-              "Headings",
-              "LG",
-              "H5",
-              "paragraphIndent"
-            ]
-          },
-          "textCase": {
-            "value": "none",
-            "type": "textCase",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{textCase.none}",
-              "type": "textCase"
-            },
-            "name": "mch_typography_headings_lg_h5_text_case",
-            "attributes": {
-              "category": "Typography",
-              "type": "Headings",
-              "item": "LG",
-              "subitem": "H5",
-              "state": "textCase"
-            },
-            "path": [
-              "Typography",
-              "Headings",
-              "LG",
-              "H5",
-              "textCase"
-            ]
-          },
-          "textDecoration": {
-            "value": "none",
-            "type": "textDecoration",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{textDecoration.none}",
-              "type": "textDecoration"
-            },
-            "name": "mch_typography_headings_lg_h5_text_decoration",
-            "attributes": {
-              "category": "Typography",
-              "type": "Headings",
-              "item": "LG",
-              "subitem": "H5",
-              "state": "textDecoration"
-            },
-            "path": [
-              "Typography",
-              "Headings",
-              "LG",
-              "H5",
-              "textDecoration"
-            ]
-          }
-        }
-      },
-      "2Xl": {
-        "display": {
-          "fontFamily": {
-            "value": "Art Basel Headline",
-            "type": "fontFamilies",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{fontFamilies.art-basel-headline}",
-              "type": "fontFamilies"
-            },
-            "name": "mch_typography_headings_2_xl_display_font_family",
-            "attributes": {
-              "category": "Typography",
-              "type": "Headings",
-              "item": "2XL",
-              "subitem": "Display",
-              "state": "fontFamily"
-            },
-            "path": [
-              "Typography",
-              "Headings",
-              "2XL",
-              "Display",
-              "fontFamily"
-            ]
-          },
-          "fontWeight": {
-            "value": "700",
-            "type": "fontWeights",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{fontWeights.art-basel-headline-0}",
-              "type": "fontWeights"
-            },
-            "name": "mch_typography_headings_2_xl_display_font_weight",
-            "attributes": {
-              "category": "Typography",
-              "type": "Headings",
-              "item": "2XL",
-              "subitem": "Display",
-              "state": "fontWeight"
-            },
-            "path": [
-              "Typography",
-              "Headings",
-              "2XL",
-              "Display",
-              "fontWeight"
-            ]
-          },
-          "lineHeight": {
-            "value": "4rem",
-            "type": "lineHeights",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{lineHeights.17}",
-              "type": "lineHeights"
-            },
-            "name": "mch_typography_headings_2_xl_display_line_height",
-            "attributes": {
-              "category": "Typography",
-              "type": "Headings",
-              "item": "2XL",
-              "subitem": "Display",
-              "state": "lineHeight"
-            },
-            "path": [
-              "Typography",
-              "Headings",
-              "2XL",
-              "Display",
-              "lineHeight"
-            ]
-          },
-          "fontSize": {
-            "value": "4rem",
-            "type": "fontSizes",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{fontSize.20}",
-              "type": "fontSizes"
-            },
-            "name": "mch_typography_headings_2_xl_display_font_size",
-            "attributes": {
-              "category": "Typography",
-              "type": "Headings",
-              "item": "2XL",
-              "subitem": "Display",
-              "state": "fontSize"
-            },
-            "path": [
-              "Typography",
-              "Headings",
-              "2XL",
-              "Display",
-              "fontSize"
-            ]
-          },
-          "letterSpacing": {
-            "value": "0rem",
-            "type": "letterSpacing",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{letterSpacing.0}",
-              "type": "letterSpacing"
-            },
-            "name": "mch_typography_headings_2_xl_display_letter_spacing",
-            "attributes": {
-              "category": "Typography",
-              "type": "Headings",
-              "item": "2XL",
-              "subitem": "Display",
-              "state": "letterSpacing"
-            },
-            "path": [
-              "Typography",
-              "Headings",
-              "2XL",
-              "Display",
-              "letterSpacing"
-            ]
-          },
-          "paragraphSpacing": {
-            "value": "0",
-            "type": "paragraphSpacing",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{paragraphSpacing.0}",
-              "type": "paragraphSpacing"
-            },
-            "name": "mch_typography_headings_2_xl_display_paragraph_spacing",
-            "attributes": {
-              "category": "Typography",
-              "type": "Headings",
-              "item": "2XL",
-              "subitem": "Display",
-              "state": "paragraphSpacing"
-            },
-            "path": [
-              "Typography",
-              "Headings",
-              "2XL",
-              "Display",
-              "paragraphSpacing"
-            ]
-          },
-          "paragraphIndent": {
-            "value": 0,
-            "type": "paragraphIndent",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{paragraphIndent.0}",
-              "type": "paragraphIndent"
-            },
-            "name": "mch_typography_headings_2_xl_display_paragraph_indent",
-            "attributes": {
-              "category": "Typography",
-              "type": "Headings",
-              "item": "2XL",
-              "subitem": "Display",
-              "state": "paragraphIndent"
-            },
-            "path": [
-              "Typography",
-              "Headings",
-              "2XL",
-              "Display",
-              "paragraphIndent"
-            ]
-          },
-          "textCase": {
-            "value": "none",
-            "type": "textCase",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{textCase.none}",
-              "type": "textCase"
-            },
-            "name": "mch_typography_headings_2_xl_display_text_case",
-            "attributes": {
-              "category": "Typography",
-              "type": "Headings",
-              "item": "2XL",
-              "subitem": "Display",
-              "state": "textCase"
-            },
-            "path": [
-              "Typography",
-              "Headings",
-              "2XL",
-              "Display",
-              "textCase"
-            ]
-          },
-          "textDecoration": {
-            "value": "none",
-            "type": "textDecoration",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{textDecoration.none}",
-              "type": "textDecoration"
-            },
-            "name": "mch_typography_headings_2_xl_display_text_decoration",
-            "attributes": {
-              "category": "Typography",
-              "type": "Headings",
-              "item": "2XL",
-              "subitem": "Display",
-              "state": "textDecoration"
-            },
-            "path": [
-              "Typography",
-              "Headings",
-              "2XL",
-              "Display",
-              "textDecoration"
-            ]
-          }
-        },
-        "h1": {
-          "fontFamily": {
-            "value": "Art Basel Headline",
-            "type": "fontFamilies",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{fontFamilies.art-basel-headline}",
-              "type": "fontFamilies"
-            },
-            "name": "mch_typography_headings_2_xl_h1_font_family",
-            "attributes": {
-              "category": "Typography",
-              "type": "Headings",
-              "item": "2XL",
-              "subitem": "H1",
-              "state": "fontFamily"
-            },
-            "path": [
-              "Typography",
-              "Headings",
-              "2XL",
-              "H1",
-              "fontFamily"
-            ]
-          },
-          "fontWeight": {
-            "value": "700",
-            "type": "fontWeights",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{fontWeights.art-basel-headline-0}",
-              "type": "fontWeights"
-            },
-            "name": "mch_typography_headings_2_xl_h1_font_weight",
-            "attributes": {
-              "category": "Typography",
-              "type": "Headings",
-              "item": "2XL",
-              "subitem": "H1",
-              "state": "fontWeight"
-            },
-            "path": [
-              "Typography",
-              "Headings",
-              "2XL",
-              "H1",
-              "fontWeight"
-            ]
-          },
-          "lineHeight": {
-            "value": "3.125rem",
-            "type": "lineHeights",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{lineHeights.10}",
-              "type": "lineHeights"
-            },
-            "name": "mch_typography_headings_2_xl_h1_line_height",
-            "attributes": {
-              "category": "Typography",
-              "type": "Headings",
-              "item": "2XL",
-              "subitem": "H1",
-              "state": "lineHeight"
-            },
-            "path": [
-              "Typography",
-              "Headings",
-              "2XL",
-              "H1",
-              "lineHeight"
-            ]
-          },
-          "fontSize": {
-            "value": "3rem",
-            "type": "fontSizes",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{fontSize.14}",
-              "type": "fontSizes"
-            },
-            "name": "mch_typography_headings_2_xl_h1_font_size",
-            "attributes": {
-              "category": "Typography",
-              "type": "Headings",
-              "item": "2XL",
-              "subitem": "H1",
-              "state": "fontSize"
-            },
-            "path": [
-              "Typography",
-              "Headings",
-              "2XL",
-              "H1",
-              "fontSize"
-            ]
-          },
-          "letterSpacing": {
-            "value": "0rem",
-            "type": "letterSpacing",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{letterSpacing.0}",
-              "type": "letterSpacing"
-            },
-            "name": "mch_typography_headings_2_xl_h1_letter_spacing",
-            "attributes": {
-              "category": "Typography",
-              "type": "Headings",
-              "item": "2XL",
-              "subitem": "H1",
-              "state": "letterSpacing"
-            },
-            "path": [
-              "Typography",
-              "Headings",
-              "2XL",
-              "H1",
-              "letterSpacing"
-            ]
-          },
-          "paragraphSpacing": {
-            "value": "0",
-            "type": "paragraphSpacing",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{paragraphSpacing.0}",
-              "type": "paragraphSpacing"
-            },
-            "name": "mch_typography_headings_2_xl_h1_paragraph_spacing",
-            "attributes": {
-              "category": "Typography",
-              "type": "Headings",
-              "item": "2XL",
-              "subitem": "H1",
-              "state": "paragraphSpacing"
-            },
-            "path": [
-              "Typography",
-              "Headings",
-              "2XL",
-              "H1",
-              "paragraphSpacing"
-            ]
-          },
-          "paragraphIndent": {
-            "value": 0,
-            "type": "paragraphIndent",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{paragraphIndent.0}",
-              "type": "paragraphIndent"
-            },
-            "name": "mch_typography_headings_2_xl_h1_paragraph_indent",
-            "attributes": {
-              "category": "Typography",
-              "type": "Headings",
-              "item": "2XL",
-              "subitem": "H1",
-              "state": "paragraphIndent"
-            },
-            "path": [
-              "Typography",
-              "Headings",
-              "2XL",
-              "H1",
-              "paragraphIndent"
-            ]
-          },
-          "textCase": {
-            "value": "none",
-            "type": "textCase",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{textCase.none}",
-              "type": "textCase"
-            },
-            "name": "mch_typography_headings_2_xl_h1_text_case",
-            "attributes": {
-              "category": "Typography",
-              "type": "Headings",
-              "item": "2XL",
-              "subitem": "H1",
-              "state": "textCase"
-            },
-            "path": [
-              "Typography",
-              "Headings",
-              "2XL",
-              "H1",
-              "textCase"
-            ]
-          },
-          "textDecoration": {
-            "value": "none",
-            "type": "textDecoration",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{textDecoration.none}",
-              "type": "textDecoration"
-            },
-            "name": "mch_typography_headings_2_xl_h1_text_decoration",
-            "attributes": {
-              "category": "Typography",
-              "type": "Headings",
-              "item": "2XL",
-              "subitem": "H1",
-              "state": "textDecoration"
-            },
-            "path": [
-              "Typography",
-              "Headings",
-              "2XL",
-              "H1",
-              "textDecoration"
-            ]
-          }
-        },
-        "h2": {
-          "fontFamily": {
-            "value": "Art Basel Headline",
-            "type": "fontFamilies",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{fontFamilies.art-basel-headline}",
-              "type": "fontFamilies"
-            },
-            "name": "mch_typography_headings_2_xl_h2_font_family",
-            "attributes": {
-              "category": "Typography",
-              "type": "Headings",
-              "item": "2XL",
-              "subitem": "H2",
-              "state": "fontFamily"
-            },
-            "path": [
-              "Typography",
-              "Headings",
-              "2XL",
-              "H2",
-              "fontFamily"
-            ]
-          },
-          "fontWeight": {
-            "value": "700",
-            "type": "fontWeights",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{fontWeights.art-basel-headline-0}",
-              "type": "fontWeights"
-            },
-            "name": "mch_typography_headings_2_xl_h2_font_weight",
-            "attributes": {
-              "category": "Typography",
-              "type": "Headings",
-              "item": "2XL",
-              "subitem": "H2",
-              "state": "fontWeight"
-            },
-            "path": [
-              "Typography",
-              "Headings",
-              "2XL",
-              "H2",
-              "fontWeight"
-            ]
-          },
-          "lineHeight": {
-            "value": "2.625rem",
-            "type": "lineHeights",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{lineHeights.6}",
-              "type": "lineHeights"
-            },
-            "name": "mch_typography_headings_2_xl_h2_line_height",
-            "attributes": {
-              "category": "Typography",
-              "type": "Headings",
-              "item": "2XL",
-              "subitem": "H2",
-              "state": "lineHeight"
-            },
-            "path": [
-              "Typography",
-              "Headings",
-              "2XL",
-              "H2",
-              "lineHeight"
-            ]
-          },
-          "fontSize": {
-            "value": "2.25rem",
-            "type": "fontSizes",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{fontSize.10}",
-              "type": "fontSizes"
-            },
-            "name": "mch_typography_headings_2_xl_h2_font_size",
-            "attributes": {
-              "category": "Typography",
-              "type": "Headings",
-              "item": "2XL",
-              "subitem": "H2",
-              "state": "fontSize"
-            },
-            "path": [
-              "Typography",
-              "Headings",
-              "2XL",
-              "H2",
-              "fontSize"
-            ]
-          },
-          "letterSpacing": {
-            "value": "0rem",
-            "type": "letterSpacing",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{letterSpacing.0}",
-              "type": "letterSpacing"
-            },
-            "name": "mch_typography_headings_2_xl_h2_letter_spacing",
-            "attributes": {
-              "category": "Typography",
-              "type": "Headings",
-              "item": "2XL",
-              "subitem": "H2",
-              "state": "letterSpacing"
-            },
-            "path": [
-              "Typography",
-              "Headings",
-              "2XL",
-              "H2",
-              "letterSpacing"
-            ]
-          },
-          "paragraphSpacing": {
-            "value": "0",
-            "type": "paragraphSpacing",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{paragraphSpacing.0}",
-              "type": "paragraphSpacing"
-            },
-            "name": "mch_typography_headings_2_xl_h2_paragraph_spacing",
-            "attributes": {
-              "category": "Typography",
-              "type": "Headings",
-              "item": "2XL",
-              "subitem": "H2",
-              "state": "paragraphSpacing"
-            },
-            "path": [
-              "Typography",
-              "Headings",
-              "2XL",
-              "H2",
-              "paragraphSpacing"
-            ]
-          },
-          "paragraphIndent": {
-            "value": 0,
-            "type": "paragraphIndent",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{paragraphIndent.0}",
-              "type": "paragraphIndent"
-            },
-            "name": "mch_typography_headings_2_xl_h2_paragraph_indent",
-            "attributes": {
-              "category": "Typography",
-              "type": "Headings",
-              "item": "2XL",
-              "subitem": "H2",
-              "state": "paragraphIndent"
-            },
-            "path": [
-              "Typography",
-              "Headings",
-              "2XL",
-              "H2",
-              "paragraphIndent"
-            ]
-          },
-          "textCase": {
-            "value": "none",
-            "type": "textCase",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{textCase.none}",
-              "type": "textCase"
-            },
-            "name": "mch_typography_headings_2_xl_h2_text_case",
-            "attributes": {
-              "category": "Typography",
-              "type": "Headings",
-              "item": "2XL",
-              "subitem": "H2",
-              "state": "textCase"
-            },
-            "path": [
-              "Typography",
-              "Headings",
-              "2XL",
-              "H2",
-              "textCase"
-            ]
-          },
-          "textDecoration": {
-            "value": "none",
-            "type": "textDecoration",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{textDecoration.none}",
-              "type": "textDecoration"
-            },
-            "name": "mch_typography_headings_2_xl_h2_text_decoration",
-            "attributes": {
-              "category": "Typography",
-              "type": "Headings",
-              "item": "2XL",
-              "subitem": "H2",
-              "state": "textDecoration"
-            },
-            "path": [
-              "Typography",
-              "Headings",
-              "2XL",
-              "H2",
-              "textDecoration"
-            ]
-          }
-        },
-        "h3": {
-          "fontFamily": {
-            "value": "Art Basel Headline",
-            "type": "fontFamilies",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{fontFamilies.art-basel-headline}",
-              "type": "fontFamilies"
-            },
-            "name": "mch_typography_headings_2_xl_h3_font_family",
-            "attributes": {
-              "category": "Typography",
-              "type": "Headings",
-              "item": "2XL",
-              "subitem": "H3",
-              "state": "fontFamily"
-            },
-            "path": [
-              "Typography",
-              "Headings",
-              "2XL",
-              "H3",
-              "fontFamily"
-            ]
-          },
-          "fontWeight": {
-            "value": "700",
-            "type": "fontWeights",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{fontWeights.art-basel-headline-0}",
-              "type": "fontWeights"
-            },
-            "name": "mch_typography_headings_2_xl_h3_font_weight",
-            "attributes": {
-              "category": "Typography",
-              "type": "Headings",
-              "item": "2XL",
-              "subitem": "H3",
-              "state": "fontWeight"
-            },
-            "path": [
-              "Typography",
-              "Headings",
-              "2XL",
-              "H3",
-              "fontWeight"
-            ]
-          },
-          "lineHeight": {
-            "value": "2.125rem",
-            "type": "lineHeights",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{lineHeights.7}",
-              "type": "lineHeights"
-            },
-            "name": "mch_typography_headings_2_xl_h3_line_height",
-            "attributes": {
-              "category": "Typography",
-              "type": "Headings",
-              "item": "2XL",
-              "subitem": "H3",
-              "state": "lineHeight"
-            },
-            "path": [
-              "Typography",
-              "Headings",
-              "2XL",
-              "H3",
-              "lineHeight"
-            ]
-          },
-          "fontSize": {
-            "value": "1.875rem",
-            "type": "fontSizes",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{fontSize.7}",
-              "type": "fontSizes"
-            },
-            "name": "mch_typography_headings_2_xl_h3_font_size",
-            "attributes": {
-              "category": "Typography",
-              "type": "Headings",
-              "item": "2XL",
-              "subitem": "H3",
-              "state": "fontSize"
-            },
-            "path": [
-              "Typography",
-              "Headings",
-              "2XL",
-              "H3",
-              "fontSize"
-            ]
-          },
-          "letterSpacing": {
-            "value": "0rem",
-            "type": "letterSpacing",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{letterSpacing.0}",
-              "type": "letterSpacing"
-            },
-            "name": "mch_typography_headings_2_xl_h3_letter_spacing",
-            "attributes": {
-              "category": "Typography",
-              "type": "Headings",
-              "item": "2XL",
-              "subitem": "H3",
-              "state": "letterSpacing"
-            },
-            "path": [
-              "Typography",
-              "Headings",
-              "2XL",
-              "H3",
-              "letterSpacing"
-            ]
-          },
-          "paragraphSpacing": {
-            "value": "0",
-            "type": "paragraphSpacing",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{paragraphSpacing.0}",
-              "type": "paragraphSpacing"
-            },
-            "name": "mch_typography_headings_2_xl_h3_paragraph_spacing",
-            "attributes": {
-              "category": "Typography",
-              "type": "Headings",
-              "item": "2XL",
-              "subitem": "H3",
-              "state": "paragraphSpacing"
-            },
-            "path": [
-              "Typography",
-              "Headings",
-              "2XL",
-              "H3",
-              "paragraphSpacing"
-            ]
-          },
-          "paragraphIndent": {
-            "value": 0,
-            "type": "paragraphIndent",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{paragraphIndent.0}",
-              "type": "paragraphIndent"
-            },
-            "name": "mch_typography_headings_2_xl_h3_paragraph_indent",
-            "attributes": {
-              "category": "Typography",
-              "type": "Headings",
-              "item": "2XL",
-              "subitem": "H3",
-              "state": "paragraphIndent"
-            },
-            "path": [
-              "Typography",
-              "Headings",
-              "2XL",
-              "H3",
-              "paragraphIndent"
-            ]
-          },
-          "textCase": {
-            "value": "none",
-            "type": "textCase",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{textCase.none}",
-              "type": "textCase"
-            },
-            "name": "mch_typography_headings_2_xl_h3_text_case",
-            "attributes": {
-              "category": "Typography",
-              "type": "Headings",
-              "item": "2XL",
-              "subitem": "H3",
-              "state": "textCase"
-            },
-            "path": [
-              "Typography",
-              "Headings",
-              "2XL",
-              "H3",
-              "textCase"
-            ]
-          },
-          "textDecoration": {
-            "value": "none",
-            "type": "textDecoration",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{textDecoration.none}",
-              "type": "textDecoration"
-            },
-            "name": "mch_typography_headings_2_xl_h3_text_decoration",
-            "attributes": {
-              "category": "Typography",
-              "type": "Headings",
-              "item": "2XL",
-              "subitem": "H3",
-              "state": "textDecoration"
-            },
-            "path": [
-              "Typography",
-              "Headings",
-              "2XL",
-              "H3",
-              "textDecoration"
-            ]
-          }
-        },
-        "h4": {
-          "fontFamily": {
-            "value": "Art Basel Headline",
-            "type": "fontFamilies",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{fontFamilies.art-basel-headline}",
-              "type": "fontFamilies"
-            },
-            "name": "mch_typography_headings_2_xl_h4_font_family",
-            "attributes": {
-              "category": "Typography",
-              "type": "Headings",
-              "item": "2XL",
-              "subitem": "H4",
-              "state": "fontFamily"
-            },
-            "path": [
-              "Typography",
-              "Headings",
-              "2XL",
-              "H4",
-              "fontFamily"
-            ]
-          },
-          "fontWeight": {
-            "value": "700",
-            "type": "fontWeights",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{fontWeights.art-basel-headline-0}",
-              "type": "fontWeights"
-            },
-            "name": "mch_typography_headings_2_xl_h4_font_weight",
-            "attributes": {
-              "category": "Typography",
-              "type": "Headings",
-              "item": "2XL",
-              "subitem": "H4",
-              "state": "fontWeight"
-            },
-            "path": [
-              "Typography",
-              "Headings",
-              "2XL",
-              "H4",
-              "fontWeight"
-            ]
-          },
-          "lineHeight": {
-            "value": "1.75rem",
-            "type": "lineHeights",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{lineHeights.2}",
-              "type": "lineHeights"
-            },
-            "name": "mch_typography_headings_2_xl_h4_line_height",
-            "attributes": {
-              "category": "Typography",
-              "type": "Headings",
-              "item": "2XL",
-              "subitem": "H4",
-              "state": "lineHeight"
-            },
-            "path": [
-              "Typography",
-              "Headings",
-              "2XL",
-              "H4",
-              "lineHeight"
-            ]
-          },
-          "fontSize": {
-            "value": "1.5rem",
-            "type": "fontSizes",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{fontSize.5}",
-              "type": "fontSizes"
-            },
-            "name": "mch_typography_headings_2_xl_h4_font_size",
-            "attributes": {
-              "category": "Typography",
-              "type": "Headings",
-              "item": "2XL",
-              "subitem": "H4",
-              "state": "fontSize"
-            },
-            "path": [
-              "Typography",
-              "Headings",
-              "2XL",
-              "H4",
-              "fontSize"
-            ]
-          },
-          "letterSpacing": {
-            "value": "0rem",
-            "type": "letterSpacing",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{letterSpacing.0}",
-              "type": "letterSpacing"
-            },
-            "name": "mch_typography_headings_2_xl_h4_letter_spacing",
-            "attributes": {
-              "category": "Typography",
-              "type": "Headings",
-              "item": "2XL",
-              "subitem": "H4",
-              "state": "letterSpacing"
-            },
-            "path": [
-              "Typography",
-              "Headings",
-              "2XL",
-              "H4",
-              "letterSpacing"
-            ]
-          },
-          "paragraphSpacing": {
-            "value": "0",
-            "type": "paragraphSpacing",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{paragraphSpacing.0}",
-              "type": "paragraphSpacing"
-            },
-            "name": "mch_typography_headings_2_xl_h4_paragraph_spacing",
-            "attributes": {
-              "category": "Typography",
-              "type": "Headings",
-              "item": "2XL",
-              "subitem": "H4",
-              "state": "paragraphSpacing"
-            },
-            "path": [
-              "Typography",
-              "Headings",
-              "2XL",
-              "H4",
-              "paragraphSpacing"
-            ]
-          },
-          "paragraphIndent": {
-            "value": 0,
-            "type": "paragraphIndent",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{paragraphIndent.0}",
-              "type": "paragraphIndent"
-            },
-            "name": "mch_typography_headings_2_xl_h4_paragraph_indent",
-            "attributes": {
-              "category": "Typography",
-              "type": "Headings",
-              "item": "2XL",
-              "subitem": "H4",
-              "state": "paragraphIndent"
-            },
-            "path": [
-              "Typography",
-              "Headings",
-              "2XL",
-              "H4",
-              "paragraphIndent"
-            ]
-          },
-          "textCase": {
-            "value": "none",
-            "type": "textCase",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{textCase.none}",
-              "type": "textCase"
-            },
-            "name": "mch_typography_headings_2_xl_h4_text_case",
-            "attributes": {
-              "category": "Typography",
-              "type": "Headings",
-              "item": "2XL",
-              "subitem": "H4",
-              "state": "textCase"
-            },
-            "path": [
-              "Typography",
-              "Headings",
-              "2XL",
-              "H4",
-              "textCase"
-            ]
-          },
-          "textDecoration": {
-            "value": "none",
-            "type": "textDecoration",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{textDecoration.none}",
-              "type": "textDecoration"
-            },
-            "name": "mch_typography_headings_2_xl_h4_text_decoration",
-            "attributes": {
-              "category": "Typography",
-              "type": "Headings",
-              "item": "2XL",
-              "subitem": "H4",
-              "state": "textDecoration"
-            },
-            "path": [
-              "Typography",
-              "Headings",
-              "2XL",
-              "H4",
-              "textDecoration"
-            ]
-          }
-        },
-        "h5": {
-          "fontFamily": {
-            "value": "Art Basel Headline",
-            "type": "fontFamilies",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{fontFamilies.art-basel-headline}",
-              "type": "fontFamilies"
-            },
-            "name": "mch_typography_headings_2_xl_h5_font_family",
-            "attributes": {
-              "category": "Typography",
-              "type": "Headings",
-              "item": "2XL",
-              "subitem": "H5",
-              "state": "fontFamily"
-            },
-            "path": [
-              "Typography",
-              "Headings",
-              "2XL",
-              "H5",
-              "fontFamily"
-            ]
-          },
-          "fontWeight": {
-            "value": "700",
-            "type": "fontWeights",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{fontWeights.art-basel-headline-0}",
-              "type": "fontWeights"
-            },
-            "name": "mch_typography_headings_2_xl_h5_font_weight",
-            "attributes": {
-              "category": "Typography",
-              "type": "Headings",
-              "item": "2XL",
-              "subitem": "H5",
-              "state": "fontWeight"
-            },
-            "path": [
-              "Typography",
-              "Headings",
-              "2XL",
-              "H5",
-              "fontWeight"
-            ]
-          },
-          "lineHeight": {
-            "value": "1.3125rem",
-            "type": "lineHeights",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{lineHeights.4}",
-              "type": "lineHeights"
-            },
-            "name": "mch_typography_headings_2_xl_h5_line_height",
-            "attributes": {
-              "category": "Typography",
-              "type": "Headings",
-              "item": "2XL",
-              "subitem": "H5",
-              "state": "lineHeight"
-            },
-            "path": [
-              "Typography",
-              "Headings",
-              "2XL",
-              "H5",
-              "lineHeight"
-            ]
-          },
-          "fontSize": {
-            "value": "1.125rem",
-            "type": "fontSizes",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{fontSize.3}",
-              "type": "fontSizes"
-            },
-            "name": "mch_typography_headings_2_xl_h5_font_size",
-            "attributes": {
-              "category": "Typography",
-              "type": "Headings",
-              "item": "2XL",
-              "subitem": "H5",
-              "state": "fontSize"
-            },
-            "path": [
-              "Typography",
-              "Headings",
-              "2XL",
-              "H5",
-              "fontSize"
-            ]
-          },
-          "letterSpacing": {
-            "value": "0rem",
-            "type": "letterSpacing",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{letterSpacing.0}",
-              "type": "letterSpacing"
-            },
-            "name": "mch_typography_headings_2_xl_h5_letter_spacing",
-            "attributes": {
-              "category": "Typography",
-              "type": "Headings",
-              "item": "2XL",
-              "subitem": "H5",
-              "state": "letterSpacing"
-            },
-            "path": [
-              "Typography",
-              "Headings",
-              "2XL",
-              "H5",
-              "letterSpacing"
-            ]
-          },
-          "paragraphSpacing": {
-            "value": "0",
-            "type": "paragraphSpacing",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{paragraphSpacing.0}",
-              "type": "paragraphSpacing"
-            },
-            "name": "mch_typography_headings_2_xl_h5_paragraph_spacing",
-            "attributes": {
-              "category": "Typography",
-              "type": "Headings",
-              "item": "2XL",
-              "subitem": "H5",
-              "state": "paragraphSpacing"
-            },
-            "path": [
-              "Typography",
-              "Headings",
-              "2XL",
-              "H5",
-              "paragraphSpacing"
-            ]
-          },
-          "paragraphIndent": {
-            "value": 0,
-            "type": "paragraphIndent",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{paragraphIndent.0}",
-              "type": "paragraphIndent"
-            },
-            "name": "mch_typography_headings_2_xl_h5_paragraph_indent",
-            "attributes": {
-              "category": "Typography",
-              "type": "Headings",
-              "item": "2XL",
-              "subitem": "H5",
-              "state": "paragraphIndent"
-            },
-            "path": [
-              "Typography",
-              "Headings",
-              "2XL",
-              "H5",
-              "paragraphIndent"
-            ]
-          },
-          "textCase": {
-            "value": "none",
-            "type": "textCase",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{textCase.none}",
-              "type": "textCase"
-            },
-            "name": "mch_typography_headings_2_xl_h5_text_case",
-            "attributes": {
-              "category": "Typography",
-              "type": "Headings",
-              "item": "2XL",
-              "subitem": "H5",
-              "state": "textCase"
-            },
-            "path": [
-              "Typography",
-              "Headings",
-              "2XL",
-              "H5",
-              "textCase"
-            ]
-          },
-          "textDecoration": {
-            "value": "none",
-            "type": "textDecoration",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{textDecoration.none}",
-              "type": "textDecoration"
-            },
-            "name": "mch_typography_headings_2_xl_h5_text_decoration",
-            "attributes": {
-              "category": "Typography",
-              "type": "Headings",
-              "item": "2XL",
-              "subitem": "H5",
-              "state": "textDecoration"
-            },
-            "path": [
-              "Typography",
-              "Headings",
-              "2XL",
-              "H5",
-              "textDecoration"
-            ]
-          }
-        }
-      }
-    },
-    "paragraphs": {
-      "xsSm": {
-        "p1": {
-          "fontFamily": {
-            "value": "Art Basel Text",
-            "type": "fontFamilies",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{fontFamilies.art-basel-text}",
-              "type": "fontFamilies"
-            },
-            "name": "mch_typography_paragraphs_xs_sm_p1_font_family",
-            "attributes": {
-              "category": "Typography",
-              "type": "Paragraphs",
-              "item": "XS-SM",
-              "subitem": "P1",
-              "state": "fontFamily"
-            },
-            "path": [
-              "Typography",
-              "Paragraphs",
-              "XS-SM",
-              "P1",
-              "fontFamily"
-            ]
-          },
-          "fontWeight": {
-            "value": "400",
-            "type": "fontWeights",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{fontWeights.art-basel-text-1}",
-              "type": "fontWeights"
-            },
-            "name": "mch_typography_paragraphs_xs_sm_p1_font_weight",
-            "attributes": {
-              "category": "Typography",
-              "type": "Paragraphs",
-              "item": "XS-SM",
-              "subitem": "P1",
-              "state": "fontWeight"
-            },
-            "path": [
-              "Typography",
-              "Paragraphs",
-              "XS-SM",
-              "P1",
-              "fontWeight"
-            ]
-          },
-          "lineHeight": {
-            "value": "1.75rem",
-            "type": "lineHeights",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{lineHeights.2}",
-              "type": "lineHeights"
-            },
-            "name": "mch_typography_paragraphs_xs_sm_p1_line_height",
-            "attributes": {
-              "category": "Typography",
-              "type": "Paragraphs",
-              "item": "XS-SM",
-              "subitem": "P1",
-              "state": "lineHeight"
-            },
-            "path": [
-              "Typography",
-              "Paragraphs",
-              "XS-SM",
-              "P1",
-              "lineHeight"
-            ]
-          },
-          "fontSize": {
-            "value": "1.5rem",
-            "type": "fontSizes",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{fontSize.5}",
-              "type": "fontSizes"
-            },
-            "name": "mch_typography_paragraphs_xs_sm_p1_font_size",
-            "attributes": {
-              "category": "Typography",
-              "type": "Paragraphs",
-              "item": "XS-SM",
-              "subitem": "P1",
-              "state": "fontSize"
-            },
-            "path": [
-              "Typography",
-              "Paragraphs",
-              "XS-SM",
-              "P1",
-              "fontSize"
-            ]
-          },
-          "letterSpacing": {
-            "value": "0rem",
-            "type": "letterSpacing",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{letterSpacing.0}",
-              "type": "letterSpacing"
-            },
-            "name": "mch_typography_paragraphs_xs_sm_p1_letter_spacing",
-            "attributes": {
-              "category": "Typography",
-              "type": "Paragraphs",
-              "item": "XS-SM",
-              "subitem": "P1",
-              "state": "letterSpacing"
-            },
-            "path": [
-              "Typography",
-              "Paragraphs",
-              "XS-SM",
-              "P1",
-              "letterSpacing"
-            ]
-          },
-          "paragraphSpacing": {
-            "value": "0",
-            "type": "paragraphSpacing",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{paragraphSpacing.0}",
-              "type": "paragraphSpacing"
-            },
-            "name": "mch_typography_paragraphs_xs_sm_p1_paragraph_spacing",
-            "attributes": {
-              "category": "Typography",
-              "type": "Paragraphs",
-              "item": "XS-SM",
-              "subitem": "P1",
-              "state": "paragraphSpacing"
-            },
-            "path": [
-              "Typography",
-              "Paragraphs",
-              "XS-SM",
-              "P1",
-              "paragraphSpacing"
-            ]
-          },
-          "paragraphIndent": {
-            "value": 0,
-            "type": "paragraphIndent",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{paragraphIndent.0}",
-              "type": "paragraphIndent"
-            },
-            "name": "mch_typography_paragraphs_xs_sm_p1_paragraph_indent",
-            "attributes": {
-              "category": "Typography",
-              "type": "Paragraphs",
-              "item": "XS-SM",
-              "subitem": "P1",
-              "state": "paragraphIndent"
-            },
-            "path": [
-              "Typography",
-              "Paragraphs",
-              "XS-SM",
-              "P1",
-              "paragraphIndent"
-            ]
-          },
-          "textCase": {
-            "value": "none",
-            "type": "textCase",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{textCase.none}",
-              "type": "textCase"
-            },
-            "name": "mch_typography_paragraphs_xs_sm_p1_text_case",
-            "attributes": {
-              "category": "Typography",
-              "type": "Paragraphs",
-              "item": "XS-SM",
-              "subitem": "P1",
-              "state": "textCase"
-            },
-            "path": [
-              "Typography",
-              "Paragraphs",
-              "XS-SM",
-              "P1",
-              "textCase"
-            ]
-          },
-          "textDecoration": {
-            "value": "none",
-            "type": "textDecoration",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{textDecoration.none}",
-              "type": "textDecoration"
-            },
-            "name": "mch_typography_paragraphs_xs_sm_p1_text_decoration",
-            "attributes": {
-              "category": "Typography",
-              "type": "Paragraphs",
-              "item": "XS-SM",
-              "subitem": "P1",
-              "state": "textDecoration"
-            },
-            "path": [
-              "Typography",
-              "Paragraphs",
-              "XS-SM",
-              "P1",
-              "textDecoration"
-            ]
-          }
-        },
-        "p2": {
-          "fontFamily": {
-            "value": "Art Basel Text",
-            "type": "fontFamilies",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{fontFamilies.art-basel-text}",
-              "type": "fontFamilies"
-            },
-            "name": "mch_typography_paragraphs_xs_sm_p2_font_family",
-            "attributes": {
-              "category": "Typography",
-              "type": "Paragraphs",
-              "item": "XS-SM",
-              "subitem": "P2",
-              "state": "fontFamily"
-            },
-            "path": [
-              "Typography",
-              "Paragraphs",
-              "XS-SM",
-              "P2",
-              "fontFamily"
-            ]
-          },
-          "fontWeight": {
-            "value": "400",
-            "type": "fontWeights",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{fontWeights.art-basel-text-1}",
-              "type": "fontWeights"
-            },
-            "name": "mch_typography_paragraphs_xs_sm_p2_font_weight",
-            "attributes": {
-              "category": "Typography",
-              "type": "Paragraphs",
-              "item": "XS-SM",
-              "subitem": "P2",
-              "state": "fontWeight"
-            },
-            "path": [
-              "Typography",
-              "Paragraphs",
-              "XS-SM",
-              "P2",
-              "fontWeight"
-            ]
-          },
-          "lineHeight": {
-            "value": "1.4375rem",
-            "type": "lineHeights",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{lineHeights.3}",
-              "type": "lineHeights"
-            },
-            "name": "mch_typography_paragraphs_xs_sm_p2_line_height",
-            "attributes": {
-              "category": "Typography",
-              "type": "Paragraphs",
-              "item": "XS-SM",
-              "subitem": "P2",
-              "state": "lineHeight"
-            },
-            "path": [
-              "Typography",
-              "Paragraphs",
-              "XS-SM",
-              "P2",
-              "lineHeight"
-            ]
-          },
-          "fontSize": {
             "value": "1.25rem",
-            "type": "fontSizes",
-            "filePath": "src/global.json",
+            "type": "lineHeights",
+            "filePath": "src/Web-Typography.json",
             "isSource": true,
             "original": {
-              "value": "{fontSize.4}",
+              "value": "{line-height.20}",
+              "type": "lineHeights"
+            },
+            "name": "mch_screen_typography_title_standard_xlarge_line_height",
+            "attributes": {
+              "category": "typography",
+              "type": "title",
+              "item": "standard",
+              "subitem": "xlarge",
+              "state": "lineHeight"
+            },
+            "path": [
+              "typography",
+              "title",
+              "standard",
+              "xlarge",
+              "lineHeight"
+            ]
+          }
+        },
+        "large": {
+          "fontFamily": {
+            "value": "Art Basel Text Screen",
+            "type": "fontFamilies",
+            "filePath": "src/Web-Typography.json",
+            "isSource": true,
+            "original": {
+              "value": "{font-family.art-basel-text-screen}",
+              "type": "fontFamilies"
+            },
+            "name": "mch_screen_typography_title_standard_large_font_family",
+            "attributes": {
+              "category": "typography",
+              "type": "title",
+              "item": "standard",
+              "subitem": "large",
+              "state": "fontFamily"
+            },
+            "path": [
+              "typography",
+              "title",
+              "standard",
+              "large",
+              "fontFamily"
+            ]
+          },
+          "fontWeight": {
+            "value": "700",
+            "type": "fontWeights",
+            "filePath": "src/Web-Typography.json",
+            "isSource": true,
+            "original": {
+              "value": "{font-weight.bold}",
+              "type": "fontWeights"
+            },
+            "name": "mch_screen_typography_title_standard_large_font_weight",
+            "attributes": {
+              "category": "typography",
+              "type": "title",
+              "item": "standard",
+              "subitem": "large",
+              "state": "fontWeight"
+            },
+            "path": [
+              "typography",
+              "title",
+              "standard",
+              "large",
+              "fontWeight"
+            ]
+          },
+          "fontSize": {
+            "value": "1.125rem",
+            "type": "fontSizes",
+            "filePath": "src/Web-Typography.json",
+            "isSource": true,
+            "original": {
+              "value": "{font-size.18}",
               "type": "fontSizes"
             },
-            "name": "mch_typography_paragraphs_xs_sm_p2_font_size",
+            "name": "mch_screen_typography_title_standard_large_font_size",
             "attributes": {
-              "category": "Typography",
-              "type": "Paragraphs",
-              "item": "XS-SM",
-              "subitem": "P2",
+              "category": "typography",
+              "type": "title",
+              "item": "standard",
+              "subitem": "large",
               "state": "fontSize"
             },
             "path": [
-              "Typography",
-              "Paragraphs",
-              "XS-SM",
-              "P2",
+              "typography",
+              "title",
+              "standard",
+              "large",
               "fontSize"
             ]
           },
-          "letterSpacing": {
-            "value": "0rem",
-            "type": "letterSpacing",
-            "filePath": "src/global.json",
+          "lineHeight": {
+            "value": "1.125rem",
+            "type": "lineHeights",
+            "filePath": "src/Web-Typography.json",
             "isSource": true,
             "original": {
-              "value": "{letterSpacing.0}",
-              "type": "letterSpacing"
+              "value": "{line-height.18}",
+              "type": "lineHeights"
             },
-            "name": "mch_typography_paragraphs_xs_sm_p2_letter_spacing",
+            "name": "mch_screen_typography_title_standard_large_line_height",
             "attributes": {
-              "category": "Typography",
-              "type": "Paragraphs",
-              "item": "XS-SM",
-              "subitem": "P2",
-              "state": "letterSpacing"
+              "category": "typography",
+              "type": "title",
+              "item": "standard",
+              "subitem": "large",
+              "state": "lineHeight"
             },
             "path": [
-              "Typography",
-              "Paragraphs",
-              "XS-SM",
-              "P2",
-              "letterSpacing"
+              "typography",
+              "title",
+              "standard",
+              "large",
+              "lineHeight"
+            ]
+          }
+        },
+        "medium": {
+          "fontFamily": {
+            "value": "Art Basel Text Screen",
+            "type": "fontFamilies",
+            "filePath": "src/Web-Typography.json",
+            "isSource": true,
+            "original": {
+              "value": "{font-family.art-basel-text-screen}",
+              "type": "fontFamilies"
+            },
+            "name": "mch_screen_typography_title_standard_medium_font_family",
+            "attributes": {
+              "category": "typography",
+              "type": "title",
+              "item": "standard",
+              "subitem": "medium",
+              "state": "fontFamily"
+            },
+            "path": [
+              "typography",
+              "title",
+              "standard",
+              "medium",
+              "fontFamily"
             ]
           },
-          "paragraphSpacing": {
-            "value": "0",
-            "type": "paragraphSpacing",
-            "filePath": "src/global.json",
+          "fontWeight": {
+            "value": "700",
+            "type": "fontWeights",
+            "filePath": "src/Web-Typography.json",
             "isSource": true,
             "original": {
-              "value": "{paragraphSpacing.0}",
-              "type": "paragraphSpacing"
+              "value": "{font-weight.bold}",
+              "type": "fontWeights"
             },
-            "name": "mch_typography_paragraphs_xs_sm_p2_paragraph_spacing",
+            "name": "mch_screen_typography_title_standard_medium_font_weight",
             "attributes": {
-              "category": "Typography",
-              "type": "Paragraphs",
-              "item": "XS-SM",
-              "subitem": "P2",
-              "state": "paragraphSpacing"
+              "category": "typography",
+              "type": "title",
+              "item": "standard",
+              "subitem": "medium",
+              "state": "fontWeight"
             },
             "path": [
-              "Typography",
-              "Paragraphs",
-              "XS-SM",
-              "P2",
-              "paragraphSpacing"
+              "typography",
+              "title",
+              "standard",
+              "medium",
+              "fontWeight"
             ]
           },
-          "paragraphIndent": {
-            "value": 0,
-            "type": "paragraphIndent",
-            "filePath": "src/global.json",
+          "fontSize": {
+            "value": "1rem",
+            "type": "fontSizes",
+            "filePath": "src/Web-Typography.json",
             "isSource": true,
             "original": {
-              "value": "{paragraphIndent.0}",
-              "type": "paragraphIndent"
+              "value": "{font-size.16}",
+              "type": "fontSizes"
             },
-            "name": "mch_typography_paragraphs_xs_sm_p2_paragraph_indent",
+            "name": "mch_screen_typography_title_standard_medium_font_size",
             "attributes": {
-              "category": "Typography",
-              "type": "Paragraphs",
-              "item": "XS-SM",
-              "subitem": "P2",
-              "state": "paragraphIndent"
+              "category": "typography",
+              "type": "title",
+              "item": "standard",
+              "subitem": "medium",
+              "state": "fontSize"
             },
             "path": [
-              "Typography",
-              "Paragraphs",
-              "XS-SM",
-              "P2",
-              "paragraphIndent"
+              "typography",
+              "title",
+              "standard",
+              "medium",
+              "fontSize"
             ]
           },
-          "textCase": {
-            "value": "none",
-            "type": "textCase",
-            "filePath": "src/global.json",
+          "lineHeight": {
+            "value": "1rem",
+            "type": "lineHeights",
+            "filePath": "src/Web-Typography.json",
             "isSource": true,
             "original": {
-              "value": "{textCase.none}",
-              "type": "textCase"
+              "value": "{line-height.16}",
+              "type": "lineHeights"
             },
-            "name": "mch_typography_paragraphs_xs_sm_p2_text_case",
+            "name": "mch_screen_typography_title_standard_medium_line_height",
             "attributes": {
-              "category": "Typography",
-              "type": "Paragraphs",
-              "item": "XS-SM",
-              "subitem": "P2",
-              "state": "textCase"
+              "category": "typography",
+              "type": "title",
+              "item": "standard",
+              "subitem": "medium",
+              "state": "lineHeight"
             },
             "path": [
-              "Typography",
-              "Paragraphs",
-              "XS-SM",
-              "P2",
-              "textCase"
+              "typography",
+              "title",
+              "standard",
+              "medium",
+              "lineHeight"
+            ]
+          }
+        },
+        "small": {
+          "fontFamily": {
+            "value": "Art Basel Text Screen",
+            "type": "fontFamilies",
+            "filePath": "src/Web-Typography.json",
+            "isSource": true,
+            "original": {
+              "value": "{font-family.art-basel-text-screen}",
+              "type": "fontFamilies"
+            },
+            "name": "mch_screen_typography_title_standard_small_font_family",
+            "attributes": {
+              "category": "typography",
+              "type": "title",
+              "item": "standard",
+              "subitem": "small",
+              "state": "fontFamily"
+            },
+            "path": [
+              "typography",
+              "title",
+              "standard",
+              "small",
+              "fontFamily"
             ]
           },
-          "textDecoration": {
-            "value": "none",
-            "type": "textDecoration",
-            "filePath": "src/global.json",
+          "fontWeight": {
+            "value": "700",
+            "type": "fontWeights",
+            "filePath": "src/Web-Typography.json",
             "isSource": true,
             "original": {
-              "value": "{textDecoration.none}",
-              "type": "textDecoration"
+              "value": "{font-weight.bold}",
+              "type": "fontWeights"
             },
-            "name": "mch_typography_paragraphs_xs_sm_p2_text_decoration",
+            "name": "mch_screen_typography_title_standard_small_font_weight",
             "attributes": {
-              "category": "Typography",
-              "type": "Paragraphs",
-              "item": "XS-SM",
-              "subitem": "P2",
-              "state": "textDecoration"
+              "category": "typography",
+              "type": "title",
+              "item": "standard",
+              "subitem": "small",
+              "state": "fontWeight"
             },
             "path": [
-              "Typography",
-              "Paragraphs",
-              "XS-SM",
-              "P2",
-              "textDecoration"
+              "typography",
+              "title",
+              "standard",
+              "small",
+              "fontWeight"
+            ]
+          },
+          "fontSize": {
+            "value": "0.8125rem",
+            "type": "fontSizes",
+            "filePath": "src/Web-Typography.json",
+            "isSource": true,
+            "original": {
+              "value": "{font-size.13}",
+              "type": "fontSizes"
+            },
+            "name": "mch_screen_typography_title_standard_small_font_size",
+            "attributes": {
+              "category": "typography",
+              "type": "title",
+              "item": "standard",
+              "subitem": "small",
+              "state": "fontSize"
+            },
+            "path": [
+              "typography",
+              "title",
+              "standard",
+              "small",
+              "fontSize"
+            ]
+          },
+          "lineHeight": {
+            "value": "0.8125rem",
+            "type": "lineHeights",
+            "filePath": "src/Web-Typography.json",
+            "isSource": true,
+            "original": {
+              "value": "{line-height.13}",
+              "type": "lineHeights"
+            },
+            "name": "mch_screen_typography_title_standard_small_line_height",
+            "attributes": {
+              "category": "typography",
+              "type": "title",
+              "item": "standard",
+              "subitem": "small",
+              "state": "lineHeight"
+            },
+            "path": [
+              "typography",
+              "title",
+              "standard",
+              "small",
+              "lineHeight"
             ]
           }
         }
       },
-      "xl": {
-        "p1": {
+      "spaced": {
+        "large": {
           "fontFamily": {
-            "value": "Art Basel Text",
+            "value": "Art Basel Text Screen",
             "type": "fontFamilies",
-            "filePath": "src/global.json",
+            "filePath": "src/Web-Typography.json",
             "isSource": true,
             "original": {
-              "value": "{fontFamilies.art-basel-text}",
+              "value": "{font-family.art-basel-text-screen}",
               "type": "fontFamilies"
             },
-            "name": "mch_typography_paragraphs_xl_p1_font_family",
+            "name": "mch_screen_typography_title_spaced_large_font_family",
             "attributes": {
-              "category": "Typography",
-              "type": "Paragraphs",
-              "item": "XL",
-              "subitem": "P1",
+              "category": "typography",
+              "type": "title",
+              "item": "spaced",
+              "subitem": "large",
               "state": "fontFamily"
             },
             "path": [
-              "Typography",
-              "Paragraphs",
-              "XL",
-              "P1",
+              "typography",
+              "title",
+              "spaced",
+              "large",
               "fontFamily"
             ]
           },
           "fontWeight": {
-            "value": "400",
+            "value": "700",
             "type": "fontWeights",
-            "filePath": "src/global.json",
+            "filePath": "src/Web-Typography.json",
             "isSource": true,
             "original": {
-              "value": "{fontWeights.art-basel-text-1}",
+              "value": "{font-weight.bold}",
               "type": "fontWeights"
             },
-            "name": "mch_typography_paragraphs_xl_p1_font_weight",
+            "name": "mch_screen_typography_title_spaced_large_font_weight",
             "attributes": {
-              "category": "Typography",
-              "type": "Paragraphs",
-              "item": "XL",
-              "subitem": "P1",
+              "category": "typography",
+              "type": "title",
+              "item": "spaced",
+              "subitem": "large",
               "state": "fontWeight"
             },
             "path": [
-              "Typography",
-              "Paragraphs",
-              "XL",
-              "P1",
+              "typography",
+              "title",
+              "spaced",
+              "large",
               "fontWeight"
             ]
           },
-          "lineHeight": {
-            "value": "2.125rem",
-            "type": "lineHeights",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{lineHeights.7}",
-              "type": "lineHeights"
-            },
-            "name": "mch_typography_paragraphs_xl_p1_line_height",
-            "attributes": {
-              "category": "Typography",
-              "type": "Paragraphs",
-              "item": "XL",
-              "subitem": "P1",
-              "state": "lineHeight"
-            },
-            "path": [
-              "Typography",
-              "Paragraphs",
-              "XL",
-              "P1",
-              "lineHeight"
-            ]
-          },
-          "fontSize": {
-            "value": "1.875rem",
-            "type": "fontSizes",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{fontSize.7}",
-              "type": "fontSizes"
-            },
-            "name": "mch_typography_paragraphs_xl_p1_font_size",
-            "attributes": {
-              "category": "Typography",
-              "type": "Paragraphs",
-              "item": "XL",
-              "subitem": "P1",
-              "state": "fontSize"
-            },
-            "path": [
-              "Typography",
-              "Paragraphs",
-              "XL",
-              "P1",
-              "fontSize"
-            ]
-          },
-          "letterSpacing": {
-            "value": "0rem",
-            "type": "letterSpacing",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{letterSpacing.0}",
-              "type": "letterSpacing"
-            },
-            "name": "mch_typography_paragraphs_xl_p1_letter_spacing",
-            "attributes": {
-              "category": "Typography",
-              "type": "Paragraphs",
-              "item": "XL",
-              "subitem": "P1",
-              "state": "letterSpacing"
-            },
-            "path": [
-              "Typography",
-              "Paragraphs",
-              "XL",
-              "P1",
-              "letterSpacing"
-            ]
-          },
-          "paragraphSpacing": {
-            "value": "0",
-            "type": "paragraphSpacing",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{paragraphSpacing.0}",
-              "type": "paragraphSpacing"
-            },
-            "name": "mch_typography_paragraphs_xl_p1_paragraph_spacing",
-            "attributes": {
-              "category": "Typography",
-              "type": "Paragraphs",
-              "item": "XL",
-              "subitem": "P1",
-              "state": "paragraphSpacing"
-            },
-            "path": [
-              "Typography",
-              "Paragraphs",
-              "XL",
-              "P1",
-              "paragraphSpacing"
-            ]
-          },
-          "paragraphIndent": {
-            "value": 0,
-            "type": "paragraphIndent",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{paragraphIndent.0}",
-              "type": "paragraphIndent"
-            },
-            "name": "mch_typography_paragraphs_xl_p1_paragraph_indent",
-            "attributes": {
-              "category": "Typography",
-              "type": "Paragraphs",
-              "item": "XL",
-              "subitem": "P1",
-              "state": "paragraphIndent"
-            },
-            "path": [
-              "Typography",
-              "Paragraphs",
-              "XL",
-              "P1",
-              "paragraphIndent"
-            ]
-          },
           "textCase": {
-            "value": "none",
+            "value": "uppercase",
             "type": "textCase",
-            "filePath": "src/global.json",
+            "filePath": "src/Web-Typography.json",
             "isSource": true,
             "original": {
-              "value": "{textCase.none}",
+              "value": "{text-case.uppercase}",
               "type": "textCase"
             },
-            "name": "mch_typography_paragraphs_xl_p1_text_case",
+            "name": "mch_screen_typography_title_spaced_large_text_case",
             "attributes": {
-              "category": "Typography",
-              "type": "Paragraphs",
-              "item": "XL",
-              "subitem": "P1",
+              "category": "typography",
+              "type": "title",
+              "item": "spaced",
+              "subitem": "large",
               "state": "textCase"
             },
             "path": [
-              "Typography",
-              "Paragraphs",
-              "XL",
-              "P1",
+              "typography",
+              "title",
+              "spaced",
+              "large",
               "textCase"
             ]
           },
-          "textDecoration": {
-            "value": "none",
-            "type": "textDecoration",
-            "filePath": "src/global.json",
+          "fontSize": {
+            "value": "0.9375rem",
+            "type": "fontSizes",
+            "filePath": "src/Web-Typography.json",
             "isSource": true,
             "original": {
-              "value": "{textDecoration.none}",
-              "type": "textDecoration"
+              "value": "{font-size.15}",
+              "type": "fontSizes"
             },
-            "name": "mch_typography_paragraphs_xl_p1_text_decoration",
+            "name": "mch_screen_typography_title_spaced_large_font_size",
             "attributes": {
-              "category": "Typography",
-              "type": "Paragraphs",
-              "item": "XL",
-              "subitem": "P1",
-              "state": "textDecoration"
+              "category": "typography",
+              "type": "title",
+              "item": "spaced",
+              "subitem": "large",
+              "state": "fontSize"
             },
             "path": [
-              "Typography",
-              "Paragraphs",
-              "XL",
-              "P1",
-              "textDecoration"
+              "typography",
+              "title",
+              "spaced",
+              "large",
+              "fontSize"
+            ]
+          },
+          "lineHeight": {
+            "value": "1.0625rem",
+            "type": "lineHeights",
+            "filePath": "src/Web-Typography.json",
+            "isSource": true,
+            "original": {
+              "value": "{line-height.17}",
+              "type": "lineHeights"
+            },
+            "name": "mch_screen_typography_title_spaced_large_line_height",
+            "attributes": {
+              "category": "typography",
+              "type": "title",
+              "item": "spaced",
+              "subitem": "large",
+              "state": "lineHeight"
+            },
+            "path": [
+              "typography",
+              "title",
+              "spaced",
+              "large",
+              "lineHeight"
+            ]
+          },
+          "letterSpacing": {
+            "value": "0.125rem",
+            "type": "letterSpacing",
+            "filePath": "src/Web-Typography.json",
+            "isSource": true,
+            "original": {
+              "value": "{letter-spacing.20}",
+              "type": "letterSpacing"
+            },
+            "name": "mch_screen_typography_title_spaced_large_letter_spacing",
+            "attributes": {
+              "category": "typography",
+              "type": "title",
+              "item": "spaced",
+              "subitem": "large",
+              "state": "letterSpacing"
+            },
+            "path": [
+              "typography",
+              "title",
+              "spaced",
+              "large",
+              "letterSpacing"
             ]
           }
         },
-        "p2": {
+        "medium": {
           "fontFamily": {
-            "value": "Art Basel Text",
+            "value": "Art Basel Text Screen",
             "type": "fontFamilies",
-            "filePath": "src/global.json",
+            "filePath": "src/Web-Typography.json",
             "isSource": true,
             "original": {
-              "value": "{fontFamilies.art-basel-text}",
+              "value": "{font-family.art-basel-text-screen}",
               "type": "fontFamilies"
             },
-            "name": "mch_typography_paragraphs_xl_p2_font_family",
+            "name": "mch_screen_typography_title_spaced_medium_font_family",
             "attributes": {
-              "category": "Typography",
-              "type": "Paragraphs",
-              "item": "XL",
-              "subitem": "P2",
+              "category": "typography",
+              "type": "title",
+              "item": "spaced",
+              "subitem": "medium",
               "state": "fontFamily"
             },
             "path": [
-              "Typography",
-              "Paragraphs",
-              "XL",
-              "P2",
+              "typography",
+              "title",
+              "spaced",
+              "medium",
               "fontFamily"
             ]
           },
           "fontWeight": {
-            "value": "400",
+            "value": "700",
             "type": "fontWeights",
-            "filePath": "src/global.json",
+            "filePath": "src/Web-Typography.json",
             "isSource": true,
             "original": {
-              "value": "{fontWeights.art-basel-text-1}",
+              "value": "{font-weight.bold}",
               "type": "fontWeights"
             },
-            "name": "mch_typography_paragraphs_xl_p2_font_weight",
+            "name": "mch_screen_typography_title_spaced_medium_font_weight",
             "attributes": {
-              "category": "Typography",
-              "type": "Paragraphs",
-              "item": "XL",
-              "subitem": "P2",
+              "category": "typography",
+              "type": "title",
+              "item": "spaced",
+              "subitem": "medium",
               "state": "fontWeight"
             },
             "path": [
-              "Typography",
-              "Paragraphs",
-              "XL",
-              "P2",
+              "typography",
+              "title",
+              "spaced",
+              "medium",
               "fontWeight"
             ]
           },
-          "lineHeight": {
-            "value": "1.75rem",
-            "type": "lineHeights",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{lineHeights.2}",
-              "type": "lineHeights"
-            },
-            "name": "mch_typography_paragraphs_xl_p2_line_height",
-            "attributes": {
-              "category": "Typography",
-              "type": "Paragraphs",
-              "item": "XL",
-              "subitem": "P2",
-              "state": "lineHeight"
-            },
-            "path": [
-              "Typography",
-              "Paragraphs",
-              "XL",
-              "P2",
-              "lineHeight"
-            ]
-          },
           "fontSize": {
-            "value": "1.5rem",
+            "value": "0.75rem",
             "type": "fontSizes",
-            "filePath": "src/global.json",
+            "filePath": "src/Web-Typography.json",
             "isSource": true,
             "original": {
-              "value": "{fontSize.5}",
+              "value": "{font-size.12}",
               "type": "fontSizes"
             },
-            "name": "mch_typography_paragraphs_xl_p2_font_size",
+            "name": "mch_screen_typography_title_spaced_medium_font_size",
             "attributes": {
-              "category": "Typography",
-              "type": "Paragraphs",
-              "item": "XL",
-              "subitem": "P2",
+              "category": "typography",
+              "type": "title",
+              "item": "spaced",
+              "subitem": "medium",
               "state": "fontSize"
             },
             "path": [
-              "Typography",
-              "Paragraphs",
-              "XL",
-              "P2",
+              "typography",
+              "title",
+              "spaced",
+              "medium",
               "fontSize"
             ]
           },
-          "letterSpacing": {
-            "value": "0rem",
-            "type": "letterSpacing",
-            "filePath": "src/global.json",
+          "lineHeight": {
+            "value": "0.875rem",
+            "type": "lineHeights",
+            "filePath": "src/Web-Typography.json",
             "isSource": true,
             "original": {
-              "value": "{letterSpacing.0}",
-              "type": "letterSpacing"
+              "value": "{line-height.14}",
+              "type": "lineHeights"
             },
-            "name": "mch_typography_paragraphs_xl_p2_letter_spacing",
+            "name": "mch_screen_typography_title_spaced_medium_line_height",
             "attributes": {
-              "category": "Typography",
-              "type": "Paragraphs",
-              "item": "XL",
-              "subitem": "P2",
-              "state": "letterSpacing"
+              "category": "typography",
+              "type": "title",
+              "item": "spaced",
+              "subitem": "medium",
+              "state": "lineHeight"
             },
             "path": [
-              "Typography",
-              "Paragraphs",
-              "XL",
-              "P2",
-              "letterSpacing"
-            ]
-          },
-          "paragraphSpacing": {
-            "value": "0",
-            "type": "paragraphSpacing",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{paragraphSpacing.0}",
-              "type": "paragraphSpacing"
-            },
-            "name": "mch_typography_paragraphs_xl_p2_paragraph_spacing",
-            "attributes": {
-              "category": "Typography",
-              "type": "Paragraphs",
-              "item": "XL",
-              "subitem": "P2",
-              "state": "paragraphSpacing"
-            },
-            "path": [
-              "Typography",
-              "Paragraphs",
-              "XL",
-              "P2",
-              "paragraphSpacing"
-            ]
-          },
-          "paragraphIndent": {
-            "value": 0,
-            "type": "paragraphIndent",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{paragraphIndent.0}",
-              "type": "paragraphIndent"
-            },
-            "name": "mch_typography_paragraphs_xl_p2_paragraph_indent",
-            "attributes": {
-              "category": "Typography",
-              "type": "Paragraphs",
-              "item": "XL",
-              "subitem": "P2",
-              "state": "paragraphIndent"
-            },
-            "path": [
-              "Typography",
-              "Paragraphs",
-              "XL",
-              "P2",
-              "paragraphIndent"
+              "typography",
+              "title",
+              "spaced",
+              "medium",
+              "lineHeight"
             ]
           },
           "textCase": {
-            "value": "none",
+            "value": "uppercase",
             "type": "textCase",
-            "filePath": "src/global.json",
+            "filePath": "src/Web-Typography.json",
             "isSource": true,
             "original": {
-              "value": "{textCase.none}",
+              "value": "{text-case.uppercase}",
               "type": "textCase"
             },
-            "name": "mch_typography_paragraphs_xl_p2_text_case",
+            "name": "mch_screen_typography_title_spaced_medium_text_case",
             "attributes": {
-              "category": "Typography",
-              "type": "Paragraphs",
-              "item": "XL",
-              "subitem": "P2",
+              "category": "typography",
+              "type": "title",
+              "item": "spaced",
+              "subitem": "medium",
               "state": "textCase"
             },
             "path": [
-              "Typography",
-              "Paragraphs",
-              "XL",
-              "P2",
+              "typography",
+              "title",
+              "spaced",
+              "medium",
               "textCase"
             ]
           },
-          "textDecoration": {
-            "value": "none",
-            "type": "textDecoration",
-            "filePath": "src/global.json",
+          "letterSpacing": {
+            "value": "0.09375rem",
+            "type": "letterSpacing",
+            "filePath": "src/Web-Typography.json",
             "isSource": true,
             "original": {
-              "value": "{textDecoration.none}",
-              "type": "textDecoration"
+              "value": "{letter-spacing.15}",
+              "type": "letterSpacing"
             },
-            "name": "mch_typography_paragraphs_xl_p2_text_decoration",
+            "name": "mch_screen_typography_title_spaced_medium_letter_spacing",
             "attributes": {
-              "category": "Typography",
-              "type": "Paragraphs",
-              "item": "XL",
-              "subitem": "P2",
-              "state": "textDecoration"
+              "category": "typography",
+              "type": "title",
+              "item": "spaced",
+              "subitem": "medium",
+              "state": "letterSpacing"
             },
             "path": [
-              "Typography",
-              "Paragraphs",
-              "XL",
-              "P2",
-              "textDecoration"
+              "typography",
+              "title",
+              "spaced",
+              "medium",
+              "letterSpacing"
             ]
           }
-        }
-      },
-      "md": {
-        "p1": {
+        },
+        "small": {
           "fontFamily": {
-            "value": "Art Basel Text",
+            "value": "Art Basel Text Screen",
             "type": "fontFamilies",
-            "filePath": "src/global.json",
+            "filePath": "src/Web-Typography.json",
             "isSource": true,
             "original": {
-              "value": "{fontFamilies.art-basel-text}",
+              "value": "{font-family.art-basel-text-screen}",
               "type": "fontFamilies"
             },
-            "name": "mch_typography_paragraphs_md_p1_font_family",
+            "name": "mch_screen_typography_title_spaced_small_font_family",
             "attributes": {
-              "category": "Typography",
-              "type": "Paragraphs",
-              "item": "MD",
-              "subitem": "P1",
+              "category": "typography",
+              "type": "title",
+              "item": "spaced",
+              "subitem": "small",
               "state": "fontFamily"
             },
             "path": [
-              "Typography",
-              "Paragraphs",
-              "MD",
-              "P1",
+              "typography",
+              "title",
+              "spaced",
+              "small",
               "fontFamily"
             ]
           },
           "fontWeight": {
-            "value": "400",
+            "value": "700",
             "type": "fontWeights",
-            "filePath": "src/global.json",
+            "filePath": "src/Web-Typography.json",
             "isSource": true,
             "original": {
-              "value": "{fontWeights.art-basel-text-1}",
+              "value": "{font-weight.bold}",
               "type": "fontWeights"
             },
-            "name": "mch_typography_paragraphs_md_p1_font_weight",
+            "name": "mch_screen_typography_title_spaced_small_font_weight",
             "attributes": {
-              "category": "Typography",
-              "type": "Paragraphs",
-              "item": "MD",
-              "subitem": "P1",
+              "category": "typography",
+              "type": "title",
+              "item": "spaced",
+              "subitem": "small",
               "state": "fontWeight"
             },
             "path": [
-              "Typography",
-              "Paragraphs",
-              "MD",
-              "P1",
+              "typography",
+              "title",
+              "spaced",
+              "small",
               "fontWeight"
             ]
           },
-          "lineHeight": {
-            "value": "2.125rem",
-            "type": "lineHeights",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{lineHeights.7}",
-              "type": "lineHeights"
-            },
-            "name": "mch_typography_paragraphs_md_p1_line_height",
-            "attributes": {
-              "category": "Typography",
-              "type": "Paragraphs",
-              "item": "MD",
-              "subitem": "P1",
-              "state": "lineHeight"
-            },
-            "path": [
-              "Typography",
-              "Paragraphs",
-              "MD",
-              "P1",
-              "lineHeight"
-            ]
-          },
           "fontSize": {
-            "value": "1.875rem",
+            "value": "0.6875rem",
             "type": "fontSizes",
-            "filePath": "src/global.json",
+            "filePath": "src/Web-Typography.json",
             "isSource": true,
             "original": {
-              "value": "{fontSize.7}",
+              "value": "{font-size.11}",
               "type": "fontSizes"
             },
-            "name": "mch_typography_paragraphs_md_p1_font_size",
+            "name": "mch_screen_typography_title_spaced_small_font_size",
             "attributes": {
-              "category": "Typography",
-              "type": "Paragraphs",
-              "item": "MD",
-              "subitem": "P1",
+              "category": "typography",
+              "type": "title",
+              "item": "spaced",
+              "subitem": "small",
               "state": "fontSize"
             },
             "path": [
-              "Typography",
-              "Paragraphs",
-              "MD",
-              "P1",
+              "typography",
+              "title",
+              "spaced",
+              "small",
               "fontSize"
-            ]
-          },
-          "letterSpacing": {
-            "value": "0rem",
-            "type": "letterSpacing",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{letterSpacing.0}",
-              "type": "letterSpacing"
-            },
-            "name": "mch_typography_paragraphs_md_p1_letter_spacing",
-            "attributes": {
-              "category": "Typography",
-              "type": "Paragraphs",
-              "item": "MD",
-              "subitem": "P1",
-              "state": "letterSpacing"
-            },
-            "path": [
-              "Typography",
-              "Paragraphs",
-              "MD",
-              "P1",
-              "letterSpacing"
-            ]
-          },
-          "paragraphSpacing": {
-            "value": "4",
-            "type": "paragraphSpacing",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{paragraphSpacing.1}",
-              "type": "paragraphSpacing"
-            },
-            "name": "mch_typography_paragraphs_md_p1_paragraph_spacing",
-            "attributes": {
-              "category": "Typography",
-              "type": "Paragraphs",
-              "item": "MD",
-              "subitem": "P1",
-              "state": "paragraphSpacing"
-            },
-            "path": [
-              "Typography",
-              "Paragraphs",
-              "MD",
-              "P1",
-              "paragraphSpacing"
-            ]
-          },
-          "paragraphIndent": {
-            "value": 0,
-            "type": "paragraphIndent",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{paragraphIndent.0}",
-              "type": "paragraphIndent"
-            },
-            "name": "mch_typography_paragraphs_md_p1_paragraph_indent",
-            "attributes": {
-              "category": "Typography",
-              "type": "Paragraphs",
-              "item": "MD",
-              "subitem": "P1",
-              "state": "paragraphIndent"
-            },
-            "path": [
-              "Typography",
-              "Paragraphs",
-              "MD",
-              "P1",
-              "paragraphIndent"
-            ]
-          },
-          "textCase": {
-            "value": "none",
-            "type": "textCase",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{textCase.none}",
-              "type": "textCase"
-            },
-            "name": "mch_typography_paragraphs_md_p1_text_case",
-            "attributes": {
-              "category": "Typography",
-              "type": "Paragraphs",
-              "item": "MD",
-              "subitem": "P1",
-              "state": "textCase"
-            },
-            "path": [
-              "Typography",
-              "Paragraphs",
-              "MD",
-              "P1",
-              "textCase"
-            ]
-          },
-          "textDecoration": {
-            "value": "none",
-            "type": "textDecoration",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{textDecoration.none}",
-              "type": "textDecoration"
-            },
-            "name": "mch_typography_paragraphs_md_p1_text_decoration",
-            "attributes": {
-              "category": "Typography",
-              "type": "Paragraphs",
-              "item": "MD",
-              "subitem": "P1",
-              "state": "textDecoration"
-            },
-            "path": [
-              "Typography",
-              "Paragraphs",
-              "MD",
-              "P1",
-              "textDecoration"
-            ]
-          }
-        },
-        "p2": {
-          "fontFamily": {
-            "value": "Art Basel Text",
-            "type": "fontFamilies",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{fontFamilies.art-basel-text}",
-              "type": "fontFamilies"
-            },
-            "name": "mch_typography_paragraphs_md_p2_font_family",
-            "attributes": {
-              "category": "Typography",
-              "type": "Paragraphs",
-              "item": "MD",
-              "subitem": "P2",
-              "state": "fontFamily"
-            },
-            "path": [
-              "Typography",
-              "Paragraphs",
-              "MD",
-              "P2",
-              "fontFamily"
-            ]
-          },
-          "fontWeight": {
-            "value": "400",
-            "type": "fontWeights",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{fontWeights.art-basel-text-1}",
-              "type": "fontWeights"
-            },
-            "name": "mch_typography_paragraphs_md_p2_font_weight",
-            "attributes": {
-              "category": "Typography",
-              "type": "Paragraphs",
-              "item": "MD",
-              "subitem": "P2",
-              "state": "fontWeight"
-            },
-            "path": [
-              "Typography",
-              "Paragraphs",
-              "MD",
-              "P2",
-              "fontWeight"
             ]
           },
           "lineHeight": {
-            "value": "1.75rem",
+            "value": "0.75rem",
             "type": "lineHeights",
-            "filePath": "src/global.json",
+            "filePath": "src/Web-Typography.json",
             "isSource": true,
             "original": {
-              "value": "{lineHeights.2}",
+              "value": "{line-height.12}",
               "type": "lineHeights"
             },
-            "name": "mch_typography_paragraphs_md_p2_line_height",
+            "name": "mch_screen_typography_title_spaced_small_line_height",
             "attributes": {
-              "category": "Typography",
-              "type": "Paragraphs",
-              "item": "MD",
-              "subitem": "P2",
+              "category": "typography",
+              "type": "title",
+              "item": "spaced",
+              "subitem": "small",
               "state": "lineHeight"
             },
             "path": [
-              "Typography",
-              "Paragraphs",
-              "MD",
-              "P2",
+              "typography",
+              "title",
+              "spaced",
+              "small",
               "lineHeight"
             ]
           },
-          "fontSize": {
-            "value": "1.5rem",
-            "type": "fontSizes",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{fontSize.5}",
-              "type": "fontSizes"
-            },
-            "name": "mch_typography_paragraphs_md_p2_font_size",
-            "attributes": {
-              "category": "Typography",
-              "type": "Paragraphs",
-              "item": "MD",
-              "subitem": "P2",
-              "state": "fontSize"
-            },
-            "path": [
-              "Typography",
-              "Paragraphs",
-              "MD",
-              "P2",
-              "fontSize"
-            ]
-          },
           "letterSpacing": {
-            "value": "0rem",
+            "value": "0.0625rem",
             "type": "letterSpacing",
-            "filePath": "src/global.json",
+            "filePath": "src/Web-Typography.json",
             "isSource": true,
             "original": {
-              "value": "{letterSpacing.0}",
+              "value": "{letter-spacing.10}",
               "type": "letterSpacing"
             },
-            "name": "mch_typography_paragraphs_md_p2_letter_spacing",
+            "name": "mch_screen_typography_title_spaced_small_letter_spacing",
             "attributes": {
-              "category": "Typography",
-              "type": "Paragraphs",
-              "item": "MD",
-              "subitem": "P2",
+              "category": "typography",
+              "type": "title",
+              "item": "spaced",
+              "subitem": "small",
               "state": "letterSpacing"
             },
             "path": [
-              "Typography",
-              "Paragraphs",
-              "MD",
-              "P2",
+              "typography",
+              "title",
+              "spaced",
+              "small",
               "letterSpacing"
             ]
           },
-          "paragraphSpacing": {
-            "value": "4",
-            "type": "paragraphSpacing",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{paragraphSpacing.1}",
-              "type": "paragraphSpacing"
-            },
-            "name": "mch_typography_paragraphs_md_p2_paragraph_spacing",
-            "attributes": {
-              "category": "Typography",
-              "type": "Paragraphs",
-              "item": "MD",
-              "subitem": "P2",
-              "state": "paragraphSpacing"
-            },
-            "path": [
-              "Typography",
-              "Paragraphs",
-              "MD",
-              "P2",
-              "paragraphSpacing"
-            ]
-          },
-          "paragraphIndent": {
-            "value": 0,
-            "type": "paragraphIndent",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{paragraphIndent.0}",
-              "type": "paragraphIndent"
-            },
-            "name": "mch_typography_paragraphs_md_p2_paragraph_indent",
-            "attributes": {
-              "category": "Typography",
-              "type": "Paragraphs",
-              "item": "MD",
-              "subitem": "P2",
-              "state": "paragraphIndent"
-            },
-            "path": [
-              "Typography",
-              "Paragraphs",
-              "MD",
-              "P2",
-              "paragraphIndent"
-            ]
-          },
           "textCase": {
-            "value": "none",
+            "value": "uppercase",
             "type": "textCase",
-            "filePath": "src/global.json",
+            "filePath": "src/Web-Typography.json",
             "isSource": true,
             "original": {
-              "value": "{textCase.none}",
+              "value": "{text-case.uppercase}",
               "type": "textCase"
             },
-            "name": "mch_typography_paragraphs_md_p2_text_case",
+            "name": "mch_screen_typography_title_spaced_small_text_case",
             "attributes": {
-              "category": "Typography",
-              "type": "Paragraphs",
-              "item": "MD",
-              "subitem": "P2",
+              "category": "typography",
+              "type": "title",
+              "item": "spaced",
+              "subitem": "small",
               "state": "textCase"
             },
             "path": [
-              "Typography",
-              "Paragraphs",
-              "MD",
-              "P2",
+              "typography",
+              "title",
+              "spaced",
+              "small",
               "textCase"
             ]
-          },
-          "textDecoration": {
-            "value": "none",
-            "type": "textDecoration",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{textDecoration.none}",
-              "type": "textDecoration"
-            },
-            "name": "mch_typography_paragraphs_md_p2_text_decoration",
-            "attributes": {
-              "category": "Typography",
-              "type": "Paragraphs",
-              "item": "MD",
-              "subitem": "P2",
-              "state": "textDecoration"
-            },
-            "path": [
-              "Typography",
-              "Paragraphs",
-              "MD",
-              "P2",
-              "textDecoration"
-            ]
           }
-        }
-      },
-      "lg": {
-        "p1": {
-          "fontFamily": {
-            "value": "Art Basel Text",
-            "type": "fontFamilies",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{fontFamilies.art-basel-text}",
-              "type": "fontFamilies"
-            },
-            "name": "mch_typography_paragraphs_lg_p1_font_family",
-            "attributes": {
-              "category": "Typography",
-              "type": "Paragraphs",
-              "item": "LG",
-              "subitem": "P1",
-              "state": "fontFamily"
-            },
-            "path": [
-              "Typography",
-              "Paragraphs",
-              "LG",
-              "P1",
-              "fontFamily"
-            ]
-          },
-          "fontWeight": {
-            "value": "400",
-            "type": "fontWeights",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{fontWeights.art-basel-text-1}",
-              "type": "fontWeights"
-            },
-            "name": "mch_typography_paragraphs_lg_p1_font_weight",
-            "attributes": {
-              "category": "Typography",
-              "type": "Paragraphs",
-              "item": "LG",
-              "subitem": "P1",
-              "state": "fontWeight"
-            },
-            "path": [
-              "Typography",
-              "Paragraphs",
-              "LG",
-              "P1",
-              "fontWeight"
-            ]
-          },
-          "lineHeight": {
-            "value": "2.125rem",
-            "type": "lineHeights",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{lineHeights.7}",
-              "type": "lineHeights"
-            },
-            "name": "mch_typography_paragraphs_lg_p1_line_height",
-            "attributes": {
-              "category": "Typography",
-              "type": "Paragraphs",
-              "item": "LG",
-              "subitem": "P1",
-              "state": "lineHeight"
-            },
-            "path": [
-              "Typography",
-              "Paragraphs",
-              "LG",
-              "P1",
-              "lineHeight"
-            ]
-          },
-          "fontSize": {
-            "value": "1.875rem",
-            "type": "fontSizes",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{fontSize.7}",
-              "type": "fontSizes"
-            },
-            "name": "mch_typography_paragraphs_lg_p1_font_size",
-            "attributes": {
-              "category": "Typography",
-              "type": "Paragraphs",
-              "item": "LG",
-              "subitem": "P1",
-              "state": "fontSize"
-            },
-            "path": [
-              "Typography",
-              "Paragraphs",
-              "LG",
-              "P1",
-              "fontSize"
-            ]
-          },
-          "letterSpacing": {
-            "value": "0rem",
-            "type": "letterSpacing",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{letterSpacing.0}",
-              "type": "letterSpacing"
-            },
-            "name": "mch_typography_paragraphs_lg_p1_letter_spacing",
-            "attributes": {
-              "category": "Typography",
-              "type": "Paragraphs",
-              "item": "LG",
-              "subitem": "P1",
-              "state": "letterSpacing"
-            },
-            "path": [
-              "Typography",
-              "Paragraphs",
-              "LG",
-              "P1",
-              "letterSpacing"
-            ]
-          },
-          "paragraphSpacing": {
-            "value": "4",
-            "type": "paragraphSpacing",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{paragraphSpacing.1}",
-              "type": "paragraphSpacing"
-            },
-            "name": "mch_typography_paragraphs_lg_p1_paragraph_spacing",
-            "attributes": {
-              "category": "Typography",
-              "type": "Paragraphs",
-              "item": "LG",
-              "subitem": "P1",
-              "state": "paragraphSpacing"
-            },
-            "path": [
-              "Typography",
-              "Paragraphs",
-              "LG",
-              "P1",
-              "paragraphSpacing"
-            ]
-          },
-          "paragraphIndent": {
-            "value": 0,
-            "type": "paragraphIndent",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{paragraphIndent.0}",
-              "type": "paragraphIndent"
-            },
-            "name": "mch_typography_paragraphs_lg_p1_paragraph_indent",
-            "attributes": {
-              "category": "Typography",
-              "type": "Paragraphs",
-              "item": "LG",
-              "subitem": "P1",
-              "state": "paragraphIndent"
-            },
-            "path": [
-              "Typography",
-              "Paragraphs",
-              "LG",
-              "P1",
-              "paragraphIndent"
-            ]
-          },
-          "textCase": {
-            "value": "none",
-            "type": "textCase",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{textCase.none}",
-              "type": "textCase"
-            },
-            "name": "mch_typography_paragraphs_lg_p1_text_case",
-            "attributes": {
-              "category": "Typography",
-              "type": "Paragraphs",
-              "item": "LG",
-              "subitem": "P1",
-              "state": "textCase"
-            },
-            "path": [
-              "Typography",
-              "Paragraphs",
-              "LG",
-              "P1",
-              "textCase"
-            ]
-          },
-          "textDecoration": {
-            "value": "none",
-            "type": "textDecoration",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{textDecoration.none}",
-              "type": "textDecoration"
-            },
-            "name": "mch_typography_paragraphs_lg_p1_text_decoration",
-            "attributes": {
-              "category": "Typography",
-              "type": "Paragraphs",
-              "item": "LG",
-              "subitem": "P1",
-              "state": "textDecoration"
-            },
-            "path": [
-              "Typography",
-              "Paragraphs",
-              "LG",
-              "P1",
-              "textDecoration"
-            ]
-          }
-        },
-        "p2": {
-          "fontFamily": {
-            "value": "Art Basel Text",
-            "type": "fontFamilies",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{fontFamilies.art-basel-text}",
-              "type": "fontFamilies"
-            },
-            "name": "mch_typography_paragraphs_lg_p2_font_family",
-            "attributes": {
-              "category": "Typography",
-              "type": "Paragraphs",
-              "item": "LG",
-              "subitem": "P2",
-              "state": "fontFamily"
-            },
-            "path": [
-              "Typography",
-              "Paragraphs",
-              "LG",
-              "P2",
-              "fontFamily"
-            ]
-          },
-          "fontWeight": {
-            "value": "400",
-            "type": "fontWeights",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{fontWeights.art-basel-text-1}",
-              "type": "fontWeights"
-            },
-            "name": "mch_typography_paragraphs_lg_p2_font_weight",
-            "attributes": {
-              "category": "Typography",
-              "type": "Paragraphs",
-              "item": "LG",
-              "subitem": "P2",
-              "state": "fontWeight"
-            },
-            "path": [
-              "Typography",
-              "Paragraphs",
-              "LG",
-              "P2",
-              "fontWeight"
-            ]
-          },
-          "lineHeight": {
-            "value": "1.75rem",
-            "type": "lineHeights",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{lineHeights.2}",
-              "type": "lineHeights"
-            },
-            "name": "mch_typography_paragraphs_lg_p2_line_height",
-            "attributes": {
-              "category": "Typography",
-              "type": "Paragraphs",
-              "item": "LG",
-              "subitem": "P2",
-              "state": "lineHeight"
-            },
-            "path": [
-              "Typography",
-              "Paragraphs",
-              "LG",
-              "P2",
-              "lineHeight"
-            ]
-          },
-          "fontSize": {
-            "value": "1.5rem",
-            "type": "fontSizes",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{fontSize.5}",
-              "type": "fontSizes"
-            },
-            "name": "mch_typography_paragraphs_lg_p2_font_size",
-            "attributes": {
-              "category": "Typography",
-              "type": "Paragraphs",
-              "item": "LG",
-              "subitem": "P2",
-              "state": "fontSize"
-            },
-            "path": [
-              "Typography",
-              "Paragraphs",
-              "LG",
-              "P2",
-              "fontSize"
-            ]
-          },
-          "letterSpacing": {
-            "value": "0rem",
-            "type": "letterSpacing",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{letterSpacing.0}",
-              "type": "letterSpacing"
-            },
-            "name": "mch_typography_paragraphs_lg_p2_letter_spacing",
-            "attributes": {
-              "category": "Typography",
-              "type": "Paragraphs",
-              "item": "LG",
-              "subitem": "P2",
-              "state": "letterSpacing"
-            },
-            "path": [
-              "Typography",
-              "Paragraphs",
-              "LG",
-              "P2",
-              "letterSpacing"
-            ]
-          },
-          "paragraphSpacing": {
-            "value": "4",
-            "type": "paragraphSpacing",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{paragraphSpacing.1}",
-              "type": "paragraphSpacing"
-            },
-            "name": "mch_typography_paragraphs_lg_p2_paragraph_spacing",
-            "attributes": {
-              "category": "Typography",
-              "type": "Paragraphs",
-              "item": "LG",
-              "subitem": "P2",
-              "state": "paragraphSpacing"
-            },
-            "path": [
-              "Typography",
-              "Paragraphs",
-              "LG",
-              "P2",
-              "paragraphSpacing"
-            ]
-          },
-          "paragraphIndent": {
-            "value": 0,
-            "type": "paragraphIndent",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{paragraphIndent.0}",
-              "type": "paragraphIndent"
-            },
-            "name": "mch_typography_paragraphs_lg_p2_paragraph_indent",
-            "attributes": {
-              "category": "Typography",
-              "type": "Paragraphs",
-              "item": "LG",
-              "subitem": "P2",
-              "state": "paragraphIndent"
-            },
-            "path": [
-              "Typography",
-              "Paragraphs",
-              "LG",
-              "P2",
-              "paragraphIndent"
-            ]
-          },
-          "textCase": {
-            "value": "none",
-            "type": "textCase",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{textCase.none}",
-              "type": "textCase"
-            },
-            "name": "mch_typography_paragraphs_lg_p2_text_case",
-            "attributes": {
-              "category": "Typography",
-              "type": "Paragraphs",
-              "item": "LG",
-              "subitem": "P2",
-              "state": "textCase"
-            },
-            "path": [
-              "Typography",
-              "Paragraphs",
-              "LG",
-              "P2",
-              "textCase"
-            ]
-          },
-          "textDecoration": {
-            "value": "none",
-            "type": "textDecoration",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{textDecoration.none}",
-              "type": "textDecoration"
-            },
-            "name": "mch_typography_paragraphs_lg_p2_text_decoration",
-            "attributes": {
-              "category": "Typography",
-              "type": "Paragraphs",
-              "item": "LG",
-              "subitem": "P2",
-              "state": "textDecoration"
-            },
-            "path": [
-              "Typography",
-              "Paragraphs",
-              "LG",
-              "P2",
-              "textDecoration"
-            ]
-          }
-        }
-      }
-    },
-    "headingsFixed": {
-      "01": {
-        "fontFamily": {
-          "value": "Art Basel Headline",
-          "type": "fontFamilies",
-          "filePath": "src/global.json",
-          "isSource": true,
-          "original": {
-            "value": "{fontFamilies.art-basel-headline}",
-            "type": "fontFamilies"
-          },
-          "name": "mch_typography_headings_fixed_01_font_family",
-          "attributes": {
-            "category": "Typography",
-            "type": "Headings (fixed)",
-            "item": "01",
-            "subitem": "fontFamily"
-          },
-          "path": [
-            "Typography",
-            "Headings (fixed)",
-            "01",
-            "fontFamily"
-          ]
-        },
-        "fontWeight": {
-          "value": "700",
-          "type": "fontWeights",
-          "filePath": "src/global.json",
-          "isSource": true,
-          "original": {
-            "value": "{fontWeights.art-basel-headline-0}",
-            "type": "fontWeights"
-          },
-          "name": "mch_typography_headings_fixed_01_font_weight",
-          "attributes": {
-            "category": "Typography",
-            "type": "Headings (fixed)",
-            "item": "01",
-            "subitem": "fontWeight"
-          },
-          "path": [
-            "Typography",
-            "Headings (fixed)",
-            "01",
-            "fontWeight"
-          ]
-        },
-        "lineHeight": {
-          "value": "1.3125rem",
-          "type": "lineHeights",
-          "filePath": "src/global.json",
-          "isSource": true,
-          "original": {
-            "value": "{lineHeights.4}",
-            "type": "lineHeights"
-          },
-          "name": "mch_typography_headings_fixed_01_line_height",
-          "attributes": {
-            "category": "Typography",
-            "type": "Headings (fixed)",
-            "item": "01",
-            "subitem": "lineHeight"
-          },
-          "path": [
-            "Typography",
-            "Headings (fixed)",
-            "01",
-            "lineHeight"
-          ]
-        },
-        "fontSize": {
-          "value": "1.125rem",
-          "type": "fontSizes",
-          "filePath": "src/global.json",
-          "isSource": true,
-          "original": {
-            "value": "{fontSize.3}",
-            "type": "fontSizes"
-          },
-          "name": "mch_typography_headings_fixed_01_font_size",
-          "attributes": {
-            "category": "Typography",
-            "type": "Headings (fixed)",
-            "item": "01",
-            "subitem": "fontSize"
-          },
-          "path": [
-            "Typography",
-            "Headings (fixed)",
-            "01",
-            "fontSize"
-          ]
-        },
-        "letterSpacing": {
-          "value": "0.25rem",
-          "type": "letterSpacing",
-          "filePath": "src/global.json",
-          "isSource": true,
-          "original": {
-            "value": "{letterSpacing.3}",
-            "type": "letterSpacing"
-          },
-          "name": "mch_typography_headings_fixed_01_letter_spacing",
-          "attributes": {
-            "category": "Typography",
-            "type": "Headings (fixed)",
-            "item": "01",
-            "subitem": "letterSpacing"
-          },
-          "path": [
-            "Typography",
-            "Headings (fixed)",
-            "01",
-            "letterSpacing"
-          ]
-        },
-        "paragraphSpacing": {
-          "value": "0",
-          "type": "paragraphSpacing",
-          "filePath": "src/global.json",
-          "isSource": true,
-          "original": {
-            "value": "{paragraphSpacing.0}",
-            "type": "paragraphSpacing"
-          },
-          "name": "mch_typography_headings_fixed_01_paragraph_spacing",
-          "attributes": {
-            "category": "Typography",
-            "type": "Headings (fixed)",
-            "item": "01",
-            "subitem": "paragraphSpacing"
-          },
-          "path": [
-            "Typography",
-            "Headings (fixed)",
-            "01",
-            "paragraphSpacing"
-          ]
-        },
-        "paragraphIndent": {
-          "value": 0,
-          "type": "paragraphIndent",
-          "filePath": "src/global.json",
-          "isSource": true,
-          "original": {
-            "value": "{paragraphIndent.0}",
-            "type": "paragraphIndent"
-          },
-          "name": "mch_typography_headings_fixed_01_paragraph_indent",
-          "attributes": {
-            "category": "Typography",
-            "type": "Headings (fixed)",
-            "item": "01",
-            "subitem": "paragraphIndent"
-          },
-          "path": [
-            "Typography",
-            "Headings (fixed)",
-            "01",
-            "paragraphIndent"
-          ]
-        },
-        "textCase": {
-          "value": "uppercase",
-          "type": "textCase",
-          "filePath": "src/global.json",
-          "isSource": true,
-          "original": {
-            "value": "{textCase.uppercase}",
-            "type": "textCase"
-          },
-          "name": "mch_typography_headings_fixed_01_text_case",
-          "attributes": {
-            "category": "Typography",
-            "type": "Headings (fixed)",
-            "item": "01",
-            "subitem": "textCase"
-          },
-          "path": [
-            "Typography",
-            "Headings (fixed)",
-            "01",
-            "textCase"
-          ]
-        },
-        "textDecoration": {
-          "value": "none",
-          "type": "textDecoration",
-          "filePath": "src/global.json",
-          "isSource": true,
-          "original": {
-            "value": "{textDecoration.none}",
-            "type": "textDecoration"
-          },
-          "name": "mch_typography_headings_fixed_01_text_decoration",
-          "attributes": {
-            "category": "Typography",
-            "type": "Headings (fixed)",
-            "item": "01",
-            "subitem": "textDecoration"
-          },
-          "path": [
-            "Typography",
-            "Headings (fixed)",
-            "01",
-            "textDecoration"
-          ]
-        }
-      },
-      "02": {
-        "fontFamily": {
-          "value": "Art Basel Headline",
-          "type": "fontFamilies",
-          "filePath": "src/global.json",
-          "isSource": true,
-          "original": {
-            "value": "{fontFamilies.art-basel-headline}",
-            "type": "fontFamilies"
-          },
-          "name": "mch_typography_headings_fixed_02_font_family",
-          "attributes": {
-            "category": "Typography",
-            "type": "Headings (fixed)",
-            "item": "02",
-            "subitem": "fontFamily"
-          },
-          "path": [
-            "Typography",
-            "Headings (fixed)",
-            "02",
-            "fontFamily"
-          ]
-        },
-        "fontWeight": {
-          "value": "700",
-          "type": "fontWeights",
-          "filePath": "src/global.json",
-          "isSource": true,
-          "original": {
-            "value": "{fontWeights.art-basel-headline-0}",
-            "type": "fontWeights"
-          },
-          "name": "mch_typography_headings_fixed_02_font_weight",
-          "attributes": {
-            "category": "Typography",
-            "type": "Headings (fixed)",
-            "item": "02",
-            "subitem": "fontWeight"
-          },
-          "path": [
-            "Typography",
-            "Headings (fixed)",
-            "02",
-            "fontWeight"
-          ]
-        },
-        "lineHeight": {
-          "value": "1.125rem",
-          "type": "lineHeights",
-          "filePath": "src/global.json",
-          "isSource": true,
-          "original": {
-            "value": "{lineHeights.11}",
-            "type": "lineHeights"
-          },
-          "name": "mch_typography_headings_fixed_02_line_height",
-          "attributes": {
-            "category": "Typography",
-            "type": "Headings (fixed)",
-            "item": "02",
-            "subitem": "lineHeight"
-          },
-          "path": [
-            "Typography",
-            "Headings (fixed)",
-            "02",
-            "lineHeight"
-          ]
-        },
-        "fontSize": {
-          "value": "0.875rem",
-          "type": "fontSizes",
-          "filePath": "src/global.json",
-          "isSource": true,
-          "original": {
-            "value": "{fontSize.1}",
-            "type": "fontSizes"
-          },
-          "name": "mch_typography_headings_fixed_02_font_size",
-          "attributes": {
-            "category": "Typography",
-            "type": "Headings (fixed)",
-            "item": "02",
-            "subitem": "fontSize"
-          },
-          "path": [
-            "Typography",
-            "Headings (fixed)",
-            "02",
-            "fontSize"
-          ]
-        },
-        "letterSpacing": {
-          "value": "0.0625rem",
-          "type": "letterSpacing",
-          "filePath": "src/global.json",
-          "isSource": true,
-          "original": {
-            "value": "{letterSpacing.2}",
-            "type": "letterSpacing"
-          },
-          "name": "mch_typography_headings_fixed_02_letter_spacing",
-          "attributes": {
-            "category": "Typography",
-            "type": "Headings (fixed)",
-            "item": "02",
-            "subitem": "letterSpacing"
-          },
-          "path": [
-            "Typography",
-            "Headings (fixed)",
-            "02",
-            "letterSpacing"
-          ]
-        },
-        "paragraphSpacing": {
-          "value": "0",
-          "type": "paragraphSpacing",
-          "filePath": "src/global.json",
-          "isSource": true,
-          "original": {
-            "value": "{paragraphSpacing.0}",
-            "type": "paragraphSpacing"
-          },
-          "name": "mch_typography_headings_fixed_02_paragraph_spacing",
-          "attributes": {
-            "category": "Typography",
-            "type": "Headings (fixed)",
-            "item": "02",
-            "subitem": "paragraphSpacing"
-          },
-          "path": [
-            "Typography",
-            "Headings (fixed)",
-            "02",
-            "paragraphSpacing"
-          ]
-        },
-        "paragraphIndent": {
-          "value": 0,
-          "type": "paragraphIndent",
-          "filePath": "src/global.json",
-          "isSource": true,
-          "original": {
-            "value": "{paragraphIndent.0}",
-            "type": "paragraphIndent"
-          },
-          "name": "mch_typography_headings_fixed_02_paragraph_indent",
-          "attributes": {
-            "category": "Typography",
-            "type": "Headings (fixed)",
-            "item": "02",
-            "subitem": "paragraphIndent"
-          },
-          "path": [
-            "Typography",
-            "Headings (fixed)",
-            "02",
-            "paragraphIndent"
-          ]
-        },
-        "textCase": {
-          "value": "uppercase",
-          "type": "textCase",
-          "filePath": "src/global.json",
-          "isSource": true,
-          "original": {
-            "value": "{textCase.uppercase}",
-            "type": "textCase"
-          },
-          "name": "mch_typography_headings_fixed_02_text_case",
-          "attributes": {
-            "category": "Typography",
-            "type": "Headings (fixed)",
-            "item": "02",
-            "subitem": "textCase"
-          },
-          "path": [
-            "Typography",
-            "Headings (fixed)",
-            "02",
-            "textCase"
-          ]
-        },
-        "textDecoration": {
-          "value": "none",
-          "type": "textDecoration",
-          "filePath": "src/global.json",
-          "isSource": true,
-          "original": {
-            "value": "{textDecoration.none}",
-            "type": "textDecoration"
-          },
-          "name": "mch_typography_headings_fixed_02_text_decoration",
-          "attributes": {
-            "category": "Typography",
-            "type": "Headings (fixed)",
-            "item": "02",
-            "subitem": "textDecoration"
-          },
-          "path": [
-            "Typography",
-            "Headings (fixed)",
-            "02",
-            "textDecoration"
-          ]
         }
       }
     },
     "body": {
-      "textLarge": {
+      "large": {
         "fontFamily": {
-          "value": "Art Basel Text",
+          "value": "Art Basel Text Screen",
           "type": "fontFamilies",
-          "filePath": "src/global.json",
+          "filePath": "src/Web-Typography.json",
           "isSource": true,
           "original": {
-            "value": "{fontFamilies.art-basel-text}",
+            "value": "{font-family.art-basel-text-screen}",
             "type": "fontFamilies"
           },
-          "name": "mch_typography_body_text_large_font_family",
+          "name": "mch_screen_typography_body_large_font_family",
           "attributes": {
-            "category": "Typography",
-            "type": "Body",
-            "item": "Text - Large",
+            "category": "typography",
+            "type": "body",
+            "item": "large",
             "subitem": "fontFamily"
           },
           "path": [
-            "Typography",
-            "Body",
-            "Text - Large",
+            "typography",
+            "body",
+            "large",
             "fontFamily"
           ]
         },
         "fontWeight": {
           "value": "400",
           "type": "fontWeights",
-          "filePath": "src/global.json",
+          "filePath": "src/Web-Typography.json",
           "isSource": true,
           "original": {
-            "value": "{fontWeights.art-basel-text-1}",
+            "value": "{font-weight.regular}",
             "type": "fontWeights"
           },
-          "name": "mch_typography_body_text_large_font_weight",
+          "name": "mch_screen_typography_body_large_font_weight",
           "attributes": {
-            "category": "Typography",
-            "type": "Body",
-            "item": "Text - Large",
+            "category": "typography",
+            "type": "body",
+            "item": "large",
             "subitem": "fontWeight"
           },
           "path": [
-            "Typography",
-            "Body",
-            "Text - Large",
+            "typography",
+            "body",
+            "large",
             "fontWeight"
+          ]
+        },
+        "fontSize": {
+          "value": "1.125rem",
+          "type": "fontSizes",
+          "filePath": "src/Web-Typography.json",
+          "isSource": true,
+          "original": {
+            "value": "{font-size.18}",
+            "type": "fontSizes"
+          },
+          "name": "mch_screen_typography_body_large_font_size",
+          "attributes": {
+            "category": "typography",
+            "type": "body",
+            "item": "large",
+            "subitem": "fontSize"
+          },
+          "path": [
+            "typography",
+            "body",
+            "large",
+            "fontSize"
           ]
         },
         "lineHeight": {
           "value": "1.5rem",
           "type": "lineHeights",
-          "filePath": "src/global.json",
+          "filePath": "src/Web-Typography.json",
           "isSource": true,
           "original": {
-            "value": "{lineHeights.12}",
+            "value": "{line-height.24}",
             "type": "lineHeights"
           },
-          "name": "mch_typography_body_text_large_line_height",
+          "name": "mch_screen_typography_body_large_line_height",
           "attributes": {
-            "category": "Typography",
-            "type": "Body",
-            "item": "Text - Large",
+            "category": "typography",
+            "type": "body",
+            "item": "large",
             "subitem": "lineHeight"
           },
           "path": [
-            "Typography",
-            "Body",
-            "Text - Large",
+            "typography",
+            "body",
+            "large",
             "lineHeight"
-          ]
-        },
-        "fontSize": {
-          "value": "1.125rem",
-          "type": "fontSizes",
-          "filePath": "src/global.json",
-          "isSource": true,
-          "original": {
-            "value": "{fontSize.3}",
-            "type": "fontSizes"
-          },
-          "name": "mch_typography_body_text_large_font_size",
-          "attributes": {
-            "category": "Typography",
-            "type": "Body",
-            "item": "Text - Large",
-            "subitem": "fontSize"
-          },
-          "path": [
-            "Typography",
-            "Body",
-            "Text - Large",
-            "fontSize"
-          ]
-        },
-        "letterSpacing": {
-          "value": "0rem",
-          "type": "letterSpacing",
-          "filePath": "src/global.json",
-          "isSource": true,
-          "original": {
-            "value": "{letterSpacing.0}",
-            "type": "letterSpacing"
-          },
-          "name": "mch_typography_body_text_large_letter_spacing",
-          "attributes": {
-            "category": "Typography",
-            "type": "Body",
-            "item": "Text - Large",
-            "subitem": "letterSpacing"
-          },
-          "path": [
-            "Typography",
-            "Body",
-            "Text - Large",
-            "letterSpacing"
-          ]
-        },
-        "paragraphSpacing": {
-          "value": "0",
-          "type": "paragraphSpacing",
-          "filePath": "src/global.json",
-          "isSource": true,
-          "original": {
-            "value": "{paragraphSpacing.0}",
-            "type": "paragraphSpacing"
-          },
-          "name": "mch_typography_body_text_large_paragraph_spacing",
-          "attributes": {
-            "category": "Typography",
-            "type": "Body",
-            "item": "Text - Large",
-            "subitem": "paragraphSpacing"
-          },
-          "path": [
-            "Typography",
-            "Body",
-            "Text - Large",
-            "paragraphSpacing"
-          ]
-        },
-        "paragraphIndent": {
-          "value": 0,
-          "type": "paragraphIndent",
-          "filePath": "src/global.json",
-          "isSource": true,
-          "original": {
-            "value": "{paragraphIndent.0}",
-            "type": "paragraphIndent"
-          },
-          "name": "mch_typography_body_text_large_paragraph_indent",
-          "attributes": {
-            "category": "Typography",
-            "type": "Body",
-            "item": "Text - Large",
-            "subitem": "paragraphIndent"
-          },
-          "path": [
-            "Typography",
-            "Body",
-            "Text - Large",
-            "paragraphIndent"
-          ]
-        },
-        "textCase": {
-          "value": "none",
-          "type": "textCase",
-          "filePath": "src/global.json",
-          "isSource": true,
-          "original": {
-            "value": "{textCase.none}",
-            "type": "textCase"
-          },
-          "name": "mch_typography_body_text_large_text_case",
-          "attributes": {
-            "category": "Typography",
-            "type": "Body",
-            "item": "Text - Large",
-            "subitem": "textCase"
-          },
-          "path": [
-            "Typography",
-            "Body",
-            "Text - Large",
-            "textCase"
-          ]
-        },
-        "textDecoration": {
-          "value": "none",
-          "type": "textDecoration",
-          "filePath": "src/global.json",
-          "isSource": true,
-          "original": {
-            "value": "{textDecoration.none}",
-            "type": "textDecoration"
-          },
-          "name": "mch_typography_body_text_large_text_decoration",
-          "attributes": {
-            "category": "Typography",
-            "type": "Body",
-            "item": "Text - Large",
-            "subitem": "textDecoration"
-          },
-          "path": [
-            "Typography",
-            "Body",
-            "Text - Large",
-            "textDecoration"
           ]
         }
       },
-      "textMedium": {
+      "medium": {
         "fontFamily": {
-          "value": "Art Basel Text",
+          "value": "Art Basel Text Screen",
           "type": "fontFamilies",
-          "filePath": "src/global.json",
+          "filePath": "src/Web-Typography.json",
           "isSource": true,
           "original": {
-            "value": "{fontFamilies.art-basel-text}",
+            "value": "{font-family.art-basel-text-screen}",
             "type": "fontFamilies"
           },
-          "name": "mch_typography_body_text_medium_font_family",
+          "name": "mch_screen_typography_body_medium_font_family",
           "attributes": {
-            "category": "Typography",
-            "type": "Body",
-            "item": "Text - Medium",
+            "category": "typography",
+            "type": "body",
+            "item": "medium",
             "subitem": "fontFamily"
           },
           "path": [
-            "Typography",
-            "Body",
-            "Text - Medium",
+            "typography",
+            "body",
+            "medium",
             "fontFamily"
           ]
         },
         "fontWeight": {
           "value": "400",
           "type": "fontWeights",
-          "filePath": "src/global.json",
+          "filePath": "src/Web-Typography.json",
           "isSource": true,
           "original": {
-            "value": "{fontWeights.art-basel-text-1}",
+            "value": "{font-weight.regular}",
             "type": "fontWeights"
           },
-          "name": "mch_typography_body_text_medium_font_weight",
+          "name": "mch_screen_typography_body_medium_font_weight",
           "attributes": {
-            "category": "Typography",
-            "type": "Body",
-            "item": "Text - Medium",
+            "category": "typography",
+            "type": "body",
+            "item": "medium",
             "subitem": "fontWeight"
           },
           "path": [
-            "Typography",
-            "Body",
-            "Text - Medium",
+            "typography",
+            "body",
+            "medium",
             "fontWeight"
-          ]
-        },
-        "lineHeight": {
-          "value": "1.375rem",
-          "type": "lineHeights",
-          "filePath": "src/global.json",
-          "isSource": true,
-          "original": {
-            "value": "{lineHeights.13}",
-            "type": "lineHeights"
-          },
-          "name": "mch_typography_body_text_medium_line_height",
-          "attributes": {
-            "category": "Typography",
-            "type": "Body",
-            "item": "Text - Medium",
-            "subitem": "lineHeight"
-          },
-          "path": [
-            "Typography",
-            "Body",
-            "Text - Medium",
-            "lineHeight"
           ]
         },
         "fontSize": {
           "value": "1rem",
           "type": "fontSizes",
-          "filePath": "src/global.json",
+          "filePath": "src/Web-Typography.json",
           "isSource": true,
           "original": {
-            "value": "{fontSize.2}",
+            "value": "{font-size.16}",
             "type": "fontSizes"
           },
-          "name": "mch_typography_body_text_medium_font_size",
+          "name": "mch_screen_typography_body_medium_font_size",
           "attributes": {
-            "category": "Typography",
-            "type": "Body",
-            "item": "Text - Medium",
+            "category": "typography",
+            "type": "body",
+            "item": "medium",
             "subitem": "fontSize"
           },
           "path": [
-            "Typography",
-            "Body",
-            "Text - Medium",
+            "typography",
+            "body",
+            "medium",
             "fontSize"
           ]
         },
-        "letterSpacing": {
-          "value": "0rem",
-          "type": "letterSpacing",
-          "filePath": "src/global.json",
+        "lineHeight": {
+          "value": "1.5rem",
+          "type": "lineHeights",
+          "filePath": "src/Web-Typography.json",
           "isSource": true,
           "original": {
-            "value": "{letterSpacing.0}",
-            "type": "letterSpacing"
+            "value": "{line-height.24}",
+            "type": "lineHeights"
           },
-          "name": "mch_typography_body_text_medium_letter_spacing",
+          "name": "mch_screen_typography_body_medium_line_height",
           "attributes": {
-            "category": "Typography",
-            "type": "Body",
-            "item": "Text - Medium",
-            "subitem": "letterSpacing"
+            "category": "typography",
+            "type": "body",
+            "item": "medium",
+            "subitem": "lineHeight"
           },
           "path": [
-            "Typography",
-            "Body",
-            "Text - Medium",
-            "letterSpacing"
-          ]
-        },
-        "paragraphSpacing": {
-          "value": "0",
-          "type": "paragraphSpacing",
-          "filePath": "src/global.json",
-          "isSource": true,
-          "original": {
-            "value": "{paragraphSpacing.0}",
-            "type": "paragraphSpacing"
-          },
-          "name": "mch_typography_body_text_medium_paragraph_spacing",
-          "attributes": {
-            "category": "Typography",
-            "type": "Body",
-            "item": "Text - Medium",
-            "subitem": "paragraphSpacing"
-          },
-          "path": [
-            "Typography",
-            "Body",
-            "Text - Medium",
-            "paragraphSpacing"
-          ]
-        },
-        "paragraphIndent": {
-          "value": 0,
-          "type": "paragraphIndent",
-          "filePath": "src/global.json",
-          "isSource": true,
-          "original": {
-            "value": "{paragraphIndent.0}",
-            "type": "paragraphIndent"
-          },
-          "name": "mch_typography_body_text_medium_paragraph_indent",
-          "attributes": {
-            "category": "Typography",
-            "type": "Body",
-            "item": "Text - Medium",
-            "subitem": "paragraphIndent"
-          },
-          "path": [
-            "Typography",
-            "Body",
-            "Text - Medium",
-            "paragraphIndent"
-          ]
-        },
-        "textCase": {
-          "value": "none",
-          "type": "textCase",
-          "filePath": "src/global.json",
-          "isSource": true,
-          "original": {
-            "value": "{textCase.none}",
-            "type": "textCase"
-          },
-          "name": "mch_typography_body_text_medium_text_case",
-          "attributes": {
-            "category": "Typography",
-            "type": "Body",
-            "item": "Text - Medium",
-            "subitem": "textCase"
-          },
-          "path": [
-            "Typography",
-            "Body",
-            "Text - Medium",
-            "textCase"
-          ]
-        },
-        "textDecoration": {
-          "value": "none",
-          "type": "textDecoration",
-          "filePath": "src/global.json",
-          "isSource": true,
-          "original": {
-            "value": "{textDecoration.none}",
-            "type": "textDecoration"
-          },
-          "name": "mch_typography_body_text_medium_text_decoration",
-          "attributes": {
-            "category": "Typography",
-            "type": "Body",
-            "item": "Text - Medium",
-            "subitem": "textDecoration"
-          },
-          "path": [
-            "Typography",
-            "Body",
-            "Text - Medium",
-            "textDecoration"
+            "typography",
+            "body",
+            "medium",
+            "lineHeight"
           ]
         }
       },
-      "textSmall": {
+      "small": {
         "fontFamily": {
-          "value": "Art Basel Text",
+          "value": "Art Basel Text Screen",
           "type": "fontFamilies",
-          "filePath": "src/global.json",
+          "filePath": "src/Web-Typography.json",
           "isSource": true,
           "original": {
-            "value": "{fontFamilies.art-basel-text}",
+            "value": "{font-family.art-basel-text-screen}",
             "type": "fontFamilies"
           },
-          "name": "mch_typography_body_text_small_font_family",
+          "name": "mch_screen_typography_body_small_font_family",
           "attributes": {
-            "category": "Typography",
-            "type": "Body",
-            "item": "Text - Small",
+            "category": "typography",
+            "type": "body",
+            "item": "small",
             "subitem": "fontFamily"
           },
           "path": [
-            "Typography",
-            "Body",
-            "Text - Small",
+            "typography",
+            "body",
+            "small",
             "fontFamily"
           ]
         },
         "fontWeight": {
           "value": "400",
           "type": "fontWeights",
-          "filePath": "src/global.json",
+          "filePath": "src/Web-Typography.json",
           "isSource": true,
           "original": {
-            "value": "{fontWeights.art-basel-text-1}",
+            "value": "{font-weight.regular}",
             "type": "fontWeights"
           },
-          "name": "mch_typography_body_text_small_font_weight",
+          "name": "mch_screen_typography_body_small_font_weight",
           "attributes": {
-            "category": "Typography",
-            "type": "Body",
-            "item": "Text - Small",
+            "category": "typography",
+            "type": "body",
+            "item": "small",
             "subitem": "fontWeight"
           },
           "path": [
-            "Typography",
-            "Body",
-            "Text - Small",
+            "typography",
+            "body",
+            "small",
             "fontWeight"
           ]
         },
-        "lineHeight": {
-          "value": "1.125rem",
-          "type": "lineHeights",
-          "filePath": "src/global.json",
-          "isSource": true,
-          "original": {
-            "value": "{lineHeights.11}",
-            "type": "lineHeights"
-          },
-          "name": "mch_typography_body_text_small_line_height",
-          "attributes": {
-            "category": "Typography",
-            "type": "Body",
-            "item": "Text - Small",
-            "subitem": "lineHeight"
-          },
-          "path": [
-            "Typography",
-            "Body",
-            "Text - Small",
-            "lineHeight"
-          ]
-        },
         "fontSize": {
-          "value": "0.875rem",
+          "value": "0.8125rem",
           "type": "fontSizes",
-          "filePath": "src/global.json",
+          "filePath": "src/Web-Typography.json",
           "isSource": true,
           "original": {
-            "value": "{fontSize.1}",
+            "value": "{font-size.13}",
             "type": "fontSizes"
           },
-          "name": "mch_typography_body_text_small_font_size",
+          "name": "mch_screen_typography_body_small_font_size",
           "attributes": {
-            "category": "Typography",
-            "type": "Body",
-            "item": "Text - Small",
+            "category": "typography",
+            "type": "body",
+            "item": "small",
             "subitem": "fontSize"
           },
           "path": [
-            "Typography",
-            "Body",
-            "Text - Small",
+            "typography",
+            "body",
+            "small",
             "fontSize"
-          ]
-        },
-        "letterSpacing": {
-          "value": "0rem",
-          "type": "letterSpacing",
-          "filePath": "src/global.json",
-          "isSource": true,
-          "original": {
-            "value": "{letterSpacing.0}",
-            "type": "letterSpacing"
-          },
-          "name": "mch_typography_body_text_small_letter_spacing",
-          "attributes": {
-            "category": "Typography",
-            "type": "Body",
-            "item": "Text - Small",
-            "subitem": "letterSpacing"
-          },
-          "path": [
-            "Typography",
-            "Body",
-            "Text - Small",
-            "letterSpacing"
-          ]
-        },
-        "paragraphSpacing": {
-          "value": "0",
-          "type": "paragraphSpacing",
-          "filePath": "src/global.json",
-          "isSource": true,
-          "original": {
-            "value": "{paragraphSpacing.0}",
-            "type": "paragraphSpacing"
-          },
-          "name": "mch_typography_body_text_small_paragraph_spacing",
-          "attributes": {
-            "category": "Typography",
-            "type": "Body",
-            "item": "Text - Small",
-            "subitem": "paragraphSpacing"
-          },
-          "path": [
-            "Typography",
-            "Body",
-            "Text - Small",
-            "paragraphSpacing"
-          ]
-        },
-        "paragraphIndent": {
-          "value": 0,
-          "type": "paragraphIndent",
-          "filePath": "src/global.json",
-          "isSource": true,
-          "original": {
-            "value": "{paragraphIndent.0}",
-            "type": "paragraphIndent"
-          },
-          "name": "mch_typography_body_text_small_paragraph_indent",
-          "attributes": {
-            "category": "Typography",
-            "type": "Body",
-            "item": "Text - Small",
-            "subitem": "paragraphIndent"
-          },
-          "path": [
-            "Typography",
-            "Body",
-            "Text - Small",
-            "paragraphIndent"
-          ]
-        },
-        "textCase": {
-          "value": "none",
-          "type": "textCase",
-          "filePath": "src/global.json",
-          "isSource": true,
-          "original": {
-            "value": "{textCase.none}",
-            "type": "textCase"
-          },
-          "name": "mch_typography_body_text_small_text_case",
-          "attributes": {
-            "category": "Typography",
-            "type": "Body",
-            "item": "Text - Small",
-            "subitem": "textCase"
-          },
-          "path": [
-            "Typography",
-            "Body",
-            "Text - Small",
-            "textCase"
-          ]
-        },
-        "textDecoration": {
-          "value": "none",
-          "type": "textDecoration",
-          "filePath": "src/global.json",
-          "isSource": true,
-          "original": {
-            "value": "{textDecoration.none}",
-            "type": "textDecoration"
-          },
-          "name": "mch_typography_body_text_small_text_decoration",
-          "attributes": {
-            "category": "Typography",
-            "type": "Body",
-            "item": "Text - Small",
-            "subitem": "textDecoration"
-          },
-          "path": [
-            "Typography",
-            "Body",
-            "Text - Small",
-            "textDecoration"
-          ]
-        }
-      }
-    },
-    "supporting": {
-      "labelXLarge": {
-        "fontFamily": {
-          "value": "Art Basel Text",
-          "type": "fontFamilies",
-          "filePath": "src/global.json",
-          "isSource": true,
-          "original": {
-            "value": "{fontFamilies.art-basel-text}",
-            "type": "fontFamilies"
-          },
-          "name": "mch_typography_supporting_label_x_large_font_family",
-          "attributes": {
-            "category": "Typography",
-            "type": "Supporting",
-            "item": "Label - XLarge",
-            "subitem": "fontFamily"
-          },
-          "path": [
-            "Typography",
-            "Supporting",
-            "Label - XLarge",
-            "fontFamily"
-          ]
-        },
-        "fontWeight": {
-          "value": "700",
-          "type": "fontWeights",
-          "filePath": "src/global.json",
-          "isSource": true,
-          "original": {
-            "value": "{fontWeights.art-basel-text-2}",
-            "type": "fontWeights"
-          },
-          "name": "mch_typography_supporting_label_x_large_font_weight",
-          "attributes": {
-            "category": "Typography",
-            "type": "Supporting",
-            "item": "Label - XLarge",
-            "subitem": "fontWeight"
-          },
-          "path": [
-            "Typography",
-            "Supporting",
-            "Label - XLarge",
-            "fontWeight"
           ]
         },
         "lineHeight": {
-          "value": "1.375rem",
+          "value": "1.25rem",
           "type": "lineHeights",
-          "filePath": "src/global.json",
+          "filePath": "src/Web-Typography.json",
           "isSource": true,
           "original": {
-            "value": "{lineHeights.13}",
+            "value": "{line-height.20}",
             "type": "lineHeights"
           },
-          "name": "mch_typography_supporting_label_x_large_line_height",
+          "name": "mch_screen_typography_body_small_line_height",
           "attributes": {
-            "category": "Typography",
-            "type": "Supporting",
-            "item": "Label - XLarge",
+            "category": "typography",
+            "type": "body",
+            "item": "small",
             "subitem": "lineHeight"
           },
           "path": [
-            "Typography",
-            "Supporting",
-            "Label - XLarge",
+            "typography",
+            "body",
+            "small",
             "lineHeight"
-          ]
-        },
-        "fontSize": {
-          "value": "1rem",
-          "type": "fontSizes",
-          "filePath": "src/global.json",
-          "isSource": true,
-          "original": {
-            "value": "{fontSize.2}",
-            "type": "fontSizes"
-          },
-          "name": "mch_typography_supporting_label_x_large_font_size",
-          "attributes": {
-            "category": "Typography",
-            "type": "Supporting",
-            "item": "Label - XLarge",
-            "subitem": "fontSize"
-          },
-          "path": [
-            "Typography",
-            "Supporting",
-            "Label - XLarge",
-            "fontSize"
-          ]
-        },
-        "letterSpacing": {
-          "value": "0rem",
-          "type": "letterSpacing",
-          "filePath": "src/global.json",
-          "isSource": true,
-          "original": {
-            "value": "{letterSpacing.0}",
-            "type": "letterSpacing"
-          },
-          "name": "mch_typography_supporting_label_x_large_letter_spacing",
-          "attributes": {
-            "category": "Typography",
-            "type": "Supporting",
-            "item": "Label - XLarge",
-            "subitem": "letterSpacing"
-          },
-          "path": [
-            "Typography",
-            "Supporting",
-            "Label - XLarge",
-            "letterSpacing"
-          ]
-        },
-        "paragraphSpacing": {
-          "value": "0",
-          "type": "paragraphSpacing",
-          "filePath": "src/global.json",
-          "isSource": true,
-          "original": {
-            "value": "{paragraphSpacing.0}",
-            "type": "paragraphSpacing"
-          },
-          "name": "mch_typography_supporting_label_x_large_paragraph_spacing",
-          "attributes": {
-            "category": "Typography",
-            "type": "Supporting",
-            "item": "Label - XLarge",
-            "subitem": "paragraphSpacing"
-          },
-          "path": [
-            "Typography",
-            "Supporting",
-            "Label - XLarge",
-            "paragraphSpacing"
-          ]
-        },
-        "paragraphIndent": {
-          "value": 0,
-          "type": "paragraphIndent",
-          "filePath": "src/global.json",
-          "isSource": true,
-          "original": {
-            "value": "{paragraphIndent.0}",
-            "type": "paragraphIndent"
-          },
-          "name": "mch_typography_supporting_label_x_large_paragraph_indent",
-          "attributes": {
-            "category": "Typography",
-            "type": "Supporting",
-            "item": "Label - XLarge",
-            "subitem": "paragraphIndent"
-          },
-          "path": [
-            "Typography",
-            "Supporting",
-            "Label - XLarge",
-            "paragraphIndent"
-          ]
-        },
-        "textCase": {
-          "value": "none",
-          "type": "textCase",
-          "filePath": "src/global.json",
-          "isSource": true,
-          "original": {
-            "value": "{textCase.none}",
-            "type": "textCase"
-          },
-          "name": "mch_typography_supporting_label_x_large_text_case",
-          "attributes": {
-            "category": "Typography",
-            "type": "Supporting",
-            "item": "Label - XLarge",
-            "subitem": "textCase"
-          },
-          "path": [
-            "Typography",
-            "Supporting",
-            "Label - XLarge",
-            "textCase"
-          ]
-        },
-        "textDecoration": {
-          "value": "none",
-          "type": "textDecoration",
-          "filePath": "src/global.json",
-          "isSource": true,
-          "original": {
-            "value": "{textDecoration.none}",
-            "type": "textDecoration"
-          },
-          "name": "mch_typography_supporting_label_x_large_text_decoration",
-          "attributes": {
-            "category": "Typography",
-            "type": "Supporting",
-            "item": "Label - XLarge",
-            "subitem": "textDecoration"
-          },
-          "path": [
-            "Typography",
-            "Supporting",
-            "Label - XLarge",
-            "textDecoration"
           ]
         }
       },
-      "labelLarge": {
+      "xsmall": {
         "fontFamily": {
-          "value": "Art Basel Text",
+          "value": "Art Basel Text Screen",
           "type": "fontFamilies",
-          "filePath": "src/global.json",
+          "filePath": "src/Web-Typography.json",
           "isSource": true,
           "original": {
-            "value": "{fontFamilies.art-basel-text}",
+            "value": "{font-family.art-basel-text-screen}",
             "type": "fontFamilies"
           },
-          "name": "mch_typography_supporting_label_large_font_family",
+          "name": "mch_screen_typography_body_xsmall_font_family",
           "attributes": {
-            "category": "Typography",
-            "type": "Supporting",
-            "item": "Label - Large",
+            "category": "typography",
+            "type": "body",
+            "item": "xsmall",
             "subitem": "fontFamily"
           },
           "path": [
-            "Typography",
-            "Supporting",
-            "Label - Large",
+            "typography",
+            "body",
+            "xsmall",
             "fontFamily"
           ]
         },
         "fontWeight": {
-          "value": "700",
+          "value": "400",
           "type": "fontWeights",
-          "filePath": "src/global.json",
+          "filePath": "src/Web-Typography.json",
           "isSource": true,
           "original": {
-            "value": "{fontWeights.art-basel-text-2}",
+            "value": "{font-weight.regular}",
             "type": "fontWeights"
           },
-          "name": "mch_typography_supporting_label_large_font_weight",
+          "name": "mch_screen_typography_body_xsmall_font_weight",
           "attributes": {
-            "category": "Typography",
-            "type": "Supporting",
-            "item": "Label - Large",
+            "category": "typography",
+            "type": "body",
+            "item": "xsmall",
             "subitem": "fontWeight"
           },
           "path": [
-            "Typography",
-            "Supporting",
-            "Label - Large",
+            "typography",
+            "body",
+            "xsmall",
             "fontWeight"
-          ]
-        },
-        "lineHeight": {
-          "value": "1.125rem",
-          "type": "lineHeights",
-          "filePath": "src/global.json",
-          "isSource": true,
-          "original": {
-            "value": "{lineHeights.11}",
-            "type": "lineHeights"
-          },
-          "name": "mch_typography_supporting_label_large_line_height",
-          "attributes": {
-            "category": "Typography",
-            "type": "Supporting",
-            "item": "Label - Large",
-            "subitem": "lineHeight"
-          },
-          "path": [
-            "Typography",
-            "Supporting",
-            "Label - Large",
-            "lineHeight"
-          ]
-        },
-        "fontSize": {
-          "value": "0.875rem",
-          "type": "fontSizes",
-          "filePath": "src/global.json",
-          "isSource": true,
-          "original": {
-            "value": "{fontSize.1}",
-            "type": "fontSizes"
-          },
-          "name": "mch_typography_supporting_label_large_font_size",
-          "attributes": {
-            "category": "Typography",
-            "type": "Supporting",
-            "item": "Label - Large",
-            "subitem": "fontSize"
-          },
-          "path": [
-            "Typography",
-            "Supporting",
-            "Label - Large",
-            "fontSize"
-          ]
-        },
-        "letterSpacing": {
-          "value": "0rem",
-          "type": "letterSpacing",
-          "filePath": "src/global.json",
-          "isSource": true,
-          "original": {
-            "value": "{letterSpacing.0}",
-            "type": "letterSpacing"
-          },
-          "name": "mch_typography_supporting_label_large_letter_spacing",
-          "attributes": {
-            "category": "Typography",
-            "type": "Supporting",
-            "item": "Label - Large",
-            "subitem": "letterSpacing"
-          },
-          "path": [
-            "Typography",
-            "Supporting",
-            "Label - Large",
-            "letterSpacing"
-          ]
-        },
-        "paragraphSpacing": {
-          "value": "0",
-          "type": "paragraphSpacing",
-          "filePath": "src/global.json",
-          "isSource": true,
-          "original": {
-            "value": "{paragraphSpacing.0}",
-            "type": "paragraphSpacing"
-          },
-          "name": "mch_typography_supporting_label_large_paragraph_spacing",
-          "attributes": {
-            "category": "Typography",
-            "type": "Supporting",
-            "item": "Label - Large",
-            "subitem": "paragraphSpacing"
-          },
-          "path": [
-            "Typography",
-            "Supporting",
-            "Label - Large",
-            "paragraphSpacing"
-          ]
-        },
-        "paragraphIndent": {
-          "value": 0,
-          "type": "paragraphIndent",
-          "filePath": "src/global.json",
-          "isSource": true,
-          "original": {
-            "value": "{paragraphIndent.0}",
-            "type": "paragraphIndent"
-          },
-          "name": "mch_typography_supporting_label_large_paragraph_indent",
-          "attributes": {
-            "category": "Typography",
-            "type": "Supporting",
-            "item": "Label - Large",
-            "subitem": "paragraphIndent"
-          },
-          "path": [
-            "Typography",
-            "Supporting",
-            "Label - Large",
-            "paragraphIndent"
-          ]
-        },
-        "textCase": {
-          "value": "none",
-          "type": "textCase",
-          "filePath": "src/global.json",
-          "isSource": true,
-          "original": {
-            "value": "{textCase.none}",
-            "type": "textCase"
-          },
-          "name": "mch_typography_supporting_label_large_text_case",
-          "attributes": {
-            "category": "Typography",
-            "type": "Supporting",
-            "item": "Label - Large",
-            "subitem": "textCase"
-          },
-          "path": [
-            "Typography",
-            "Supporting",
-            "Label - Large",
-            "textCase"
-          ]
-        },
-        "textDecoration": {
-          "value": "none",
-          "type": "textDecoration",
-          "filePath": "src/global.json",
-          "isSource": true,
-          "original": {
-            "value": "{textDecoration.none}",
-            "type": "textDecoration"
-          },
-          "name": "mch_typography_supporting_label_large_text_decoration",
-          "attributes": {
-            "category": "Typography",
-            "type": "Supporting",
-            "item": "Label - Large",
-            "subitem": "textDecoration"
-          },
-          "path": [
-            "Typography",
-            "Supporting",
-            "Label - Large",
-            "textDecoration"
-          ]
-        }
-      },
-      "labelMedium": {
-        "fontFamily": {
-          "value": "Art Basel Text",
-          "type": "fontFamilies",
-          "filePath": "src/global.json",
-          "isSource": true,
-          "original": {
-            "value": "{fontFamilies.art-basel-text}",
-            "type": "fontFamilies"
-          },
-          "name": "mch_typography_supporting_label_medium_font_family",
-          "attributes": {
-            "category": "Typography",
-            "type": "Supporting",
-            "item": "Label - Medium",
-            "subitem": "fontFamily"
-          },
-          "path": [
-            "Typography",
-            "Supporting",
-            "Label - Medium",
-            "fontFamily"
-          ]
-        },
-        "fontWeight": {
-          "value": "700",
-          "type": "fontWeights",
-          "filePath": "src/global.json",
-          "isSource": true,
-          "original": {
-            "value": "{fontWeights.art-basel-text-2}",
-            "type": "fontWeights"
-          },
-          "name": "mch_typography_supporting_label_medium_font_weight",
-          "attributes": {
-            "category": "Typography",
-            "type": "Supporting",
-            "item": "Label - Medium",
-            "subitem": "fontWeight"
-          },
-          "path": [
-            "Typography",
-            "Supporting",
-            "Label - Medium",
-            "fontWeight"
-          ]
-        },
-        "lineHeight": {
-          "value": "1rem",
-          "type": "lineHeights",
-          "filePath": "src/global.json",
-          "isSource": true,
-          "original": {
-            "value": "{lineHeights.14}",
-            "type": "lineHeights"
-          },
-          "name": "mch_typography_supporting_label_medium_line_height",
-          "attributes": {
-            "category": "Typography",
-            "type": "Supporting",
-            "item": "Label - Medium",
-            "subitem": "lineHeight"
-          },
-          "path": [
-            "Typography",
-            "Supporting",
-            "Label - Medium",
-            "lineHeight"
           ]
         },
         "fontSize": {
           "value": "0.75rem",
           "type": "fontSizes",
-          "filePath": "src/global.json",
+          "filePath": "src/Web-Typography.json",
           "isSource": true,
           "original": {
-            "value": "{fontSize.0}",
+            "value": "{font-size.12}",
             "type": "fontSizes"
           },
-          "name": "mch_typography_supporting_label_medium_font_size",
+          "name": "mch_screen_typography_body_xsmall_font_size",
           "attributes": {
-            "category": "Typography",
-            "type": "Supporting",
-            "item": "Label - Medium",
+            "category": "typography",
+            "type": "body",
+            "item": "xsmall",
             "subitem": "fontSize"
           },
           "path": [
-            "Typography",
-            "Supporting",
-            "Label - Medium",
+            "typography",
+            "body",
+            "xsmall",
             "fontSize"
           ]
         },
-        "letterSpacing": {
-          "value": "0rem",
-          "type": "letterSpacing",
-          "filePath": "src/global.json",
+        "lineHeight": {
+          "value": "1rem",
+          "type": "lineHeights",
+          "filePath": "src/Web-Typography.json",
           "isSource": true,
           "original": {
-            "value": "{letterSpacing.0}",
-            "type": "letterSpacing"
+            "value": "{line-height.16}",
+            "type": "lineHeights"
           },
-          "name": "mch_typography_supporting_label_medium_letter_spacing",
+          "name": "mch_screen_typography_body_xsmall_line_height",
           "attributes": {
-            "category": "Typography",
-            "type": "Supporting",
-            "item": "Label - Medium",
-            "subitem": "letterSpacing"
+            "category": "typography",
+            "type": "body",
+            "item": "xsmall",
+            "subitem": "lineHeight"
           },
           "path": [
-            "Typography",
-            "Supporting",
-            "Label - Medium",
-            "letterSpacing"
-          ]
-        },
-        "paragraphSpacing": {
-          "value": "0",
-          "type": "paragraphSpacing",
-          "filePath": "src/global.json",
-          "isSource": true,
-          "original": {
-            "value": "{paragraphSpacing.0}",
-            "type": "paragraphSpacing"
-          },
-          "name": "mch_typography_supporting_label_medium_paragraph_spacing",
-          "attributes": {
-            "category": "Typography",
-            "type": "Supporting",
-            "item": "Label - Medium",
-            "subitem": "paragraphSpacing"
-          },
-          "path": [
-            "Typography",
-            "Supporting",
-            "Label - Medium",
-            "paragraphSpacing"
-          ]
-        },
-        "paragraphIndent": {
-          "value": 0,
-          "type": "paragraphIndent",
-          "filePath": "src/global.json",
-          "isSource": true,
-          "original": {
-            "value": "{paragraphIndent.0}",
-            "type": "paragraphIndent"
-          },
-          "name": "mch_typography_supporting_label_medium_paragraph_indent",
-          "attributes": {
-            "category": "Typography",
-            "type": "Supporting",
-            "item": "Label - Medium",
-            "subitem": "paragraphIndent"
-          },
-          "path": [
-            "Typography",
-            "Supporting",
-            "Label - Medium",
-            "paragraphIndent"
-          ]
-        },
-        "textCase": {
-          "value": "none",
-          "type": "textCase",
-          "filePath": "src/global.json",
-          "isSource": true,
-          "original": {
-            "value": "{textCase.none}",
-            "type": "textCase"
-          },
-          "name": "mch_typography_supporting_label_medium_text_case",
-          "attributes": {
-            "category": "Typography",
-            "type": "Supporting",
-            "item": "Label - Medium",
-            "subitem": "textCase"
-          },
-          "path": [
-            "Typography",
-            "Supporting",
-            "Label - Medium",
-            "textCase"
-          ]
-        },
-        "textDecoration": {
-          "value": "none",
-          "type": "textDecoration",
-          "filePath": "src/global.json",
-          "isSource": true,
-          "original": {
-            "value": "{textDecoration.none}",
-            "type": "textDecoration"
-          },
-          "name": "mch_typography_supporting_label_medium_text_decoration",
-          "attributes": {
-            "category": "Typography",
-            "type": "Supporting",
-            "item": "Label - Medium",
-            "subitem": "textDecoration"
-          },
-          "path": [
-            "Typography",
-            "Supporting",
-            "Label - Medium",
-            "textDecoration"
+            "typography",
+            "body",
+            "xsmall",
+            "lineHeight"
           ]
         }
       },
-      "labelSmall": {
+      "xxsmall": {
         "fontFamily": {
-          "value": "Art Basel Text",
+          "value": "Art Basel Text Screen",
           "type": "fontFamilies",
-          "filePath": "src/global.json",
+          "filePath": "src/Web-Typography.json",
           "isSource": true,
           "original": {
-            "value": "{fontFamilies.art-basel-text}",
+            "value": "{font-family.art-basel-text-screen}",
             "type": "fontFamilies"
           },
-          "name": "mch_typography_supporting_label_small_font_family",
+          "name": "mch_screen_typography_body_xxsmall_font_family",
           "attributes": {
-            "category": "Typography",
-            "type": "Supporting",
-            "item": "Label - Small",
+            "category": "typography",
+            "type": "body",
+            "item": "xxsmall",
             "subitem": "fontFamily"
           },
           "path": [
-            "Typography",
-            "Supporting",
-            "Label - Small",
+            "typography",
+            "body",
+            "xxsmall",
             "fontFamily"
           ]
         },
         "fontWeight": {
           "value": "400",
           "type": "fontWeights",
-          "filePath": "src/global.json",
+          "filePath": "src/Web-Typography.json",
           "isSource": true,
           "original": {
-            "value": "{fontWeights.art-basel-text-1}",
+            "value": "{font-weight.regular}",
             "type": "fontWeights"
           },
-          "name": "mch_typography_supporting_label_small_font_weight",
+          "name": "mch_screen_typography_body_xxsmall_font_weight",
           "attributes": {
-            "category": "Typography",
-            "type": "Supporting",
-            "item": "Label - Small",
+            "category": "typography",
+            "type": "body",
+            "item": "xxsmall",
             "subitem": "fontWeight"
           },
           "path": [
-            "Typography",
-            "Supporting",
-            "Label - Small",
+            "typography",
+            "body",
+            "xxsmall",
             "fontWeight"
           ]
         },
-        "lineHeight": {
-          "value": "1rem",
-          "type": "lineHeights",
-          "filePath": "src/global.json",
-          "isSource": true,
-          "original": {
-            "value": "{lineHeights.14}",
-            "type": "lineHeights"
-          },
-          "name": "mch_typography_supporting_label_small_line_height",
-          "attributes": {
-            "category": "Typography",
-            "type": "Supporting",
-            "item": "Label - Small",
-            "subitem": "lineHeight"
-          },
-          "path": [
-            "Typography",
-            "Supporting",
-            "Label - Small",
-            "lineHeight"
-          ]
-        },
         "fontSize": {
-          "value": "0.75rem",
+          "value": "0.6875rem",
           "type": "fontSizes",
-          "filePath": "src/global.json",
+          "filePath": "src/Web-Typography.json",
           "isSource": true,
           "original": {
-            "value": "{fontSize.0}",
+            "value": "{font-size.11}",
             "type": "fontSizes"
           },
-          "name": "mch_typography_supporting_label_small_font_size",
+          "name": "mch_screen_typography_body_xxsmall_font_size",
           "attributes": {
-            "category": "Typography",
-            "type": "Supporting",
-            "item": "Label - Small",
+            "category": "typography",
+            "type": "body",
+            "item": "xxsmall",
             "subitem": "fontSize"
           },
           "path": [
-            "Typography",
-            "Supporting",
-            "Label - Small",
+            "typography",
+            "body",
+            "xxsmall",
             "fontSize"
           ]
         },
-        "letterSpacing": {
-          "value": "0.01875rem",
-          "type": "letterSpacing",
-          "filePath": "src/global.json",
+        "lineHeight": {
+          "value": "0.875rem",
+          "type": "lineHeights",
+          "filePath": "src/Web-Typography.json",
           "isSource": true,
           "original": {
-            "value": "{letterSpacing.1}",
-            "type": "letterSpacing"
+            "value": "{line-height.14}",
+            "type": "lineHeights"
           },
-          "name": "mch_typography_supporting_label_small_letter_spacing",
+          "name": "mch_screen_typography_body_xxsmall_line_height",
           "attributes": {
-            "category": "Typography",
-            "type": "Supporting",
-            "item": "Label - Small",
-            "subitem": "letterSpacing"
+            "category": "typography",
+            "type": "body",
+            "item": "xxsmall",
+            "subitem": "lineHeight"
           },
           "path": [
-            "Typography",
-            "Supporting",
-            "Label - Small",
-            "letterSpacing"
-          ]
-        },
-        "paragraphSpacing": {
-          "value": "0",
-          "type": "paragraphSpacing",
-          "filePath": "src/global.json",
-          "isSource": true,
-          "original": {
-            "value": "{paragraphSpacing.0}",
-            "type": "paragraphSpacing"
-          },
-          "name": "mch_typography_supporting_label_small_paragraph_spacing",
-          "attributes": {
-            "category": "Typography",
-            "type": "Supporting",
-            "item": "Label - Small",
-            "subitem": "paragraphSpacing"
-          },
-          "path": [
-            "Typography",
-            "Supporting",
-            "Label - Small",
-            "paragraphSpacing"
-          ]
-        },
-        "paragraphIndent": {
-          "value": 0,
-          "type": "paragraphIndent",
-          "filePath": "src/global.json",
-          "isSource": true,
-          "original": {
-            "value": "{paragraphIndent.0}",
-            "type": "paragraphIndent"
-          },
-          "name": "mch_typography_supporting_label_small_paragraph_indent",
-          "attributes": {
-            "category": "Typography",
-            "type": "Supporting",
-            "item": "Label - Small",
-            "subitem": "paragraphIndent"
-          },
-          "path": [
-            "Typography",
-            "Supporting",
-            "Label - Small",
-            "paragraphIndent"
-          ]
-        },
-        "textCase": {
-          "value": "none",
-          "type": "textCase",
-          "filePath": "src/global.json",
-          "isSource": true,
-          "original": {
-            "value": "{textCase.none}",
-            "type": "textCase"
-          },
-          "name": "mch_typography_supporting_label_small_text_case",
-          "attributes": {
-            "category": "Typography",
-            "type": "Supporting",
-            "item": "Label - Small",
-            "subitem": "textCase"
-          },
-          "path": [
-            "Typography",
-            "Supporting",
-            "Label - Small",
-            "textCase"
-          ]
-        },
-        "textDecoration": {
-          "value": "none",
-          "type": "textDecoration",
-          "filePath": "src/global.json",
-          "isSource": true,
-          "original": {
-            "value": "{textDecoration.none}",
-            "type": "textDecoration"
-          },
-          "name": "mch_typography_supporting_label_small_text_decoration",
-          "attributes": {
-            "category": "Typography",
-            "type": "Supporting",
-            "item": "Label - Small",
-            "subitem": "textDecoration"
-          },
-          "path": [
-            "Typography",
-            "Supporting",
-            "Label - Small",
-            "textDecoration"
+            "typography",
+            "body",
+            "xxsmall",
+            "lineHeight"
           ]
         }
       }
     },
-    "links": {
-      "textLinkMediumDefault": {
+    "action": {
+      "button": {
         "fontFamily": {
-          "value": "Art Basel Text",
+          "value": "Art Basel Text Screen",
           "type": "fontFamilies",
-          "filePath": "src/global.json",
+          "filePath": "src/Web-Typography.json",
           "isSource": true,
           "original": {
-            "value": "{fontFamilies.art-basel-text}",
+            "value": "{font-family.art-basel-text-screen}",
             "type": "fontFamilies"
           },
-          "name": "mch_typography_links_text_link_medium_default_font_family",
+          "name": "mch_screen_typography_action_button_font_family",
           "attributes": {
-            "category": "Typography",
-            "type": "Links",
-            "item": "Text Link - Medium (Default)",
+            "category": "typography",
+            "type": "action",
+            "item": "button",
             "subitem": "fontFamily"
           },
           "path": [
-            "Typography",
-            "Links",
-            "Text Link - Medium (Default)",
+            "typography",
+            "action",
+            "button",
             "fontFamily"
           ]
         },
         "fontWeight": {
           "value": "700",
           "type": "fontWeights",
-          "filePath": "src/global.json",
+          "filePath": "src/Web-Typography.json",
           "isSource": true,
           "original": {
-            "value": "{fontWeights.art-basel-text-2}",
+            "value": "{font-weight.bold}",
             "type": "fontWeights"
           },
-          "name": "mch_typography_links_text_link_medium_default_font_weight",
+          "name": "mch_screen_typography_action_button_font_weight",
           "attributes": {
-            "category": "Typography",
-            "type": "Links",
-            "item": "Text Link - Medium (Default)",
+            "category": "typography",
+            "type": "action",
+            "item": "button",
             "subitem": "fontWeight"
           },
           "path": [
-            "Typography",
-            "Links",
-            "Text Link - Medium (Default)",
+            "typography",
+            "action",
+            "button",
             "fontWeight"
-          ]
-        },
-        "lineHeight": {
-          "value": "1.25rem",
-          "type": "lineHeights",
-          "filePath": "src/global.json",
-          "isSource": true,
-          "original": {
-            "value": "{lineHeights.15}",
-            "type": "lineHeights"
-          },
-          "name": "mch_typography_links_text_link_medium_default_line_height",
-          "attributes": {
-            "category": "Typography",
-            "type": "Links",
-            "item": "Text Link - Medium (Default)",
-            "subitem": "lineHeight"
-          },
-          "path": [
-            "Typography",
-            "Links",
-            "Text Link - Medium (Default)",
-            "lineHeight"
-          ]
-        },
-        "fontSize": {
-          "value": "1rem",
-          "type": "fontSizes",
-          "filePath": "src/global.json",
-          "isSource": true,
-          "original": {
-            "value": "{fontSize.2}",
-            "type": "fontSizes"
-          },
-          "name": "mch_typography_links_text_link_medium_default_font_size",
-          "attributes": {
-            "category": "Typography",
-            "type": "Links",
-            "item": "Text Link - Medium (Default)",
-            "subitem": "fontSize"
-          },
-          "path": [
-            "Typography",
-            "Links",
-            "Text Link - Medium (Default)",
-            "fontSize"
-          ]
-        },
-        "letterSpacing": {
-          "value": "0rem",
-          "type": "letterSpacing",
-          "filePath": "src/global.json",
-          "isSource": true,
-          "original": {
-            "value": "{letterSpacing.0}",
-            "type": "letterSpacing"
-          },
-          "name": "mch_typography_links_text_link_medium_default_letter_spacing",
-          "attributes": {
-            "category": "Typography",
-            "type": "Links",
-            "item": "Text Link - Medium (Default)",
-            "subitem": "letterSpacing"
-          },
-          "path": [
-            "Typography",
-            "Links",
-            "Text Link - Medium (Default)",
-            "letterSpacing"
-          ]
-        },
-        "paragraphSpacing": {
-          "value": "0",
-          "type": "paragraphSpacing",
-          "filePath": "src/global.json",
-          "isSource": true,
-          "original": {
-            "value": "{paragraphSpacing.0}",
-            "type": "paragraphSpacing"
-          },
-          "name": "mch_typography_links_text_link_medium_default_paragraph_spacing",
-          "attributes": {
-            "category": "Typography",
-            "type": "Links",
-            "item": "Text Link - Medium (Default)",
-            "subitem": "paragraphSpacing"
-          },
-          "path": [
-            "Typography",
-            "Links",
-            "Text Link - Medium (Default)",
-            "paragraphSpacing"
-          ]
-        },
-        "paragraphIndent": {
-          "value": 0,
-          "type": "paragraphIndent",
-          "filePath": "src/global.json",
-          "isSource": true,
-          "original": {
-            "value": "{paragraphIndent.0}",
-            "type": "paragraphIndent"
-          },
-          "name": "mch_typography_links_text_link_medium_default_paragraph_indent",
-          "attributes": {
-            "category": "Typography",
-            "type": "Links",
-            "item": "Text Link - Medium (Default)",
-            "subitem": "paragraphIndent"
-          },
-          "path": [
-            "Typography",
-            "Links",
-            "Text Link - Medium (Default)",
-            "paragraphIndent"
-          ]
-        },
-        "textCase": {
-          "value": "none",
-          "type": "textCase",
-          "filePath": "src/global.json",
-          "isSource": true,
-          "original": {
-            "value": "{textCase.none}",
-            "type": "textCase"
-          },
-          "name": "mch_typography_links_text_link_medium_default_text_case",
-          "attributes": {
-            "category": "Typography",
-            "type": "Links",
-            "item": "Text Link - Medium (Default)",
-            "subitem": "textCase"
-          },
-          "path": [
-            "Typography",
-            "Links",
-            "Text Link - Medium (Default)",
-            "textCase"
-          ]
-        },
-        "textDecoration": {
-          "value": "none",
-          "type": "textDecoration",
-          "filePath": "src/global.json",
-          "isSource": true,
-          "original": {
-            "value": "{textDecoration.none}",
-            "type": "textDecoration"
-          },
-          "name": "mch_typography_links_text_link_medium_default_text_decoration",
-          "attributes": {
-            "category": "Typography",
-            "type": "Links",
-            "item": "Text Link - Medium (Default)",
-            "subitem": "textDecoration"
-          },
-          "path": [
-            "Typography",
-            "Links",
-            "Text Link - Medium (Default)",
-            "textDecoration"
-          ]
-        }
-      },
-      "textLinkMediumHover": {
-        "fontFamily": {
-          "value": "Art Basel Text",
-          "type": "fontFamilies",
-          "filePath": "src/global.json",
-          "isSource": true,
-          "original": {
-            "value": "{fontFamilies.art-basel-text}",
-            "type": "fontFamilies"
-          },
-          "name": "mch_typography_links_text_link_medium_hover_font_family",
-          "attributes": {
-            "category": "Typography",
-            "type": "Links",
-            "item": "Text Link - Medium (Hover)",
-            "subitem": "fontFamily"
-          },
-          "path": [
-            "Typography",
-            "Links",
-            "Text Link - Medium (Hover)",
-            "fontFamily"
-          ]
-        },
-        "fontWeight": {
-          "value": "700",
-          "type": "fontWeights",
-          "filePath": "src/global.json",
-          "isSource": true,
-          "original": {
-            "value": "{fontWeights.art-basel-text-2}",
-            "type": "fontWeights"
-          },
-          "name": "mch_typography_links_text_link_medium_hover_font_weight",
-          "attributes": {
-            "category": "Typography",
-            "type": "Links",
-            "item": "Text Link - Medium (Hover)",
-            "subitem": "fontWeight"
-          },
-          "path": [
-            "Typography",
-            "Links",
-            "Text Link - Medium (Hover)",
-            "fontWeight"
-          ]
-        },
-        "lineHeight": {
-          "value": "1.25rem",
-          "type": "lineHeights",
-          "filePath": "src/global.json",
-          "isSource": true,
-          "original": {
-            "value": "{lineHeights.15}",
-            "type": "lineHeights"
-          },
-          "name": "mch_typography_links_text_link_medium_hover_line_height",
-          "attributes": {
-            "category": "Typography",
-            "type": "Links",
-            "item": "Text Link - Medium (Hover)",
-            "subitem": "lineHeight"
-          },
-          "path": [
-            "Typography",
-            "Links",
-            "Text Link - Medium (Hover)",
-            "lineHeight"
-          ]
-        },
-        "fontSize": {
-          "value": "1rem",
-          "type": "fontSizes",
-          "filePath": "src/global.json",
-          "isSource": true,
-          "original": {
-            "value": "{fontSize.2}",
-            "type": "fontSizes"
-          },
-          "name": "mch_typography_links_text_link_medium_hover_font_size",
-          "attributes": {
-            "category": "Typography",
-            "type": "Links",
-            "item": "Text Link - Medium (Hover)",
-            "subitem": "fontSize"
-          },
-          "path": [
-            "Typography",
-            "Links",
-            "Text Link - Medium (Hover)",
-            "fontSize"
-          ]
-        },
-        "letterSpacing": {
-          "value": "0rem",
-          "type": "letterSpacing",
-          "filePath": "src/global.json",
-          "isSource": true,
-          "original": {
-            "value": "{letterSpacing.0}",
-            "type": "letterSpacing"
-          },
-          "name": "mch_typography_links_text_link_medium_hover_letter_spacing",
-          "attributes": {
-            "category": "Typography",
-            "type": "Links",
-            "item": "Text Link - Medium (Hover)",
-            "subitem": "letterSpacing"
-          },
-          "path": [
-            "Typography",
-            "Links",
-            "Text Link - Medium (Hover)",
-            "letterSpacing"
-          ]
-        },
-        "paragraphSpacing": {
-          "value": "0",
-          "type": "paragraphSpacing",
-          "filePath": "src/global.json",
-          "isSource": true,
-          "original": {
-            "value": "{paragraphSpacing.0}",
-            "type": "paragraphSpacing"
-          },
-          "name": "mch_typography_links_text_link_medium_hover_paragraph_spacing",
-          "attributes": {
-            "category": "Typography",
-            "type": "Links",
-            "item": "Text Link - Medium (Hover)",
-            "subitem": "paragraphSpacing"
-          },
-          "path": [
-            "Typography",
-            "Links",
-            "Text Link - Medium (Hover)",
-            "paragraphSpacing"
-          ]
-        },
-        "paragraphIndent": {
-          "value": 0,
-          "type": "paragraphIndent",
-          "filePath": "src/global.json",
-          "isSource": true,
-          "original": {
-            "value": "{paragraphIndent.0}",
-            "type": "paragraphIndent"
-          },
-          "name": "mch_typography_links_text_link_medium_hover_paragraph_indent",
-          "attributes": {
-            "category": "Typography",
-            "type": "Links",
-            "item": "Text Link - Medium (Hover)",
-            "subitem": "paragraphIndent"
-          },
-          "path": [
-            "Typography",
-            "Links",
-            "Text Link - Medium (Hover)",
-            "paragraphIndent"
-          ]
-        },
-        "textCase": {
-          "value": "none",
-          "type": "textCase",
-          "filePath": "src/global.json",
-          "isSource": true,
-          "original": {
-            "value": "{textCase.none}",
-            "type": "textCase"
-          },
-          "name": "mch_typography_links_text_link_medium_hover_text_case",
-          "attributes": {
-            "category": "Typography",
-            "type": "Links",
-            "item": "Text Link - Medium (Hover)",
-            "subitem": "textCase"
-          },
-          "path": [
-            "Typography",
-            "Links",
-            "Text Link - Medium (Hover)",
-            "textCase"
-          ]
-        },
-        "textDecoration": {
-          "value": "underline",
-          "type": "textDecoration",
-          "filePath": "src/global.json",
-          "isSource": true,
-          "original": {
-            "value": "{textDecoration.underline}",
-            "type": "textDecoration"
-          },
-          "name": "mch_typography_links_text_link_medium_hover_text_decoration",
-          "attributes": {
-            "category": "Typography",
-            "type": "Links",
-            "item": "Text Link - Medium (Hover)",
-            "subitem": "textDecoration"
-          },
-          "path": [
-            "Typography",
-            "Links",
-            "Text Link - Medium (Hover)",
-            "textDecoration"
-          ]
-        }
-      },
-      "externalLinkMediumDefault": {
-        "fontFamily": {
-          "value": "Art Basel Text",
-          "type": "fontFamilies",
-          "filePath": "src/global.json",
-          "isSource": true,
-          "original": {
-            "value": "{fontFamilies.art-basel-text}",
-            "type": "fontFamilies"
-          },
-          "name": "mch_typography_links_external_link_medium_default_font_family",
-          "attributes": {
-            "category": "Typography",
-            "type": "Links",
-            "item": "External Link - Medium (Default)",
-            "subitem": "fontFamily"
-          },
-          "path": [
-            "Typography",
-            "Links",
-            "External Link - Medium (Default)",
-            "fontFamily"
-          ]
-        },
-        "fontWeight": {
-          "value": "700",
-          "type": "fontWeights",
-          "filePath": "src/global.json",
-          "isSource": true,
-          "original": {
-            "value": "{fontWeights.art-basel-text-2}",
-            "type": "fontWeights"
-          },
-          "name": "mch_typography_links_external_link_medium_default_font_weight",
-          "attributes": {
-            "category": "Typography",
-            "type": "Links",
-            "item": "External Link - Medium (Default)",
-            "subitem": "fontWeight"
-          },
-          "path": [
-            "Typography",
-            "Links",
-            "External Link - Medium (Default)",
-            "fontWeight"
-          ]
-        },
-        "lineHeight": {
-          "value": "1.25rem",
-          "type": "lineHeights",
-          "filePath": "src/global.json",
-          "isSource": true,
-          "original": {
-            "value": "{lineHeights.15}",
-            "type": "lineHeights"
-          },
-          "name": "mch_typography_links_external_link_medium_default_line_height",
-          "attributes": {
-            "category": "Typography",
-            "type": "Links",
-            "item": "External Link - Medium (Default)",
-            "subitem": "lineHeight"
-          },
-          "path": [
-            "Typography",
-            "Links",
-            "External Link - Medium (Default)",
-            "lineHeight"
-          ]
-        },
-        "fontSize": {
-          "value": "1rem",
-          "type": "fontSizes",
-          "filePath": "src/global.json",
-          "isSource": true,
-          "original": {
-            "value": "{fontSize.2}",
-            "type": "fontSizes"
-          },
-          "name": "mch_typography_links_external_link_medium_default_font_size",
-          "attributes": {
-            "category": "Typography",
-            "type": "Links",
-            "item": "External Link - Medium (Default)",
-            "subitem": "fontSize"
-          },
-          "path": [
-            "Typography",
-            "Links",
-            "External Link - Medium (Default)",
-            "fontSize"
-          ]
-        },
-        "letterSpacing": {
-          "value": "0rem",
-          "type": "letterSpacing",
-          "filePath": "src/global.json",
-          "isSource": true,
-          "original": {
-            "value": "{letterSpacing.0}",
-            "type": "letterSpacing"
-          },
-          "name": "mch_typography_links_external_link_medium_default_letter_spacing",
-          "attributes": {
-            "category": "Typography",
-            "type": "Links",
-            "item": "External Link - Medium (Default)",
-            "subitem": "letterSpacing"
-          },
-          "path": [
-            "Typography",
-            "Links",
-            "External Link - Medium (Default)",
-            "letterSpacing"
-          ]
-        },
-        "paragraphSpacing": {
-          "value": "0",
-          "type": "paragraphSpacing",
-          "filePath": "src/global.json",
-          "isSource": true,
-          "original": {
-            "value": "{paragraphSpacing.0}",
-            "type": "paragraphSpacing"
-          },
-          "name": "mch_typography_links_external_link_medium_default_paragraph_spacing",
-          "attributes": {
-            "category": "Typography",
-            "type": "Links",
-            "item": "External Link - Medium (Default)",
-            "subitem": "paragraphSpacing"
-          },
-          "path": [
-            "Typography",
-            "Links",
-            "External Link - Medium (Default)",
-            "paragraphSpacing"
-          ]
-        },
-        "paragraphIndent": {
-          "value": 0,
-          "type": "paragraphIndent",
-          "filePath": "src/global.json",
-          "isSource": true,
-          "original": {
-            "value": "{paragraphIndent.0}",
-            "type": "paragraphIndent"
-          },
-          "name": "mch_typography_links_external_link_medium_default_paragraph_indent",
-          "attributes": {
-            "category": "Typography",
-            "type": "Links",
-            "item": "External Link - Medium (Default)",
-            "subitem": "paragraphIndent"
-          },
-          "path": [
-            "Typography",
-            "Links",
-            "External Link - Medium (Default)",
-            "paragraphIndent"
-          ]
-        },
-        "textCase": {
-          "value": "uppercase",
-          "type": "textCase",
-          "filePath": "src/global.json",
-          "isSource": true,
-          "original": {
-            "value": "{textCase.uppercase}",
-            "type": "textCase"
-          },
-          "name": "mch_typography_links_external_link_medium_default_text_case",
-          "attributes": {
-            "category": "Typography",
-            "type": "Links",
-            "item": "External Link - Medium (Default)",
-            "subitem": "textCase"
-          },
-          "path": [
-            "Typography",
-            "Links",
-            "External Link - Medium (Default)",
-            "textCase"
-          ]
-        },
-        "textDecoration": {
-          "value": "none",
-          "type": "textDecoration",
-          "filePath": "src/global.json",
-          "isSource": true,
-          "original": {
-            "value": "{textDecoration.none}",
-            "type": "textDecoration"
-          },
-          "name": "mch_typography_links_external_link_medium_default_text_decoration",
-          "attributes": {
-            "category": "Typography",
-            "type": "Links",
-            "item": "External Link - Medium (Default)",
-            "subitem": "textDecoration"
-          },
-          "path": [
-            "Typography",
-            "Links",
-            "External Link - Medium (Default)",
-            "textDecoration"
-          ]
-        }
-      },
-      "buttonMedium": {
-        "fontFamily": {
-          "value": "Art Basel Text",
-          "type": "fontFamilies",
-          "filePath": "src/global.json",
-          "isSource": true,
-          "original": {
-            "value": "{fontFamilies.art-basel-text}",
-            "type": "fontFamilies"
-          },
-          "name": "mch_typography_links_button_medium_font_family",
-          "attributes": {
-            "category": "Typography",
-            "type": "Links",
-            "item": "Button - Medium",
-            "subitem": "fontFamily"
-          },
-          "path": [
-            "Typography",
-            "Links",
-            "Button - Medium",
-            "fontFamily"
-          ]
-        },
-        "fontWeight": {
-          "value": "700",
-          "type": "fontWeights",
-          "filePath": "src/global.json",
-          "isSource": true,
-          "original": {
-            "value": "{fontWeights.art-basel-text-2}",
-            "type": "fontWeights"
-          },
-          "name": "mch_typography_links_button_medium_font_weight",
-          "attributes": {
-            "category": "Typography",
-            "type": "Links",
-            "item": "Button - Medium",
-            "subitem": "fontWeight"
-          },
-          "path": [
-            "Typography",
-            "Links",
-            "Button - Medium",
-            "fontWeight"
-          ]
-        },
-        "lineHeight": {
-          "value": "1.125rem",
-          "type": "lineHeights",
-          "filePath": "src/global.json",
-          "isSource": true,
-          "original": {
-            "value": "{lineHeights.11}",
-            "type": "lineHeights"
-          },
-          "name": "mch_typography_links_button_medium_line_height",
-          "attributes": {
-            "category": "Typography",
-            "type": "Links",
-            "item": "Button - Medium",
-            "subitem": "lineHeight"
-          },
-          "path": [
-            "Typography",
-            "Links",
-            "Button - Medium",
-            "lineHeight"
           ]
         },
         "fontSize": {
           "value": "0.875rem",
           "type": "fontSizes",
-          "filePath": "src/global.json",
+          "filePath": "src/Web-Typography.json",
           "isSource": true,
           "original": {
-            "value": "{fontSize.1}",
+            "value": "{font-size.14}",
             "type": "fontSizes"
           },
-          "name": "mch_typography_links_button_medium_font_size",
+          "name": "mch_screen_typography_action_button_font_size",
           "attributes": {
-            "category": "Typography",
-            "type": "Links",
-            "item": "Button - Medium",
+            "category": "typography",
+            "type": "action",
+            "item": "button",
             "subitem": "fontSize"
           },
           "path": [
-            "Typography",
-            "Links",
-            "Button - Medium",
+            "typography",
+            "action",
+            "button",
             "fontSize"
           ]
         },
-        "letterSpacing": {
-          "value": "0rem",
-          "type": "letterSpacing",
-          "filePath": "src/global.json",
+        "lineHeight": {
+          "value": "1rem",
+          "type": "lineHeights",
+          "filePath": "src/Web-Typography.json",
           "isSource": true,
           "original": {
-            "value": "{letterSpacing.0}",
+            "value": "{line-height.16}",
+            "type": "lineHeights"
+          },
+          "name": "mch_screen_typography_action_button_line_height",
+          "attributes": {
+            "category": "typography",
+            "type": "action",
+            "item": "button",
+            "subitem": "lineHeight"
+          },
+          "path": [
+            "typography",
+            "action",
+            "button",
+            "lineHeight"
+          ]
+        },
+        "letterSpacing": {
+          "value": "0.0625rem",
+          "type": "letterSpacing",
+          "filePath": "src/Web-Typography.json",
+          "isSource": true,
+          "original": {
+            "value": "{letter-spacing.10}",
             "type": "letterSpacing"
           },
-          "name": "mch_typography_links_button_medium_letter_spacing",
+          "name": "mch_screen_typography_action_button_letter_spacing",
           "attributes": {
-            "category": "Typography",
-            "type": "Links",
-            "item": "Button - Medium",
+            "category": "typography",
+            "type": "action",
+            "item": "button",
             "subitem": "letterSpacing"
           },
           "path": [
-            "Typography",
-            "Links",
-            "Button - Medium",
+            "typography",
+            "action",
+            "button",
             "letterSpacing"
-          ]
-        },
-        "paragraphSpacing": {
-          "value": "0",
-          "type": "paragraphSpacing",
-          "filePath": "src/global.json",
-          "isSource": true,
-          "original": {
-            "value": "{paragraphSpacing.0}",
-            "type": "paragraphSpacing"
-          },
-          "name": "mch_typography_links_button_medium_paragraph_spacing",
-          "attributes": {
-            "category": "Typography",
-            "type": "Links",
-            "item": "Button - Medium",
-            "subitem": "paragraphSpacing"
-          },
-          "path": [
-            "Typography",
-            "Links",
-            "Button - Medium",
-            "paragraphSpacing"
-          ]
-        },
-        "paragraphIndent": {
-          "value": 0,
-          "type": "paragraphIndent",
-          "filePath": "src/global.json",
-          "isSource": true,
-          "original": {
-            "value": "{paragraphIndent.0}",
-            "type": "paragraphIndent"
-          },
-          "name": "mch_typography_links_button_medium_paragraph_indent",
-          "attributes": {
-            "category": "Typography",
-            "type": "Links",
-            "item": "Button - Medium",
-            "subitem": "paragraphIndent"
-          },
-          "path": [
-            "Typography",
-            "Links",
-            "Button - Medium",
-            "paragraphIndent"
           ]
         },
         "textCase": {
           "value": "uppercase",
           "type": "textCase",
-          "filePath": "src/global.json",
+          "filePath": "src/Web-Typography.json",
           "isSource": true,
           "original": {
-            "value": "{textCase.uppercase}",
+            "value": "{text-case.uppercase}",
             "type": "textCase"
           },
-          "name": "mch_typography_links_button_medium_text_case",
+          "name": "mch_screen_typography_action_button_text_case",
           "attributes": {
-            "category": "Typography",
-            "type": "Links",
-            "item": "Button - Medium",
+            "category": "typography",
+            "type": "action",
+            "item": "button",
             "subitem": "textCase"
           },
           "path": [
-            "Typography",
-            "Links",
-            "Button - Medium",
+            "typography",
+            "action",
+            "button",
             "textCase"
           ]
-        },
-        "textDecoration": {
-          "value": "none",
-          "type": "textDecoration",
-          "filePath": "src/global.json",
+        }
+      },
+      "link": {
+        "fontFamily": {
+          "value": "Art Basel Text Screen",
+          "type": "fontFamilies",
+          "filePath": "src/Web-Typography.json",
           "isSource": true,
           "original": {
-            "value": "{textDecoration.none}",
-            "type": "textDecoration"
+            "value": "{font-family.art-basel-text-screen}",
+            "type": "fontFamilies"
           },
-          "name": "mch_typography_links_button_medium_text_decoration",
+          "name": "mch_screen_typography_action_link_font_family",
           "attributes": {
-            "category": "Typography",
-            "type": "Links",
-            "item": "Button - Medium",
-            "subitem": "textDecoration"
+            "category": "typography",
+            "type": "action",
+            "item": "link",
+            "subitem": "fontFamily"
           },
           "path": [
-            "Typography",
-            "Links",
-            "Button - Medium",
-            "textDecoration"
+            "typography",
+            "action",
+            "link",
+            "fontFamily"
           ]
-        }
-      }
-    },
-    "chHeadings": {
-      "2Xl": {
-        "display": {
-          "fontFamily": {
-            "value": "Ivar Display",
-            "type": "fontFamilies",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{fontFamilies.ivar-display}",
-              "type": "fontFamilies"
-            },
-            "name": "mch_typography_ch_headings_2_xl_display_font_family",
-            "attributes": {
-              "category": "Typography",
-              "type": "CH Headings",
-              "item": "2XL",
-              "subitem": "Display",
-              "state": "fontFamily"
-            },
-            "path": [
-              "Typography",
-              "CH Headings",
-              "2XL",
-              "Display",
-              "fontFamily"
-            ]
-          },
-          "fontWeight": {
-            "value": "600",
-            "type": "fontWeights",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{fontWeights.ivar-display-3}",
-              "type": "fontWeights"
-            },
-            "name": "mch_typography_ch_headings_2_xl_display_font_weight",
-            "attributes": {
-              "category": "Typography",
-              "type": "CH Headings",
-              "item": "2XL",
-              "subitem": "Display",
-              "state": "fontWeight"
-            },
-            "path": [
-              "Typography",
-              "CH Headings",
-              "2XL",
-              "Display",
-              "fontWeight"
-            ]
-          },
-          "lineHeight": {
-            "value": "8rem",
-            "type": "lineHeights",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{lineHeights.20}",
-              "type": "lineHeights"
-            },
-            "name": "mch_typography_ch_headings_2_xl_display_line_height",
-            "attributes": {
-              "category": "Typography",
-              "type": "CH Headings",
-              "item": "2XL",
-              "subitem": "Display",
-              "state": "lineHeight"
-            },
-            "path": [
-              "Typography",
-              "CH Headings",
-              "2XL",
-              "Display",
-              "lineHeight"
-            ]
-          },
-          "fontSize": {
-            "value": "8rem",
-            "type": "fontSizes",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{fontSize.26}",
-              "type": "fontSizes"
-            },
-            "name": "mch_typography_ch_headings_2_xl_display_font_size",
-            "attributes": {
-              "category": "Typography",
-              "type": "CH Headings",
-              "item": "2XL",
-              "subitem": "Display",
-              "state": "fontSize"
-            },
-            "path": [
-              "Typography",
-              "CH Headings",
-              "2XL",
-              "Display",
-              "fontSize"
-            ]
-          },
-          "letterSpacing": {
-            "value": "0rem",
-            "type": "letterSpacing",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{letterSpacing.0}",
-              "type": "letterSpacing"
-            },
-            "name": "mch_typography_ch_headings_2_xl_display_letter_spacing",
-            "attributes": {
-              "category": "Typography",
-              "type": "CH Headings",
-              "item": "2XL",
-              "subitem": "Display",
-              "state": "letterSpacing"
-            },
-            "path": [
-              "Typography",
-              "CH Headings",
-              "2XL",
-              "Display",
-              "letterSpacing"
-            ]
-          },
-          "paragraphSpacing": {
-            "value": "0",
-            "type": "paragraphSpacing",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{paragraphSpacing.0}",
-              "type": "paragraphSpacing"
-            },
-            "name": "mch_typography_ch_headings_2_xl_display_paragraph_spacing",
-            "attributes": {
-              "category": "Typography",
-              "type": "CH Headings",
-              "item": "2XL",
-              "subitem": "Display",
-              "state": "paragraphSpacing"
-            },
-            "path": [
-              "Typography",
-              "CH Headings",
-              "2XL",
-              "Display",
-              "paragraphSpacing"
-            ]
-          },
-          "paragraphIndent": {
-            "value": 0,
-            "type": "paragraphIndent",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{paragraphIndent.0}",
-              "type": "paragraphIndent"
-            },
-            "name": "mch_typography_ch_headings_2_xl_display_paragraph_indent",
-            "attributes": {
-              "category": "Typography",
-              "type": "CH Headings",
-              "item": "2XL",
-              "subitem": "Display",
-              "state": "paragraphIndent"
-            },
-            "path": [
-              "Typography",
-              "CH Headings",
-              "2XL",
-              "Display",
-              "paragraphIndent"
-            ]
-          },
-          "textCase": {
-            "value": "none",
-            "type": "textCase",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{textCase.none}",
-              "type": "textCase"
-            },
-            "name": "mch_typography_ch_headings_2_xl_display_text_case",
-            "attributes": {
-              "category": "Typography",
-              "type": "CH Headings",
-              "item": "2XL",
-              "subitem": "Display",
-              "state": "textCase"
-            },
-            "path": [
-              "Typography",
-              "CH Headings",
-              "2XL",
-              "Display",
-              "textCase"
-            ]
-          },
-          "textDecoration": {
-            "value": "none",
-            "type": "textDecoration",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{textDecoration.none}",
-              "type": "textDecoration"
-            },
-            "name": "mch_typography_ch_headings_2_xl_display_text_decoration",
-            "attributes": {
-              "category": "Typography",
-              "type": "CH Headings",
-              "item": "2XL",
-              "subitem": "Display",
-              "state": "textDecoration"
-            },
-            "path": [
-              "Typography",
-              "CH Headings",
-              "2XL",
-              "Display",
-              "textDecoration"
-            ]
-          }
         },
-        "h1": {
-          "fontFamily": {
-            "value": "Ivar Display",
-            "type": "fontFamilies",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{fontFamilies.ivar-display}",
-              "type": "fontFamilies"
-            },
-            "name": "mch_typography_ch_headings_2_xl_h1_font_family",
-            "attributes": {
-              "category": "Typography",
-              "type": "CH Headings",
-              "item": "2XL",
-              "subitem": "H1",
-              "state": "fontFamily"
-            },
-            "path": [
-              "Typography",
-              "CH Headings",
-              "2XL",
-              "H1",
-              "fontFamily"
-            ]
+        "fontWeight": {
+          "value": "700",
+          "type": "fontWeights",
+          "filePath": "src/Web-Typography.json",
+          "isSource": true,
+          "original": {
+            "value": "{font-weight.bold}",
+            "type": "fontWeights"
           },
-          "fontWeight": {
-            "value": "600",
-            "type": "fontWeights",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{fontWeights.ivar-display-3}",
-              "type": "fontWeights"
-            },
-            "name": "mch_typography_ch_headings_2_xl_h1_font_weight",
-            "attributes": {
-              "category": "Typography",
-              "type": "CH Headings",
-              "item": "2XL",
-              "subitem": "H1",
-              "state": "fontWeight"
-            },
-            "path": [
-              "Typography",
-              "CH Headings",
-              "2XL",
-              "H1",
-              "fontWeight"
-            ]
+          "name": "mch_screen_typography_action_link_font_weight",
+          "attributes": {
+            "category": "typography",
+            "type": "action",
+            "item": "link",
+            "subitem": "fontWeight"
           },
-          "lineHeight": {
-            "value": "5.25rem",
-            "type": "lineHeights",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{lineHeights.21}",
-              "type": "lineHeights"
-            },
-            "name": "mch_typography_ch_headings_2_xl_h1_line_height",
-            "attributes": {
-              "category": "Typography",
-              "type": "CH Headings",
-              "item": "2XL",
-              "subitem": "H1",
-              "state": "lineHeight"
-            },
-            "path": [
-              "Typography",
-              "CH Headings",
-              "2XL",
-              "H1",
-              "lineHeight"
-            ]
-          },
-          "fontSize": {
-            "value": "5.25rem",
-            "type": "fontSizes",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{fontSize.23}",
-              "type": "fontSizes"
-            },
-            "name": "mch_typography_ch_headings_2_xl_h1_font_size",
-            "attributes": {
-              "category": "Typography",
-              "type": "CH Headings",
-              "item": "2XL",
-              "subitem": "H1",
-              "state": "fontSize"
-            },
-            "path": [
-              "Typography",
-              "CH Headings",
-              "2XL",
-              "H1",
-              "fontSize"
-            ]
-          },
-          "letterSpacing": {
-            "value": "0rem",
-            "type": "letterSpacing",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{letterSpacing.0}",
-              "type": "letterSpacing"
-            },
-            "name": "mch_typography_ch_headings_2_xl_h1_letter_spacing",
-            "attributes": {
-              "category": "Typography",
-              "type": "CH Headings",
-              "item": "2XL",
-              "subitem": "H1",
-              "state": "letterSpacing"
-            },
-            "path": [
-              "Typography",
-              "CH Headings",
-              "2XL",
-              "H1",
-              "letterSpacing"
-            ]
-          },
-          "paragraphSpacing": {
-            "value": "0",
-            "type": "paragraphSpacing",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{paragraphSpacing.0}",
-              "type": "paragraphSpacing"
-            },
-            "name": "mch_typography_ch_headings_2_xl_h1_paragraph_spacing",
-            "attributes": {
-              "category": "Typography",
-              "type": "CH Headings",
-              "item": "2XL",
-              "subitem": "H1",
-              "state": "paragraphSpacing"
-            },
-            "path": [
-              "Typography",
-              "CH Headings",
-              "2XL",
-              "H1",
-              "paragraphSpacing"
-            ]
-          },
-          "paragraphIndent": {
-            "value": 0,
-            "type": "paragraphIndent",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{paragraphIndent.0}",
-              "type": "paragraphIndent"
-            },
-            "name": "mch_typography_ch_headings_2_xl_h1_paragraph_indent",
-            "attributes": {
-              "category": "Typography",
-              "type": "CH Headings",
-              "item": "2XL",
-              "subitem": "H1",
-              "state": "paragraphIndent"
-            },
-            "path": [
-              "Typography",
-              "CH Headings",
-              "2XL",
-              "H1",
-              "paragraphIndent"
-            ]
-          },
-          "textCase": {
-            "value": "none",
-            "type": "textCase",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{textCase.none}",
-              "type": "textCase"
-            },
-            "name": "mch_typography_ch_headings_2_xl_h1_text_case",
-            "attributes": {
-              "category": "Typography",
-              "type": "CH Headings",
-              "item": "2XL",
-              "subitem": "H1",
-              "state": "textCase"
-            },
-            "path": [
-              "Typography",
-              "CH Headings",
-              "2XL",
-              "H1",
-              "textCase"
-            ]
-          },
-          "textDecoration": {
-            "value": "none",
-            "type": "textDecoration",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{textDecoration.none}",
-              "type": "textDecoration"
-            },
-            "name": "mch_typography_ch_headings_2_xl_h1_text_decoration",
-            "attributes": {
-              "category": "Typography",
-              "type": "CH Headings",
-              "item": "2XL",
-              "subitem": "H1",
-              "state": "textDecoration"
-            },
-            "path": [
-              "Typography",
-              "CH Headings",
-              "2XL",
-              "H1",
-              "textDecoration"
-            ]
-          }
+          "path": [
+            "typography",
+            "action",
+            "link",
+            "fontWeight"
+          ]
         },
-        "h2": {
-          "fontFamily": {
-            "value": "Ivar Display",
-            "type": "fontFamilies",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{fontFamilies.ivar-display}",
-              "type": "fontFamilies"
-            },
-            "name": "mch_typography_ch_headings_2_xl_h2_font_family",
-            "attributes": {
-              "category": "Typography",
-              "type": "CH Headings",
-              "item": "2XL",
-              "subitem": "H2",
-              "state": "fontFamily"
-            },
-            "path": [
-              "Typography",
-              "CH Headings",
-              "2XL",
-              "H2",
-              "fontFamily"
-            ]
+        "fontSize": {
+          "value": "1rem",
+          "type": "fontSizes",
+          "filePath": "src/Web-Typography.json",
+          "isSource": true,
+          "original": {
+            "value": "{font-size.16}",
+            "type": "fontSizes"
           },
-          "fontWeight": {
-            "value": "600",
-            "type": "fontWeights",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{fontWeights.ivar-display-3}",
-              "type": "fontWeights"
-            },
-            "name": "mch_typography_ch_headings_2_xl_h2_font_weight",
-            "attributes": {
-              "category": "Typography",
-              "type": "CH Headings",
-              "item": "2XL",
-              "subitem": "H2",
-              "state": "fontWeight"
-            },
-            "path": [
-              "Typography",
-              "CH Headings",
-              "2XL",
-              "H2",
-              "fontWeight"
-            ]
+          "name": "mch_screen_typography_action_link_font_size",
+          "attributes": {
+            "category": "typography",
+            "type": "action",
+            "item": "link",
+            "subitem": "fontSize"
           },
-          "lineHeight": {
-            "value": "4rem",
-            "type": "lineHeights",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{lineHeights.17}",
-              "type": "lineHeights"
-            },
-            "name": "mch_typography_ch_headings_2_xl_h2_line_height",
-            "attributes": {
-              "category": "Typography",
-              "type": "CH Headings",
-              "item": "2XL",
-              "subitem": "H2",
-              "state": "lineHeight"
-            },
-            "path": [
-              "Typography",
-              "CH Headings",
-              "2XL",
-              "H2",
-              "lineHeight"
-            ]
-          },
-          "fontSize": {
-            "value": "4rem",
-            "type": "fontSizes",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{fontSize.20}",
-              "type": "fontSizes"
-            },
-            "name": "mch_typography_ch_headings_2_xl_h2_font_size",
-            "attributes": {
-              "category": "Typography",
-              "type": "CH Headings",
-              "item": "2XL",
-              "subitem": "H2",
-              "state": "fontSize"
-            },
-            "path": [
-              "Typography",
-              "CH Headings",
-              "2XL",
-              "H2",
-              "fontSize"
-            ]
-          },
-          "letterSpacing": {
-            "value": "0rem",
-            "type": "letterSpacing",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{letterSpacing.0}",
-              "type": "letterSpacing"
-            },
-            "name": "mch_typography_ch_headings_2_xl_h2_letter_spacing",
-            "attributes": {
-              "category": "Typography",
-              "type": "CH Headings",
-              "item": "2XL",
-              "subitem": "H2",
-              "state": "letterSpacing"
-            },
-            "path": [
-              "Typography",
-              "CH Headings",
-              "2XL",
-              "H2",
-              "letterSpacing"
-            ]
-          },
-          "paragraphSpacing": {
-            "value": "0",
-            "type": "paragraphSpacing",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{paragraphSpacing.0}",
-              "type": "paragraphSpacing"
-            },
-            "name": "mch_typography_ch_headings_2_xl_h2_paragraph_spacing",
-            "attributes": {
-              "category": "Typography",
-              "type": "CH Headings",
-              "item": "2XL",
-              "subitem": "H2",
-              "state": "paragraphSpacing"
-            },
-            "path": [
-              "Typography",
-              "CH Headings",
-              "2XL",
-              "H2",
-              "paragraphSpacing"
-            ]
-          },
-          "paragraphIndent": {
-            "value": 0,
-            "type": "paragraphIndent",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{paragraphIndent.0}",
-              "type": "paragraphIndent"
-            },
-            "name": "mch_typography_ch_headings_2_xl_h2_paragraph_indent",
-            "attributes": {
-              "category": "Typography",
-              "type": "CH Headings",
-              "item": "2XL",
-              "subitem": "H2",
-              "state": "paragraphIndent"
-            },
-            "path": [
-              "Typography",
-              "CH Headings",
-              "2XL",
-              "H2",
-              "paragraphIndent"
-            ]
-          },
-          "textCase": {
-            "value": "none",
-            "type": "textCase",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{textCase.none}",
-              "type": "textCase"
-            },
-            "name": "mch_typography_ch_headings_2_xl_h2_text_case",
-            "attributes": {
-              "category": "Typography",
-              "type": "CH Headings",
-              "item": "2XL",
-              "subitem": "H2",
-              "state": "textCase"
-            },
-            "path": [
-              "Typography",
-              "CH Headings",
-              "2XL",
-              "H2",
-              "textCase"
-            ]
-          },
-          "textDecoration": {
-            "value": "none",
-            "type": "textDecoration",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{textDecoration.none}",
-              "type": "textDecoration"
-            },
-            "name": "mch_typography_ch_headings_2_xl_h2_text_decoration",
-            "attributes": {
-              "category": "Typography",
-              "type": "CH Headings",
-              "item": "2XL",
-              "subitem": "H2",
-              "state": "textDecoration"
-            },
-            "path": [
-              "Typography",
-              "CH Headings",
-              "2XL",
-              "H2",
-              "textDecoration"
-            ]
-          }
+          "path": [
+            "typography",
+            "action",
+            "link",
+            "fontSize"
+          ]
         },
-        "h3": {
-          "fontFamily": {
-            "value": "Ivar Display",
-            "type": "fontFamilies",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{fontFamilies.ivar-display}",
-              "type": "fontFamilies"
-            },
-            "name": "mch_typography_ch_headings_2_xl_h3_font_family",
-            "attributes": {
-              "category": "Typography",
-              "type": "CH Headings",
-              "item": "2XL",
-              "subitem": "H3",
-              "state": "fontFamily"
-            },
-            "path": [
-              "Typography",
-              "CH Headings",
-              "2XL",
-              "H3",
-              "fontFamily"
-            ]
-          },
-          "fontWeight": {
-            "value": "600",
-            "type": "fontWeights",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{fontWeights.ivar-display-3}",
-              "type": "fontWeights"
-            },
-            "name": "mch_typography_ch_headings_2_xl_h3_font_weight",
-            "attributes": {
-              "category": "Typography",
-              "type": "CH Headings",
-              "item": "2XL",
-              "subitem": "H3",
-              "state": "fontWeight"
-            },
-            "path": [
-              "Typography",
-              "CH Headings",
-              "2XL",
-              "H3",
-              "fontWeight"
-            ]
-          },
-          "lineHeight": {
-            "value": "2.875rem",
-            "type": "lineHeights",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{lineHeights.9}",
-              "type": "lineHeights"
-            },
-            "name": "mch_typography_ch_headings_2_xl_h3_line_height",
-            "attributes": {
-              "category": "Typography",
-              "type": "CH Headings",
-              "item": "2XL",
-              "subitem": "H3",
-              "state": "lineHeight"
-            },
-            "path": [
-              "Typography",
-              "CH Headings",
-              "2XL",
-              "H3",
-              "lineHeight"
-            ]
-          },
-          "fontSize": {
-            "value": "2.75rem",
-            "type": "fontSizes",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{fontSize.16}",
-              "type": "fontSizes"
-            },
-            "name": "mch_typography_ch_headings_2_xl_h3_font_size",
-            "attributes": {
-              "category": "Typography",
-              "type": "CH Headings",
-              "item": "2XL",
-              "subitem": "H3",
-              "state": "fontSize"
-            },
-            "path": [
-              "Typography",
-              "CH Headings",
-              "2XL",
-              "H3",
-              "fontSize"
-            ]
-          },
-          "letterSpacing": {
-            "value": "0rem",
-            "type": "letterSpacing",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{letterSpacing.0}",
-              "type": "letterSpacing"
-            },
-            "name": "mch_typography_ch_headings_2_xl_h3_letter_spacing",
-            "attributes": {
-              "category": "Typography",
-              "type": "CH Headings",
-              "item": "2XL",
-              "subitem": "H3",
-              "state": "letterSpacing"
-            },
-            "path": [
-              "Typography",
-              "CH Headings",
-              "2XL",
-              "H3",
-              "letterSpacing"
-            ]
-          },
-          "paragraphSpacing": {
-            "value": "0",
-            "type": "paragraphSpacing",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{paragraphSpacing.0}",
-              "type": "paragraphSpacing"
-            },
-            "name": "mch_typography_ch_headings_2_xl_h3_paragraph_spacing",
-            "attributes": {
-              "category": "Typography",
-              "type": "CH Headings",
-              "item": "2XL",
-              "subitem": "H3",
-              "state": "paragraphSpacing"
-            },
-            "path": [
-              "Typography",
-              "CH Headings",
-              "2XL",
-              "H3",
-              "paragraphSpacing"
-            ]
-          },
-          "paragraphIndent": {
-            "value": 0,
-            "type": "paragraphIndent",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{paragraphIndent.0}",
-              "type": "paragraphIndent"
-            },
-            "name": "mch_typography_ch_headings_2_xl_h3_paragraph_indent",
-            "attributes": {
-              "category": "Typography",
-              "type": "CH Headings",
-              "item": "2XL",
-              "subitem": "H3",
-              "state": "paragraphIndent"
-            },
-            "path": [
-              "Typography",
-              "CH Headings",
-              "2XL",
-              "H3",
-              "paragraphIndent"
-            ]
-          },
-          "textCase": {
-            "value": "none",
-            "type": "textCase",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{textCase.none}",
-              "type": "textCase"
-            },
-            "name": "mch_typography_ch_headings_2_xl_h3_text_case",
-            "attributes": {
-              "category": "Typography",
-              "type": "CH Headings",
-              "item": "2XL",
-              "subitem": "H3",
-              "state": "textCase"
-            },
-            "path": [
-              "Typography",
-              "CH Headings",
-              "2XL",
-              "H3",
-              "textCase"
-            ]
-          },
-          "textDecoration": {
-            "value": "none",
-            "type": "textDecoration",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{textDecoration.none}",
-              "type": "textDecoration"
-            },
-            "name": "mch_typography_ch_headings_2_xl_h3_text_decoration",
-            "attributes": {
-              "category": "Typography",
-              "type": "CH Headings",
-              "item": "2XL",
-              "subitem": "H3",
-              "state": "textDecoration"
-            },
-            "path": [
-              "Typography",
-              "CH Headings",
-              "2XL",
-              "H3",
-              "textDecoration"
-            ]
-          }
-        },
-        "h4": {
-          "fontFamily": {
-            "value": "Ivar Display",
-            "type": "fontFamilies",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{fontFamilies.ivar-display}",
-              "type": "fontFamilies"
-            },
-            "name": "mch_typography_ch_headings_2_xl_h4_font_family",
-            "attributes": {
-              "category": "Typography",
-              "type": "CH Headings",
-              "item": "2XL",
-              "subitem": "H4",
-              "state": "fontFamily"
-            },
-            "path": [
-              "Typography",
-              "CH Headings",
-              "2XL",
-              "H4",
-              "fontFamily"
-            ]
-          },
-          "fontWeight": {
-            "value": "600",
-            "type": "fontWeights",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{fontWeights.ivar-display-3}",
-              "type": "fontWeights"
-            },
-            "name": "mch_typography_ch_headings_2_xl_h4_font_weight",
-            "attributes": {
-              "category": "Typography",
-              "type": "CH Headings",
-              "item": "2XL",
-              "subitem": "H4",
-              "state": "fontWeight"
-            },
-            "path": [
-              "Typography",
-              "CH Headings",
-              "2XL",
-              "H4",
-              "fontWeight"
-            ]
-          },
-          "lineHeight": {
-            "value": "2.125rem",
-            "type": "lineHeights",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{lineHeights.7}",
-              "type": "lineHeights"
-            },
-            "name": "mch_typography_ch_headings_2_xl_h4_line_height",
-            "attributes": {
-              "category": "Typography",
-              "type": "CH Headings",
-              "item": "2XL",
-              "subitem": "H4",
-              "state": "lineHeight"
-            },
-            "path": [
-              "Typography",
-              "CH Headings",
-              "2XL",
-              "H4",
-              "lineHeight"
-            ]
-          },
-          "fontSize": {
-            "value": "1.875rem",
-            "type": "fontSizes",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{fontSize.7}",
-              "type": "fontSizes"
-            },
-            "name": "mch_typography_ch_headings_2_xl_h4_font_size",
-            "attributes": {
-              "category": "Typography",
-              "type": "CH Headings",
-              "item": "2XL",
-              "subitem": "H4",
-              "state": "fontSize"
-            },
-            "path": [
-              "Typography",
-              "CH Headings",
-              "2XL",
-              "H4",
-              "fontSize"
-            ]
-          },
-          "letterSpacing": {
-            "value": "0rem",
-            "type": "letterSpacing",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{letterSpacing.0}",
-              "type": "letterSpacing"
-            },
-            "name": "mch_typography_ch_headings_2_xl_h4_letter_spacing",
-            "attributes": {
-              "category": "Typography",
-              "type": "CH Headings",
-              "item": "2XL",
-              "subitem": "H4",
-              "state": "letterSpacing"
-            },
-            "path": [
-              "Typography",
-              "CH Headings",
-              "2XL",
-              "H4",
-              "letterSpacing"
-            ]
-          },
-          "paragraphSpacing": {
-            "value": "0",
-            "type": "paragraphSpacing",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{paragraphSpacing.0}",
-              "type": "paragraphSpacing"
-            },
-            "name": "mch_typography_ch_headings_2_xl_h4_paragraph_spacing",
-            "attributes": {
-              "category": "Typography",
-              "type": "CH Headings",
-              "item": "2XL",
-              "subitem": "H4",
-              "state": "paragraphSpacing"
-            },
-            "path": [
-              "Typography",
-              "CH Headings",
-              "2XL",
-              "H4",
-              "paragraphSpacing"
-            ]
-          },
-          "paragraphIndent": {
-            "value": 0,
-            "type": "paragraphIndent",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{paragraphIndent.0}",
-              "type": "paragraphIndent"
-            },
-            "name": "mch_typography_ch_headings_2_xl_h4_paragraph_indent",
-            "attributes": {
-              "category": "Typography",
-              "type": "CH Headings",
-              "item": "2XL",
-              "subitem": "H4",
-              "state": "paragraphIndent"
-            },
-            "path": [
-              "Typography",
-              "CH Headings",
-              "2XL",
-              "H4",
-              "paragraphIndent"
-            ]
-          },
-          "textCase": {
-            "value": "none",
-            "type": "textCase",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{textCase.none}",
-              "type": "textCase"
-            },
-            "name": "mch_typography_ch_headings_2_xl_h4_text_case",
-            "attributes": {
-              "category": "Typography",
-              "type": "CH Headings",
-              "item": "2XL",
-              "subitem": "H4",
-              "state": "textCase"
-            },
-            "path": [
-              "Typography",
-              "CH Headings",
-              "2XL",
-              "H4",
-              "textCase"
-            ]
-          },
-          "textDecoration": {
-            "value": "none",
-            "type": "textDecoration",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{textDecoration.none}",
-              "type": "textDecoration"
-            },
-            "name": "mch_typography_ch_headings_2_xl_h4_text_decoration",
-            "attributes": {
-              "category": "Typography",
-              "type": "CH Headings",
-              "item": "2XL",
-              "subitem": "H4",
-              "state": "textDecoration"
-            },
-            "path": [
-              "Typography",
-              "CH Headings",
-              "2XL",
-              "H4",
-              "textDecoration"
-            ]
-          }
-        },
-        "h5": {
-          "fontFamily": {
-            "value": "Ivar Display",
-            "type": "fontFamilies",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{fontFamilies.ivar-display}",
-              "type": "fontFamilies"
-            },
-            "name": "mch_typography_ch_headings_2_xl_h5_font_family",
-            "attributes": {
-              "category": "Typography",
-              "type": "CH Headings",
-              "item": "2XL",
-              "subitem": "H5",
-              "state": "fontFamily"
-            },
-            "path": [
-              "Typography",
-              "CH Headings",
-              "2XL",
-              "H5",
-              "fontFamily"
-            ]
-          },
-          "fontWeight": {
-            "value": "600",
-            "type": "fontWeights",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{fontWeights.ivar-display-3}",
-              "type": "fontWeights"
-            },
-            "name": "mch_typography_ch_headings_2_xl_h5_font_weight",
-            "attributes": {
-              "category": "Typography",
-              "type": "CH Headings",
-              "item": "2XL",
-              "subitem": "H5",
-              "state": "fontWeight"
-            },
-            "path": [
-              "Typography",
-              "CH Headings",
-              "2XL",
-              "H5",
-              "fontWeight"
-            ]
-          },
-          "lineHeight": {
-            "value": "1.5rem",
-            "type": "lineHeights",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{lineHeights.12}",
-              "type": "lineHeights"
-            },
-            "name": "mch_typography_ch_headings_2_xl_h5_line_height",
-            "attributes": {
-              "category": "Typography",
-              "type": "CH Headings",
-              "item": "2XL",
-              "subitem": "H5",
-              "state": "lineHeight"
-            },
-            "path": [
-              "Typography",
-              "CH Headings",
-              "2XL",
-              "H5",
-              "lineHeight"
-            ]
-          },
-          "fontSize": {
-            "value": "1.25rem",
-            "type": "fontSizes",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{fontSize.4}",
-              "type": "fontSizes"
-            },
-            "name": "mch_typography_ch_headings_2_xl_h5_font_size",
-            "attributes": {
-              "category": "Typography",
-              "type": "CH Headings",
-              "item": "2XL",
-              "subitem": "H5",
-              "state": "fontSize"
-            },
-            "path": [
-              "Typography",
-              "CH Headings",
-              "2XL",
-              "H5",
-              "fontSize"
-            ]
-          },
-          "letterSpacing": {
-            "value": "0rem",
-            "type": "letterSpacing",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{letterSpacing.0}",
-              "type": "letterSpacing"
-            },
-            "name": "mch_typography_ch_headings_2_xl_h5_letter_spacing",
-            "attributes": {
-              "category": "Typography",
-              "type": "CH Headings",
-              "item": "2XL",
-              "subitem": "H5",
-              "state": "letterSpacing"
-            },
-            "path": [
-              "Typography",
-              "CH Headings",
-              "2XL",
-              "H5",
-              "letterSpacing"
-            ]
-          },
-          "paragraphSpacing": {
-            "value": "0",
-            "type": "paragraphSpacing",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{paragraphSpacing.0}",
-              "type": "paragraphSpacing"
-            },
-            "name": "mch_typography_ch_headings_2_xl_h5_paragraph_spacing",
-            "attributes": {
-              "category": "Typography",
-              "type": "CH Headings",
-              "item": "2XL",
-              "subitem": "H5",
-              "state": "paragraphSpacing"
-            },
-            "path": [
-              "Typography",
-              "CH Headings",
-              "2XL",
-              "H5",
-              "paragraphSpacing"
-            ]
-          },
-          "paragraphIndent": {
-            "value": 0,
-            "type": "paragraphIndent",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{paragraphIndent.0}",
-              "type": "paragraphIndent"
-            },
-            "name": "mch_typography_ch_headings_2_xl_h5_paragraph_indent",
-            "attributes": {
-              "category": "Typography",
-              "type": "CH Headings",
-              "item": "2XL",
-              "subitem": "H5",
-              "state": "paragraphIndent"
-            },
-            "path": [
-              "Typography",
-              "CH Headings",
-              "2XL",
-              "H5",
-              "paragraphIndent"
-            ]
-          },
-          "textCase": {
-            "value": "none",
-            "type": "textCase",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{textCase.none}",
-              "type": "textCase"
-            },
-            "name": "mch_typography_ch_headings_2_xl_h5_text_case",
-            "attributes": {
-              "category": "Typography",
-              "type": "CH Headings",
-              "item": "2XL",
-              "subitem": "H5",
-              "state": "textCase"
-            },
-            "path": [
-              "Typography",
-              "CH Headings",
-              "2XL",
-              "H5",
-              "textCase"
-            ]
-          },
-          "textDecoration": {
-            "value": "none",
-            "type": "textDecoration",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{textDecoration.none}",
-              "type": "textDecoration"
-            },
-            "name": "mch_typography_ch_headings_2_xl_h5_text_decoration",
-            "attributes": {
-              "category": "Typography",
-              "type": "CH Headings",
-              "item": "2XL",
-              "subitem": "H5",
-              "state": "textDecoration"
-            },
-            "path": [
-              "Typography",
-              "CH Headings",
-              "2XL",
-              "H5",
-              "textDecoration"
-            ]
-          }
-        }
-      },
-      "xl": {
-        "display": {
-          "fontFamily": {
-            "value": "Ivar Display",
-            "type": "fontFamilies",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{fontFamilies.ivar-display}",
-              "type": "fontFamilies"
-            },
-            "name": "mch_typography_ch_headings_xl_display_font_family",
-            "attributes": {
-              "category": "Typography",
-              "type": "CH Headings",
-              "item": "XL",
-              "subitem": "Display",
-              "state": "fontFamily"
-            },
-            "path": [
-              "Typography",
-              "CH Headings",
-              "XL",
-              "Display",
-              "fontFamily"
-            ]
-          },
-          "fontWeight": {
-            "value": "600",
-            "type": "fontWeights",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{fontWeights.ivar-display-3}",
-              "type": "fontWeights"
-            },
-            "name": "mch_typography_ch_headings_xl_display_font_weight",
-            "attributes": {
-              "category": "Typography",
-              "type": "CH Headings",
-              "item": "XL",
-              "subitem": "Display",
-              "state": "fontWeight"
-            },
-            "path": [
-              "Typography",
-              "CH Headings",
-              "XL",
-              "Display",
-              "fontWeight"
-            ]
-          },
-          "lineHeight": {
-            "value": "8rem",
-            "type": "lineHeights",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{lineHeights.20}",
-              "type": "lineHeights"
-            },
-            "name": "mch_typography_ch_headings_xl_display_line_height",
-            "attributes": {
-              "category": "Typography",
-              "type": "CH Headings",
-              "item": "XL",
-              "subitem": "Display",
-              "state": "lineHeight"
-            },
-            "path": [
-              "Typography",
-              "CH Headings",
-              "XL",
-              "Display",
-              "lineHeight"
-            ]
-          },
-          "fontSize": {
-            "value": "8rem",
-            "type": "fontSizes",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{fontSize.26}",
-              "type": "fontSizes"
-            },
-            "name": "mch_typography_ch_headings_xl_display_font_size",
-            "attributes": {
-              "category": "Typography",
-              "type": "CH Headings",
-              "item": "XL",
-              "subitem": "Display",
-              "state": "fontSize"
-            },
-            "path": [
-              "Typography",
-              "CH Headings",
-              "XL",
-              "Display",
-              "fontSize"
-            ]
-          },
-          "letterSpacing": {
-            "value": "0rem",
-            "type": "letterSpacing",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{letterSpacing.0}",
-              "type": "letterSpacing"
-            },
-            "name": "mch_typography_ch_headings_xl_display_letter_spacing",
-            "attributes": {
-              "category": "Typography",
-              "type": "CH Headings",
-              "item": "XL",
-              "subitem": "Display",
-              "state": "letterSpacing"
-            },
-            "path": [
-              "Typography",
-              "CH Headings",
-              "XL",
-              "Display",
-              "letterSpacing"
-            ]
-          },
-          "paragraphSpacing": {
-            "value": "0",
-            "type": "paragraphSpacing",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{paragraphSpacing.0}",
-              "type": "paragraphSpacing"
-            },
-            "name": "mch_typography_ch_headings_xl_display_paragraph_spacing",
-            "attributes": {
-              "category": "Typography",
-              "type": "CH Headings",
-              "item": "XL",
-              "subitem": "Display",
-              "state": "paragraphSpacing"
-            },
-            "path": [
-              "Typography",
-              "CH Headings",
-              "XL",
-              "Display",
-              "paragraphSpacing"
-            ]
-          },
-          "paragraphIndent": {
-            "value": 0,
-            "type": "paragraphIndent",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{paragraphIndent.0}",
-              "type": "paragraphIndent"
-            },
-            "name": "mch_typography_ch_headings_xl_display_paragraph_indent",
-            "attributes": {
-              "category": "Typography",
-              "type": "CH Headings",
-              "item": "XL",
-              "subitem": "Display",
-              "state": "paragraphIndent"
-            },
-            "path": [
-              "Typography",
-              "CH Headings",
-              "XL",
-              "Display",
-              "paragraphIndent"
-            ]
-          },
-          "textCase": {
-            "value": "none",
-            "type": "textCase",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{textCase.none}",
-              "type": "textCase"
-            },
-            "name": "mch_typography_ch_headings_xl_display_text_case",
-            "attributes": {
-              "category": "Typography",
-              "type": "CH Headings",
-              "item": "XL",
-              "subitem": "Display",
-              "state": "textCase"
-            },
-            "path": [
-              "Typography",
-              "CH Headings",
-              "XL",
-              "Display",
-              "textCase"
-            ]
-          },
-          "textDecoration": {
-            "value": "none",
-            "type": "textDecoration",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{textDecoration.none}",
-              "type": "textDecoration"
-            },
-            "name": "mch_typography_ch_headings_xl_display_text_decoration",
-            "attributes": {
-              "category": "Typography",
-              "type": "CH Headings",
-              "item": "XL",
-              "subitem": "Display",
-              "state": "textDecoration"
-            },
-            "path": [
-              "Typography",
-              "CH Headings",
-              "XL",
-              "Display",
-              "textDecoration"
-            ]
-          }
-        },
-        "h1": {
-          "fontFamily": {
-            "value": "Ivar Display",
-            "type": "fontFamilies",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{fontFamilies.ivar-display}",
-              "type": "fontFamilies"
-            },
-            "name": "mch_typography_ch_headings_xl_h1_font_family",
-            "attributes": {
-              "category": "Typography",
-              "type": "CH Headings",
-              "item": "XL",
-              "subitem": "H1",
-              "state": "fontFamily"
-            },
-            "path": [
-              "Typography",
-              "CH Headings",
-              "XL",
-              "H1",
-              "fontFamily"
-            ]
-          },
-          "fontWeight": {
-            "value": "600",
-            "type": "fontWeights",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{fontWeights.ivar-display-3}",
-              "type": "fontWeights"
-            },
-            "name": "mch_typography_ch_headings_xl_h1_font_weight",
-            "attributes": {
-              "category": "Typography",
-              "type": "CH Headings",
-              "item": "XL",
-              "subitem": "H1",
-              "state": "fontWeight"
-            },
-            "path": [
-              "Typography",
-              "CH Headings",
-              "XL",
-              "H1",
-              "fontWeight"
-            ]
-          },
-          "lineHeight": {
-            "value": "5.25rem",
-            "type": "lineHeights",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{lineHeights.21}",
-              "type": "lineHeights"
-            },
-            "name": "mch_typography_ch_headings_xl_h1_line_height",
-            "attributes": {
-              "category": "Typography",
-              "type": "CH Headings",
-              "item": "XL",
-              "subitem": "H1",
-              "state": "lineHeight"
-            },
-            "path": [
-              "Typography",
-              "CH Headings",
-              "XL",
-              "H1",
-              "lineHeight"
-            ]
-          },
-          "fontSize": {
-            "value": "5.25rem",
-            "type": "fontSizes",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{fontSize.23}",
-              "type": "fontSizes"
-            },
-            "name": "mch_typography_ch_headings_xl_h1_font_size",
-            "attributes": {
-              "category": "Typography",
-              "type": "CH Headings",
-              "item": "XL",
-              "subitem": "H1",
-              "state": "fontSize"
-            },
-            "path": [
-              "Typography",
-              "CH Headings",
-              "XL",
-              "H1",
-              "fontSize"
-            ]
-          },
-          "letterSpacing": {
-            "value": "0rem",
-            "type": "letterSpacing",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{letterSpacing.0}",
-              "type": "letterSpacing"
-            },
-            "name": "mch_typography_ch_headings_xl_h1_letter_spacing",
-            "attributes": {
-              "category": "Typography",
-              "type": "CH Headings",
-              "item": "XL",
-              "subitem": "H1",
-              "state": "letterSpacing"
-            },
-            "path": [
-              "Typography",
-              "CH Headings",
-              "XL",
-              "H1",
-              "letterSpacing"
-            ]
-          },
-          "paragraphSpacing": {
-            "value": "0",
-            "type": "paragraphSpacing",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{paragraphSpacing.0}",
-              "type": "paragraphSpacing"
-            },
-            "name": "mch_typography_ch_headings_xl_h1_paragraph_spacing",
-            "attributes": {
-              "category": "Typography",
-              "type": "CH Headings",
-              "item": "XL",
-              "subitem": "H1",
-              "state": "paragraphSpacing"
-            },
-            "path": [
-              "Typography",
-              "CH Headings",
-              "XL",
-              "H1",
-              "paragraphSpacing"
-            ]
-          },
-          "paragraphIndent": {
-            "value": 0,
-            "type": "paragraphIndent",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{paragraphIndent.0}",
-              "type": "paragraphIndent"
-            },
-            "name": "mch_typography_ch_headings_xl_h1_paragraph_indent",
-            "attributes": {
-              "category": "Typography",
-              "type": "CH Headings",
-              "item": "XL",
-              "subitem": "H1",
-              "state": "paragraphIndent"
-            },
-            "path": [
-              "Typography",
-              "CH Headings",
-              "XL",
-              "H1",
-              "paragraphIndent"
-            ]
-          },
-          "textCase": {
-            "value": "none",
-            "type": "textCase",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{textCase.none}",
-              "type": "textCase"
-            },
-            "name": "mch_typography_ch_headings_xl_h1_text_case",
-            "attributes": {
-              "category": "Typography",
-              "type": "CH Headings",
-              "item": "XL",
-              "subitem": "H1",
-              "state": "textCase"
-            },
-            "path": [
-              "Typography",
-              "CH Headings",
-              "XL",
-              "H1",
-              "textCase"
-            ]
-          },
-          "textDecoration": {
-            "value": "none",
-            "type": "textDecoration",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{textDecoration.none}",
-              "type": "textDecoration"
-            },
-            "name": "mch_typography_ch_headings_xl_h1_text_decoration",
-            "attributes": {
-              "category": "Typography",
-              "type": "CH Headings",
-              "item": "XL",
-              "subitem": "H1",
-              "state": "textDecoration"
-            },
-            "path": [
-              "Typography",
-              "CH Headings",
-              "XL",
-              "H1",
-              "textDecoration"
-            ]
-          }
-        },
-        "h2": {
-          "fontFamily": {
-            "value": "Ivar Display",
-            "type": "fontFamilies",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{fontFamilies.ivar-display}",
-              "type": "fontFamilies"
-            },
-            "name": "mch_typography_ch_headings_xl_h2_font_family",
-            "attributes": {
-              "category": "Typography",
-              "type": "CH Headings",
-              "item": "XL",
-              "subitem": "H2",
-              "state": "fontFamily"
-            },
-            "path": [
-              "Typography",
-              "CH Headings",
-              "XL",
-              "H2",
-              "fontFamily"
-            ]
-          },
-          "fontWeight": {
-            "value": "600",
-            "type": "fontWeights",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{fontWeights.ivar-display-3}",
-              "type": "fontWeights"
-            },
-            "name": "mch_typography_ch_headings_xl_h2_font_weight",
-            "attributes": {
-              "category": "Typography",
-              "type": "CH Headings",
-              "item": "XL",
-              "subitem": "H2",
-              "state": "fontWeight"
-            },
-            "path": [
-              "Typography",
-              "CH Headings",
-              "XL",
-              "H2",
-              "fontWeight"
-            ]
-          },
-          "lineHeight": {
-            "value": "4rem",
-            "type": "lineHeights",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{lineHeights.17}",
-              "type": "lineHeights"
-            },
-            "name": "mch_typography_ch_headings_xl_h2_line_height",
-            "attributes": {
-              "category": "Typography",
-              "type": "CH Headings",
-              "item": "XL",
-              "subitem": "H2",
-              "state": "lineHeight"
-            },
-            "path": [
-              "Typography",
-              "CH Headings",
-              "XL",
-              "H2",
-              "lineHeight"
-            ]
-          },
-          "fontSize": {
-            "value": "4rem",
-            "type": "fontSizes",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{fontSize.20}",
-              "type": "fontSizes"
-            },
-            "name": "mch_typography_ch_headings_xl_h2_font_size",
-            "attributes": {
-              "category": "Typography",
-              "type": "CH Headings",
-              "item": "XL",
-              "subitem": "H2",
-              "state": "fontSize"
-            },
-            "path": [
-              "Typography",
-              "CH Headings",
-              "XL",
-              "H2",
-              "fontSize"
-            ]
-          },
-          "letterSpacing": {
-            "value": "0rem",
-            "type": "letterSpacing",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{letterSpacing.0}",
-              "type": "letterSpacing"
-            },
-            "name": "mch_typography_ch_headings_xl_h2_letter_spacing",
-            "attributes": {
-              "category": "Typography",
-              "type": "CH Headings",
-              "item": "XL",
-              "subitem": "H2",
-              "state": "letterSpacing"
-            },
-            "path": [
-              "Typography",
-              "CH Headings",
-              "XL",
-              "H2",
-              "letterSpacing"
-            ]
-          },
-          "paragraphSpacing": {
-            "value": "0",
-            "type": "paragraphSpacing",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{paragraphSpacing.0}",
-              "type": "paragraphSpacing"
-            },
-            "name": "mch_typography_ch_headings_xl_h2_paragraph_spacing",
-            "attributes": {
-              "category": "Typography",
-              "type": "CH Headings",
-              "item": "XL",
-              "subitem": "H2",
-              "state": "paragraphSpacing"
-            },
-            "path": [
-              "Typography",
-              "CH Headings",
-              "XL",
-              "H2",
-              "paragraphSpacing"
-            ]
-          },
-          "paragraphIndent": {
-            "value": 0,
-            "type": "paragraphIndent",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{paragraphIndent.0}",
-              "type": "paragraphIndent"
-            },
-            "name": "mch_typography_ch_headings_xl_h2_paragraph_indent",
-            "attributes": {
-              "category": "Typography",
-              "type": "CH Headings",
-              "item": "XL",
-              "subitem": "H2",
-              "state": "paragraphIndent"
-            },
-            "path": [
-              "Typography",
-              "CH Headings",
-              "XL",
-              "H2",
-              "paragraphIndent"
-            ]
-          },
-          "textCase": {
-            "value": "none",
-            "type": "textCase",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{textCase.none}",
-              "type": "textCase"
-            },
-            "name": "mch_typography_ch_headings_xl_h2_text_case",
-            "attributes": {
-              "category": "Typography",
-              "type": "CH Headings",
-              "item": "XL",
-              "subitem": "H2",
-              "state": "textCase"
-            },
-            "path": [
-              "Typography",
-              "CH Headings",
-              "XL",
-              "H2",
-              "textCase"
-            ]
-          },
-          "textDecoration": {
-            "value": "none",
-            "type": "textDecoration",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{textDecoration.none}",
-              "type": "textDecoration"
-            },
-            "name": "mch_typography_ch_headings_xl_h2_text_decoration",
-            "attributes": {
-              "category": "Typography",
-              "type": "CH Headings",
-              "item": "XL",
-              "subitem": "H2",
-              "state": "textDecoration"
-            },
-            "path": [
-              "Typography",
-              "CH Headings",
-              "XL",
-              "H2",
-              "textDecoration"
-            ]
-          }
-        },
-        "h3": {
-          "fontFamily": {
-            "value": "Ivar Display",
-            "type": "fontFamilies",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{fontFamilies.ivar-display}",
-              "type": "fontFamilies"
-            },
-            "name": "mch_typography_ch_headings_xl_h3_font_family",
-            "attributes": {
-              "category": "Typography",
-              "type": "CH Headings",
-              "item": "XL",
-              "subitem": "H3",
-              "state": "fontFamily"
-            },
-            "path": [
-              "Typography",
-              "CH Headings",
-              "XL",
-              "H3",
-              "fontFamily"
-            ]
-          },
-          "fontWeight": {
-            "value": "600",
-            "type": "fontWeights",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{fontWeights.ivar-display-3}",
-              "type": "fontWeights"
-            },
-            "name": "mch_typography_ch_headings_xl_h3_font_weight",
-            "attributes": {
-              "category": "Typography",
-              "type": "CH Headings",
-              "item": "XL",
-              "subitem": "H3",
-              "state": "fontWeight"
-            },
-            "path": [
-              "Typography",
-              "CH Headings",
-              "XL",
-              "H3",
-              "fontWeight"
-            ]
-          },
-          "lineHeight": {
-            "value": "2.875rem",
-            "type": "lineHeights",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{lineHeights.9}",
-              "type": "lineHeights"
-            },
-            "name": "mch_typography_ch_headings_xl_h3_line_height",
-            "attributes": {
-              "category": "Typography",
-              "type": "CH Headings",
-              "item": "XL",
-              "subitem": "H3",
-              "state": "lineHeight"
-            },
-            "path": [
-              "Typography",
-              "CH Headings",
-              "XL",
-              "H3",
-              "lineHeight"
-            ]
-          },
-          "fontSize": {
-            "value": "2.75rem",
-            "type": "fontSizes",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{fontSize.16}",
-              "type": "fontSizes"
-            },
-            "name": "mch_typography_ch_headings_xl_h3_font_size",
-            "attributes": {
-              "category": "Typography",
-              "type": "CH Headings",
-              "item": "XL",
-              "subitem": "H3",
-              "state": "fontSize"
-            },
-            "path": [
-              "Typography",
-              "CH Headings",
-              "XL",
-              "H3",
-              "fontSize"
-            ]
-          },
-          "letterSpacing": {
-            "value": "0rem",
-            "type": "letterSpacing",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{letterSpacing.0}",
-              "type": "letterSpacing"
-            },
-            "name": "mch_typography_ch_headings_xl_h3_letter_spacing",
-            "attributes": {
-              "category": "Typography",
-              "type": "CH Headings",
-              "item": "XL",
-              "subitem": "H3",
-              "state": "letterSpacing"
-            },
-            "path": [
-              "Typography",
-              "CH Headings",
-              "XL",
-              "H3",
-              "letterSpacing"
-            ]
-          },
-          "paragraphSpacing": {
-            "value": "0",
-            "type": "paragraphSpacing",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{paragraphSpacing.0}",
-              "type": "paragraphSpacing"
-            },
-            "name": "mch_typography_ch_headings_xl_h3_paragraph_spacing",
-            "attributes": {
-              "category": "Typography",
-              "type": "CH Headings",
-              "item": "XL",
-              "subitem": "H3",
-              "state": "paragraphSpacing"
-            },
-            "path": [
-              "Typography",
-              "CH Headings",
-              "XL",
-              "H3",
-              "paragraphSpacing"
-            ]
-          },
-          "paragraphIndent": {
-            "value": 0,
-            "type": "paragraphIndent",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{paragraphIndent.0}",
-              "type": "paragraphIndent"
-            },
-            "name": "mch_typography_ch_headings_xl_h3_paragraph_indent",
-            "attributes": {
-              "category": "Typography",
-              "type": "CH Headings",
-              "item": "XL",
-              "subitem": "H3",
-              "state": "paragraphIndent"
-            },
-            "path": [
-              "Typography",
-              "CH Headings",
-              "XL",
-              "H3",
-              "paragraphIndent"
-            ]
-          },
-          "textCase": {
-            "value": "none",
-            "type": "textCase",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{textCase.none}",
-              "type": "textCase"
-            },
-            "name": "mch_typography_ch_headings_xl_h3_text_case",
-            "attributes": {
-              "category": "Typography",
-              "type": "CH Headings",
-              "item": "XL",
-              "subitem": "H3",
-              "state": "textCase"
-            },
-            "path": [
-              "Typography",
-              "CH Headings",
-              "XL",
-              "H3",
-              "textCase"
-            ]
-          },
-          "textDecoration": {
-            "value": "none",
-            "type": "textDecoration",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{textDecoration.none}",
-              "type": "textDecoration"
-            },
-            "name": "mch_typography_ch_headings_xl_h3_text_decoration",
-            "attributes": {
-              "category": "Typography",
-              "type": "CH Headings",
-              "item": "XL",
-              "subitem": "H3",
-              "state": "textDecoration"
-            },
-            "path": [
-              "Typography",
-              "CH Headings",
-              "XL",
-              "H3",
-              "textDecoration"
-            ]
-          }
-        },
-        "h4": {
-          "fontFamily": {
-            "value": "Ivar Display",
-            "type": "fontFamilies",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{fontFamilies.ivar-display}",
-              "type": "fontFamilies"
-            },
-            "name": "mch_typography_ch_headings_xl_h4_font_family",
-            "attributes": {
-              "category": "Typography",
-              "type": "CH Headings",
-              "item": "XL",
-              "subitem": "H4",
-              "state": "fontFamily"
-            },
-            "path": [
-              "Typography",
-              "CH Headings",
-              "XL",
-              "H4",
-              "fontFamily"
-            ]
-          },
-          "fontWeight": {
-            "value": "600",
-            "type": "fontWeights",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{fontWeights.ivar-display-3}",
-              "type": "fontWeights"
-            },
-            "name": "mch_typography_ch_headings_xl_h4_font_weight",
-            "attributes": {
-              "category": "Typography",
-              "type": "CH Headings",
-              "item": "XL",
-              "subitem": "H4",
-              "state": "fontWeight"
-            },
-            "path": [
-              "Typography",
-              "CH Headings",
-              "XL",
-              "H4",
-              "fontWeight"
-            ]
-          },
-          "lineHeight": {
-            "value": "2.125rem",
-            "type": "lineHeights",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{lineHeights.7}",
-              "type": "lineHeights"
-            },
-            "name": "mch_typography_ch_headings_xl_h4_line_height",
-            "attributes": {
-              "category": "Typography",
-              "type": "CH Headings",
-              "item": "XL",
-              "subitem": "H4",
-              "state": "lineHeight"
-            },
-            "path": [
-              "Typography",
-              "CH Headings",
-              "XL",
-              "H4",
-              "lineHeight"
-            ]
-          },
-          "fontSize": {
-            "value": "1.875rem",
-            "type": "fontSizes",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{fontSize.7}",
-              "type": "fontSizes"
-            },
-            "name": "mch_typography_ch_headings_xl_h4_font_size",
-            "attributes": {
-              "category": "Typography",
-              "type": "CH Headings",
-              "item": "XL",
-              "subitem": "H4",
-              "state": "fontSize"
-            },
-            "path": [
-              "Typography",
-              "CH Headings",
-              "XL",
-              "H4",
-              "fontSize"
-            ]
-          },
-          "letterSpacing": {
-            "value": "0rem",
-            "type": "letterSpacing",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{letterSpacing.0}",
-              "type": "letterSpacing"
-            },
-            "name": "mch_typography_ch_headings_xl_h4_letter_spacing",
-            "attributes": {
-              "category": "Typography",
-              "type": "CH Headings",
-              "item": "XL",
-              "subitem": "H4",
-              "state": "letterSpacing"
-            },
-            "path": [
-              "Typography",
-              "CH Headings",
-              "XL",
-              "H4",
-              "letterSpacing"
-            ]
-          },
-          "paragraphSpacing": {
-            "value": "0",
-            "type": "paragraphSpacing",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{paragraphSpacing.0}",
-              "type": "paragraphSpacing"
-            },
-            "name": "mch_typography_ch_headings_xl_h4_paragraph_spacing",
-            "attributes": {
-              "category": "Typography",
-              "type": "CH Headings",
-              "item": "XL",
-              "subitem": "H4",
-              "state": "paragraphSpacing"
-            },
-            "path": [
-              "Typography",
-              "CH Headings",
-              "XL",
-              "H4",
-              "paragraphSpacing"
-            ]
-          },
-          "paragraphIndent": {
-            "value": 0,
-            "type": "paragraphIndent",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{paragraphIndent.0}",
-              "type": "paragraphIndent"
-            },
-            "name": "mch_typography_ch_headings_xl_h4_paragraph_indent",
-            "attributes": {
-              "category": "Typography",
-              "type": "CH Headings",
-              "item": "XL",
-              "subitem": "H4",
-              "state": "paragraphIndent"
-            },
-            "path": [
-              "Typography",
-              "CH Headings",
-              "XL",
-              "H4",
-              "paragraphIndent"
-            ]
-          },
-          "textCase": {
-            "value": "none",
-            "type": "textCase",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{textCase.none}",
-              "type": "textCase"
-            },
-            "name": "mch_typography_ch_headings_xl_h4_text_case",
-            "attributes": {
-              "category": "Typography",
-              "type": "CH Headings",
-              "item": "XL",
-              "subitem": "H4",
-              "state": "textCase"
-            },
-            "path": [
-              "Typography",
-              "CH Headings",
-              "XL",
-              "H4",
-              "textCase"
-            ]
-          },
-          "textDecoration": {
-            "value": "none",
-            "type": "textDecoration",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{textDecoration.none}",
-              "type": "textDecoration"
-            },
-            "name": "mch_typography_ch_headings_xl_h4_text_decoration",
-            "attributes": {
-              "category": "Typography",
-              "type": "CH Headings",
-              "item": "XL",
-              "subitem": "H4",
-              "state": "textDecoration"
-            },
-            "path": [
-              "Typography",
-              "CH Headings",
-              "XL",
-              "H4",
-              "textDecoration"
-            ]
-          }
-        },
-        "h5": {
-          "fontFamily": {
-            "value": "Ivar Display",
-            "type": "fontFamilies",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{fontFamilies.ivar-display}",
-              "type": "fontFamilies"
-            },
-            "name": "mch_typography_ch_headings_xl_h5_font_family",
-            "attributes": {
-              "category": "Typography",
-              "type": "CH Headings",
-              "item": "XL",
-              "subitem": "H5",
-              "state": "fontFamily"
-            },
-            "path": [
-              "Typography",
-              "CH Headings",
-              "XL",
-              "H5",
-              "fontFamily"
-            ]
-          },
-          "fontWeight": {
-            "value": "600",
-            "type": "fontWeights",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{fontWeights.ivar-display-3}",
-              "type": "fontWeights"
-            },
-            "name": "mch_typography_ch_headings_xl_h5_font_weight",
-            "attributes": {
-              "category": "Typography",
-              "type": "CH Headings",
-              "item": "XL",
-              "subitem": "H5",
-              "state": "fontWeight"
-            },
-            "path": [
-              "Typography",
-              "CH Headings",
-              "XL",
-              "H5",
-              "fontWeight"
-            ]
-          },
-          "lineHeight": {
-            "value": "1.5rem",
-            "type": "lineHeights",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{lineHeights.12}",
-              "type": "lineHeights"
-            },
-            "name": "mch_typography_ch_headings_xl_h5_line_height",
-            "attributes": {
-              "category": "Typography",
-              "type": "CH Headings",
-              "item": "XL",
-              "subitem": "H5",
-              "state": "lineHeight"
-            },
-            "path": [
-              "Typography",
-              "CH Headings",
-              "XL",
-              "H5",
-              "lineHeight"
-            ]
-          },
-          "fontSize": {
-            "value": "1.25rem",
-            "type": "fontSizes",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{fontSize.4}",
-              "type": "fontSizes"
-            },
-            "name": "mch_typography_ch_headings_xl_h5_font_size",
-            "attributes": {
-              "category": "Typography",
-              "type": "CH Headings",
-              "item": "XL",
-              "subitem": "H5",
-              "state": "fontSize"
-            },
-            "path": [
-              "Typography",
-              "CH Headings",
-              "XL",
-              "H5",
-              "fontSize"
-            ]
-          },
-          "letterSpacing": {
-            "value": "0rem",
-            "type": "letterSpacing",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{letterSpacing.0}",
-              "type": "letterSpacing"
-            },
-            "name": "mch_typography_ch_headings_xl_h5_letter_spacing",
-            "attributes": {
-              "category": "Typography",
-              "type": "CH Headings",
-              "item": "XL",
-              "subitem": "H5",
-              "state": "letterSpacing"
-            },
-            "path": [
-              "Typography",
-              "CH Headings",
-              "XL",
-              "H5",
-              "letterSpacing"
-            ]
-          },
-          "paragraphSpacing": {
-            "value": "0",
-            "type": "paragraphSpacing",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{paragraphSpacing.0}",
-              "type": "paragraphSpacing"
-            },
-            "name": "mch_typography_ch_headings_xl_h5_paragraph_spacing",
-            "attributes": {
-              "category": "Typography",
-              "type": "CH Headings",
-              "item": "XL",
-              "subitem": "H5",
-              "state": "paragraphSpacing"
-            },
-            "path": [
-              "Typography",
-              "CH Headings",
-              "XL",
-              "H5",
-              "paragraphSpacing"
-            ]
-          },
-          "paragraphIndent": {
-            "value": 0,
-            "type": "paragraphIndent",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{paragraphIndent.0}",
-              "type": "paragraphIndent"
-            },
-            "name": "mch_typography_ch_headings_xl_h5_paragraph_indent",
-            "attributes": {
-              "category": "Typography",
-              "type": "CH Headings",
-              "item": "XL",
-              "subitem": "H5",
-              "state": "paragraphIndent"
-            },
-            "path": [
-              "Typography",
-              "CH Headings",
-              "XL",
-              "H5",
-              "paragraphIndent"
-            ]
-          },
-          "textCase": {
-            "value": "none",
-            "type": "textCase",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{textCase.none}",
-              "type": "textCase"
-            },
-            "name": "mch_typography_ch_headings_xl_h5_text_case",
-            "attributes": {
-              "category": "Typography",
-              "type": "CH Headings",
-              "item": "XL",
-              "subitem": "H5",
-              "state": "textCase"
-            },
-            "path": [
-              "Typography",
-              "CH Headings",
-              "XL",
-              "H5",
-              "textCase"
-            ]
-          },
-          "textDecoration": {
-            "value": "none",
-            "type": "textDecoration",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{textDecoration.none}",
-              "type": "textDecoration"
-            },
-            "name": "mch_typography_ch_headings_xl_h5_text_decoration",
-            "attributes": {
-              "category": "Typography",
-              "type": "CH Headings",
-              "item": "XL",
-              "subitem": "H5",
-              "state": "textDecoration"
-            },
-            "path": [
-              "Typography",
-              "CH Headings",
-              "XL",
-              "H5",
-              "textDecoration"
-            ]
-          }
-        }
-      },
-      "lg": {
-        "display": {
-          "fontFamily": {
-            "value": "Ivar Display",
-            "type": "fontFamilies",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{fontFamilies.ivar-display}",
-              "type": "fontFamilies"
-            },
-            "name": "mch_typography_ch_headings_lg_display_font_family",
-            "attributes": {
-              "category": "Typography",
-              "type": "CH Headings",
-              "item": "LG",
-              "subitem": "Display",
-              "state": "fontFamily"
-            },
-            "path": [
-              "Typography",
-              "CH Headings",
-              "LG",
-              "Display",
-              "fontFamily"
-            ]
-          },
-          "fontWeight": {
-            "value": "600",
-            "type": "fontWeights",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{fontWeights.ivar-display-3}",
-              "type": "fontWeights"
-            },
-            "name": "mch_typography_ch_headings_lg_display_font_weight",
-            "attributes": {
-              "category": "Typography",
-              "type": "CH Headings",
-              "item": "LG",
-              "subitem": "Display",
-              "state": "fontWeight"
-            },
-            "path": [
-              "Typography",
-              "CH Headings",
-              "LG",
-              "Display",
-              "fontWeight"
-            ]
-          },
-          "lineHeight": {
-            "value": "6.5rem",
-            "type": "lineHeights",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{lineHeights.22}",
-              "type": "lineHeights"
-            },
-            "name": "mch_typography_ch_headings_lg_display_line_height",
-            "attributes": {
-              "category": "Typography",
-              "type": "CH Headings",
-              "item": "LG",
-              "subitem": "Display",
-              "state": "lineHeight"
-            },
-            "path": [
-              "Typography",
-              "CH Headings",
-              "LG",
-              "Display",
-              "lineHeight"
-            ]
-          },
-          "fontSize": {
-            "value": "6.5rem",
-            "type": "fontSizes",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{fontSize.25}",
-              "type": "fontSizes"
-            },
-            "name": "mch_typography_ch_headings_lg_display_font_size",
-            "attributes": {
-              "category": "Typography",
-              "type": "CH Headings",
-              "item": "LG",
-              "subitem": "Display",
-              "state": "fontSize"
-            },
-            "path": [
-              "Typography",
-              "CH Headings",
-              "LG",
-              "Display",
-              "fontSize"
-            ]
-          },
-          "letterSpacing": {
-            "value": "0rem",
-            "type": "letterSpacing",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{letterSpacing.0}",
-              "type": "letterSpacing"
-            },
-            "name": "mch_typography_ch_headings_lg_display_letter_spacing",
-            "attributes": {
-              "category": "Typography",
-              "type": "CH Headings",
-              "item": "LG",
-              "subitem": "Display",
-              "state": "letterSpacing"
-            },
-            "path": [
-              "Typography",
-              "CH Headings",
-              "LG",
-              "Display",
-              "letterSpacing"
-            ]
-          },
-          "paragraphSpacing": {
-            "value": "0",
-            "type": "paragraphSpacing",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{paragraphSpacing.0}",
-              "type": "paragraphSpacing"
-            },
-            "name": "mch_typography_ch_headings_lg_display_paragraph_spacing",
-            "attributes": {
-              "category": "Typography",
-              "type": "CH Headings",
-              "item": "LG",
-              "subitem": "Display",
-              "state": "paragraphSpacing"
-            },
-            "path": [
-              "Typography",
-              "CH Headings",
-              "LG",
-              "Display",
-              "paragraphSpacing"
-            ]
-          },
-          "paragraphIndent": {
-            "value": 0,
-            "type": "paragraphIndent",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{paragraphIndent.0}",
-              "type": "paragraphIndent"
-            },
-            "name": "mch_typography_ch_headings_lg_display_paragraph_indent",
-            "attributes": {
-              "category": "Typography",
-              "type": "CH Headings",
-              "item": "LG",
-              "subitem": "Display",
-              "state": "paragraphIndent"
-            },
-            "path": [
-              "Typography",
-              "CH Headings",
-              "LG",
-              "Display",
-              "paragraphIndent"
-            ]
-          },
-          "textCase": {
-            "value": "none",
-            "type": "textCase",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{textCase.none}",
-              "type": "textCase"
-            },
-            "name": "mch_typography_ch_headings_lg_display_text_case",
-            "attributes": {
-              "category": "Typography",
-              "type": "CH Headings",
-              "item": "LG",
-              "subitem": "Display",
-              "state": "textCase"
-            },
-            "path": [
-              "Typography",
-              "CH Headings",
-              "LG",
-              "Display",
-              "textCase"
-            ]
-          },
-          "textDecoration": {
-            "value": "none",
-            "type": "textDecoration",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{textDecoration.none}",
-              "type": "textDecoration"
-            },
-            "name": "mch_typography_ch_headings_lg_display_text_decoration",
-            "attributes": {
-              "category": "Typography",
-              "type": "CH Headings",
-              "item": "LG",
-              "subitem": "Display",
-              "state": "textDecoration"
-            },
-            "path": [
-              "Typography",
-              "CH Headings",
-              "LG",
-              "Display",
-              "textDecoration"
-            ]
-          }
-        },
-        "h1": {
-          "fontFamily": {
-            "value": "Ivar Display",
-            "type": "fontFamilies",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{fontFamilies.ivar-display}",
-              "type": "fontFamilies"
-            },
-            "name": "mch_typography_ch_headings_lg_h1_font_family",
-            "attributes": {
-              "category": "Typography",
-              "type": "CH Headings",
-              "item": "LG",
-              "subitem": "H1",
-              "state": "fontFamily"
-            },
-            "path": [
-              "Typography",
-              "CH Headings",
-              "LG",
-              "H1",
-              "fontFamily"
-            ]
-          },
-          "fontWeight": {
-            "value": "600",
-            "type": "fontWeights",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{fontWeights.ivar-display-3}",
-              "type": "fontWeights"
-            },
-            "name": "mch_typography_ch_headings_lg_h1_font_weight",
-            "attributes": {
-              "category": "Typography",
-              "type": "CH Headings",
-              "item": "LG",
-              "subitem": "H1",
-              "state": "fontWeight"
-            },
-            "path": [
-              "Typography",
-              "CH Headings",
-              "LG",
-              "H1",
-              "fontWeight"
-            ]
-          },
-          "lineHeight": {
-            "value": "4.125rem",
-            "type": "lineHeights",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{lineHeights.23}",
-              "type": "lineHeights"
-            },
-            "name": "mch_typography_ch_headings_lg_h1_line_height",
-            "attributes": {
-              "category": "Typography",
-              "type": "CH Headings",
-              "item": "LG",
-              "subitem": "H1",
-              "state": "lineHeight"
-            },
-            "path": [
-              "Typography",
-              "CH Headings",
-              "LG",
-              "H1",
-              "lineHeight"
-            ]
-          },
-          "fontSize": {
-            "value": "4.125rem",
-            "type": "fontSizes",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{fontSize.21}",
-              "type": "fontSizes"
-            },
-            "name": "mch_typography_ch_headings_lg_h1_font_size",
-            "attributes": {
-              "category": "Typography",
-              "type": "CH Headings",
-              "item": "LG",
-              "subitem": "H1",
-              "state": "fontSize"
-            },
-            "path": [
-              "Typography",
-              "CH Headings",
-              "LG",
-              "H1",
-              "fontSize"
-            ]
-          },
-          "letterSpacing": {
-            "value": "0rem",
-            "type": "letterSpacing",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{letterSpacing.0}",
-              "type": "letterSpacing"
-            },
-            "name": "mch_typography_ch_headings_lg_h1_letter_spacing",
-            "attributes": {
-              "category": "Typography",
-              "type": "CH Headings",
-              "item": "LG",
-              "subitem": "H1",
-              "state": "letterSpacing"
-            },
-            "path": [
-              "Typography",
-              "CH Headings",
-              "LG",
-              "H1",
-              "letterSpacing"
-            ]
-          },
-          "paragraphSpacing": {
-            "value": "0",
-            "type": "paragraphSpacing",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{paragraphSpacing.0}",
-              "type": "paragraphSpacing"
-            },
-            "name": "mch_typography_ch_headings_lg_h1_paragraph_spacing",
-            "attributes": {
-              "category": "Typography",
-              "type": "CH Headings",
-              "item": "LG",
-              "subitem": "H1",
-              "state": "paragraphSpacing"
-            },
-            "path": [
-              "Typography",
-              "CH Headings",
-              "LG",
-              "H1",
-              "paragraphSpacing"
-            ]
-          },
-          "paragraphIndent": {
-            "value": 0,
-            "type": "paragraphIndent",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{paragraphIndent.0}",
-              "type": "paragraphIndent"
-            },
-            "name": "mch_typography_ch_headings_lg_h1_paragraph_indent",
-            "attributes": {
-              "category": "Typography",
-              "type": "CH Headings",
-              "item": "LG",
-              "subitem": "H1",
-              "state": "paragraphIndent"
-            },
-            "path": [
-              "Typography",
-              "CH Headings",
-              "LG",
-              "H1",
-              "paragraphIndent"
-            ]
-          },
-          "textCase": {
-            "value": "none",
-            "type": "textCase",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{textCase.none}",
-              "type": "textCase"
-            },
-            "name": "mch_typography_ch_headings_lg_h1_text_case",
-            "attributes": {
-              "category": "Typography",
-              "type": "CH Headings",
-              "item": "LG",
-              "subitem": "H1",
-              "state": "textCase"
-            },
-            "path": [
-              "Typography",
-              "CH Headings",
-              "LG",
-              "H1",
-              "textCase"
-            ]
-          },
-          "textDecoration": {
-            "value": "none",
-            "type": "textDecoration",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{textDecoration.none}",
-              "type": "textDecoration"
-            },
-            "name": "mch_typography_ch_headings_lg_h1_text_decoration",
-            "attributes": {
-              "category": "Typography",
-              "type": "CH Headings",
-              "item": "LG",
-              "subitem": "H1",
-              "state": "textDecoration"
-            },
-            "path": [
-              "Typography",
-              "CH Headings",
-              "LG",
-              "H1",
-              "textDecoration"
-            ]
-          }
-        },
-        "h2": {
-          "fontFamily": {
-            "value": "Ivar Display",
-            "type": "fontFamilies",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{fontFamilies.ivar-display}",
-              "type": "fontFamilies"
-            },
-            "name": "mch_typography_ch_headings_lg_h2_font_family",
-            "attributes": {
-              "category": "Typography",
-              "type": "CH Headings",
-              "item": "LG",
-              "subitem": "H2",
-              "state": "fontFamily"
-            },
-            "path": [
-              "Typography",
-              "CH Headings",
-              "LG",
-              "H2",
-              "fontFamily"
-            ]
-          },
-          "fontWeight": {
-            "value": "600",
-            "type": "fontWeights",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{fontWeights.ivar-display-3}",
-              "type": "fontWeights"
-            },
-            "name": "mch_typography_ch_headings_lg_h2_font_weight",
-            "attributes": {
-              "category": "Typography",
-              "type": "CH Headings",
-              "item": "LG",
-              "subitem": "H2",
-              "state": "fontWeight"
-            },
-            "path": [
-              "Typography",
-              "CH Headings",
-              "LG",
-              "H2",
-              "fontWeight"
-            ]
-          },
-          "lineHeight": {
-            "value": "3.25rem",
-            "type": "lineHeights",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{lineHeights.24}",
-              "type": "lineHeights"
-            },
-            "name": "mch_typography_ch_headings_lg_h2_line_height",
-            "attributes": {
-              "category": "Typography",
-              "type": "CH Headings",
-              "item": "LG",
-              "subitem": "H2",
-              "state": "lineHeight"
-            },
-            "path": [
-              "Typography",
-              "CH Headings",
-              "LG",
-              "H2",
-              "lineHeight"
-            ]
-          },
-          "fontSize": {
-            "value": "3.25rem",
-            "type": "fontSizes",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{fontSize.18}",
-              "type": "fontSizes"
-            },
-            "name": "mch_typography_ch_headings_lg_h2_font_size",
-            "attributes": {
-              "category": "Typography",
-              "type": "CH Headings",
-              "item": "LG",
-              "subitem": "H2",
-              "state": "fontSize"
-            },
-            "path": [
-              "Typography",
-              "CH Headings",
-              "LG",
-              "H2",
-              "fontSize"
-            ]
-          },
-          "letterSpacing": {
-            "value": "0rem",
-            "type": "letterSpacing",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{letterSpacing.0}",
-              "type": "letterSpacing"
-            },
-            "name": "mch_typography_ch_headings_lg_h2_letter_spacing",
-            "attributes": {
-              "category": "Typography",
-              "type": "CH Headings",
-              "item": "LG",
-              "subitem": "H2",
-              "state": "letterSpacing"
-            },
-            "path": [
-              "Typography",
-              "CH Headings",
-              "LG",
-              "H2",
-              "letterSpacing"
-            ]
-          },
-          "paragraphSpacing": {
-            "value": "0",
-            "type": "paragraphSpacing",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{paragraphSpacing.0}",
-              "type": "paragraphSpacing"
-            },
-            "name": "mch_typography_ch_headings_lg_h2_paragraph_spacing",
-            "attributes": {
-              "category": "Typography",
-              "type": "CH Headings",
-              "item": "LG",
-              "subitem": "H2",
-              "state": "paragraphSpacing"
-            },
-            "path": [
-              "Typography",
-              "CH Headings",
-              "LG",
-              "H2",
-              "paragraphSpacing"
-            ]
-          },
-          "paragraphIndent": {
-            "value": 0,
-            "type": "paragraphIndent",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{paragraphIndent.0}",
-              "type": "paragraphIndent"
-            },
-            "name": "mch_typography_ch_headings_lg_h2_paragraph_indent",
-            "attributes": {
-              "category": "Typography",
-              "type": "CH Headings",
-              "item": "LG",
-              "subitem": "H2",
-              "state": "paragraphIndent"
-            },
-            "path": [
-              "Typography",
-              "CH Headings",
-              "LG",
-              "H2",
-              "paragraphIndent"
-            ]
-          },
-          "textCase": {
-            "value": "none",
-            "type": "textCase",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{textCase.none}",
-              "type": "textCase"
-            },
-            "name": "mch_typography_ch_headings_lg_h2_text_case",
-            "attributes": {
-              "category": "Typography",
-              "type": "CH Headings",
-              "item": "LG",
-              "subitem": "H2",
-              "state": "textCase"
-            },
-            "path": [
-              "Typography",
-              "CH Headings",
-              "LG",
-              "H2",
-              "textCase"
-            ]
-          },
-          "textDecoration": {
-            "value": "none",
-            "type": "textDecoration",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{textDecoration.none}",
-              "type": "textDecoration"
-            },
-            "name": "mch_typography_ch_headings_lg_h2_text_decoration",
-            "attributes": {
-              "category": "Typography",
-              "type": "CH Headings",
-              "item": "LG",
-              "subitem": "H2",
-              "state": "textDecoration"
-            },
-            "path": [
-              "Typography",
-              "CH Headings",
-              "LG",
-              "H2",
-              "textDecoration"
-            ]
-          }
-        },
-        "h3": {
-          "fontFamily": {
-            "value": "Ivar Display",
-            "type": "fontFamilies",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{fontFamilies.ivar-display}",
-              "type": "fontFamilies"
-            },
-            "name": "mch_typography_ch_headings_lg_h3_font_family",
-            "attributes": {
-              "category": "Typography",
-              "type": "CH Headings",
-              "item": "LG",
-              "subitem": "H3",
-              "state": "fontFamily"
-            },
-            "path": [
-              "Typography",
-              "CH Headings",
-              "LG",
-              "H3",
-              "fontFamily"
-            ]
-          },
-          "fontWeight": {
-            "value": "600",
-            "type": "fontWeights",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{fontWeights.ivar-display-3}",
-              "type": "fontWeights"
-            },
-            "name": "mch_typography_ch_headings_lg_h3_font_weight",
-            "attributes": {
-              "category": "Typography",
-              "type": "CH Headings",
-              "item": "LG",
-              "subitem": "H3",
-              "state": "fontWeight"
-            },
-            "path": [
-              "Typography",
-              "CH Headings",
-              "LG",
-              "H3",
-              "fontWeight"
-            ]
-          },
-          "lineHeight": {
-            "value": "2.625rem",
-            "type": "lineHeights",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{lineHeights.6}",
-              "type": "lineHeights"
-            },
-            "name": "mch_typography_ch_headings_lg_h3_line_height",
-            "attributes": {
-              "category": "Typography",
-              "type": "CH Headings",
-              "item": "LG",
-              "subitem": "H3",
-              "state": "lineHeight"
-            },
-            "path": [
-              "Typography",
-              "CH Headings",
-              "LG",
-              "H3",
-              "lineHeight"
-            ]
-          },
-          "fontSize": {
-            "value": "2.5rem",
-            "type": "fontSizes",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{fontSize.12}",
-              "type": "fontSizes"
-            },
-            "name": "mch_typography_ch_headings_lg_h3_font_size",
-            "attributes": {
-              "category": "Typography",
-              "type": "CH Headings",
-              "item": "LG",
-              "subitem": "H3",
-              "state": "fontSize"
-            },
-            "path": [
-              "Typography",
-              "CH Headings",
-              "LG",
-              "H3",
-              "fontSize"
-            ]
-          },
-          "letterSpacing": {
-            "value": "0rem",
-            "type": "letterSpacing",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{letterSpacing.0}",
-              "type": "letterSpacing"
-            },
-            "name": "mch_typography_ch_headings_lg_h3_letter_spacing",
-            "attributes": {
-              "category": "Typography",
-              "type": "CH Headings",
-              "item": "LG",
-              "subitem": "H3",
-              "state": "letterSpacing"
-            },
-            "path": [
-              "Typography",
-              "CH Headings",
-              "LG",
-              "H3",
-              "letterSpacing"
-            ]
-          },
-          "paragraphSpacing": {
-            "value": "0",
-            "type": "paragraphSpacing",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{paragraphSpacing.0}",
-              "type": "paragraphSpacing"
-            },
-            "name": "mch_typography_ch_headings_lg_h3_paragraph_spacing",
-            "attributes": {
-              "category": "Typography",
-              "type": "CH Headings",
-              "item": "LG",
-              "subitem": "H3",
-              "state": "paragraphSpacing"
-            },
-            "path": [
-              "Typography",
-              "CH Headings",
-              "LG",
-              "H3",
-              "paragraphSpacing"
-            ]
-          },
-          "paragraphIndent": {
-            "value": 0,
-            "type": "paragraphIndent",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{paragraphIndent.0}",
-              "type": "paragraphIndent"
-            },
-            "name": "mch_typography_ch_headings_lg_h3_paragraph_indent",
-            "attributes": {
-              "category": "Typography",
-              "type": "CH Headings",
-              "item": "LG",
-              "subitem": "H3",
-              "state": "paragraphIndent"
-            },
-            "path": [
-              "Typography",
-              "CH Headings",
-              "LG",
-              "H3",
-              "paragraphIndent"
-            ]
-          },
-          "textCase": {
-            "value": "none",
-            "type": "textCase",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{textCase.none}",
-              "type": "textCase"
-            },
-            "name": "mch_typography_ch_headings_lg_h3_text_case",
-            "attributes": {
-              "category": "Typography",
-              "type": "CH Headings",
-              "item": "LG",
-              "subitem": "H3",
-              "state": "textCase"
-            },
-            "path": [
-              "Typography",
-              "CH Headings",
-              "LG",
-              "H3",
-              "textCase"
-            ]
-          },
-          "textDecoration": {
-            "value": "none",
-            "type": "textDecoration",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{textDecoration.none}",
-              "type": "textDecoration"
-            },
-            "name": "mch_typography_ch_headings_lg_h3_text_decoration",
-            "attributes": {
-              "category": "Typography",
-              "type": "CH Headings",
-              "item": "LG",
-              "subitem": "H3",
-              "state": "textDecoration"
-            },
-            "path": [
-              "Typography",
-              "CH Headings",
-              "LG",
-              "H3",
-              "textDecoration"
-            ]
-          }
-        },
-        "h4": {
-          "fontFamily": {
-            "value": "Ivar Display",
-            "type": "fontFamilies",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{fontFamilies.ivar-display}",
-              "type": "fontFamilies"
-            },
-            "name": "mch_typography_ch_headings_lg_h4_font_family",
-            "attributes": {
-              "category": "Typography",
-              "type": "CH Headings",
-              "item": "LG",
-              "subitem": "H4",
-              "state": "fontFamily"
-            },
-            "path": [
-              "Typography",
-              "CH Headings",
-              "LG",
-              "H4",
-              "fontFamily"
-            ]
-          },
-          "fontWeight": {
-            "value": "600",
-            "type": "fontWeights",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{fontWeights.ivar-display-3}",
-              "type": "fontWeights"
-            },
-            "name": "mch_typography_ch_headings_lg_h4_font_weight",
-            "attributes": {
-              "category": "Typography",
-              "type": "CH Headings",
-              "item": "LG",
-              "subitem": "H4",
-              "state": "fontWeight"
-            },
-            "path": [
-              "Typography",
-              "CH Headings",
-              "LG",
-              "H4",
-              "fontWeight"
-            ]
-          },
-          "lineHeight": {
-            "value": "2rem",
-            "type": "lineHeights",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{lineHeights.16}",
-              "type": "lineHeights"
-            },
-            "name": "mch_typography_ch_headings_lg_h4_line_height",
-            "attributes": {
-              "category": "Typography",
-              "type": "CH Headings",
-              "item": "LG",
-              "subitem": "H4",
-              "state": "lineHeight"
-            },
-            "path": [
-              "Typography",
-              "CH Headings",
-              "LG",
-              "H4",
-              "lineHeight"
-            ]
-          },
-          "fontSize": {
-            "value": "1.75rem",
-            "type": "fontSizes",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{fontSize.15}",
-              "type": "fontSizes"
-            },
-            "name": "mch_typography_ch_headings_lg_h4_font_size",
-            "attributes": {
-              "category": "Typography",
-              "type": "CH Headings",
-              "item": "LG",
-              "subitem": "H4",
-              "state": "fontSize"
-            },
-            "path": [
-              "Typography",
-              "CH Headings",
-              "LG",
-              "H4",
-              "fontSize"
-            ]
-          },
-          "letterSpacing": {
-            "value": "0rem",
-            "type": "letterSpacing",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{letterSpacing.0}",
-              "type": "letterSpacing"
-            },
-            "name": "mch_typography_ch_headings_lg_h4_letter_spacing",
-            "attributes": {
-              "category": "Typography",
-              "type": "CH Headings",
-              "item": "LG",
-              "subitem": "H4",
-              "state": "letterSpacing"
-            },
-            "path": [
-              "Typography",
-              "CH Headings",
-              "LG",
-              "H4",
-              "letterSpacing"
-            ]
-          },
-          "paragraphSpacing": {
-            "value": "0",
-            "type": "paragraphSpacing",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{paragraphSpacing.0}",
-              "type": "paragraphSpacing"
-            },
-            "name": "mch_typography_ch_headings_lg_h4_paragraph_spacing",
-            "attributes": {
-              "category": "Typography",
-              "type": "CH Headings",
-              "item": "LG",
-              "subitem": "H4",
-              "state": "paragraphSpacing"
-            },
-            "path": [
-              "Typography",
-              "CH Headings",
-              "LG",
-              "H4",
-              "paragraphSpacing"
-            ]
-          },
-          "paragraphIndent": {
-            "value": 0,
-            "type": "paragraphIndent",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{paragraphIndent.0}",
-              "type": "paragraphIndent"
-            },
-            "name": "mch_typography_ch_headings_lg_h4_paragraph_indent",
-            "attributes": {
-              "category": "Typography",
-              "type": "CH Headings",
-              "item": "LG",
-              "subitem": "H4",
-              "state": "paragraphIndent"
-            },
-            "path": [
-              "Typography",
-              "CH Headings",
-              "LG",
-              "H4",
-              "paragraphIndent"
-            ]
-          },
-          "textCase": {
-            "value": "none",
-            "type": "textCase",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{textCase.none}",
-              "type": "textCase"
-            },
-            "name": "mch_typography_ch_headings_lg_h4_text_case",
-            "attributes": {
-              "category": "Typography",
-              "type": "CH Headings",
-              "item": "LG",
-              "subitem": "H4",
-              "state": "textCase"
-            },
-            "path": [
-              "Typography",
-              "CH Headings",
-              "LG",
-              "H4",
-              "textCase"
-            ]
-          },
-          "textDecoration": {
-            "value": "none",
-            "type": "textDecoration",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{textDecoration.none}",
-              "type": "textDecoration"
-            },
-            "name": "mch_typography_ch_headings_lg_h4_text_decoration",
-            "attributes": {
-              "category": "Typography",
-              "type": "CH Headings",
-              "item": "LG",
-              "subitem": "H4",
-              "state": "textDecoration"
-            },
-            "path": [
-              "Typography",
-              "CH Headings",
-              "LG",
-              "H4",
-              "textDecoration"
-            ]
-          }
-        },
-        "h5": {
-          "fontFamily": {
-            "value": "Ivar Display",
-            "type": "fontFamilies",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{fontFamilies.ivar-display}",
-              "type": "fontFamilies"
-            },
-            "name": "mch_typography_ch_headings_lg_h5_font_family",
-            "attributes": {
-              "category": "Typography",
-              "type": "CH Headings",
-              "item": "LG",
-              "subitem": "H5",
-              "state": "fontFamily"
-            },
-            "path": [
-              "Typography",
-              "CH Headings",
-              "LG",
-              "H5",
-              "fontFamily"
-            ]
-          },
-          "fontWeight": {
-            "value": "600",
-            "type": "fontWeights",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{fontWeights.ivar-display-3}",
-              "type": "fontWeights"
-            },
-            "name": "mch_typography_ch_headings_lg_h5_font_weight",
-            "attributes": {
-              "category": "Typography",
-              "type": "CH Headings",
-              "item": "LG",
-              "subitem": "H5",
-              "state": "fontWeight"
-            },
-            "path": [
-              "Typography",
-              "CH Headings",
-              "LG",
-              "H5",
-              "fontWeight"
-            ]
-          },
-          "lineHeight": {
-            "value": "1.5rem",
-            "type": "lineHeights",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{lineHeights.12}",
-              "type": "lineHeights"
-            },
-            "name": "mch_typography_ch_headings_lg_h5_line_height",
-            "attributes": {
-              "category": "Typography",
-              "type": "CH Headings",
-              "item": "LG",
-              "subitem": "H5",
-              "state": "lineHeight"
-            },
-            "path": [
-              "Typography",
-              "CH Headings",
-              "LG",
-              "H5",
-              "lineHeight"
-            ]
-          },
-          "fontSize": {
-            "value": "1.25rem",
-            "type": "fontSizes",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{fontSize.4}",
-              "type": "fontSizes"
-            },
-            "name": "mch_typography_ch_headings_lg_h5_font_size",
-            "attributes": {
-              "category": "Typography",
-              "type": "CH Headings",
-              "item": "LG",
-              "subitem": "H5",
-              "state": "fontSize"
-            },
-            "path": [
-              "Typography",
-              "CH Headings",
-              "LG",
-              "H5",
-              "fontSize"
-            ]
-          },
-          "letterSpacing": {
-            "value": "0rem",
-            "type": "letterSpacing",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{letterSpacing.0}",
-              "type": "letterSpacing"
-            },
-            "name": "mch_typography_ch_headings_lg_h5_letter_spacing",
-            "attributes": {
-              "category": "Typography",
-              "type": "CH Headings",
-              "item": "LG",
-              "subitem": "H5",
-              "state": "letterSpacing"
-            },
-            "path": [
-              "Typography",
-              "CH Headings",
-              "LG",
-              "H5",
-              "letterSpacing"
-            ]
-          },
-          "paragraphSpacing": {
-            "value": "0",
-            "type": "paragraphSpacing",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{paragraphSpacing.0}",
-              "type": "paragraphSpacing"
-            },
-            "name": "mch_typography_ch_headings_lg_h5_paragraph_spacing",
-            "attributes": {
-              "category": "Typography",
-              "type": "CH Headings",
-              "item": "LG",
-              "subitem": "H5",
-              "state": "paragraphSpacing"
-            },
-            "path": [
-              "Typography",
-              "CH Headings",
-              "LG",
-              "H5",
-              "paragraphSpacing"
-            ]
-          },
-          "paragraphIndent": {
-            "value": 0,
-            "type": "paragraphIndent",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{paragraphIndent.0}",
-              "type": "paragraphIndent"
-            },
-            "name": "mch_typography_ch_headings_lg_h5_paragraph_indent",
-            "attributes": {
-              "category": "Typography",
-              "type": "CH Headings",
-              "item": "LG",
-              "subitem": "H5",
-              "state": "paragraphIndent"
-            },
-            "path": [
-              "Typography",
-              "CH Headings",
-              "LG",
-              "H5",
-              "paragraphIndent"
-            ]
-          },
-          "textCase": {
-            "value": "none",
-            "type": "textCase",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{textCase.none}",
-              "type": "textCase"
-            },
-            "name": "mch_typography_ch_headings_lg_h5_text_case",
-            "attributes": {
-              "category": "Typography",
-              "type": "CH Headings",
-              "item": "LG",
-              "subitem": "H5",
-              "state": "textCase"
-            },
-            "path": [
-              "Typography",
-              "CH Headings",
-              "LG",
-              "H5",
-              "textCase"
-            ]
-          },
-          "textDecoration": {
-            "value": "none",
-            "type": "textDecoration",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{textDecoration.none}",
-              "type": "textDecoration"
-            },
-            "name": "mch_typography_ch_headings_lg_h5_text_decoration",
-            "attributes": {
-              "category": "Typography",
-              "type": "CH Headings",
-              "item": "LG",
-              "subitem": "H5",
-              "state": "textDecoration"
-            },
-            "path": [
-              "Typography",
-              "CH Headings",
-              "LG",
-              "H5",
-              "textDecoration"
-            ]
-          }
-        }
-      },
-      "md": {
-        "display": {
-          "fontFamily": {
-            "value": "Ivar Display",
-            "type": "fontFamilies",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{fontFamilies.ivar-display}",
-              "type": "fontFamilies"
-            },
-            "name": "mch_typography_ch_headings_md_display_font_family",
-            "attributes": {
-              "category": "Typography",
-              "type": "CH Headings",
-              "item": "MD",
-              "subitem": "Display",
-              "state": "fontFamily"
-            },
-            "path": [
-              "Typography",
-              "CH Headings",
-              "MD",
-              "Display",
-              "fontFamily"
-            ]
-          },
-          "fontWeight": {
-            "value": "600",
-            "type": "fontWeights",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{fontWeights.ivar-display-3}",
-              "type": "fontWeights"
-            },
-            "name": "mch_typography_ch_headings_md_display_font_weight",
-            "attributes": {
-              "category": "Typography",
-              "type": "CH Headings",
-              "item": "MD",
-              "subitem": "Display",
-              "state": "fontWeight"
-            },
-            "path": [
-              "Typography",
-              "CH Headings",
-              "MD",
-              "Display",
-              "fontWeight"
-            ]
-          },
-          "lineHeight": {
-            "value": "5.5rem",
-            "type": "lineHeights",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{lineHeights.25}",
-              "type": "lineHeights"
-            },
-            "name": "mch_typography_ch_headings_md_display_line_height",
-            "attributes": {
-              "category": "Typography",
-              "type": "CH Headings",
-              "item": "MD",
-              "subitem": "Display",
-              "state": "lineHeight"
-            },
-            "path": [
-              "Typography",
-              "CH Headings",
-              "MD",
-              "Display",
-              "lineHeight"
-            ]
-          },
-          "fontSize": {
-            "value": "5.5rem",
-            "type": "fontSizes",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{fontSize.24}",
-              "type": "fontSizes"
-            },
-            "name": "mch_typography_ch_headings_md_display_font_size",
-            "attributes": {
-              "category": "Typography",
-              "type": "CH Headings",
-              "item": "MD",
-              "subitem": "Display",
-              "state": "fontSize"
-            },
-            "path": [
-              "Typography",
-              "CH Headings",
-              "MD",
-              "Display",
-              "fontSize"
-            ]
-          },
-          "letterSpacing": {
-            "value": "0rem",
-            "type": "letterSpacing",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{letterSpacing.0}",
-              "type": "letterSpacing"
-            },
-            "name": "mch_typography_ch_headings_md_display_letter_spacing",
-            "attributes": {
-              "category": "Typography",
-              "type": "CH Headings",
-              "item": "MD",
-              "subitem": "Display",
-              "state": "letterSpacing"
-            },
-            "path": [
-              "Typography",
-              "CH Headings",
-              "MD",
-              "Display",
-              "letterSpacing"
-            ]
-          },
-          "paragraphSpacing": {
-            "value": "0",
-            "type": "paragraphSpacing",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{paragraphSpacing.0}",
-              "type": "paragraphSpacing"
-            },
-            "name": "mch_typography_ch_headings_md_display_paragraph_spacing",
-            "attributes": {
-              "category": "Typography",
-              "type": "CH Headings",
-              "item": "MD",
-              "subitem": "Display",
-              "state": "paragraphSpacing"
-            },
-            "path": [
-              "Typography",
-              "CH Headings",
-              "MD",
-              "Display",
-              "paragraphSpacing"
-            ]
-          },
-          "paragraphIndent": {
-            "value": 0,
-            "type": "paragraphIndent",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{paragraphIndent.0}",
-              "type": "paragraphIndent"
-            },
-            "name": "mch_typography_ch_headings_md_display_paragraph_indent",
-            "attributes": {
-              "category": "Typography",
-              "type": "CH Headings",
-              "item": "MD",
-              "subitem": "Display",
-              "state": "paragraphIndent"
-            },
-            "path": [
-              "Typography",
-              "CH Headings",
-              "MD",
-              "Display",
-              "paragraphIndent"
-            ]
-          },
-          "textCase": {
-            "value": "none",
-            "type": "textCase",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{textCase.none}",
-              "type": "textCase"
-            },
-            "name": "mch_typography_ch_headings_md_display_text_case",
-            "attributes": {
-              "category": "Typography",
-              "type": "CH Headings",
-              "item": "MD",
-              "subitem": "Display",
-              "state": "textCase"
-            },
-            "path": [
-              "Typography",
-              "CH Headings",
-              "MD",
-              "Display",
-              "textCase"
-            ]
-          },
-          "textDecoration": {
-            "value": "none",
-            "type": "textDecoration",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{textDecoration.none}",
-              "type": "textDecoration"
-            },
-            "name": "mch_typography_ch_headings_md_display_text_decoration",
-            "attributes": {
-              "category": "Typography",
-              "type": "CH Headings",
-              "item": "MD",
-              "subitem": "Display",
-              "state": "textDecoration"
-            },
-            "path": [
-              "Typography",
-              "CH Headings",
-              "MD",
-              "Display",
-              "textDecoration"
-            ]
-          }
-        },
-        "h1": {
-          "fontFamily": {
-            "value": "Ivar Display",
-            "type": "fontFamilies",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{fontFamilies.ivar-display}",
-              "type": "fontFamilies"
-            },
-            "name": "mch_typography_ch_headings_md_h1_font_family",
-            "attributes": {
-              "category": "Typography",
-              "type": "CH Headings",
-              "item": "MD",
-              "subitem": "H1",
-              "state": "fontFamily"
-            },
-            "path": [
-              "Typography",
-              "CH Headings",
-              "MD",
-              "H1",
-              "fontFamily"
-            ]
-          },
-          "fontWeight": {
-            "value": "600",
-            "type": "fontWeights",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{fontWeights.ivar-display-3}",
-              "type": "fontWeights"
-            },
-            "name": "mch_typography_ch_headings_md_h1_font_weight",
-            "attributes": {
-              "category": "Typography",
-              "type": "CH Headings",
-              "item": "MD",
-              "subitem": "H1",
-              "state": "fontWeight"
-            },
-            "path": [
-              "Typography",
-              "CH Headings",
-              "MD",
-              "H1",
-              "fontWeight"
-            ]
-          },
-          "lineHeight": {
-            "value": "3.625rem",
-            "type": "lineHeights",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{lineHeights.26}",
-              "type": "lineHeights"
-            },
-            "name": "mch_typography_ch_headings_md_h1_line_height",
-            "attributes": {
-              "category": "Typography",
-              "type": "CH Headings",
-              "item": "MD",
-              "subitem": "H1",
-              "state": "lineHeight"
-            },
-            "path": [
-              "Typography",
-              "CH Headings",
-              "MD",
-              "H1",
-              "lineHeight"
-            ]
-          },
-          "fontSize": {
-            "value": "3.625rem",
-            "type": "fontSizes",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{fontSize.19}",
-              "type": "fontSizes"
-            },
-            "name": "mch_typography_ch_headings_md_h1_font_size",
-            "attributes": {
-              "category": "Typography",
-              "type": "CH Headings",
-              "item": "MD",
-              "subitem": "H1",
-              "state": "fontSize"
-            },
-            "path": [
-              "Typography",
-              "CH Headings",
-              "MD",
-              "H1",
-              "fontSize"
-            ]
-          },
-          "letterSpacing": {
-            "value": "0rem",
-            "type": "letterSpacing",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{letterSpacing.0}",
-              "type": "letterSpacing"
-            },
-            "name": "mch_typography_ch_headings_md_h1_letter_spacing",
-            "attributes": {
-              "category": "Typography",
-              "type": "CH Headings",
-              "item": "MD",
-              "subitem": "H1",
-              "state": "letterSpacing"
-            },
-            "path": [
-              "Typography",
-              "CH Headings",
-              "MD",
-              "H1",
-              "letterSpacing"
-            ]
-          },
-          "paragraphSpacing": {
-            "value": "0",
-            "type": "paragraphSpacing",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{paragraphSpacing.0}",
-              "type": "paragraphSpacing"
-            },
-            "name": "mch_typography_ch_headings_md_h1_paragraph_spacing",
-            "attributes": {
-              "category": "Typography",
-              "type": "CH Headings",
-              "item": "MD",
-              "subitem": "H1",
-              "state": "paragraphSpacing"
-            },
-            "path": [
-              "Typography",
-              "CH Headings",
-              "MD",
-              "H1",
-              "paragraphSpacing"
-            ]
-          },
-          "paragraphIndent": {
-            "value": 0,
-            "type": "paragraphIndent",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{paragraphIndent.0}",
-              "type": "paragraphIndent"
-            },
-            "name": "mch_typography_ch_headings_md_h1_paragraph_indent",
-            "attributes": {
-              "category": "Typography",
-              "type": "CH Headings",
-              "item": "MD",
-              "subitem": "H1",
-              "state": "paragraphIndent"
-            },
-            "path": [
-              "Typography",
-              "CH Headings",
-              "MD",
-              "H1",
-              "paragraphIndent"
-            ]
-          },
-          "textCase": {
-            "value": "none",
-            "type": "textCase",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{textCase.none}",
-              "type": "textCase"
-            },
-            "name": "mch_typography_ch_headings_md_h1_text_case",
-            "attributes": {
-              "category": "Typography",
-              "type": "CH Headings",
-              "item": "MD",
-              "subitem": "H1",
-              "state": "textCase"
-            },
-            "path": [
-              "Typography",
-              "CH Headings",
-              "MD",
-              "H1",
-              "textCase"
-            ]
-          },
-          "textDecoration": {
-            "value": "none",
-            "type": "textDecoration",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{textDecoration.none}",
-              "type": "textDecoration"
-            },
-            "name": "mch_typography_ch_headings_md_h1_text_decoration",
-            "attributes": {
-              "category": "Typography",
-              "type": "CH Headings",
-              "item": "MD",
-              "subitem": "H1",
-              "state": "textDecoration"
-            },
-            "path": [
-              "Typography",
-              "CH Headings",
-              "MD",
-              "H1",
-              "textDecoration"
-            ]
-          }
-        },
-        "h2": {
-          "fontFamily": {
-            "value": "Ivar Display",
-            "type": "fontFamilies",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{fontFamilies.ivar-display}",
-              "type": "fontFamilies"
-            },
-            "name": "mch_typography_ch_headings_md_h2_font_family",
-            "attributes": {
-              "category": "Typography",
-              "type": "CH Headings",
-              "item": "MD",
-              "subitem": "H2",
-              "state": "fontFamily"
-            },
-            "path": [
-              "Typography",
-              "CH Headings",
-              "MD",
-              "H2",
-              "fontFamily"
-            ]
-          },
-          "fontWeight": {
-            "value": "600",
-            "type": "fontWeights",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{fontWeights.ivar-display-3}",
-              "type": "fontWeights"
-            },
-            "name": "mch_typography_ch_headings_md_h2_font_weight",
-            "attributes": {
-              "category": "Typography",
-              "type": "CH Headings",
-              "item": "MD",
-              "subitem": "H2",
-              "state": "fontWeight"
-            },
-            "path": [
-              "Typography",
-              "CH Headings",
-              "MD",
-              "H2",
-              "fontWeight"
-            ]
-          },
-          "lineHeight": {
-            "value": "2.875rem",
-            "type": "lineHeights",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{lineHeights.9}",
-              "type": "lineHeights"
-            },
-            "name": "mch_typography_ch_headings_md_h2_line_height",
-            "attributes": {
-              "category": "Typography",
-              "type": "CH Headings",
-              "item": "MD",
-              "subitem": "H2",
-              "state": "lineHeight"
-            },
-            "path": [
-              "Typography",
-              "CH Headings",
-              "MD",
-              "H2",
-              "lineHeight"
-            ]
-          },
-          "fontSize": {
-            "value": "2.875rem",
-            "type": "fontSizes",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{fontSize.17}",
-              "type": "fontSizes"
-            },
-            "name": "mch_typography_ch_headings_md_h2_font_size",
-            "attributes": {
-              "category": "Typography",
-              "type": "CH Headings",
-              "item": "MD",
-              "subitem": "H2",
-              "state": "fontSize"
-            },
-            "path": [
-              "Typography",
-              "CH Headings",
-              "MD",
-              "H2",
-              "fontSize"
-            ]
-          },
-          "letterSpacing": {
-            "value": "0rem",
-            "type": "letterSpacing",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{letterSpacing.0}",
-              "type": "letterSpacing"
-            },
-            "name": "mch_typography_ch_headings_md_h2_letter_spacing",
-            "attributes": {
-              "category": "Typography",
-              "type": "CH Headings",
-              "item": "MD",
-              "subitem": "H2",
-              "state": "letterSpacing"
-            },
-            "path": [
-              "Typography",
-              "CH Headings",
-              "MD",
-              "H2",
-              "letterSpacing"
-            ]
-          },
-          "paragraphSpacing": {
-            "value": "0",
-            "type": "paragraphSpacing",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{paragraphSpacing.0}",
-              "type": "paragraphSpacing"
-            },
-            "name": "mch_typography_ch_headings_md_h2_paragraph_spacing",
-            "attributes": {
-              "category": "Typography",
-              "type": "CH Headings",
-              "item": "MD",
-              "subitem": "H2",
-              "state": "paragraphSpacing"
-            },
-            "path": [
-              "Typography",
-              "CH Headings",
-              "MD",
-              "H2",
-              "paragraphSpacing"
-            ]
-          },
-          "paragraphIndent": {
-            "value": 0,
-            "type": "paragraphIndent",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{paragraphIndent.0}",
-              "type": "paragraphIndent"
-            },
-            "name": "mch_typography_ch_headings_md_h2_paragraph_indent",
-            "attributes": {
-              "category": "Typography",
-              "type": "CH Headings",
-              "item": "MD",
-              "subitem": "H2",
-              "state": "paragraphIndent"
-            },
-            "path": [
-              "Typography",
-              "CH Headings",
-              "MD",
-              "H2",
-              "paragraphIndent"
-            ]
-          },
-          "textCase": {
-            "value": "none",
-            "type": "textCase",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{textCase.none}",
-              "type": "textCase"
-            },
-            "name": "mch_typography_ch_headings_md_h2_text_case",
-            "attributes": {
-              "category": "Typography",
-              "type": "CH Headings",
-              "item": "MD",
-              "subitem": "H2",
-              "state": "textCase"
-            },
-            "path": [
-              "Typography",
-              "CH Headings",
-              "MD",
-              "H2",
-              "textCase"
-            ]
-          },
-          "textDecoration": {
-            "value": "none",
-            "type": "textDecoration",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{textDecoration.none}",
-              "type": "textDecoration"
-            },
-            "name": "mch_typography_ch_headings_md_h2_text_decoration",
-            "attributes": {
-              "category": "Typography",
-              "type": "CH Headings",
-              "item": "MD",
-              "subitem": "H2",
-              "state": "textDecoration"
-            },
-            "path": [
-              "Typography",
-              "CH Headings",
-              "MD",
-              "H2",
-              "textDecoration"
-            ]
-          }
-        },
-        "h3": {
-          "fontFamily": {
-            "value": "Ivar Display",
-            "type": "fontFamilies",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{fontFamilies.ivar-display}",
-              "type": "fontFamilies"
-            },
-            "name": "mch_typography_ch_headings_md_h3_font_family",
-            "attributes": {
-              "category": "Typography",
-              "type": "CH Headings",
-              "item": "MD",
-              "subitem": "H3",
-              "state": "fontFamily"
-            },
-            "path": [
-              "Typography",
-              "CH Headings",
-              "MD",
-              "H3",
-              "fontFamily"
-            ]
-          },
-          "fontWeight": {
-            "value": "600",
-            "type": "fontWeights",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{fontWeights.ivar-display-3}",
-              "type": "fontWeights"
-            },
-            "name": "mch_typography_ch_headings_md_h3_font_weight",
-            "attributes": {
-              "category": "Typography",
-              "type": "CH Headings",
-              "item": "MD",
-              "subitem": "H3",
-              "state": "fontWeight"
-            },
-            "path": [
-              "Typography",
-              "CH Headings",
-              "MD",
-              "H3",
-              "fontWeight"
-            ]
-          },
-          "lineHeight": {
-            "value": "2.25rem",
-            "type": "lineHeights",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{lineHeights.19}",
-              "type": "lineHeights"
-            },
-            "name": "mch_typography_ch_headings_md_h3_line_height",
-            "attributes": {
-              "category": "Typography",
-              "type": "CH Headings",
-              "item": "MD",
-              "subitem": "H3",
-              "state": "lineHeight"
-            },
-            "path": [
-              "Typography",
-              "CH Headings",
-              "MD",
-              "H3",
-              "lineHeight"
-            ]
-          },
-          "fontSize": {
-            "value": "2.125rem",
-            "type": "fontSizes",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{fontSize.9}",
-              "type": "fontSizes"
-            },
-            "name": "mch_typography_ch_headings_md_h3_font_size",
-            "attributes": {
-              "category": "Typography",
-              "type": "CH Headings",
-              "item": "MD",
-              "subitem": "H3",
-              "state": "fontSize"
-            },
-            "path": [
-              "Typography",
-              "CH Headings",
-              "MD",
-              "H3",
-              "fontSize"
-            ]
-          },
-          "letterSpacing": {
-            "value": "0rem",
-            "type": "letterSpacing",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{letterSpacing.0}",
-              "type": "letterSpacing"
-            },
-            "name": "mch_typography_ch_headings_md_h3_letter_spacing",
-            "attributes": {
-              "category": "Typography",
-              "type": "CH Headings",
-              "item": "MD",
-              "subitem": "H3",
-              "state": "letterSpacing"
-            },
-            "path": [
-              "Typography",
-              "CH Headings",
-              "MD",
-              "H3",
-              "letterSpacing"
-            ]
-          },
-          "paragraphSpacing": {
-            "value": "0",
-            "type": "paragraphSpacing",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{paragraphSpacing.0}",
-              "type": "paragraphSpacing"
-            },
-            "name": "mch_typography_ch_headings_md_h3_paragraph_spacing",
-            "attributes": {
-              "category": "Typography",
-              "type": "CH Headings",
-              "item": "MD",
-              "subitem": "H3",
-              "state": "paragraphSpacing"
-            },
-            "path": [
-              "Typography",
-              "CH Headings",
-              "MD",
-              "H3",
-              "paragraphSpacing"
-            ]
-          },
-          "paragraphIndent": {
-            "value": 0,
-            "type": "paragraphIndent",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{paragraphIndent.0}",
-              "type": "paragraphIndent"
-            },
-            "name": "mch_typography_ch_headings_md_h3_paragraph_indent",
-            "attributes": {
-              "category": "Typography",
-              "type": "CH Headings",
-              "item": "MD",
-              "subitem": "H3",
-              "state": "paragraphIndent"
-            },
-            "path": [
-              "Typography",
-              "CH Headings",
-              "MD",
-              "H3",
-              "paragraphIndent"
-            ]
-          },
-          "textCase": {
-            "value": "none",
-            "type": "textCase",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{textCase.none}",
-              "type": "textCase"
-            },
-            "name": "mch_typography_ch_headings_md_h3_text_case",
-            "attributes": {
-              "category": "Typography",
-              "type": "CH Headings",
-              "item": "MD",
-              "subitem": "H3",
-              "state": "textCase"
-            },
-            "path": [
-              "Typography",
-              "CH Headings",
-              "MD",
-              "H3",
-              "textCase"
-            ]
-          },
-          "textDecoration": {
-            "value": "none",
-            "type": "textDecoration",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{textDecoration.none}",
-              "type": "textDecoration"
-            },
-            "name": "mch_typography_ch_headings_md_h3_text_decoration",
-            "attributes": {
-              "category": "Typography",
-              "type": "CH Headings",
-              "item": "MD",
-              "subitem": "H3",
-              "state": "textDecoration"
-            },
-            "path": [
-              "Typography",
-              "CH Headings",
-              "MD",
-              "H3",
-              "textDecoration"
-            ]
-          }
-        },
-        "h4": {
-          "fontFamily": {
-            "value": "Ivar Display",
-            "type": "fontFamilies",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{fontFamilies.ivar-display}",
-              "type": "fontFamilies"
-            },
-            "name": "mch_typography_ch_headings_md_h4_font_family",
-            "attributes": {
-              "category": "Typography",
-              "type": "CH Headings",
-              "item": "MD",
-              "subitem": "H4",
-              "state": "fontFamily"
-            },
-            "path": [
-              "Typography",
-              "CH Headings",
-              "MD",
-              "H4",
-              "fontFamily"
-            ]
-          },
-          "fontWeight": {
-            "value": "600",
-            "type": "fontWeights",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{fontWeights.ivar-display-3}",
-              "type": "fontWeights"
-            },
-            "name": "mch_typography_ch_headings_md_h4_font_weight",
-            "attributes": {
-              "category": "Typography",
-              "type": "CH Headings",
-              "item": "MD",
-              "subitem": "H4",
-              "state": "fontWeight"
-            },
-            "path": [
-              "Typography",
-              "CH Headings",
-              "MD",
-              "H4",
-              "fontWeight"
-            ]
-          },
-          "lineHeight": {
-            "value": "1.75rem",
-            "type": "lineHeights",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{lineHeights.2}",
-              "type": "lineHeights"
-            },
-            "name": "mch_typography_ch_headings_md_h4_line_height",
-            "attributes": {
-              "category": "Typography",
-              "type": "CH Headings",
-              "item": "MD",
-              "subitem": "H4",
-              "state": "lineHeight"
-            },
-            "path": [
-              "Typography",
-              "CH Headings",
-              "MD",
-              "H4",
-              "lineHeight"
-            ]
-          },
-          "fontSize": {
-            "value": "1.5rem",
-            "type": "fontSizes",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{fontSize.5}",
-              "type": "fontSizes"
-            },
-            "name": "mch_typography_ch_headings_md_h4_font_size",
-            "attributes": {
-              "category": "Typography",
-              "type": "CH Headings",
-              "item": "MD",
-              "subitem": "H4",
-              "state": "fontSize"
-            },
-            "path": [
-              "Typography",
-              "CH Headings",
-              "MD",
-              "H4",
-              "fontSize"
-            ]
-          },
-          "letterSpacing": {
-            "value": "0rem",
-            "type": "letterSpacing",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{letterSpacing.0}",
-              "type": "letterSpacing"
-            },
-            "name": "mch_typography_ch_headings_md_h4_letter_spacing",
-            "attributes": {
-              "category": "Typography",
-              "type": "CH Headings",
-              "item": "MD",
-              "subitem": "H4",
-              "state": "letterSpacing"
-            },
-            "path": [
-              "Typography",
-              "CH Headings",
-              "MD",
-              "H4",
-              "letterSpacing"
-            ]
-          },
-          "paragraphSpacing": {
-            "value": "0",
-            "type": "paragraphSpacing",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{paragraphSpacing.0}",
-              "type": "paragraphSpacing"
-            },
-            "name": "mch_typography_ch_headings_md_h4_paragraph_spacing",
-            "attributes": {
-              "category": "Typography",
-              "type": "CH Headings",
-              "item": "MD",
-              "subitem": "H4",
-              "state": "paragraphSpacing"
-            },
-            "path": [
-              "Typography",
-              "CH Headings",
-              "MD",
-              "H4",
-              "paragraphSpacing"
-            ]
-          },
-          "paragraphIndent": {
-            "value": 0,
-            "type": "paragraphIndent",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{paragraphIndent.0}",
-              "type": "paragraphIndent"
-            },
-            "name": "mch_typography_ch_headings_md_h4_paragraph_indent",
-            "attributes": {
-              "category": "Typography",
-              "type": "CH Headings",
-              "item": "MD",
-              "subitem": "H4",
-              "state": "paragraphIndent"
-            },
-            "path": [
-              "Typography",
-              "CH Headings",
-              "MD",
-              "H4",
-              "paragraphIndent"
-            ]
-          },
-          "textCase": {
-            "value": "none",
-            "type": "textCase",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{textCase.none}",
-              "type": "textCase"
-            },
-            "name": "mch_typography_ch_headings_md_h4_text_case",
-            "attributes": {
-              "category": "Typography",
-              "type": "CH Headings",
-              "item": "MD",
-              "subitem": "H4",
-              "state": "textCase"
-            },
-            "path": [
-              "Typography",
-              "CH Headings",
-              "MD",
-              "H4",
-              "textCase"
-            ]
-          },
-          "textDecoration": {
-            "value": "none",
-            "type": "textDecoration",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{textDecoration.none}",
-              "type": "textDecoration"
-            },
-            "name": "mch_typography_ch_headings_md_h4_text_decoration",
-            "attributes": {
-              "category": "Typography",
-              "type": "CH Headings",
-              "item": "MD",
-              "subitem": "H4",
-              "state": "textDecoration"
-            },
-            "path": [
-              "Typography",
-              "CH Headings",
-              "MD",
-              "H4",
-              "textDecoration"
-            ]
-          }
-        },
-        "h5": {
-          "fontFamily": {
-            "value": "Ivar Display",
-            "type": "fontFamilies",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{fontFamilies.ivar-display}",
-              "type": "fontFamilies"
-            },
-            "name": "mch_typography_ch_headings_md_h5_font_family",
-            "attributes": {
-              "category": "Typography",
-              "type": "CH Headings",
-              "item": "MD",
-              "subitem": "H5",
-              "state": "fontFamily"
-            },
-            "path": [
-              "Typography",
-              "CH Headings",
-              "MD",
-              "H5",
-              "fontFamily"
-            ]
-          },
-          "fontWeight": {
-            "value": "600",
-            "type": "fontWeights",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{fontWeights.ivar-display-3}",
-              "type": "fontWeights"
-            },
-            "name": "mch_typography_ch_headings_md_h5_font_weight",
-            "attributes": {
-              "category": "Typography",
-              "type": "CH Headings",
-              "item": "MD",
-              "subitem": "H5",
-              "state": "fontWeight"
-            },
-            "path": [
-              "Typography",
-              "CH Headings",
-              "MD",
-              "H5",
-              "fontWeight"
-            ]
-          },
-          "lineHeight": {
-            "value": "1.375rem",
-            "type": "lineHeights",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{lineHeights.13}",
-              "type": "lineHeights"
-            },
-            "name": "mch_typography_ch_headings_md_h5_line_height",
-            "attributes": {
-              "category": "Typography",
-              "type": "CH Headings",
-              "item": "MD",
-              "subitem": "H5",
-              "state": "lineHeight"
-            },
-            "path": [
-              "Typography",
-              "CH Headings",
-              "MD",
-              "H5",
-              "lineHeight"
-            ]
-          },
-          "fontSize": {
-            "value": "1.125rem",
-            "type": "fontSizes",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{fontSize.3}",
-              "type": "fontSizes"
-            },
-            "name": "mch_typography_ch_headings_md_h5_font_size",
-            "attributes": {
-              "category": "Typography",
-              "type": "CH Headings",
-              "item": "MD",
-              "subitem": "H5",
-              "state": "fontSize"
-            },
-            "path": [
-              "Typography",
-              "CH Headings",
-              "MD",
-              "H5",
-              "fontSize"
-            ]
-          },
-          "letterSpacing": {
-            "value": "0rem",
-            "type": "letterSpacing",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{letterSpacing.0}",
-              "type": "letterSpacing"
-            },
-            "name": "mch_typography_ch_headings_md_h5_letter_spacing",
-            "attributes": {
-              "category": "Typography",
-              "type": "CH Headings",
-              "item": "MD",
-              "subitem": "H5",
-              "state": "letterSpacing"
-            },
-            "path": [
-              "Typography",
-              "CH Headings",
-              "MD",
-              "H5",
-              "letterSpacing"
-            ]
-          },
-          "paragraphSpacing": {
-            "value": "0",
-            "type": "paragraphSpacing",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{paragraphSpacing.0}",
-              "type": "paragraphSpacing"
-            },
-            "name": "mch_typography_ch_headings_md_h5_paragraph_spacing",
-            "attributes": {
-              "category": "Typography",
-              "type": "CH Headings",
-              "item": "MD",
-              "subitem": "H5",
-              "state": "paragraphSpacing"
-            },
-            "path": [
-              "Typography",
-              "CH Headings",
-              "MD",
-              "H5",
-              "paragraphSpacing"
-            ]
-          },
-          "paragraphIndent": {
-            "value": 0,
-            "type": "paragraphIndent",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{paragraphIndent.0}",
-              "type": "paragraphIndent"
-            },
-            "name": "mch_typography_ch_headings_md_h5_paragraph_indent",
-            "attributes": {
-              "category": "Typography",
-              "type": "CH Headings",
-              "item": "MD",
-              "subitem": "H5",
-              "state": "paragraphIndent"
-            },
-            "path": [
-              "Typography",
-              "CH Headings",
-              "MD",
-              "H5",
-              "paragraphIndent"
-            ]
-          },
-          "textCase": {
-            "value": "none",
-            "type": "textCase",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{textCase.none}",
-              "type": "textCase"
-            },
-            "name": "mch_typography_ch_headings_md_h5_text_case",
-            "attributes": {
-              "category": "Typography",
-              "type": "CH Headings",
-              "item": "MD",
-              "subitem": "H5",
-              "state": "textCase"
-            },
-            "path": [
-              "Typography",
-              "CH Headings",
-              "MD",
-              "H5",
-              "textCase"
-            ]
-          },
-          "textDecoration": {
-            "value": "none",
-            "type": "textDecoration",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{textDecoration.none}",
-              "type": "textDecoration"
-            },
-            "name": "mch_typography_ch_headings_md_h5_text_decoration",
-            "attributes": {
-              "category": "Typography",
-              "type": "CH Headings",
-              "item": "MD",
-              "subitem": "H5",
-              "state": "textDecoration"
-            },
-            "path": [
-              "Typography",
-              "CH Headings",
-              "MD",
-              "H5",
-              "textDecoration"
-            ]
-          }
-        }
-      },
-      "xsSm": {
-        "display": {
-          "fontFamily": {
-            "value": "Ivar Display",
-            "type": "fontFamilies",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{fontFamilies.ivar-display}",
-              "type": "fontFamilies"
-            },
-            "name": "mch_typography_ch_headings_xs_sm_display_font_family",
-            "attributes": {
-              "category": "Typography",
-              "type": "CH Headings",
-              "item": "XS-SM",
-              "subitem": "Display",
-              "state": "fontFamily"
-            },
-            "path": [
-              "Typography",
-              "CH Headings",
-              "XS-SM",
-              "Display",
-              "fontFamily"
-            ]
-          },
-          "fontWeight": {
-            "value": "600",
-            "type": "fontWeights",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{fontWeights.ivar-display-3}",
-              "type": "fontWeights"
-            },
-            "name": "mch_typography_ch_headings_xs_sm_display_font_weight",
-            "attributes": {
-              "category": "Typography",
-              "type": "CH Headings",
-              "item": "XS-SM",
-              "subitem": "Display",
-              "state": "fontWeight"
-            },
-            "path": [
-              "Typography",
-              "CH Headings",
-              "XS-SM",
-              "Display",
-              "fontWeight"
-            ]
-          },
-          "lineHeight": {
-            "value": "4.5rem",
-            "type": "lineHeights",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{lineHeights.27}",
-              "type": "lineHeights"
-            },
-            "name": "mch_typography_ch_headings_xs_sm_display_line_height",
-            "attributes": {
-              "category": "Typography",
-              "type": "CH Headings",
-              "item": "XS-SM",
-              "subitem": "Display",
-              "state": "lineHeight"
-            },
-            "path": [
-              "Typography",
-              "CH Headings",
-              "XS-SM",
-              "Display",
-              "lineHeight"
-            ]
-          },
-          "fontSize": {
-            "value": "4.5rem",
-            "type": "fontSizes",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{fontSize.22}",
-              "type": "fontSizes"
-            },
-            "name": "mch_typography_ch_headings_xs_sm_display_font_size",
-            "attributes": {
-              "category": "Typography",
-              "type": "CH Headings",
-              "item": "XS-SM",
-              "subitem": "Display",
-              "state": "fontSize"
-            },
-            "path": [
-              "Typography",
-              "CH Headings",
-              "XS-SM",
-              "Display",
-              "fontSize"
-            ]
-          },
-          "letterSpacing": {
-            "value": "0rem",
-            "type": "letterSpacing",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{letterSpacing.0}",
-              "type": "letterSpacing"
-            },
-            "name": "mch_typography_ch_headings_xs_sm_display_letter_spacing",
-            "attributes": {
-              "category": "Typography",
-              "type": "CH Headings",
-              "item": "XS-SM",
-              "subitem": "Display",
-              "state": "letterSpacing"
-            },
-            "path": [
-              "Typography",
-              "CH Headings",
-              "XS-SM",
-              "Display",
-              "letterSpacing"
-            ]
-          },
-          "paragraphSpacing": {
-            "value": "0",
-            "type": "paragraphSpacing",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{paragraphSpacing.0}",
-              "type": "paragraphSpacing"
-            },
-            "name": "mch_typography_ch_headings_xs_sm_display_paragraph_spacing",
-            "attributes": {
-              "category": "Typography",
-              "type": "CH Headings",
-              "item": "XS-SM",
-              "subitem": "Display",
-              "state": "paragraphSpacing"
-            },
-            "path": [
-              "Typography",
-              "CH Headings",
-              "XS-SM",
-              "Display",
-              "paragraphSpacing"
-            ]
-          },
-          "paragraphIndent": {
-            "value": 0,
-            "type": "paragraphIndent",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{paragraphIndent.0}",
-              "type": "paragraphIndent"
-            },
-            "name": "mch_typography_ch_headings_xs_sm_display_paragraph_indent",
-            "attributes": {
-              "category": "Typography",
-              "type": "CH Headings",
-              "item": "XS-SM",
-              "subitem": "Display",
-              "state": "paragraphIndent"
-            },
-            "path": [
-              "Typography",
-              "CH Headings",
-              "XS-SM",
-              "Display",
-              "paragraphIndent"
-            ]
-          },
-          "textCase": {
-            "value": "none",
-            "type": "textCase",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{textCase.none}",
-              "type": "textCase"
-            },
-            "name": "mch_typography_ch_headings_xs_sm_display_text_case",
-            "attributes": {
-              "category": "Typography",
-              "type": "CH Headings",
-              "item": "XS-SM",
-              "subitem": "Display",
-              "state": "textCase"
-            },
-            "path": [
-              "Typography",
-              "CH Headings",
-              "XS-SM",
-              "Display",
-              "textCase"
-            ]
-          },
-          "textDecoration": {
-            "value": "none",
-            "type": "textDecoration",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{textDecoration.none}",
-              "type": "textDecoration"
-            },
-            "name": "mch_typography_ch_headings_xs_sm_display_text_decoration",
-            "attributes": {
-              "category": "Typography",
-              "type": "CH Headings",
-              "item": "XS-SM",
-              "subitem": "Display",
-              "state": "textDecoration"
-            },
-            "path": [
-              "Typography",
-              "CH Headings",
-              "XS-SM",
-              "Display",
-              "textDecoration"
-            ]
-          }
-        },
-        "h1": {
-          "fontFamily": {
-            "value": "Ivar Display",
-            "type": "fontFamilies",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{fontFamilies.ivar-display}",
-              "type": "fontFamilies"
-            },
-            "name": "mch_typography_ch_headings_xs_sm_h1_font_family",
-            "attributes": {
-              "category": "Typography",
-              "type": "CH Headings",
-              "item": "XS-SM",
-              "subitem": "H1",
-              "state": "fontFamily"
-            },
-            "path": [
-              "Typography",
-              "CH Headings",
-              "XS-SM",
-              "H1",
-              "fontFamily"
-            ]
-          },
-          "fontWeight": {
-            "value": "600",
-            "type": "fontWeights",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{fontWeights.ivar-display-3}",
-              "type": "fontWeights"
-            },
-            "name": "mch_typography_ch_headings_xs_sm_h1_font_weight",
-            "attributes": {
-              "category": "Typography",
-              "type": "CH Headings",
-              "item": "XS-SM",
-              "subitem": "H1",
-              "state": "fontWeight"
-            },
-            "path": [
-              "Typography",
-              "CH Headings",
-              "XS-SM",
-              "H1",
-              "fontWeight"
-            ]
-          },
-          "lineHeight": {
-            "value": "3rem",
-            "type": "lineHeights",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{lineHeights.5}",
-              "type": "lineHeights"
-            },
-            "name": "mch_typography_ch_headings_xs_sm_h1_line_height",
-            "attributes": {
-              "category": "Typography",
-              "type": "CH Headings",
-              "item": "XS-SM",
-              "subitem": "H1",
-              "state": "lineHeight"
-            },
-            "path": [
-              "Typography",
-              "CH Headings",
-              "XS-SM",
-              "H1",
-              "lineHeight"
-            ]
-          },
-          "fontSize": {
-            "value": "3rem",
-            "type": "fontSizes",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{fontSize.14}",
-              "type": "fontSizes"
-            },
-            "name": "mch_typography_ch_headings_xs_sm_h1_font_size",
-            "attributes": {
-              "category": "Typography",
-              "type": "CH Headings",
-              "item": "XS-SM",
-              "subitem": "H1",
-              "state": "fontSize"
-            },
-            "path": [
-              "Typography",
-              "CH Headings",
-              "XS-SM",
-              "H1",
-              "fontSize"
-            ]
-          },
-          "letterSpacing": {
-            "value": "0rem",
-            "type": "letterSpacing",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{letterSpacing.0}",
-              "type": "letterSpacing"
-            },
-            "name": "mch_typography_ch_headings_xs_sm_h1_letter_spacing",
-            "attributes": {
-              "category": "Typography",
-              "type": "CH Headings",
-              "item": "XS-SM",
-              "subitem": "H1",
-              "state": "letterSpacing"
-            },
-            "path": [
-              "Typography",
-              "CH Headings",
-              "XS-SM",
-              "H1",
-              "letterSpacing"
-            ]
-          },
-          "paragraphSpacing": {
-            "value": "0",
-            "type": "paragraphSpacing",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{paragraphSpacing.0}",
-              "type": "paragraphSpacing"
-            },
-            "name": "mch_typography_ch_headings_xs_sm_h1_paragraph_spacing",
-            "attributes": {
-              "category": "Typography",
-              "type": "CH Headings",
-              "item": "XS-SM",
-              "subitem": "H1",
-              "state": "paragraphSpacing"
-            },
-            "path": [
-              "Typography",
-              "CH Headings",
-              "XS-SM",
-              "H1",
-              "paragraphSpacing"
-            ]
-          },
-          "paragraphIndent": {
-            "value": 0,
-            "type": "paragraphIndent",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{paragraphIndent.0}",
-              "type": "paragraphIndent"
-            },
-            "name": "mch_typography_ch_headings_xs_sm_h1_paragraph_indent",
-            "attributes": {
-              "category": "Typography",
-              "type": "CH Headings",
-              "item": "XS-SM",
-              "subitem": "H1",
-              "state": "paragraphIndent"
-            },
-            "path": [
-              "Typography",
-              "CH Headings",
-              "XS-SM",
-              "H1",
-              "paragraphIndent"
-            ]
-          },
-          "textCase": {
-            "value": "none",
-            "type": "textCase",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{textCase.none}",
-              "type": "textCase"
-            },
-            "name": "mch_typography_ch_headings_xs_sm_h1_text_case",
-            "attributes": {
-              "category": "Typography",
-              "type": "CH Headings",
-              "item": "XS-SM",
-              "subitem": "H1",
-              "state": "textCase"
-            },
-            "path": [
-              "Typography",
-              "CH Headings",
-              "XS-SM",
-              "H1",
-              "textCase"
-            ]
-          },
-          "textDecoration": {
-            "value": "none",
-            "type": "textDecoration",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{textDecoration.none}",
-              "type": "textDecoration"
-            },
-            "name": "mch_typography_ch_headings_xs_sm_h1_text_decoration",
-            "attributes": {
-              "category": "Typography",
-              "type": "CH Headings",
-              "item": "XS-SM",
-              "subitem": "H1",
-              "state": "textDecoration"
-            },
-            "path": [
-              "Typography",
-              "CH Headings",
-              "XS-SM",
-              "H1",
-              "textDecoration"
-            ]
-          }
-        },
-        "h2": {
-          "fontFamily": {
-            "value": "Ivar Display",
-            "type": "fontFamilies",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{fontFamilies.ivar-display}",
-              "type": "fontFamilies"
-            },
-            "name": "mch_typography_ch_headings_xs_sm_h2_font_family",
-            "attributes": {
-              "category": "Typography",
-              "type": "CH Headings",
-              "item": "XS-SM",
-              "subitem": "H2",
-              "state": "fontFamily"
-            },
-            "path": [
-              "Typography",
-              "CH Headings",
-              "XS-SM",
-              "H2",
-              "fontFamily"
-            ]
-          },
-          "fontWeight": {
-            "value": "600",
-            "type": "fontWeights",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{fontWeights.ivar-display-3}",
-              "type": "fontWeights"
-            },
-            "name": "mch_typography_ch_headings_xs_sm_h2_font_weight",
-            "attributes": {
-              "category": "Typography",
-              "type": "CH Headings",
-              "item": "XS-SM",
-              "subitem": "H2",
-              "state": "fontWeight"
-            },
-            "path": [
-              "Typography",
-              "CH Headings",
-              "XS-SM",
-              "H2",
-              "fontWeight"
-            ]
-          },
-          "lineHeight": {
-            "value": "2.5rem",
-            "type": "lineHeights",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{lineHeights.28}",
-              "type": "lineHeights"
-            },
-            "name": "mch_typography_ch_headings_xs_sm_h2_line_height",
-            "attributes": {
-              "category": "Typography",
-              "type": "CH Headings",
-              "item": "XS-SM",
-              "subitem": "H2",
-              "state": "lineHeight"
-            },
-            "path": [
-              "Typography",
-              "CH Headings",
-              "XS-SM",
-              "H2",
-              "lineHeight"
-            ]
-          },
-          "fontSize": {
-            "value": "2.5rem",
-            "type": "fontSizes",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{fontSize.12}",
-              "type": "fontSizes"
-            },
-            "name": "mch_typography_ch_headings_xs_sm_h2_font_size",
-            "attributes": {
-              "category": "Typography",
-              "type": "CH Headings",
-              "item": "XS-SM",
-              "subitem": "H2",
-              "state": "fontSize"
-            },
-            "path": [
-              "Typography",
-              "CH Headings",
-              "XS-SM",
-              "H2",
-              "fontSize"
-            ]
-          },
-          "letterSpacing": {
-            "value": "0rem",
-            "type": "letterSpacing",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{letterSpacing.0}",
-              "type": "letterSpacing"
-            },
-            "name": "mch_typography_ch_headings_xs_sm_h2_letter_spacing",
-            "attributes": {
-              "category": "Typography",
-              "type": "CH Headings",
-              "item": "XS-SM",
-              "subitem": "H2",
-              "state": "letterSpacing"
-            },
-            "path": [
-              "Typography",
-              "CH Headings",
-              "XS-SM",
-              "H2",
-              "letterSpacing"
-            ]
-          },
-          "paragraphSpacing": {
-            "value": "0",
-            "type": "paragraphSpacing",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{paragraphSpacing.0}",
-              "type": "paragraphSpacing"
-            },
-            "name": "mch_typography_ch_headings_xs_sm_h2_paragraph_spacing",
-            "attributes": {
-              "category": "Typography",
-              "type": "CH Headings",
-              "item": "XS-SM",
-              "subitem": "H2",
-              "state": "paragraphSpacing"
-            },
-            "path": [
-              "Typography",
-              "CH Headings",
-              "XS-SM",
-              "H2",
-              "paragraphSpacing"
-            ]
-          },
-          "paragraphIndent": {
-            "value": 0,
-            "type": "paragraphIndent",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{paragraphIndent.0}",
-              "type": "paragraphIndent"
-            },
-            "name": "mch_typography_ch_headings_xs_sm_h2_paragraph_indent",
-            "attributes": {
-              "category": "Typography",
-              "type": "CH Headings",
-              "item": "XS-SM",
-              "subitem": "H2",
-              "state": "paragraphIndent"
-            },
-            "path": [
-              "Typography",
-              "CH Headings",
-              "XS-SM",
-              "H2",
-              "paragraphIndent"
-            ]
-          },
-          "textCase": {
-            "value": "none",
-            "type": "textCase",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{textCase.none}",
-              "type": "textCase"
-            },
-            "name": "mch_typography_ch_headings_xs_sm_h2_text_case",
-            "attributes": {
-              "category": "Typography",
-              "type": "CH Headings",
-              "item": "XS-SM",
-              "subitem": "H2",
-              "state": "textCase"
-            },
-            "path": [
-              "Typography",
-              "CH Headings",
-              "XS-SM",
-              "H2",
-              "textCase"
-            ]
-          },
-          "textDecoration": {
-            "value": "none",
-            "type": "textDecoration",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{textDecoration.none}",
-              "type": "textDecoration"
-            },
-            "name": "mch_typography_ch_headings_xs_sm_h2_text_decoration",
-            "attributes": {
-              "category": "Typography",
-              "type": "CH Headings",
-              "item": "XS-SM",
-              "subitem": "H2",
-              "state": "textDecoration"
-            },
-            "path": [
-              "Typography",
-              "CH Headings",
-              "XS-SM",
-              "H2",
-              "textDecoration"
-            ]
-          }
-        },
-        "h3": {
-          "fontFamily": {
-            "value": "Ivar Display",
-            "type": "fontFamilies",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{fontFamilies.ivar-display}",
-              "type": "fontFamilies"
-            },
-            "name": "mch_typography_ch_headings_xs_sm_h3_font_family",
-            "attributes": {
-              "category": "Typography",
-              "type": "CH Headings",
-              "item": "XS-SM",
-              "subitem": "H3",
-              "state": "fontFamily"
-            },
-            "path": [
-              "Typography",
-              "CH Headings",
-              "XS-SM",
-              "H3",
-              "fontFamily"
-            ]
-          },
-          "fontWeight": {
-            "value": "600",
-            "type": "fontWeights",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{fontWeights.ivar-display-3}",
-              "type": "fontWeights"
-            },
-            "name": "mch_typography_ch_headings_xs_sm_h3_font_weight",
-            "attributes": {
-              "category": "Typography",
-              "type": "CH Headings",
-              "item": "XS-SM",
-              "subitem": "H3",
-              "state": "fontWeight"
-            },
-            "path": [
-              "Typography",
-              "CH Headings",
-              "XS-SM",
-              "H3",
-              "fontWeight"
-            ]
-          },
-          "lineHeight": {
-            "value": "1.875rem",
-            "type": "lineHeights",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{lineHeights.1}",
-              "type": "lineHeights"
-            },
-            "name": "mch_typography_ch_headings_xs_sm_h3_line_height",
-            "attributes": {
-              "category": "Typography",
-              "type": "CH Headings",
-              "item": "XS-SM",
-              "subitem": "H3",
-              "state": "lineHeight"
-            },
-            "path": [
-              "Typography",
-              "CH Headings",
-              "XS-SM",
-              "H3",
-              "lineHeight"
-            ]
-          },
-          "fontSize": {
-            "value": "1.75rem",
-            "type": "fontSizes",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{fontSize.15}",
-              "type": "fontSizes"
-            },
-            "name": "mch_typography_ch_headings_xs_sm_h3_font_size",
-            "attributes": {
-              "category": "Typography",
-              "type": "CH Headings",
-              "item": "XS-SM",
-              "subitem": "H3",
-              "state": "fontSize"
-            },
-            "path": [
-              "Typography",
-              "CH Headings",
-              "XS-SM",
-              "H3",
-              "fontSize"
-            ]
-          },
-          "letterSpacing": {
-            "value": "0rem",
-            "type": "letterSpacing",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{letterSpacing.0}",
-              "type": "letterSpacing"
-            },
-            "name": "mch_typography_ch_headings_xs_sm_h3_letter_spacing",
-            "attributes": {
-              "category": "Typography",
-              "type": "CH Headings",
-              "item": "XS-SM",
-              "subitem": "H3",
-              "state": "letterSpacing"
-            },
-            "path": [
-              "Typography",
-              "CH Headings",
-              "XS-SM",
-              "H3",
-              "letterSpacing"
-            ]
-          },
-          "paragraphSpacing": {
-            "value": "0",
-            "type": "paragraphSpacing",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{paragraphSpacing.0}",
-              "type": "paragraphSpacing"
-            },
-            "name": "mch_typography_ch_headings_xs_sm_h3_paragraph_spacing",
-            "attributes": {
-              "category": "Typography",
-              "type": "CH Headings",
-              "item": "XS-SM",
-              "subitem": "H3",
-              "state": "paragraphSpacing"
-            },
-            "path": [
-              "Typography",
-              "CH Headings",
-              "XS-SM",
-              "H3",
-              "paragraphSpacing"
-            ]
-          },
-          "paragraphIndent": {
-            "value": 0,
-            "type": "paragraphIndent",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{paragraphIndent.0}",
-              "type": "paragraphIndent"
-            },
-            "name": "mch_typography_ch_headings_xs_sm_h3_paragraph_indent",
-            "attributes": {
-              "category": "Typography",
-              "type": "CH Headings",
-              "item": "XS-SM",
-              "subitem": "H3",
-              "state": "paragraphIndent"
-            },
-            "path": [
-              "Typography",
-              "CH Headings",
-              "XS-SM",
-              "H3",
-              "paragraphIndent"
-            ]
-          },
-          "textCase": {
-            "value": "none",
-            "type": "textCase",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{textCase.none}",
-              "type": "textCase"
-            },
-            "name": "mch_typography_ch_headings_xs_sm_h3_text_case",
-            "attributes": {
-              "category": "Typography",
-              "type": "CH Headings",
-              "item": "XS-SM",
-              "subitem": "H3",
-              "state": "textCase"
-            },
-            "path": [
-              "Typography",
-              "CH Headings",
-              "XS-SM",
-              "H3",
-              "textCase"
-            ]
-          },
-          "textDecoration": {
-            "value": "none",
-            "type": "textDecoration",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{textDecoration.none}",
-              "type": "textDecoration"
-            },
-            "name": "mch_typography_ch_headings_xs_sm_h3_text_decoration",
-            "attributes": {
-              "category": "Typography",
-              "type": "CH Headings",
-              "item": "XS-SM",
-              "subitem": "H3",
-              "state": "textDecoration"
-            },
-            "path": [
-              "Typography",
-              "CH Headings",
-              "XS-SM",
-              "H3",
-              "textDecoration"
-            ]
-          }
-        },
-        "h4": {
-          "fontFamily": {
-            "value": "Ivar Display",
-            "type": "fontFamilies",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{fontFamilies.ivar-display}",
-              "type": "fontFamilies"
-            },
-            "name": "mch_typography_ch_headings_xs_sm_h4_font_family",
-            "attributes": {
-              "category": "Typography",
-              "type": "CH Headings",
-              "item": "XS-SM",
-              "subitem": "H4",
-              "state": "fontFamily"
-            },
-            "path": [
-              "Typography",
-              "CH Headings",
-              "XS-SM",
-              "H4",
-              "fontFamily"
-            ]
-          },
-          "fontWeight": {
-            "value": "600",
-            "type": "fontWeights",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{fontWeights.ivar-display-3}",
-              "type": "fontWeights"
-            },
-            "name": "mch_typography_ch_headings_xs_sm_h4_font_weight",
-            "attributes": {
-              "category": "Typography",
-              "type": "CH Headings",
-              "item": "XS-SM",
-              "subitem": "H4",
-              "state": "fontWeight"
-            },
-            "path": [
-              "Typography",
-              "CH Headings",
-              "XS-SM",
-              "H4",
-              "fontWeight"
-            ]
-          },
-          "lineHeight": {
-            "value": "1.75rem",
-            "type": "lineHeights",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{lineHeights.2}",
-              "type": "lineHeights"
-            },
-            "name": "mch_typography_ch_headings_xs_sm_h4_line_height",
-            "attributes": {
-              "category": "Typography",
-              "type": "CH Headings",
-              "item": "XS-SM",
-              "subitem": "H4",
-              "state": "lineHeight"
-            },
-            "path": [
-              "Typography",
-              "CH Headings",
-              "XS-SM",
-              "H4",
-              "lineHeight"
-            ]
-          },
-          "fontSize": {
-            "value": "1.5rem",
-            "type": "fontSizes",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{fontSize.5}",
-              "type": "fontSizes"
-            },
-            "name": "mch_typography_ch_headings_xs_sm_h4_font_size",
-            "attributes": {
-              "category": "Typography",
-              "type": "CH Headings",
-              "item": "XS-SM",
-              "subitem": "H4",
-              "state": "fontSize"
-            },
-            "path": [
-              "Typography",
-              "CH Headings",
-              "XS-SM",
-              "H4",
-              "fontSize"
-            ]
-          },
-          "letterSpacing": {
-            "value": "0rem",
-            "type": "letterSpacing",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{letterSpacing.0}",
-              "type": "letterSpacing"
-            },
-            "name": "mch_typography_ch_headings_xs_sm_h4_letter_spacing",
-            "attributes": {
-              "category": "Typography",
-              "type": "CH Headings",
-              "item": "XS-SM",
-              "subitem": "H4",
-              "state": "letterSpacing"
-            },
-            "path": [
-              "Typography",
-              "CH Headings",
-              "XS-SM",
-              "H4",
-              "letterSpacing"
-            ]
-          },
-          "paragraphSpacing": {
-            "value": "0",
-            "type": "paragraphSpacing",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{paragraphSpacing.0}",
-              "type": "paragraphSpacing"
-            },
-            "name": "mch_typography_ch_headings_xs_sm_h4_paragraph_spacing",
-            "attributes": {
-              "category": "Typography",
-              "type": "CH Headings",
-              "item": "XS-SM",
-              "subitem": "H4",
-              "state": "paragraphSpacing"
-            },
-            "path": [
-              "Typography",
-              "CH Headings",
-              "XS-SM",
-              "H4",
-              "paragraphSpacing"
-            ]
-          },
-          "paragraphIndent": {
-            "value": 0,
-            "type": "paragraphIndent",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{paragraphIndent.0}",
-              "type": "paragraphIndent"
-            },
-            "name": "mch_typography_ch_headings_xs_sm_h4_paragraph_indent",
-            "attributes": {
-              "category": "Typography",
-              "type": "CH Headings",
-              "item": "XS-SM",
-              "subitem": "H4",
-              "state": "paragraphIndent"
-            },
-            "path": [
-              "Typography",
-              "CH Headings",
-              "XS-SM",
-              "H4",
-              "paragraphIndent"
-            ]
-          },
-          "textCase": {
-            "value": "none",
-            "type": "textCase",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{textCase.none}",
-              "type": "textCase"
-            },
-            "name": "mch_typography_ch_headings_xs_sm_h4_text_case",
-            "attributes": {
-              "category": "Typography",
-              "type": "CH Headings",
-              "item": "XS-SM",
-              "subitem": "H4",
-              "state": "textCase"
-            },
-            "path": [
-              "Typography",
-              "CH Headings",
-              "XS-SM",
-              "H4",
-              "textCase"
-            ]
-          },
-          "textDecoration": {
-            "value": "none",
-            "type": "textDecoration",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{textDecoration.none}",
-              "type": "textDecoration"
-            },
-            "name": "mch_typography_ch_headings_xs_sm_h4_text_decoration",
-            "attributes": {
-              "category": "Typography",
-              "type": "CH Headings",
-              "item": "XS-SM",
-              "subitem": "H4",
-              "state": "textDecoration"
-            },
-            "path": [
-              "Typography",
-              "CH Headings",
-              "XS-SM",
-              "H4",
-              "textDecoration"
-            ]
-          }
-        },
-        "h5": {
-          "fontFamily": {
-            "value": "Ivar Display",
-            "type": "fontFamilies",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{fontFamilies.ivar-display}",
-              "type": "fontFamilies"
-            },
-            "name": "mch_typography_ch_headings_xs_sm_h5_font_family",
-            "attributes": {
-              "category": "Typography",
-              "type": "CH Headings",
-              "item": "XS-SM",
-              "subitem": "H5",
-              "state": "fontFamily"
-            },
-            "path": [
-              "Typography",
-              "CH Headings",
-              "XS-SM",
-              "H5",
-              "fontFamily"
-            ]
-          },
-          "fontWeight": {
-            "value": "600",
-            "type": "fontWeights",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{fontWeights.ivar-display-3}",
-              "type": "fontWeights"
-            },
-            "name": "mch_typography_ch_headings_xs_sm_h5_font_weight",
-            "attributes": {
-              "category": "Typography",
-              "type": "CH Headings",
-              "item": "XS-SM",
-              "subitem": "H5",
-              "state": "fontWeight"
-            },
-            "path": [
-              "Typography",
-              "CH Headings",
-              "XS-SM",
-              "H5",
-              "fontWeight"
-            ]
-          },
-          "lineHeight": {
-            "value": "1.375rem",
-            "type": "lineHeights",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{lineHeights.13}",
-              "type": "lineHeights"
-            },
-            "name": "mch_typography_ch_headings_xs_sm_h5_line_height",
-            "attributes": {
-              "category": "Typography",
-              "type": "CH Headings",
-              "item": "XS-SM",
-              "subitem": "H5",
-              "state": "lineHeight"
-            },
-            "path": [
-              "Typography",
-              "CH Headings",
-              "XS-SM",
-              "H5",
-              "lineHeight"
-            ]
-          },
-          "fontSize": {
-            "value": "1.125rem",
-            "type": "fontSizes",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{fontSize.3}",
-              "type": "fontSizes"
-            },
-            "name": "mch_typography_ch_headings_xs_sm_h5_font_size",
-            "attributes": {
-              "category": "Typography",
-              "type": "CH Headings",
-              "item": "XS-SM",
-              "subitem": "H5",
-              "state": "fontSize"
-            },
-            "path": [
-              "Typography",
-              "CH Headings",
-              "XS-SM",
-              "H5",
-              "fontSize"
-            ]
-          },
-          "letterSpacing": {
-            "value": "0rem",
-            "type": "letterSpacing",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{letterSpacing.0}",
-              "type": "letterSpacing"
-            },
-            "name": "mch_typography_ch_headings_xs_sm_h5_letter_spacing",
-            "attributes": {
-              "category": "Typography",
-              "type": "CH Headings",
-              "item": "XS-SM",
-              "subitem": "H5",
-              "state": "letterSpacing"
-            },
-            "path": [
-              "Typography",
-              "CH Headings",
-              "XS-SM",
-              "H5",
-              "letterSpacing"
-            ]
-          },
-          "paragraphSpacing": {
-            "value": "0",
-            "type": "paragraphSpacing",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{paragraphSpacing.0}",
-              "type": "paragraphSpacing"
-            },
-            "name": "mch_typography_ch_headings_xs_sm_h5_paragraph_spacing",
-            "attributes": {
-              "category": "Typography",
-              "type": "CH Headings",
-              "item": "XS-SM",
-              "subitem": "H5",
-              "state": "paragraphSpacing"
-            },
-            "path": [
-              "Typography",
-              "CH Headings",
-              "XS-SM",
-              "H5",
-              "paragraphSpacing"
-            ]
-          },
-          "paragraphIndent": {
-            "value": 0,
-            "type": "paragraphIndent",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{paragraphIndent.0}",
-              "type": "paragraphIndent"
-            },
-            "name": "mch_typography_ch_headings_xs_sm_h5_paragraph_indent",
-            "attributes": {
-              "category": "Typography",
-              "type": "CH Headings",
-              "item": "XS-SM",
-              "subitem": "H5",
-              "state": "paragraphIndent"
-            },
-            "path": [
-              "Typography",
-              "CH Headings",
-              "XS-SM",
-              "H5",
-              "paragraphIndent"
-            ]
-          },
-          "textCase": {
-            "value": "none",
-            "type": "textCase",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{textCase.none}",
-              "type": "textCase"
-            },
-            "name": "mch_typography_ch_headings_xs_sm_h5_text_case",
-            "attributes": {
-              "category": "Typography",
-              "type": "CH Headings",
-              "item": "XS-SM",
-              "subitem": "H5",
-              "state": "textCase"
-            },
-            "path": [
-              "Typography",
-              "CH Headings",
-              "XS-SM",
-              "H5",
-              "textCase"
-            ]
-          },
-          "textDecoration": {
-            "value": "none",
-            "type": "textDecoration",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{textDecoration.none}",
-              "type": "textDecoration"
-            },
-            "name": "mch_typography_ch_headings_xs_sm_h5_text_decoration",
-            "attributes": {
-              "category": "Typography",
-              "type": "CH Headings",
-              "item": "XS-SM",
-              "subitem": "H5",
-              "state": "textDecoration"
-            },
-            "path": [
-              "Typography",
-              "CH Headings",
-              "XS-SM",
-              "H5",
-              "textDecoration"
-            ]
-          }
+        "lineHeight": {
+          "value": "1.25rem",
+          "type": "lineHeights",
+          "filePath": "src/Web-Typography.json",
+          "isSource": true,
+          "original": {
+            "value": "{line-height.20}",
+            "type": "lineHeights"
+          },
+          "name": "mch_screen_typography_action_link_line_height",
+          "attributes": {
+            "category": "typography",
+            "type": "action",
+            "item": "link",
+            "subitem": "lineHeight"
+          },
+          "path": [
+            "typography",
+            "action",
+            "link",
+            "lineHeight"
+          ]
         }
       }
     }
@@ -25148,38 +13160,38 @@ module.exports = {
     "none": {
       "value": "none",
       "type": "textCase",
-      "filePath": "src/global.json",
+      "filePath": "src/Web-Typography.json",
       "isSource": true,
       "original": {
         "value": "none",
         "type": "textCase"
       },
-      "name": "mch_text_case_none",
+      "name": "mch_screen_text_case_none",
       "attributes": {
-        "category": "textCase",
+        "category": "text-case",
         "type": "none"
       },
       "path": [
-        "textCase",
+        "text-case",
         "none"
       ]
     },
     "uppercase": {
       "value": "uppercase",
       "type": "textCase",
-      "filePath": "src/global.json",
+      "filePath": "src/Web-Typography.json",
       "isSource": true,
       "original": {
         "value": "uppercase",
         "type": "textCase"
       },
-      "name": "mch_text_case_uppercase",
+      "name": "mch_screen_text_case_uppercase",
       "attributes": {
-        "category": "textCase",
+        "category": "text-case",
         "type": "uppercase"
       },
       "path": [
-        "textCase",
+        "text-case",
         "uppercase"
       ]
     }
@@ -25188,38 +13200,38 @@ module.exports = {
     "none": {
       "value": "none",
       "type": "textDecoration",
-      "filePath": "src/global.json",
+      "filePath": "src/Web-Typography.json",
       "isSource": true,
       "original": {
         "value": "none",
         "type": "textDecoration"
       },
-      "name": "mch_text_decoration_none",
+      "name": "mch_screen_text_decoration_none",
       "attributes": {
-        "category": "textDecoration",
+        "category": "text-decoration",
         "type": "none"
       },
       "path": [
-        "textDecoration",
+        "text-decoration",
         "none"
       ]
     },
     "underline": {
       "value": "underline",
       "type": "textDecoration",
-      "filePath": "src/global.json",
+      "filePath": "src/Web-Typography.json",
       "isSource": true,
       "original": {
         "value": "underline",
         "type": "textDecoration"
       },
-      "name": "mch_text_decoration_underline",
+      "name": "mch_screen_text_decoration_underline",
       "attributes": {
-        "category": "textDecoration",
+        "category": "text-decoration",
         "type": "underline"
       },
       "path": [
-        "textDecoration",
+        "text-decoration",
         "underline"
       ]
     }
@@ -25588,6 +13600,734 @@ module.exports = {
           "relaxed"
         ]
       }
+    }
+  },
+  "fontFamily": {
+    "artBaselTextScreen": {
+      "value": "Art Basel Text Screen",
+      "type": "fontFamilies",
+      "filePath": "src/Web-Typography.json",
+      "isSource": true,
+      "original": {
+        "value": "Art Basel Text Screen",
+        "type": "fontFamilies"
+      },
+      "name": "mch_screen_font_family_art_basel_text_screen",
+      "attributes": {
+        "category": "font-family",
+        "type": "art-basel-text-screen"
+      },
+      "path": [
+        "font-family",
+        "art-basel-text-screen"
+      ]
+    },
+    "artBaselHeadlineScreen": {
+      "value": "Art Basel Headline Screen",
+      "type": "fontFamilies",
+      "filePath": "src/Web-Typography.json",
+      "isSource": true,
+      "original": {
+        "value": "Art Basel Headline Screen",
+        "type": "fontFamilies"
+      },
+      "name": "mch_screen_font_family_art_basel_headline_screen",
+      "attributes": {
+        "category": "font-family",
+        "type": "art-basel-headline-screen"
+      },
+      "path": [
+        "font-family",
+        "art-basel-headline-screen"
+      ]
+    },
+    "ivarDisplay": {
+      "value": "Ivar Display",
+      "type": "fontFamilies",
+      "filePath": "src/Web-Typography.json",
+      "isSource": true,
+      "original": {
+        "value": "Ivar Display",
+        "type": "fontFamilies"
+      },
+      "name": "mch_screen_font_family_ivar_display",
+      "attributes": {
+        "category": "font-family",
+        "type": "ivar-display"
+      },
+      "path": [
+        "font-family",
+        "ivar-display"
+      ]
+    }
+  },
+  "lineHeight": {
+    "12": {
+      "value": "0.75rem",
+      "type": "lineHeights",
+      "filePath": "src/Web-Typography.json",
+      "isSource": true,
+      "original": {
+        "value": "12",
+        "type": "lineHeights"
+      },
+      "name": "mch_screen_line_height_12",
+      "attributes": {
+        "category": "line-height",
+        "type": "12"
+      },
+      "path": [
+        "line-height",
+        "12"
+      ]
+    },
+    "13": {
+      "value": "0.8125rem",
+      "type": "lineHeights",
+      "filePath": "src/Web-Typography.json",
+      "isSource": true,
+      "original": {
+        "value": "13",
+        "type": "lineHeights"
+      },
+      "name": "mch_screen_line_height_13",
+      "attributes": {
+        "category": "line-height",
+        "type": "13"
+      },
+      "path": [
+        "line-height",
+        "13"
+      ]
+    },
+    "14": {
+      "value": "0.875rem",
+      "type": "lineHeights",
+      "filePath": "src/Web-Typography.json",
+      "isSource": true,
+      "original": {
+        "value": "14",
+        "type": "lineHeights"
+      },
+      "name": "mch_screen_line_height_14",
+      "attributes": {
+        "category": "line-height",
+        "type": "14"
+      },
+      "path": [
+        "line-height",
+        "14"
+      ]
+    },
+    "16": {
+      "value": "1rem",
+      "type": "lineHeights",
+      "filePath": "src/Web-Typography.json",
+      "isSource": true,
+      "original": {
+        "value": "16",
+        "type": "lineHeights"
+      },
+      "name": "mch_screen_line_height_16",
+      "attributes": {
+        "category": "line-height",
+        "type": "16"
+      },
+      "path": [
+        "line-height",
+        "16"
+      ]
+    },
+    "17": {
+      "value": "1.0625rem",
+      "type": "lineHeights",
+      "filePath": "src/Web-Typography.json",
+      "isSource": true,
+      "original": {
+        "value": "17",
+        "type": "lineHeights"
+      },
+      "name": "mch_screen_line_height_17",
+      "attributes": {
+        "category": "line-height",
+        "type": "17"
+      },
+      "path": [
+        "line-height",
+        "17"
+      ]
+    },
+    "18": {
+      "value": "1.125rem",
+      "type": "lineHeights",
+      "filePath": "src/Web-Typography.json",
+      "isSource": true,
+      "original": {
+        "value": "18",
+        "type": "lineHeights"
+      },
+      "name": "mch_screen_line_height_18",
+      "attributes": {
+        "category": "line-height",
+        "type": "18"
+      },
+      "path": [
+        "line-height",
+        "18"
+      ]
+    },
+    "20": {
+      "value": "1.25rem",
+      "type": "lineHeights",
+      "filePath": "src/Web-Typography.json",
+      "isSource": true,
+      "original": {
+        "value": "20",
+        "type": "lineHeights"
+      },
+      "name": "mch_screen_line_height_20",
+      "attributes": {
+        "category": "line-height",
+        "type": "20"
+      },
+      "path": [
+        "line-height",
+        "20"
+      ]
+    },
+    "22": {
+      "value": "1.375rem",
+      "type": "lineHeights",
+      "filePath": "src/Web-Typography.json",
+      "isSource": true,
+      "original": {
+        "value": "22",
+        "type": "lineHeights"
+      },
+      "name": "mch_screen_line_height_22",
+      "attributes": {
+        "category": "line-height",
+        "type": "22"
+      },
+      "path": [
+        "line-height",
+        "22"
+      ]
+    },
+    "24": {
+      "value": "1.5rem",
+      "type": "lineHeights",
+      "filePath": "src/Web-Typography.json",
+      "isSource": true,
+      "original": {
+        "value": "24",
+        "type": "lineHeights"
+      },
+      "name": "mch_screen_line_height_24",
+      "attributes": {
+        "category": "line-height",
+        "type": "24"
+      },
+      "path": [
+        "line-height",
+        "24"
+      ]
+    },
+    "28": {
+      "value": "1.75rem",
+      "type": "lineHeights",
+      "filePath": "src/Web-Typography.json",
+      "isSource": true,
+      "original": {
+        "value": "28",
+        "type": "lineHeights"
+      },
+      "name": "mch_screen_line_height_28",
+      "attributes": {
+        "category": "line-height",
+        "type": "28"
+      },
+      "path": [
+        "line-height",
+        "28"
+      ]
+    },
+    "30": {
+      "value": "1.875rem",
+      "type": "lineHeights",
+      "filePath": "src/Web-Typography.json",
+      "isSource": true,
+      "original": {
+        "value": "30",
+        "type": "lineHeights"
+      },
+      "name": "mch_screen_line_height_30",
+      "attributes": {
+        "category": "line-height",
+        "type": "30"
+      },
+      "path": [
+        "line-height",
+        "30"
+      ]
+    },
+    "32": {
+      "value": "2rem",
+      "type": "lineHeights",
+      "filePath": "src/Web-Typography.json",
+      "isSource": true,
+      "original": {
+        "value": "32",
+        "type": "lineHeights"
+      },
+      "name": "mch_screen_line_height_32",
+      "attributes": {
+        "category": "line-height",
+        "type": "32"
+      },
+      "path": [
+        "line-height",
+        "32"
+      ]
+    },
+    "34": {
+      "value": "2.125rem",
+      "type": "lineHeights",
+      "filePath": "src/Web-Typography.json",
+      "isSource": true,
+      "original": {
+        "value": "34",
+        "type": "lineHeights"
+      },
+      "name": "mch_screen_line_height_34",
+      "attributes": {
+        "category": "line-height",
+        "type": "34"
+      },
+      "path": [
+        "line-height",
+        "34"
+      ]
+    },
+    "36": {
+      "value": "2.25rem",
+      "type": "lineHeights",
+      "filePath": "src/Web-Typography.json",
+      "isSource": true,
+      "original": {
+        "value": "36",
+        "type": "lineHeights"
+      },
+      "name": "mch_screen_line_height_36",
+      "attributes": {
+        "category": "line-height",
+        "type": "36"
+      },
+      "path": [
+        "line-height",
+        "36"
+      ]
+    },
+    "40": {
+      "value": "2.5rem",
+      "type": "lineHeights",
+      "filePath": "src/Web-Typography.json",
+      "isSource": true,
+      "original": {
+        "value": "40",
+        "type": "lineHeights"
+      },
+      "name": "mch_screen_line_height_40",
+      "attributes": {
+        "category": "line-height",
+        "type": "40"
+      },
+      "path": [
+        "line-height",
+        "40"
+      ]
+    },
+    "42": {
+      "value": "2.625rem",
+      "type": "lineHeights",
+      "filePath": "src/Web-Typography.json",
+      "isSource": true,
+      "original": {
+        "value": "42",
+        "type": "lineHeights"
+      },
+      "name": "mch_screen_line_height_42",
+      "attributes": {
+        "category": "line-height",
+        "type": "42"
+      },
+      "path": [
+        "line-height",
+        "42"
+      ]
+    },
+    "46": {
+      "value": "2.875rem",
+      "type": "lineHeights",
+      "filePath": "src/Web-Typography.json",
+      "isSource": true,
+      "original": {
+        "value": "46",
+        "type": "lineHeights"
+      },
+      "name": "mch_screen_line_height_46",
+      "attributes": {
+        "category": "line-height",
+        "type": "46"
+      },
+      "path": [
+        "line-height",
+        "46"
+      ]
+    },
+    "48": {
+      "value": "3rem",
+      "type": "lineHeights",
+      "filePath": "src/Web-Typography.json",
+      "isSource": true,
+      "original": {
+        "value": "48",
+        "type": "lineHeights"
+      },
+      "name": "mch_screen_line_height_48",
+      "attributes": {
+        "category": "line-height",
+        "type": "48"
+      },
+      "path": [
+        "line-height",
+        "48"
+      ]
+    },
+    "52": {
+      "value": "3.25rem",
+      "type": "lineHeights",
+      "filePath": "src/Web-Typography.json",
+      "isSource": true,
+      "original": {
+        "value": "52",
+        "type": "lineHeights"
+      },
+      "name": "mch_screen_line_height_52",
+      "attributes": {
+        "category": "line-height",
+        "type": "52"
+      },
+      "path": [
+        "line-height",
+        "52"
+      ]
+    },
+    "54": {
+      "value": "3.375rem",
+      "type": "lineHeights",
+      "filePath": "src/Web-Typography.json",
+      "isSource": true,
+      "original": {
+        "value": "54",
+        "type": "lineHeights"
+      },
+      "name": "mch_screen_line_height_54",
+      "attributes": {
+        "category": "line-height",
+        "type": "54"
+      },
+      "path": [
+        "line-height",
+        "54"
+      ]
+    },
+    "58": {
+      "value": "3.625rem",
+      "type": "lineHeights",
+      "filePath": "src/Web-Typography.json",
+      "isSource": true,
+      "original": {
+        "value": "58",
+        "type": "lineHeights"
+      },
+      "name": "mch_screen_line_height_58",
+      "attributes": {
+        "category": "line-height",
+        "type": "58"
+      },
+      "path": [
+        "line-height",
+        "58"
+      ]
+    },
+    "62": {
+      "value": "3.875rem",
+      "type": "lineHeights",
+      "filePath": "src/Web-Typography.json",
+      "isSource": true,
+      "original": {
+        "value": "62",
+        "type": "lineHeights"
+      },
+      "name": "mch_screen_line_height_62",
+      "attributes": {
+        "category": "line-height",
+        "type": "62"
+      },
+      "path": [
+        "line-height",
+        "62"
+      ]
+    },
+    "64": {
+      "value": "4rem",
+      "type": "lineHeights",
+      "filePath": "src/Web-Typography.json",
+      "isSource": true,
+      "original": {
+        "value": "64",
+        "type": "lineHeights"
+      },
+      "name": "mch_screen_line_height_64",
+      "attributes": {
+        "category": "line-height",
+        "type": "64"
+      },
+      "path": [
+        "line-height",
+        "64"
+      ]
+    },
+    "66": {
+      "value": "4.125rem",
+      "type": "lineHeights",
+      "filePath": "src/Web-Typography.json",
+      "isSource": true,
+      "original": {
+        "value": "66",
+        "type": "lineHeights"
+      },
+      "name": "mch_screen_line_height_66",
+      "attributes": {
+        "category": "line-height",
+        "type": "66"
+      },
+      "path": [
+        "line-height",
+        "66"
+      ]
+    },
+    "72": {
+      "value": "4.5rem",
+      "type": "lineHeights",
+      "filePath": "src/Web-Typography.json",
+      "isSource": true,
+      "original": {
+        "value": "72",
+        "type": "lineHeights"
+      },
+      "name": "mch_screen_line_height_72",
+      "attributes": {
+        "category": "line-height",
+        "type": "72"
+      },
+      "path": [
+        "line-height",
+        "72"
+      ]
+    },
+    "80": {
+      "value": "5rem",
+      "type": "lineHeights",
+      "filePath": "src/Web-Typography.json",
+      "isSource": true,
+      "original": {
+        "value": "80",
+        "type": "lineHeights"
+      },
+      "name": "mch_screen_line_height_80",
+      "attributes": {
+        "category": "line-height",
+        "type": "80"
+      },
+      "path": [
+        "line-height",
+        "80"
+      ]
+    },
+    "84": {
+      "value": "5.25rem",
+      "type": "lineHeights",
+      "filePath": "src/Web-Typography.json",
+      "isSource": true,
+      "original": {
+        "value": "84",
+        "type": "lineHeights"
+      },
+      "name": "mch_screen_line_height_84",
+      "attributes": {
+        "category": "line-height",
+        "type": "84"
+      },
+      "path": [
+        "line-height",
+        "84"
+      ]
+    },
+    "88": {
+      "value": "5.5rem",
+      "type": "lineHeights",
+      "filePath": "src/Web-Typography.json",
+      "isSource": true,
+      "original": {
+        "value": "88",
+        "type": "lineHeights"
+      },
+      "name": "mch_screen_line_height_88",
+      "attributes": {
+        "category": "line-height",
+        "type": "88"
+      },
+      "path": [
+        "line-height",
+        "88"
+      ]
+    },
+    "96": {
+      "value": "6rem",
+      "type": "lineHeights",
+      "filePath": "src/Web-Typography.json",
+      "isSource": true,
+      "original": {
+        "value": "96",
+        "type": "lineHeights"
+      },
+      "name": "mch_screen_line_height_96",
+      "attributes": {
+        "category": "line-height",
+        "type": "96"
+      },
+      "path": [
+        "line-height",
+        "96"
+      ]
+    },
+    "104": {
+      "value": "6.5rem",
+      "type": "lineHeights",
+      "filePath": "src/Web-Typography.json",
+      "isSource": true,
+      "original": {
+        "value": "104",
+        "type": "lineHeights"
+      },
+      "name": "mch_screen_line_height_104",
+      "attributes": {
+        "category": "line-height",
+        "type": "104"
+      },
+      "path": [
+        "line-height",
+        "104"
+      ]
+    },
+    "118": {
+      "value": "7.375rem",
+      "type": "lineHeights",
+      "filePath": "src/Web-Typography.json",
+      "isSource": true,
+      "original": {
+        "value": "118",
+        "type": "lineHeights"
+      },
+      "name": "mch_screen_line_height_118",
+      "attributes": {
+        "category": "line-height",
+        "type": "118"
+      },
+      "path": [
+        "line-height",
+        "118"
+      ]
+    },
+    "128": {
+      "value": "8rem",
+      "type": "lineHeights",
+      "filePath": "src/Web-Typography.json",
+      "isSource": true,
+      "original": {
+        "value": "128",
+        "type": "lineHeights"
+      },
+      "name": "mch_screen_line_height_128",
+      "attributes": {
+        "category": "line-height",
+        "type": "128"
+      },
+      "path": [
+        "line-height",
+        "128"
+      ]
+    }
+  },
+  "fontWeight": {
+    "regular": {
+      "value": "400",
+      "type": "fontWeights",
+      "filePath": "src/Web-Typography.json",
+      "isSource": true,
+      "original": {
+        "value": "Regular",
+        "type": "fontWeights"
+      },
+      "name": "mch_screen_font_weight_regular",
+      "attributes": {
+        "category": "font-weight",
+        "type": "regular"
+      },
+      "path": [
+        "font-weight",
+        "regular"
+      ]
+    },
+    "bold": {
+      "value": "700",
+      "type": "fontWeights",
+      "filePath": "src/Web-Typography.json",
+      "isSource": true,
+      "original": {
+        "value": "Bold",
+        "type": "fontWeights"
+      },
+      "name": "mch_screen_font_weight_bold",
+      "attributes": {
+        "category": "font-weight",
+        "type": "bold"
+      },
+      "path": [
+        "font-weight",
+        "bold"
+      ]
+    },
+    "semibold": {
+      "value": "600",
+      "type": "fontWeights",
+      "filePath": "src/Web-Typography.json",
+      "isSource": true,
+      "original": {
+        "value": "SemiBold",
+        "type": "fontWeights"
+      },
+      "name": "mch_screen_font_weight_semibold",
+      "attributes": {
+        "category": "font-weight",
+        "type": "semibold"
+      },
+      "path": [
+        "font-weight",
+        "semibold"
+      ]
     }
   }
 };
