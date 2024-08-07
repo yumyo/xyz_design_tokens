@@ -36,8 +36,8 @@ jobs:
     - name: Push
       uses: heussd/mirror-to-bitbucket-github-action@v2
       with:
-        spacename: mchappsrvcs
-        repository: artbaseldesigntokens
-        password: ATBBr4guvgYkg64xFq6jLLPXdCQ43D53F492
-        username: chanthoan
+        spacename: ${{ secrets.BITBUCKET_SPACENAME }}
+        repository: ${{ secrets.BITBUCKET_REPONAME }}
+        password: ${{ secrets.BITBUCKET_APP_PASSWORD }}
+        username: ${{ secrets.BITBUCKET_USERNAME }}
         
