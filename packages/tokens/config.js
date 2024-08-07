@@ -288,6 +288,18 @@ StyleDictionary.registerTransform({
   }
 });
 
+StyleDictionary.registerTransform({
+  name: 'name/prefix',
+  type: 'name',
+  transformer: function (prop, options) {
+    let prefix = 'mch_';
+    if (prop.filePath.includes('Web-Typography')) {
+      prefix = 'mch_screen_';
+    }
+    return `${prefix}${prop.name}`;
+  }
+});
+
 registerTransforms(StyleDictionary, {
   expand: {
     composition: true,
@@ -377,79 +389,76 @@ async function run() {
     sd.buildAllPlatforms();
   });
 
-  // Global tokens export.
-  StyleDictionary.extend({
-    source: ['src/global.json', 'src/Global-Colours.json'],
-    platforms: {
-      js: {
-        // transformGroup: 'js',
-        transforms: ["attribute/cti","name/cti/snake","fontSize/pxToRem","color/hex", 'ts/type/fontWeight', "remove/pindent/px", "convertUnit/letterspacing/%"],
-        buildPath: 'build/js/',
-        prefix: "mch_",
-        files: [
+    // Global tokens export.
+    StyleDictionary.extend({
+      source: ['src/global.json', 'src/Global-Colours.json', 'src/Web-Typography.json'],
+      platforms: {
+        js: {
+          // transformGroup: 'js',
+          transforms: ["attribute/cti", "name/cti/snake", "name/prefix", "fontSize/pxToRem", "color/hex", 'ts/type/fontWeight', "remove/pindent/px", "convertUnit/letterspacing/%"],
+          buildPath: 'build/js/',
+          files: [
+            {
+              format: 'javascript/es6',
+              destination: `${designTokensFileName}.js`
+            },
+          ],
+        },
+        jsModule: {
+          // transformGroup: 'js',
+          transforms: ["attribute/cti", "name/cti/snake", "name/prefix", "fontSize/pxToRem", "color/hex", 'ts/type/fontWeight', "remove/pindent/px", "convertUnit/letterspacing/%"],
+          buildPath: 'build/js/',
+          files: [
+            {
+              format: 'jsModuleCamelCase',
+              destination: `${designTokensFileName}-module.js`
+            },
+            {
+              format: 'tsModuleCamelCase',
+              destination: `${designTokensFileName}-module.d.ts`
+            },
+          ],
+        },
+        scss: {
+          // transformGroup: "scss",
+          transforms: ["attribute/cti","name/cti/snake", "name/prefix", "time/seconds","content/icon","font-family/quote/fix","fontSize/pxToRem","color/css",'ts/type/fontWeight',"convertUnit/letterspacing/%","remove/pindent/px", "remove/maxWidth/px"],
+          buildPath: "build/scss/",
+          files: [
           {
-            format: 'javascript/es6',
-            destination: `${designTokensFileName}.js`
-          },
-        ],
+            destination: `_${designTokensFileName}.scss`,
+            format: "scss/variables"
+          }]
+        },
+        css: {
+          transforms: [
+            'ts/descriptionToComment',
+            "size/rem",
+            'ts/opacity',
+            'ts/size/lineheight',
+            'ts/type/fontWeight',
+            'ts/resolveMath',
+            'ts/size/css/letterspacing',
+            "fontSize/pxToRem",
+            "convertUnit/letterspacing/%",
+            "remove/pindent/px",
+            'ts/border/css/shorthand',
+            'ts/shadow/css/shorthand',
+            'ts/color/css/hexrgba',
+            'ts/color/modifiers',
+            'name/cti/snake',
+            'name/prefix',
+            'font-family/quote/fix',
+          ],
+          buildPath: "build/css/",
+          files: [
+            {
+              destination: `${designTokensFileName}.css`,
+              format: 'css/variables',
+            },
+          ],
+        }
       },
-      jsModule: {
-        // transformGroup: 'js',
-        transforms: ["attribute/cti","name/cti/snake","fontSize/pxToRem","color/hex", 'ts/type/fontWeight', "remove/pindent/px", "convertUnit/letterspacing/%"],
-        buildPath: 'build/js/',
-        prefix: "mch_",
-        files: [
-          {
-            format: 'jsModuleCamelCase',
-            destination: `${designTokensFileName}-module.js`
-          },
-          {
-            format: 'tsModuleCamelCase',
-            destination: `${designTokensFileName}-module.d.ts`
-          },
-        ],
-      },
-      scss: {
-        // transformGroup: "scss",
-        transforms: ["attribute/cti","name/cti/snake","time/seconds","content/icon","font-family/quote/fix","fontSize/pxToRem","color/css",'ts/type/fontWeight',"convertUnit/letterspacing/%","remove/pindent/px", "remove/maxWidth/px"],
-        buildPath: "build/scss/",
-        prefix: "mch_",
-        files: [
-        {
-          destination: `_${designTokensFileName}.scss`,
-          format: "scss/variables"
-        }]
-      },
-      css: {
-        transforms: [
-          'ts/descriptionToComment',
-          "size/rem",
-          'ts/opacity',
-          'ts/size/lineheight',
-          'ts/type/fontWeight',
-          'ts/resolveMath',
-          'ts/size/css/letterspacing',
-          "fontSize/pxToRem",
-          "convertUnit/letterspacing/%",
-          "remove/pindent/px",
-          'ts/border/css/shorthand',
-          'ts/shadow/css/shorthand',
-          'ts/color/css/hexrgba',
-          'ts/color/modifiers',
-          'name/cti/snake',
-          "font-family/quote/fix",
-        ],
-        buildPath: "build/css/",
-        prefix: "mch_",
-        files: [
-          {
-            destination: `${designTokensFileName}.css`,
-            format: 'css/variables',
-          },
-        ],
-      }
-    },
-  }).buildAllPlatforms();
+    }).buildAllPlatforms();
 }
 
 run();
