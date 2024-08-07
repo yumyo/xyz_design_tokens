@@ -288,18 +288,6 @@ StyleDictionary.registerTransform({
   }
 });
 
-StyleDictionary.registerTransform({
-  name: 'name/prefix',
-  type: 'name',
-  transformer: function (prop, options) {
-    let prefix = 'mch_';
-    if (prop.filePath.includes('Web-Typography')) {
-      prefix = 'mch_screen_';
-    }
-    return `${prefix}${prop.name}`;
-  }
-});
-
 registerTransforms(StyleDictionary, {
   expand: {
     composition: true,
@@ -391,12 +379,13 @@ async function run() {
 
     // Global tokens export.
     StyleDictionary.extend({
-      source: ['src/global.json', 'src/Global-Colours.json', 'src/Web-Typography.json'],
+      source: ['src/global.json', 'src/Global-Colours.json'],
       platforms: {
         js: {
           // transformGroup: 'js',
-          transforms: ["attribute/cti", "name/cti/snake", "name/prefix", "fontSize/pxToRem", "color/hex", 'ts/type/fontWeight', "remove/pindent/px", "convertUnit/letterspacing/%"],
+          transforms: ["attribute/cti", "name/cti/snake", "fontSize/pxToRem", "color/hex", 'ts/type/fontWeight', "remove/pindent/px", "convertUnit/letterspacing/%"],
           buildPath: 'build/js/',
+          prefix: "mch_",
           files: [
             {
               format: 'javascript/es6',
@@ -406,8 +395,9 @@ async function run() {
         },
         jsModule: {
           // transformGroup: 'js',
-          transforms: ["attribute/cti", "name/cti/snake", "name/prefix", "fontSize/pxToRem", "color/hex", 'ts/type/fontWeight', "remove/pindent/px", "convertUnit/letterspacing/%"],
+          transforms: ["attribute/cti", "name/cti/snake", "fontSize/pxToRem", "color/hex", 'ts/type/fontWeight', "remove/pindent/px", "convertUnit/letterspacing/%"],
           buildPath: 'build/js/',
+          prefix: "mch_",
           files: [
             {
               format: 'jsModuleCamelCase',
@@ -421,8 +411,9 @@ async function run() {
         },
         scss: {
           // transformGroup: "scss",
-          transforms: ["attribute/cti","name/cti/snake", "name/prefix", "time/seconds","content/icon","font-family/quote/fix","fontSize/pxToRem","color/css",'ts/type/fontWeight',"convertUnit/letterspacing/%","remove/pindent/px", "remove/maxWidth/px"],
+          transforms: ["attribute/cti","name/cti/snake", "time/seconds","content/icon","font-family/quote/fix","fontSize/pxToRem","color/css",'ts/type/fontWeight',"convertUnit/letterspacing/%","remove/pindent/px", "remove/maxWidth/px"],
           buildPath: "build/scss/",
+          prefix: "mch_",
           files: [
           {
             destination: `_${designTokensFileName}.scss`,
@@ -446,16 +437,38 @@ async function run() {
             'ts/color/css/hexrgba',
             'ts/color/modifiers',
             'name/cti/snake',
-            'name/prefix',
             'font-family/quote/fix',
           ],
           buildPath: "build/css/",
+          prefix: "mch_",
           files: [
             {
               destination: `${designTokensFileName}.css`,
               format: 'css/variables',
             },
           ],
+        }
+      },
+    }).buildAllPlatforms();
+    
+    
+    // This export deals uniquely with the new Typography Scale created in August 2024. It isolates it
+    // in a different scss file to be consumed only by the UI Kit. This situation should be reverted
+    // when the old Typography Scale is fully deprecated and the new tokens can be integrated in the
+    // standard files
+    StyleDictionary.extend({
+      source: ['src/Web-Typography.json'],
+      platforms: {
+        scss: {
+          // transformGroup: "scss",
+          transforms: ["attribute/cti","name/cti/snake", "time/seconds","content/icon","font-family/quote/fix","fontSize/pxToRem","color/css",'ts/type/fontWeight',"convertUnit/letterspacing/%","remove/pindent/px", "remove/maxWidth/px"],
+          buildPath: "build/scss/",
+          prefix: "mch_",
+          files: [
+          {
+            destination: `_desgin_tokens_new_type.scss`,
+            format: "scss/variables"
+          }]
         }
       },
     }).buildAllPlatforms();
