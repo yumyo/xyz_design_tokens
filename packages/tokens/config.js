@@ -466,7 +466,7 @@ async function run() {
           prefix: "mch_",
           files: [
           {
-            destination: `_desgin_tokens_new_type.scss`,
+            destination: `_design_tokens_new_type.scss`,
             format: "scss/variables"
           }]
         }
