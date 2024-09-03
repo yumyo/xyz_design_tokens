@@ -11,6 +11,10 @@
     "ivar-display": {
       "value": "Ivar Display",
       "type": "fontFamilies"
+    },
+    "art-basel-logo": {
+      "value": "Art Basel Logo",
+      "type": "fontFamilies"
     }
   },
   "font-size": {
