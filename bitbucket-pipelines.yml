@@ -71,9 +71,9 @@ pipelines:
             - apt update && apt install -y git
             - yarn install
             - npm install --global lerna@4.0.0
-            - npm config set @mch-group:registry https://registry.npmjs.org && npm config set //registry.npmjs.org/:_authToken=${NPM_TOKEN}
-            - git config user.name "Chanthoan"
-            - git config user.email "ckha@dminc.com"
+            - npm config set @xyz-group:registry https://registry.npmjs.org && npm config set //registry.npmjs.org/:_authToken=${NPM_TOKEN}
+            - git config user.name "Username"
+            - git config user.email "xyz@acme.com"
             - git config push.default current
             - git remote set-url origin https://${BITBUCKET_CKHA_USER}:${BITBUCKET_CKHA_API_TOKEN}@bitbucket.org/${BITBUCKET_REPO_OWNER}/${BITBUCKET_REPO_SLUG}
             - lerna init
@@ -92,7 +92,7 @@ pipelines:
               FROM: $EMAIL_CORE_FROM
               TO: $EMAIL_LIST
               HOST: $EMAIL_HOST
-              SUBJECT: 'MCH Artbasel Design Tokens - Components Changelog'
+              SUBJECT: 'XYZ Design Tokens - Components Changelog'
               BODY_HTML: 'packages/tokens/CHANGELOG.html'
           condition:
             changesets:

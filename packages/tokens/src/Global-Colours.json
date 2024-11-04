@@ -6,7 +6,7 @@
           "0": {
             "value": "#ffffff",
             "type": "color",
-            "description": "On Light Mode (default) this is the pure MCH White colour"
+            "description": "On Light Mode (default) this is the pure XYZ White colour"
           },
           "100": {
             "value": "#f8f8f8",
@@ -47,7 +47,7 @@
           "1000": {
             "value": "#121212",
             "type": "color",
-            "description": "On Light Mode (default), this is the MCH principal Black colour"
+            "description": "On Light Mode (default), this is the XYZ principal Black colour"
           }
         },
         "Alerts": {
@@ -211,7 +211,7 @@
           "type": "color"
         },
         "Miami": {
-          "value": "#00c18bd9",
+          "value": "#00c18b",
           "type": "color"
         },
         "Hong Kong": {
@@ -223,7 +223,7 @@
           "type": "color"
         },
         "Paris": {
-          "value": "#1e1e1e",
+          "value": "#6f2cc7",
           "type": "color"
         }
       },
@@ -245,7 +245,7 @@
           "type": "color"
         },
         "Galleries": {
-          "value": "#eaeaea",
+          "value": "#CDCDCD",
           "type": "color"
         },
         "Feature, Nova": {
@@ -491,7 +491,7 @@
           "type": "color"
         },
         "Galleries": {
-          "value": "#eaeaea",
+          "value": "#CDCDCD",
           "type": "color"
         },
         "Feature, Nova": {
@@ -521,7 +521,7 @@
           "type": "color"
         },
         "Miami": {
-          "value": "#00c18bd9",
+          "value": "#00c18b",
           "type": "color"
         },
         "Hong Kong": {
@@ -533,7 +533,7 @@
           "type": "color"
         },
         "Paris": {
-          "value": "#1e1e1e",
+          "value": "#6f2cc7",
           "type": "color"
         }
       }

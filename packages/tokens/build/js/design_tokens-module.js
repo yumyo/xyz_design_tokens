@@ -1,13 +1,13 @@
 /**
  * Do not edit directly
- * Generated on Thu, 13 Jul 2023 10:34:34 GMT
+ * Generated on Mon, 04 Nov 2024 09:40:19 GMT
  */
 
 module.exports = {
-  "Color": {
-    "Base": {
-      "Primary": {
-        "Black": {
+  "color": {
+    "base": {
+      "primary": {
+        "black": {
           "value": "#1d2327",
           "type": "color",
           "filePath": "src/global.json",
@@ -16,7 +16,7 @@ module.exports = {
             "value": "#1d2327",
             "type": "color"
           },
-          "name": "mch_color_base_primary_black",
+          "name": "xyz_color_base_primary_black",
           "attributes": {
             "category": "Color",
             "type": "Base",
@@ -30,7 +30,7 @@ module.exports = {
             "Black"
           ]
         },
-        "White": {
+        "white": {
           "value": "#ffffff",
           "type": "color",
           "filePath": "src/global.json",
@@ -39,7 +39,7 @@ module.exports = {
             "value": "#ffffff",
             "type": "color"
           },
-          "name": "mch_color_base_primary_white",
+          "name": "xyz_color_base_primary_white",
           "attributes": {
             "category": "Color",
             "type": "Base",
@@ -54,8 +54,8 @@ module.exports = {
           ]
         }
       },
-      "Secondary": {
-        "Grey 500": {
+      "secondary": {
+        "grey500": {
           "value": "#444749",
           "type": "color",
           "filePath": "src/global.json",
@@ -64,7 +64,7 @@ module.exports = {
             "value": "#444749",
             "type": "color"
           },
-          "name": "mch_color_base_secondary_grey_500",
+          "name": "xyz_color_base_secondary_grey_500",
           "attributes": {
             "category": "Color",
             "type": "Base",
@@ -78,7 +78,7 @@ module.exports = {
             "Grey 500"
           ]
         },
-        "Grey 400": {
+        "grey400": {
           "value": "#757575",
           "type": "color",
           "filePath": "src/global.json",
@@ -87,7 +87,7 @@ module.exports = {
             "value": "#757575",
             "type": "color"
           },
-          "name": "mch_color_base_secondary_grey_400",
+          "name": "xyz_color_base_secondary_grey_400",
           "attributes": {
             "category": "Color",
             "type": "Base",
@@ -101,7 +101,7 @@ module.exports = {
             "Grey 400"
           ]
         },
-        "Grey 300": {
+        "grey300": {
           "value": "#babfc4",
           "type": "color",
           "filePath": "src/global.json",
@@ -110,7 +110,7 @@ module.exports = {
             "value": "#babfc4",
             "type": "color"
           },
-          "name": "mch_color_base_secondary_grey_300",
+          "name": "xyz_color_base_secondary_grey_300",
           "attributes": {
             "category": "Color",
             "type": "Base",
@@ -124,7 +124,7 @@ module.exports = {
             "Grey 300"
           ]
         },
-        "Grey 200": {
+        "grey200": {
           "value": "#f0f2f5",
           "type": "color",
           "filePath": "src/global.json",
@@ -133,7 +133,7 @@ module.exports = {
             "value": "#f0f2f5",
             "type": "color"
           },
-          "name": "mch_color_base_secondary_grey_200",
+          "name": "xyz_color_base_secondary_grey_200",
           "attributes": {
             "category": "Color",
             "type": "Base",
@@ -147,7 +147,7 @@ module.exports = {
             "Grey 200"
           ]
         },
-        "Grey 100": {
+        "grey100": {
           "value": "#f7f7f7",
           "type": "color",
           "filePath": "src/global.json",
@@ -156,7 +156,7 @@ module.exports = {
             "value": "#f7f7f7",
             "type": "color"
           },
-          "name": "mch_color_base_secondary_grey_100",
+          "name": "xyz_color_base_secondary_grey_100",
           "attributes": {
             "category": "Color",
             "type": "Base",
@@ -172,9 +172,9 @@ module.exports = {
         }
       }
     },
-    "Extended": {
-      "Sub Brands": {
-        "Basel": {
+    "extended": {
+      "subBrands": {
+        "basel": {
           "value": "#00a0cf",
           "type": "color",
           "filePath": "src/global.json",
@@ -183,7 +183,7 @@ module.exports = {
             "value": "#00a0cf",
             "type": "color"
           },
-          "name": "mch_color_extended_sub_brands_basel",
+          "name": "xyz_color_extended_sub_brands_basel",
           "attributes": {
             "category": "Color",
             "type": "Extended",
@@ -197,7 +197,7 @@ module.exports = {
             "Basel"
           ]
         },
-        "Miami": {
+        "miami": {
           "value": "#00c18b",
           "type": "color",
           "filePath": "src/global.json",
@@ -206,7 +206,7 @@ module.exports = {
             "value": "#00c18b",
             "type": "color"
           },
-          "name": "mch_color_extended_sub_brands_miami",
+          "name": "xyz_color_extended_sub_brands_miami",
           "attributes": {
             "category": "Color",
             "type": "Extended",
@@ -220,7 +220,7 @@ module.exports = {
             "Miami"
           ]
         },
-        "Hong Kong": {
+        "hongKong": {
           "value": "#e0004d",
           "type": "color",
           "filePath": "src/global.json",
@@ -229,7 +229,7 @@ module.exports = {
             "value": "#e0004d",
             "type": "color"
           },
-          "name": "mch_color_extended_sub_brands_hong_kong",
+          "name": "xyz_color_extended_sub_brands_hong_kong",
           "attributes": {
             "category": "Color",
             "type": "Extended",
@@ -243,7 +243,7 @@ module.exports = {
             "Hong Kong"
           ]
         },
-        "Cities": {
+        "cities": {
           "value": "#fa4616",
           "type": "color",
           "filePath": "src/global.json",
@@ -252,7 +252,7 @@ module.exports = {
             "value": "#fa4616",
             "type": "color"
           },
-          "name": "mch_color_extended_sub_brands_cities",
+          "name": "xyz_color_extended_sub_brands_cities",
           "attributes": {
             "category": "Color",
             "type": "Extended",
@@ -266,7 +266,7 @@ module.exports = {
             "Cities"
           ]
         },
-        "Paris+": {
+        "paris": {
           "value": "#1e1e1e",
           "type": "color",
           "filePath": "src/global.json",
@@ -275,7 +275,7 @@ module.exports = {
             "value": "#1e1e1e",
             "type": "color"
           },
-          "name": "mch_color_extended_sub_brands_paris",
+          "name": "xyz_color_extended_sub_brands_paris",
           "attributes": {
             "category": "Color",
             "type": "Extended",
@@ -290,8 +290,8 @@ module.exports = {
           ]
         }
       },
-      "Sectors": {
-        "Film": {
+      "sectors": {
+        "film": {
           "value": "#f7dce9",
           "type": "color",
           "filePath": "src/global.json",
@@ -300,7 +300,7 @@ module.exports = {
             "value": "#f7dce9",
             "type": "color"
           },
-          "name": "mch_color_extended_sectors_film",
+          "name": "xyz_color_extended_sectors_film",
           "attributes": {
             "category": "Color",
             "type": "Extended",
@@ -314,7 +314,7 @@ module.exports = {
             "Film"
           ]
         },
-        "Parcour, Public": {
+        "parcourPublic": {
           "value": "#cddff2",
           "type": "color",
           "filePath": "src/global.json",
@@ -323,7 +323,7 @@ module.exports = {
             "value": "#cddff2",
             "type": "color"
           },
-          "name": "mch_color_extended_sectors_parcour_public",
+          "name": "xyz_color_extended_sectors_parcour_public",
           "attributes": {
             "category": "Color",
             "type": "Extended",
@@ -337,7 +337,7 @@ module.exports = {
             "Parcour, Public"
           ]
         },
-        "Unlimited, Encounters, Meridians": {
+        "unlimitedEncountersMeridians": {
           "value": "#dff0cb",
           "type": "color",
           "filePath": "src/global.json",
@@ -346,7 +346,7 @@ module.exports = {
             "value": "#dff0cb",
             "type": "color"
           },
-          "name": "mch_color_extended_sectors_unlimited_encounters_meridians",
+          "name": "xyz_color_extended_sectors_unlimited_encounters_meridians",
           "attributes": {
             "category": "Color",
             "type": "Extended",
@@ -360,7 +360,7 @@ module.exports = {
             "Unlimited, Encounters, Meridians"
           ]
         },
-        "Discoveries, Statements, Positions": {
+        "discoveriesStatementsPositions": {
           "value": "#d2d3ec",
           "type": "color",
           "filePath": "src/global.json",
@@ -369,7 +369,7 @@ module.exports = {
             "value": "#d2d3ec",
             "type": "color"
           },
-          "name": "mch_color_extended_sectors_discoveries_statements_positions",
+          "name": "xyz_color_extended_sectors_discoveries_statements_positions",
           "attributes": {
             "category": "Color",
             "type": "Extended",
@@ -383,7 +383,7 @@ module.exports = {
             "Discoveries, Statements, Positions"
           ]
         },
-        "Galleries": {
+        "galleries": {
           "value": "#cdcdcd",
           "type": "color",
           "filePath": "src/global.json",
@@ -392,7 +392,7 @@ module.exports = {
             "value": "#cdcdcd",
             "type": "color"
           },
-          "name": "mch_color_extended_sectors_galleries",
+          "name": "xyz_color_extended_sectors_galleries",
           "attributes": {
             "category": "Color",
             "type": "Extended",
@@ -406,7 +406,7 @@ module.exports = {
             "Galleries"
           ]
         },
-        "Feature, Nova": {
+        "featureNova": {
           "value": "#d8eeeb",
           "type": "color",
           "filePath": "src/global.json",
@@ -415,7 +415,7 @@ module.exports = {
             "value": "#d8eeeb",
             "type": "color"
           },
-          "name": "mch_color_extended_sectors_feature_nova",
+          "name": "xyz_color_extended_sectors_feature_nova",
           "attributes": {
             "category": "Color",
             "type": "Extended",
@@ -429,7 +429,7 @@ module.exports = {
             "Feature, Nova"
           ]
         },
-        "Edition": {
+        "edition": {
           "value": "#fff7bf",
           "type": "color",
           "filePath": "src/global.json",
@@ -438,7 +438,7 @@ module.exports = {
             "value": "#fff7bf",
             "type": "color"
           },
-          "name": "mch_color_extended_sectors_edition",
+          "name": "xyz_color_extended_sectors_edition",
           "attributes": {
             "category": "Color",
             "type": "Extended",
@@ -452,7 +452,7 @@ module.exports = {
             "Edition"
           ]
         },
-        "Kabinett": {
+        "kabinett": {
           "value": "#fcdfaa",
           "type": "color",
           "filePath": "src/global.json",
@@ -461,7 +461,7 @@ module.exports = {
             "value": "#fcdfaa",
             "type": "color"
           },
-          "name": "mch_color_extended_sectors_kabinett",
+          "name": "xyz_color_extended_sectors_kabinett",
           "attributes": {
             "category": "Color",
             "type": "Extended",
@@ -475,7 +475,7 @@ module.exports = {
             "Kabinett"
           ]
         },
-        "Insights, Survey": {
+        "insightsSurvey": {
           "value": "#fcd5d7",
           "type": "color",
           "filePath": "src/global.json",
@@ -484,7 +484,7 @@ module.exports = {
             "value": "#fcd5d7",
             "type": "color"
           },
-          "name": "mch_color_extended_sectors_insights_survey",
+          "name": "xyz_color_extended_sectors_insights_survey",
           "attributes": {
             "category": "Color",
             "type": "Extended",
@@ -498,7 +498,7 @@ module.exports = {
             "Insights, Survey"
           ]
         },
-        "Dialogues": {
+        "dialogues": {
           "value": "#dcdcdc",
           "type": "color",
           "filePath": "src/global.json",
@@ -507,7 +507,7 @@ module.exports = {
             "value": "#dcdcdc",
             "type": "color"
           },
-          "name": "mch_color_extended_sectors_dialogues",
+          "name": "xyz_color_extended_sectors_dialogues",
           "attributes": {
             "category": "Color",
             "type": "Extended",
@@ -523,8 +523,8 @@ module.exports = {
         }
       }
     },
-    "Supporting": {
-      "Orange": {
+    "supporting": {
+      "orange": {
         "value": "#f19d00",
         "type": "color",
         "filePath": "src/global.json",
@@ -533,7 +533,7 @@ module.exports = {
           "value": "#f19d00",
           "type": "color"
         },
-        "name": "mch_color_supporting_orange",
+        "name": "xyz_color_supporting_orange",
         "attributes": {
           "category": "Color",
           "type": "Supporting",
@@ -545,7 +545,7 @@ module.exports = {
           "Orange"
         ]
       },
-      "Orange - Text": {
+      "orangeText": {
         "value": "#bf8519",
         "type": "color",
         "filePath": "src/global.json",
@@ -554,7 +554,7 @@ module.exports = {
           "value": "#bf8519",
           "type": "color"
         },
-        "name": "mch_color_supporting_orange_text",
+        "name": "xyz_color_supporting_orange_text",
         "attributes": {
           "category": "Color",
           "type": "Supporting",
@@ -566,7 +566,7 @@ module.exports = {
           "Orange - Text"
         ]
       },
-      "Red": {
+      "red": {
         "value": "#ff003b",
         "type": "color",
         "filePath": "src/global.json",
@@ -575,7 +575,7 @@ module.exports = {
           "value": "#ff003b",
           "type": "color"
         },
-        "name": "mch_color_supporting_red",
+        "name": "xyz_color_supporting_red",
         "attributes": {
           "category": "Color",
           "type": "Supporting",
@@ -587,7 +587,7 @@ module.exports = {
           "Red"
         ]
       },
-      "Red - Text": {
+      "redText": {
         "value": "#c9012f",
         "type": "color",
         "filePath": "src/global.json",
@@ -596,7 +596,7 @@ module.exports = {
           "value": "#c9012f",
           "type": "color"
         },
-        "name": "mch_color_supporting_red_text",
+        "name": "xyz_color_supporting_red_text",
         "attributes": {
           "category": "Color",
           "type": "Supporting",
@@ -608,7 +608,7 @@ module.exports = {
           "Red - Text"
         ]
       },
-      "Green": {
+      "green": {
         "value": "#019f53",
         "type": "color",
         "filePath": "src/global.json",
@@ -617,7 +617,7 @@ module.exports = {
           "value": "#019f53",
           "type": "color"
         },
-        "name": "mch_color_supporting_green",
+        "name": "xyz_color_supporting_green",
         "attributes": {
           "category": "Color",
           "type": "Supporting",
@@ -629,7 +629,7 @@ module.exports = {
           "Green"
         ]
       },
-      "Green - Text": {
+      "greenText": {
         "value": "#018661",
         "type": "color",
         "filePath": "src/global.json",
@@ -638,7 +638,7 @@ module.exports = {
           "value": "#018661",
           "type": "color"
         },
-        "name": "mch_color_supporting_green_text",
+        "name": "xyz_color_supporting_green_text",
         "attributes": {
           "category": "Color",
           "type": "Supporting",
@@ -650,9 +650,9 @@ module.exports = {
           "Green - Text"
         ]
       },
-      "Status": {
-        "Light": {
-          "Error": {
+      "status": {
+        "light": {
+          "error": {
             "value": "#c9012f",
             "type": "color",
             "filePath": "src/global.json",
@@ -661,7 +661,7 @@ module.exports = {
               "value": "#c9012f",
               "type": "color"
             },
-            "name": "mch_color_supporting_status_light_error",
+            "name": "xyz_color_supporting_status_light_error",
             "attributes": {
               "category": "Color",
               "type": "Supporting",
@@ -677,7 +677,7 @@ module.exports = {
               "Error"
             ]
           },
-          "Success": {
+          "success": {
             "value": "#018661",
             "type": "color",
             "filePath": "src/global.json",
@@ -686,7 +686,7 @@ module.exports = {
               "value": "#018661",
               "type": "color"
             },
-            "name": "mch_color_supporting_status_light_success",
+            "name": "xyz_color_supporting_status_light_success",
             "attributes": {
               "category": "Color",
               "type": "Supporting",
@@ -702,7 +702,7 @@ module.exports = {
               "Success"
             ]
           },
-          "Alert": {
+          "alert": {
             "value": "#9F6D00",
             "type": "color",
             "filePath": "src/global.json",
@@ -711,7 +711,7 @@ module.exports = {
               "value": "#9F6D00",
               "type": "color"
             },
-            "name": "mch_color_supporting_status_light_alert",
+            "name": "xyz_color_supporting_status_light_alert",
             "attributes": {
               "category": "Color",
               "type": "Supporting",
@@ -728,8 +728,8 @@ module.exports = {
             ]
           }
         },
-        "Dark": {
-          "Alert": {
+        "dark": {
+          "alert": {
             "value": "#f4a32f",
             "type": "color",
             "filePath": "src/global.json",
@@ -738,7 +738,7 @@ module.exports = {
               "value": "#f4a32f",
               "type": "color"
             },
-            "name": "mch_color_supporting_status_dark_alert",
+            "name": "xyz_color_supporting_status_dark_alert",
             "attributes": {
               "category": "Color",
               "type": "Supporting",
@@ -754,7 +754,7 @@ module.exports = {
               "Alert"
             ]
           },
-          "Error": {
+          "error": {
             "value": "#ff979d",
             "type": "color",
             "filePath": "src/global.json",
@@ -763,7 +763,7 @@ module.exports = {
               "value": "#ff979d",
               "type": "color"
             },
-            "name": "mch_color_supporting_status_dark_error",
+            "name": "xyz_color_supporting_status_dark_error",
             "attributes": {
               "category": "Color",
               "type": "Supporting",
@@ -779,7 +779,7 @@ module.exports = {
               "Error"
             ]
           },
-          "Success": {
+          "success": {
             "value": "#7cc492",
             "type": "color",
             "filePath": "src/global.json",
@@ -788,7 +788,7 @@ module.exports = {
               "value": "#7cc492",
               "type": "color"
             },
-            "name": "mch_color_supporting_status_dark_success",
+            "name": "xyz_color_supporting_status_dark_success",
             "attributes": {
               "category": "Color",
               "type": "Supporting",
@@ -806,22 +806,3178 @@ module.exports = {
           }
         }
       }
+    },
+    "light": {
+      "base": {
+        "neutrals": {
+          "0": {
+            "value": "#ffffff",
+            "type": "color",
+            "description": "On Light Mode (default) this is the pure XYZ White colour",
+            "filePath": "src/Global-Colours.json",
+            "isSource": true,
+            "original": {
+              "value": "#ffffff",
+              "type": "color",
+              "description": "On Light Mode (default) this is the pure XYZ White colour"
+            },
+            "name": "xyz_color_light_base_neutrals_0",
+            "attributes": {
+              "category": "Color",
+              "type": "Light",
+              "item": "Base",
+              "subitem": "Neutrals",
+              "state": "0"
+            },
+            "path": [
+              "Color",
+              "Light",
+              "Base",
+              "Neutrals",
+              "0"
+            ]
+          },
+          "100": {
+            "value": "#f8f8f8",
+            "type": "color",
+            "filePath": "src/Global-Colours.json",
+            "isSource": true,
+            "original": {
+              "value": "#f8f8f8",
+              "type": "color"
+            },
+            "name": "xyz_color_light_base_neutrals_100",
+            "attributes": {
+              "category": "Color",
+              "type": "Light",
+              "item": "Base",
+              "subitem": "Neutrals",
+              "state": "100"
+            },
+            "path": [
+              "Color",
+              "Light",
+              "Base",
+              "Neutrals",
+              "100"
+            ]
+          },
+          "200": {
+            "value": "#f0f0f0",
+            "type": "color",
+            "filePath": "src/Global-Colours.json",
+            "isSource": true,
+            "original": {
+              "value": "#f0f0f0",
+              "type": "color"
+            },
+            "name": "xyz_color_light_base_neutrals_200",
+            "attributes": {
+              "category": "Color",
+              "type": "Light",
+              "item": "Base",
+              "subitem": "Neutrals",
+              "state": "200"
+            },
+            "path": [
+              "Color",
+              "Light",
+              "Base",
+              "Neutrals",
+              "200"
+            ]
+          },
+          "300": {
+            "value": "#e8e8e8",
+            "type": "color",
+            "filePath": "src/Global-Colours.json",
+            "isSource": true,
+            "original": {
+              "value": "#e8e8e8",
+              "type": "color"
+            },
+            "name": "xyz_color_light_base_neutrals_300",
+            "attributes": {
+              "category": "Color",
+              "type": "Light",
+              "item": "Base",
+              "subitem": "Neutrals",
+              "state": "300"
+            },
+            "path": [
+              "Color",
+              "Light",
+              "Base",
+              "Neutrals",
+              "300"
+            ]
+          },
+          "400": {
+            "value": "#dadada",
+            "type": "color",
+            "filePath": "src/Global-Colours.json",
+            "isSource": true,
+            "original": {
+              "value": "#dadada",
+              "type": "color"
+            },
+            "name": "xyz_color_light_base_neutrals_400",
+            "attributes": {
+              "category": "Color",
+              "type": "Light",
+              "item": "Base",
+              "subitem": "Neutrals",
+              "state": "400"
+            },
+            "path": [
+              "Color",
+              "Light",
+              "Base",
+              "Neutrals",
+              "400"
+            ]
+          },
+          "500": {
+            "value": "#bfbfbf",
+            "type": "color",
+            "filePath": "src/Global-Colours.json",
+            "isSource": true,
+            "original": {
+              "value": "#bfbfbf",
+              "type": "color"
+            },
+            "name": "xyz_color_light_base_neutrals_500",
+            "attributes": {
+              "category": "Color",
+              "type": "Light",
+              "item": "Base",
+              "subitem": "Neutrals",
+              "state": "500"
+            },
+            "path": [
+              "Color",
+              "Light",
+              "Base",
+              "Neutrals",
+              "500"
+            ]
+          },
+          "600": {
+            "value": "#999999",
+            "type": "color",
+            "filePath": "src/Global-Colours.json",
+            "isSource": true,
+            "original": {
+              "value": "#999999",
+              "type": "color"
+            },
+            "name": "xyz_color_light_base_neutrals_600",
+            "attributes": {
+              "category": "Color",
+              "type": "Light",
+              "item": "Base",
+              "subitem": "Neutrals",
+              "state": "600"
+            },
+            "path": [
+              "Color",
+              "Light",
+              "Base",
+              "Neutrals",
+              "600"
+            ]
+          },
+          "700": {
+            "value": "#696969",
+            "type": "color",
+            "filePath": "src/Global-Colours.json",
+            "isSource": true,
+            "original": {
+              "value": "#696969",
+              "type": "color"
+            },
+            "name": "xyz_color_light_base_neutrals_700",
+            "attributes": {
+              "category": "Color",
+              "type": "Light",
+              "item": "Base",
+              "subitem": "Neutrals",
+              "state": "700"
+            },
+            "path": [
+              "Color",
+              "Light",
+              "Base",
+              "Neutrals",
+              "700"
+            ]
+          },
+          "800": {
+            "value": "#404040",
+            "type": "color",
+            "filePath": "src/Global-Colours.json",
+            "isSource": true,
+            "original": {
+              "value": "#404040",
+              "type": "color"
+            },
+            "name": "xyz_color_light_base_neutrals_800",
+            "attributes": {
+              "category": "Color",
+              "type": "Light",
+              "item": "Base",
+              "subitem": "Neutrals",
+              "state": "800"
+            },
+            "path": [
+              "Color",
+              "Light",
+              "Base",
+              "Neutrals",
+              "800"
+            ]
+          },
+          "900": {
+            "value": "#242424",
+            "type": "color",
+            "filePath": "src/Global-Colours.json",
+            "isSource": true,
+            "original": {
+              "value": "#242424",
+              "type": "color"
+            },
+            "name": "xyz_color_light_base_neutrals_900",
+            "attributes": {
+              "category": "Color",
+              "type": "Light",
+              "item": "Base",
+              "subitem": "Neutrals",
+              "state": "900"
+            },
+            "path": [
+              "Color",
+              "Light",
+              "Base",
+              "Neutrals",
+              "900"
+            ]
+          },
+          "1000": {
+            "value": "#121212",
+            "type": "color",
+            "description": "On Light Mode (default), this is the XYZ principal Black colour",
+            "filePath": "src/Global-Colours.json",
+            "isSource": true,
+            "original": {
+              "value": "#121212",
+              "type": "color",
+              "description": "On Light Mode (default), this is the XYZ principal Black colour"
+            },
+            "name": "xyz_color_light_base_neutrals_1000",
+            "attributes": {
+              "category": "Color",
+              "type": "Light",
+              "item": "Base",
+              "subitem": "Neutrals",
+              "state": "1000"
+            },
+            "path": [
+              "Color",
+              "Light",
+              "Base",
+              "Neutrals",
+              "1000"
+            ]
+          }
+        },
+        "alerts": {
+          "gold": {
+            "100": {
+              "value": "#fdf6ec",
+              "type": "color",
+              "filePath": "src/Global-Colours.json",
+              "isSource": true,
+              "original": {
+                "value": "#fdf6ec",
+                "type": "color"
+              },
+              "name": "xyz_color_light_base_alerts_gold_100",
+              "attributes": {
+                "category": "Color",
+                "type": "Light",
+                "item": "Base",
+                "subitem": "Alerts",
+                "state": "Gold"
+              },
+              "path": [
+                "Color",
+                "Light",
+                "Base",
+                "Alerts",
+                "Gold",
+                "100"
+              ]
+            },
+            "200": {
+              "value": "#fbecd4",
+              "type": "color",
+              "filePath": "src/Global-Colours.json",
+              "isSource": true,
+              "original": {
+                "value": "#fbecd4",
+                "type": "color"
+              },
+              "name": "xyz_color_light_base_alerts_gold_200",
+              "attributes": {
+                "category": "Color",
+                "type": "Light",
+                "item": "Base",
+                "subitem": "Alerts",
+                "state": "Gold"
+              },
+              "path": [
+                "Color",
+                "Light",
+                "Base",
+                "Alerts",
+                "Gold",
+                "200"
+              ]
+            },
+            "300": {
+              "value": "#f7dbac",
+              "type": "color",
+              "filePath": "src/Global-Colours.json",
+              "isSource": true,
+              "original": {
+                "value": "#f7dbac",
+                "type": "color"
+              },
+              "name": "xyz_color_light_base_alerts_gold_300",
+              "attributes": {
+                "category": "Color",
+                "type": "Light",
+                "item": "Base",
+                "subitem": "Alerts",
+                "state": "Gold"
+              },
+              "path": [
+                "Color",
+                "Light",
+                "Base",
+                "Alerts",
+                "Gold",
+                "300"
+              ]
+            },
+            "400": {
+              "value": "#f3ce89",
+              "type": "color",
+              "filePath": "src/Global-Colours.json",
+              "isSource": true,
+              "original": {
+                "value": "#f3ce89",
+                "type": "color"
+              },
+              "name": "xyz_color_light_base_alerts_gold_400",
+              "attributes": {
+                "category": "Color",
+                "type": "Light",
+                "item": "Base",
+                "subitem": "Alerts",
+                "state": "Gold"
+              },
+              "path": [
+                "Color",
+                "Light",
+                "Base",
+                "Alerts",
+                "Gold",
+                "400"
+              ]
+            },
+            "500": {
+              "value": "#e9aa21",
+              "type": "color",
+              "filePath": "src/Global-Colours.json",
+              "isSource": true,
+              "original": {
+                "value": "#e9aa21",
+                "type": "color"
+              },
+              "name": "xyz_color_light_base_alerts_gold_500",
+              "attributes": {
+                "category": "Color",
+                "type": "Light",
+                "item": "Base",
+                "subitem": "Alerts",
+                "state": "Gold"
+              },
+              "path": [
+                "Color",
+                "Light",
+                "Base",
+                "Alerts",
+                "Gold",
+                "500"
+              ]
+            },
+            "600": {
+              "value": "#c78b0a",
+              "type": "color",
+              "filePath": "src/Global-Colours.json",
+              "isSource": true,
+              "original": {
+                "value": "#c78b0a",
+                "type": "color"
+              },
+              "name": "xyz_color_light_base_alerts_gold_600",
+              "attributes": {
+                "category": "Color",
+                "type": "Light",
+                "item": "Base",
+                "subitem": "Alerts",
+                "state": "Gold"
+              },
+              "path": [
+                "Color",
+                "Light",
+                "Base",
+                "Alerts",
+                "Gold",
+                "600"
+              ]
+            },
+            "700": {
+              "value": "#9f6d00",
+              "type": "color",
+              "filePath": "src/Global-Colours.json",
+              "isSource": true,
+              "original": {
+                "value": "#9f6d00",
+                "type": "color"
+              },
+              "name": "xyz_color_light_base_alerts_gold_700",
+              "attributes": {
+                "category": "Color",
+                "type": "Light",
+                "item": "Base",
+                "subitem": "Alerts",
+                "state": "Gold"
+              },
+              "path": [
+                "Color",
+                "Light",
+                "Base",
+                "Alerts",
+                "Gold",
+                "700"
+              ]
+            },
+            "800": {
+              "value": "#855b00",
+              "type": "color",
+              "filePath": "src/Global-Colours.json",
+              "isSource": true,
+              "original": {
+                "value": "#855b00",
+                "type": "color"
+              },
+              "name": "xyz_color_light_base_alerts_gold_800",
+              "attributes": {
+                "category": "Color",
+                "type": "Light",
+                "item": "Base",
+                "subitem": "Alerts",
+                "state": "Gold"
+              },
+              "path": [
+                "Color",
+                "Light",
+                "Base",
+                "Alerts",
+                "Gold",
+                "800"
+              ]
+            },
+            "900": {
+              "value": "#6b4900",
+              "type": "color",
+              "filePath": "src/Global-Colours.json",
+              "isSource": true,
+              "original": {
+                "value": "#6b4900",
+                "type": "color"
+              },
+              "name": "xyz_color_light_base_alerts_gold_900",
+              "attributes": {
+                "category": "Color",
+                "type": "Light",
+                "item": "Base",
+                "subitem": "Alerts",
+                "state": "Gold"
+              },
+              "path": [
+                "Color",
+                "Light",
+                "Base",
+                "Alerts",
+                "Gold",
+                "900"
+              ]
+            }
+          },
+          "red": {
+            "100": {
+              "value": "#fff1f3",
+              "type": "color",
+              "filePath": "src/Global-Colours.json",
+              "isSource": true,
+              "original": {
+                "value": "#fff1f3",
+                "type": "color"
+              },
+              "name": "xyz_color_light_base_alerts_red_100",
+              "attributes": {
+                "category": "Color",
+                "type": "Light",
+                "item": "Base",
+                "subitem": "Alerts",
+                "state": "Red"
+              },
+              "path": [
+                "Color",
+                "Light",
+                "Base",
+                "Alerts",
+                "Red",
+                "100"
+              ]
+            },
+            "200": {
+              "value": "#ffdee3",
+              "type": "color",
+              "filePath": "src/Global-Colours.json",
+              "isSource": true,
+              "original": {
+                "value": "#ffdee3",
+                "type": "color"
+              },
+              "name": "xyz_color_light_base_alerts_red_200",
+              "attributes": {
+                "category": "Color",
+                "type": "Light",
+                "item": "Base",
+                "subitem": "Alerts",
+                "state": "Red"
+              },
+              "path": [
+                "Color",
+                "Light",
+                "Base",
+                "Alerts",
+                "Red",
+                "200"
+              ]
+            },
+            "300": {
+              "value": "#ffbfc9",
+              "type": "color",
+              "filePath": "src/Global-Colours.json",
+              "isSource": true,
+              "original": {
+                "value": "#ffbfc9",
+                "type": "color"
+              },
+              "name": "xyz_color_light_base_alerts_red_300",
+              "attributes": {
+                "category": "Color",
+                "type": "Light",
+                "item": "Base",
+                "subitem": "Alerts",
+                "state": "Red"
+              },
+              "path": [
+                "Color",
+                "Light",
+                "Base",
+                "Alerts",
+                "Red",
+                "300"
+              ]
+            },
+            "400": {
+              "value": "#ffa3b3",
+              "type": "color",
+              "filePath": "src/Global-Colours.json",
+              "isSource": true,
+              "original": {
+                "value": "#ffa3b3",
+                "type": "color"
+              },
+              "name": "xyz_color_light_base_alerts_red_400",
+              "attributes": {
+                "category": "Color",
+                "type": "Light",
+                "item": "Base",
+                "subitem": "Alerts",
+                "state": "Red"
+              },
+              "path": [
+                "Color",
+                "Light",
+                "Base",
+                "Alerts",
+                "Red",
+                "400"
+              ]
+            },
+            "500": {
+              "value": "#ff526f",
+              "type": "color",
+              "filePath": "src/Global-Colours.json",
+              "isSource": true,
+              "original": {
+                "value": "#ff526f",
+                "type": "color"
+              },
+              "name": "xyz_color_light_base_alerts_red_500",
+              "attributes": {
+                "category": "Color",
+                "type": "Light",
+                "item": "Base",
+                "subitem": "Alerts",
+                "state": "Red"
+              },
+              "path": [
+                "Color",
+                "Light",
+                "Base",
+                "Alerts",
+                "Red",
+                "500"
+              ]
+            },
+            "600": {
+              "value": "#f20d42",
+              "type": "color",
+              "filePath": "src/Global-Colours.json",
+              "isSource": true,
+              "original": {
+                "value": "#f20d42",
+                "type": "color"
+              },
+              "name": "xyz_color_light_base_alerts_red_600",
+              "attributes": {
+                "category": "Color",
+                "type": "Light",
+                "item": "Base",
+                "subitem": "Alerts",
+                "state": "Red"
+              },
+              "path": [
+                "Color",
+                "Light",
+                "Base",
+                "Alerts",
+                "Red",
+                "600"
+              ]
+            },
+            "700": {
+              "value": "#ca002e",
+              "type": "color",
+              "filePath": "src/Global-Colours.json",
+              "isSource": true,
+              "original": {
+                "value": "#ca002e",
+                "type": "color"
+              },
+              "name": "xyz_color_light_base_alerts_red_700",
+              "attributes": {
+                "category": "Color",
+                "type": "Light",
+                "item": "Base",
+                "subitem": "Alerts",
+                "state": "Red"
+              },
+              "path": [
+                "Color",
+                "Light",
+                "Base",
+                "Alerts",
+                "Red",
+                "700"
+              ]
+            },
+            "800": {
+              "value": "#b20029",
+              "type": "color",
+              "filePath": "src/Global-Colours.json",
+              "isSource": true,
+              "original": {
+                "value": "#b20029",
+                "type": "color"
+              },
+              "name": "xyz_color_light_base_alerts_red_800",
+              "attributes": {
+                "category": "Color",
+                "type": "Light",
+                "item": "Base",
+                "subitem": "Alerts",
+                "state": "Red"
+              },
+              "path": [
+                "Color",
+                "Light",
+                "Base",
+                "Alerts",
+                "Red",
+                "800"
+              ]
+            },
+            "900": {
+              "value": "#990023",
+              "type": "color",
+              "filePath": "src/Global-Colours.json",
+              "isSource": true,
+              "original": {
+                "value": "#990023",
+                "type": "color"
+              },
+              "name": "xyz_color_light_base_alerts_red_900",
+              "attributes": {
+                "category": "Color",
+                "type": "Light",
+                "item": "Base",
+                "subitem": "Alerts",
+                "state": "Red"
+              },
+              "path": [
+                "Color",
+                "Light",
+                "Base",
+                "Alerts",
+                "Red",
+                "900"
+              ]
+            }
+          },
+          "green": {
+            "100": {
+              "value": "#ecfaf4",
+              "type": "color",
+              "filePath": "src/Global-Colours.json",
+              "isSource": true,
+              "original": {
+                "value": "#ecfaf4",
+                "type": "color"
+              },
+              "name": "xyz_color_light_base_alerts_green_100",
+              "attributes": {
+                "category": "Color",
+                "type": "Light",
+                "item": "Base",
+                "subitem": "Alerts",
+                "state": "Green"
+              },
+              "path": [
+                "Color",
+                "Light",
+                "Base",
+                "Alerts",
+                "Green",
+                "100"
+              ]
+            },
+            "200": {
+              "value": "#d4f4e7",
+              "type": "color",
+              "filePath": "src/Global-Colours.json",
+              "isSource": true,
+              "original": {
+                "value": "#d4f4e7",
+                "type": "color"
+              },
+              "name": "xyz_color_light_base_alerts_green_200",
+              "attributes": {
+                "category": "Color",
+                "type": "Light",
+                "item": "Base",
+                "subitem": "Alerts",
+                "state": "Green"
+              },
+              "path": [
+                "Color",
+                "Light",
+                "Base",
+                "Alerts",
+                "Green",
+                "200"
+              ]
+            },
+            "300": {
+              "value": "#abe9d2",
+              "type": "color",
+              "filePath": "src/Global-Colours.json",
+              "isSource": true,
+              "original": {
+                "value": "#abe9d2",
+                "type": "color"
+              },
+              "name": "xyz_color_light_base_alerts_green_300",
+              "attributes": {
+                "category": "Color",
+                "type": "Light",
+                "item": "Base",
+                "subitem": "Alerts",
+                "state": "Green"
+              },
+              "path": [
+                "Color",
+                "Light",
+                "Base",
+                "Alerts",
+                "Green",
+                "300"
+              ]
+            },
+            "400": {
+              "value": "#6fdab5",
+              "type": "color",
+              "filePath": "src/Global-Colours.json",
+              "isSource": true,
+              "original": {
+                "value": "#6fdab5",
+                "type": "color"
+              },
+              "name": "xyz_color_light_base_alerts_green_400",
+              "attributes": {
+                "category": "Color",
+                "type": "Light",
+                "item": "Base",
+                "subitem": "Alerts",
+                "state": "Green"
+              },
+              "path": [
+                "Color",
+                "Light",
+                "Base",
+                "Alerts",
+                "Green",
+                "400"
+              ]
+            },
+            "500": {
+              "value": "#1ec597",
+              "type": "color",
+              "filePath": "src/Global-Colours.json",
+              "isSource": true,
+              "original": {
+                "value": "#1ec597",
+                "type": "color"
+              },
+              "name": "xyz_color_light_base_alerts_green_500",
+              "attributes": {
+                "category": "Color",
+                "type": "Light",
+                "item": "Base",
+                "subitem": "Alerts",
+                "state": "Green"
+              },
+              "path": [
+                "Color",
+                "Light",
+                "Base",
+                "Alerts",
+                "Green",
+                "500"
+              ]
+            },
+            "600": {
+              "value": "#09a579",
+              "type": "color",
+              "filePath": "src/Global-Colours.json",
+              "isSource": true,
+              "original": {
+                "value": "#09a579",
+                "type": "color"
+              },
+              "name": "xyz_color_light_base_alerts_green_600",
+              "attributes": {
+                "category": "Color",
+                "type": "Light",
+                "item": "Base",
+                "subitem": "Alerts",
+                "state": "Green"
+              },
+              "path": [
+                "Color",
+                "Light",
+                "Base",
+                "Alerts",
+                "Green",
+                "600"
+              ]
+            },
+            "700": {
+              "value": "#00845f",
+              "type": "color",
+              "filePath": "src/Global-Colours.json",
+              "isSource": true,
+              "original": {
+                "value": "#00845f",
+                "type": "color"
+              },
+              "name": "xyz_color_light_base_alerts_green_700",
+              "attributes": {
+                "category": "Color",
+                "type": "Light",
+                "item": "Base",
+                "subitem": "Alerts",
+                "state": "Green"
+              },
+              "path": [
+                "Color",
+                "Light",
+                "Base",
+                "Alerts",
+                "Green",
+                "700"
+              ]
+            },
+            "800": {
+              "value": "#007051",
+              "type": "color",
+              "filePath": "src/Global-Colours.json",
+              "isSource": true,
+              "original": {
+                "value": "#007051",
+                "type": "color"
+              },
+              "name": "xyz_color_light_base_alerts_green_800",
+              "attributes": {
+                "category": "Color",
+                "type": "Light",
+                "item": "Base",
+                "subitem": "Alerts",
+                "state": "Green"
+              },
+              "path": [
+                "Color",
+                "Light",
+                "Base",
+                "Alerts",
+                "Green",
+                "800"
+              ]
+            },
+            "900": {
+              "value": "#005c42",
+              "type": "color",
+              "filePath": "src/Global-Colours.json",
+              "isSource": true,
+              "original": {
+                "value": "#005c42",
+                "type": "color"
+              },
+              "name": "xyz_color_light_base_alerts_green_900",
+              "attributes": {
+                "category": "Color",
+                "type": "Light",
+                "item": "Base",
+                "subitem": "Alerts",
+                "state": "Green"
+              },
+              "path": [
+                "Color",
+                "Light",
+                "Base",
+                "Alerts",
+                "Green",
+                "900"
+              ]
+            }
+          },
+          "blue": {
+            "100": {
+              "value": "#eef7ff",
+              "type": "color",
+              "filePath": "src/Global-Colours.json",
+              "isSource": true,
+              "original": {
+                "value": "#eef7ff",
+                "type": "color"
+              },
+              "name": "xyz_color_light_base_alerts_blue_100",
+              "attributes": {
+                "category": "Color",
+                "type": "Light",
+                "item": "Base",
+                "subitem": "Alerts",
+                "state": "Blue"
+              },
+              "path": [
+                "Color",
+                "Light",
+                "Base",
+                "Alerts",
+                "Blue",
+                "100"
+              ]
+            },
+            "200": {
+              "value": "#d8ecff",
+              "type": "color",
+              "filePath": "src/Global-Colours.json",
+              "isSource": true,
+              "original": {
+                "value": "#d8ecff",
+                "type": "color"
+              },
+              "name": "xyz_color_light_base_alerts_blue_200",
+              "attributes": {
+                "category": "Color",
+                "type": "Light",
+                "item": "Base",
+                "subitem": "Alerts",
+                "state": "Blue"
+              },
+              "path": [
+                "Color",
+                "Light",
+                "Base",
+                "Alerts",
+                "Blue",
+                "200"
+              ]
+            },
+            "300": {
+              "value": "#b4dbff",
+              "type": "color",
+              "filePath": "src/Global-Colours.json",
+              "isSource": true,
+              "original": {
+                "value": "#b4dbff",
+                "type": "color"
+              },
+              "name": "xyz_color_light_base_alerts_blue_300",
+              "attributes": {
+                "category": "Color",
+                "type": "Light",
+                "item": "Base",
+                "subitem": "Alerts",
+                "state": "Blue"
+              },
+              "path": [
+                "Color",
+                "Light",
+                "Base",
+                "Alerts",
+                "Blue",
+                "300"
+              ]
+            },
+            "400": {
+              "value": "#7ec1ff",
+              "type": "color",
+              "filePath": "src/Global-Colours.json",
+              "isSource": true,
+              "original": {
+                "value": "#7ec1ff",
+                "type": "color"
+              },
+              "name": "xyz_color_light_base_alerts_blue_400",
+              "attributes": {
+                "category": "Color",
+                "type": "Light",
+                "item": "Base",
+                "subitem": "Alerts",
+                "state": "Blue"
+              },
+              "path": [
+                "Color",
+                "Light",
+                "Base",
+                "Alerts",
+                "Blue",
+                "400"
+              ]
+            },
+            "500": {
+              "value": "#369eff",
+              "type": "color",
+              "filePath": "src/Global-Colours.json",
+              "isSource": true,
+              "original": {
+                "value": "#369eff",
+                "type": "color"
+              },
+              "name": "xyz_color_light_base_alerts_blue_500",
+              "attributes": {
+                "category": "Color",
+                "type": "Light",
+                "item": "Base",
+                "subitem": "Alerts",
+                "state": "Blue"
+              },
+              "path": [
+                "Color",
+                "Light",
+                "Base",
+                "Alerts",
+                "Blue",
+                "500"
+              ]
+            },
+            "600": {
+              "value": "#007df0",
+              "type": "color",
+              "filePath": "src/Global-Colours.json",
+              "isSource": true,
+              "original": {
+                "value": "#007df0",
+                "type": "color"
+              },
+              "name": "xyz_color_light_base_alerts_blue_600",
+              "attributes": {
+                "category": "Color",
+                "type": "Light",
+                "item": "Base",
+                "subitem": "Alerts",
+                "state": "Blue"
+              },
+              "path": [
+                "Color",
+                "Light",
+                "Base",
+                "Alerts",
+                "Blue",
+                "600"
+              ]
+            },
+            "700": {
+              "value": "#006fd6",
+              "type": "color",
+              "filePath": "src/Global-Colours.json",
+              "isSource": true,
+              "original": {
+                "value": "#006fd6",
+                "type": "color"
+              },
+              "name": "xyz_color_light_base_alerts_blue_700",
+              "attributes": {
+                "category": "Color",
+                "type": "Light",
+                "item": "Base",
+                "subitem": "Alerts",
+                "state": "Blue"
+              },
+              "path": [
+                "Color",
+                "Light",
+                "Base",
+                "Alerts",
+                "Blue",
+                "700"
+              ]
+            },
+            "800": {
+              "value": "#0065c2",
+              "type": "color",
+              "filePath": "src/Global-Colours.json",
+              "isSource": true,
+              "original": {
+                "value": "#0065c2",
+                "type": "color"
+              },
+              "name": "xyz_color_light_base_alerts_blue_800",
+              "attributes": {
+                "category": "Color",
+                "type": "Light",
+                "item": "Base",
+                "subitem": "Alerts",
+                "state": "Blue"
+              },
+              "path": [
+                "Color",
+                "Light",
+                "Base",
+                "Alerts",
+                "Blue",
+                "800"
+              ]
+            },
+            "900": {
+              "value": "#0058a8",
+              "type": "color",
+              "filePath": "src/Global-Colours.json",
+              "isSource": true,
+              "original": {
+                "value": "#0058a8",
+                "type": "color"
+              },
+              "name": "xyz_color_light_base_alerts_blue_900",
+              "attributes": {
+                "category": "Color",
+                "type": "Light",
+                "item": "Base",
+                "subitem": "Alerts",
+                "state": "Blue"
+              },
+              "path": [
+                "Color",
+                "Light",
+                "Base",
+                "Alerts",
+                "Blue",
+                "900"
+              ]
+            }
+          }
+        }
+      },
+      "brands": {
+        "basel": {
+          "value": "#00a0cf",
+          "type": "color",
+          "filePath": "src/Global-Colours.json",
+          "isSource": true,
+          "original": {
+            "value": "#00a0cf",
+            "type": "color"
+          },
+          "name": "xyz_color_light_brands_basel",
+          "attributes": {
+            "category": "Color",
+            "type": "Light",
+            "item": "Brands",
+            "subitem": "Basel"
+          },
+          "path": [
+            "Color",
+            "Light",
+            "Brands",
+            "Basel"
+          ]
+        },
+        "miami": {
+          "value": "#00c18b",
+          "type": "color",
+          "filePath": "src/Global-Colours.json",
+          "isSource": true,
+          "original": {
+            "value": "#00c18b",
+            "type": "color"
+          },
+          "name": "xyz_color_light_brands_miami",
+          "attributes": {
+            "category": "Color",
+            "type": "Light",
+            "item": "Brands",
+            "subitem": "Miami"
+          },
+          "path": [
+            "Color",
+            "Light",
+            "Brands",
+            "Miami"
+          ]
+        },
+        "hongKong": {
+          "value": "#e0004d",
+          "type": "color",
+          "filePath": "src/Global-Colours.json",
+          "isSource": true,
+          "original": {
+            "value": "#e0004d",
+            "type": "color"
+          },
+          "name": "xyz_color_light_brands_hong_kong",
+          "attributes": {
+            "category": "Color",
+            "type": "Light",
+            "item": "Brands",
+            "subitem": "Hong Kong"
+          },
+          "path": [
+            "Color",
+            "Light",
+            "Brands",
+            "Hong Kong"
+          ]
+        },
+        "cities": {
+          "value": "#fa4616",
+          "type": "color",
+          "filePath": "src/Global-Colours.json",
+          "isSource": true,
+          "original": {
+            "value": "#fa4616",
+            "type": "color"
+          },
+          "name": "xyz_color_light_brands_cities",
+          "attributes": {
+            "category": "Color",
+            "type": "Light",
+            "item": "Brands",
+            "subitem": "Cities"
+          },
+          "path": [
+            "Color",
+            "Light",
+            "Brands",
+            "Cities"
+          ]
+        },
+        "paris": {
+          "value": "#6f2cc7",
+          "type": "color",
+          "filePath": "src/Global-Colours.json",
+          "isSource": true,
+          "original": {
+            "value": "#6f2cc7",
+            "type": "color"
+          },
+          "name": "xyz_color_light_brands_paris",
+          "attributes": {
+            "category": "Color",
+            "type": "Light",
+            "item": "Brands",
+            "subitem": "Paris"
+          },
+          "path": [
+            "Color",
+            "Light",
+            "Brands",
+            "Paris"
+          ]
+        }
+      },
+      "sectors": {
+        "film": {
+          "value": "#f7dce9",
+          "type": "color",
+          "filePath": "src/Global-Colours.json",
+          "isSource": true,
+          "original": {
+            "value": "#f7dce9",
+            "type": "color"
+          },
+          "name": "xyz_color_light_sectors_film",
+          "attributes": {
+            "category": "Color",
+            "type": "Light",
+            "item": "Sectors",
+            "subitem": "Film"
+          },
+          "path": [
+            "Color",
+            "Light",
+            "Sectors",
+            "Film"
+          ]
+        },
+        "parcourPublic": {
+          "value": "#cddff2",
+          "type": "color",
+          "filePath": "src/Global-Colours.json",
+          "isSource": true,
+          "original": {
+            "value": "#cddff2",
+            "type": "color"
+          },
+          "name": "xyz_color_light_sectors_parcour_public",
+          "attributes": {
+            "category": "Color",
+            "type": "Light",
+            "item": "Sectors",
+            "subitem": "Parcour, Public"
+          },
+          "path": [
+            "Color",
+            "Light",
+            "Sectors",
+            "Parcour, Public"
+          ]
+        },
+        "unlimitedEncountersMeridians": {
+          "value": "#dff0cb",
+          "type": "color",
+          "filePath": "src/Global-Colours.json",
+          "isSource": true,
+          "original": {
+            "value": "#dff0cb",
+            "type": "color"
+          },
+          "name": "xyz_color_light_sectors_unlimited_encounters_meridians",
+          "attributes": {
+            "category": "Color",
+            "type": "Light",
+            "item": "Sectors",
+            "subitem": "Unlimited, Encounters, Meridians"
+          },
+          "path": [
+            "Color",
+            "Light",
+            "Sectors",
+            "Unlimited, Encounters, Meridians"
+          ]
+        },
+        "discoveriesStatementsPositions": {
+          "value": "#D2D3EC",
+          "type": "color",
+          "filePath": "src/Global-Colours.json",
+          "isSource": true,
+          "original": {
+            "value": "#D2D3EC",
+            "type": "color"
+          },
+          "name": "xyz_color_light_sectors_discoveries_statements_positions",
+          "attributes": {
+            "category": "Color",
+            "type": "Light",
+            "item": "Sectors",
+            "subitem": "Discoveries, Statements, Positions"
+          },
+          "path": [
+            "Color",
+            "Light",
+            "Sectors",
+            "Discoveries, Statements, Positions"
+          ]
+        },
+        "galleries": {
+          "value": "#CDCDCD",
+          "type": "color",
+          "filePath": "src/Global-Colours.json",
+          "isSource": true,
+          "original": {
+            "value": "#CDCDCD",
+            "type": "color"
+          },
+          "name": "xyz_color_light_sectors_galleries",
+          "attributes": {
+            "category": "Color",
+            "type": "Light",
+            "item": "Sectors",
+            "subitem": "Galleries"
+          },
+          "path": [
+            "Color",
+            "Light",
+            "Sectors",
+            "Galleries"
+          ]
+        },
+        "featureNova": {
+          "value": "#d8eeeb",
+          "type": "color",
+          "filePath": "src/Global-Colours.json",
+          "isSource": true,
+          "original": {
+            "value": "#d8eeeb",
+            "type": "color"
+          },
+          "name": "xyz_color_light_sectors_feature_nova",
+          "attributes": {
+            "category": "Color",
+            "type": "Light",
+            "item": "Sectors",
+            "subitem": "Feature, Nova"
+          },
+          "path": [
+            "Color",
+            "Light",
+            "Sectors",
+            "Feature, Nova"
+          ]
+        },
+        "edition": {
+          "value": "#fff7bf",
+          "type": "color",
+          "filePath": "src/Global-Colours.json",
+          "isSource": true,
+          "original": {
+            "value": "#fff7bf",
+            "type": "color"
+          },
+          "name": "xyz_color_light_sectors_edition",
+          "attributes": {
+            "category": "Color",
+            "type": "Light",
+            "item": "Sectors",
+            "subitem": "Edition"
+          },
+          "path": [
+            "Color",
+            "Light",
+            "Sectors",
+            "Edition"
+          ]
+        },
+        "kabinett": {
+          "value": "#fcdfaa",
+          "type": "color",
+          "filePath": "src/Global-Colours.json",
+          "isSource": true,
+          "original": {
+            "value": "#fcdfaa",
+            "type": "color"
+          },
+          "name": "xyz_color_light_sectors_kabinett",
+          "attributes": {
+            "category": "Color",
+            "type": "Light",
+            "item": "Sectors",
+            "subitem": "Kabinett"
+          },
+          "path": [
+            "Color",
+            "Light",
+            "Sectors",
+            "Kabinett"
+          ]
+        },
+        "insightsSurvey": {
+          "value": "#fcd5d7",
+          "type": "color",
+          "filePath": "src/Global-Colours.json",
+          "isSource": true,
+          "original": {
+            "value": "#fcd5d7",
+            "type": "color"
+          },
+          "name": "xyz_color_light_sectors_insights_survey",
+          "attributes": {
+            "category": "Color",
+            "type": "Light",
+            "item": "Sectors",
+            "subitem": "Insights, Survey"
+          },
+          "path": [
+            "Color",
+            "Light",
+            "Sectors",
+            "Insights, Survey"
+          ]
+        },
+        "dialogues": {
+          "value": "#dcdcdc",
+          "type": "color",
+          "filePath": "src/Global-Colours.json",
+          "isSource": true,
+          "original": {
+            "value": "#dcdcdc",
+            "type": "color"
+          },
+          "name": "xyz_color_light_sectors_dialogues",
+          "attributes": {
+            "category": "Color",
+            "type": "Light",
+            "item": "Sectors",
+            "subitem": "Dialogues"
+          },
+          "path": [
+            "Color",
+            "Light",
+            "Sectors",
+            "Dialogues"
+          ]
+        }
+      }
+    },
+    "dark": {
+      "base": {
+        "neutrals": {
+          "0": {
+            "value": "#121212",
+            "type": "color",
+            "filePath": "src/Global-Colours.json",
+            "isSource": true,
+            "original": {
+              "value": "#121212",
+              "type": "color"
+            },
+            "name": "xyz_color_dark_base_neutrals_0",
+            "attributes": {
+              "category": "Color",
+              "type": "Dark",
+              "item": "Base",
+              "subitem": "Neutrals",
+              "state": "0"
+            },
+            "path": [
+              "Color",
+              "Dark",
+              "Base",
+              "Neutrals",
+              "0"
+            ]
+          },
+          "100": {
+            "value": "#191919",
+            "type": "color",
+            "filePath": "src/Global-Colours.json",
+            "isSource": true,
+            "original": {
+              "value": "#191919",
+              "type": "color"
+            },
+            "name": "xyz_color_dark_base_neutrals_100",
+            "attributes": {
+              "category": "Color",
+              "type": "Dark",
+              "item": "Base",
+              "subitem": "Neutrals",
+              "state": "100"
+            },
+            "path": [
+              "Color",
+              "Dark",
+              "Base",
+              "Neutrals",
+              "100"
+            ]
+          },
+          "200": {
+            "value": "#212121",
+            "type": "color",
+            "filePath": "src/Global-Colours.json",
+            "isSource": true,
+            "original": {
+              "value": "#212121",
+              "type": "color"
+            },
+            "name": "xyz_color_dark_base_neutrals_200",
+            "attributes": {
+              "category": "Color",
+              "type": "Dark",
+              "item": "Base",
+              "subitem": "Neutrals",
+              "state": "200"
+            },
+            "path": [
+              "Color",
+              "Dark",
+              "Base",
+              "Neutrals",
+              "200"
+            ]
+          },
+          "300": {
+            "value": "#292929",
+            "type": "color",
+            "filePath": "src/Global-Colours.json",
+            "isSource": true,
+            "original": {
+              "value": "#292929",
+              "type": "color"
+            },
+            "name": "xyz_color_dark_base_neutrals_300",
+            "attributes": {
+              "category": "Color",
+              "type": "Dark",
+              "item": "Base",
+              "subitem": "Neutrals",
+              "state": "300"
+            },
+            "path": [
+              "Color",
+              "Dark",
+              "Base",
+              "Neutrals",
+              "300"
+            ]
+          },
+          "400": {
+            "value": "#383838",
+            "type": "color",
+            "filePath": "src/Global-Colours.json",
+            "isSource": true,
+            "original": {
+              "value": "#383838",
+              "type": "color"
+            },
+            "name": "xyz_color_dark_base_neutrals_400",
+            "attributes": {
+              "category": "Color",
+              "type": "Dark",
+              "item": "Base",
+              "subitem": "Neutrals",
+              "state": "400"
+            },
+            "path": [
+              "Color",
+              "Dark",
+              "Base",
+              "Neutrals",
+              "400"
+            ]
+          },
+          "500": {
+            "value": "#525252",
+            "type": "color",
+            "filePath": "src/Global-Colours.json",
+            "isSource": true,
+            "original": {
+              "value": "#525252",
+              "type": "color"
+            },
+            "name": "xyz_color_dark_base_neutrals_500",
+            "attributes": {
+              "category": "Color",
+              "type": "Dark",
+              "item": "Base",
+              "subitem": "Neutrals",
+              "state": "500"
+            },
+            "path": [
+              "Color",
+              "Dark",
+              "Base",
+              "Neutrals",
+              "500"
+            ]
+          },
+          "600": {
+            "value": "#787878",
+            "type": "color",
+            "filePath": "src/Global-Colours.json",
+            "isSource": true,
+            "original": {
+              "value": "#787878",
+              "type": "color"
+            },
+            "name": "xyz_color_dark_base_neutrals_600",
+            "attributes": {
+              "category": "Color",
+              "type": "Dark",
+              "item": "Base",
+              "subitem": "Neutrals",
+              "state": "600"
+            },
+            "path": [
+              "Color",
+              "Dark",
+              "Base",
+              "Neutrals",
+              "600"
+            ]
+          },
+          "700": {
+            "value": "#a8a8a8",
+            "type": "color",
+            "filePath": "src/Global-Colours.json",
+            "isSource": true,
+            "original": {
+              "value": "#a8a8a8",
+              "type": "color"
+            },
+            "name": "xyz_color_dark_base_neutrals_700",
+            "attributes": {
+              "category": "Color",
+              "type": "Dark",
+              "item": "Base",
+              "subitem": "Neutrals",
+              "state": "700"
+            },
+            "path": [
+              "Color",
+              "Dark",
+              "Base",
+              "Neutrals",
+              "700"
+            ]
+          },
+          "800": {
+            "value": "#d1d1d1",
+            "type": "color",
+            "filePath": "src/Global-Colours.json",
+            "isSource": true,
+            "original": {
+              "value": "#d1d1d1",
+              "type": "color"
+            },
+            "name": "xyz_color_dark_base_neutrals_800",
+            "attributes": {
+              "category": "Color",
+              "type": "Dark",
+              "item": "Base",
+              "subitem": "Neutrals",
+              "state": "800"
+            },
+            "path": [
+              "Color",
+              "Dark",
+              "Base",
+              "Neutrals",
+              "800"
+            ]
+          },
+          "900": {
+            "value": "#ededed",
+            "type": "color",
+            "filePath": "src/Global-Colours.json",
+            "isSource": true,
+            "original": {
+              "value": "#ededed",
+              "type": "color"
+            },
+            "name": "xyz_color_dark_base_neutrals_900",
+            "attributes": {
+              "category": "Color",
+              "type": "Dark",
+              "item": "Base",
+              "subitem": "Neutrals",
+              "state": "900"
+            },
+            "path": [
+              "Color",
+              "Dark",
+              "Base",
+              "Neutrals",
+              "900"
+            ]
+          },
+          "1000": {
+            "value": "#ffffff",
+            "type": "color",
+            "filePath": "src/Global-Colours.json",
+            "isSource": true,
+            "original": {
+              "value": "#ffffff",
+              "type": "color"
+            },
+            "name": "xyz_color_dark_base_neutrals_1000",
+            "attributes": {
+              "category": "Color",
+              "type": "Dark",
+              "item": "Base",
+              "subitem": "Neutrals",
+              "state": "1000"
+            },
+            "path": [
+              "Color",
+              "Dark",
+              "Base",
+              "Neutrals",
+              "1000"
+            ]
+          }
+        },
+        "alerts": {
+          "gold": {
+            "100": {
+              "value": "#2d2b1f",
+              "type": "color",
+              "filePath": "src/Global-Colours.json",
+              "isSource": true,
+              "original": {
+                "value": "#2d2b1f",
+                "type": "color"
+              },
+              "name": "xyz_color_dark_base_alerts_gold_100",
+              "attributes": {
+                "category": "Color",
+                "type": "Dark",
+                "item": "Base",
+                "subitem": "Alerts",
+                "state": "Gold"
+              },
+              "path": [
+                "Color",
+                "Dark",
+                "Base",
+                "Alerts",
+                "Gold",
+                "100"
+              ]
+            },
+            "200": {
+              "value": "#443614",
+              "type": "color",
+              "filePath": "src/Global-Colours.json",
+              "isSource": true,
+              "original": {
+                "value": "#443614",
+                "type": "color"
+              },
+              "name": "xyz_color_dark_base_alerts_gold_200",
+              "attributes": {
+                "category": "Color",
+                "type": "Dark",
+                "item": "Base",
+                "subitem": "Alerts",
+                "state": "Gold"
+              },
+              "path": [
+                "Color",
+                "Dark",
+                "Base",
+                "Alerts",
+                "Gold",
+                "200"
+              ]
+            },
+            "300": {
+              "value": "#5b4208",
+              "type": "color",
+              "filePath": "src/Global-Colours.json",
+              "isSource": true,
+              "original": {
+                "value": "#5b4208",
+                "type": "color"
+              },
+              "name": "xyz_color_dark_base_alerts_gold_300",
+              "attributes": {
+                "category": "Color",
+                "type": "Dark",
+                "item": "Base",
+                "subitem": "Alerts",
+                "state": "Gold"
+              },
+              "path": [
+                "Color",
+                "Dark",
+                "Base",
+                "Alerts",
+                "Gold",
+                "300"
+              ]
+            },
+            "400": {
+              "value": "#7a5504",
+              "type": "color",
+              "filePath": "src/Global-Colours.json",
+              "isSource": true,
+              "original": {
+                "value": "#7a5504",
+                "type": "color"
+              },
+              "name": "xyz_color_dark_base_alerts_gold_400",
+              "attributes": {
+                "category": "Color",
+                "type": "Dark",
+                "item": "Base",
+                "subitem": "Alerts",
+                "state": "Gold"
+              },
+              "path": [
+                "Color",
+                "Dark",
+                "Base",
+                "Alerts",
+                "Gold",
+                "400"
+              ]
+            },
+            "500": {
+              "value": "#9f6d00",
+              "type": "color",
+              "filePath": "src/Global-Colours.json",
+              "isSource": true,
+              "original": {
+                "value": "#9f6d00",
+                "type": "color"
+              },
+              "name": "xyz_color_dark_base_alerts_gold_500",
+              "attributes": {
+                "category": "Color",
+                "type": "Dark",
+                "item": "Base",
+                "subitem": "Alerts",
+                "state": "Gold"
+              },
+              "path": [
+                "Color",
+                "Dark",
+                "Base",
+                "Alerts",
+                "Gold",
+                "500"
+              ]
+            },
+            "600": {
+              "value": "#c78b0a",
+              "type": "color",
+              "filePath": "src/Global-Colours.json",
+              "isSource": true,
+              "original": {
+                "value": "#c78b0a",
+                "type": "color"
+              },
+              "name": "xyz_color_dark_base_alerts_gold_600",
+              "attributes": {
+                "category": "Color",
+                "type": "Dark",
+                "item": "Base",
+                "subitem": "Alerts",
+                "state": "Gold"
+              },
+              "path": [
+                "Color",
+                "Dark",
+                "Base",
+                "Alerts",
+                "Gold",
+                "600"
+              ]
+            },
+            "700": {
+              "value": "#d99a12",
+              "type": "color",
+              "filePath": "src/Global-Colours.json",
+              "isSource": true,
+              "original": {
+                "value": "#d99a12",
+                "type": "color"
+              },
+              "name": "xyz_color_dark_base_alerts_gold_700",
+              "attributes": {
+                "category": "Color",
+                "type": "Dark",
+                "item": "Base",
+                "subitem": "Alerts",
+                "state": "Gold"
+              },
+              "path": [
+                "Color",
+                "Dark",
+                "Base",
+                "Alerts",
+                "Gold",
+                "700"
+              ]
+            },
+            "800": {
+              "value": "#e7a413",
+              "type": "color",
+              "filePath": "src/Global-Colours.json",
+              "isSource": true,
+              "original": {
+                "value": "#e7a413",
+                "type": "color"
+              },
+              "name": "xyz_color_dark_base_alerts_gold_800",
+              "attributes": {
+                "category": "Color",
+                "type": "Dark",
+                "item": "Base",
+                "subitem": "Alerts",
+                "state": "Gold"
+              },
+              "path": [
+                "Color",
+                "Dark",
+                "Base",
+                "Alerts",
+                "Gold",
+                "800"
+              ]
+            },
+            "900": {
+              "value": "#eaad2a",
+              "type": "color",
+              "filePath": "src/Global-Colours.json",
+              "isSource": true,
+              "original": {
+                "value": "#eaad2a",
+                "type": "color"
+              },
+              "name": "xyz_color_dark_base_alerts_gold_900",
+              "attributes": {
+                "category": "Color",
+                "type": "Dark",
+                "item": "Base",
+                "subitem": "Alerts",
+                "state": "Gold"
+              },
+              "path": [
+                "Color",
+                "Dark",
+                "Base",
+                "Alerts",
+                "Gold",
+                "900"
+              ]
+            }
+          },
+          "red": {
+            "100": {
+              "value": "#3c1a26",
+              "type": "color",
+              "filePath": "src/Global-Colours.json",
+              "isSource": true,
+              "original": {
+                "value": "#3c1a26",
+                "type": "color"
+              },
+              "name": "xyz_color_dark_base_alerts_red_100",
+              "attributes": {
+                "category": "Color",
+                "type": "Dark",
+                "item": "Base",
+                "subitem": "Alerts",
+                "state": "Red"
+              },
+              "path": [
+                "Color",
+                "Dark",
+                "Base",
+                "Alerts",
+                "Red",
+                "100"
+              ]
+            },
+            "200": {
+              "value": "#5b1125",
+              "type": "color",
+              "filePath": "src/Global-Colours.json",
+              "isSource": true,
+              "original": {
+                "value": "#5b1125",
+                "type": "color"
+              },
+              "name": "xyz_color_dark_base_alerts_red_200",
+              "attributes": {
+                "category": "Color",
+                "type": "Dark",
+                "item": "Base",
+                "subitem": "Alerts",
+                "state": "Red"
+              },
+              "path": [
+                "Color",
+                "Dark",
+                "Base",
+                "Alerts",
+                "Red",
+                "200"
+              ]
+            },
+            "300": {
+              "value": "#800724",
+              "type": "color",
+              "filePath": "src/Global-Colours.json",
+              "isSource": true,
+              "original": {
+                "value": "#800724",
+                "type": "color"
+              },
+              "name": "xyz_color_dark_base_alerts_red_300",
+              "attributes": {
+                "category": "Color",
+                "type": "Dark",
+                "item": "Base",
+                "subitem": "Alerts",
+                "state": "Red"
+              },
+              "path": [
+                "Color",
+                "Dark",
+                "Base",
+                "Alerts",
+                "Red",
+                "300"
+              ]
+            },
+            "400": {
+              "value": "#a30429",
+              "type": "color",
+              "filePath": "src/Global-Colours.json",
+              "isSource": true,
+              "original": {
+                "value": "#a30429",
+                "type": "color"
+              },
+              "name": "xyz_color_dark_base_alerts_red_400",
+              "attributes": {
+                "category": "Color",
+                "type": "Dark",
+                "item": "Base",
+                "subitem": "Alerts",
+                "state": "Red"
+              },
+              "path": [
+                "Color",
+                "Dark",
+                "Base",
+                "Alerts",
+                "Red",
+                "400"
+              ]
+            },
+            "500": {
+              "value": "#ca002e",
+              "type": "color",
+              "filePath": "src/Global-Colours.json",
+              "isSource": true,
+              "original": {
+                "value": "#ca002e",
+                "type": "color"
+              },
+              "name": "xyz_color_dark_base_alerts_red_500",
+              "attributes": {
+                "category": "Color",
+                "type": "Dark",
+                "item": "Base",
+                "subitem": "Alerts",
+                "state": "Red"
+              },
+              "path": [
+                "Color",
+                "Dark",
+                "Base",
+                "Alerts",
+                "Red",
+                "500"
+              ]
+            },
+            "600": {
+              "value": "#f20d42",
+              "type": "color",
+              "filePath": "src/Global-Colours.json",
+              "isSource": true,
+              "original": {
+                "value": "#f20d42",
+                "type": "color"
+              },
+              "name": "xyz_color_dark_base_alerts_red_600",
+              "attributes": {
+                "category": "Color",
+                "type": "Dark",
+                "item": "Base",
+                "subitem": "Alerts",
+                "state": "Red"
+              },
+              "path": [
+                "Color",
+                "Dark",
+                "Base",
+                "Alerts",
+                "Red",
+                "600"
+              ]
+            },
+            "700": {
+              "value": "#ff385c",
+              "type": "color",
+              "filePath": "src/Global-Colours.json",
+              "isSource": true,
+              "original": {
+                "value": "#ff385c",
+                "type": "color"
+              },
+              "name": "xyz_color_dark_base_alerts_red_700",
+              "attributes": {
+                "category": "Color",
+                "type": "Dark",
+                "item": "Base",
+                "subitem": "Alerts",
+                "state": "Red"
+              },
+              "path": [
+                "Color",
+                "Dark",
+                "Base",
+                "Alerts",
+                "Red",
+                "700"
+              ]
+            },
+            "800": {
+              "value": "#ff4766",
+              "type": "color",
+              "filePath": "src/Global-Colours.json",
+              "isSource": true,
+              "original": {
+                "value": "#ff4766",
+                "type": "color"
+              },
+              "name": "xyz_color_dark_base_alerts_red_800",
+              "attributes": {
+                "category": "Color",
+                "type": "Dark",
+                "item": "Base",
+                "subitem": "Alerts",
+                "state": "Red"
+              },
+              "path": [
+                "Color",
+                "Dark",
+                "Base",
+                "Alerts",
+                "Red",
+                "800"
+              ]
+            },
+            "900": {
+              "value": "#ff5a80",
+              "type": "color",
+              "filePath": "src/Global-Colours.json",
+              "isSource": true,
+              "original": {
+                "value": "#ff5a80",
+                "type": "color"
+              },
+              "name": "xyz_color_dark_base_alerts_red_900",
+              "attributes": {
+                "category": "Color",
+                "type": "Dark",
+                "item": "Base",
+                "subitem": "Alerts",
+                "state": "Red"
+              },
+              "path": [
+                "Color",
+                "Dark",
+                "Base",
+                "Alerts",
+                "Red",
+                "900"
+              ]
+            }
+          },
+          "green": {
+            "100": {
+              "value": "#172e2c",
+              "type": "color",
+              "filePath": "src/Global-Colours.json",
+              "isSource": true,
+              "original": {
+                "value": "#172e2c",
+                "type": "color"
+              },
+              "name": "xyz_color_dark_base_alerts_green_100",
+              "attributes": {
+                "category": "Color",
+                "type": "Dark",
+                "item": "Base",
+                "subitem": "Alerts",
+                "state": "Green"
+              },
+              "path": [
+                "Color",
+                "Dark",
+                "Base",
+                "Alerts",
+                "Green",
+                "100"
+              ]
+            },
+            "200": {
+              "value": "#0e3f35",
+              "type": "color",
+              "filePath": "src/Global-Colours.json",
+              "isSource": true,
+              "original": {
+                "value": "#0e3f35",
+                "type": "color"
+              },
+              "name": "xyz_color_dark_base_alerts_green_200",
+              "attributes": {
+                "category": "Color",
+                "type": "Dark",
+                "item": "Base",
+                "subitem": "Alerts",
+                "state": "Green"
+              },
+              "path": [
+                "Color",
+                "Dark",
+                "Base",
+                "Alerts",
+                "Green",
+                "200"
+              ]
+            },
+            "300": {
+              "value": "#06503d",
+              "type": "color",
+              "filePath": "src/Global-Colours.json",
+              "isSource": true,
+              "original": {
+                "value": "#06503d",
+                "type": "color"
+              },
+              "name": "xyz_color_dark_base_alerts_green_300",
+              "attributes": {
+                "category": "Color",
+                "type": "Dark",
+                "item": "Base",
+                "subitem": "Alerts",
+                "state": "Green"
+              },
+              "path": [
+                "Color",
+                "Dark",
+                "Base",
+                "Alerts",
+                "Green",
+                "300"
+              ]
+            },
+            "400": {
+              "value": "#03684d",
+              "type": "color",
+              "filePath": "src/Global-Colours.json",
+              "isSource": true,
+              "original": {
+                "value": "#03684d",
+                "type": "color"
+              },
+              "name": "xyz_color_dark_base_alerts_green_400",
+              "attributes": {
+                "category": "Color",
+                "type": "Dark",
+                "item": "Base",
+                "subitem": "Alerts",
+                "state": "Green"
+              },
+              "path": [
+                "Color",
+                "Dark",
+                "Base",
+                "Alerts",
+                "Green",
+                "400"
+              ]
+            },
+            "500": {
+              "value": "#00845f",
+              "type": "color",
+              "filePath": "src/Global-Colours.json",
+              "isSource": true,
+              "original": {
+                "value": "#00845f",
+                "type": "color"
+              },
+              "name": "xyz_color_dark_base_alerts_green_500",
+              "attributes": {
+                "category": "Color",
+                "type": "Dark",
+                "item": "Base",
+                "subitem": "Alerts",
+                "state": "Green"
+              },
+              "path": [
+                "Color",
+                "Dark",
+                "Base",
+                "Alerts",
+                "Green",
+                "500"
+              ]
+            },
+            "600": {
+              "value": "#09a579",
+              "type": "color",
+              "filePath": "src/Global-Colours.json",
+              "isSource": true,
+              "original": {
+                "value": "#09a579",
+                "type": "color"
+              },
+              "name": "xyz_color_dark_base_alerts_green_600",
+              "attributes": {
+                "category": "Color",
+                "type": "Dark",
+                "item": "Base",
+                "subitem": "Alerts",
+                "state": "Green"
+              },
+              "path": [
+                "Color",
+                "Dark",
+                "Base",
+                "Alerts",
+                "Green",
+                "600"
+              ]
+            },
+            "700": {
+              "value": "#0fb385",
+              "type": "color",
+              "filePath": "src/Global-Colours.json",
+              "isSource": true,
+              "original": {
+                "value": "#0fb385",
+                "type": "color"
+              },
+              "name": "xyz_color_dark_base_alerts_green_700",
+              "attributes": {
+                "category": "Color",
+                "type": "Dark",
+                "item": "Base",
+                "subitem": "Alerts",
+                "state": "Green"
+              },
+              "path": [
+                "Color",
+                "Dark",
+                "Base",
+                "Alerts",
+                "Green",
+                "700"
+              ]
+            },
+            "800": {
+              "value": "#10c190",
+              "type": "color",
+              "filePath": "src/Global-Colours.json",
+              "isSource": true,
+              "original": {
+                "value": "#10c190",
+                "type": "color"
+              },
+              "name": "xyz_color_dark_base_alerts_green_800",
+              "attributes": {
+                "category": "Color",
+                "type": "Dark",
+                "item": "Base",
+                "subitem": "Alerts",
+                "state": "Green"
+              },
+              "path": [
+                "Color",
+                "Dark",
+                "Base",
+                "Alerts",
+                "Green",
+                "800"
+              ]
+            },
+            "900": {
+              "value": "#10cb96",
+              "type": "color",
+              "filePath": "src/Global-Colours.json",
+              "isSource": true,
+              "original": {
+                "value": "#10cb96",
+                "type": "color"
+              },
+              "name": "xyz_color_dark_base_alerts_green_900",
+              "attributes": {
+                "category": "Color",
+                "type": "Dark",
+                "item": "Base",
+                "subitem": "Alerts",
+                "state": "Green"
+              },
+              "path": [
+                "Color",
+                "Dark",
+                "Base",
+                "Alerts",
+                "Green",
+                "900"
+              ]
+            }
+          },
+          "blue": {
+            "100": {
+              "value": "#172d41",
+              "type": "color",
+              "filePath": "src/Global-Colours.json",
+              "isSource": true,
+              "original": {
+                "value": "#172d41",
+                "type": "color"
+              },
+              "name": "xyz_color_dark_base_alerts_blue_100",
+              "attributes": {
+                "category": "Color",
+                "type": "Dark",
+                "item": "Base",
+                "subitem": "Alerts",
+                "state": "Blue"
+              },
+              "path": [
+                "Color",
+                "Dark",
+                "Base",
+                "Alerts",
+                "Blue",
+                "100"
+              ]
+            },
+            "200": {
+              "value": "#0e3d68",
+              "type": "color",
+              "filePath": "src/Global-Colours.json",
+              "isSource": true,
+              "original": {
+                "value": "#0e3d68",
+                "type": "color"
+              },
+              "name": "xyz_color_dark_base_alerts_blue_200",
+              "attributes": {
+                "category": "Color",
+                "type": "Dark",
+                "item": "Base",
+                "subitem": "Alerts",
+                "state": "Blue"
+              },
+              "path": [
+                "Color",
+                "Dark",
+                "Base",
+                "Alerts",
+                "Blue",
+                "200"
+              ]
+            },
+            "300": {
+              "value": "#064d8e",
+              "type": "color",
+              "filePath": "src/Global-Colours.json",
+              "isSource": true,
+              "original": {
+                "value": "#064d8e",
+                "type": "color"
+              },
+              "name": "xyz_color_dark_base_alerts_blue_300",
+              "attributes": {
+                "category": "Color",
+                "type": "Dark",
+                "item": "Base",
+                "subitem": "Alerts",
+                "state": "Blue"
+              },
+              "path": [
+                "Color",
+                "Dark",
+                "Base",
+                "Alerts",
+                "Blue",
+                "300"
+              ]
+            },
+            "400": {
+              "value": "#035eb2",
+              "type": "color",
+              "filePath": "src/Global-Colours.json",
+              "isSource": true,
+              "original": {
+                "value": "#035eb2",
+                "type": "color"
+              },
+              "name": "xyz_color_dark_base_alerts_blue_400",
+              "attributes": {
+                "category": "Color",
+                "type": "Dark",
+                "item": "Base",
+                "subitem": "Alerts",
+                "state": "Blue"
+              },
+              "path": [
+                "Color",
+                "Dark",
+                "Base",
+                "Alerts",
+                "Blue",
+                "400"
+              ]
+            },
+            "500": {
+              "value": "#006fd6",
+              "type": "color",
+              "filePath": "src/Global-Colours.json",
+              "isSource": true,
+              "original": {
+                "value": "#006fd6",
+                "type": "color"
+              },
+              "name": "xyz_color_dark_base_alerts_blue_500",
+              "attributes": {
+                "category": "Color",
+                "type": "Dark",
+                "item": "Base",
+                "subitem": "Alerts",
+                "state": "Blue"
+              },
+              "path": [
+                "Color",
+                "Dark",
+                "Base",
+                "Alerts",
+                "Blue",
+                "500"
+              ]
+            },
+            "600": {
+              "value": "#007df0",
+              "type": "color",
+              "filePath": "src/Global-Colours.json",
+              "isSource": true,
+              "original": {
+                "value": "#007df0",
+                "type": "color"
+              },
+              "name": "xyz_color_dark_base_alerts_blue_600",
+              "attributes": {
+                "category": "Color",
+                "type": "Dark",
+                "item": "Base",
+                "subitem": "Alerts",
+                "state": "Blue"
+              },
+              "path": [
+                "Color",
+                "Dark",
+                "Base",
+                "Alerts",
+                "Blue",
+                "600"
+              ]
+            },
+            "700": {
+              "value": "#148eff",
+              "type": "color",
+              "filePath": "src/Global-Colours.json",
+              "isSource": true,
+              "original": {
+                "value": "#148eff",
+                "type": "color"
+              },
+              "name": "xyz_color_dark_base_alerts_blue_700",
+              "attributes": {
+                "category": "Color",
+                "type": "Dark",
+                "item": "Base",
+                "subitem": "Alerts",
+                "state": "Blue"
+              },
+              "path": [
+                "Color",
+                "Dark",
+                "Base",
+                "Alerts",
+                "Blue",
+                "700"
+              ]
+            },
+            "800": {
+              "value": "#2998ff",
+              "type": "color",
+              "filePath": "src/Global-Colours.json",
+              "isSource": true,
+              "original": {
+                "value": "#2998ff",
+                "type": "color"
+              },
+              "name": "xyz_color_dark_base_alerts_blue_800",
+              "attributes": {
+                "category": "Color",
+                "type": "Dark",
+                "item": "Base",
+                "subitem": "Alerts",
+                "state": "Blue"
+              },
+              "path": [
+                "Color",
+                "Dark",
+                "Base",
+                "Alerts",
+                "Blue",
+                "800"
+              ]
+            },
+            "900": {
+              "value": "#3da2ff",
+              "type": "color",
+              "filePath": "src/Global-Colours.json",
+              "isSource": true,
+              "original": {
+                "value": "#3da2ff",
+                "type": "color"
+              },
+              "name": "xyz_color_dark_base_alerts_blue_900",
+              "attributes": {
+                "category": "Color",
+                "type": "Dark",
+                "item": "Base",
+                "subitem": "Alerts",
+                "state": "Blue"
+              },
+              "path": [
+                "Color",
+                "Dark",
+                "Base",
+                "Alerts",
+                "Blue",
+                "900"
+              ]
+            }
+          }
+        }
+      },
+      "sectors": {
+        "film": {
+          "value": "#f7dce9",
+          "type": "color",
+          "filePath": "src/Global-Colours.json",
+          "isSource": true,
+          "original": {
+            "value": "#f7dce9",
+            "type": "color"
+          },
+          "name": "xyz_color_dark_sectors_film",
+          "attributes": {
+            "category": "Color",
+            "type": "Dark",
+            "item": "Sectors",
+            "subitem": "Film"
+          },
+          "path": [
+            "Color",
+            "Dark",
+            "Sectors",
+            "Film"
+          ]
+        },
+        "parcourPublic": {
+          "value": "#cddff2",
+          "type": "color",
+          "filePath": "src/Global-Colours.json",
+          "isSource": true,
+          "original": {
+            "value": "#cddff2",
+            "type": "color"
+          },
+          "name": "xyz_color_dark_sectors_parcour_public",
+          "attributes": {
+            "category": "Color",
+            "type": "Dark",
+            "item": "Sectors",
+            "subitem": "Parcour, Public"
+          },
+          "path": [
+            "Color",
+            "Dark",
+            "Sectors",
+            "Parcour, Public"
+          ]
+        },
+        "unlimitedEncountersMeridians": {
+          "value": "#dff0cb",
+          "type": "color",
+          "filePath": "src/Global-Colours.json",
+          "isSource": true,
+          "original": {
+            "value": "#dff0cb",
+            "type": "color"
+          },
+          "name": "xyz_color_dark_sectors_unlimited_encounters_meridians",
+          "attributes": {
+            "category": "Color",
+            "type": "Dark",
+            "item": "Sectors",
+            "subitem": "Unlimited, Encounters, Meridians"
+          },
+          "path": [
+            "Color",
+            "Dark",
+            "Sectors",
+            "Unlimited, Encounters, Meridians"
+          ]
+        },
+        "discoveriesStatementsPositions": {
+          "value": "#D2D3EC",
+          "type": "color",
+          "filePath": "src/Global-Colours.json",
+          "isSource": true,
+          "original": {
+            "value": "#D2D3EC",
+            "type": "color"
+          },
+          "name": "xyz_color_dark_sectors_discoveries_statements_positions",
+          "attributes": {
+            "category": "Color",
+            "type": "Dark",
+            "item": "Sectors",
+            "subitem": "Discoveries, Statements, Positions"
+          },
+          "path": [
+            "Color",
+            "Dark",
+            "Sectors",
+            "Discoveries, Statements, Positions"
+          ]
+        },
+        "galleries": {
+          "value": "#CDCDCD",
+          "type": "color",
+          "filePath": "src/Global-Colours.json",
+          "isSource": true,
+          "original": {
+            "value": "#CDCDCD",
+            "type": "color"
+          },
+          "name": "xyz_color_dark_sectors_galleries",
+          "attributes": {
+            "category": "Color",
+            "type": "Dark",
+            "item": "Sectors",
+            "subitem": "Galleries"
+          },
+          "path": [
+            "Color",
+            "Dark",
+            "Sectors",
+            "Galleries"
+          ]
+        },
+        "featureNova": {
+          "value": "#d8eeeb",
+          "type": "color",
+          "filePath": "src/Global-Colours.json",
+          "isSource": true,
+          "original": {
+            "value": "#d8eeeb",
+            "type": "color"
+          },
+          "name": "xyz_color_dark_sectors_feature_nova",
+          "attributes": {
+            "category": "Color",
+            "type": "Dark",
+            "item": "Sectors",
+            "subitem": "Feature, Nova"
+          },
+          "path": [
+            "Color",
+            "Dark",
+            "Sectors",
+            "Feature, Nova"
+          ]
+        },
+        "edition": {
+          "value": "#fff7bf",
+          "type": "color",
+          "filePath": "src/Global-Colours.json",
+          "isSource": true,
+          "original": {
+            "value": "#fff7bf",
+            "type": "color"
+          },
+          "name": "xyz_color_dark_sectors_edition",
+          "attributes": {
+            "category": "Color",
+            "type": "Dark",
+            "item": "Sectors",
+            "subitem": "Edition"
+          },
+          "path": [
+            "Color",
+            "Dark",
+            "Sectors",
+            "Edition"
+          ]
+        },
+        "kabinett": {
+          "value": "#fcdfaa",
+          "type": "color",
+          "filePath": "src/Global-Colours.json",
+          "isSource": true,
+          "original": {
+            "value": "#fcdfaa",
+            "type": "color"
+          },
+          "name": "xyz_color_dark_sectors_kabinett",
+          "attributes": {
+            "category": "Color",
+            "type": "Dark",
+            "item": "Sectors",
+            "subitem": "Kabinett"
+          },
+          "path": [
+            "Color",
+            "Dark",
+            "Sectors",
+            "Kabinett"
+          ]
+        },
+        "insightsSurvey": {
+          "value": "#fcd5d7",
+          "type": "color",
+          "filePath": "src/Global-Colours.json",
+          "isSource": true,
+          "original": {
+            "value": "#fcd5d7",
+            "type": "color"
+          },
+          "name": "xyz_color_dark_sectors_insights_survey",
+          "attributes": {
+            "category": "Color",
+            "type": "Dark",
+            "item": "Sectors",
+            "subitem": "Insights, Survey"
+          },
+          "path": [
+            "Color",
+            "Dark",
+            "Sectors",
+            "Insights, Survey"
+          ]
+        },
+        "dialogues": {
+          "value": "#dcdcdc",
+          "type": "color",
+          "filePath": "src/Global-Colours.json",
+          "isSource": true,
+          "original": {
+            "value": "#dcdcdc",
+            "type": "color"
+          },
+          "name": "xyz_color_dark_sectors_dialogues",
+          "attributes": {
+            "category": "Color",
+            "type": "Dark",
+            "item": "Sectors",
+            "subitem": "Dialogues"
+          },
+          "path": [
+            "Color",
+            "Dark",
+            "Sectors",
+            "Dialogues"
+          ]
+        }
+      },
+      "brands": {
+        "basel": {
+          "value": "#00a0cf",
+          "type": "color",
+          "filePath": "src/Global-Colours.json",
+          "isSource": true,
+          "original": {
+            "value": "#00a0cf",
+            "type": "color"
+          },
+          "name": "xyz_color_dark_brands_basel",
+          "attributes": {
+            "category": "Color",
+            "type": "Dark",
+            "item": "Brands",
+            "subitem": "Basel"
+          },
+          "path": [
+            "Color",
+            "Dark",
+            "Brands",
+            "Basel"
+          ]
+        },
+        "miami": {
+          "value": "#00c18b",
+          "type": "color",
+          "filePath": "src/Global-Colours.json",
+          "isSource": true,
+          "original": {
+            "value": "#00c18b",
+            "type": "color"
+          },
+          "name": "xyz_color_dark_brands_miami",
+          "attributes": {
+            "category": "Color",
+            "type": "Dark",
+            "item": "Brands",
+            "subitem": "Miami"
+          },
+          "path": [
+            "Color",
+            "Dark",
+            "Brands",
+            "Miami"
+          ]
+        },
+        "hongKong": {
+          "value": "#e0004d",
+          "type": "color",
+          "filePath": "src/Global-Colours.json",
+          "isSource": true,
+          "original": {
+            "value": "#e0004d",
+            "type": "color"
+          },
+          "name": "xyz_color_dark_brands_hong_kong",
+          "attributes": {
+            "category": "Color",
+            "type": "Dark",
+            "item": "Brands",
+            "subitem": "Hong Kong"
+          },
+          "path": [
+            "Color",
+            "Dark",
+            "Brands",
+            "Hong Kong"
+          ]
+        },
+        "cities": {
+          "value": "#fa4616",
+          "type": "color",
+          "filePath": "src/Global-Colours.json",
+          "isSource": true,
+          "original": {
+            "value": "#fa4616",
+            "type": "color"
+          },
+          "name": "xyz_color_dark_brands_cities",
+          "attributes": {
+            "category": "Color",
+            "type": "Dark",
+            "item": "Brands",
+            "subitem": "Cities"
+          },
+          "path": [
+            "Color",
+            "Dark",
+            "Brands",
+            "Cities"
+          ]
+        },
+        "paris": {
+          "value": "#6f2cc7",
+          "type": "color",
+          "filePath": "src/Global-Colours.json",
+          "isSource": true,
+          "original": {
+            "value": "#6f2cc7",
+            "type": "color"
+          },
+          "name": "xyz_color_dark_brands_paris",
+          "attributes": {
+            "category": "Color",
+            "type": "Dark",
+            "item": "Brands",
+            "subitem": "Paris"
+          },
+          "path": [
+            "Color",
+            "Dark",
+            "Brands",
+            "Paris"
+          ]
+        }
+      }
     }
   },
-  "Shadows": {
-    "Outer Shadow": {
+  "shadows": {
+    "outerShadow": {
       "01": {
         "1": {
           "color": {
-            "value": "#1d23271a",
+            "value": "rgba(18, 18, 18, 0.1)",
             "type": "color",
             "filePath": "src/global.json",
             "isSource": true,
             "original": {
-              "value": "#1d23271a",
+              "value": "rgba(18, 18, 18, 0.1)",
               "type": "color"
             },
-            "name": "mch_shadows_outer_shadow_01_1_color",
+            "name": "xyz_shadows_outer_shadow_01_1_color",
             "attributes": {
               "category": "Shadows",
               "type": "Outer Shadow",
@@ -846,7 +4002,7 @@ module.exports = {
               "value": "dropShadow",
               "type": "other"
             },
-            "name": "mch_shadows_outer_shadow_01_1_type",
+            "name": "xyz_shadows_outer_shadow_01_1_type",
             "attributes": {
               "category": "Shadows",
               "type": "Outer Shadow",
@@ -871,7 +4027,7 @@ module.exports = {
               "value": "0",
               "type": "dimension"
             },
-            "name": "mch_shadows_outer_shadow_01_1_x",
+            "name": "xyz_shadows_outer_shadow_01_1_x",
             "attributes": {
               "category": "Shadows",
               "type": "Outer Shadow",
@@ -896,7 +4052,7 @@ module.exports = {
               "value": "1",
               "type": "dimension"
             },
-            "name": "mch_shadows_outer_shadow_01_1_y",
+            "name": "xyz_shadows_outer_shadow_01_1_y",
             "attributes": {
               "category": "Shadows",
               "type": "Outer Shadow",
@@ -921,7 +4077,7 @@ module.exports = {
               "value": "4",
               "type": "dimension"
             },
-            "name": "mch_shadows_outer_shadow_01_1_blur",
+            "name": "xyz_shadows_outer_shadow_01_1_blur",
             "attributes": {
               "category": "Shadows",
               "type": "Outer Shadow",
@@ -946,7 +4102,7 @@ module.exports = {
               "value": "0",
               "type": "dimension"
             },
-            "name": "mch_shadows_outer_shadow_01_1_spread",
+            "name": "xyz_shadows_outer_shadow_01_1_spread",
             "attributes": {
               "category": "Shadows",
               "type": "Outer Shadow",
@@ -965,15 +4121,15 @@ module.exports = {
         },
         "2": {
           "color": {
-            "value": "#1d23271a",
+            "value": "rgba(18, 18, 18, 0.1)",
             "type": "color",
             "filePath": "src/global.json",
             "isSource": true,
             "original": {
-              "value": "#1d23271a",
+              "value": "rgba(18, 18, 18, 0.1)",
               "type": "color"
             },
-            "name": "mch_shadows_outer_shadow_01_2_color",
+            "name": "xyz_shadows_outer_shadow_01_2_color",
             "attributes": {
               "category": "Shadows",
               "type": "Outer Shadow",
@@ -998,7 +4154,7 @@ module.exports = {
               "value": "dropShadow",
               "type": "other"
             },
-            "name": "mch_shadows_outer_shadow_01_2_type",
+            "name": "xyz_shadows_outer_shadow_01_2_type",
             "attributes": {
               "category": "Shadows",
               "type": "Outer Shadow",
@@ -1023,7 +4179,7 @@ module.exports = {
               "value": "0",
               "type": "dimension"
             },
-            "name": "mch_shadows_outer_shadow_01_2_x",
+            "name": "xyz_shadows_outer_shadow_01_2_x",
             "attributes": {
               "category": "Shadows",
               "type": "Outer Shadow",
@@ -1048,7 +4204,7 @@ module.exports = {
               "value": "0",
               "type": "dimension"
             },
-            "name": "mch_shadows_outer_shadow_01_2_y",
+            "name": "xyz_shadows_outer_shadow_01_2_y",
             "attributes": {
               "category": "Shadows",
               "type": "Outer Shadow",
@@ -1073,7 +4229,7 @@ module.exports = {
               "value": "4",
               "type": "dimension"
             },
-            "name": "mch_shadows_outer_shadow_01_2_blur",
+            "name": "xyz_shadows_outer_shadow_01_2_blur",
             "attributes": {
               "category": "Shadows",
               "type": "Outer Shadow",
@@ -1098,7 +4254,7 @@ module.exports = {
               "value": "0",
               "type": "dimension"
             },
-            "name": "mch_shadows_outer_shadow_01_2_spread",
+            "name": "xyz_shadows_outer_shadow_01_2_spread",
             "attributes": {
               "category": "Shadows",
               "type": "Outer Shadow",
@@ -1119,15 +4275,15 @@ module.exports = {
       "02": {
         "1": {
           "color": {
-            "value": "#1d23271a",
+            "value": "rgba(18, 18, 18, 0.1)",
             "type": "color",
             "filePath": "src/global.json",
             "isSource": true,
             "original": {
-              "value": "#1d23271a",
+              "value": "rgba(18, 18, 18, 0.1)",
               "type": "color"
             },
-            "name": "mch_shadows_outer_shadow_02_1_color",
+            "name": "xyz_shadows_outer_shadow_02_1_color",
             "attributes": {
               "category": "Shadows",
               "type": "Outer Shadow",
@@ -1152,7 +4308,7 @@ module.exports = {
               "value": "dropShadow",
               "type": "other"
             },
-            "name": "mch_shadows_outer_shadow_02_1_type",
+            "name": "xyz_shadows_outer_shadow_02_1_type",
             "attributes": {
               "category": "Shadows",
               "type": "Outer Shadow",
@@ -1177,7 +4333,7 @@ module.exports = {
               "value": "0",
               "type": "dimension"
             },
-            "name": "mch_shadows_outer_shadow_02_1_x",
+            "name": "xyz_shadows_outer_shadow_02_1_x",
             "attributes": {
               "category": "Shadows",
               "type": "Outer Shadow",
@@ -1202,7 +4358,7 @@ module.exports = {
               "value": "4",
               "type": "dimension"
             },
-            "name": "mch_shadows_outer_shadow_02_1_y",
+            "name": "xyz_shadows_outer_shadow_02_1_y",
             "attributes": {
               "category": "Shadows",
               "type": "Outer Shadow",
@@ -1227,7 +4383,7 @@ module.exports = {
               "value": "8",
               "type": "dimension"
             },
-            "name": "mch_shadows_outer_shadow_02_1_blur",
+            "name": "xyz_shadows_outer_shadow_02_1_blur",
             "attributes": {
               "category": "Shadows",
               "type": "Outer Shadow",
@@ -1252,7 +4408,7 @@ module.exports = {
               "value": "0",
               "type": "dimension"
             },
-            "name": "mch_shadows_outer_shadow_02_1_spread",
+            "name": "xyz_shadows_outer_shadow_02_1_spread",
             "attributes": {
               "category": "Shadows",
               "type": "Outer Shadow",
@@ -1271,15 +4427,15 @@ module.exports = {
         },
         "2": {
           "color": {
-            "value": "#1d23271a",
+            "value": "rgba(18, 18, 18, 0.1)",
             "type": "color",
             "filePath": "src/global.json",
             "isSource": true,
             "original": {
-              "value": "#1d23271a",
+              "value": "rgba(18, 18, 18, 0.1)",
               "type": "color"
             },
-            "name": "mch_shadows_outer_shadow_02_2_color",
+            "name": "xyz_shadows_outer_shadow_02_2_color",
             "attributes": {
               "category": "Shadows",
               "type": "Outer Shadow",
@@ -1304,7 +4460,7 @@ module.exports = {
               "value": "dropShadow",
               "type": "other"
             },
-            "name": "mch_shadows_outer_shadow_02_2_type",
+            "name": "xyz_shadows_outer_shadow_02_2_type",
             "attributes": {
               "category": "Shadows",
               "type": "Outer Shadow",
@@ -1329,7 +4485,7 @@ module.exports = {
               "value": "0",
               "type": "dimension"
             },
-            "name": "mch_shadows_outer_shadow_02_2_x",
+            "name": "xyz_shadows_outer_shadow_02_2_x",
             "attributes": {
               "category": "Shadows",
               "type": "Outer Shadow",
@@ -1354,7 +4510,7 @@ module.exports = {
               "value": "2",
               "type": "dimension"
             },
-            "name": "mch_shadows_outer_shadow_02_2_y",
+            "name": "xyz_shadows_outer_shadow_02_2_y",
             "attributes": {
               "category": "Shadows",
               "type": "Outer Shadow",
@@ -1379,7 +4535,7 @@ module.exports = {
               "value": "4",
               "type": "dimension"
             },
-            "name": "mch_shadows_outer_shadow_02_2_blur",
+            "name": "xyz_shadows_outer_shadow_02_2_blur",
             "attributes": {
               "category": "Shadows",
               "type": "Outer Shadow",
@@ -1404,7 +4560,7 @@ module.exports = {
               "value": "1",
               "type": "dimension"
             },
-            "name": "mch_shadows_outer_shadow_02_2_spread",
+            "name": "xyz_shadows_outer_shadow_02_2_spread",
             "attributes": {
               "category": "Shadows",
               "type": "Outer Shadow",
@@ -1425,15 +4581,15 @@ module.exports = {
       "03": {
         "1": {
           "color": {
-            "value": "#1d23271a",
+            "value": "rgba(18, 18, 18, 0.1)",
             "type": "color",
             "filePath": "src/global.json",
             "isSource": true,
             "original": {
-              "value": "#1d23271a",
+              "value": "rgba(18, 18, 18, 0.1)",
               "type": "color"
             },
-            "name": "mch_shadows_outer_shadow_03_1_color",
+            "name": "xyz_shadows_outer_shadow_03_1_color",
             "attributes": {
               "category": "Shadows",
               "type": "Outer Shadow",
@@ -1458,7 +4614,7 @@ module.exports = {
               "value": "dropShadow",
               "type": "other"
             },
-            "name": "mch_shadows_outer_shadow_03_1_type",
+            "name": "xyz_shadows_outer_shadow_03_1_type",
             "attributes": {
               "category": "Shadows",
               "type": "Outer Shadow",
@@ -1483,7 +4639,7 @@ module.exports = {
               "value": "0",
               "type": "dimension"
             },
-            "name": "mch_shadows_outer_shadow_03_1_x",
+            "name": "xyz_shadows_outer_shadow_03_1_x",
             "attributes": {
               "category": "Shadows",
               "type": "Outer Shadow",
@@ -1508,7 +4664,7 @@ module.exports = {
               "value": "8",
               "type": "dimension"
             },
-            "name": "mch_shadows_outer_shadow_03_1_y",
+            "name": "xyz_shadows_outer_shadow_03_1_y",
             "attributes": {
               "category": "Shadows",
               "type": "Outer Shadow",
@@ -1533,7 +4689,7 @@ module.exports = {
               "value": "16",
               "type": "dimension"
             },
-            "name": "mch_shadows_outer_shadow_03_1_blur",
+            "name": "xyz_shadows_outer_shadow_03_1_blur",
             "attributes": {
               "category": "Shadows",
               "type": "Outer Shadow",
@@ -1558,7 +4714,7 @@ module.exports = {
               "value": "0",
               "type": "dimension"
             },
-            "name": "mch_shadows_outer_shadow_03_1_spread",
+            "name": "xyz_shadows_outer_shadow_03_1_spread",
             "attributes": {
               "category": "Shadows",
               "type": "Outer Shadow",
@@ -1577,15 +4733,15 @@ module.exports = {
         },
         "2": {
           "color": {
-            "value": "#1d23271a",
+            "value": "rgba(18, 18, 18, 0.1)",
             "type": "color",
             "filePath": "src/global.json",
             "isSource": true,
             "original": {
-              "value": "#1d23271a",
+              "value": "rgba(18, 18, 18, 0.1)",
               "type": "color"
             },
-            "name": "mch_shadows_outer_shadow_03_2_color",
+            "name": "xyz_shadows_outer_shadow_03_2_color",
             "attributes": {
               "category": "Shadows",
               "type": "Outer Shadow",
@@ -1610,7 +4766,7 @@ module.exports = {
               "value": "dropShadow",
               "type": "other"
             },
-            "name": "mch_shadows_outer_shadow_03_2_type",
+            "name": "xyz_shadows_outer_shadow_03_2_type",
             "attributes": {
               "category": "Shadows",
               "type": "Outer Shadow",
@@ -1635,7 +4791,7 @@ module.exports = {
               "value": "0",
               "type": "dimension"
             },
-            "name": "mch_shadows_outer_shadow_03_2_x",
+            "name": "xyz_shadows_outer_shadow_03_2_x",
             "attributes": {
               "category": "Shadows",
               "type": "Outer Shadow",
@@ -1660,7 +4816,7 @@ module.exports = {
               "value": "4",
               "type": "dimension"
             },
-            "name": "mch_shadows_outer_shadow_03_2_y",
+            "name": "xyz_shadows_outer_shadow_03_2_y",
             "attributes": {
               "category": "Shadows",
               "type": "Outer Shadow",
@@ -1685,7 +4841,7 @@ module.exports = {
               "value": "8",
               "type": "dimension"
             },
-            "name": "mch_shadows_outer_shadow_03_2_blur",
+            "name": "xyz_shadows_outer_shadow_03_2_blur",
             "attributes": {
               "category": "Shadows",
               "type": "Outer Shadow",
@@ -1710,7 +4866,7 @@ module.exports = {
               "value": "2",
               "type": "dimension"
             },
-            "name": "mch_shadows_outer_shadow_03_2_spread",
+            "name": "xyz_shadows_outer_shadow_03_2_spread",
             "attributes": {
               "category": "Shadows",
               "type": "Outer Shadow",
@@ -1740,7 +4896,7 @@ module.exports = {
         "value": "2px",
         "type": "spacing"
       },
-      "name": "mch_spacing_2",
+      "name": "xyz_spacing_2",
       "attributes": {
         "category": "spacing",
         "type": "2"
@@ -1759,7 +4915,7 @@ module.exports = {
         "value": "4px",
         "type": "spacing"
       },
-      "name": "mch_spacing_4",
+      "name": "xyz_spacing_4",
       "attributes": {
         "category": "spacing",
         "type": "4"
@@ -1778,7 +4934,7 @@ module.exports = {
         "value": "8px",
         "type": "spacing"
       },
-      "name": "mch_spacing_8",
+      "name": "xyz_spacing_8",
       "attributes": {
         "category": "spacing",
         "type": "8"
@@ -1797,7 +4953,7 @@ module.exports = {
         "value": "12px",
         "type": "spacing"
       },
-      "name": "mch_spacing_12",
+      "name": "xyz_spacing_12",
       "attributes": {
         "category": "spacing",
         "type": "12"
@@ -1816,7 +4972,7 @@ module.exports = {
         "value": "16px",
         "type": "spacing"
       },
-      "name": "mch_spacing_16",
+      "name": "xyz_spacing_16",
       "attributes": {
         "category": "spacing",
         "type": "16"
@@ -1835,7 +4991,7 @@ module.exports = {
         "value": "20px",
         "type": "spacing"
       },
-      "name": "mch_spacing_20",
+      "name": "xyz_spacing_20",
       "attributes": {
         "category": "spacing",
         "type": "20"
@@ -1854,7 +5010,7 @@ module.exports = {
         "value": "24px",
         "type": "spacing"
       },
-      "name": "mch_spacing_24",
+      "name": "xyz_spacing_24",
       "attributes": {
         "category": "spacing",
         "type": "24"
@@ -1873,7 +5029,7 @@ module.exports = {
         "value": "32px",
         "type": "spacing"
       },
-      "name": "mch_spacing_32",
+      "name": "xyz_spacing_32",
       "attributes": {
         "category": "spacing",
         "type": "32"
@@ -1892,7 +5048,7 @@ module.exports = {
         "value": "40px",
         "type": "spacing"
       },
-      "name": "mch_spacing_40",
+      "name": "xyz_spacing_40",
       "attributes": {
         "category": "spacing",
         "type": "40"
@@ -1911,7 +5067,7 @@ module.exports = {
         "value": "48px",
         "type": "spacing"
       },
-      "name": "mch_spacing_48",
+      "name": "xyz_spacing_48",
       "attributes": {
         "category": "spacing",
         "type": "48"
@@ -1930,7 +5086,7 @@ module.exports = {
         "value": "56px",
         "type": "spacing"
       },
-      "name": "mch_spacing_56",
+      "name": "xyz_spacing_56",
       "attributes": {
         "category": "spacing",
         "type": "56"
@@ -1949,7 +5105,7 @@ module.exports = {
         "value": "64px",
         "type": "spacing"
       },
-      "name": "mch_spacing_64",
+      "name": "xyz_spacing_64",
       "attributes": {
         "category": "spacing",
         "type": "64"
@@ -1968,7 +5124,7 @@ module.exports = {
         "value": "72px",
         "type": "spacing"
       },
-      "name": "mch_spacing_72",
+      "name": "xyz_spacing_72",
       "attributes": {
         "category": "spacing",
         "type": "72"
@@ -1987,7 +5143,7 @@ module.exports = {
         "value": "80px",
         "type": "spacing"
       },
-      "name": "mch_spacing_80",
+      "name": "xyz_spacing_80",
       "attributes": {
         "category": "spacing",
         "type": "80"
@@ -2006,7 +5162,7 @@ module.exports = {
         "value": "96px",
         "type": "spacing"
       },
-      "name": "mch_spacing_96",
+      "name": "xyz_spacing_96",
       "attributes": {
         "category": "spacing",
         "type": "96"
@@ -2025,7 +5181,7 @@ module.exports = {
         "value": "112px",
         "type": "spacing"
       },
-      "name": "mch_spacing_112",
+      "name": "xyz_spacing_112",
       "attributes": {
         "category": "spacing",
         "type": "112"
@@ -2044,7 +5200,7 @@ module.exports = {
         "value": "120px",
         "type": "spacing"
       },
-      "name": "mch_spacing_120",
+      "name": "xyz_spacing_120",
       "attributes": {
         "category": "spacing",
         "type": "120"
@@ -2065,7 +5221,7 @@ module.exports = {
         "value": "0",
         "type": "opacity"
       },
-      "name": "mch_opacity_0",
+      "name": "xyz_opacity_0",
       "attributes": {
         "category": "opacity",
         "type": "0"
@@ -2084,7 +5240,7 @@ module.exports = {
         "value": "0.05",
         "type": "opacity"
       },
-      "name": "mch_opacity_5",
+      "name": "xyz_opacity_5",
       "attributes": {
         "category": "opacity",
         "type": "5"
@@ -2103,7 +5259,7 @@ module.exports = {
         "value": "0.1",
         "type": "opacity"
       },
-      "name": "mch_opacity_10",
+      "name": "xyz_opacity_10",
       "attributes": {
         "category": "opacity",
         "type": "10"
@@ -2122,7 +5278,7 @@ module.exports = {
         "value": "0.25",
         "type": "opacity"
       },
-      "name": "mch_opacity_25",
+      "name": "xyz_opacity_25",
       "attributes": {
         "category": "opacity",
         "type": "25"
@@ -2141,7 +5297,7 @@ module.exports = {
         "value": "0.3",
         "type": "opacity"
       },
-      "name": "mch_opacity_30",
+      "name": "xyz_opacity_30",
       "attributes": {
         "category": "opacity",
         "type": "30"
@@ -2160,7 +5316,7 @@ module.exports = {
         "value": "0.4",
         "type": "opacity"
       },
-      "name": "mch_opacity_40",
+      "name": "xyz_opacity_40",
       "attributes": {
         "category": "opacity",
         "type": "40"
@@ -2179,7 +5335,7 @@ module.exports = {
         "value": "0.5",
         "type": "opacity"
       },
-      "name": "mch_opacity_50",
+      "name": "xyz_opacity_50",
       "attributes": {
         "category": "opacity",
         "type": "50"
@@ -2198,7 +5354,7 @@ module.exports = {
         "value": "0.6",
         "type": "opacity"
       },
-      "name": "mch_opacity_60",
+      "name": "xyz_opacity_60",
       "attributes": {
         "category": "opacity",
         "type": "60"
@@ -2217,7 +5373,7 @@ module.exports = {
         "value": "0.7",
         "type": "opacity"
       },
-      "name": "mch_opacity_70",
+      "name": "xyz_opacity_70",
       "attributes": {
         "category": "opacity",
         "type": "70"
@@ -2236,7 +5392,7 @@ module.exports = {
         "value": "0.8",
         "type": "opacity"
       },
-      "name": "mch_opacity_80",
+      "name": "xyz_opacity_80",
       "attributes": {
         "category": "opacity",
         "type": "80"
@@ -2255,7 +5411,7 @@ module.exports = {
         "value": "0.9",
         "type": "opacity"
       },
-      "name": "mch_opacity_90",
+      "name": "xyz_opacity_90",
       "attributes": {
         "category": "opacity",
         "type": "90"
@@ -2274,7 +5430,7 @@ module.exports = {
         "value": "0.95",
         "type": "opacity"
       },
-      "name": "mch_opacity_95",
+      "name": "xyz_opacity_95",
       "attributes": {
         "category": "opacity",
         "type": "95"
@@ -2293,7 +5449,7 @@ module.exports = {
         "value": "1",
         "type": "opacity"
       },
-      "name": "mch_opacity_100",
+      "name": "xyz_opacity_100",
       "attributes": {
         "category": "opacity",
         "type": "100"
@@ -2304,7 +5460,7 @@ module.exports = {
       ]
     }
   },
-  "max-width": {
+  "maxWidth": {
     "sm": {
       "value": "413px",
       "type": "dimension",
@@ -2316,7 +5472,7 @@ module.exports = {
         "type": "dimension",
         "description": "Max Width for the SM Media Query breakpoint"
       },
-      "name": "mch_max_width_sm",
+      "name": "xyz_max_width_sm",
       "attributes": {
         "category": "max-width",
         "type": "sm"
@@ -2337,7 +5493,7 @@ module.exports = {
         "type": "dimension",
         "description": "Max Width for the MD Media Query breakpoint"
       },
-      "name": "mch_max_width_md",
+      "name": "xyz_max_width_md",
       "attributes": {
         "category": "max-width",
         "type": "md"
@@ -2358,7 +5514,7 @@ module.exports = {
         "type": "dimension",
         "description": "Max Width for the LG Media Query breakpoint"
       },
-      "name": "mch_max_width_lg",
+      "name": "xyz_max_width_lg",
       "attributes": {
         "category": "max-width",
         "type": "lg"
@@ -2379,7 +5535,7 @@ module.exports = {
         "type": "dimension",
         "description": "Max Width for the XL Media Query breakpoint"
       },
-      "name": "mch_max_width_xl",
+      "name": "xyz_max_width_xl",
       "attributes": {
         "category": "max-width",
         "type": "xl"
@@ -2400,7 +5556,7 @@ module.exports = {
         "type": "dimension",
         "description": "Max Width for the 2XL Media Query breakpoint"
       },
-      "name": "mch_max_width_2xl",
+      "name": "xyz_max_width_2xl",
       "attributes": {
         "category": "max-width",
         "type": "2xl"
@@ -2412,7 +5568,7 @@ module.exports = {
     }
   },
   "fontFamilies": {
-    "art-basel-headline": {
+    "artBaselHeadline": {
       "value": "Art Basel Headline",
       "type": "fontFamilies",
       "filePath": "src/global.json",
@@ -2421,7 +5577,7 @@ module.exports = {
         "value": "Art Basel Headline",
         "type": "fontFamilies"
       },
-      "name": "mch_font_families_art_basel_headline",
+      "name": "xyz_font_families_art_basel_headline",
       "attributes": {
         "category": "fontFamilies",
         "type": "art-basel-headline"
@@ -2431,7 +5587,7 @@ module.exports = {
         "art-basel-headline"
       ]
     },
-    "art-basel-text": {
+    "artBaselText": {
       "value": "Art Basel Text",
       "type": "fontFamilies",
       "filePath": "src/global.json",
@@ -2440,7 +5596,7 @@ module.exports = {
         "value": "Art Basel Text",
         "type": "fontFamilies"
       },
-      "name": "mch_font_families_art_basel_text",
+      "name": "xyz_font_families_art_basel_text",
       "attributes": {
         "category": "fontFamilies",
         "type": "art-basel-text"
@@ -2450,7 +5606,7 @@ module.exports = {
         "art-basel-text"
       ]
     },
-    "ivar-display": {
+    "ivarDisplay": {
       "value": "Ivar Display",
       "type": "fontFamilies",
       "filePath": "src/global.json",
@@ -2459,7 +5615,7 @@ module.exports = {
         "value": "Ivar Display",
         "type": "fontFamilies"
       },
-      "name": "mch_font_families_ivar_display",
+      "name": "xyz_font_families_ivar_display",
       "attributes": {
         "category": "fontFamilies",
         "type": "ivar-display"
@@ -2480,7 +5636,7 @@ module.exports = {
         "value": "35",
         "type": "lineHeights"
       },
-      "name": "mch_line_heights_0",
+      "name": "xyz_line_heights_0",
       "attributes": {
         "category": "lineHeights",
         "type": "0"
@@ -2499,7 +5655,7 @@ module.exports = {
         "value": "30",
         "type": "lineHeights"
       },
-      "name": "mch_line_heights_1",
+      "name": "xyz_line_heights_1",
       "attributes": {
         "category": "lineHeights",
         "type": "1"
@@ -2518,7 +5674,7 @@ module.exports = {
         "value": "28",
         "type": "lineHeights"
       },
-      "name": "mch_line_heights_2",
+      "name": "xyz_line_heights_2",
       "attributes": {
         "category": "lineHeights",
         "type": "2"
@@ -2537,7 +5693,7 @@ module.exports = {
         "value": "23",
         "type": "lineHeights"
       },
-      "name": "mch_line_heights_3",
+      "name": "xyz_line_heights_3",
       "attributes": {
         "category": "lineHeights",
         "type": "3"
@@ -2556,7 +5712,7 @@ module.exports = {
         "value": "21",
         "type": "lineHeights"
       },
-      "name": "mch_line_heights_4",
+      "name": "xyz_line_heights_4",
       "attributes": {
         "category": "lineHeights",
         "type": "4"
@@ -2575,7 +5731,7 @@ module.exports = {
         "value": "48",
         "type": "lineHeights"
       },
-      "name": "mch_line_heights_5",
+      "name": "xyz_line_heights_5",
       "attributes": {
         "category": "lineHeights",
         "type": "5"
@@ -2594,7 +5750,7 @@ module.exports = {
         "value": "42",
         "type": "lineHeights"
       },
-      "name": "mch_line_heights_6",
+      "name": "xyz_line_heights_6",
       "attributes": {
         "category": "lineHeights",
         "type": "6"
@@ -2613,7 +5769,7 @@ module.exports = {
         "value": "34",
         "type": "lineHeights"
       },
-      "name": "mch_line_heights_7",
+      "name": "xyz_line_heights_7",
       "attributes": {
         "category": "lineHeights",
         "type": "7"
@@ -2632,7 +5788,7 @@ module.exports = {
         "value": "41",
         "type": "lineHeights"
       },
-      "name": "mch_line_heights_8",
+      "name": "xyz_line_heights_8",
       "attributes": {
         "category": "lineHeights",
         "type": "8"
@@ -2651,7 +5807,7 @@ module.exports = {
         "value": "46",
         "type": "lineHeights"
       },
-      "name": "mch_line_heights_9",
+      "name": "xyz_line_heights_9",
       "attributes": {
         "category": "lineHeights",
         "type": "9"
@@ -2670,7 +5826,7 @@ module.exports = {
         "value": "50",
         "type": "lineHeights"
       },
-      "name": "mch_line_heights_10",
+      "name": "xyz_line_heights_10",
       "attributes": {
         "category": "lineHeights",
         "type": "10"
@@ -2689,7 +5845,7 @@ module.exports = {
         "value": "18",
         "type": "lineHeights"
       },
-      "name": "mch_line_heights_11",
+      "name": "xyz_line_heights_11",
       "attributes": {
         "category": "lineHeights",
         "type": "11"
@@ -2708,7 +5864,7 @@ module.exports = {
         "value": "24",
         "type": "lineHeights"
       },
-      "name": "mch_line_heights_12",
+      "name": "xyz_line_heights_12",
       "attributes": {
         "category": "lineHeights",
         "type": "12"
@@ -2727,7 +5883,7 @@ module.exports = {
         "value": "22",
         "type": "lineHeights"
       },
-      "name": "mch_line_heights_13",
+      "name": "xyz_line_heights_13",
       "attributes": {
         "category": "lineHeights",
         "type": "13"
@@ -2746,7 +5902,7 @@ module.exports = {
         "value": "16",
         "type": "lineHeights"
       },
-      "name": "mch_line_heights_14",
+      "name": "xyz_line_heights_14",
       "attributes": {
         "category": "lineHeights",
         "type": "14"
@@ -2765,7 +5921,7 @@ module.exports = {
         "value": "20",
         "type": "lineHeights"
       },
-      "name": "mch_line_heights_15",
+      "name": "xyz_line_heights_15",
       "attributes": {
         "category": "lineHeights",
         "type": "15"
@@ -2784,7 +5940,7 @@ module.exports = {
         "value": "32",
         "type": "lineHeights"
       },
-      "name": "mch_line_heights_16",
+      "name": "xyz_line_heights_16",
       "attributes": {
         "category": "lineHeights",
         "type": "16"
@@ -2803,7 +5959,7 @@ module.exports = {
         "value": "64",
         "type": "lineHeights"
       },
-      "name": "mch_line_heights_17",
+      "name": "xyz_line_heights_17",
       "attributes": {
         "category": "lineHeights",
         "type": "17"
@@ -2822,7 +5978,7 @@ module.exports = {
         "value": "54",
         "type": "lineHeights"
       },
-      "name": "mch_line_heights_18",
+      "name": "xyz_line_heights_18",
       "attributes": {
         "category": "lineHeights",
         "type": "18"
@@ -2841,7 +5997,7 @@ module.exports = {
         "value": "36",
         "type": "lineHeights"
       },
-      "name": "mch_line_heights_19",
+      "name": "xyz_line_heights_19",
       "attributes": {
         "category": "lineHeights",
         "type": "19"
@@ -2850,10 +6006,200 @@ module.exports = {
         "lineHeights",
         "19"
       ]
+    },
+    "20": {
+      "value": "8rem",
+      "type": "lineHeights",
+      "filePath": "src/global.json",
+      "isSource": true,
+      "original": {
+        "value": "128",
+        "type": "lineHeights"
+      },
+      "name": "xyz_line_heights_20",
+      "attributes": {
+        "category": "lineHeights",
+        "type": "20"
+      },
+      "path": [
+        "lineHeights",
+        "20"
+      ]
+    },
+    "21": {
+      "value": "5.25rem",
+      "type": "lineHeights",
+      "filePath": "src/global.json",
+      "isSource": true,
+      "original": {
+        "value": "84",
+        "type": "lineHeights"
+      },
+      "name": "xyz_line_heights_21",
+      "attributes": {
+        "category": "lineHeights",
+        "type": "21"
+      },
+      "path": [
+        "lineHeights",
+        "21"
+      ]
+    },
+    "22": {
+      "value": "6.5rem",
+      "type": "lineHeights",
+      "filePath": "src/global.json",
+      "isSource": true,
+      "original": {
+        "value": "104",
+        "type": "lineHeights"
+      },
+      "name": "xyz_line_heights_22",
+      "attributes": {
+        "category": "lineHeights",
+        "type": "22"
+      },
+      "path": [
+        "lineHeights",
+        "22"
+      ]
+    },
+    "23": {
+      "value": "4.125rem",
+      "type": "lineHeights",
+      "filePath": "src/global.json",
+      "isSource": true,
+      "original": {
+        "value": "66",
+        "type": "lineHeights"
+      },
+      "name": "xyz_line_heights_23",
+      "attributes": {
+        "category": "lineHeights",
+        "type": "23"
+      },
+      "path": [
+        "lineHeights",
+        "23"
+      ]
+    },
+    "24": {
+      "value": "3.25rem",
+      "type": "lineHeights",
+      "filePath": "src/global.json",
+      "isSource": true,
+      "original": {
+        "value": "52",
+        "type": "lineHeights"
+      },
+      "name": "xyz_line_heights_24",
+      "attributes": {
+        "category": "lineHeights",
+        "type": "24"
+      },
+      "path": [
+        "lineHeights",
+        "24"
+      ]
+    },
+    "25": {
+      "value": "5.5rem",
+      "type": "lineHeights",
+      "filePath": "src/global.json",
+      "isSource": true,
+      "original": {
+        "value": "88",
+        "type": "lineHeights"
+      },
+      "name": "xyz_line_heights_25",
+      "attributes": {
+        "category": "lineHeights",
+        "type": "25"
+      },
+      "path": [
+        "lineHeights",
+        "25"
+      ]
+    },
+    "26": {
+      "value": "3.625rem",
+      "type": "lineHeights",
+      "filePath": "src/global.json",
+      "isSource": true,
+      "original": {
+        "value": "58",
+        "type": "lineHeights"
+      },
+      "name": "xyz_line_heights_26",
+      "attributes": {
+        "category": "lineHeights",
+        "type": "26"
+      },
+      "path": [
+        "lineHeights",
+        "26"
+      ]
+    },
+    "27": {
+      "value": "4.5rem",
+      "type": "lineHeights",
+      "filePath": "src/global.json",
+      "isSource": true,
+      "original": {
+        "value": "72",
+        "type": "lineHeights"
+      },
+      "name": "xyz_line_heights_27",
+      "attributes": {
+        "category": "lineHeights",
+        "type": "27"
+      },
+      "path": [
+        "lineHeights",
+        "27"
+      ]
+    },
+    "28": {
+      "value": "2.5rem",
+      "type": "lineHeights",
+      "filePath": "src/global.json",
+      "isSource": true,
+      "original": {
+        "value": "40",
+        "type": "lineHeights"
+      },
+      "name": "xyz_line_heights_28",
+      "attributes": {
+        "category": "lineHeights",
+        "type": "28"
+      },
+      "path": [
+        "lineHeights",
+        "28"
+      ]
+    },
+    "29": {
+      "value": "3.5rem",
+      "type": "lineHeights",
+      "filePath": "src/global.json",
+      "isSource": true,
+      "original": {
+        "value": "56",
+        "type": "lineHeights"
+      },
+      "name": "xyz_line_heights_29",
+      "attributes": {
+        "category": "lineHeights",
+        "type": "29"
+      },
+      "path": [
+        "lineHeights",
+        "29"
+      ]
     }
   },
   "fontWeights": {
-    "art-basel-headline-0": {
+    "artBaselHeadline0": {
       "value": "700",
       "type": "fontWeights",
       "filePath": "src/global.json",
@@ -2862,7 +6208,7 @@ module.exports = {
         "value": "Bold",
         "type": "fontWeights"
       },
-      "name": "mch_font_weights_art_basel_headline_0",
+      "name": "xyz_font_weights_art_basel_headline_0",
       "attributes": {
         "category": "fontWeights",
         "type": "art-basel-headline-0"
@@ -2872,7 +6218,7 @@ module.exports = {
         "art-basel-headline-0"
       ]
     },
-    "art-basel-text-1": {
+    "artBaselText1": {
       "value": "400",
       "type": "fontWeights",
       "filePath": "src/global.json",
@@ -2881,7 +6227,7 @@ module.exports = {
         "value": "Regular",
         "type": "fontWeights"
       },
-      "name": "mch_font_weights_art_basel_text_1",
+      "name": "xyz_font_weights_art_basel_text_1",
       "attributes": {
         "category": "fontWeights",
         "type": "art-basel-text-1"
@@ -2891,7 +6237,7 @@ module.exports = {
         "art-basel-text-1"
       ]
     },
-    "art-basel-text-2": {
+    "artBaselText2": {
       "value": "700",
       "type": "fontWeights",
       "filePath": "src/global.json",
@@ -2900,7 +6246,7 @@ module.exports = {
         "value": "Bold",
         "type": "fontWeights"
       },
-      "name": "mch_font_weights_art_basel_text_2",
+      "name": "xyz_font_weights_art_basel_text_2",
       "attributes": {
         "category": "fontWeights",
         "type": "art-basel-text-2"
@@ -2910,7 +6256,7 @@ module.exports = {
         "art-basel-text-2"
       ]
     },
-    "ivar-display-3": {
+    "ivarDisplay3": {
       "value": "600",
       "type": "fontWeights",
       "filePath": "src/global.json",
@@ -2919,7 +6265,7 @@ module.exports = {
         "value": "SemiBold",
         "type": "fontWeights"
       },
-      "name": "mch_font_weights_ivar_display_3",
+      "name": "xyz_font_weights_ivar_display_3",
       "attributes": {
         "category": "fontWeights",
         "type": "ivar-display-3"
@@ -2929,7 +6275,7 @@ module.exports = {
         "ivar-display-3"
       ]
     },
-    "ivar-display-4": {
+    "ivarDisplay4": {
       "value": "400",
       "type": "fontWeights",
       "filePath": "src/global.json",
@@ -2938,7 +6284,7 @@ module.exports = {
         "value": "Regular",
         "type": "fontWeights"
       },
-      "name": "mch_font_weights_ivar_display_4",
+      "name": "xyz_font_weights_ivar_display_4",
       "attributes": {
         "category": "fontWeights",
         "type": "ivar-display-4"
@@ -2959,7 +6305,7 @@ module.exports = {
         "value": "12",
         "type": "fontSizes"
       },
-      "name": "mch_font_size_0",
+      "name": "xyz_font_size_0",
       "attributes": {
         "category": "fontSize",
         "type": "0"
@@ -2978,7 +6324,7 @@ module.exports = {
         "value": "14",
         "type": "fontSizes"
       },
-      "name": "mch_font_size_1",
+      "name": "xyz_font_size_1",
       "attributes": {
         "category": "fontSize",
         "type": "1"
@@ -2997,7 +6343,7 @@ module.exports = {
         "value": "16",
         "type": "fontSizes"
       },
-      "name": "mch_font_size_2",
+      "name": "xyz_font_size_2",
       "attributes": {
         "category": "fontSize",
         "type": "2"
@@ -3016,7 +6362,7 @@ module.exports = {
         "value": "18",
         "type": "fontSizes"
       },
-      "name": "mch_font_size_3",
+      "name": "xyz_font_size_3",
       "attributes": {
         "category": "fontSize",
         "type": "3"
@@ -3035,7 +6381,7 @@ module.exports = {
         "value": "20",
         "type": "fontSizes"
       },
-      "name": "mch_font_size_4",
+      "name": "xyz_font_size_4",
       "attributes": {
         "category": "fontSize",
         "type": "4"
@@ -3054,7 +6400,7 @@ module.exports = {
         "value": "24",
         "type": "fontSizes"
       },
-      "name": "mch_font_size_5",
+      "name": "xyz_font_size_5",
       "attributes": {
         "category": "fontSize",
         "type": "5"
@@ -3073,7 +6419,7 @@ module.exports = {
         "value": "26",
         "type": "fontSizes"
       },
-      "name": "mch_font_size_6",
+      "name": "xyz_font_size_6",
       "attributes": {
         "category": "fontSize",
         "type": "6"
@@ -3092,7 +6438,7 @@ module.exports = {
         "value": "30",
         "type": "fontSizes"
       },
-      "name": "mch_font_size_7",
+      "name": "xyz_font_size_7",
       "attributes": {
         "category": "fontSize",
         "type": "7"
@@ -3111,7 +6457,7 @@ module.exports = {
         "value": "32",
         "type": "fontSizes"
       },
-      "name": "mch_font_size_8",
+      "name": "xyz_font_size_8",
       "attributes": {
         "category": "fontSize",
         "type": "8"
@@ -3130,7 +6476,7 @@ module.exports = {
         "value": "34",
         "type": "fontSizes"
       },
-      "name": "mch_font_size_9",
+      "name": "xyz_font_size_9",
       "attributes": {
         "category": "fontSize",
         "type": "9"
@@ -3149,7 +6495,7 @@ module.exports = {
         "value": "36",
         "type": "fontSizes"
       },
-      "name": "mch_font_size_10",
+      "name": "xyz_font_size_10",
       "attributes": {
         "category": "fontSize",
         "type": "10"
@@ -3168,7 +6514,7 @@ module.exports = {
         "value": "38",
         "type": "fontSizes"
       },
-      "name": "mch_font_size_11",
+      "name": "xyz_font_size_11",
       "attributes": {
         "category": "fontSize",
         "type": "11"
@@ -3187,7 +6533,7 @@ module.exports = {
         "value": "40",
         "type": "fontSizes"
       },
-      "name": "mch_font_size_12",
+      "name": "xyz_font_size_12",
       "attributes": {
         "category": "fontSize",
         "type": "12"
@@ -3206,7 +6552,7 @@ module.exports = {
         "value": "42",
         "type": "fontSizes"
       },
-      "name": "mch_font_size_13",
+      "name": "xyz_font_size_13",
       "attributes": {
         "category": "fontSize",
         "type": "13"
@@ -3225,7 +6571,7 @@ module.exports = {
         "value": "48",
         "type": "fontSizes"
       },
-      "name": "mch_font_size_14",
+      "name": "xyz_font_size_14",
       "attributes": {
         "category": "fontSize",
         "type": "14"
@@ -3234,19 +6580,266 @@ module.exports = {
         "fontSize",
         "14"
       ]
+    },
+    "15": {
+      "value": "1.75rem",
+      "type": "fontSizes",
+      "filePath": "src/global.json",
+      "isSource": true,
+      "original": {
+        "value": "28",
+        "type": "fontSizes"
+      },
+      "name": "xyz_font_size_15",
+      "attributes": {
+        "category": "fontSize",
+        "type": "15"
+      },
+      "path": [
+        "fontSize",
+        "15"
+      ]
+    },
+    "16": {
+      "value": "2.75rem",
+      "type": "fontSizes",
+      "filePath": "src/global.json",
+      "isSource": true,
+      "original": {
+        "value": "44",
+        "type": "fontSizes"
+      },
+      "name": "xyz_font_size_16",
+      "attributes": {
+        "category": "fontSize",
+        "type": "16"
+      },
+      "path": [
+        "fontSize",
+        "16"
+      ]
+    },
+    "17": {
+      "value": "2.875rem",
+      "type": "fontSizes",
+      "filePath": "src/global.json",
+      "isSource": true,
+      "original": {
+        "value": "46",
+        "type": "fontSizes"
+      },
+      "name": "xyz_font_size_17",
+      "attributes": {
+        "category": "fontSize",
+        "type": "17"
+      },
+      "path": [
+        "fontSize",
+        "17"
+      ]
+    },
+    "18": {
+      "value": "3.25rem",
+      "type": "fontSizes",
+      "filePath": "src/global.json",
+      "isSource": true,
+      "original": {
+        "value": "52",
+        "type": "fontSizes"
+      },
+      "name": "xyz_font_size_18",
+      "attributes": {
+        "category": "fontSize",
+        "type": "18"
+      },
+      "path": [
+        "fontSize",
+        "18"
+      ]
+    },
+    "19": {
+      "value": "3.625rem",
+      "type": "fontSizes",
+      "filePath": "src/global.json",
+      "isSource": true,
+      "original": {
+        "value": "58",
+        "type": "fontSizes"
+      },
+      "name": "xyz_font_size_19",
+      "attributes": {
+        "category": "fontSize",
+        "type": "19"
+      },
+      "path": [
+        "fontSize",
+        "19"
+      ]
+    },
+    "20": {
+      "value": "4rem",
+      "type": "fontSizes",
+      "filePath": "src/global.json",
+      "isSource": true,
+      "original": {
+        "value": "64",
+        "type": "fontSizes"
+      },
+      "name": "xyz_font_size_20",
+      "attributes": {
+        "category": "fontSize",
+        "type": "20"
+      },
+      "path": [
+        "fontSize",
+        "20"
+      ]
+    },
+    "21": {
+      "value": "4.125rem",
+      "type": "fontSizes",
+      "filePath": "src/global.json",
+      "isSource": true,
+      "original": {
+        "value": "66",
+        "type": "fontSizes"
+      },
+      "name": "xyz_font_size_21",
+      "attributes": {
+        "category": "fontSize",
+        "type": "21"
+      },
+      "path": [
+        "fontSize",
+        "21"
+      ]
+    },
+    "22": {
+      "value": "4.5rem",
+      "type": "fontSizes",
+      "filePath": "src/global.json",
+      "isSource": true,
+      "original": {
+        "value": "72",
+        "type": "fontSizes"
+      },
+      "name": "xyz_font_size_22",
+      "attributes": {
+        "category": "fontSize",
+        "type": "22"
+      },
+      "path": [
+        "fontSize",
+        "22"
+      ]
+    },
+    "23": {
+      "value": "5.25rem",
+      "type": "fontSizes",
+      "filePath": "src/global.json",
+      "isSource": true,
+      "original": {
+        "value": "84",
+        "type": "fontSizes"
+      },
+      "name": "xyz_font_size_23",
+      "attributes": {
+        "category": "fontSize",
+        "type": "23"
+      },
+      "path": [
+        "fontSize",
+        "23"
+      ]
+    },
+    "24": {
+      "value": "5.5rem",
+      "type": "fontSizes",
+      "filePath": "src/global.json",
+      "isSource": true,
+      "original": {
+        "value": "88",
+        "type": "fontSizes"
+      },
+      "name": "xyz_font_size_24",
+      "attributes": {
+        "category": "fontSize",
+        "type": "24"
+      },
+      "path": [
+        "fontSize",
+        "24"
+      ]
+    },
+    "25": {
+      "value": "6.5rem",
+      "type": "fontSizes",
+      "filePath": "src/global.json",
+      "isSource": true,
+      "original": {
+        "value": "104",
+        "type": "fontSizes"
+      },
+      "name": "xyz_font_size_25",
+      "attributes": {
+        "category": "fontSize",
+        "type": "25"
+      },
+      "path": [
+        "fontSize",
+        "25"
+      ]
+    },
+    "26": {
+      "value": "8rem",
+      "type": "fontSizes",
+      "filePath": "src/global.json",
+      "isSource": true,
+      "original": {
+        "value": "128",
+        "type": "fontSizes"
+      },
+      "name": "xyz_font_size_26",
+      "attributes": {
+        "category": "fontSize",
+        "type": "26"
+      },
+      "path": [
+        "fontSize",
+        "26"
+      ]
+    },
+    "27": {
+      "value": "3.5rem",
+      "type": "fontSizes",
+      "filePath": "src/global.json",
+      "isSource": true,
+      "original": {
+        "value": "56",
+        "type": "fontSizes"
+      },
+      "name": "xyz_font_size_27",
+      "attributes": {
+        "category": "fontSize",
+        "type": "27"
+      },
+      "path": [
+        "fontSize",
+        "27"
+      ]
     }
   },
   "letterSpacing": {
     "0": {
-      "value": "0",
+      "value": "0rem",
       "type": "letterSpacing",
       "filePath": "src/global.json",
       "isSource": true,
       "original": {
-        "value": "0",
+        "value": "0%",
         "type": "letterSpacing"
       },
-      "name": "mch_letter_spacing_0",
+      "name": "xyz_letter_spacing_0",
       "attributes": {
         "category": "letterSpacing",
         "type": "0"
@@ -3257,15 +6850,15 @@ module.exports = {
       ]
     },
     "1": {
-      "value": "0%",
+      "value": "0.01875rem",
       "type": "letterSpacing",
       "filePath": "src/global.json",
       "isSource": true,
       "original": {
-        "value": "0%",
+        "value": "0.3%",
         "type": "letterSpacing"
       },
-      "name": "mch_letter_spacing_1",
+      "name": "xyz_letter_spacing_1",
       "attributes": {
         "category": "letterSpacing",
         "type": "1"
@@ -3276,15 +6869,15 @@ module.exports = {
       ]
     },
     "2": {
-      "value": "4",
+      "value": "0.0625rem",
       "type": "letterSpacing",
       "filePath": "src/global.json",
       "isSource": true,
       "original": {
-        "value": "4",
+        "value": "1px",
         "type": "letterSpacing"
       },
-      "name": "mch_letter_spacing_2",
+      "name": "xyz_letter_spacing_2",
       "attributes": {
         "category": "letterSpacing",
         "type": "2"
@@ -3295,15 +6888,15 @@ module.exports = {
       ]
     },
     "3": {
-      "value": "1",
+      "value": "0.25rem",
       "type": "letterSpacing",
       "filePath": "src/global.json",
       "isSource": true,
       "original": {
-        "value": "1",
+        "value": "4px",
         "type": "letterSpacing"
       },
-      "name": "mch_letter_spacing_3",
+      "name": "xyz_letter_spacing_3",
       "attributes": {
         "category": "letterSpacing",
         "type": "3"
@@ -3311,44 +6904,6 @@ module.exports = {
       "path": [
         "letterSpacing",
         "3"
-      ]
-    },
-    "4": {
-      "value": "0.3",
-      "type": "letterSpacing",
-      "filePath": "src/global.json",
-      "isSource": true,
-      "original": {
-        "value": "0.3",
-        "type": "letterSpacing"
-      },
-      "name": "mch_letter_spacing_4",
-      "attributes": {
-        "category": "letterSpacing",
-        "type": "4"
-      },
-      "path": [
-        "letterSpacing",
-        "4"
-      ]
-    },
-    "5": {
-      "value": "0.5%",
-      "type": "letterSpacing",
-      "filePath": "src/global.json",
-      "isSource": true,
-      "original": {
-        "value": "0.5%",
-        "type": "letterSpacing"
-      },
-      "name": "mch_letter_spacing_5",
-      "attributes": {
-        "category": "letterSpacing",
-        "type": "5"
-      },
-      "path": [
-        "letterSpacing",
-        "5"
       ]
     }
   },
@@ -3362,7 +6917,7 @@ module.exports = {
         "value": "0",
         "type": "paragraphSpacing"
       },
-      "name": "mch_paragraph_spacing_0",
+      "name": "xyz_paragraph_spacing_0",
       "attributes": {
         "category": "paragraphSpacing",
         "type": "0"
@@ -3381,7 +6936,7 @@ module.exports = {
         "value": "4",
         "type": "paragraphSpacing"
       },
-      "name": "mch_paragraph_spacing_1",
+      "name": "xyz_paragraph_spacing_1",
       "attributes": {
         "category": "paragraphSpacing",
         "type": "1"
@@ -3392,10 +6947,10 @@ module.exports = {
       ]
     }
   },
-  "Typography": {
-    "Headings": {
-      "XS-SM": {
-        "H1": {
+  "typography": {
+    "headings": {
+      "xsSm": {
+        "display": {
           "fontFamily": {
             "value": "Art Basel Headline",
             "type": "fontFamilies",
@@ -3405,7 +6960,234 @@ module.exports = {
               "value": "{fontFamilies.art-basel-headline}",
               "type": "fontFamilies"
             },
-            "name": "mch_typography_headings_xs_sm_h1_font_family",
+            "name": "xyz_typography_headings_xs_sm_display_font_family",
+            "attributes": {
+              "category": "Typography",
+              "type": "Headings",
+              "item": "XS-SM",
+              "subitem": "Display",
+              "state": "fontFamily"
+            },
+            "path": [
+              "Typography",
+              "Headings",
+              "XS-SM",
+              "Display",
+              "fontFamily"
+            ]
+          },
+          "fontWeight": {
+            "value": "700",
+            "type": "fontWeights",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{fontWeights.art-basel-headline-0}",
+              "type": "fontWeights"
+            },
+            "name": "xyz_typography_headings_xs_sm_display_font_weight",
+            "attributes": {
+              "category": "Typography",
+              "type": "Headings",
+              "item": "XS-SM",
+              "subitem": "Display",
+              "state": "fontWeight"
+            },
+            "path": [
+              "Typography",
+              "Headings",
+              "XS-SM",
+              "Display",
+              "fontWeight"
+            ]
+          },
+          "lineHeight": {
+            "value": "2.5rem",
+            "type": "lineHeights",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{lineHeights.28}",
+              "type": "lineHeights"
+            },
+            "name": "xyz_typography_headings_xs_sm_display_line_height",
+            "attributes": {
+              "category": "Typography",
+              "type": "Headings",
+              "item": "XS-SM",
+              "subitem": "Display",
+              "state": "lineHeight"
+            },
+            "path": [
+              "Typography",
+              "Headings",
+              "XS-SM",
+              "Display",
+              "lineHeight"
+            ]
+          },
+          "fontSize": {
+            "value": "2.5rem",
+            "type": "fontSizes",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{fontSize.12}",
+              "type": "fontSizes"
+            },
+            "name": "xyz_typography_headings_xs_sm_display_font_size",
+            "attributes": {
+              "category": "Typography",
+              "type": "Headings",
+              "item": "XS-SM",
+              "subitem": "Display",
+              "state": "fontSize"
+            },
+            "path": [
+              "Typography",
+              "Headings",
+              "XS-SM",
+              "Display",
+              "fontSize"
+            ]
+          },
+          "letterSpacing": {
+            "value": "0rem",
+            "type": "letterSpacing",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{letterSpacing.0}",
+              "type": "letterSpacing"
+            },
+            "name": "xyz_typography_headings_xs_sm_display_letter_spacing",
+            "attributes": {
+              "category": "Typography",
+              "type": "Headings",
+              "item": "XS-SM",
+              "subitem": "Display",
+              "state": "letterSpacing"
+            },
+            "path": [
+              "Typography",
+              "Headings",
+              "XS-SM",
+              "Display",
+              "letterSpacing"
+            ]
+          },
+          "paragraphSpacing": {
+            "value": "0",
+            "type": "paragraphSpacing",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{paragraphSpacing.0}",
+              "type": "paragraphSpacing"
+            },
+            "name": "xyz_typography_headings_xs_sm_display_paragraph_spacing",
+            "attributes": {
+              "category": "Typography",
+              "type": "Headings",
+              "item": "XS-SM",
+              "subitem": "Display",
+              "state": "paragraphSpacing"
+            },
+            "path": [
+              "Typography",
+              "Headings",
+              "XS-SM",
+              "Display",
+              "paragraphSpacing"
+            ]
+          },
+          "paragraphIndent": {
+            "value": 0,
+            "type": "paragraphIndent",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{paragraphIndent.0}",
+              "type": "paragraphIndent"
+            },
+            "name": "xyz_typography_headings_xs_sm_display_paragraph_indent",
+            "attributes": {
+              "category": "Typography",
+              "type": "Headings",
+              "item": "XS-SM",
+              "subitem": "Display",
+              "state": "paragraphIndent"
+            },
+            "path": [
+              "Typography",
+              "Headings",
+              "XS-SM",
+              "Display",
+              "paragraphIndent"
+            ]
+          },
+          "textCase": {
+            "value": "none",
+            "type": "textCase",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{textCase.none}",
+              "type": "textCase"
+            },
+            "name": "xyz_typography_headings_xs_sm_display_text_case",
+            "attributes": {
+              "category": "Typography",
+              "type": "Headings",
+              "item": "XS-SM",
+              "subitem": "Display",
+              "state": "textCase"
+            },
+            "path": [
+              "Typography",
+              "Headings",
+              "XS-SM",
+              "Display",
+              "textCase"
+            ]
+          },
+          "textDecoration": {
+            "value": "none",
+            "type": "textDecoration",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{textDecoration.none}",
+              "type": "textDecoration"
+            },
+            "name": "xyz_typography_headings_xs_sm_display_text_decoration",
+            "attributes": {
+              "category": "Typography",
+              "type": "Headings",
+              "item": "XS-SM",
+              "subitem": "Display",
+              "state": "textDecoration"
+            },
+            "path": [
+              "Typography",
+              "Headings",
+              "XS-SM",
+              "Display",
+              "textDecoration"
+            ]
+          }
+        },
+        "h1": {
+          "fontFamily": {
+            "value": "Art Basel Headline",
+            "type": "fontFamilies",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{fontFamilies.art-basel-headline}",
+              "type": "fontFamilies"
+            },
+            "name": "xyz_typography_headings_xs_sm_h1_font_family",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -3430,7 +7212,7 @@ module.exports = {
               "value": "{fontWeights.art-basel-headline-0}",
               "type": "fontWeights"
             },
-            "name": "mch_typography_headings_xs_sm_h1_font_weight",
+            "name": "xyz_typography_headings_xs_sm_h1_font_weight",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -3455,7 +7237,7 @@ module.exports = {
               "value": "{lineHeights.0}",
               "type": "lineHeights"
             },
-            "name": "mch_typography_headings_xs_sm_h1_line_height",
+            "name": "xyz_typography_headings_xs_sm_h1_line_height",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -3480,7 +7262,7 @@ module.exports = {
               "value": "{fontSize.7}",
               "type": "fontSizes"
             },
-            "name": "mch_typography_headings_xs_sm_h1_font_size",
+            "name": "xyz_typography_headings_xs_sm_h1_font_size",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -3497,7 +7279,7 @@ module.exports = {
             ]
           },
           "letterSpacing": {
-            "value": "0",
+            "value": "0rem",
             "type": "letterSpacing",
             "filePath": "src/global.json",
             "isSource": true,
@@ -3505,7 +7287,7 @@ module.exports = {
               "value": "{letterSpacing.0}",
               "type": "letterSpacing"
             },
-            "name": "mch_typography_headings_xs_sm_h1_letter_spacing",
+            "name": "xyz_typography_headings_xs_sm_h1_letter_spacing",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -3530,7 +7312,7 @@ module.exports = {
               "value": "{paragraphSpacing.0}",
               "type": "paragraphSpacing"
             },
-            "name": "mch_typography_headings_xs_sm_h1_paragraph_spacing",
+            "name": "xyz_typography_headings_xs_sm_h1_paragraph_spacing",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -3555,7 +7337,7 @@ module.exports = {
               "value": "{paragraphIndent.0}",
               "type": "paragraphIndent"
             },
-            "name": "mch_typography_headings_xs_sm_h1_paragraph_indent",
+            "name": "xyz_typography_headings_xs_sm_h1_paragraph_indent",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -3580,7 +7362,7 @@ module.exports = {
               "value": "{textCase.none}",
               "type": "textCase"
             },
-            "name": "mch_typography_headings_xs_sm_h1_text_case",
+            "name": "xyz_typography_headings_xs_sm_h1_text_case",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -3605,7 +7387,7 @@ module.exports = {
               "value": "{textDecoration.none}",
               "type": "textDecoration"
             },
-            "name": "mch_typography_headings_xs_sm_h1_text_decoration",
+            "name": "xyz_typography_headings_xs_sm_h1_text_decoration",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -3622,7 +7404,7 @@ module.exports = {
             ]
           }
         },
-        "H2": {
+        "h2": {
           "fontFamily": {
             "value": "Art Basel Headline",
             "type": "fontFamilies",
@@ -3632,7 +7414,7 @@ module.exports = {
               "value": "{fontFamilies.art-basel-headline}",
               "type": "fontFamilies"
             },
-            "name": "mch_typography_headings_xs_sm_h2_font_family",
+            "name": "xyz_typography_headings_xs_sm_h2_font_family",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -3657,7 +7439,7 @@ module.exports = {
               "value": "{fontWeights.art-basel-headline-0}",
               "type": "fontWeights"
             },
-            "name": "mch_typography_headings_xs_sm_h2_font_weight",
+            "name": "xyz_typography_headings_xs_sm_h2_font_weight",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -3682,7 +7464,7 @@ module.exports = {
               "value": "{lineHeights.1}",
               "type": "lineHeights"
             },
-            "name": "mch_typography_headings_xs_sm_h2_line_height",
+            "name": "xyz_typography_headings_xs_sm_h2_line_height",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -3707,7 +7489,7 @@ module.exports = {
               "value": "{fontSize.6}",
               "type": "fontSizes"
             },
-            "name": "mch_typography_headings_xs_sm_h2_font_size",
+            "name": "xyz_typography_headings_xs_sm_h2_font_size",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -3724,7 +7506,7 @@ module.exports = {
             ]
           },
           "letterSpacing": {
-            "value": "0",
+            "value": "0rem",
             "type": "letterSpacing",
             "filePath": "src/global.json",
             "isSource": true,
@@ -3732,7 +7514,7 @@ module.exports = {
               "value": "{letterSpacing.0}",
               "type": "letterSpacing"
             },
-            "name": "mch_typography_headings_xs_sm_h2_letter_spacing",
+            "name": "xyz_typography_headings_xs_sm_h2_letter_spacing",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -3757,7 +7539,7 @@ module.exports = {
               "value": "{paragraphSpacing.0}",
               "type": "paragraphSpacing"
             },
-            "name": "mch_typography_headings_xs_sm_h2_paragraph_spacing",
+            "name": "xyz_typography_headings_xs_sm_h2_paragraph_spacing",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -3782,7 +7564,7 @@ module.exports = {
               "value": "{paragraphIndent.0}",
               "type": "paragraphIndent"
             },
-            "name": "mch_typography_headings_xs_sm_h2_paragraph_indent",
+            "name": "xyz_typography_headings_xs_sm_h2_paragraph_indent",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -3807,7 +7589,7 @@ module.exports = {
               "value": "{textCase.none}",
               "type": "textCase"
             },
-            "name": "mch_typography_headings_xs_sm_h2_text_case",
+            "name": "xyz_typography_headings_xs_sm_h2_text_case",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -3832,7 +7614,7 @@ module.exports = {
               "value": "{textDecoration.none}",
               "type": "textDecoration"
             },
-            "name": "mch_typography_headings_xs_sm_h2_text_decoration",
+            "name": "xyz_typography_headings_xs_sm_h2_text_decoration",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -3849,7 +7631,7 @@ module.exports = {
             ]
           }
         },
-        "H3": {
+        "h3": {
           "fontFamily": {
             "value": "Art Basel Headline",
             "type": "fontFamilies",
@@ -3859,7 +7641,7 @@ module.exports = {
               "value": "{fontFamilies.art-basel-headline}",
               "type": "fontFamilies"
             },
-            "name": "mch_typography_headings_xs_sm_h3_font_family",
+            "name": "xyz_typography_headings_xs_sm_h3_font_family",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -3884,7 +7666,7 @@ module.exports = {
               "value": "{fontWeights.art-basel-headline-0}",
               "type": "fontWeights"
             },
-            "name": "mch_typography_headings_xs_sm_h3_font_weight",
+            "name": "xyz_typography_headings_xs_sm_h3_font_weight",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -3909,7 +7691,7 @@ module.exports = {
               "value": "{lineHeights.2}",
               "type": "lineHeights"
             },
-            "name": "mch_typography_headings_xs_sm_h3_line_height",
+            "name": "xyz_typography_headings_xs_sm_h3_line_height",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -3934,7 +7716,7 @@ module.exports = {
               "value": "{fontSize.5}",
               "type": "fontSizes"
             },
-            "name": "mch_typography_headings_xs_sm_h3_font_size",
+            "name": "xyz_typography_headings_xs_sm_h3_font_size",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -3951,7 +7733,7 @@ module.exports = {
             ]
           },
           "letterSpacing": {
-            "value": "0",
+            "value": "0rem",
             "type": "letterSpacing",
             "filePath": "src/global.json",
             "isSource": true,
@@ -3959,7 +7741,7 @@ module.exports = {
               "value": "{letterSpacing.0}",
               "type": "letterSpacing"
             },
-            "name": "mch_typography_headings_xs_sm_h3_letter_spacing",
+            "name": "xyz_typography_headings_xs_sm_h3_letter_spacing",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -3984,7 +7766,7 @@ module.exports = {
               "value": "{paragraphSpacing.0}",
               "type": "paragraphSpacing"
             },
-            "name": "mch_typography_headings_xs_sm_h3_paragraph_spacing",
+            "name": "xyz_typography_headings_xs_sm_h3_paragraph_spacing",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -4009,7 +7791,7 @@ module.exports = {
               "value": "{paragraphIndent.0}",
               "type": "paragraphIndent"
             },
-            "name": "mch_typography_headings_xs_sm_h3_paragraph_indent",
+            "name": "xyz_typography_headings_xs_sm_h3_paragraph_indent",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -4034,7 +7816,7 @@ module.exports = {
               "value": "{textCase.none}",
               "type": "textCase"
             },
-            "name": "mch_typography_headings_xs_sm_h3_text_case",
+            "name": "xyz_typography_headings_xs_sm_h3_text_case",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -4059,7 +7841,7 @@ module.exports = {
               "value": "{textDecoration.none}",
               "type": "textDecoration"
             },
-            "name": "mch_typography_headings_xs_sm_h3_text_decoration",
+            "name": "xyz_typography_headings_xs_sm_h3_text_decoration",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -4076,7 +7858,7 @@ module.exports = {
             ]
           }
         },
-        "H4": {
+        "h4": {
           "fontFamily": {
             "value": "Art Basel Headline",
             "type": "fontFamilies",
@@ -4086,7 +7868,7 @@ module.exports = {
               "value": "{fontFamilies.art-basel-headline}",
               "type": "fontFamilies"
             },
-            "name": "mch_typography_headings_xs_sm_h4_font_family",
+            "name": "xyz_typography_headings_xs_sm_h4_font_family",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -4111,7 +7893,7 @@ module.exports = {
               "value": "{fontWeights.art-basel-headline-0}",
               "type": "fontWeights"
             },
-            "name": "mch_typography_headings_xs_sm_h4_font_weight",
+            "name": "xyz_typography_headings_xs_sm_h4_font_weight",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -4136,7 +7918,7 @@ module.exports = {
               "value": "{lineHeights.3}",
               "type": "lineHeights"
             },
-            "name": "mch_typography_headings_xs_sm_h4_line_height",
+            "name": "xyz_typography_headings_xs_sm_h4_line_height",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -4161,7 +7943,7 @@ module.exports = {
               "value": "{fontSize.4}",
               "type": "fontSizes"
             },
-            "name": "mch_typography_headings_xs_sm_h4_font_size",
+            "name": "xyz_typography_headings_xs_sm_h4_font_size",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -4178,7 +7960,7 @@ module.exports = {
             ]
           },
           "letterSpacing": {
-            "value": "0",
+            "value": "0rem",
             "type": "letterSpacing",
             "filePath": "src/global.json",
             "isSource": true,
@@ -4186,7 +7968,7 @@ module.exports = {
               "value": "{letterSpacing.0}",
               "type": "letterSpacing"
             },
-            "name": "mch_typography_headings_xs_sm_h4_letter_spacing",
+            "name": "xyz_typography_headings_xs_sm_h4_letter_spacing",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -4211,7 +7993,7 @@ module.exports = {
               "value": "{paragraphSpacing.0}",
               "type": "paragraphSpacing"
             },
-            "name": "mch_typography_headings_xs_sm_h4_paragraph_spacing",
+            "name": "xyz_typography_headings_xs_sm_h4_paragraph_spacing",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -4236,7 +8018,7 @@ module.exports = {
               "value": "{paragraphIndent.0}",
               "type": "paragraphIndent"
             },
-            "name": "mch_typography_headings_xs_sm_h4_paragraph_indent",
+            "name": "xyz_typography_headings_xs_sm_h4_paragraph_indent",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -4261,7 +8043,7 @@ module.exports = {
               "value": "{textCase.none}",
               "type": "textCase"
             },
-            "name": "mch_typography_headings_xs_sm_h4_text_case",
+            "name": "xyz_typography_headings_xs_sm_h4_text_case",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -4286,7 +8068,7 @@ module.exports = {
               "value": "{textDecoration.none}",
               "type": "textDecoration"
             },
-            "name": "mch_typography_headings_xs_sm_h4_text_decoration",
+            "name": "xyz_typography_headings_xs_sm_h4_text_decoration",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -4303,7 +8085,7 @@ module.exports = {
             ]
           }
         },
-        "H5": {
+        "h5": {
           "fontFamily": {
             "value": "Art Basel Headline",
             "type": "fontFamilies",
@@ -4313,7 +8095,7 @@ module.exports = {
               "value": "{fontFamilies.art-basel-headline}",
               "type": "fontFamilies"
             },
-            "name": "mch_typography_headings_xs_sm_h5_font_family",
+            "name": "xyz_typography_headings_xs_sm_h5_font_family",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -4338,7 +8120,7 @@ module.exports = {
               "value": "{fontWeights.art-basel-headline-0}",
               "type": "fontWeights"
             },
-            "name": "mch_typography_headings_xs_sm_h5_font_weight",
+            "name": "xyz_typography_headings_xs_sm_h5_font_weight",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -4363,7 +8145,7 @@ module.exports = {
               "value": "{lineHeights.4}",
               "type": "lineHeights"
             },
-            "name": "mch_typography_headings_xs_sm_h5_line_height",
+            "name": "xyz_typography_headings_xs_sm_h5_line_height",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -4388,7 +8170,7 @@ module.exports = {
               "value": "{fontSize.3}",
               "type": "fontSizes"
             },
-            "name": "mch_typography_headings_xs_sm_h5_font_size",
+            "name": "xyz_typography_headings_xs_sm_h5_font_size",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -4405,7 +8187,7 @@ module.exports = {
             ]
           },
           "letterSpacing": {
-            "value": "0",
+            "value": "0rem",
             "type": "letterSpacing",
             "filePath": "src/global.json",
             "isSource": true,
@@ -4413,7 +8195,7 @@ module.exports = {
               "value": "{letterSpacing.0}",
               "type": "letterSpacing"
             },
-            "name": "mch_typography_headings_xs_sm_h5_letter_spacing",
+            "name": "xyz_typography_headings_xs_sm_h5_letter_spacing",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -4438,7 +8220,7 @@ module.exports = {
               "value": "{paragraphSpacing.0}",
               "type": "paragraphSpacing"
             },
-            "name": "mch_typography_headings_xs_sm_h5_paragraph_spacing",
+            "name": "xyz_typography_headings_xs_sm_h5_paragraph_spacing",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -4463,7 +8245,7 @@ module.exports = {
               "value": "{paragraphIndent.0}",
               "type": "paragraphIndent"
             },
-            "name": "mch_typography_headings_xs_sm_h5_paragraph_indent",
+            "name": "xyz_typography_headings_xs_sm_h5_paragraph_indent",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -4488,7 +8270,7 @@ module.exports = {
               "value": "{textCase.none}",
               "type": "textCase"
             },
-            "name": "mch_typography_headings_xs_sm_h5_text_case",
+            "name": "xyz_typography_headings_xs_sm_h5_text_case",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -4513,7 +8295,7 @@ module.exports = {
               "value": "{textDecoration.none}",
               "type": "textDecoration"
             },
-            "name": "mch_typography_headings_xs_sm_h5_text_decoration",
+            "name": "xyz_typography_headings_xs_sm_h5_text_decoration",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -4531,8 +8313,8 @@ module.exports = {
           }
         }
       },
-      "XL": {
-        "H1": {
+      "xl": {
+        "display": {
           "fontFamily": {
             "value": "Art Basel Headline",
             "type": "fontFamilies",
@@ -4542,7 +8324,234 @@ module.exports = {
               "value": "{fontFamilies.art-basel-headline}",
               "type": "fontFamilies"
             },
-            "name": "mch_typography_headings_xl_h1_font_family",
+            "name": "xyz_typography_headings_xl_display_font_family",
+            "attributes": {
+              "category": "Typography",
+              "type": "Headings",
+              "item": "XL",
+              "subitem": "Display",
+              "state": "fontFamily"
+            },
+            "path": [
+              "Typography",
+              "Headings",
+              "XL",
+              "Display",
+              "fontFamily"
+            ]
+          },
+          "fontWeight": {
+            "value": "700",
+            "type": "fontWeights",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{fontWeights.art-basel-headline-0}",
+              "type": "fontWeights"
+            },
+            "name": "xyz_typography_headings_xl_display_font_weight",
+            "attributes": {
+              "category": "Typography",
+              "type": "Headings",
+              "item": "XL",
+              "subitem": "Display",
+              "state": "fontWeight"
+            },
+            "path": [
+              "Typography",
+              "Headings",
+              "XL",
+              "Display",
+              "fontWeight"
+            ]
+          },
+          "lineHeight": {
+            "value": "4rem",
+            "type": "lineHeights",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{lineHeights.17}",
+              "type": "lineHeights"
+            },
+            "name": "xyz_typography_headings_xl_display_line_height",
+            "attributes": {
+              "category": "Typography",
+              "type": "Headings",
+              "item": "XL",
+              "subitem": "Display",
+              "state": "lineHeight"
+            },
+            "path": [
+              "Typography",
+              "Headings",
+              "XL",
+              "Display",
+              "lineHeight"
+            ]
+          },
+          "fontSize": {
+            "value": "4rem",
+            "type": "fontSizes",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{fontSize.20}",
+              "type": "fontSizes"
+            },
+            "name": "xyz_typography_headings_xl_display_font_size",
+            "attributes": {
+              "category": "Typography",
+              "type": "Headings",
+              "item": "XL",
+              "subitem": "Display",
+              "state": "fontSize"
+            },
+            "path": [
+              "Typography",
+              "Headings",
+              "XL",
+              "Display",
+              "fontSize"
+            ]
+          },
+          "letterSpacing": {
+            "value": "0rem",
+            "type": "letterSpacing",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{letterSpacing.0}",
+              "type": "letterSpacing"
+            },
+            "name": "xyz_typography_headings_xl_display_letter_spacing",
+            "attributes": {
+              "category": "Typography",
+              "type": "Headings",
+              "item": "XL",
+              "subitem": "Display",
+              "state": "letterSpacing"
+            },
+            "path": [
+              "Typography",
+              "Headings",
+              "XL",
+              "Display",
+              "letterSpacing"
+            ]
+          },
+          "paragraphSpacing": {
+            "value": "0",
+            "type": "paragraphSpacing",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{paragraphSpacing.0}",
+              "type": "paragraphSpacing"
+            },
+            "name": "xyz_typography_headings_xl_display_paragraph_spacing",
+            "attributes": {
+              "category": "Typography",
+              "type": "Headings",
+              "item": "XL",
+              "subitem": "Display",
+              "state": "paragraphSpacing"
+            },
+            "path": [
+              "Typography",
+              "Headings",
+              "XL",
+              "Display",
+              "paragraphSpacing"
+            ]
+          },
+          "paragraphIndent": {
+            "value": 0,
+            "type": "paragraphIndent",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{paragraphIndent.0}",
+              "type": "paragraphIndent"
+            },
+            "name": "xyz_typography_headings_xl_display_paragraph_indent",
+            "attributes": {
+              "category": "Typography",
+              "type": "Headings",
+              "item": "XL",
+              "subitem": "Display",
+              "state": "paragraphIndent"
+            },
+            "path": [
+              "Typography",
+              "Headings",
+              "XL",
+              "Display",
+              "paragraphIndent"
+            ]
+          },
+          "textCase": {
+            "value": "none",
+            "type": "textCase",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{textCase.none}",
+              "type": "textCase"
+            },
+            "name": "xyz_typography_headings_xl_display_text_case",
+            "attributes": {
+              "category": "Typography",
+              "type": "Headings",
+              "item": "XL",
+              "subitem": "Display",
+              "state": "textCase"
+            },
+            "path": [
+              "Typography",
+              "Headings",
+              "XL",
+              "Display",
+              "textCase"
+            ]
+          },
+          "textDecoration": {
+            "value": "none",
+            "type": "textDecoration",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{textDecoration.none}",
+              "type": "textDecoration"
+            },
+            "name": "xyz_typography_headings_xl_display_text_decoration",
+            "attributes": {
+              "category": "Typography",
+              "type": "Headings",
+              "item": "XL",
+              "subitem": "Display",
+              "state": "textDecoration"
+            },
+            "path": [
+              "Typography",
+              "Headings",
+              "XL",
+              "Display",
+              "textDecoration"
+            ]
+          }
+        },
+        "h1": {
+          "fontFamily": {
+            "value": "Art Basel Headline",
+            "type": "fontFamilies",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{fontFamilies.art-basel-headline}",
+              "type": "fontFamilies"
+            },
+            "name": "xyz_typography_headings_xl_h1_font_family",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -4567,7 +8576,7 @@ module.exports = {
               "value": "{fontWeights.art-basel-headline-0}",
               "type": "fontWeights"
             },
-            "name": "mch_typography_headings_xl_h1_font_weight",
+            "name": "xyz_typography_headings_xl_h1_font_weight",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -4592,7 +8601,7 @@ module.exports = {
               "value": "{lineHeights.5}",
               "type": "lineHeights"
             },
-            "name": "mch_typography_headings_xl_h1_line_height",
+            "name": "xyz_typography_headings_xl_h1_line_height",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -4617,7 +8626,7 @@ module.exports = {
               "value": "{fontSize.13}",
               "type": "fontSizes"
             },
-            "name": "mch_typography_headings_xl_h1_font_size",
+            "name": "xyz_typography_headings_xl_h1_font_size",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -4634,7 +8643,7 @@ module.exports = {
             ]
           },
           "letterSpacing": {
-            "value": "0",
+            "value": "0rem",
             "type": "letterSpacing",
             "filePath": "src/global.json",
             "isSource": true,
@@ -4642,7 +8651,7 @@ module.exports = {
               "value": "{letterSpacing.0}",
               "type": "letterSpacing"
             },
-            "name": "mch_typography_headings_xl_h1_letter_spacing",
+            "name": "xyz_typography_headings_xl_h1_letter_spacing",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -4667,7 +8676,7 @@ module.exports = {
               "value": "{paragraphSpacing.0}",
               "type": "paragraphSpacing"
             },
-            "name": "mch_typography_headings_xl_h1_paragraph_spacing",
+            "name": "xyz_typography_headings_xl_h1_paragraph_spacing",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -4692,7 +8701,7 @@ module.exports = {
               "value": "{paragraphIndent.0}",
               "type": "paragraphIndent"
             },
-            "name": "mch_typography_headings_xl_h1_paragraph_indent",
+            "name": "xyz_typography_headings_xl_h1_paragraph_indent",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -4717,7 +8726,7 @@ module.exports = {
               "value": "{textCase.none}",
               "type": "textCase"
             },
-            "name": "mch_typography_headings_xl_h1_text_case",
+            "name": "xyz_typography_headings_xl_h1_text_case",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -4742,7 +8751,7 @@ module.exports = {
               "value": "{textDecoration.none}",
               "type": "textDecoration"
             },
-            "name": "mch_typography_headings_xl_h1_text_decoration",
+            "name": "xyz_typography_headings_xl_h1_text_decoration",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -4759,7 +8768,7 @@ module.exports = {
             ]
           }
         },
-        "H2": {
+        "h2": {
           "fontFamily": {
             "value": "Art Basel Headline",
             "type": "fontFamilies",
@@ -4769,7 +8778,7 @@ module.exports = {
               "value": "{fontFamilies.art-basel-headline}",
               "type": "fontFamilies"
             },
-            "name": "mch_typography_headings_xl_h2_font_family",
+            "name": "xyz_typography_headings_xl_h2_font_family",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -4794,7 +8803,7 @@ module.exports = {
               "value": "{fontWeights.art-basel-headline-0}",
               "type": "fontWeights"
             },
-            "name": "mch_typography_headings_xl_h2_font_weight",
+            "name": "xyz_typography_headings_xl_h2_font_weight",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -4819,7 +8828,7 @@ module.exports = {
               "value": "{lineHeights.6}",
               "type": "lineHeights"
             },
-            "name": "mch_typography_headings_xl_h2_line_height",
+            "name": "xyz_typography_headings_xl_h2_line_height",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -4844,7 +8853,7 @@ module.exports = {
               "value": "{fontSize.10}",
               "type": "fontSizes"
             },
-            "name": "mch_typography_headings_xl_h2_font_size",
+            "name": "xyz_typography_headings_xl_h2_font_size",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -4861,7 +8870,7 @@ module.exports = {
             ]
           },
           "letterSpacing": {
-            "value": "0",
+            "value": "0rem",
             "type": "letterSpacing",
             "filePath": "src/global.json",
             "isSource": true,
@@ -4869,7 +8878,7 @@ module.exports = {
               "value": "{letterSpacing.0}",
               "type": "letterSpacing"
             },
-            "name": "mch_typography_headings_xl_h2_letter_spacing",
+            "name": "xyz_typography_headings_xl_h2_letter_spacing",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -4894,7 +8903,7 @@ module.exports = {
               "value": "{paragraphSpacing.0}",
               "type": "paragraphSpacing"
             },
-            "name": "mch_typography_headings_xl_h2_paragraph_spacing",
+            "name": "xyz_typography_headings_xl_h2_paragraph_spacing",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -4919,7 +8928,7 @@ module.exports = {
               "value": "{paragraphIndent.0}",
               "type": "paragraphIndent"
             },
-            "name": "mch_typography_headings_xl_h2_paragraph_indent",
+            "name": "xyz_typography_headings_xl_h2_paragraph_indent",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -4944,7 +8953,7 @@ module.exports = {
               "value": "{textCase.none}",
               "type": "textCase"
             },
-            "name": "mch_typography_headings_xl_h2_text_case",
+            "name": "xyz_typography_headings_xl_h2_text_case",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -4969,7 +8978,7 @@ module.exports = {
               "value": "{textDecoration.none}",
               "type": "textDecoration"
             },
-            "name": "mch_typography_headings_xl_h2_text_decoration",
+            "name": "xyz_typography_headings_xl_h2_text_decoration",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -4986,7 +8995,7 @@ module.exports = {
             ]
           }
         },
-        "H3": {
+        "h3": {
           "fontFamily": {
             "value": "Art Basel Headline",
             "type": "fontFamilies",
@@ -4996,7 +9005,7 @@ module.exports = {
               "value": "{fontFamilies.art-basel-headline}",
               "type": "fontFamilies"
             },
-            "name": "mch_typography_headings_xl_h3_font_family",
+            "name": "xyz_typography_headings_xl_h3_font_family",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -5021,7 +9030,7 @@ module.exports = {
               "value": "{fontWeights.art-basel-headline-0}",
               "type": "fontWeights"
             },
-            "name": "mch_typography_headings_xl_h3_font_weight",
+            "name": "xyz_typography_headings_xl_h3_font_weight",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -5046,7 +9055,7 @@ module.exports = {
               "value": "{lineHeights.7}",
               "type": "lineHeights"
             },
-            "name": "mch_typography_headings_xl_h3_line_height",
+            "name": "xyz_typography_headings_xl_h3_line_height",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -5071,7 +9080,7 @@ module.exports = {
               "value": "{fontSize.7}",
               "type": "fontSizes"
             },
-            "name": "mch_typography_headings_xl_h3_font_size",
+            "name": "xyz_typography_headings_xl_h3_font_size",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -5088,7 +9097,7 @@ module.exports = {
             ]
           },
           "letterSpacing": {
-            "value": "0",
+            "value": "0rem",
             "type": "letterSpacing",
             "filePath": "src/global.json",
             "isSource": true,
@@ -5096,7 +9105,7 @@ module.exports = {
               "value": "{letterSpacing.0}",
               "type": "letterSpacing"
             },
-            "name": "mch_typography_headings_xl_h3_letter_spacing",
+            "name": "xyz_typography_headings_xl_h3_letter_spacing",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -5121,7 +9130,7 @@ module.exports = {
               "value": "{paragraphSpacing.0}",
               "type": "paragraphSpacing"
             },
-            "name": "mch_typography_headings_xl_h3_paragraph_spacing",
+            "name": "xyz_typography_headings_xl_h3_paragraph_spacing",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -5146,7 +9155,7 @@ module.exports = {
               "value": "{paragraphIndent.0}",
               "type": "paragraphIndent"
             },
-            "name": "mch_typography_headings_xl_h3_paragraph_indent",
+            "name": "xyz_typography_headings_xl_h3_paragraph_indent",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -5171,7 +9180,7 @@ module.exports = {
               "value": "{textCase.none}",
               "type": "textCase"
             },
-            "name": "mch_typography_headings_xl_h3_text_case",
+            "name": "xyz_typography_headings_xl_h3_text_case",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -5196,7 +9205,7 @@ module.exports = {
               "value": "{textDecoration.none}",
               "type": "textDecoration"
             },
-            "name": "mch_typography_headings_xl_h3_text_decoration",
+            "name": "xyz_typography_headings_xl_h3_text_decoration",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -5213,7 +9222,7 @@ module.exports = {
             ]
           }
         },
-        "H4": {
+        "h4": {
           "fontFamily": {
             "value": "Art Basel Headline",
             "type": "fontFamilies",
@@ -5223,7 +9232,7 @@ module.exports = {
               "value": "{fontFamilies.art-basel-headline}",
               "type": "fontFamilies"
             },
-            "name": "mch_typography_headings_xl_h4_font_family",
+            "name": "xyz_typography_headings_xl_h4_font_family",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -5248,7 +9257,7 @@ module.exports = {
               "value": "{fontWeights.art-basel-headline-0}",
               "type": "fontWeights"
             },
-            "name": "mch_typography_headings_xl_h4_font_weight",
+            "name": "xyz_typography_headings_xl_h4_font_weight",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -5273,7 +9282,7 @@ module.exports = {
               "value": "{lineHeights.2}",
               "type": "lineHeights"
             },
-            "name": "mch_typography_headings_xl_h4_line_height",
+            "name": "xyz_typography_headings_xl_h4_line_height",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -5298,7 +9307,7 @@ module.exports = {
               "value": "{fontSize.5}",
               "type": "fontSizes"
             },
-            "name": "mch_typography_headings_xl_h4_font_size",
+            "name": "xyz_typography_headings_xl_h4_font_size",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -5315,7 +9324,7 @@ module.exports = {
             ]
           },
           "letterSpacing": {
-            "value": "0",
+            "value": "0rem",
             "type": "letterSpacing",
             "filePath": "src/global.json",
             "isSource": true,
@@ -5323,7 +9332,7 @@ module.exports = {
               "value": "{letterSpacing.0}",
               "type": "letterSpacing"
             },
-            "name": "mch_typography_headings_xl_h4_letter_spacing",
+            "name": "xyz_typography_headings_xl_h4_letter_spacing",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -5348,7 +9357,7 @@ module.exports = {
               "value": "{paragraphSpacing.0}",
               "type": "paragraphSpacing"
             },
-            "name": "mch_typography_headings_xl_h4_paragraph_spacing",
+            "name": "xyz_typography_headings_xl_h4_paragraph_spacing",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -5373,7 +9382,7 @@ module.exports = {
               "value": "{paragraphIndent.0}",
               "type": "paragraphIndent"
             },
-            "name": "mch_typography_headings_xl_h4_paragraph_indent",
+            "name": "xyz_typography_headings_xl_h4_paragraph_indent",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -5398,7 +9407,7 @@ module.exports = {
               "value": "{textCase.none}",
               "type": "textCase"
             },
-            "name": "mch_typography_headings_xl_h4_text_case",
+            "name": "xyz_typography_headings_xl_h4_text_case",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -5423,7 +9432,7 @@ module.exports = {
               "value": "{textDecoration.none}",
               "type": "textDecoration"
             },
-            "name": "mch_typography_headings_xl_h4_text_decoration",
+            "name": "xyz_typography_headings_xl_h4_text_decoration",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -5440,7 +9449,7 @@ module.exports = {
             ]
           }
         },
-        "H5": {
+        "h5": {
           "fontFamily": {
             "value": "Art Basel Headline",
             "type": "fontFamilies",
@@ -5450,7 +9459,7 @@ module.exports = {
               "value": "{fontFamilies.art-basel-headline}",
               "type": "fontFamilies"
             },
-            "name": "mch_typography_headings_xl_h5_font_family",
+            "name": "xyz_typography_headings_xl_h5_font_family",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -5475,7 +9484,7 @@ module.exports = {
               "value": "{fontWeights.art-basel-headline-0}",
               "type": "fontWeights"
             },
-            "name": "mch_typography_headings_xl_h5_font_weight",
+            "name": "xyz_typography_headings_xl_h5_font_weight",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -5500,7 +9509,7 @@ module.exports = {
               "value": "{lineHeights.4}",
               "type": "lineHeights"
             },
-            "name": "mch_typography_headings_xl_h5_line_height",
+            "name": "xyz_typography_headings_xl_h5_line_height",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -5525,7 +9534,7 @@ module.exports = {
               "value": "{fontSize.3}",
               "type": "fontSizes"
             },
-            "name": "mch_typography_headings_xl_h5_font_size",
+            "name": "xyz_typography_headings_xl_h5_font_size",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -5542,7 +9551,7 @@ module.exports = {
             ]
           },
           "letterSpacing": {
-            "value": "0",
+            "value": "0rem",
             "type": "letterSpacing",
             "filePath": "src/global.json",
             "isSource": true,
@@ -5550,7 +9559,7 @@ module.exports = {
               "value": "{letterSpacing.0}",
               "type": "letterSpacing"
             },
-            "name": "mch_typography_headings_xl_h5_letter_spacing",
+            "name": "xyz_typography_headings_xl_h5_letter_spacing",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -5575,7 +9584,7 @@ module.exports = {
               "value": "{paragraphSpacing.0}",
               "type": "paragraphSpacing"
             },
-            "name": "mch_typography_headings_xl_h5_paragraph_spacing",
+            "name": "xyz_typography_headings_xl_h5_paragraph_spacing",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -5600,7 +9609,7 @@ module.exports = {
               "value": "{paragraphIndent.0}",
               "type": "paragraphIndent"
             },
-            "name": "mch_typography_headings_xl_h5_paragraph_indent",
+            "name": "xyz_typography_headings_xl_h5_paragraph_indent",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -5625,7 +9634,7 @@ module.exports = {
               "value": "{textCase.none}",
               "type": "textCase"
             },
-            "name": "mch_typography_headings_xl_h5_text_case",
+            "name": "xyz_typography_headings_xl_h5_text_case",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -5650,7 +9659,7 @@ module.exports = {
               "value": "{textDecoration.none}",
               "type": "textDecoration"
             },
-            "name": "mch_typography_headings_xl_h5_text_decoration",
+            "name": "xyz_typography_headings_xl_h5_text_decoration",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -5668,8 +9677,8 @@ module.exports = {
           }
         }
       },
-      "MD": {
-        "H1": {
+      "md": {
+        "display": {
           "fontFamily": {
             "value": "Art Basel Headline",
             "type": "fontFamilies",
@@ -5679,7 +9688,234 @@ module.exports = {
               "value": "{fontFamilies.art-basel-headline}",
               "type": "fontFamilies"
             },
-            "name": "mch_typography_headings_md_h1_font_family",
+            "name": "xyz_typography_headings_md_display_font_family",
+            "attributes": {
+              "category": "Typography",
+              "type": "Headings",
+              "item": "MD",
+              "subitem": "Display",
+              "state": "fontFamily"
+            },
+            "path": [
+              "Typography",
+              "Headings",
+              "MD",
+              "Display",
+              "fontFamily"
+            ]
+          },
+          "fontWeight": {
+            "value": "700",
+            "type": "fontWeights",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{fontWeights.art-basel-headline-0}",
+              "type": "fontWeights"
+            },
+            "name": "xyz_typography_headings_md_display_font_weight",
+            "attributes": {
+              "category": "Typography",
+              "type": "Headings",
+              "item": "MD",
+              "subitem": "Display",
+              "state": "fontWeight"
+            },
+            "path": [
+              "Typography",
+              "Headings",
+              "MD",
+              "Display",
+              "fontWeight"
+            ]
+          },
+          "lineHeight": {
+            "value": "3rem",
+            "type": "lineHeights",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{lineHeights.5}",
+              "type": "lineHeights"
+            },
+            "name": "xyz_typography_headings_md_display_line_height",
+            "attributes": {
+              "category": "Typography",
+              "type": "Headings",
+              "item": "MD",
+              "subitem": "Display",
+              "state": "lineHeight"
+            },
+            "path": [
+              "Typography",
+              "Headings",
+              "MD",
+              "Display",
+              "lineHeight"
+            ]
+          },
+          "fontSize": {
+            "value": "3rem",
+            "type": "fontSizes",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{fontSize.14}",
+              "type": "fontSizes"
+            },
+            "name": "xyz_typography_headings_md_display_font_size",
+            "attributes": {
+              "category": "Typography",
+              "type": "Headings",
+              "item": "MD",
+              "subitem": "Display",
+              "state": "fontSize"
+            },
+            "path": [
+              "Typography",
+              "Headings",
+              "MD",
+              "Display",
+              "fontSize"
+            ]
+          },
+          "letterSpacing": {
+            "value": "0rem",
+            "type": "letterSpacing",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{letterSpacing.0}",
+              "type": "letterSpacing"
+            },
+            "name": "xyz_typography_headings_md_display_letter_spacing",
+            "attributes": {
+              "category": "Typography",
+              "type": "Headings",
+              "item": "MD",
+              "subitem": "Display",
+              "state": "letterSpacing"
+            },
+            "path": [
+              "Typography",
+              "Headings",
+              "MD",
+              "Display",
+              "letterSpacing"
+            ]
+          },
+          "paragraphSpacing": {
+            "value": "4",
+            "type": "paragraphSpacing",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{paragraphSpacing.1}",
+              "type": "paragraphSpacing"
+            },
+            "name": "xyz_typography_headings_md_display_paragraph_spacing",
+            "attributes": {
+              "category": "Typography",
+              "type": "Headings",
+              "item": "MD",
+              "subitem": "Display",
+              "state": "paragraphSpacing"
+            },
+            "path": [
+              "Typography",
+              "Headings",
+              "MD",
+              "Display",
+              "paragraphSpacing"
+            ]
+          },
+          "paragraphIndent": {
+            "value": 0,
+            "type": "paragraphIndent",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{paragraphIndent.0}",
+              "type": "paragraphIndent"
+            },
+            "name": "xyz_typography_headings_md_display_paragraph_indent",
+            "attributes": {
+              "category": "Typography",
+              "type": "Headings",
+              "item": "MD",
+              "subitem": "Display",
+              "state": "paragraphIndent"
+            },
+            "path": [
+              "Typography",
+              "Headings",
+              "MD",
+              "Display",
+              "paragraphIndent"
+            ]
+          },
+          "textCase": {
+            "value": "none",
+            "type": "textCase",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{textCase.none}",
+              "type": "textCase"
+            },
+            "name": "xyz_typography_headings_md_display_text_case",
+            "attributes": {
+              "category": "Typography",
+              "type": "Headings",
+              "item": "MD",
+              "subitem": "Display",
+              "state": "textCase"
+            },
+            "path": [
+              "Typography",
+              "Headings",
+              "MD",
+              "Display",
+              "textCase"
+            ]
+          },
+          "textDecoration": {
+            "value": "none",
+            "type": "textDecoration",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{textDecoration.none}",
+              "type": "textDecoration"
+            },
+            "name": "xyz_typography_headings_md_display_text_decoration",
+            "attributes": {
+              "category": "Typography",
+              "type": "Headings",
+              "item": "MD",
+              "subitem": "Display",
+              "state": "textDecoration"
+            },
+            "path": [
+              "Typography",
+              "Headings",
+              "MD",
+              "Display",
+              "textDecoration"
+            ]
+          }
+        },
+        "h1": {
+          "fontFamily": {
+            "value": "Art Basel Headline",
+            "type": "fontFamilies",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{fontFamilies.art-basel-headline}",
+              "type": "fontFamilies"
+            },
+            "name": "xyz_typography_headings_md_h1_font_family",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -5704,7 +9940,7 @@ module.exports = {
               "value": "{fontWeights.art-basel-headline-0}",
               "type": "fontWeights"
             },
-            "name": "mch_typography_headings_md_h1_font_weight",
+            "name": "xyz_typography_headings_md_h1_font_weight",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -5729,7 +9965,7 @@ module.exports = {
               "value": "{lineHeights.8}",
               "type": "lineHeights"
             },
-            "name": "mch_typography_headings_md_h1_line_height",
+            "name": "xyz_typography_headings_md_h1_line_height",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -5754,7 +9990,7 @@ module.exports = {
               "value": "{fontSize.10}",
               "type": "fontSizes"
             },
-            "name": "mch_typography_headings_md_h1_font_size",
+            "name": "xyz_typography_headings_md_h1_font_size",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -5771,15 +10007,15 @@ module.exports = {
             ]
           },
           "letterSpacing": {
-            "value": "0%",
+            "value": "0rem",
             "type": "letterSpacing",
             "filePath": "src/global.json",
             "isSource": true,
             "original": {
-              "value": "{letterSpacing.1}",
+              "value": "{letterSpacing.0}",
               "type": "letterSpacing"
             },
-            "name": "mch_typography_headings_md_h1_letter_spacing",
+            "name": "xyz_typography_headings_md_h1_letter_spacing",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -5804,7 +10040,7 @@ module.exports = {
               "value": "{paragraphSpacing.1}",
               "type": "paragraphSpacing"
             },
-            "name": "mch_typography_headings_md_h1_paragraph_spacing",
+            "name": "xyz_typography_headings_md_h1_paragraph_spacing",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -5829,7 +10065,7 @@ module.exports = {
               "value": "{paragraphIndent.0}",
               "type": "paragraphIndent"
             },
-            "name": "mch_typography_headings_md_h1_paragraph_indent",
+            "name": "xyz_typography_headings_md_h1_paragraph_indent",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -5854,7 +10090,7 @@ module.exports = {
               "value": "{textCase.none}",
               "type": "textCase"
             },
-            "name": "mch_typography_headings_md_h1_text_case",
+            "name": "xyz_typography_headings_md_h1_text_case",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -5879,7 +10115,7 @@ module.exports = {
               "value": "{textDecoration.none}",
               "type": "textDecoration"
             },
-            "name": "mch_typography_headings_md_h1_text_decoration",
+            "name": "xyz_typography_headings_md_h1_text_decoration",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -5896,7 +10132,7 @@ module.exports = {
             ]
           }
         },
-        "H2": {
+        "h2": {
           "fontFamily": {
             "value": "Art Basel Headline",
             "type": "fontFamilies",
@@ -5906,7 +10142,7 @@ module.exports = {
               "value": "{fontFamilies.art-basel-headline}",
               "type": "fontFamilies"
             },
-            "name": "mch_typography_headings_md_h2_font_family",
+            "name": "xyz_typography_headings_md_h2_font_family",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -5931,7 +10167,7 @@ module.exports = {
               "value": "{fontWeights.art-basel-headline-0}",
               "type": "fontWeights"
             },
-            "name": "mch_typography_headings_md_h2_font_weight",
+            "name": "xyz_typography_headings_md_h2_font_weight",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -5956,7 +10192,7 @@ module.exports = {
               "value": "{lineHeights.0}",
               "type": "lineHeights"
             },
-            "name": "mch_typography_headings_md_h2_line_height",
+            "name": "xyz_typography_headings_md_h2_line_height",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -5981,7 +10217,7 @@ module.exports = {
               "value": "{fontSize.7}",
               "type": "fontSizes"
             },
-            "name": "mch_typography_headings_md_h2_font_size",
+            "name": "xyz_typography_headings_md_h2_font_size",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -5998,15 +10234,15 @@ module.exports = {
             ]
           },
           "letterSpacing": {
-            "value": "0%",
+            "value": "0rem",
             "type": "letterSpacing",
             "filePath": "src/global.json",
             "isSource": true,
             "original": {
-              "value": "{letterSpacing.1}",
+              "value": "{letterSpacing.0}",
               "type": "letterSpacing"
             },
-            "name": "mch_typography_headings_md_h2_letter_spacing",
+            "name": "xyz_typography_headings_md_h2_letter_spacing",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -6031,7 +10267,7 @@ module.exports = {
               "value": "{paragraphSpacing.1}",
               "type": "paragraphSpacing"
             },
-            "name": "mch_typography_headings_md_h2_paragraph_spacing",
+            "name": "xyz_typography_headings_md_h2_paragraph_spacing",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -6056,7 +10292,7 @@ module.exports = {
               "value": "{paragraphIndent.0}",
               "type": "paragraphIndent"
             },
-            "name": "mch_typography_headings_md_h2_paragraph_indent",
+            "name": "xyz_typography_headings_md_h2_paragraph_indent",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -6081,7 +10317,7 @@ module.exports = {
               "value": "{textCase.none}",
               "type": "textCase"
             },
-            "name": "mch_typography_headings_md_h2_text_case",
+            "name": "xyz_typography_headings_md_h2_text_case",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -6106,7 +10342,7 @@ module.exports = {
               "value": "{textDecoration.none}",
               "type": "textDecoration"
             },
-            "name": "mch_typography_headings_md_h2_text_decoration",
+            "name": "xyz_typography_headings_md_h2_text_decoration",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -6123,7 +10359,7 @@ module.exports = {
             ]
           }
         },
-        "H3": {
+        "h3": {
           "fontFamily": {
             "value": "Art Basel Headline",
             "type": "fontFamilies",
@@ -6133,7 +10369,7 @@ module.exports = {
               "value": "{fontFamilies.art-basel-headline}",
               "type": "fontFamilies"
             },
-            "name": "mch_typography_headings_md_h3_font_family",
+            "name": "xyz_typography_headings_md_h3_font_family",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -6158,7 +10394,7 @@ module.exports = {
               "value": "{fontWeights.art-basel-headline-0}",
               "type": "fontWeights"
             },
-            "name": "mch_typography_headings_md_h3_font_weight",
+            "name": "xyz_typography_headings_md_h3_font_weight",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -6183,7 +10419,7 @@ module.exports = {
               "value": "{lineHeights.1}",
               "type": "lineHeights"
             },
-            "name": "mch_typography_headings_md_h3_line_height",
+            "name": "xyz_typography_headings_md_h3_line_height",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -6208,7 +10444,7 @@ module.exports = {
               "value": "{fontSize.6}",
               "type": "fontSizes"
             },
-            "name": "mch_typography_headings_md_h3_font_size",
+            "name": "xyz_typography_headings_md_h3_font_size",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -6225,15 +10461,15 @@ module.exports = {
             ]
           },
           "letterSpacing": {
-            "value": "0%",
+            "value": "0rem",
             "type": "letterSpacing",
             "filePath": "src/global.json",
             "isSource": true,
             "original": {
-              "value": "{letterSpacing.1}",
+              "value": "{letterSpacing.0}",
               "type": "letterSpacing"
             },
-            "name": "mch_typography_headings_md_h3_letter_spacing",
+            "name": "xyz_typography_headings_md_h3_letter_spacing",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -6258,7 +10494,7 @@ module.exports = {
               "value": "{paragraphSpacing.1}",
               "type": "paragraphSpacing"
             },
-            "name": "mch_typography_headings_md_h3_paragraph_spacing",
+            "name": "xyz_typography_headings_md_h3_paragraph_spacing",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -6283,7 +10519,7 @@ module.exports = {
               "value": "{paragraphIndent.0}",
               "type": "paragraphIndent"
             },
-            "name": "mch_typography_headings_md_h3_paragraph_indent",
+            "name": "xyz_typography_headings_md_h3_paragraph_indent",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -6308,7 +10544,7 @@ module.exports = {
               "value": "{textCase.none}",
               "type": "textCase"
             },
-            "name": "mch_typography_headings_md_h3_text_case",
+            "name": "xyz_typography_headings_md_h3_text_case",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -6333,7 +10569,7 @@ module.exports = {
               "value": "{textDecoration.none}",
               "type": "textDecoration"
             },
-            "name": "mch_typography_headings_md_h3_text_decoration",
+            "name": "xyz_typography_headings_md_h3_text_decoration",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -6350,7 +10586,7 @@ module.exports = {
             ]
           }
         },
-        "H4": {
+        "h4": {
           "fontFamily": {
             "value": "Art Basel Headline",
             "type": "fontFamilies",
@@ -6360,7 +10596,7 @@ module.exports = {
               "value": "{fontFamilies.art-basel-headline}",
               "type": "fontFamilies"
             },
-            "name": "mch_typography_headings_md_h4_font_family",
+            "name": "xyz_typography_headings_md_h4_font_family",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -6385,7 +10621,7 @@ module.exports = {
               "value": "{fontWeights.art-basel-headline-0}",
               "type": "fontWeights"
             },
-            "name": "mch_typography_headings_md_h4_font_weight",
+            "name": "xyz_typography_headings_md_h4_font_weight",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -6410,7 +10646,7 @@ module.exports = {
               "value": "{lineHeights.2}",
               "type": "lineHeights"
             },
-            "name": "mch_typography_headings_md_h4_line_height",
+            "name": "xyz_typography_headings_md_h4_line_height",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -6435,7 +10671,7 @@ module.exports = {
               "value": "{fontSize.5}",
               "type": "fontSizes"
             },
-            "name": "mch_typography_headings_md_h4_font_size",
+            "name": "xyz_typography_headings_md_h4_font_size",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -6452,15 +10688,15 @@ module.exports = {
             ]
           },
           "letterSpacing": {
-            "value": "0%",
+            "value": "0rem",
             "type": "letterSpacing",
             "filePath": "src/global.json",
             "isSource": true,
             "original": {
-              "value": "{letterSpacing.1}",
+              "value": "{letterSpacing.0}",
               "type": "letterSpacing"
             },
-            "name": "mch_typography_headings_md_h4_letter_spacing",
+            "name": "xyz_typography_headings_md_h4_letter_spacing",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -6485,7 +10721,7 @@ module.exports = {
               "value": "{paragraphSpacing.1}",
               "type": "paragraphSpacing"
             },
-            "name": "mch_typography_headings_md_h4_paragraph_spacing",
+            "name": "xyz_typography_headings_md_h4_paragraph_spacing",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -6510,7 +10746,7 @@ module.exports = {
               "value": "{paragraphIndent.0}",
               "type": "paragraphIndent"
             },
-            "name": "mch_typography_headings_md_h4_paragraph_indent",
+            "name": "xyz_typography_headings_md_h4_paragraph_indent",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -6535,7 +10771,7 @@ module.exports = {
               "value": "{textCase.none}",
               "type": "textCase"
             },
-            "name": "mch_typography_headings_md_h4_text_case",
+            "name": "xyz_typography_headings_md_h4_text_case",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -6560,7 +10796,7 @@ module.exports = {
               "value": "{textDecoration.none}",
               "type": "textDecoration"
             },
-            "name": "mch_typography_headings_md_h4_text_decoration",
+            "name": "xyz_typography_headings_md_h4_text_decoration",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -6577,7 +10813,7 @@ module.exports = {
             ]
           }
         },
-        "H5": {
+        "h5": {
           "fontFamily": {
             "value": "Art Basel Headline",
             "type": "fontFamilies",
@@ -6587,7 +10823,7 @@ module.exports = {
               "value": "{fontFamilies.art-basel-headline}",
               "type": "fontFamilies"
             },
-            "name": "mch_typography_headings_md_h5_font_family",
+            "name": "xyz_typography_headings_md_h5_font_family",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -6612,7 +10848,7 @@ module.exports = {
               "value": "{fontWeights.art-basel-headline-0}",
               "type": "fontWeights"
             },
-            "name": "mch_typography_headings_md_h5_font_weight",
+            "name": "xyz_typography_headings_md_h5_font_weight",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -6637,7 +10873,7 @@ module.exports = {
               "value": "{lineHeights.4}",
               "type": "lineHeights"
             },
-            "name": "mch_typography_headings_md_h5_line_height",
+            "name": "xyz_typography_headings_md_h5_line_height",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -6662,7 +10898,7 @@ module.exports = {
               "value": "{fontSize.3}",
               "type": "fontSizes"
             },
-            "name": "mch_typography_headings_md_h5_font_size",
+            "name": "xyz_typography_headings_md_h5_font_size",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -6679,15 +10915,15 @@ module.exports = {
             ]
           },
           "letterSpacing": {
-            "value": "0%",
+            "value": "0rem",
             "type": "letterSpacing",
             "filePath": "src/global.json",
             "isSource": true,
             "original": {
-              "value": "{letterSpacing.1}",
+              "value": "{letterSpacing.0}",
               "type": "letterSpacing"
             },
-            "name": "mch_typography_headings_md_h5_letter_spacing",
+            "name": "xyz_typography_headings_md_h5_letter_spacing",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -6712,7 +10948,7 @@ module.exports = {
               "value": "{paragraphSpacing.1}",
               "type": "paragraphSpacing"
             },
-            "name": "mch_typography_headings_md_h5_paragraph_spacing",
+            "name": "xyz_typography_headings_md_h5_paragraph_spacing",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -6737,7 +10973,7 @@ module.exports = {
               "value": "{paragraphIndent.0}",
               "type": "paragraphIndent"
             },
-            "name": "mch_typography_headings_md_h5_paragraph_indent",
+            "name": "xyz_typography_headings_md_h5_paragraph_indent",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -6762,7 +10998,7 @@ module.exports = {
               "value": "{textCase.none}",
               "type": "textCase"
             },
-            "name": "mch_typography_headings_md_h5_text_case",
+            "name": "xyz_typography_headings_md_h5_text_case",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -6787,7 +11023,7 @@ module.exports = {
               "value": "{textDecoration.none}",
               "type": "textDecoration"
             },
-            "name": "mch_typography_headings_md_h5_text_decoration",
+            "name": "xyz_typography_headings_md_h5_text_decoration",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -6805,8 +11041,8 @@ module.exports = {
           }
         }
       },
-      "LG": {
-        "H1": {
+      "lg": {
+        "display": {
           "fontFamily": {
             "value": "Art Basel Headline",
             "type": "fontFamilies",
@@ -6816,7 +11052,234 @@ module.exports = {
               "value": "{fontFamilies.art-basel-headline}",
               "type": "fontFamilies"
             },
-            "name": "mch_typography_headings_lg_h1_font_family",
+            "name": "xyz_typography_headings_lg_display_font_family",
+            "attributes": {
+              "category": "Typography",
+              "type": "Headings",
+              "item": "LG",
+              "subitem": "Display",
+              "state": "fontFamily"
+            },
+            "path": [
+              "Typography",
+              "Headings",
+              "LG",
+              "Display",
+              "fontFamily"
+            ]
+          },
+          "fontWeight": {
+            "value": "700",
+            "type": "fontWeights",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{fontWeights.art-basel-headline-0}",
+              "type": "fontWeights"
+            },
+            "name": "xyz_typography_headings_lg_display_font_weight",
+            "attributes": {
+              "category": "Typography",
+              "type": "Headings",
+              "item": "LG",
+              "subitem": "Display",
+              "state": "fontWeight"
+            },
+            "path": [
+              "Typography",
+              "Headings",
+              "LG",
+              "Display",
+              "fontWeight"
+            ]
+          },
+          "lineHeight": {
+            "value": "3.5rem",
+            "type": "lineHeights",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{lineHeights.29}",
+              "type": "lineHeights"
+            },
+            "name": "xyz_typography_headings_lg_display_line_height",
+            "attributes": {
+              "category": "Typography",
+              "type": "Headings",
+              "item": "LG",
+              "subitem": "Display",
+              "state": "lineHeight"
+            },
+            "path": [
+              "Typography",
+              "Headings",
+              "LG",
+              "Display",
+              "lineHeight"
+            ]
+          },
+          "fontSize": {
+            "value": "3.5rem",
+            "type": "fontSizes",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{fontSize.27}",
+              "type": "fontSizes"
+            },
+            "name": "xyz_typography_headings_lg_display_font_size",
+            "attributes": {
+              "category": "Typography",
+              "type": "Headings",
+              "item": "LG",
+              "subitem": "Display",
+              "state": "fontSize"
+            },
+            "path": [
+              "Typography",
+              "Headings",
+              "LG",
+              "Display",
+              "fontSize"
+            ]
+          },
+          "letterSpacing": {
+            "value": "0rem",
+            "type": "letterSpacing",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{letterSpacing.0}",
+              "type": "letterSpacing"
+            },
+            "name": "xyz_typography_headings_lg_display_letter_spacing",
+            "attributes": {
+              "category": "Typography",
+              "type": "Headings",
+              "item": "LG",
+              "subitem": "Display",
+              "state": "letterSpacing"
+            },
+            "path": [
+              "Typography",
+              "Headings",
+              "LG",
+              "Display",
+              "letterSpacing"
+            ]
+          },
+          "paragraphSpacing": {
+            "value": "4",
+            "type": "paragraphSpacing",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{paragraphSpacing.1}",
+              "type": "paragraphSpacing"
+            },
+            "name": "xyz_typography_headings_lg_display_paragraph_spacing",
+            "attributes": {
+              "category": "Typography",
+              "type": "Headings",
+              "item": "LG",
+              "subitem": "Display",
+              "state": "paragraphSpacing"
+            },
+            "path": [
+              "Typography",
+              "Headings",
+              "LG",
+              "Display",
+              "paragraphSpacing"
+            ]
+          },
+          "paragraphIndent": {
+            "value": 0,
+            "type": "paragraphIndent",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{paragraphIndent.0}",
+              "type": "paragraphIndent"
+            },
+            "name": "xyz_typography_headings_lg_display_paragraph_indent",
+            "attributes": {
+              "category": "Typography",
+              "type": "Headings",
+              "item": "LG",
+              "subitem": "Display",
+              "state": "paragraphIndent"
+            },
+            "path": [
+              "Typography",
+              "Headings",
+              "LG",
+              "Display",
+              "paragraphIndent"
+            ]
+          },
+          "textCase": {
+            "value": "none",
+            "type": "textCase",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{textCase.none}",
+              "type": "textCase"
+            },
+            "name": "xyz_typography_headings_lg_display_text_case",
+            "attributes": {
+              "category": "Typography",
+              "type": "Headings",
+              "item": "LG",
+              "subitem": "Display",
+              "state": "textCase"
+            },
+            "path": [
+              "Typography",
+              "Headings",
+              "LG",
+              "Display",
+              "textCase"
+            ]
+          },
+          "textDecoration": {
+            "value": "none",
+            "type": "textDecoration",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{textDecoration.none}",
+              "type": "textDecoration"
+            },
+            "name": "xyz_typography_headings_lg_display_text_decoration",
+            "attributes": {
+              "category": "Typography",
+              "type": "Headings",
+              "item": "LG",
+              "subitem": "Display",
+              "state": "textDecoration"
+            },
+            "path": [
+              "Typography",
+              "Headings",
+              "LG",
+              "Display",
+              "textDecoration"
+            ]
+          }
+        },
+        "h1": {
+          "fontFamily": {
+            "value": "Art Basel Headline",
+            "type": "fontFamilies",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{fontFamilies.art-basel-headline}",
+              "type": "fontFamilies"
+            },
+            "name": "xyz_typography_headings_lg_h1_font_family",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -6841,7 +11304,7 @@ module.exports = {
               "value": "{fontWeights.art-basel-headline-0}",
               "type": "fontWeights"
             },
-            "name": "mch_typography_headings_lg_h1_font_weight",
+            "name": "xyz_typography_headings_lg_h1_font_weight",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -6866,7 +11329,7 @@ module.exports = {
               "value": "{lineHeights.9}",
               "type": "lineHeights"
             },
-            "name": "mch_typography_headings_lg_h1_line_height",
+            "name": "xyz_typography_headings_lg_h1_line_height",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -6891,7 +11354,7 @@ module.exports = {
               "value": "{fontSize.12}",
               "type": "fontSizes"
             },
-            "name": "mch_typography_headings_lg_h1_font_size",
+            "name": "xyz_typography_headings_lg_h1_font_size",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -6908,15 +11371,15 @@ module.exports = {
             ]
           },
           "letterSpacing": {
-            "value": "0%",
+            "value": "0rem",
             "type": "letterSpacing",
             "filePath": "src/global.json",
             "isSource": true,
             "original": {
-              "value": "{letterSpacing.1}",
+              "value": "{letterSpacing.0}",
               "type": "letterSpacing"
             },
-            "name": "mch_typography_headings_lg_h1_letter_spacing",
+            "name": "xyz_typography_headings_lg_h1_letter_spacing",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -6941,7 +11404,7 @@ module.exports = {
               "value": "{paragraphSpacing.1}",
               "type": "paragraphSpacing"
             },
-            "name": "mch_typography_headings_lg_h1_paragraph_spacing",
+            "name": "xyz_typography_headings_lg_h1_paragraph_spacing",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -6966,7 +11429,7 @@ module.exports = {
               "value": "{paragraphIndent.0}",
               "type": "paragraphIndent"
             },
-            "name": "mch_typography_headings_lg_h1_paragraph_indent",
+            "name": "xyz_typography_headings_lg_h1_paragraph_indent",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -6991,7 +11454,7 @@ module.exports = {
               "value": "{textCase.none}",
               "type": "textCase"
             },
-            "name": "mch_typography_headings_lg_h1_text_case",
+            "name": "xyz_typography_headings_lg_h1_text_case",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -7016,7 +11479,7 @@ module.exports = {
               "value": "{textDecoration.none}",
               "type": "textDecoration"
             },
-            "name": "mch_typography_headings_lg_h1_text_decoration",
+            "name": "xyz_typography_headings_lg_h1_text_decoration",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -7033,7 +11496,7 @@ module.exports = {
             ]
           }
         },
-        "H2": {
+        "h2": {
           "fontFamily": {
             "value": "Art Basel Headline",
             "type": "fontFamilies",
@@ -7043,7 +11506,7 @@ module.exports = {
               "value": "{fontFamilies.art-basel-headline}",
               "type": "fontFamilies"
             },
-            "name": "mch_typography_headings_lg_h2_font_family",
+            "name": "xyz_typography_headings_lg_h2_font_family",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -7068,7 +11531,7 @@ module.exports = {
               "value": "{fontWeights.art-basel-headline-0}",
               "type": "fontWeights"
             },
-            "name": "mch_typography_headings_lg_h2_font_weight",
+            "name": "xyz_typography_headings_lg_h2_font_weight",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -7093,7 +11556,7 @@ module.exports = {
               "value": "{lineHeights.6}",
               "type": "lineHeights"
             },
-            "name": "mch_typography_headings_lg_h2_line_height",
+            "name": "xyz_typography_headings_lg_h2_line_height",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -7118,7 +11581,7 @@ module.exports = {
               "value": "{fontSize.10}",
               "type": "fontSizes"
             },
-            "name": "mch_typography_headings_lg_h2_font_size",
+            "name": "xyz_typography_headings_lg_h2_font_size",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -7135,15 +11598,15 @@ module.exports = {
             ]
           },
           "letterSpacing": {
-            "value": "0%",
+            "value": "0rem",
             "type": "letterSpacing",
             "filePath": "src/global.json",
             "isSource": true,
             "original": {
-              "value": "{letterSpacing.1}",
+              "value": "{letterSpacing.0}",
               "type": "letterSpacing"
             },
-            "name": "mch_typography_headings_lg_h2_letter_spacing",
+            "name": "xyz_typography_headings_lg_h2_letter_spacing",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -7168,7 +11631,7 @@ module.exports = {
               "value": "{paragraphSpacing.1}",
               "type": "paragraphSpacing"
             },
-            "name": "mch_typography_headings_lg_h2_paragraph_spacing",
+            "name": "xyz_typography_headings_lg_h2_paragraph_spacing",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -7193,7 +11656,7 @@ module.exports = {
               "value": "{paragraphIndent.0}",
               "type": "paragraphIndent"
             },
-            "name": "mch_typography_headings_lg_h2_paragraph_indent",
+            "name": "xyz_typography_headings_lg_h2_paragraph_indent",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -7218,7 +11681,7 @@ module.exports = {
               "value": "{textCase.none}",
               "type": "textCase"
             },
-            "name": "mch_typography_headings_lg_h2_text_case",
+            "name": "xyz_typography_headings_lg_h2_text_case",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -7243,7 +11706,7 @@ module.exports = {
               "value": "{textDecoration.none}",
               "type": "textDecoration"
             },
-            "name": "mch_typography_headings_lg_h2_text_decoration",
+            "name": "xyz_typography_headings_lg_h2_text_decoration",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -7260,7 +11723,7 @@ module.exports = {
             ]
           }
         },
-        "H3": {
+        "h3": {
           "fontFamily": {
             "value": "Art Basel Headline",
             "type": "fontFamilies",
@@ -7270,7 +11733,7 @@ module.exports = {
               "value": "{fontFamilies.art-basel-headline}",
               "type": "fontFamilies"
             },
-            "name": "mch_typography_headings_lg_h3_font_family",
+            "name": "xyz_typography_headings_lg_h3_font_family",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -7295,7 +11758,7 @@ module.exports = {
               "value": "{fontWeights.art-basel-headline-0}",
               "type": "fontWeights"
             },
-            "name": "mch_typography_headings_lg_h3_font_weight",
+            "name": "xyz_typography_headings_lg_h3_font_weight",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -7320,7 +11783,7 @@ module.exports = {
               "value": "{lineHeights.0}",
               "type": "lineHeights"
             },
-            "name": "mch_typography_headings_lg_h3_line_height",
+            "name": "xyz_typography_headings_lg_h3_line_height",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -7345,7 +11808,7 @@ module.exports = {
               "value": "{fontSize.7}",
               "type": "fontSizes"
             },
-            "name": "mch_typography_headings_lg_h3_font_size",
+            "name": "xyz_typography_headings_lg_h3_font_size",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -7362,15 +11825,15 @@ module.exports = {
             ]
           },
           "letterSpacing": {
-            "value": "0%",
+            "value": "0rem",
             "type": "letterSpacing",
             "filePath": "src/global.json",
             "isSource": true,
             "original": {
-              "value": "{letterSpacing.1}",
+              "value": "{letterSpacing.0}",
               "type": "letterSpacing"
             },
-            "name": "mch_typography_headings_lg_h3_letter_spacing",
+            "name": "xyz_typography_headings_lg_h3_letter_spacing",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -7395,7 +11858,7 @@ module.exports = {
               "value": "{paragraphSpacing.1}",
               "type": "paragraphSpacing"
             },
-            "name": "mch_typography_headings_lg_h3_paragraph_spacing",
+            "name": "xyz_typography_headings_lg_h3_paragraph_spacing",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -7420,7 +11883,7 @@ module.exports = {
               "value": "{paragraphIndent.0}",
               "type": "paragraphIndent"
             },
-            "name": "mch_typography_headings_lg_h3_paragraph_indent",
+            "name": "xyz_typography_headings_lg_h3_paragraph_indent",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -7445,7 +11908,7 @@ module.exports = {
               "value": "{textCase.none}",
               "type": "textCase"
             },
-            "name": "mch_typography_headings_lg_h3_text_case",
+            "name": "xyz_typography_headings_lg_h3_text_case",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -7470,7 +11933,7 @@ module.exports = {
               "value": "{textDecoration.none}",
               "type": "textDecoration"
             },
-            "name": "mch_typography_headings_lg_h3_text_decoration",
+            "name": "xyz_typography_headings_lg_h3_text_decoration",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -7487,7 +11950,7 @@ module.exports = {
             ]
           }
         },
-        "H4": {
+        "h4": {
           "fontFamily": {
             "value": "Art Basel Headline",
             "type": "fontFamilies",
@@ -7497,7 +11960,7 @@ module.exports = {
               "value": "{fontFamilies.art-basel-headline}",
               "type": "fontFamilies"
             },
-            "name": "mch_typography_headings_lg_h4_font_family",
+            "name": "xyz_typography_headings_lg_h4_font_family",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -7522,7 +11985,7 @@ module.exports = {
               "value": "{fontWeights.art-basel-headline-0}",
               "type": "fontWeights"
             },
-            "name": "mch_typography_headings_lg_h4_font_weight",
+            "name": "xyz_typography_headings_lg_h4_font_weight",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -7547,7 +12010,7 @@ module.exports = {
               "value": "{lineHeights.2}",
               "type": "lineHeights"
             },
-            "name": "mch_typography_headings_lg_h4_line_height",
+            "name": "xyz_typography_headings_lg_h4_line_height",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -7572,7 +12035,7 @@ module.exports = {
               "value": "{fontSize.5}",
               "type": "fontSizes"
             },
-            "name": "mch_typography_headings_lg_h4_font_size",
+            "name": "xyz_typography_headings_lg_h4_font_size",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -7589,15 +12052,15 @@ module.exports = {
             ]
           },
           "letterSpacing": {
-            "value": "0%",
+            "value": "0rem",
             "type": "letterSpacing",
             "filePath": "src/global.json",
             "isSource": true,
             "original": {
-              "value": "{letterSpacing.1}",
+              "value": "{letterSpacing.0}",
               "type": "letterSpacing"
             },
-            "name": "mch_typography_headings_lg_h4_letter_spacing",
+            "name": "xyz_typography_headings_lg_h4_letter_spacing",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -7622,7 +12085,7 @@ module.exports = {
               "value": "{paragraphSpacing.1}",
               "type": "paragraphSpacing"
             },
-            "name": "mch_typography_headings_lg_h4_paragraph_spacing",
+            "name": "xyz_typography_headings_lg_h4_paragraph_spacing",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -7647,7 +12110,7 @@ module.exports = {
               "value": "{paragraphIndent.0}",
               "type": "paragraphIndent"
             },
-            "name": "mch_typography_headings_lg_h4_paragraph_indent",
+            "name": "xyz_typography_headings_lg_h4_paragraph_indent",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -7672,7 +12135,7 @@ module.exports = {
               "value": "{textCase.none}",
               "type": "textCase"
             },
-            "name": "mch_typography_headings_lg_h4_text_case",
+            "name": "xyz_typography_headings_lg_h4_text_case",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -7697,7 +12160,7 @@ module.exports = {
               "value": "{textDecoration.none}",
               "type": "textDecoration"
             },
-            "name": "mch_typography_headings_lg_h4_text_decoration",
+            "name": "xyz_typography_headings_lg_h4_text_decoration",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -7714,7 +12177,7 @@ module.exports = {
             ]
           }
         },
-        "H5": {
+        "h5": {
           "fontFamily": {
             "value": "Art Basel Headline",
             "type": "fontFamilies",
@@ -7724,7 +12187,7 @@ module.exports = {
               "value": "{fontFamilies.art-basel-headline}",
               "type": "fontFamilies"
             },
-            "name": "mch_typography_headings_lg_h5_font_family",
+            "name": "xyz_typography_headings_lg_h5_font_family",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -7749,7 +12212,7 @@ module.exports = {
               "value": "{fontWeights.art-basel-headline-0}",
               "type": "fontWeights"
             },
-            "name": "mch_typography_headings_lg_h5_font_weight",
+            "name": "xyz_typography_headings_lg_h5_font_weight",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -7774,7 +12237,7 @@ module.exports = {
               "value": "{lineHeights.4}",
               "type": "lineHeights"
             },
-            "name": "mch_typography_headings_lg_h5_line_height",
+            "name": "xyz_typography_headings_lg_h5_line_height",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -7799,7 +12262,7 @@ module.exports = {
               "value": "{fontSize.3}",
               "type": "fontSizes"
             },
-            "name": "mch_typography_headings_lg_h5_font_size",
+            "name": "xyz_typography_headings_lg_h5_font_size",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -7816,15 +12279,15 @@ module.exports = {
             ]
           },
           "letterSpacing": {
-            "value": "0%",
+            "value": "0rem",
             "type": "letterSpacing",
             "filePath": "src/global.json",
             "isSource": true,
             "original": {
-              "value": "{letterSpacing.1}",
+              "value": "{letterSpacing.0}",
               "type": "letterSpacing"
             },
-            "name": "mch_typography_headings_lg_h5_letter_spacing",
+            "name": "xyz_typography_headings_lg_h5_letter_spacing",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -7849,7 +12312,7 @@ module.exports = {
               "value": "{paragraphSpacing.1}",
               "type": "paragraphSpacing"
             },
-            "name": "mch_typography_headings_lg_h5_paragraph_spacing",
+            "name": "xyz_typography_headings_lg_h5_paragraph_spacing",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -7874,7 +12337,7 @@ module.exports = {
               "value": "{paragraphIndent.0}",
               "type": "paragraphIndent"
             },
-            "name": "mch_typography_headings_lg_h5_paragraph_indent",
+            "name": "xyz_typography_headings_lg_h5_paragraph_indent",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -7899,7 +12362,7 @@ module.exports = {
               "value": "{textCase.none}",
               "type": "textCase"
             },
-            "name": "mch_typography_headings_lg_h5_text_case",
+            "name": "xyz_typography_headings_lg_h5_text_case",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -7924,7 +12387,7 @@ module.exports = {
               "value": "{textDecoration.none}",
               "type": "textDecoration"
             },
-            "name": "mch_typography_headings_lg_h5_text_decoration",
+            "name": "xyz_typography_headings_lg_h5_text_decoration",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -7942,8 +12405,8 @@ module.exports = {
           }
         }
       },
-      "2XL": {
-        "H1": {
+      "2Xl": {
+        "display": {
           "fontFamily": {
             "value": "Art Basel Headline",
             "type": "fontFamilies",
@@ -7953,7 +12416,234 @@ module.exports = {
               "value": "{fontFamilies.art-basel-headline}",
               "type": "fontFamilies"
             },
-            "name": "mch_typography_headings_2_xl_h1_font_family",
+            "name": "xyz_typography_headings_2_xl_display_font_family",
+            "attributes": {
+              "category": "Typography",
+              "type": "Headings",
+              "item": "2XL",
+              "subitem": "Display",
+              "state": "fontFamily"
+            },
+            "path": [
+              "Typography",
+              "Headings",
+              "2XL",
+              "Display",
+              "fontFamily"
+            ]
+          },
+          "fontWeight": {
+            "value": "700",
+            "type": "fontWeights",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{fontWeights.art-basel-headline-0}",
+              "type": "fontWeights"
+            },
+            "name": "xyz_typography_headings_2_xl_display_font_weight",
+            "attributes": {
+              "category": "Typography",
+              "type": "Headings",
+              "item": "2XL",
+              "subitem": "Display",
+              "state": "fontWeight"
+            },
+            "path": [
+              "Typography",
+              "Headings",
+              "2XL",
+              "Display",
+              "fontWeight"
+            ]
+          },
+          "lineHeight": {
+            "value": "4rem",
+            "type": "lineHeights",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{lineHeights.17}",
+              "type": "lineHeights"
+            },
+            "name": "xyz_typography_headings_2_xl_display_line_height",
+            "attributes": {
+              "category": "Typography",
+              "type": "Headings",
+              "item": "2XL",
+              "subitem": "Display",
+              "state": "lineHeight"
+            },
+            "path": [
+              "Typography",
+              "Headings",
+              "2XL",
+              "Display",
+              "lineHeight"
+            ]
+          },
+          "fontSize": {
+            "value": "4rem",
+            "type": "fontSizes",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{fontSize.20}",
+              "type": "fontSizes"
+            },
+            "name": "xyz_typography_headings_2_xl_display_font_size",
+            "attributes": {
+              "category": "Typography",
+              "type": "Headings",
+              "item": "2XL",
+              "subitem": "Display",
+              "state": "fontSize"
+            },
+            "path": [
+              "Typography",
+              "Headings",
+              "2XL",
+              "Display",
+              "fontSize"
+            ]
+          },
+          "letterSpacing": {
+            "value": "0rem",
+            "type": "letterSpacing",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{letterSpacing.0}",
+              "type": "letterSpacing"
+            },
+            "name": "xyz_typography_headings_2_xl_display_letter_spacing",
+            "attributes": {
+              "category": "Typography",
+              "type": "Headings",
+              "item": "2XL",
+              "subitem": "Display",
+              "state": "letterSpacing"
+            },
+            "path": [
+              "Typography",
+              "Headings",
+              "2XL",
+              "Display",
+              "letterSpacing"
+            ]
+          },
+          "paragraphSpacing": {
+            "value": "0",
+            "type": "paragraphSpacing",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{paragraphSpacing.0}",
+              "type": "paragraphSpacing"
+            },
+            "name": "xyz_typography_headings_2_xl_display_paragraph_spacing",
+            "attributes": {
+              "category": "Typography",
+              "type": "Headings",
+              "item": "2XL",
+              "subitem": "Display",
+              "state": "paragraphSpacing"
+            },
+            "path": [
+              "Typography",
+              "Headings",
+              "2XL",
+              "Display",
+              "paragraphSpacing"
+            ]
+          },
+          "paragraphIndent": {
+            "value": 0,
+            "type": "paragraphIndent",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{paragraphIndent.0}",
+              "type": "paragraphIndent"
+            },
+            "name": "xyz_typography_headings_2_xl_display_paragraph_indent",
+            "attributes": {
+              "category": "Typography",
+              "type": "Headings",
+              "item": "2XL",
+              "subitem": "Display",
+              "state": "paragraphIndent"
+            },
+            "path": [
+              "Typography",
+              "Headings",
+              "2XL",
+              "Display",
+              "paragraphIndent"
+            ]
+          },
+          "textCase": {
+            "value": "none",
+            "type": "textCase",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{textCase.none}",
+              "type": "textCase"
+            },
+            "name": "xyz_typography_headings_2_xl_display_text_case",
+            "attributes": {
+              "category": "Typography",
+              "type": "Headings",
+              "item": "2XL",
+              "subitem": "Display",
+              "state": "textCase"
+            },
+            "path": [
+              "Typography",
+              "Headings",
+              "2XL",
+              "Display",
+              "textCase"
+            ]
+          },
+          "textDecoration": {
+            "value": "none",
+            "type": "textDecoration",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{textDecoration.none}",
+              "type": "textDecoration"
+            },
+            "name": "xyz_typography_headings_2_xl_display_text_decoration",
+            "attributes": {
+              "category": "Typography",
+              "type": "Headings",
+              "item": "2XL",
+              "subitem": "Display",
+              "state": "textDecoration"
+            },
+            "path": [
+              "Typography",
+              "Headings",
+              "2XL",
+              "Display",
+              "textDecoration"
+            ]
+          }
+        },
+        "h1": {
+          "fontFamily": {
+            "value": "Art Basel Headline",
+            "type": "fontFamilies",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{fontFamilies.art-basel-headline}",
+              "type": "fontFamilies"
+            },
+            "name": "xyz_typography_headings_2_xl_h1_font_family",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -7978,7 +12668,7 @@ module.exports = {
               "value": "{fontWeights.art-basel-headline-0}",
               "type": "fontWeights"
             },
-            "name": "mch_typography_headings_2_xl_h1_font_weight",
+            "name": "xyz_typography_headings_2_xl_h1_font_weight",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -8003,7 +12693,7 @@ module.exports = {
               "value": "{lineHeights.10}",
               "type": "lineHeights"
             },
-            "name": "mch_typography_headings_2_xl_h1_line_height",
+            "name": "xyz_typography_headings_2_xl_h1_line_height",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -8028,7 +12718,7 @@ module.exports = {
               "value": "{fontSize.14}",
               "type": "fontSizes"
             },
-            "name": "mch_typography_headings_2_xl_h1_font_size",
+            "name": "xyz_typography_headings_2_xl_h1_font_size",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -8045,7 +12735,7 @@ module.exports = {
             ]
           },
           "letterSpacing": {
-            "value": "0",
+            "value": "0rem",
             "type": "letterSpacing",
             "filePath": "src/global.json",
             "isSource": true,
@@ -8053,7 +12743,7 @@ module.exports = {
               "value": "{letterSpacing.0}",
               "type": "letterSpacing"
             },
-            "name": "mch_typography_headings_2_xl_h1_letter_spacing",
+            "name": "xyz_typography_headings_2_xl_h1_letter_spacing",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -8078,7 +12768,7 @@ module.exports = {
               "value": "{paragraphSpacing.0}",
               "type": "paragraphSpacing"
             },
-            "name": "mch_typography_headings_2_xl_h1_paragraph_spacing",
+            "name": "xyz_typography_headings_2_xl_h1_paragraph_spacing",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -8103,7 +12793,7 @@ module.exports = {
               "value": "{paragraphIndent.0}",
               "type": "paragraphIndent"
             },
-            "name": "mch_typography_headings_2_xl_h1_paragraph_indent",
+            "name": "xyz_typography_headings_2_xl_h1_paragraph_indent",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -8128,7 +12818,7 @@ module.exports = {
               "value": "{textCase.none}",
               "type": "textCase"
             },
-            "name": "mch_typography_headings_2_xl_h1_text_case",
+            "name": "xyz_typography_headings_2_xl_h1_text_case",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -8153,7 +12843,7 @@ module.exports = {
               "value": "{textDecoration.none}",
               "type": "textDecoration"
             },
-            "name": "mch_typography_headings_2_xl_h1_text_decoration",
+            "name": "xyz_typography_headings_2_xl_h1_text_decoration",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -8170,7 +12860,7 @@ module.exports = {
             ]
           }
         },
-        "H2": {
+        "h2": {
           "fontFamily": {
             "value": "Art Basel Headline",
             "type": "fontFamilies",
@@ -8180,7 +12870,7 @@ module.exports = {
               "value": "{fontFamilies.art-basel-headline}",
               "type": "fontFamilies"
             },
-            "name": "mch_typography_headings_2_xl_h2_font_family",
+            "name": "xyz_typography_headings_2_xl_h2_font_family",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -8205,7 +12895,7 @@ module.exports = {
               "value": "{fontWeights.art-basel-headline-0}",
               "type": "fontWeights"
             },
-            "name": "mch_typography_headings_2_xl_h2_font_weight",
+            "name": "xyz_typography_headings_2_xl_h2_font_weight",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -8230,7 +12920,7 @@ module.exports = {
               "value": "{lineHeights.6}",
               "type": "lineHeights"
             },
-            "name": "mch_typography_headings_2_xl_h2_line_height",
+            "name": "xyz_typography_headings_2_xl_h2_line_height",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -8255,7 +12945,7 @@ module.exports = {
               "value": "{fontSize.10}",
               "type": "fontSizes"
             },
-            "name": "mch_typography_headings_2_xl_h2_font_size",
+            "name": "xyz_typography_headings_2_xl_h2_font_size",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -8272,7 +12962,7 @@ module.exports = {
             ]
           },
           "letterSpacing": {
-            "value": "0",
+            "value": "0rem",
             "type": "letterSpacing",
             "filePath": "src/global.json",
             "isSource": true,
@@ -8280,7 +12970,7 @@ module.exports = {
               "value": "{letterSpacing.0}",
               "type": "letterSpacing"
             },
-            "name": "mch_typography_headings_2_xl_h2_letter_spacing",
+            "name": "xyz_typography_headings_2_xl_h2_letter_spacing",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -8305,7 +12995,7 @@ module.exports = {
               "value": "{paragraphSpacing.0}",
               "type": "paragraphSpacing"
             },
-            "name": "mch_typography_headings_2_xl_h2_paragraph_spacing",
+            "name": "xyz_typography_headings_2_xl_h2_paragraph_spacing",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -8330,7 +13020,7 @@ module.exports = {
               "value": "{paragraphIndent.0}",
               "type": "paragraphIndent"
             },
-            "name": "mch_typography_headings_2_xl_h2_paragraph_indent",
+            "name": "xyz_typography_headings_2_xl_h2_paragraph_indent",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -8355,7 +13045,7 @@ module.exports = {
               "value": "{textCase.none}",
               "type": "textCase"
             },
-            "name": "mch_typography_headings_2_xl_h2_text_case",
+            "name": "xyz_typography_headings_2_xl_h2_text_case",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -8380,7 +13070,7 @@ module.exports = {
               "value": "{textDecoration.none}",
               "type": "textDecoration"
             },
-            "name": "mch_typography_headings_2_xl_h2_text_decoration",
+            "name": "xyz_typography_headings_2_xl_h2_text_decoration",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -8397,7 +13087,7 @@ module.exports = {
             ]
           }
         },
-        "H3": {
+        "h3": {
           "fontFamily": {
             "value": "Art Basel Headline",
             "type": "fontFamilies",
@@ -8407,7 +13097,7 @@ module.exports = {
               "value": "{fontFamilies.art-basel-headline}",
               "type": "fontFamilies"
             },
-            "name": "mch_typography_headings_2_xl_h3_font_family",
+            "name": "xyz_typography_headings_2_xl_h3_font_family",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -8432,7 +13122,7 @@ module.exports = {
               "value": "{fontWeights.art-basel-headline-0}",
               "type": "fontWeights"
             },
-            "name": "mch_typography_headings_2_xl_h3_font_weight",
+            "name": "xyz_typography_headings_2_xl_h3_font_weight",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -8457,7 +13147,7 @@ module.exports = {
               "value": "{lineHeights.7}",
               "type": "lineHeights"
             },
-            "name": "mch_typography_headings_2_xl_h3_line_height",
+            "name": "xyz_typography_headings_2_xl_h3_line_height",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -8482,7 +13172,7 @@ module.exports = {
               "value": "{fontSize.7}",
               "type": "fontSizes"
             },
-            "name": "mch_typography_headings_2_xl_h3_font_size",
+            "name": "xyz_typography_headings_2_xl_h3_font_size",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -8499,7 +13189,7 @@ module.exports = {
             ]
           },
           "letterSpacing": {
-            "value": "0",
+            "value": "0rem",
             "type": "letterSpacing",
             "filePath": "src/global.json",
             "isSource": true,
@@ -8507,7 +13197,7 @@ module.exports = {
               "value": "{letterSpacing.0}",
               "type": "letterSpacing"
             },
-            "name": "mch_typography_headings_2_xl_h3_letter_spacing",
+            "name": "xyz_typography_headings_2_xl_h3_letter_spacing",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -8532,7 +13222,7 @@ module.exports = {
               "value": "{paragraphSpacing.0}",
               "type": "paragraphSpacing"
             },
-            "name": "mch_typography_headings_2_xl_h3_paragraph_spacing",
+            "name": "xyz_typography_headings_2_xl_h3_paragraph_spacing",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -8557,7 +13247,7 @@ module.exports = {
               "value": "{paragraphIndent.0}",
               "type": "paragraphIndent"
             },
-            "name": "mch_typography_headings_2_xl_h3_paragraph_indent",
+            "name": "xyz_typography_headings_2_xl_h3_paragraph_indent",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -8582,7 +13272,7 @@ module.exports = {
               "value": "{textCase.none}",
               "type": "textCase"
             },
-            "name": "mch_typography_headings_2_xl_h3_text_case",
+            "name": "xyz_typography_headings_2_xl_h3_text_case",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -8607,7 +13297,7 @@ module.exports = {
               "value": "{textDecoration.none}",
               "type": "textDecoration"
             },
-            "name": "mch_typography_headings_2_xl_h3_text_decoration",
+            "name": "xyz_typography_headings_2_xl_h3_text_decoration",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -8624,7 +13314,7 @@ module.exports = {
             ]
           }
         },
-        "H4": {
+        "h4": {
           "fontFamily": {
             "value": "Art Basel Headline",
             "type": "fontFamilies",
@@ -8634,7 +13324,7 @@ module.exports = {
               "value": "{fontFamilies.art-basel-headline}",
               "type": "fontFamilies"
             },
-            "name": "mch_typography_headings_2_xl_h4_font_family",
+            "name": "xyz_typography_headings_2_xl_h4_font_family",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -8659,7 +13349,7 @@ module.exports = {
               "value": "{fontWeights.art-basel-headline-0}",
               "type": "fontWeights"
             },
-            "name": "mch_typography_headings_2_xl_h4_font_weight",
+            "name": "xyz_typography_headings_2_xl_h4_font_weight",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -8684,7 +13374,7 @@ module.exports = {
               "value": "{lineHeights.2}",
               "type": "lineHeights"
             },
-            "name": "mch_typography_headings_2_xl_h4_line_height",
+            "name": "xyz_typography_headings_2_xl_h4_line_height",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -8709,7 +13399,7 @@ module.exports = {
               "value": "{fontSize.5}",
               "type": "fontSizes"
             },
-            "name": "mch_typography_headings_2_xl_h4_font_size",
+            "name": "xyz_typography_headings_2_xl_h4_font_size",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -8726,7 +13416,7 @@ module.exports = {
             ]
           },
           "letterSpacing": {
-            "value": "0",
+            "value": "0rem",
             "type": "letterSpacing",
             "filePath": "src/global.json",
             "isSource": true,
@@ -8734,7 +13424,7 @@ module.exports = {
               "value": "{letterSpacing.0}",
               "type": "letterSpacing"
             },
-            "name": "mch_typography_headings_2_xl_h4_letter_spacing",
+            "name": "xyz_typography_headings_2_xl_h4_letter_spacing",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -8759,7 +13449,7 @@ module.exports = {
               "value": "{paragraphSpacing.0}",
               "type": "paragraphSpacing"
             },
-            "name": "mch_typography_headings_2_xl_h4_paragraph_spacing",
+            "name": "xyz_typography_headings_2_xl_h4_paragraph_spacing",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -8784,7 +13474,7 @@ module.exports = {
               "value": "{paragraphIndent.0}",
               "type": "paragraphIndent"
             },
-            "name": "mch_typography_headings_2_xl_h4_paragraph_indent",
+            "name": "xyz_typography_headings_2_xl_h4_paragraph_indent",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -8809,7 +13499,7 @@ module.exports = {
               "value": "{textCase.none}",
               "type": "textCase"
             },
-            "name": "mch_typography_headings_2_xl_h4_text_case",
+            "name": "xyz_typography_headings_2_xl_h4_text_case",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -8834,7 +13524,7 @@ module.exports = {
               "value": "{textDecoration.none}",
               "type": "textDecoration"
             },
-            "name": "mch_typography_headings_2_xl_h4_text_decoration",
+            "name": "xyz_typography_headings_2_xl_h4_text_decoration",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -8851,7 +13541,7 @@ module.exports = {
             ]
           }
         },
-        "H5": {
+        "h5": {
           "fontFamily": {
             "value": "Art Basel Headline",
             "type": "fontFamilies",
@@ -8861,7 +13551,7 @@ module.exports = {
               "value": "{fontFamilies.art-basel-headline}",
               "type": "fontFamilies"
             },
-            "name": "mch_typography_headings_2_xl_h5_font_family",
+            "name": "xyz_typography_headings_2_xl_h5_font_family",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -8886,7 +13576,7 @@ module.exports = {
               "value": "{fontWeights.art-basel-headline-0}",
               "type": "fontWeights"
             },
-            "name": "mch_typography_headings_2_xl_h5_font_weight",
+            "name": "xyz_typography_headings_2_xl_h5_font_weight",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -8911,7 +13601,7 @@ module.exports = {
               "value": "{lineHeights.4}",
               "type": "lineHeights"
             },
-            "name": "mch_typography_headings_2_xl_h5_line_height",
+            "name": "xyz_typography_headings_2_xl_h5_line_height",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -8936,7 +13626,7 @@ module.exports = {
               "value": "{fontSize.3}",
               "type": "fontSizes"
             },
-            "name": "mch_typography_headings_2_xl_h5_font_size",
+            "name": "xyz_typography_headings_2_xl_h5_font_size",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -8953,7 +13643,7 @@ module.exports = {
             ]
           },
           "letterSpacing": {
-            "value": "0",
+            "value": "0rem",
             "type": "letterSpacing",
             "filePath": "src/global.json",
             "isSource": true,
@@ -8961,7 +13651,7 @@ module.exports = {
               "value": "{letterSpacing.0}",
               "type": "letterSpacing"
             },
-            "name": "mch_typography_headings_2_xl_h5_letter_spacing",
+            "name": "xyz_typography_headings_2_xl_h5_letter_spacing",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -8986,7 +13676,7 @@ module.exports = {
               "value": "{paragraphSpacing.0}",
               "type": "paragraphSpacing"
             },
-            "name": "mch_typography_headings_2_xl_h5_paragraph_spacing",
+            "name": "xyz_typography_headings_2_xl_h5_paragraph_spacing",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -9011,7 +13701,7 @@ module.exports = {
               "value": "{paragraphIndent.0}",
               "type": "paragraphIndent"
             },
-            "name": "mch_typography_headings_2_xl_h5_paragraph_indent",
+            "name": "xyz_typography_headings_2_xl_h5_paragraph_indent",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -9036,7 +13726,7 @@ module.exports = {
               "value": "{textCase.none}",
               "type": "textCase"
             },
-            "name": "mch_typography_headings_2_xl_h5_text_case",
+            "name": "xyz_typography_headings_2_xl_h5_text_case",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -9061,7 +13751,7 @@ module.exports = {
               "value": "{textDecoration.none}",
               "type": "textDecoration"
             },
-            "name": "mch_typography_headings_2_xl_h5_text_decoration",
+            "name": "xyz_typography_headings_2_xl_h5_text_decoration",
             "attributes": {
               "category": "Typography",
               "type": "Headings",
@@ -9080,9 +13770,9 @@ module.exports = {
         }
       }
     },
-    "Paragraphs": {
-      "XS-SM": {
-        "P1": {
+    "paragraphs": {
+      "xsSm": {
+        "p1": {
           "fontFamily": {
             "value": "Art Basel Text",
             "type": "fontFamilies",
@@ -9092,7 +13782,7 @@ module.exports = {
               "value": "{fontFamilies.art-basel-text}",
               "type": "fontFamilies"
             },
-            "name": "mch_typography_paragraphs_xs_sm_p1_font_family",
+            "name": "xyz_typography_paragraphs_xs_sm_p1_font_family",
             "attributes": {
               "category": "Typography",
               "type": "Paragraphs",
@@ -9117,7 +13807,7 @@ module.exports = {
               "value": "{fontWeights.art-basel-text-1}",
               "type": "fontWeights"
             },
-            "name": "mch_typography_paragraphs_xs_sm_p1_font_weight",
+            "name": "xyz_typography_paragraphs_xs_sm_p1_font_weight",
             "attributes": {
               "category": "Typography",
               "type": "Paragraphs",
@@ -9142,7 +13832,7 @@ module.exports = {
               "value": "{lineHeights.2}",
               "type": "lineHeights"
             },
-            "name": "mch_typography_paragraphs_xs_sm_p1_line_height",
+            "name": "xyz_typography_paragraphs_xs_sm_p1_line_height",
             "attributes": {
               "category": "Typography",
               "type": "Paragraphs",
@@ -9167,7 +13857,7 @@ module.exports = {
               "value": "{fontSize.5}",
               "type": "fontSizes"
             },
-            "name": "mch_typography_paragraphs_xs_sm_p1_font_size",
+            "name": "xyz_typography_paragraphs_xs_sm_p1_font_size",
             "attributes": {
               "category": "Typography",
               "type": "Paragraphs",
@@ -9184,7 +13874,7 @@ module.exports = {
             ]
           },
           "letterSpacing": {
-            "value": "0",
+            "value": "0rem",
             "type": "letterSpacing",
             "filePath": "src/global.json",
             "isSource": true,
@@ -9192,7 +13882,7 @@ module.exports = {
               "value": "{letterSpacing.0}",
               "type": "letterSpacing"
             },
-            "name": "mch_typography_paragraphs_xs_sm_p1_letter_spacing",
+            "name": "xyz_typography_paragraphs_xs_sm_p1_letter_spacing",
             "attributes": {
               "category": "Typography",
               "type": "Paragraphs",
@@ -9217,7 +13907,7 @@ module.exports = {
               "value": "{paragraphSpacing.0}",
               "type": "paragraphSpacing"
             },
-            "name": "mch_typography_paragraphs_xs_sm_p1_paragraph_spacing",
+            "name": "xyz_typography_paragraphs_xs_sm_p1_paragraph_spacing",
             "attributes": {
               "category": "Typography",
               "type": "Paragraphs",
@@ -9242,7 +13932,7 @@ module.exports = {
               "value": "{paragraphIndent.0}",
               "type": "paragraphIndent"
             },
-            "name": "mch_typography_paragraphs_xs_sm_p1_paragraph_indent",
+            "name": "xyz_typography_paragraphs_xs_sm_p1_paragraph_indent",
             "attributes": {
               "category": "Typography",
               "type": "Paragraphs",
@@ -9267,7 +13957,7 @@ module.exports = {
               "value": "{textCase.none}",
               "type": "textCase"
             },
-            "name": "mch_typography_paragraphs_xs_sm_p1_text_case",
+            "name": "xyz_typography_paragraphs_xs_sm_p1_text_case",
             "attributes": {
               "category": "Typography",
               "type": "Paragraphs",
@@ -9292,7 +13982,7 @@ module.exports = {
               "value": "{textDecoration.none}",
               "type": "textDecoration"
             },
-            "name": "mch_typography_paragraphs_xs_sm_p1_text_decoration",
+            "name": "xyz_typography_paragraphs_xs_sm_p1_text_decoration",
             "attributes": {
               "category": "Typography",
               "type": "Paragraphs",
@@ -9309,7 +13999,7 @@ module.exports = {
             ]
           }
         },
-        "P2": {
+        "p2": {
           "fontFamily": {
             "value": "Art Basel Text",
             "type": "fontFamilies",
@@ -9319,7 +14009,7 @@ module.exports = {
               "value": "{fontFamilies.art-basel-text}",
               "type": "fontFamilies"
             },
-            "name": "mch_typography_paragraphs_xs_sm_p2_font_family",
+            "name": "xyz_typography_paragraphs_xs_sm_p2_font_family",
             "attributes": {
               "category": "Typography",
               "type": "Paragraphs",
@@ -9344,7 +14034,7 @@ module.exports = {
               "value": "{fontWeights.art-basel-text-1}",
               "type": "fontWeights"
             },
-            "name": "mch_typography_paragraphs_xs_sm_p2_font_weight",
+            "name": "xyz_typography_paragraphs_xs_sm_p2_font_weight",
             "attributes": {
               "category": "Typography",
               "type": "Paragraphs",
@@ -9369,7 +14059,7 @@ module.exports = {
               "value": "{lineHeights.3}",
               "type": "lineHeights"
             },
-            "name": "mch_typography_paragraphs_xs_sm_p2_line_height",
+            "name": "xyz_typography_paragraphs_xs_sm_p2_line_height",
             "attributes": {
               "category": "Typography",
               "type": "Paragraphs",
@@ -9394,7 +14084,7 @@ module.exports = {
               "value": "{fontSize.4}",
               "type": "fontSizes"
             },
-            "name": "mch_typography_paragraphs_xs_sm_p2_font_size",
+            "name": "xyz_typography_paragraphs_xs_sm_p2_font_size",
             "attributes": {
               "category": "Typography",
               "type": "Paragraphs",
@@ -9411,7 +14101,7 @@ module.exports = {
             ]
           },
           "letterSpacing": {
-            "value": "0",
+            "value": "0rem",
             "type": "letterSpacing",
             "filePath": "src/global.json",
             "isSource": true,
@@ -9419,7 +14109,7 @@ module.exports = {
               "value": "{letterSpacing.0}",
               "type": "letterSpacing"
             },
-            "name": "mch_typography_paragraphs_xs_sm_p2_letter_spacing",
+            "name": "xyz_typography_paragraphs_xs_sm_p2_letter_spacing",
             "attributes": {
               "category": "Typography",
               "type": "Paragraphs",
@@ -9444,7 +14134,7 @@ module.exports = {
               "value": "{paragraphSpacing.0}",
               "type": "paragraphSpacing"
             },
-            "name": "mch_typography_paragraphs_xs_sm_p2_paragraph_spacing",
+            "name": "xyz_typography_paragraphs_xs_sm_p2_paragraph_spacing",
             "attributes": {
               "category": "Typography",
               "type": "Paragraphs",
@@ -9469,7 +14159,7 @@ module.exports = {
               "value": "{paragraphIndent.0}",
               "type": "paragraphIndent"
             },
-            "name": "mch_typography_paragraphs_xs_sm_p2_paragraph_indent",
+            "name": "xyz_typography_paragraphs_xs_sm_p2_paragraph_indent",
             "attributes": {
               "category": "Typography",
               "type": "Paragraphs",
@@ -9494,7 +14184,7 @@ module.exports = {
               "value": "{textCase.none}",
               "type": "textCase"
             },
-            "name": "mch_typography_paragraphs_xs_sm_p2_text_case",
+            "name": "xyz_typography_paragraphs_xs_sm_p2_text_case",
             "attributes": {
               "category": "Typography",
               "type": "Paragraphs",
@@ -9519,7 +14209,7 @@ module.exports = {
               "value": "{textDecoration.none}",
               "type": "textDecoration"
             },
-            "name": "mch_typography_paragraphs_xs_sm_p2_text_decoration",
+            "name": "xyz_typography_paragraphs_xs_sm_p2_text_decoration",
             "attributes": {
               "category": "Typography",
               "type": "Paragraphs",
@@ -9537,8 +14227,8 @@ module.exports = {
           }
         }
       },
-      "XL": {
-        "P1": {
+      "xl": {
+        "p1": {
           "fontFamily": {
             "value": "Art Basel Text",
             "type": "fontFamilies",
@@ -9548,7 +14238,7 @@ module.exports = {
               "value": "{fontFamilies.art-basel-text}",
               "type": "fontFamilies"
             },
-            "name": "mch_typography_paragraphs_xl_p1_font_family",
+            "name": "xyz_typography_paragraphs_xl_p1_font_family",
             "attributes": {
               "category": "Typography",
               "type": "Paragraphs",
@@ -9573,7 +14263,7 @@ module.exports = {
               "value": "{fontWeights.art-basel-text-1}",
               "type": "fontWeights"
             },
-            "name": "mch_typography_paragraphs_xl_p1_font_weight",
+            "name": "xyz_typography_paragraphs_xl_p1_font_weight",
             "attributes": {
               "category": "Typography",
               "type": "Paragraphs",
@@ -9598,7 +14288,7 @@ module.exports = {
               "value": "{lineHeights.7}",
               "type": "lineHeights"
             },
-            "name": "mch_typography_paragraphs_xl_p1_line_height",
+            "name": "xyz_typography_paragraphs_xl_p1_line_height",
             "attributes": {
               "category": "Typography",
               "type": "Paragraphs",
@@ -9623,7 +14313,7 @@ module.exports = {
               "value": "{fontSize.7}",
               "type": "fontSizes"
             },
-            "name": "mch_typography_paragraphs_xl_p1_font_size",
+            "name": "xyz_typography_paragraphs_xl_p1_font_size",
             "attributes": {
               "category": "Typography",
               "type": "Paragraphs",
@@ -9640,7 +14330,7 @@ module.exports = {
             ]
           },
           "letterSpacing": {
-            "value": "0",
+            "value": "0rem",
             "type": "letterSpacing",
             "filePath": "src/global.json",
             "isSource": true,
@@ -9648,7 +14338,7 @@ module.exports = {
               "value": "{letterSpacing.0}",
               "type": "letterSpacing"
             },
-            "name": "mch_typography_paragraphs_xl_p1_letter_spacing",
+            "name": "xyz_typography_paragraphs_xl_p1_letter_spacing",
             "attributes": {
               "category": "Typography",
               "type": "Paragraphs",
@@ -9673,7 +14363,7 @@ module.exports = {
               "value": "{paragraphSpacing.0}",
               "type": "paragraphSpacing"
             },
-            "name": "mch_typography_paragraphs_xl_p1_paragraph_spacing",
+            "name": "xyz_typography_paragraphs_xl_p1_paragraph_spacing",
             "attributes": {
               "category": "Typography",
               "type": "Paragraphs",
@@ -9698,7 +14388,7 @@ module.exports = {
               "value": "{paragraphIndent.0}",
               "type": "paragraphIndent"
             },
-            "name": "mch_typography_paragraphs_xl_p1_paragraph_indent",
+            "name": "xyz_typography_paragraphs_xl_p1_paragraph_indent",
             "attributes": {
               "category": "Typography",
               "type": "Paragraphs",
@@ -9723,7 +14413,7 @@ module.exports = {
               "value": "{textCase.none}",
               "type": "textCase"
             },
-            "name": "mch_typography_paragraphs_xl_p1_text_case",
+            "name": "xyz_typography_paragraphs_xl_p1_text_case",
             "attributes": {
               "category": "Typography",
               "type": "Paragraphs",
@@ -9748,7 +14438,7 @@ module.exports = {
               "value": "{textDecoration.none}",
               "type": "textDecoration"
             },
-            "name": "mch_typography_paragraphs_xl_p1_text_decoration",
+            "name": "xyz_typography_paragraphs_xl_p1_text_decoration",
             "attributes": {
               "category": "Typography",
               "type": "Paragraphs",
@@ -9765,7 +14455,7 @@ module.exports = {
             ]
           }
         },
-        "P2": {
+        "p2": {
           "fontFamily": {
             "value": "Art Basel Text",
             "type": "fontFamilies",
@@ -9775,7 +14465,7 @@ module.exports = {
               "value": "{fontFamilies.art-basel-text}",
               "type": "fontFamilies"
             },
-            "name": "mch_typography_paragraphs_xl_p2_font_family",
+            "name": "xyz_typography_paragraphs_xl_p2_font_family",
             "attributes": {
               "category": "Typography",
               "type": "Paragraphs",
@@ -9800,7 +14490,7 @@ module.exports = {
               "value": "{fontWeights.art-basel-text-1}",
               "type": "fontWeights"
             },
-            "name": "mch_typography_paragraphs_xl_p2_font_weight",
+            "name": "xyz_typography_paragraphs_xl_p2_font_weight",
             "attributes": {
               "category": "Typography",
               "type": "Paragraphs",
@@ -9825,7 +14515,7 @@ module.exports = {
               "value": "{lineHeights.2}",
               "type": "lineHeights"
             },
-            "name": "mch_typography_paragraphs_xl_p2_line_height",
+            "name": "xyz_typography_paragraphs_xl_p2_line_height",
             "attributes": {
               "category": "Typography",
               "type": "Paragraphs",
@@ -9850,7 +14540,7 @@ module.exports = {
               "value": "{fontSize.5}",
               "type": "fontSizes"
             },
-            "name": "mch_typography_paragraphs_xl_p2_font_size",
+            "name": "xyz_typography_paragraphs_xl_p2_font_size",
             "attributes": {
               "category": "Typography",
               "type": "Paragraphs",
@@ -9867,7 +14557,7 @@ module.exports = {
             ]
           },
           "letterSpacing": {
-            "value": "0",
+            "value": "0rem",
             "type": "letterSpacing",
             "filePath": "src/global.json",
             "isSource": true,
@@ -9875,7 +14565,7 @@ module.exports = {
               "value": "{letterSpacing.0}",
               "type": "letterSpacing"
             },
-            "name": "mch_typography_paragraphs_xl_p2_letter_spacing",
+            "name": "xyz_typography_paragraphs_xl_p2_letter_spacing",
             "attributes": {
               "category": "Typography",
               "type": "Paragraphs",
@@ -9900,7 +14590,7 @@ module.exports = {
               "value": "{paragraphSpacing.0}",
               "type": "paragraphSpacing"
             },
-            "name": "mch_typography_paragraphs_xl_p2_paragraph_spacing",
+            "name": "xyz_typography_paragraphs_xl_p2_paragraph_spacing",
             "attributes": {
               "category": "Typography",
               "type": "Paragraphs",
@@ -9925,7 +14615,7 @@ module.exports = {
               "value": "{paragraphIndent.0}",
               "type": "paragraphIndent"
             },
-            "name": "mch_typography_paragraphs_xl_p2_paragraph_indent",
+            "name": "xyz_typography_paragraphs_xl_p2_paragraph_indent",
             "attributes": {
               "category": "Typography",
               "type": "Paragraphs",
@@ -9950,7 +14640,7 @@ module.exports = {
               "value": "{textCase.none}",
               "type": "textCase"
             },
-            "name": "mch_typography_paragraphs_xl_p2_text_case",
+            "name": "xyz_typography_paragraphs_xl_p2_text_case",
             "attributes": {
               "category": "Typography",
               "type": "Paragraphs",
@@ -9975,7 +14665,7 @@ module.exports = {
               "value": "{textDecoration.none}",
               "type": "textDecoration"
             },
-            "name": "mch_typography_paragraphs_xl_p2_text_decoration",
+            "name": "xyz_typography_paragraphs_xl_p2_text_decoration",
             "attributes": {
               "category": "Typography",
               "type": "Paragraphs",
@@ -9993,8 +14683,8 @@ module.exports = {
           }
         }
       },
-      "MD": {
-        "P1": {
+      "md": {
+        "p1": {
           "fontFamily": {
             "value": "Art Basel Text",
             "type": "fontFamilies",
@@ -10004,7 +14694,7 @@ module.exports = {
               "value": "{fontFamilies.art-basel-text}",
               "type": "fontFamilies"
             },
-            "name": "mch_typography_paragraphs_md_p1_font_family",
+            "name": "xyz_typography_paragraphs_md_p1_font_family",
             "attributes": {
               "category": "Typography",
               "type": "Paragraphs",
@@ -10029,7 +14719,7 @@ module.exports = {
               "value": "{fontWeights.art-basel-text-1}",
               "type": "fontWeights"
             },
-            "name": "mch_typography_paragraphs_md_p1_font_weight",
+            "name": "xyz_typography_paragraphs_md_p1_font_weight",
             "attributes": {
               "category": "Typography",
               "type": "Paragraphs",
@@ -10054,7 +14744,7 @@ module.exports = {
               "value": "{lineHeights.7}",
               "type": "lineHeights"
             },
-            "name": "mch_typography_paragraphs_md_p1_line_height",
+            "name": "xyz_typography_paragraphs_md_p1_line_height",
             "attributes": {
               "category": "Typography",
               "type": "Paragraphs",
@@ -10079,7 +14769,7 @@ module.exports = {
               "value": "{fontSize.7}",
               "type": "fontSizes"
             },
-            "name": "mch_typography_paragraphs_md_p1_font_size",
+            "name": "xyz_typography_paragraphs_md_p1_font_size",
             "attributes": {
               "category": "Typography",
               "type": "Paragraphs",
@@ -10096,15 +14786,15 @@ module.exports = {
             ]
           },
           "letterSpacing": {
-            "value": "0%",
+            "value": "0rem",
             "type": "letterSpacing",
             "filePath": "src/global.json",
             "isSource": true,
             "original": {
-              "value": "{letterSpacing.1}",
+              "value": "{letterSpacing.0}",
               "type": "letterSpacing"
             },
-            "name": "mch_typography_paragraphs_md_p1_letter_spacing",
+            "name": "xyz_typography_paragraphs_md_p1_letter_spacing",
             "attributes": {
               "category": "Typography",
               "type": "Paragraphs",
@@ -10129,7 +14819,7 @@ module.exports = {
               "value": "{paragraphSpacing.1}",
               "type": "paragraphSpacing"
             },
-            "name": "mch_typography_paragraphs_md_p1_paragraph_spacing",
+            "name": "xyz_typography_paragraphs_md_p1_paragraph_spacing",
             "attributes": {
               "category": "Typography",
               "type": "Paragraphs",
@@ -10154,7 +14844,7 @@ module.exports = {
               "value": "{paragraphIndent.0}",
               "type": "paragraphIndent"
             },
-            "name": "mch_typography_paragraphs_md_p1_paragraph_indent",
+            "name": "xyz_typography_paragraphs_md_p1_paragraph_indent",
             "attributes": {
               "category": "Typography",
               "type": "Paragraphs",
@@ -10179,7 +14869,7 @@ module.exports = {
               "value": "{textCase.none}",
               "type": "textCase"
             },
-            "name": "mch_typography_paragraphs_md_p1_text_case",
+            "name": "xyz_typography_paragraphs_md_p1_text_case",
             "attributes": {
               "category": "Typography",
               "type": "Paragraphs",
@@ -10204,7 +14894,7 @@ module.exports = {
               "value": "{textDecoration.none}",
               "type": "textDecoration"
             },
-            "name": "mch_typography_paragraphs_md_p1_text_decoration",
+            "name": "xyz_typography_paragraphs_md_p1_text_decoration",
             "attributes": {
               "category": "Typography",
               "type": "Paragraphs",
@@ -10221,7 +14911,7 @@ module.exports = {
             ]
           }
         },
-        "P2": {
+        "p2": {
           "fontFamily": {
             "value": "Art Basel Text",
             "type": "fontFamilies",
@@ -10231,7 +14921,7 @@ module.exports = {
               "value": "{fontFamilies.art-basel-text}",
               "type": "fontFamilies"
             },
-            "name": "mch_typography_paragraphs_md_p2_font_family",
+            "name": "xyz_typography_paragraphs_md_p2_font_family",
             "attributes": {
               "category": "Typography",
               "type": "Paragraphs",
@@ -10256,7 +14946,7 @@ module.exports = {
               "value": "{fontWeights.art-basel-text-1}",
               "type": "fontWeights"
             },
-            "name": "mch_typography_paragraphs_md_p2_font_weight",
+            "name": "xyz_typography_paragraphs_md_p2_font_weight",
             "attributes": {
               "category": "Typography",
               "type": "Paragraphs",
@@ -10281,7 +14971,7 @@ module.exports = {
               "value": "{lineHeights.2}",
               "type": "lineHeights"
             },
-            "name": "mch_typography_paragraphs_md_p2_line_height",
+            "name": "xyz_typography_paragraphs_md_p2_line_height",
             "attributes": {
               "category": "Typography",
               "type": "Paragraphs",
@@ -10306,7 +14996,7 @@ module.exports = {
               "value": "{fontSize.5}",
               "type": "fontSizes"
             },
-            "name": "mch_typography_paragraphs_md_p2_font_size",
+            "name": "xyz_typography_paragraphs_md_p2_font_size",
             "attributes": {
               "category": "Typography",
               "type": "Paragraphs",
@@ -10323,15 +15013,15 @@ module.exports = {
             ]
           },
           "letterSpacing": {
-            "value": "0%",
+            "value": "0rem",
             "type": "letterSpacing",
             "filePath": "src/global.json",
             "isSource": true,
             "original": {
-              "value": "{letterSpacing.1}",
+              "value": "{letterSpacing.0}",
               "type": "letterSpacing"
             },
-            "name": "mch_typography_paragraphs_md_p2_letter_spacing",
+            "name": "xyz_typography_paragraphs_md_p2_letter_spacing",
             "attributes": {
               "category": "Typography",
               "type": "Paragraphs",
@@ -10356,7 +15046,7 @@ module.exports = {
               "value": "{paragraphSpacing.1}",
               "type": "paragraphSpacing"
             },
-            "name": "mch_typography_paragraphs_md_p2_paragraph_spacing",
+            "name": "xyz_typography_paragraphs_md_p2_paragraph_spacing",
             "attributes": {
               "category": "Typography",
               "type": "Paragraphs",
@@ -10381,7 +15071,7 @@ module.exports = {
               "value": "{paragraphIndent.0}",
               "type": "paragraphIndent"
             },
-            "name": "mch_typography_paragraphs_md_p2_paragraph_indent",
+            "name": "xyz_typography_paragraphs_md_p2_paragraph_indent",
             "attributes": {
               "category": "Typography",
               "type": "Paragraphs",
@@ -10406,7 +15096,7 @@ module.exports = {
               "value": "{textCase.none}",
               "type": "textCase"
             },
-            "name": "mch_typography_paragraphs_md_p2_text_case",
+            "name": "xyz_typography_paragraphs_md_p2_text_case",
             "attributes": {
               "category": "Typography",
               "type": "Paragraphs",
@@ -10431,7 +15121,7 @@ module.exports = {
               "value": "{textDecoration.none}",
               "type": "textDecoration"
             },
-            "name": "mch_typography_paragraphs_md_p2_text_decoration",
+            "name": "xyz_typography_paragraphs_md_p2_text_decoration",
             "attributes": {
               "category": "Typography",
               "type": "Paragraphs",
@@ -10449,8 +15139,8 @@ module.exports = {
           }
         }
       },
-      "LG": {
-        "P1": {
+      "lg": {
+        "p1": {
           "fontFamily": {
             "value": "Art Basel Text",
             "type": "fontFamilies",
@@ -10460,7 +15150,7 @@ module.exports = {
               "value": "{fontFamilies.art-basel-text}",
               "type": "fontFamilies"
             },
-            "name": "mch_typography_paragraphs_lg_p1_font_family",
+            "name": "xyz_typography_paragraphs_lg_p1_font_family",
             "attributes": {
               "category": "Typography",
               "type": "Paragraphs",
@@ -10485,7 +15175,7 @@ module.exports = {
               "value": "{fontWeights.art-basel-text-1}",
               "type": "fontWeights"
             },
-            "name": "mch_typography_paragraphs_lg_p1_font_weight",
+            "name": "xyz_typography_paragraphs_lg_p1_font_weight",
             "attributes": {
               "category": "Typography",
               "type": "Paragraphs",
@@ -10510,7 +15200,7 @@ module.exports = {
               "value": "{lineHeights.7}",
               "type": "lineHeights"
             },
-            "name": "mch_typography_paragraphs_lg_p1_line_height",
+            "name": "xyz_typography_paragraphs_lg_p1_line_height",
             "attributes": {
               "category": "Typography",
               "type": "Paragraphs",
@@ -10535,7 +15225,7 @@ module.exports = {
               "value": "{fontSize.7}",
               "type": "fontSizes"
             },
-            "name": "mch_typography_paragraphs_lg_p1_font_size",
+            "name": "xyz_typography_paragraphs_lg_p1_font_size",
             "attributes": {
               "category": "Typography",
               "type": "Paragraphs",
@@ -10552,15 +15242,15 @@ module.exports = {
             ]
           },
           "letterSpacing": {
-            "value": "0%",
+            "value": "0rem",
             "type": "letterSpacing",
             "filePath": "src/global.json",
             "isSource": true,
             "original": {
-              "value": "{letterSpacing.1}",
+              "value": "{letterSpacing.0}",
               "type": "letterSpacing"
             },
-            "name": "mch_typography_paragraphs_lg_p1_letter_spacing",
+            "name": "xyz_typography_paragraphs_lg_p1_letter_spacing",
             "attributes": {
               "category": "Typography",
               "type": "Paragraphs",
@@ -10585,7 +15275,7 @@ module.exports = {
               "value": "{paragraphSpacing.1}",
               "type": "paragraphSpacing"
             },
-            "name": "mch_typography_paragraphs_lg_p1_paragraph_spacing",
+            "name": "xyz_typography_paragraphs_lg_p1_paragraph_spacing",
             "attributes": {
               "category": "Typography",
               "type": "Paragraphs",
@@ -10610,7 +15300,7 @@ module.exports = {
               "value": "{paragraphIndent.0}",
               "type": "paragraphIndent"
             },
-            "name": "mch_typography_paragraphs_lg_p1_paragraph_indent",
+            "name": "xyz_typography_paragraphs_lg_p1_paragraph_indent",
             "attributes": {
               "category": "Typography",
               "type": "Paragraphs",
@@ -10635,7 +15325,7 @@ module.exports = {
               "value": "{textCase.none}",
               "type": "textCase"
             },
-            "name": "mch_typography_paragraphs_lg_p1_text_case",
+            "name": "xyz_typography_paragraphs_lg_p1_text_case",
             "attributes": {
               "category": "Typography",
               "type": "Paragraphs",
@@ -10660,7 +15350,7 @@ module.exports = {
               "value": "{textDecoration.none}",
               "type": "textDecoration"
             },
-            "name": "mch_typography_paragraphs_lg_p1_text_decoration",
+            "name": "xyz_typography_paragraphs_lg_p1_text_decoration",
             "attributes": {
               "category": "Typography",
               "type": "Paragraphs",
@@ -10677,7 +15367,7 @@ module.exports = {
             ]
           }
         },
-        "P2": {
+        "p2": {
           "fontFamily": {
             "value": "Art Basel Text",
             "type": "fontFamilies",
@@ -10687,7 +15377,7 @@ module.exports = {
               "value": "{fontFamilies.art-basel-text}",
               "type": "fontFamilies"
             },
-            "name": "mch_typography_paragraphs_lg_p2_font_family",
+            "name": "xyz_typography_paragraphs_lg_p2_font_family",
             "attributes": {
               "category": "Typography",
               "type": "Paragraphs",
@@ -10712,7 +15402,7 @@ module.exports = {
               "value": "{fontWeights.art-basel-text-1}",
               "type": "fontWeights"
             },
-            "name": "mch_typography_paragraphs_lg_p2_font_weight",
+            "name": "xyz_typography_paragraphs_lg_p2_font_weight",
             "attributes": {
               "category": "Typography",
               "type": "Paragraphs",
@@ -10737,7 +15427,7 @@ module.exports = {
               "value": "{lineHeights.2}",
               "type": "lineHeights"
             },
-            "name": "mch_typography_paragraphs_lg_p2_line_height",
+            "name": "xyz_typography_paragraphs_lg_p2_line_height",
             "attributes": {
               "category": "Typography",
               "type": "Paragraphs",
@@ -10762,7 +15452,7 @@ module.exports = {
               "value": "{fontSize.5}",
               "type": "fontSizes"
             },
-            "name": "mch_typography_paragraphs_lg_p2_font_size",
+            "name": "xyz_typography_paragraphs_lg_p2_font_size",
             "attributes": {
               "category": "Typography",
               "type": "Paragraphs",
@@ -10779,15 +15469,15 @@ module.exports = {
             ]
           },
           "letterSpacing": {
-            "value": "0%",
+            "value": "0rem",
             "type": "letterSpacing",
             "filePath": "src/global.json",
             "isSource": true,
             "original": {
-              "value": "{letterSpacing.1}",
+              "value": "{letterSpacing.0}",
               "type": "letterSpacing"
             },
-            "name": "mch_typography_paragraphs_lg_p2_letter_spacing",
+            "name": "xyz_typography_paragraphs_lg_p2_letter_spacing",
             "attributes": {
               "category": "Typography",
               "type": "Paragraphs",
@@ -10812,7 +15502,7 @@ module.exports = {
               "value": "{paragraphSpacing.1}",
               "type": "paragraphSpacing"
             },
-            "name": "mch_typography_paragraphs_lg_p2_paragraph_spacing",
+            "name": "xyz_typography_paragraphs_lg_p2_paragraph_spacing",
             "attributes": {
               "category": "Typography",
               "type": "Paragraphs",
@@ -10837,7 +15527,7 @@ module.exports = {
               "value": "{paragraphIndent.0}",
               "type": "paragraphIndent"
             },
-            "name": "mch_typography_paragraphs_lg_p2_paragraph_indent",
+            "name": "xyz_typography_paragraphs_lg_p2_paragraph_indent",
             "attributes": {
               "category": "Typography",
               "type": "Paragraphs",
@@ -10862,7 +15552,7 @@ module.exports = {
               "value": "{textCase.none}",
               "type": "textCase"
             },
-            "name": "mch_typography_paragraphs_lg_p2_text_case",
+            "name": "xyz_typography_paragraphs_lg_p2_text_case",
             "attributes": {
               "category": "Typography",
               "type": "Paragraphs",
@@ -10887,7 +15577,7 @@ module.exports = {
               "value": "{textDecoration.none}",
               "type": "textDecoration"
             },
-            "name": "mch_typography_paragraphs_lg_p2_text_decoration",
+            "name": "xyz_typography_paragraphs_lg_p2_text_decoration",
             "attributes": {
               "category": "Typography",
               "type": "Paragraphs",
@@ -10906,7 +15596,7 @@ module.exports = {
         }
       }
     },
-    "Headings (fixed)": {
+    "headingsFixed": {
       "01": {
         "fontFamily": {
           "value": "Art Basel Headline",
@@ -10917,7 +15607,7 @@ module.exports = {
             "value": "{fontFamilies.art-basel-headline}",
             "type": "fontFamilies"
           },
-          "name": "mch_typography_headings_fixed_01_font_family",
+          "name": "xyz_typography_headings_fixed_01_font_family",
           "attributes": {
             "category": "Typography",
             "type": "Headings (fixed)",
@@ -10940,7 +15630,7 @@ module.exports = {
             "value": "{fontWeights.art-basel-headline-0}",
             "type": "fontWeights"
           },
-          "name": "mch_typography_headings_fixed_01_font_weight",
+          "name": "xyz_typography_headings_fixed_01_font_weight",
           "attributes": {
             "category": "Typography",
             "type": "Headings (fixed)",
@@ -10963,7 +15653,7 @@ module.exports = {
             "value": "{lineHeights.4}",
             "type": "lineHeights"
           },
-          "name": "mch_typography_headings_fixed_01_line_height",
+          "name": "xyz_typography_headings_fixed_01_line_height",
           "attributes": {
             "category": "Typography",
             "type": "Headings (fixed)",
@@ -10986,7 +15676,7 @@ module.exports = {
             "value": "{fontSize.3}",
             "type": "fontSizes"
           },
-          "name": "mch_typography_headings_fixed_01_font_size",
+          "name": "xyz_typography_headings_fixed_01_font_size",
           "attributes": {
             "category": "Typography",
             "type": "Headings (fixed)",
@@ -11001,15 +15691,15 @@ module.exports = {
           ]
         },
         "letterSpacing": {
-          "value": "4",
+          "value": "0.25rem",
           "type": "letterSpacing",
           "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "{letterSpacing.2}",
+            "value": "{letterSpacing.3}",
             "type": "letterSpacing"
           },
-          "name": "mch_typography_headings_fixed_01_letter_spacing",
+          "name": "xyz_typography_headings_fixed_01_letter_spacing",
           "attributes": {
             "category": "Typography",
             "type": "Headings (fixed)",
@@ -11032,7 +15722,7 @@ module.exports = {
             "value": "{paragraphSpacing.0}",
             "type": "paragraphSpacing"
           },
-          "name": "mch_typography_headings_fixed_01_paragraph_spacing",
+          "name": "xyz_typography_headings_fixed_01_paragraph_spacing",
           "attributes": {
             "category": "Typography",
             "type": "Headings (fixed)",
@@ -11055,7 +15745,7 @@ module.exports = {
             "value": "{paragraphIndent.0}",
             "type": "paragraphIndent"
           },
-          "name": "mch_typography_headings_fixed_01_paragraph_indent",
+          "name": "xyz_typography_headings_fixed_01_paragraph_indent",
           "attributes": {
             "category": "Typography",
             "type": "Headings (fixed)",
@@ -11078,7 +15768,7 @@ module.exports = {
             "value": "{textCase.uppercase}",
             "type": "textCase"
           },
-          "name": "mch_typography_headings_fixed_01_text_case",
+          "name": "xyz_typography_headings_fixed_01_text_case",
           "attributes": {
             "category": "Typography",
             "type": "Headings (fixed)",
@@ -11101,7 +15791,7 @@ module.exports = {
             "value": "{textDecoration.none}",
             "type": "textDecoration"
           },
-          "name": "mch_typography_headings_fixed_01_text_decoration",
+          "name": "xyz_typography_headings_fixed_01_text_decoration",
           "attributes": {
             "category": "Typography",
             "type": "Headings (fixed)",
@@ -11126,7 +15816,7 @@ module.exports = {
             "value": "{fontFamilies.art-basel-headline}",
             "type": "fontFamilies"
           },
-          "name": "mch_typography_headings_fixed_02_font_family",
+          "name": "xyz_typography_headings_fixed_02_font_family",
           "attributes": {
             "category": "Typography",
             "type": "Headings (fixed)",
@@ -11149,7 +15839,7 @@ module.exports = {
             "value": "{fontWeights.art-basel-headline-0}",
             "type": "fontWeights"
           },
-          "name": "mch_typography_headings_fixed_02_font_weight",
+          "name": "xyz_typography_headings_fixed_02_font_weight",
           "attributes": {
             "category": "Typography",
             "type": "Headings (fixed)",
@@ -11172,7 +15862,7 @@ module.exports = {
             "value": "{lineHeights.11}",
             "type": "lineHeights"
           },
-          "name": "mch_typography_headings_fixed_02_line_height",
+          "name": "xyz_typography_headings_fixed_02_line_height",
           "attributes": {
             "category": "Typography",
             "type": "Headings (fixed)",
@@ -11195,7 +15885,7 @@ module.exports = {
             "value": "{fontSize.1}",
             "type": "fontSizes"
           },
-          "name": "mch_typography_headings_fixed_02_font_size",
+          "name": "xyz_typography_headings_fixed_02_font_size",
           "attributes": {
             "category": "Typography",
             "type": "Headings (fixed)",
@@ -11210,15 +15900,15 @@ module.exports = {
           ]
         },
         "letterSpacing": {
-          "value": "1",
+          "value": "0.0625rem",
           "type": "letterSpacing",
           "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "{letterSpacing.3}",
+            "value": "{letterSpacing.2}",
             "type": "letterSpacing"
           },
-          "name": "mch_typography_headings_fixed_02_letter_spacing",
+          "name": "xyz_typography_headings_fixed_02_letter_spacing",
           "attributes": {
             "category": "Typography",
             "type": "Headings (fixed)",
@@ -11241,7 +15931,7 @@ module.exports = {
             "value": "{paragraphSpacing.0}",
             "type": "paragraphSpacing"
           },
-          "name": "mch_typography_headings_fixed_02_paragraph_spacing",
+          "name": "xyz_typography_headings_fixed_02_paragraph_spacing",
           "attributes": {
             "category": "Typography",
             "type": "Headings (fixed)",
@@ -11264,7 +15954,7 @@ module.exports = {
             "value": "{paragraphIndent.0}",
             "type": "paragraphIndent"
           },
-          "name": "mch_typography_headings_fixed_02_paragraph_indent",
+          "name": "xyz_typography_headings_fixed_02_paragraph_indent",
           "attributes": {
             "category": "Typography",
             "type": "Headings (fixed)",
@@ -11287,7 +15977,7 @@ module.exports = {
             "value": "{textCase.uppercase}",
             "type": "textCase"
           },
-          "name": "mch_typography_headings_fixed_02_text_case",
+          "name": "xyz_typography_headings_fixed_02_text_case",
           "attributes": {
             "category": "Typography",
             "type": "Headings (fixed)",
@@ -11310,7 +16000,7 @@ module.exports = {
             "value": "{textDecoration.none}",
             "type": "textDecoration"
           },
-          "name": "mch_typography_headings_fixed_02_text_decoration",
+          "name": "xyz_typography_headings_fixed_02_text_decoration",
           "attributes": {
             "category": "Typography",
             "type": "Headings (fixed)",
@@ -11326,8 +16016,8 @@ module.exports = {
         }
       }
     },
-    "Body": {
-      "Text - Large": {
+    "body": {
+      "textLarge": {
         "fontFamily": {
           "value": "Art Basel Text",
           "type": "fontFamilies",
@@ -11337,7 +16027,7 @@ module.exports = {
             "value": "{fontFamilies.art-basel-text}",
             "type": "fontFamilies"
           },
-          "name": "mch_typography_body_text_large_font_family",
+          "name": "xyz_typography_body_text_large_font_family",
           "attributes": {
             "category": "Typography",
             "type": "Body",
@@ -11360,7 +16050,7 @@ module.exports = {
             "value": "{fontWeights.art-basel-text-1}",
             "type": "fontWeights"
           },
-          "name": "mch_typography_body_text_large_font_weight",
+          "name": "xyz_typography_body_text_large_font_weight",
           "attributes": {
             "category": "Typography",
             "type": "Body",
@@ -11383,7 +16073,7 @@ module.exports = {
             "value": "{lineHeights.12}",
             "type": "lineHeights"
           },
-          "name": "mch_typography_body_text_large_line_height",
+          "name": "xyz_typography_body_text_large_line_height",
           "attributes": {
             "category": "Typography",
             "type": "Body",
@@ -11406,7 +16096,7 @@ module.exports = {
             "value": "{fontSize.3}",
             "type": "fontSizes"
           },
-          "name": "mch_typography_body_text_large_font_size",
+          "name": "xyz_typography_body_text_large_font_size",
           "attributes": {
             "category": "Typography",
             "type": "Body",
@@ -11421,7 +16111,7 @@ module.exports = {
           ]
         },
         "letterSpacing": {
-          "value": "0",
+          "value": "0rem",
           "type": "letterSpacing",
           "filePath": "src/global.json",
           "isSource": true,
@@ -11429,7 +16119,7 @@ module.exports = {
             "value": "{letterSpacing.0}",
             "type": "letterSpacing"
           },
-          "name": "mch_typography_body_text_large_letter_spacing",
+          "name": "xyz_typography_body_text_large_letter_spacing",
           "attributes": {
             "category": "Typography",
             "type": "Body",
@@ -11452,7 +16142,7 @@ module.exports = {
             "value": "{paragraphSpacing.0}",
             "type": "paragraphSpacing"
           },
-          "name": "mch_typography_body_text_large_paragraph_spacing",
+          "name": "xyz_typography_body_text_large_paragraph_spacing",
           "attributes": {
             "category": "Typography",
             "type": "Body",
@@ -11475,7 +16165,7 @@ module.exports = {
             "value": "{paragraphIndent.0}",
             "type": "paragraphIndent"
           },
-          "name": "mch_typography_body_text_large_paragraph_indent",
+          "name": "xyz_typography_body_text_large_paragraph_indent",
           "attributes": {
             "category": "Typography",
             "type": "Body",
@@ -11498,7 +16188,7 @@ module.exports = {
             "value": "{textCase.none}",
             "type": "textCase"
           },
-          "name": "mch_typography_body_text_large_text_case",
+          "name": "xyz_typography_body_text_large_text_case",
           "attributes": {
             "category": "Typography",
             "type": "Body",
@@ -11521,7 +16211,7 @@ module.exports = {
             "value": "{textDecoration.none}",
             "type": "textDecoration"
           },
-          "name": "mch_typography_body_text_large_text_decoration",
+          "name": "xyz_typography_body_text_large_text_decoration",
           "attributes": {
             "category": "Typography",
             "type": "Body",
@@ -11536,7 +16226,7 @@ module.exports = {
           ]
         }
       },
-      "Text - Medium": {
+      "textMedium": {
         "fontFamily": {
           "value": "Art Basel Text",
           "type": "fontFamilies",
@@ -11546,7 +16236,7 @@ module.exports = {
             "value": "{fontFamilies.art-basel-text}",
             "type": "fontFamilies"
           },
-          "name": "mch_typography_body_text_medium_font_family",
+          "name": "xyz_typography_body_text_medium_font_family",
           "attributes": {
             "category": "Typography",
             "type": "Body",
@@ -11569,7 +16259,7 @@ module.exports = {
             "value": "{fontWeights.art-basel-text-1}",
             "type": "fontWeights"
           },
-          "name": "mch_typography_body_text_medium_font_weight",
+          "name": "xyz_typography_body_text_medium_font_weight",
           "attributes": {
             "category": "Typography",
             "type": "Body",
@@ -11592,7 +16282,7 @@ module.exports = {
             "value": "{lineHeights.13}",
             "type": "lineHeights"
           },
-          "name": "mch_typography_body_text_medium_line_height",
+          "name": "xyz_typography_body_text_medium_line_height",
           "attributes": {
             "category": "Typography",
             "type": "Body",
@@ -11615,7 +16305,7 @@ module.exports = {
             "value": "{fontSize.2}",
             "type": "fontSizes"
           },
-          "name": "mch_typography_body_text_medium_font_size",
+          "name": "xyz_typography_body_text_medium_font_size",
           "attributes": {
             "category": "Typography",
             "type": "Body",
@@ -11630,7 +16320,7 @@ module.exports = {
           ]
         },
         "letterSpacing": {
-          "value": "0",
+          "value": "0rem",
           "type": "letterSpacing",
           "filePath": "src/global.json",
           "isSource": true,
@@ -11638,7 +16328,7 @@ module.exports = {
             "value": "{letterSpacing.0}",
             "type": "letterSpacing"
           },
-          "name": "mch_typography_body_text_medium_letter_spacing",
+          "name": "xyz_typography_body_text_medium_letter_spacing",
           "attributes": {
             "category": "Typography",
             "type": "Body",
@@ -11661,7 +16351,7 @@ module.exports = {
             "value": "{paragraphSpacing.0}",
             "type": "paragraphSpacing"
           },
-          "name": "mch_typography_body_text_medium_paragraph_spacing",
+          "name": "xyz_typography_body_text_medium_paragraph_spacing",
           "attributes": {
             "category": "Typography",
             "type": "Body",
@@ -11684,7 +16374,7 @@ module.exports = {
             "value": "{paragraphIndent.0}",
             "type": "paragraphIndent"
           },
-          "name": "mch_typography_body_text_medium_paragraph_indent",
+          "name": "xyz_typography_body_text_medium_paragraph_indent",
           "attributes": {
             "category": "Typography",
             "type": "Body",
@@ -11707,7 +16397,7 @@ module.exports = {
             "value": "{textCase.none}",
             "type": "textCase"
           },
-          "name": "mch_typography_body_text_medium_text_case",
+          "name": "xyz_typography_body_text_medium_text_case",
           "attributes": {
             "category": "Typography",
             "type": "Body",
@@ -11730,7 +16420,7 @@ module.exports = {
             "value": "{textDecoration.none}",
             "type": "textDecoration"
           },
-          "name": "mch_typography_body_text_medium_text_decoration",
+          "name": "xyz_typography_body_text_medium_text_decoration",
           "attributes": {
             "category": "Typography",
             "type": "Body",
@@ -11745,7 +16435,7 @@ module.exports = {
           ]
         }
       },
-      "Text - Small": {
+      "textSmall": {
         "fontFamily": {
           "value": "Art Basel Text",
           "type": "fontFamilies",
@@ -11755,7 +16445,7 @@ module.exports = {
             "value": "{fontFamilies.art-basel-text}",
             "type": "fontFamilies"
           },
-          "name": "mch_typography_body_text_small_font_family",
+          "name": "xyz_typography_body_text_small_font_family",
           "attributes": {
             "category": "Typography",
             "type": "Body",
@@ -11778,7 +16468,7 @@ module.exports = {
             "value": "{fontWeights.art-basel-text-1}",
             "type": "fontWeights"
           },
-          "name": "mch_typography_body_text_small_font_weight",
+          "name": "xyz_typography_body_text_small_font_weight",
           "attributes": {
             "category": "Typography",
             "type": "Body",
@@ -11801,7 +16491,7 @@ module.exports = {
             "value": "{lineHeights.11}",
             "type": "lineHeights"
           },
-          "name": "mch_typography_body_text_small_line_height",
+          "name": "xyz_typography_body_text_small_line_height",
           "attributes": {
             "category": "Typography",
             "type": "Body",
@@ -11824,7 +16514,7 @@ module.exports = {
             "value": "{fontSize.1}",
             "type": "fontSizes"
           },
-          "name": "mch_typography_body_text_small_font_size",
+          "name": "xyz_typography_body_text_small_font_size",
           "attributes": {
             "category": "Typography",
             "type": "Body",
@@ -11839,7 +16529,7 @@ module.exports = {
           ]
         },
         "letterSpacing": {
-          "value": "0",
+          "value": "0rem",
           "type": "letterSpacing",
           "filePath": "src/global.json",
           "isSource": true,
@@ -11847,7 +16537,7 @@ module.exports = {
             "value": "{letterSpacing.0}",
             "type": "letterSpacing"
           },
-          "name": "mch_typography_body_text_small_letter_spacing",
+          "name": "xyz_typography_body_text_small_letter_spacing",
           "attributes": {
             "category": "Typography",
             "type": "Body",
@@ -11870,7 +16560,7 @@ module.exports = {
             "value": "{paragraphSpacing.0}",
             "type": "paragraphSpacing"
           },
-          "name": "mch_typography_body_text_small_paragraph_spacing",
+          "name": "xyz_typography_body_text_small_paragraph_spacing",
           "attributes": {
             "category": "Typography",
             "type": "Body",
@@ -11893,7 +16583,7 @@ module.exports = {
             "value": "{paragraphIndent.0}",
             "type": "paragraphIndent"
           },
-          "name": "mch_typography_body_text_small_paragraph_indent",
+          "name": "xyz_typography_body_text_small_paragraph_indent",
           "attributes": {
             "category": "Typography",
             "type": "Body",
@@ -11916,7 +16606,7 @@ module.exports = {
             "value": "{textCase.none}",
             "type": "textCase"
           },
-          "name": "mch_typography_body_text_small_text_case",
+          "name": "xyz_typography_body_text_small_text_case",
           "attributes": {
             "category": "Typography",
             "type": "Body",
@@ -11939,7 +16629,7 @@ module.exports = {
             "value": "{textDecoration.none}",
             "type": "textDecoration"
           },
-          "name": "mch_typography_body_text_small_text_decoration",
+          "name": "xyz_typography_body_text_small_text_decoration",
           "attributes": {
             "category": "Typography",
             "type": "Body",
@@ -11955,8 +16645,8 @@ module.exports = {
         }
       }
     },
-    "Supporting": {
-      "Label - XLarge": {
+    "supporting": {
+      "labelXLarge": {
         "fontFamily": {
           "value": "Art Basel Text",
           "type": "fontFamilies",
@@ -11966,7 +16656,7 @@ module.exports = {
             "value": "{fontFamilies.art-basel-text}",
             "type": "fontFamilies"
           },
-          "name": "mch_typography_supporting_label_x_large_font_family",
+          "name": "xyz_typography_supporting_label_x_large_font_family",
           "attributes": {
             "category": "Typography",
             "type": "Supporting",
@@ -11989,7 +16679,7 @@ module.exports = {
             "value": "{fontWeights.art-basel-text-2}",
             "type": "fontWeights"
           },
-          "name": "mch_typography_supporting_label_x_large_font_weight",
+          "name": "xyz_typography_supporting_label_x_large_font_weight",
           "attributes": {
             "category": "Typography",
             "type": "Supporting",
@@ -12012,7 +16702,7 @@ module.exports = {
             "value": "{lineHeights.13}",
             "type": "lineHeights"
           },
-          "name": "mch_typography_supporting_label_x_large_line_height",
+          "name": "xyz_typography_supporting_label_x_large_line_height",
           "attributes": {
             "category": "Typography",
             "type": "Supporting",
@@ -12035,7 +16725,7 @@ module.exports = {
             "value": "{fontSize.2}",
             "type": "fontSizes"
           },
-          "name": "mch_typography_supporting_label_x_large_font_size",
+          "name": "xyz_typography_supporting_label_x_large_font_size",
           "attributes": {
             "category": "Typography",
             "type": "Supporting",
@@ -12050,7 +16740,7 @@ module.exports = {
           ]
         },
         "letterSpacing": {
-          "value": "0",
+          "value": "0rem",
           "type": "letterSpacing",
           "filePath": "src/global.json",
           "isSource": true,
@@ -12058,7 +16748,7 @@ module.exports = {
             "value": "{letterSpacing.0}",
             "type": "letterSpacing"
           },
-          "name": "mch_typography_supporting_label_x_large_letter_spacing",
+          "name": "xyz_typography_supporting_label_x_large_letter_spacing",
           "attributes": {
             "category": "Typography",
             "type": "Supporting",
@@ -12081,7 +16771,7 @@ module.exports = {
             "value": "{paragraphSpacing.0}",
             "type": "paragraphSpacing"
           },
-          "name": "mch_typography_supporting_label_x_large_paragraph_spacing",
+          "name": "xyz_typography_supporting_label_x_large_paragraph_spacing",
           "attributes": {
             "category": "Typography",
             "type": "Supporting",
@@ -12104,7 +16794,7 @@ module.exports = {
             "value": "{paragraphIndent.0}",
             "type": "paragraphIndent"
           },
-          "name": "mch_typography_supporting_label_x_large_paragraph_indent",
+          "name": "xyz_typography_supporting_label_x_large_paragraph_indent",
           "attributes": {
             "category": "Typography",
             "type": "Supporting",
@@ -12127,7 +16817,7 @@ module.exports = {
             "value": "{textCase.none}",
             "type": "textCase"
           },
-          "name": "mch_typography_supporting_label_x_large_text_case",
+          "name": "xyz_typography_supporting_label_x_large_text_case",
           "attributes": {
             "category": "Typography",
             "type": "Supporting",
@@ -12150,7 +16840,7 @@ module.exports = {
             "value": "{textDecoration.none}",
             "type": "textDecoration"
           },
-          "name": "mch_typography_supporting_label_x_large_text_decoration",
+          "name": "xyz_typography_supporting_label_x_large_text_decoration",
           "attributes": {
             "category": "Typography",
             "type": "Supporting",
@@ -12165,7 +16855,7 @@ module.exports = {
           ]
         }
       },
-      "Label - Large": {
+      "labelLarge": {
         "fontFamily": {
           "value": "Art Basel Text",
           "type": "fontFamilies",
@@ -12175,7 +16865,7 @@ module.exports = {
             "value": "{fontFamilies.art-basel-text}",
             "type": "fontFamilies"
           },
-          "name": "mch_typography_supporting_label_large_font_family",
+          "name": "xyz_typography_supporting_label_large_font_family",
           "attributes": {
             "category": "Typography",
             "type": "Supporting",
@@ -12198,7 +16888,7 @@ module.exports = {
             "value": "{fontWeights.art-basel-text-2}",
             "type": "fontWeights"
           },
-          "name": "mch_typography_supporting_label_large_font_weight",
+          "name": "xyz_typography_supporting_label_large_font_weight",
           "attributes": {
             "category": "Typography",
             "type": "Supporting",
@@ -12221,7 +16911,7 @@ module.exports = {
             "value": "{lineHeights.11}",
             "type": "lineHeights"
           },
-          "name": "mch_typography_supporting_label_large_line_height",
+          "name": "xyz_typography_supporting_label_large_line_height",
           "attributes": {
             "category": "Typography",
             "type": "Supporting",
@@ -12244,7 +16934,7 @@ module.exports = {
             "value": "{fontSize.1}",
             "type": "fontSizes"
           },
-          "name": "mch_typography_supporting_label_large_font_size",
+          "name": "xyz_typography_supporting_label_large_font_size",
           "attributes": {
             "category": "Typography",
             "type": "Supporting",
@@ -12259,7 +16949,7 @@ module.exports = {
           ]
         },
         "letterSpacing": {
-          "value": "0",
+          "value": "0rem",
           "type": "letterSpacing",
           "filePath": "src/global.json",
           "isSource": true,
@@ -12267,7 +16957,7 @@ module.exports = {
             "value": "{letterSpacing.0}",
             "type": "letterSpacing"
           },
-          "name": "mch_typography_supporting_label_large_letter_spacing",
+          "name": "xyz_typography_supporting_label_large_letter_spacing",
           "attributes": {
             "category": "Typography",
             "type": "Supporting",
@@ -12290,7 +16980,7 @@ module.exports = {
             "value": "{paragraphSpacing.0}",
             "type": "paragraphSpacing"
           },
-          "name": "mch_typography_supporting_label_large_paragraph_spacing",
+          "name": "xyz_typography_supporting_label_large_paragraph_spacing",
           "attributes": {
             "category": "Typography",
             "type": "Supporting",
@@ -12313,7 +17003,7 @@ module.exports = {
             "value": "{paragraphIndent.0}",
             "type": "paragraphIndent"
           },
-          "name": "mch_typography_supporting_label_large_paragraph_indent",
+          "name": "xyz_typography_supporting_label_large_paragraph_indent",
           "attributes": {
             "category": "Typography",
             "type": "Supporting",
@@ -12336,7 +17026,7 @@ module.exports = {
             "value": "{textCase.none}",
             "type": "textCase"
           },
-          "name": "mch_typography_supporting_label_large_text_case",
+          "name": "xyz_typography_supporting_label_large_text_case",
           "attributes": {
             "category": "Typography",
             "type": "Supporting",
@@ -12359,7 +17049,7 @@ module.exports = {
             "value": "{textDecoration.none}",
             "type": "textDecoration"
           },
-          "name": "mch_typography_supporting_label_large_text_decoration",
+          "name": "xyz_typography_supporting_label_large_text_decoration",
           "attributes": {
             "category": "Typography",
             "type": "Supporting",
@@ -12374,7 +17064,7 @@ module.exports = {
           ]
         }
       },
-      "Label - Medium": {
+      "labelMedium": {
         "fontFamily": {
           "value": "Art Basel Text",
           "type": "fontFamilies",
@@ -12384,7 +17074,7 @@ module.exports = {
             "value": "{fontFamilies.art-basel-text}",
             "type": "fontFamilies"
           },
-          "name": "mch_typography_supporting_label_medium_font_family",
+          "name": "xyz_typography_supporting_label_medium_font_family",
           "attributes": {
             "category": "Typography",
             "type": "Supporting",
@@ -12407,7 +17097,7 @@ module.exports = {
             "value": "{fontWeights.art-basel-text-2}",
             "type": "fontWeights"
           },
-          "name": "mch_typography_supporting_label_medium_font_weight",
+          "name": "xyz_typography_supporting_label_medium_font_weight",
           "attributes": {
             "category": "Typography",
             "type": "Supporting",
@@ -12430,7 +17120,7 @@ module.exports = {
             "value": "{lineHeights.14}",
             "type": "lineHeights"
           },
-          "name": "mch_typography_supporting_label_medium_line_height",
+          "name": "xyz_typography_supporting_label_medium_line_height",
           "attributes": {
             "category": "Typography",
             "type": "Supporting",
@@ -12453,7 +17143,7 @@ module.exports = {
             "value": "{fontSize.0}",
             "type": "fontSizes"
           },
-          "name": "mch_typography_supporting_label_medium_font_size",
+          "name": "xyz_typography_supporting_label_medium_font_size",
           "attributes": {
             "category": "Typography",
             "type": "Supporting",
@@ -12468,7 +17158,7 @@ module.exports = {
           ]
         },
         "letterSpacing": {
-          "value": "0",
+          "value": "0rem",
           "type": "letterSpacing",
           "filePath": "src/global.json",
           "isSource": true,
@@ -12476,7 +17166,7 @@ module.exports = {
             "value": "{letterSpacing.0}",
             "type": "letterSpacing"
           },
-          "name": "mch_typography_supporting_label_medium_letter_spacing",
+          "name": "xyz_typography_supporting_label_medium_letter_spacing",
           "attributes": {
             "category": "Typography",
             "type": "Supporting",
@@ -12499,7 +17189,7 @@ module.exports = {
             "value": "{paragraphSpacing.0}",
             "type": "paragraphSpacing"
           },
-          "name": "mch_typography_supporting_label_medium_paragraph_spacing",
+          "name": "xyz_typography_supporting_label_medium_paragraph_spacing",
           "attributes": {
             "category": "Typography",
             "type": "Supporting",
@@ -12522,7 +17212,7 @@ module.exports = {
             "value": "{paragraphIndent.0}",
             "type": "paragraphIndent"
           },
-          "name": "mch_typography_supporting_label_medium_paragraph_indent",
+          "name": "xyz_typography_supporting_label_medium_paragraph_indent",
           "attributes": {
             "category": "Typography",
             "type": "Supporting",
@@ -12545,7 +17235,7 @@ module.exports = {
             "value": "{textCase.none}",
             "type": "textCase"
           },
-          "name": "mch_typography_supporting_label_medium_text_case",
+          "name": "xyz_typography_supporting_label_medium_text_case",
           "attributes": {
             "category": "Typography",
             "type": "Supporting",
@@ -12568,7 +17258,7 @@ module.exports = {
             "value": "{textDecoration.none}",
             "type": "textDecoration"
           },
-          "name": "mch_typography_supporting_label_medium_text_decoration",
+          "name": "xyz_typography_supporting_label_medium_text_decoration",
           "attributes": {
             "category": "Typography",
             "type": "Supporting",
@@ -12583,7 +17273,7 @@ module.exports = {
           ]
         }
       },
-      "Label - Small": {
+      "labelSmall": {
         "fontFamily": {
           "value": "Art Basel Text",
           "type": "fontFamilies",
@@ -12593,7 +17283,7 @@ module.exports = {
             "value": "{fontFamilies.art-basel-text}",
             "type": "fontFamilies"
           },
-          "name": "mch_typography_supporting_label_small_font_family",
+          "name": "xyz_typography_supporting_label_small_font_family",
           "attributes": {
             "category": "Typography",
             "type": "Supporting",
@@ -12616,7 +17306,7 @@ module.exports = {
             "value": "{fontWeights.art-basel-text-1}",
             "type": "fontWeights"
           },
-          "name": "mch_typography_supporting_label_small_font_weight",
+          "name": "xyz_typography_supporting_label_small_font_weight",
           "attributes": {
             "category": "Typography",
             "type": "Supporting",
@@ -12639,7 +17329,7 @@ module.exports = {
             "value": "{lineHeights.14}",
             "type": "lineHeights"
           },
-          "name": "mch_typography_supporting_label_small_line_height",
+          "name": "xyz_typography_supporting_label_small_line_height",
           "attributes": {
             "category": "Typography",
             "type": "Supporting",
@@ -12662,7 +17352,7 @@ module.exports = {
             "value": "{fontSize.0}",
             "type": "fontSizes"
           },
-          "name": "mch_typography_supporting_label_small_font_size",
+          "name": "xyz_typography_supporting_label_small_font_size",
           "attributes": {
             "category": "Typography",
             "type": "Supporting",
@@ -12677,15 +17367,15 @@ module.exports = {
           ]
         },
         "letterSpacing": {
-          "value": "0.3",
+          "value": "0.01875rem",
           "type": "letterSpacing",
           "filePath": "src/global.json",
           "isSource": true,
           "original": {
-            "value": "{letterSpacing.4}",
+            "value": "{letterSpacing.1}",
             "type": "letterSpacing"
           },
-          "name": "mch_typography_supporting_label_small_letter_spacing",
+          "name": "xyz_typography_supporting_label_small_letter_spacing",
           "attributes": {
             "category": "Typography",
             "type": "Supporting",
@@ -12708,7 +17398,7 @@ module.exports = {
             "value": "{paragraphSpacing.0}",
             "type": "paragraphSpacing"
           },
-          "name": "mch_typography_supporting_label_small_paragraph_spacing",
+          "name": "xyz_typography_supporting_label_small_paragraph_spacing",
           "attributes": {
             "category": "Typography",
             "type": "Supporting",
@@ -12731,7 +17421,7 @@ module.exports = {
             "value": "{paragraphIndent.0}",
             "type": "paragraphIndent"
           },
-          "name": "mch_typography_supporting_label_small_paragraph_indent",
+          "name": "xyz_typography_supporting_label_small_paragraph_indent",
           "attributes": {
             "category": "Typography",
             "type": "Supporting",
@@ -12754,7 +17444,7 @@ module.exports = {
             "value": "{textCase.none}",
             "type": "textCase"
           },
-          "name": "mch_typography_supporting_label_small_text_case",
+          "name": "xyz_typography_supporting_label_small_text_case",
           "attributes": {
             "category": "Typography",
             "type": "Supporting",
@@ -12777,7 +17467,7 @@ module.exports = {
             "value": "{textDecoration.none}",
             "type": "textDecoration"
           },
-          "name": "mch_typography_supporting_label_small_text_decoration",
+          "name": "xyz_typography_supporting_label_small_text_decoration",
           "attributes": {
             "category": "Typography",
             "type": "Supporting",
@@ -12793,8 +17483,8 @@ module.exports = {
         }
       }
     },
-    "Links": {
-      "Text Link - Medium (Default)": {
+    "links": {
+      "textLinkMediumDefault": {
         "fontFamily": {
           "value": "Art Basel Text",
           "type": "fontFamilies",
@@ -12804,7 +17494,7 @@ module.exports = {
             "value": "{fontFamilies.art-basel-text}",
             "type": "fontFamilies"
           },
-          "name": "mch_typography_links_text_link_medium_default_font_family",
+          "name": "xyz_typography_links_text_link_medium_default_font_family",
           "attributes": {
             "category": "Typography",
             "type": "Links",
@@ -12827,7 +17517,7 @@ module.exports = {
             "value": "{fontWeights.art-basel-text-2}",
             "type": "fontWeights"
           },
-          "name": "mch_typography_links_text_link_medium_default_font_weight",
+          "name": "xyz_typography_links_text_link_medium_default_font_weight",
           "attributes": {
             "category": "Typography",
             "type": "Links",
@@ -12850,7 +17540,7 @@ module.exports = {
             "value": "{lineHeights.15}",
             "type": "lineHeights"
           },
-          "name": "mch_typography_links_text_link_medium_default_line_height",
+          "name": "xyz_typography_links_text_link_medium_default_line_height",
           "attributes": {
             "category": "Typography",
             "type": "Links",
@@ -12873,7 +17563,7 @@ module.exports = {
             "value": "{fontSize.2}",
             "type": "fontSizes"
           },
-          "name": "mch_typography_links_text_link_medium_default_font_size",
+          "name": "xyz_typography_links_text_link_medium_default_font_size",
           "attributes": {
             "category": "Typography",
             "type": "Links",
@@ -12888,7 +17578,7 @@ module.exports = {
           ]
         },
         "letterSpacing": {
-          "value": "0",
+          "value": "0rem",
           "type": "letterSpacing",
           "filePath": "src/global.json",
           "isSource": true,
@@ -12896,7 +17586,7 @@ module.exports = {
             "value": "{letterSpacing.0}",
             "type": "letterSpacing"
           },
-          "name": "mch_typography_links_text_link_medium_default_letter_spacing",
+          "name": "xyz_typography_links_text_link_medium_default_letter_spacing",
           "attributes": {
             "category": "Typography",
             "type": "Links",
@@ -12919,7 +17609,7 @@ module.exports = {
             "value": "{paragraphSpacing.0}",
             "type": "paragraphSpacing"
           },
-          "name": "mch_typography_links_text_link_medium_default_paragraph_spacing",
+          "name": "xyz_typography_links_text_link_medium_default_paragraph_spacing",
           "attributes": {
             "category": "Typography",
             "type": "Links",
@@ -12942,7 +17632,7 @@ module.exports = {
             "value": "{paragraphIndent.0}",
             "type": "paragraphIndent"
           },
-          "name": "mch_typography_links_text_link_medium_default_paragraph_indent",
+          "name": "xyz_typography_links_text_link_medium_default_paragraph_indent",
           "attributes": {
             "category": "Typography",
             "type": "Links",
@@ -12965,7 +17655,7 @@ module.exports = {
             "value": "{textCase.none}",
             "type": "textCase"
           },
-          "name": "mch_typography_links_text_link_medium_default_text_case",
+          "name": "xyz_typography_links_text_link_medium_default_text_case",
           "attributes": {
             "category": "Typography",
             "type": "Links",
@@ -12988,7 +17678,7 @@ module.exports = {
             "value": "{textDecoration.none}",
             "type": "textDecoration"
           },
-          "name": "mch_typography_links_text_link_medium_default_text_decoration",
+          "name": "xyz_typography_links_text_link_medium_default_text_decoration",
           "attributes": {
             "category": "Typography",
             "type": "Links",
@@ -13003,7 +17693,7 @@ module.exports = {
           ]
         }
       },
-      "Text Link - Medium (Hover)": {
+      "textLinkMediumHover": {
         "fontFamily": {
           "value": "Art Basel Text",
           "type": "fontFamilies",
@@ -13013,7 +17703,7 @@ module.exports = {
             "value": "{fontFamilies.art-basel-text}",
             "type": "fontFamilies"
           },
-          "name": "mch_typography_links_text_link_medium_hover_font_family",
+          "name": "xyz_typography_links_text_link_medium_hover_font_family",
           "attributes": {
             "category": "Typography",
             "type": "Links",
@@ -13036,7 +17726,7 @@ module.exports = {
             "value": "{fontWeights.art-basel-text-2}",
             "type": "fontWeights"
           },
-          "name": "mch_typography_links_text_link_medium_hover_font_weight",
+          "name": "xyz_typography_links_text_link_medium_hover_font_weight",
           "attributes": {
             "category": "Typography",
             "type": "Links",
@@ -13059,7 +17749,7 @@ module.exports = {
             "value": "{lineHeights.15}",
             "type": "lineHeights"
           },
-          "name": "mch_typography_links_text_link_medium_hover_line_height",
+          "name": "xyz_typography_links_text_link_medium_hover_line_height",
           "attributes": {
             "category": "Typography",
             "type": "Links",
@@ -13082,7 +17772,7 @@ module.exports = {
             "value": "{fontSize.2}",
             "type": "fontSizes"
           },
-          "name": "mch_typography_links_text_link_medium_hover_font_size",
+          "name": "xyz_typography_links_text_link_medium_hover_font_size",
           "attributes": {
             "category": "Typography",
             "type": "Links",
@@ -13097,7 +17787,7 @@ module.exports = {
           ]
         },
         "letterSpacing": {
-          "value": "0",
+          "value": "0rem",
           "type": "letterSpacing",
           "filePath": "src/global.json",
           "isSource": true,
@@ -13105,7 +17795,7 @@ module.exports = {
             "value": "{letterSpacing.0}",
             "type": "letterSpacing"
           },
-          "name": "mch_typography_links_text_link_medium_hover_letter_spacing",
+          "name": "xyz_typography_links_text_link_medium_hover_letter_spacing",
           "attributes": {
             "category": "Typography",
             "type": "Links",
@@ -13128,7 +17818,7 @@ module.exports = {
             "value": "{paragraphSpacing.0}",
             "type": "paragraphSpacing"
           },
-          "name": "mch_typography_links_text_link_medium_hover_paragraph_spacing",
+          "name": "xyz_typography_links_text_link_medium_hover_paragraph_spacing",
           "attributes": {
             "category": "Typography",
             "type": "Links",
@@ -13151,7 +17841,7 @@ module.exports = {
             "value": "{paragraphIndent.0}",
             "type": "paragraphIndent"
           },
-          "name": "mch_typography_links_text_link_medium_hover_paragraph_indent",
+          "name": "xyz_typography_links_text_link_medium_hover_paragraph_indent",
           "attributes": {
             "category": "Typography",
             "type": "Links",
@@ -13174,7 +17864,7 @@ module.exports = {
             "value": "{textCase.none}",
             "type": "textCase"
           },
-          "name": "mch_typography_links_text_link_medium_hover_text_case",
+          "name": "xyz_typography_links_text_link_medium_hover_text_case",
           "attributes": {
             "category": "Typography",
             "type": "Links",
@@ -13197,7 +17887,7 @@ module.exports = {
             "value": "{textDecoration.underline}",
             "type": "textDecoration"
           },
-          "name": "mch_typography_links_text_link_medium_hover_text_decoration",
+          "name": "xyz_typography_links_text_link_medium_hover_text_decoration",
           "attributes": {
             "category": "Typography",
             "type": "Links",
@@ -13212,7 +17902,7 @@ module.exports = {
           ]
         }
       },
-      "External Link - Medium (Default)": {
+      "externalLinkMediumDefault": {
         "fontFamily": {
           "value": "Art Basel Text",
           "type": "fontFamilies",
@@ -13222,7 +17912,7 @@ module.exports = {
             "value": "{fontFamilies.art-basel-text}",
             "type": "fontFamilies"
           },
-          "name": "mch_typography_links_external_link_medium_default_font_family",
+          "name": "xyz_typography_links_external_link_medium_default_font_family",
           "attributes": {
             "category": "Typography",
             "type": "Links",
@@ -13245,7 +17935,7 @@ module.exports = {
             "value": "{fontWeights.art-basel-text-2}",
             "type": "fontWeights"
           },
-          "name": "mch_typography_links_external_link_medium_default_font_weight",
+          "name": "xyz_typography_links_external_link_medium_default_font_weight",
           "attributes": {
             "category": "Typography",
             "type": "Links",
@@ -13268,7 +17958,7 @@ module.exports = {
             "value": "{lineHeights.15}",
             "type": "lineHeights"
           },
-          "name": "mch_typography_links_external_link_medium_default_line_height",
+          "name": "xyz_typography_links_external_link_medium_default_line_height",
           "attributes": {
             "category": "Typography",
             "type": "Links",
@@ -13291,7 +17981,7 @@ module.exports = {
             "value": "{fontSize.2}",
             "type": "fontSizes"
           },
-          "name": "mch_typography_links_external_link_medium_default_font_size",
+          "name": "xyz_typography_links_external_link_medium_default_font_size",
           "attributes": {
             "category": "Typography",
             "type": "Links",
@@ -13306,7 +17996,7 @@ module.exports = {
           ]
         },
         "letterSpacing": {
-          "value": "0",
+          "value": "0rem",
           "type": "letterSpacing",
           "filePath": "src/global.json",
           "isSource": true,
@@ -13314,7 +18004,7 @@ module.exports = {
             "value": "{letterSpacing.0}",
             "type": "letterSpacing"
           },
-          "name": "mch_typography_links_external_link_medium_default_letter_spacing",
+          "name": "xyz_typography_links_external_link_medium_default_letter_spacing",
           "attributes": {
             "category": "Typography",
             "type": "Links",
@@ -13337,7 +18027,7 @@ module.exports = {
             "value": "{paragraphSpacing.0}",
             "type": "paragraphSpacing"
           },
-          "name": "mch_typography_links_external_link_medium_default_paragraph_spacing",
+          "name": "xyz_typography_links_external_link_medium_default_paragraph_spacing",
           "attributes": {
             "category": "Typography",
             "type": "Links",
@@ -13360,7 +18050,7 @@ module.exports = {
             "value": "{paragraphIndent.0}",
             "type": "paragraphIndent"
           },
-          "name": "mch_typography_links_external_link_medium_default_paragraph_indent",
+          "name": "xyz_typography_links_external_link_medium_default_paragraph_indent",
           "attributes": {
             "category": "Typography",
             "type": "Links",
@@ -13383,7 +18073,7 @@ module.exports = {
             "value": "{textCase.uppercase}",
             "type": "textCase"
           },
-          "name": "mch_typography_links_external_link_medium_default_text_case",
+          "name": "xyz_typography_links_external_link_medium_default_text_case",
           "attributes": {
             "category": "Typography",
             "type": "Links",
@@ -13406,7 +18096,7 @@ module.exports = {
             "value": "{textDecoration.none}",
             "type": "textDecoration"
           },
-          "name": "mch_typography_links_external_link_medium_default_text_decoration",
+          "name": "xyz_typography_links_external_link_medium_default_text_decoration",
           "attributes": {
             "category": "Typography",
             "type": "Links",
@@ -13421,7 +18111,7 @@ module.exports = {
           ]
         }
       },
-      "Button - Medium": {
+      "buttonMedium": {
         "fontFamily": {
           "value": "Art Basel Text",
           "type": "fontFamilies",
@@ -13431,7 +18121,7 @@ module.exports = {
             "value": "{fontFamilies.art-basel-text}",
             "type": "fontFamilies"
           },
-          "name": "mch_typography_links_button_medium_font_family",
+          "name": "xyz_typography_links_button_medium_font_family",
           "attributes": {
             "category": "Typography",
             "type": "Links",
@@ -13454,7 +18144,7 @@ module.exports = {
             "value": "{fontWeights.art-basel-text-2}",
             "type": "fontWeights"
           },
-          "name": "mch_typography_links_button_medium_font_weight",
+          "name": "xyz_typography_links_button_medium_font_weight",
           "attributes": {
             "category": "Typography",
             "type": "Links",
@@ -13477,7 +18167,7 @@ module.exports = {
             "value": "{lineHeights.11}",
             "type": "lineHeights"
           },
-          "name": "mch_typography_links_button_medium_line_height",
+          "name": "xyz_typography_links_button_medium_line_height",
           "attributes": {
             "category": "Typography",
             "type": "Links",
@@ -13500,7 +18190,7 @@ module.exports = {
             "value": "{fontSize.1}",
             "type": "fontSizes"
           },
-          "name": "mch_typography_links_button_medium_font_size",
+          "name": "xyz_typography_links_button_medium_font_size",
           "attributes": {
             "category": "Typography",
             "type": "Links",
@@ -13515,7 +18205,7 @@ module.exports = {
           ]
         },
         "letterSpacing": {
-          "value": "0",
+          "value": "0rem",
           "type": "letterSpacing",
           "filePath": "src/global.json",
           "isSource": true,
@@ -13523,7 +18213,7 @@ module.exports = {
             "value": "{letterSpacing.0}",
             "type": "letterSpacing"
           },
-          "name": "mch_typography_links_button_medium_letter_spacing",
+          "name": "xyz_typography_links_button_medium_letter_spacing",
           "attributes": {
             "category": "Typography",
             "type": "Links",
@@ -13546,7 +18236,7 @@ module.exports = {
             "value": "{paragraphSpacing.0}",
             "type": "paragraphSpacing"
           },
-          "name": "mch_typography_links_button_medium_paragraph_spacing",
+          "name": "xyz_typography_links_button_medium_paragraph_spacing",
           "attributes": {
             "category": "Typography",
             "type": "Links",
@@ -13569,7 +18259,7 @@ module.exports = {
             "value": "{paragraphIndent.0}",
             "type": "paragraphIndent"
           },
-          "name": "mch_typography_links_button_medium_paragraph_indent",
+          "name": "xyz_typography_links_button_medium_paragraph_indent",
           "attributes": {
             "category": "Typography",
             "type": "Links",
@@ -13592,7 +18282,7 @@ module.exports = {
             "value": "{textCase.uppercase}",
             "type": "textCase"
           },
-          "name": "mch_typography_links_button_medium_text_case",
+          "name": "xyz_typography_links_button_medium_text_case",
           "attributes": {
             "category": "Typography",
             "type": "Links",
@@ -13615,7 +18305,7 @@ module.exports = {
             "value": "{textDecoration.none}",
             "type": "textDecoration"
           },
-          "name": "mch_typography_links_button_medium_text_decoration",
+          "name": "xyz_typography_links_button_medium_text_decoration",
           "attributes": {
             "category": "Typography",
             "type": "Links",
@@ -13631,9 +18321,9 @@ module.exports = {
         }
       }
     },
-    "Editorial Headings": {
-      "XS-SM": {
-        "H1": {
+    "chHeadings": {
+      "2Xl": {
+        "display": {
           "fontFamily": {
             "value": "Ivar Display",
             "type": "fontFamilies",
@@ -13643,18 +18333,245 @@ module.exports = {
               "value": "{fontFamilies.ivar-display}",
               "type": "fontFamilies"
             },
-            "name": "mch_typography_editorial_headings_xs_sm_h1_font_family",
+            "name": "xyz_typography_ch_headings_2_xl_display_font_family",
             "attributes": {
               "category": "Typography",
-              "type": "Editorial Headings",
-              "item": "XS-SM",
+              "type": "CH Headings",
+              "item": "2XL",
+              "subitem": "Display",
+              "state": "fontFamily"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "2XL",
+              "Display",
+              "fontFamily"
+            ]
+          },
+          "fontWeight": {
+            "value": "600",
+            "type": "fontWeights",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{fontWeights.ivar-display-3}",
+              "type": "fontWeights"
+            },
+            "name": "xyz_typography_ch_headings_2_xl_display_font_weight",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "2XL",
+              "subitem": "Display",
+              "state": "fontWeight"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "2XL",
+              "Display",
+              "fontWeight"
+            ]
+          },
+          "lineHeight": {
+            "value": "8rem",
+            "type": "lineHeights",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{lineHeights.20}",
+              "type": "lineHeights"
+            },
+            "name": "xyz_typography_ch_headings_2_xl_display_line_height",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "2XL",
+              "subitem": "Display",
+              "state": "lineHeight"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "2XL",
+              "Display",
+              "lineHeight"
+            ]
+          },
+          "fontSize": {
+            "value": "8rem",
+            "type": "fontSizes",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{fontSize.26}",
+              "type": "fontSizes"
+            },
+            "name": "xyz_typography_ch_headings_2_xl_display_font_size",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "2XL",
+              "subitem": "Display",
+              "state": "fontSize"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "2XL",
+              "Display",
+              "fontSize"
+            ]
+          },
+          "letterSpacing": {
+            "value": "0rem",
+            "type": "letterSpacing",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{letterSpacing.0}",
+              "type": "letterSpacing"
+            },
+            "name": "xyz_typography_ch_headings_2_xl_display_letter_spacing",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "2XL",
+              "subitem": "Display",
+              "state": "letterSpacing"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "2XL",
+              "Display",
+              "letterSpacing"
+            ]
+          },
+          "paragraphSpacing": {
+            "value": "0",
+            "type": "paragraphSpacing",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{paragraphSpacing.0}",
+              "type": "paragraphSpacing"
+            },
+            "name": "xyz_typography_ch_headings_2_xl_display_paragraph_spacing",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "2XL",
+              "subitem": "Display",
+              "state": "paragraphSpacing"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "2XL",
+              "Display",
+              "paragraphSpacing"
+            ]
+          },
+          "paragraphIndent": {
+            "value": 0,
+            "type": "paragraphIndent",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{paragraphIndent.0}",
+              "type": "paragraphIndent"
+            },
+            "name": "xyz_typography_ch_headings_2_xl_display_paragraph_indent",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "2XL",
+              "subitem": "Display",
+              "state": "paragraphIndent"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "2XL",
+              "Display",
+              "paragraphIndent"
+            ]
+          },
+          "textCase": {
+            "value": "none",
+            "type": "textCase",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{textCase.none}",
+              "type": "textCase"
+            },
+            "name": "xyz_typography_ch_headings_2_xl_display_text_case",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "2XL",
+              "subitem": "Display",
+              "state": "textCase"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "2XL",
+              "Display",
+              "textCase"
+            ]
+          },
+          "textDecoration": {
+            "value": "none",
+            "type": "textDecoration",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{textDecoration.none}",
+              "type": "textDecoration"
+            },
+            "name": "xyz_typography_ch_headings_2_xl_display_text_decoration",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "2XL",
+              "subitem": "Display",
+              "state": "textDecoration"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "2XL",
+              "Display",
+              "textDecoration"
+            ]
+          }
+        },
+        "h1": {
+          "fontFamily": {
+            "value": "Ivar Display",
+            "type": "fontFamilies",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{fontFamilies.ivar-display}",
+              "type": "fontFamilies"
+            },
+            "name": "xyz_typography_ch_headings_2_xl_h1_font_family",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "2XL",
               "subitem": "H1",
               "state": "fontFamily"
             },
             "path": [
               "Typography",
-              "Editorial Headings",
-              "XS-SM",
+              "CH Headings",
+              "2XL",
               "H1",
               "fontFamily"
             ]
@@ -13668,118 +18585,118 @@ module.exports = {
               "value": "{fontWeights.ivar-display-3}",
               "type": "fontWeights"
             },
-            "name": "mch_typography_editorial_headings_xs_sm_h1_font_weight",
+            "name": "xyz_typography_ch_headings_2_xl_h1_font_weight",
             "attributes": {
               "category": "Typography",
-              "type": "Editorial Headings",
-              "item": "XS-SM",
+              "type": "CH Headings",
+              "item": "2XL",
               "subitem": "H1",
               "state": "fontWeight"
             },
             "path": [
               "Typography",
-              "Editorial Headings",
-              "XS-SM",
+              "CH Headings",
+              "2XL",
               "H1",
               "fontWeight"
             ]
           },
           "lineHeight": {
-            "value": "2.625rem",
+            "value": "5.25rem",
             "type": "lineHeights",
             "filePath": "src/global.json",
             "isSource": true,
             "original": {
-              "value": "{lineHeights.6}",
+              "value": "{lineHeights.21}",
               "type": "lineHeights"
             },
-            "name": "mch_typography_editorial_headings_xs_sm_h1_line_height",
+            "name": "xyz_typography_ch_headings_2_xl_h1_line_height",
             "attributes": {
               "category": "Typography",
-              "type": "Editorial Headings",
-              "item": "XS-SM",
+              "type": "CH Headings",
+              "item": "2XL",
               "subitem": "H1",
               "state": "lineHeight"
             },
             "path": [
               "Typography",
-              "Editorial Headings",
-              "XS-SM",
+              "CH Headings",
+              "2XL",
               "H1",
               "lineHeight"
             ]
           },
           "fontSize": {
-            "value": "1.875rem",
+            "value": "5.25rem",
             "type": "fontSizes",
             "filePath": "src/global.json",
             "isSource": true,
             "original": {
-              "value": "{fontSize.7}",
+              "value": "{fontSize.23}",
               "type": "fontSizes"
             },
-            "name": "mch_typography_editorial_headings_xs_sm_h1_font_size",
+            "name": "xyz_typography_ch_headings_2_xl_h1_font_size",
             "attributes": {
               "category": "Typography",
-              "type": "Editorial Headings",
-              "item": "XS-SM",
+              "type": "CH Headings",
+              "item": "2XL",
               "subitem": "H1",
               "state": "fontSize"
             },
             "path": [
               "Typography",
-              "Editorial Headings",
-              "XS-SM",
+              "CH Headings",
+              "2XL",
               "H1",
               "fontSize"
             ]
           },
           "letterSpacing": {
-            "value": "0%",
+            "value": "0rem",
             "type": "letterSpacing",
             "filePath": "src/global.json",
             "isSource": true,
             "original": {
-              "value": "{letterSpacing.1}",
+              "value": "{letterSpacing.0}",
               "type": "letterSpacing"
             },
-            "name": "mch_typography_editorial_headings_xs_sm_h1_letter_spacing",
+            "name": "xyz_typography_ch_headings_2_xl_h1_letter_spacing",
             "attributes": {
               "category": "Typography",
-              "type": "Editorial Headings",
-              "item": "XS-SM",
+              "type": "CH Headings",
+              "item": "2XL",
               "subitem": "H1",
               "state": "letterSpacing"
             },
             "path": [
               "Typography",
-              "Editorial Headings",
-              "XS-SM",
+              "CH Headings",
+              "2XL",
               "H1",
               "letterSpacing"
             ]
           },
           "paragraphSpacing": {
-            "value": "4",
+            "value": "0",
             "type": "paragraphSpacing",
             "filePath": "src/global.json",
             "isSource": true,
             "original": {
-              "value": "{paragraphSpacing.1}",
+              "value": "{paragraphSpacing.0}",
               "type": "paragraphSpacing"
             },
-            "name": "mch_typography_editorial_headings_xs_sm_h1_paragraph_spacing",
+            "name": "xyz_typography_ch_headings_2_xl_h1_paragraph_spacing",
             "attributes": {
               "category": "Typography",
-              "type": "Editorial Headings",
-              "item": "XS-SM",
+              "type": "CH Headings",
+              "item": "2XL",
               "subitem": "H1",
               "state": "paragraphSpacing"
             },
             "path": [
               "Typography",
-              "Editorial Headings",
-              "XS-SM",
+              "CH Headings",
+              "2XL",
               "H1",
               "paragraphSpacing"
             ]
@@ -13793,18 +18710,18 @@ module.exports = {
               "value": "{paragraphIndent.0}",
               "type": "paragraphIndent"
             },
-            "name": "mch_typography_editorial_headings_xs_sm_h1_paragraph_indent",
+            "name": "xyz_typography_ch_headings_2_xl_h1_paragraph_indent",
             "attributes": {
               "category": "Typography",
-              "type": "Editorial Headings",
-              "item": "XS-SM",
+              "type": "CH Headings",
+              "item": "2XL",
               "subitem": "H1",
               "state": "paragraphIndent"
             },
             "path": [
               "Typography",
-              "Editorial Headings",
-              "XS-SM",
+              "CH Headings",
+              "2XL",
               "H1",
               "paragraphIndent"
             ]
@@ -13818,18 +18735,18 @@ module.exports = {
               "value": "{textCase.none}",
               "type": "textCase"
             },
-            "name": "mch_typography_editorial_headings_xs_sm_h1_text_case",
+            "name": "xyz_typography_ch_headings_2_xl_h1_text_case",
             "attributes": {
               "category": "Typography",
-              "type": "Editorial Headings",
-              "item": "XS-SM",
+              "type": "CH Headings",
+              "item": "2XL",
               "subitem": "H1",
               "state": "textCase"
             },
             "path": [
               "Typography",
-              "Editorial Headings",
-              "XS-SM",
+              "CH Headings",
+              "2XL",
               "H1",
               "textCase"
             ]
@@ -13843,24 +18760,24 @@ module.exports = {
               "value": "{textDecoration.none}",
               "type": "textDecoration"
             },
-            "name": "mch_typography_editorial_headings_xs_sm_h1_text_decoration",
+            "name": "xyz_typography_ch_headings_2_xl_h1_text_decoration",
             "attributes": {
               "category": "Typography",
-              "type": "Editorial Headings",
-              "item": "XS-SM",
+              "type": "CH Headings",
+              "item": "2XL",
               "subitem": "H1",
               "state": "textDecoration"
             },
             "path": [
               "Typography",
-              "Editorial Headings",
-              "XS-SM",
+              "CH Headings",
+              "2XL",
               "H1",
               "textDecoration"
             ]
           }
         },
-        "H2": {
+        "h2": {
           "fontFamily": {
             "value": "Ivar Display",
             "type": "fontFamilies",
@@ -13870,18 +18787,18 @@ module.exports = {
               "value": "{fontFamilies.ivar-display}",
               "type": "fontFamilies"
             },
-            "name": "mch_typography_editorial_headings_xs_sm_h2_font_family",
+            "name": "xyz_typography_ch_headings_2_xl_h2_font_family",
             "attributes": {
               "category": "Typography",
-              "type": "Editorial Headings",
-              "item": "XS-SM",
+              "type": "CH Headings",
+              "item": "2XL",
               "subitem": "H2",
               "state": "fontFamily"
             },
             "path": [
               "Typography",
-              "Editorial Headings",
-              "XS-SM",
+              "CH Headings",
+              "2XL",
               "H2",
               "fontFamily"
             ]
@@ -13895,929 +18812,19 @@ module.exports = {
               "value": "{fontWeights.ivar-display-3}",
               "type": "fontWeights"
             },
-            "name": "mch_typography_editorial_headings_xs_sm_h2_font_weight",
+            "name": "xyz_typography_ch_headings_2_xl_h2_font_weight",
             "attributes": {
               "category": "Typography",
-              "type": "Editorial Headings",
-              "item": "XS-SM",
+              "type": "CH Headings",
+              "item": "2XL",
               "subitem": "H2",
               "state": "fontWeight"
             },
             "path": [
               "Typography",
-              "Editorial Headings",
-              "XS-SM",
+              "CH Headings",
+              "2XL",
               "H2",
-              "fontWeight"
-            ]
-          },
-          "lineHeight": {
-            "value": "1.875rem",
-            "type": "lineHeights",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{lineHeights.1}",
-              "type": "lineHeights"
-            },
-            "name": "mch_typography_editorial_headings_xs_sm_h2_line_height",
-            "attributes": {
-              "category": "Typography",
-              "type": "Editorial Headings",
-              "item": "XS-SM",
-              "subitem": "H2",
-              "state": "lineHeight"
-            },
-            "path": [
-              "Typography",
-              "Editorial Headings",
-              "XS-SM",
-              "H2",
-              "lineHeight"
-            ]
-          },
-          "fontSize": {
-            "value": "1.625rem",
-            "type": "fontSizes",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{fontSize.6}",
-              "type": "fontSizes"
-            },
-            "name": "mch_typography_editorial_headings_xs_sm_h2_font_size",
-            "attributes": {
-              "category": "Typography",
-              "type": "Editorial Headings",
-              "item": "XS-SM",
-              "subitem": "H2",
-              "state": "fontSize"
-            },
-            "path": [
-              "Typography",
-              "Editorial Headings",
-              "XS-SM",
-              "H2",
-              "fontSize"
-            ]
-          },
-          "letterSpacing": {
-            "value": "0%",
-            "type": "letterSpacing",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{letterSpacing.1}",
-              "type": "letterSpacing"
-            },
-            "name": "mch_typography_editorial_headings_xs_sm_h2_letter_spacing",
-            "attributes": {
-              "category": "Typography",
-              "type": "Editorial Headings",
-              "item": "XS-SM",
-              "subitem": "H2",
-              "state": "letterSpacing"
-            },
-            "path": [
-              "Typography",
-              "Editorial Headings",
-              "XS-SM",
-              "H2",
-              "letterSpacing"
-            ]
-          },
-          "paragraphSpacing": {
-            "value": "4",
-            "type": "paragraphSpacing",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{paragraphSpacing.1}",
-              "type": "paragraphSpacing"
-            },
-            "name": "mch_typography_editorial_headings_xs_sm_h2_paragraph_spacing",
-            "attributes": {
-              "category": "Typography",
-              "type": "Editorial Headings",
-              "item": "XS-SM",
-              "subitem": "H2",
-              "state": "paragraphSpacing"
-            },
-            "path": [
-              "Typography",
-              "Editorial Headings",
-              "XS-SM",
-              "H2",
-              "paragraphSpacing"
-            ]
-          },
-          "paragraphIndent": {
-            "value": 0,
-            "type": "paragraphIndent",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{paragraphIndent.0}",
-              "type": "paragraphIndent"
-            },
-            "name": "mch_typography_editorial_headings_xs_sm_h2_paragraph_indent",
-            "attributes": {
-              "category": "Typography",
-              "type": "Editorial Headings",
-              "item": "XS-SM",
-              "subitem": "H2",
-              "state": "paragraphIndent"
-            },
-            "path": [
-              "Typography",
-              "Editorial Headings",
-              "XS-SM",
-              "H2",
-              "paragraphIndent"
-            ]
-          },
-          "textCase": {
-            "value": "none",
-            "type": "textCase",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{textCase.none}",
-              "type": "textCase"
-            },
-            "name": "mch_typography_editorial_headings_xs_sm_h2_text_case",
-            "attributes": {
-              "category": "Typography",
-              "type": "Editorial Headings",
-              "item": "XS-SM",
-              "subitem": "H2",
-              "state": "textCase"
-            },
-            "path": [
-              "Typography",
-              "Editorial Headings",
-              "XS-SM",
-              "H2",
-              "textCase"
-            ]
-          },
-          "textDecoration": {
-            "value": "none",
-            "type": "textDecoration",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{textDecoration.none}",
-              "type": "textDecoration"
-            },
-            "name": "mch_typography_editorial_headings_xs_sm_h2_text_decoration",
-            "attributes": {
-              "category": "Typography",
-              "type": "Editorial Headings",
-              "item": "XS-SM",
-              "subitem": "H2",
-              "state": "textDecoration"
-            },
-            "path": [
-              "Typography",
-              "Editorial Headings",
-              "XS-SM",
-              "H2",
-              "textDecoration"
-            ]
-          }
-        },
-        "H3": {
-          "fontFamily": {
-            "value": "Ivar Display",
-            "type": "fontFamilies",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{fontFamilies.ivar-display}",
-              "type": "fontFamilies"
-            },
-            "name": "mch_typography_editorial_headings_xs_sm_h3_font_family",
-            "attributes": {
-              "category": "Typography",
-              "type": "Editorial Headings",
-              "item": "XS-SM",
-              "subitem": "H3",
-              "state": "fontFamily"
-            },
-            "path": [
-              "Typography",
-              "Editorial Headings",
-              "XS-SM",
-              "H3",
-              "fontFamily"
-            ]
-          },
-          "fontWeight": {
-            "value": "600",
-            "type": "fontWeights",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{fontWeights.ivar-display-3}",
-              "type": "fontWeights"
-            },
-            "name": "mch_typography_editorial_headings_xs_sm_h3_font_weight",
-            "attributes": {
-              "category": "Typography",
-              "type": "Editorial Headings",
-              "item": "XS-SM",
-              "subitem": "H3",
-              "state": "fontWeight"
-            },
-            "path": [
-              "Typography",
-              "Editorial Headings",
-              "XS-SM",
-              "H3",
-              "fontWeight"
-            ]
-          },
-          "lineHeight": {
-            "value": "2rem",
-            "type": "lineHeights",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{lineHeights.16}",
-              "type": "lineHeights"
-            },
-            "name": "mch_typography_editorial_headings_xs_sm_h3_line_height",
-            "attributes": {
-              "category": "Typography",
-              "type": "Editorial Headings",
-              "item": "XS-SM",
-              "subitem": "H3",
-              "state": "lineHeight"
-            },
-            "path": [
-              "Typography",
-              "Editorial Headings",
-              "XS-SM",
-              "H3",
-              "lineHeight"
-            ]
-          },
-          "fontSize": {
-            "value": "1.5rem",
-            "type": "fontSizes",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{fontSize.5}",
-              "type": "fontSizes"
-            },
-            "name": "mch_typography_editorial_headings_xs_sm_h3_font_size",
-            "attributes": {
-              "category": "Typography",
-              "type": "Editorial Headings",
-              "item": "XS-SM",
-              "subitem": "H3",
-              "state": "fontSize"
-            },
-            "path": [
-              "Typography",
-              "Editorial Headings",
-              "XS-SM",
-              "H3",
-              "fontSize"
-            ]
-          },
-          "letterSpacing": {
-            "value": "0%",
-            "type": "letterSpacing",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{letterSpacing.1}",
-              "type": "letterSpacing"
-            },
-            "name": "mch_typography_editorial_headings_xs_sm_h3_letter_spacing",
-            "attributes": {
-              "category": "Typography",
-              "type": "Editorial Headings",
-              "item": "XS-SM",
-              "subitem": "H3",
-              "state": "letterSpacing"
-            },
-            "path": [
-              "Typography",
-              "Editorial Headings",
-              "XS-SM",
-              "H3",
-              "letterSpacing"
-            ]
-          },
-          "paragraphSpacing": {
-            "value": "4",
-            "type": "paragraphSpacing",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{paragraphSpacing.1}",
-              "type": "paragraphSpacing"
-            },
-            "name": "mch_typography_editorial_headings_xs_sm_h3_paragraph_spacing",
-            "attributes": {
-              "category": "Typography",
-              "type": "Editorial Headings",
-              "item": "XS-SM",
-              "subitem": "H3",
-              "state": "paragraphSpacing"
-            },
-            "path": [
-              "Typography",
-              "Editorial Headings",
-              "XS-SM",
-              "H3",
-              "paragraphSpacing"
-            ]
-          },
-          "paragraphIndent": {
-            "value": 0,
-            "type": "paragraphIndent",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{paragraphIndent.0}",
-              "type": "paragraphIndent"
-            },
-            "name": "mch_typography_editorial_headings_xs_sm_h3_paragraph_indent",
-            "attributes": {
-              "category": "Typography",
-              "type": "Editorial Headings",
-              "item": "XS-SM",
-              "subitem": "H3",
-              "state": "paragraphIndent"
-            },
-            "path": [
-              "Typography",
-              "Editorial Headings",
-              "XS-SM",
-              "H3",
-              "paragraphIndent"
-            ]
-          },
-          "textCase": {
-            "value": "none",
-            "type": "textCase",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{textCase.none}",
-              "type": "textCase"
-            },
-            "name": "mch_typography_editorial_headings_xs_sm_h3_text_case",
-            "attributes": {
-              "category": "Typography",
-              "type": "Editorial Headings",
-              "item": "XS-SM",
-              "subitem": "H3",
-              "state": "textCase"
-            },
-            "path": [
-              "Typography",
-              "Editorial Headings",
-              "XS-SM",
-              "H3",
-              "textCase"
-            ]
-          },
-          "textDecoration": {
-            "value": "none",
-            "type": "textDecoration",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{textDecoration.none}",
-              "type": "textDecoration"
-            },
-            "name": "mch_typography_editorial_headings_xs_sm_h3_text_decoration",
-            "attributes": {
-              "category": "Typography",
-              "type": "Editorial Headings",
-              "item": "XS-SM",
-              "subitem": "H3",
-              "state": "textDecoration"
-            },
-            "path": [
-              "Typography",
-              "Editorial Headings",
-              "XS-SM",
-              "H3",
-              "textDecoration"
-            ]
-          }
-        },
-        "H4": {
-          "fontFamily": {
-            "value": "Ivar Display",
-            "type": "fontFamilies",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{fontFamilies.ivar-display}",
-              "type": "fontFamilies"
-            },
-            "name": "mch_typography_editorial_headings_xs_sm_h4_font_family",
-            "attributes": {
-              "category": "Typography",
-              "type": "Editorial Headings",
-              "item": "XS-SM",
-              "subitem": "H4",
-              "state": "fontFamily"
-            },
-            "path": [
-              "Typography",
-              "Editorial Headings",
-              "XS-SM",
-              "H4",
-              "fontFamily"
-            ]
-          },
-          "fontWeight": {
-            "value": "600",
-            "type": "fontWeights",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{fontWeights.ivar-display-3}",
-              "type": "fontWeights"
-            },
-            "name": "mch_typography_editorial_headings_xs_sm_h4_font_weight",
-            "attributes": {
-              "category": "Typography",
-              "type": "Editorial Headings",
-              "item": "XS-SM",
-              "subitem": "H4",
-              "state": "fontWeight"
-            },
-            "path": [
-              "Typography",
-              "Editorial Headings",
-              "XS-SM",
-              "H4",
-              "fontWeight"
-            ]
-          },
-          "lineHeight": {
-            "value": "1.5rem",
-            "type": "lineHeights",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{lineHeights.12}",
-              "type": "lineHeights"
-            },
-            "name": "mch_typography_editorial_headings_xs_sm_h4_line_height",
-            "attributes": {
-              "category": "Typography",
-              "type": "Editorial Headings",
-              "item": "XS-SM",
-              "subitem": "H4",
-              "state": "lineHeight"
-            },
-            "path": [
-              "Typography",
-              "Editorial Headings",
-              "XS-SM",
-              "H4",
-              "lineHeight"
-            ]
-          },
-          "fontSize": {
-            "value": "1.25rem",
-            "type": "fontSizes",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{fontSize.4}",
-              "type": "fontSizes"
-            },
-            "name": "mch_typography_editorial_headings_xs_sm_h4_font_size",
-            "attributes": {
-              "category": "Typography",
-              "type": "Editorial Headings",
-              "item": "XS-SM",
-              "subitem": "H4",
-              "state": "fontSize"
-            },
-            "path": [
-              "Typography",
-              "Editorial Headings",
-              "XS-SM",
-              "H4",
-              "fontSize"
-            ]
-          },
-          "letterSpacing": {
-            "value": "0%",
-            "type": "letterSpacing",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{letterSpacing.1}",
-              "type": "letterSpacing"
-            },
-            "name": "mch_typography_editorial_headings_xs_sm_h4_letter_spacing",
-            "attributes": {
-              "category": "Typography",
-              "type": "Editorial Headings",
-              "item": "XS-SM",
-              "subitem": "H4",
-              "state": "letterSpacing"
-            },
-            "path": [
-              "Typography",
-              "Editorial Headings",
-              "XS-SM",
-              "H4",
-              "letterSpacing"
-            ]
-          },
-          "paragraphSpacing": {
-            "value": "4",
-            "type": "paragraphSpacing",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{paragraphSpacing.1}",
-              "type": "paragraphSpacing"
-            },
-            "name": "mch_typography_editorial_headings_xs_sm_h4_paragraph_spacing",
-            "attributes": {
-              "category": "Typography",
-              "type": "Editorial Headings",
-              "item": "XS-SM",
-              "subitem": "H4",
-              "state": "paragraphSpacing"
-            },
-            "path": [
-              "Typography",
-              "Editorial Headings",
-              "XS-SM",
-              "H4",
-              "paragraphSpacing"
-            ]
-          },
-          "paragraphIndent": {
-            "value": 0,
-            "type": "paragraphIndent",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{paragraphIndent.0}",
-              "type": "paragraphIndent"
-            },
-            "name": "mch_typography_editorial_headings_xs_sm_h4_paragraph_indent",
-            "attributes": {
-              "category": "Typography",
-              "type": "Editorial Headings",
-              "item": "XS-SM",
-              "subitem": "H4",
-              "state": "paragraphIndent"
-            },
-            "path": [
-              "Typography",
-              "Editorial Headings",
-              "XS-SM",
-              "H4",
-              "paragraphIndent"
-            ]
-          },
-          "textCase": {
-            "value": "none",
-            "type": "textCase",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{textCase.none}",
-              "type": "textCase"
-            },
-            "name": "mch_typography_editorial_headings_xs_sm_h4_text_case",
-            "attributes": {
-              "category": "Typography",
-              "type": "Editorial Headings",
-              "item": "XS-SM",
-              "subitem": "H4",
-              "state": "textCase"
-            },
-            "path": [
-              "Typography",
-              "Editorial Headings",
-              "XS-SM",
-              "H4",
-              "textCase"
-            ]
-          },
-          "textDecoration": {
-            "value": "none",
-            "type": "textDecoration",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{textDecoration.none}",
-              "type": "textDecoration"
-            },
-            "name": "mch_typography_editorial_headings_xs_sm_h4_text_decoration",
-            "attributes": {
-              "category": "Typography",
-              "type": "Editorial Headings",
-              "item": "XS-SM",
-              "subitem": "H4",
-              "state": "textDecoration"
-            },
-            "path": [
-              "Typography",
-              "Editorial Headings",
-              "XS-SM",
-              "H4",
-              "textDecoration"
-            ]
-          }
-        },
-        "H5": {
-          "fontFamily": {
-            "value": "Ivar Display",
-            "type": "fontFamilies",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{fontFamilies.ivar-display}",
-              "type": "fontFamilies"
-            },
-            "name": "mch_typography_editorial_headings_xs_sm_h5_font_family",
-            "attributes": {
-              "category": "Typography",
-              "type": "Editorial Headings",
-              "item": "XS-SM",
-              "subitem": "H5",
-              "state": "fontFamily"
-            },
-            "path": [
-              "Typography",
-              "Editorial Headings",
-              "XS-SM",
-              "H5",
-              "fontFamily"
-            ]
-          },
-          "fontWeight": {
-            "value": "600",
-            "type": "fontWeights",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{fontWeights.ivar-display-3}",
-              "type": "fontWeights"
-            },
-            "name": "mch_typography_editorial_headings_xs_sm_h5_font_weight",
-            "attributes": {
-              "category": "Typography",
-              "type": "Editorial Headings",
-              "item": "XS-SM",
-              "subitem": "H5",
-              "state": "fontWeight"
-            },
-            "path": [
-              "Typography",
-              "Editorial Headings",
-              "XS-SM",
-              "H5",
-              "fontWeight"
-            ]
-          },
-          "lineHeight": {
-            "value": "1.25rem",
-            "type": "lineHeights",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{lineHeights.15}",
-              "type": "lineHeights"
-            },
-            "name": "mch_typography_editorial_headings_xs_sm_h5_line_height",
-            "attributes": {
-              "category": "Typography",
-              "type": "Editorial Headings",
-              "item": "XS-SM",
-              "subitem": "H5",
-              "state": "lineHeight"
-            },
-            "path": [
-              "Typography",
-              "Editorial Headings",
-              "XS-SM",
-              "H5",
-              "lineHeight"
-            ]
-          },
-          "fontSize": {
-            "value": "1.125rem",
-            "type": "fontSizes",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{fontSize.3}",
-              "type": "fontSizes"
-            },
-            "name": "mch_typography_editorial_headings_xs_sm_h5_font_size",
-            "attributes": {
-              "category": "Typography",
-              "type": "Editorial Headings",
-              "item": "XS-SM",
-              "subitem": "H5",
-              "state": "fontSize"
-            },
-            "path": [
-              "Typography",
-              "Editorial Headings",
-              "XS-SM",
-              "H5",
-              "fontSize"
-            ]
-          },
-          "letterSpacing": {
-            "value": "0%",
-            "type": "letterSpacing",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{letterSpacing.1}",
-              "type": "letterSpacing"
-            },
-            "name": "mch_typography_editorial_headings_xs_sm_h5_letter_spacing",
-            "attributes": {
-              "category": "Typography",
-              "type": "Editorial Headings",
-              "item": "XS-SM",
-              "subitem": "H5",
-              "state": "letterSpacing"
-            },
-            "path": [
-              "Typography",
-              "Editorial Headings",
-              "XS-SM",
-              "H5",
-              "letterSpacing"
-            ]
-          },
-          "paragraphSpacing": {
-            "value": "4",
-            "type": "paragraphSpacing",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{paragraphSpacing.1}",
-              "type": "paragraphSpacing"
-            },
-            "name": "mch_typography_editorial_headings_xs_sm_h5_paragraph_spacing",
-            "attributes": {
-              "category": "Typography",
-              "type": "Editorial Headings",
-              "item": "XS-SM",
-              "subitem": "H5",
-              "state": "paragraphSpacing"
-            },
-            "path": [
-              "Typography",
-              "Editorial Headings",
-              "XS-SM",
-              "H5",
-              "paragraphSpacing"
-            ]
-          },
-          "paragraphIndent": {
-            "value": 0,
-            "type": "paragraphIndent",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{paragraphIndent.0}",
-              "type": "paragraphIndent"
-            },
-            "name": "mch_typography_editorial_headings_xs_sm_h5_paragraph_indent",
-            "attributes": {
-              "category": "Typography",
-              "type": "Editorial Headings",
-              "item": "XS-SM",
-              "subitem": "H5",
-              "state": "paragraphIndent"
-            },
-            "path": [
-              "Typography",
-              "Editorial Headings",
-              "XS-SM",
-              "H5",
-              "paragraphIndent"
-            ]
-          },
-          "textCase": {
-            "value": "none",
-            "type": "textCase",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{textCase.none}",
-              "type": "textCase"
-            },
-            "name": "mch_typography_editorial_headings_xs_sm_h5_text_case",
-            "attributes": {
-              "category": "Typography",
-              "type": "Editorial Headings",
-              "item": "XS-SM",
-              "subitem": "H5",
-              "state": "textCase"
-            },
-            "path": [
-              "Typography",
-              "Editorial Headings",
-              "XS-SM",
-              "H5",
-              "textCase"
-            ]
-          },
-          "textDecoration": {
-            "value": "none",
-            "type": "textDecoration",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{textDecoration.none}",
-              "type": "textDecoration"
-            },
-            "name": "mch_typography_editorial_headings_xs_sm_h5_text_decoration",
-            "attributes": {
-              "category": "Typography",
-              "type": "Editorial Headings",
-              "item": "XS-SM",
-              "subitem": "H5",
-              "state": "textDecoration"
-            },
-            "path": [
-              "Typography",
-              "Editorial Headings",
-              "XS-SM",
-              "H5",
-              "textDecoration"
-            ]
-          }
-        }
-      },
-      "XL": {
-        "H1": {
-          "fontFamily": {
-            "value": "Ivar Display",
-            "type": "fontFamilies",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{fontFamilies.ivar-display}",
-              "type": "fontFamilies"
-            },
-            "name": "mch_typography_editorial_headings_xl_h1_font_family",
-            "attributes": {
-              "category": "Typography",
-              "type": "Editorial Headings",
-              "item": "XL",
-              "subitem": "H1",
-              "state": "fontFamily"
-            },
-            "path": [
-              "Typography",
-              "Editorial Headings",
-              "XL",
-              "H1",
-              "fontFamily"
-            ]
-          },
-          "fontWeight": {
-            "value": "600",
-            "type": "fontWeights",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{fontWeights.ivar-display-3}",
-              "type": "fontWeights"
-            },
-            "name": "mch_typography_editorial_headings_xl_h1_font_weight",
-            "attributes": {
-              "category": "Typography",
-              "type": "Editorial Headings",
-              "item": "XL",
-              "subitem": "H1",
-              "state": "fontWeight"
-            },
-            "path": [
-              "Typography",
-              "Editorial Headings",
-              "XL",
-              "H1",
               "fontWeight"
             ]
           },
@@ -14830,3460 +18837,49 @@ module.exports = {
               "value": "{lineHeights.17}",
               "type": "lineHeights"
             },
-            "name": "mch_typography_editorial_headings_xl_h1_line_height",
+            "name": "xyz_typography_ch_headings_2_xl_h2_line_height",
             "attributes": {
               "category": "Typography",
-              "type": "Editorial Headings",
-              "item": "XL",
-              "subitem": "H1",
-              "state": "lineHeight"
-            },
-            "path": [
-              "Typography",
-              "Editorial Headings",
-              "XL",
-              "H1",
-              "lineHeight"
-            ]
-          },
-          "fontSize": {
-            "value": "3rem",
-            "type": "fontSizes",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{fontSize.14}",
-              "type": "fontSizes"
-            },
-            "name": "mch_typography_editorial_headings_xl_h1_font_size",
-            "attributes": {
-              "category": "Typography",
-              "type": "Editorial Headings",
-              "item": "XL",
-              "subitem": "H1",
-              "state": "fontSize"
-            },
-            "path": [
-              "Typography",
-              "Editorial Headings",
-              "XL",
-              "H1",
-              "fontSize"
-            ]
-          },
-          "letterSpacing": {
-            "value": "0",
-            "type": "letterSpacing",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{letterSpacing.0}",
-              "type": "letterSpacing"
-            },
-            "name": "mch_typography_editorial_headings_xl_h1_letter_spacing",
-            "attributes": {
-              "category": "Typography",
-              "type": "Editorial Headings",
-              "item": "XL",
-              "subitem": "H1",
-              "state": "letterSpacing"
-            },
-            "path": [
-              "Typography",
-              "Editorial Headings",
-              "XL",
-              "H1",
-              "letterSpacing"
-            ]
-          },
-          "paragraphSpacing": {
-            "value": "4",
-            "type": "paragraphSpacing",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{paragraphSpacing.1}",
-              "type": "paragraphSpacing"
-            },
-            "name": "mch_typography_editorial_headings_xl_h1_paragraph_spacing",
-            "attributes": {
-              "category": "Typography",
-              "type": "Editorial Headings",
-              "item": "XL",
-              "subitem": "H1",
-              "state": "paragraphSpacing"
-            },
-            "path": [
-              "Typography",
-              "Editorial Headings",
-              "XL",
-              "H1",
-              "paragraphSpacing"
-            ]
-          },
-          "paragraphIndent": {
-            "value": 0,
-            "type": "paragraphIndent",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{paragraphIndent.0}",
-              "type": "paragraphIndent"
-            },
-            "name": "mch_typography_editorial_headings_xl_h1_paragraph_indent",
-            "attributes": {
-              "category": "Typography",
-              "type": "Editorial Headings",
-              "item": "XL",
-              "subitem": "H1",
-              "state": "paragraphIndent"
-            },
-            "path": [
-              "Typography",
-              "Editorial Headings",
-              "XL",
-              "H1",
-              "paragraphIndent"
-            ]
-          },
-          "textCase": {
-            "value": "none",
-            "type": "textCase",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{textCase.none}",
-              "type": "textCase"
-            },
-            "name": "mch_typography_editorial_headings_xl_h1_text_case",
-            "attributes": {
-              "category": "Typography",
-              "type": "Editorial Headings",
-              "item": "XL",
-              "subitem": "H1",
-              "state": "textCase"
-            },
-            "path": [
-              "Typography",
-              "Editorial Headings",
-              "XL",
-              "H1",
-              "textCase"
-            ]
-          },
-          "textDecoration": {
-            "value": "none",
-            "type": "textDecoration",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{textDecoration.none}",
-              "type": "textDecoration"
-            },
-            "name": "mch_typography_editorial_headings_xl_h1_text_decoration",
-            "attributes": {
-              "category": "Typography",
-              "type": "Editorial Headings",
-              "item": "XL",
-              "subitem": "H1",
-              "state": "textDecoration"
-            },
-            "path": [
-              "Typography",
-              "Editorial Headings",
-              "XL",
-              "H1",
-              "textDecoration"
-            ]
-          }
-        },
-        "H2": {
-          "fontFamily": {
-            "value": "Ivar Display",
-            "type": "fontFamilies",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{fontFamilies.ivar-display}",
-              "type": "fontFamilies"
-            },
-            "name": "mch_typography_editorial_headings_xl_h2_font_family",
-            "attributes": {
-              "category": "Typography",
-              "type": "Editorial Headings",
-              "item": "XL",
-              "subitem": "H2",
-              "state": "fontFamily"
-            },
-            "path": [
-              "Typography",
-              "Editorial Headings",
-              "XL",
-              "H2",
-              "fontFamily"
-            ]
-          },
-          "fontWeight": {
-            "value": "600",
-            "type": "fontWeights",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{fontWeights.ivar-display-3}",
-              "type": "fontWeights"
-            },
-            "name": "mch_typography_editorial_headings_xl_h2_font_weight",
-            "attributes": {
-              "category": "Typography",
-              "type": "Editorial Headings",
-              "item": "XL",
-              "subitem": "H2",
-              "state": "fontWeight"
-            },
-            "path": [
-              "Typography",
-              "Editorial Headings",
-              "XL",
-              "H2",
-              "fontWeight"
-            ]
-          },
-          "lineHeight": {
-            "value": "3.375rem",
-            "type": "lineHeights",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{lineHeights.18}",
-              "type": "lineHeights"
-            },
-            "name": "mch_typography_editorial_headings_xl_h2_line_height",
-            "attributes": {
-              "category": "Typography",
-              "type": "Editorial Headings",
-              "item": "XL",
-              "subitem": "H2",
-              "state": "lineHeight"
-            },
-            "path": [
-              "Typography",
-              "Editorial Headings",
-              "XL",
-              "H2",
-              "lineHeight"
-            ]
-          },
-          "fontSize": {
-            "value": "2.625rem",
-            "type": "fontSizes",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{fontSize.13}",
-              "type": "fontSizes"
-            },
-            "name": "mch_typography_editorial_headings_xl_h2_font_size",
-            "attributes": {
-              "category": "Typography",
-              "type": "Editorial Headings",
-              "item": "XL",
-              "subitem": "H2",
-              "state": "fontSize"
-            },
-            "path": [
-              "Typography",
-              "Editorial Headings",
-              "XL",
-              "H2",
-              "fontSize"
-            ]
-          },
-          "letterSpacing": {
-            "value": "0%",
-            "type": "letterSpacing",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{letterSpacing.1}",
-              "type": "letterSpacing"
-            },
-            "name": "mch_typography_editorial_headings_xl_h2_letter_spacing",
-            "attributes": {
-              "category": "Typography",
-              "type": "Editorial Headings",
-              "item": "XL",
-              "subitem": "H2",
-              "state": "letterSpacing"
-            },
-            "path": [
-              "Typography",
-              "Editorial Headings",
-              "XL",
-              "H2",
-              "letterSpacing"
-            ]
-          },
-          "paragraphSpacing": {
-            "value": "4",
-            "type": "paragraphSpacing",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{paragraphSpacing.1}",
-              "type": "paragraphSpacing"
-            },
-            "name": "mch_typography_editorial_headings_xl_h2_paragraph_spacing",
-            "attributes": {
-              "category": "Typography",
-              "type": "Editorial Headings",
-              "item": "XL",
-              "subitem": "H2",
-              "state": "paragraphSpacing"
-            },
-            "path": [
-              "Typography",
-              "Editorial Headings",
-              "XL",
-              "H2",
-              "paragraphSpacing"
-            ]
-          },
-          "paragraphIndent": {
-            "value": 0,
-            "type": "paragraphIndent",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{paragraphIndent.0}",
-              "type": "paragraphIndent"
-            },
-            "name": "mch_typography_editorial_headings_xl_h2_paragraph_indent",
-            "attributes": {
-              "category": "Typography",
-              "type": "Editorial Headings",
-              "item": "XL",
-              "subitem": "H2",
-              "state": "paragraphIndent"
-            },
-            "path": [
-              "Typography",
-              "Editorial Headings",
-              "XL",
-              "H2",
-              "paragraphIndent"
-            ]
-          },
-          "textCase": {
-            "value": "none",
-            "type": "textCase",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{textCase.none}",
-              "type": "textCase"
-            },
-            "name": "mch_typography_editorial_headings_xl_h2_text_case",
-            "attributes": {
-              "category": "Typography",
-              "type": "Editorial Headings",
-              "item": "XL",
-              "subitem": "H2",
-              "state": "textCase"
-            },
-            "path": [
-              "Typography",
-              "Editorial Headings",
-              "XL",
-              "H2",
-              "textCase"
-            ]
-          },
-          "textDecoration": {
-            "value": "none",
-            "type": "textDecoration",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{textDecoration.none}",
-              "type": "textDecoration"
-            },
-            "name": "mch_typography_editorial_headings_xl_h2_text_decoration",
-            "attributes": {
-              "category": "Typography",
-              "type": "Editorial Headings",
-              "item": "XL",
-              "subitem": "H2",
-              "state": "textDecoration"
-            },
-            "path": [
-              "Typography",
-              "Editorial Headings",
-              "XL",
-              "H2",
-              "textDecoration"
-            ]
-          }
-        },
-        "H3": {
-          "fontFamily": {
-            "value": "Ivar Display",
-            "type": "fontFamilies",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{fontFamilies.ivar-display}",
-              "type": "fontFamilies"
-            },
-            "name": "mch_typography_editorial_headings_xl_h3_font_family",
-            "attributes": {
-              "category": "Typography",
-              "type": "Editorial Headings",
-              "item": "XL",
-              "subitem": "H3",
-              "state": "fontFamily"
-            },
-            "path": [
-              "Typography",
-              "Editorial Headings",
-              "XL",
-              "H3",
-              "fontFamily"
-            ]
-          },
-          "fontWeight": {
-            "value": "600",
-            "type": "fontWeights",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{fontWeights.ivar-display-3}",
-              "type": "fontWeights"
-            },
-            "name": "mch_typography_editorial_headings_xl_h3_font_weight",
-            "attributes": {
-              "category": "Typography",
-              "type": "Editorial Headings",
-              "item": "XL",
-              "subitem": "H3",
-              "state": "fontWeight"
-            },
-            "path": [
-              "Typography",
-              "Editorial Headings",
-              "XL",
-              "H3",
-              "fontWeight"
-            ]
-          },
-          "lineHeight": {
-            "value": "3rem",
-            "type": "lineHeights",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{lineHeights.5}",
-              "type": "lineHeights"
-            },
-            "name": "mch_typography_editorial_headings_xl_h3_line_height",
-            "attributes": {
-              "category": "Typography",
-              "type": "Editorial Headings",
-              "item": "XL",
-              "subitem": "H3",
-              "state": "lineHeight"
-            },
-            "path": [
-              "Typography",
-              "Editorial Headings",
-              "XL",
-              "H3",
-              "lineHeight"
-            ]
-          },
-          "fontSize": {
-            "value": "2.25rem",
-            "type": "fontSizes",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{fontSize.10}",
-              "type": "fontSizes"
-            },
-            "name": "mch_typography_editorial_headings_xl_h3_font_size",
-            "attributes": {
-              "category": "Typography",
-              "type": "Editorial Headings",
-              "item": "XL",
-              "subitem": "H3",
-              "state": "fontSize"
-            },
-            "path": [
-              "Typography",
-              "Editorial Headings",
-              "XL",
-              "H3",
-              "fontSize"
-            ]
-          },
-          "letterSpacing": {
-            "value": "0%",
-            "type": "letterSpacing",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{letterSpacing.1}",
-              "type": "letterSpacing"
-            },
-            "name": "mch_typography_editorial_headings_xl_h3_letter_spacing",
-            "attributes": {
-              "category": "Typography",
-              "type": "Editorial Headings",
-              "item": "XL",
-              "subitem": "H3",
-              "state": "letterSpacing"
-            },
-            "path": [
-              "Typography",
-              "Editorial Headings",
-              "XL",
-              "H3",
-              "letterSpacing"
-            ]
-          },
-          "paragraphSpacing": {
-            "value": "4",
-            "type": "paragraphSpacing",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{paragraphSpacing.1}",
-              "type": "paragraphSpacing"
-            },
-            "name": "mch_typography_editorial_headings_xl_h3_paragraph_spacing",
-            "attributes": {
-              "category": "Typography",
-              "type": "Editorial Headings",
-              "item": "XL",
-              "subitem": "H3",
-              "state": "paragraphSpacing"
-            },
-            "path": [
-              "Typography",
-              "Editorial Headings",
-              "XL",
-              "H3",
-              "paragraphSpacing"
-            ]
-          },
-          "paragraphIndent": {
-            "value": 0,
-            "type": "paragraphIndent",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{paragraphIndent.0}",
-              "type": "paragraphIndent"
-            },
-            "name": "mch_typography_editorial_headings_xl_h3_paragraph_indent",
-            "attributes": {
-              "category": "Typography",
-              "type": "Editorial Headings",
-              "item": "XL",
-              "subitem": "H3",
-              "state": "paragraphIndent"
-            },
-            "path": [
-              "Typography",
-              "Editorial Headings",
-              "XL",
-              "H3",
-              "paragraphIndent"
-            ]
-          },
-          "textCase": {
-            "value": "none",
-            "type": "textCase",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{textCase.none}",
-              "type": "textCase"
-            },
-            "name": "mch_typography_editorial_headings_xl_h3_text_case",
-            "attributes": {
-              "category": "Typography",
-              "type": "Editorial Headings",
-              "item": "XL",
-              "subitem": "H3",
-              "state": "textCase"
-            },
-            "path": [
-              "Typography",
-              "Editorial Headings",
-              "XL",
-              "H3",
-              "textCase"
-            ]
-          },
-          "textDecoration": {
-            "value": "none",
-            "type": "textDecoration",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{textDecoration.none}",
-              "type": "textDecoration"
-            },
-            "name": "mch_typography_editorial_headings_xl_h3_text_decoration",
-            "attributes": {
-              "category": "Typography",
-              "type": "Editorial Headings",
-              "item": "XL",
-              "subitem": "H3",
-              "state": "textDecoration"
-            },
-            "path": [
-              "Typography",
-              "Editorial Headings",
-              "XL",
-              "H3",
-              "textDecoration"
-            ]
-          }
-        },
-        "H4": {
-          "fontFamily": {
-            "value": "Ivar Display",
-            "type": "fontFamilies",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{fontFamilies.ivar-display}",
-              "type": "fontFamilies"
-            },
-            "name": "mch_typography_editorial_headings_xl_h4_font_family",
-            "attributes": {
-              "category": "Typography",
-              "type": "Editorial Headings",
-              "item": "XL",
-              "subitem": "H4",
-              "state": "fontFamily"
-            },
-            "path": [
-              "Typography",
-              "Editorial Headings",
-              "XL",
-              "H4",
-              "fontFamily"
-            ]
-          },
-          "fontWeight": {
-            "value": "600",
-            "type": "fontWeights",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{fontWeights.ivar-display-3}",
-              "type": "fontWeights"
-            },
-            "name": "mch_typography_editorial_headings_xl_h4_font_weight",
-            "attributes": {
-              "category": "Typography",
-              "type": "Editorial Headings",
-              "item": "XL",
-              "subitem": "H4",
-              "state": "fontWeight"
-            },
-            "path": [
-              "Typography",
-              "Editorial Headings",
-              "XL",
-              "H4",
-              "fontWeight"
-            ]
-          },
-          "lineHeight": {
-            "value": "2.625rem",
-            "type": "lineHeights",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{lineHeights.6}",
-              "type": "lineHeights"
-            },
-            "name": "mch_typography_editorial_headings_xl_h4_line_height",
-            "attributes": {
-              "category": "Typography",
-              "type": "Editorial Headings",
-              "item": "XL",
-              "subitem": "H4",
-              "state": "lineHeight"
-            },
-            "path": [
-              "Typography",
-              "Editorial Headings",
-              "XL",
-              "H4",
-              "lineHeight"
-            ]
-          },
-          "fontSize": {
-            "value": "1.875rem",
-            "type": "fontSizes",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{fontSize.7}",
-              "type": "fontSizes"
-            },
-            "name": "mch_typography_editorial_headings_xl_h4_font_size",
-            "attributes": {
-              "category": "Typography",
-              "type": "Editorial Headings",
-              "item": "XL",
-              "subitem": "H4",
-              "state": "fontSize"
-            },
-            "path": [
-              "Typography",
-              "Editorial Headings",
-              "XL",
-              "H4",
-              "fontSize"
-            ]
-          },
-          "letterSpacing": {
-            "value": "0%",
-            "type": "letterSpacing",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{letterSpacing.1}",
-              "type": "letterSpacing"
-            },
-            "name": "mch_typography_editorial_headings_xl_h4_letter_spacing",
-            "attributes": {
-              "category": "Typography",
-              "type": "Editorial Headings",
-              "item": "XL",
-              "subitem": "H4",
-              "state": "letterSpacing"
-            },
-            "path": [
-              "Typography",
-              "Editorial Headings",
-              "XL",
-              "H4",
-              "letterSpacing"
-            ]
-          },
-          "paragraphSpacing": {
-            "value": "4",
-            "type": "paragraphSpacing",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{paragraphSpacing.1}",
-              "type": "paragraphSpacing"
-            },
-            "name": "mch_typography_editorial_headings_xl_h4_paragraph_spacing",
-            "attributes": {
-              "category": "Typography",
-              "type": "Editorial Headings",
-              "item": "XL",
-              "subitem": "H4",
-              "state": "paragraphSpacing"
-            },
-            "path": [
-              "Typography",
-              "Editorial Headings",
-              "XL",
-              "H4",
-              "paragraphSpacing"
-            ]
-          },
-          "paragraphIndent": {
-            "value": 0,
-            "type": "paragraphIndent",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{paragraphIndent.0}",
-              "type": "paragraphIndent"
-            },
-            "name": "mch_typography_editorial_headings_xl_h4_paragraph_indent",
-            "attributes": {
-              "category": "Typography",
-              "type": "Editorial Headings",
-              "item": "XL",
-              "subitem": "H4",
-              "state": "paragraphIndent"
-            },
-            "path": [
-              "Typography",
-              "Editorial Headings",
-              "XL",
-              "H4",
-              "paragraphIndent"
-            ]
-          },
-          "textCase": {
-            "value": "none",
-            "type": "textCase",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{textCase.none}",
-              "type": "textCase"
-            },
-            "name": "mch_typography_editorial_headings_xl_h4_text_case",
-            "attributes": {
-              "category": "Typography",
-              "type": "Editorial Headings",
-              "item": "XL",
-              "subitem": "H4",
-              "state": "textCase"
-            },
-            "path": [
-              "Typography",
-              "Editorial Headings",
-              "XL",
-              "H4",
-              "textCase"
-            ]
-          },
-          "textDecoration": {
-            "value": "none",
-            "type": "textDecoration",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{textDecoration.none}",
-              "type": "textDecoration"
-            },
-            "name": "mch_typography_editorial_headings_xl_h4_text_decoration",
-            "attributes": {
-              "category": "Typography",
-              "type": "Editorial Headings",
-              "item": "XL",
-              "subitem": "H4",
-              "state": "textDecoration"
-            },
-            "path": [
-              "Typography",
-              "Editorial Headings",
-              "XL",
-              "H4",
-              "textDecoration"
-            ]
-          }
-        },
-        "H5": {
-          "fontFamily": {
-            "value": "Ivar Display",
-            "type": "fontFamilies",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{fontFamilies.ivar-display}",
-              "type": "fontFamilies"
-            },
-            "name": "mch_typography_editorial_headings_xl_h5_font_family",
-            "attributes": {
-              "category": "Typography",
-              "type": "Editorial Headings",
-              "item": "XL",
-              "subitem": "H5",
-              "state": "fontFamily"
-            },
-            "path": [
-              "Typography",
-              "Editorial Headings",
-              "XL",
-              "H5",
-              "fontFamily"
-            ]
-          },
-          "fontWeight": {
-            "value": "600",
-            "type": "fontWeights",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{fontWeights.ivar-display-3}",
-              "type": "fontWeights"
-            },
-            "name": "mch_typography_editorial_headings_xl_h5_font_weight",
-            "attributes": {
-              "category": "Typography",
-              "type": "Editorial Headings",
-              "item": "XL",
-              "subitem": "H5",
-              "state": "fontWeight"
-            },
-            "path": [
-              "Typography",
-              "Editorial Headings",
-              "XL",
-              "H5",
-              "fontWeight"
-            ]
-          },
-          "lineHeight": {
-            "value": "2rem",
-            "type": "lineHeights",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{lineHeights.16}",
-              "type": "lineHeights"
-            },
-            "name": "mch_typography_editorial_headings_xl_h5_line_height",
-            "attributes": {
-              "category": "Typography",
-              "type": "Editorial Headings",
-              "item": "XL",
-              "subitem": "H5",
-              "state": "lineHeight"
-            },
-            "path": [
-              "Typography",
-              "Editorial Headings",
-              "XL",
-              "H5",
-              "lineHeight"
-            ]
-          },
-          "fontSize": {
-            "value": "1.5rem",
-            "type": "fontSizes",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{fontSize.5}",
-              "type": "fontSizes"
-            },
-            "name": "mch_typography_editorial_headings_xl_h5_font_size",
-            "attributes": {
-              "category": "Typography",
-              "type": "Editorial Headings",
-              "item": "XL",
-              "subitem": "H5",
-              "state": "fontSize"
-            },
-            "path": [
-              "Typography",
-              "Editorial Headings",
-              "XL",
-              "H5",
-              "fontSize"
-            ]
-          },
-          "letterSpacing": {
-            "value": "0%",
-            "type": "letterSpacing",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{letterSpacing.1}",
-              "type": "letterSpacing"
-            },
-            "name": "mch_typography_editorial_headings_xl_h5_letter_spacing",
-            "attributes": {
-              "category": "Typography",
-              "type": "Editorial Headings",
-              "item": "XL",
-              "subitem": "H5",
-              "state": "letterSpacing"
-            },
-            "path": [
-              "Typography",
-              "Editorial Headings",
-              "XL",
-              "H5",
-              "letterSpacing"
-            ]
-          },
-          "paragraphSpacing": {
-            "value": "4",
-            "type": "paragraphSpacing",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{paragraphSpacing.1}",
-              "type": "paragraphSpacing"
-            },
-            "name": "mch_typography_editorial_headings_xl_h5_paragraph_spacing",
-            "attributes": {
-              "category": "Typography",
-              "type": "Editorial Headings",
-              "item": "XL",
-              "subitem": "H5",
-              "state": "paragraphSpacing"
-            },
-            "path": [
-              "Typography",
-              "Editorial Headings",
-              "XL",
-              "H5",
-              "paragraphSpacing"
-            ]
-          },
-          "paragraphIndent": {
-            "value": 0,
-            "type": "paragraphIndent",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{paragraphIndent.0}",
-              "type": "paragraphIndent"
-            },
-            "name": "mch_typography_editorial_headings_xl_h5_paragraph_indent",
-            "attributes": {
-              "category": "Typography",
-              "type": "Editorial Headings",
-              "item": "XL",
-              "subitem": "H5",
-              "state": "paragraphIndent"
-            },
-            "path": [
-              "Typography",
-              "Editorial Headings",
-              "XL",
-              "H5",
-              "paragraphIndent"
-            ]
-          },
-          "textCase": {
-            "value": "none",
-            "type": "textCase",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{textCase.none}",
-              "type": "textCase"
-            },
-            "name": "mch_typography_editorial_headings_xl_h5_text_case",
-            "attributes": {
-              "category": "Typography",
-              "type": "Editorial Headings",
-              "item": "XL",
-              "subitem": "H5",
-              "state": "textCase"
-            },
-            "path": [
-              "Typography",
-              "Editorial Headings",
-              "XL",
-              "H5",
-              "textCase"
-            ]
-          },
-          "textDecoration": {
-            "value": "none",
-            "type": "textDecoration",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{textDecoration.none}",
-              "type": "textDecoration"
-            },
-            "name": "mch_typography_editorial_headings_xl_h5_text_decoration",
-            "attributes": {
-              "category": "Typography",
-              "type": "Editorial Headings",
-              "item": "XL",
-              "subitem": "H5",
-              "state": "textDecoration"
-            },
-            "path": [
-              "Typography",
-              "Editorial Headings",
-              "XL",
-              "H5",
-              "textDecoration"
-            ]
-          }
-        }
-      },
-      "MD": {
-        "H1": {
-          "fontFamily": {
-            "value": "Ivar Display",
-            "type": "fontFamilies",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{fontFamilies.ivar-display}",
-              "type": "fontFamilies"
-            },
-            "name": "mch_typography_editorial_headings_md_h1_font_family",
-            "attributes": {
-              "category": "Typography",
-              "type": "Editorial Headings",
-              "item": "MD",
-              "subitem": "H1",
-              "state": "fontFamily"
-            },
-            "path": [
-              "Typography",
-              "Editorial Headings",
-              "MD",
-              "H1",
-              "fontFamily"
-            ]
-          },
-          "fontWeight": {
-            "value": "600",
-            "type": "fontWeights",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{fontWeights.ivar-display-3}",
-              "type": "fontWeights"
-            },
-            "name": "mch_typography_editorial_headings_md_h1_font_weight",
-            "attributes": {
-              "category": "Typography",
-              "type": "Editorial Headings",
-              "item": "MD",
-              "subitem": "H1",
-              "state": "fontWeight"
-            },
-            "path": [
-              "Typography",
-              "Editorial Headings",
-              "MD",
-              "H1",
-              "fontWeight"
-            ]
-          },
-          "lineHeight": {
-            "value": "3rem",
-            "type": "lineHeights",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{lineHeights.5}",
-              "type": "lineHeights"
-            },
-            "name": "mch_typography_editorial_headings_md_h1_line_height",
-            "attributes": {
-              "category": "Typography",
-              "type": "Editorial Headings",
-              "item": "MD",
-              "subitem": "H1",
-              "state": "lineHeight"
-            },
-            "path": [
-              "Typography",
-              "Editorial Headings",
-              "MD",
-              "H1",
-              "lineHeight"
-            ]
-          },
-          "fontSize": {
-            "value": "2.25rem",
-            "type": "fontSizes",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{fontSize.10}",
-              "type": "fontSizes"
-            },
-            "name": "mch_typography_editorial_headings_md_h1_font_size",
-            "attributes": {
-              "category": "Typography",
-              "type": "Editorial Headings",
-              "item": "MD",
-              "subitem": "H1",
-              "state": "fontSize"
-            },
-            "path": [
-              "Typography",
-              "Editorial Headings",
-              "MD",
-              "H1",
-              "fontSize"
-            ]
-          },
-          "letterSpacing": {
-            "value": "0%",
-            "type": "letterSpacing",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{letterSpacing.1}",
-              "type": "letterSpacing"
-            },
-            "name": "mch_typography_editorial_headings_md_h1_letter_spacing",
-            "attributes": {
-              "category": "Typography",
-              "type": "Editorial Headings",
-              "item": "MD",
-              "subitem": "H1",
-              "state": "letterSpacing"
-            },
-            "path": [
-              "Typography",
-              "Editorial Headings",
-              "MD",
-              "H1",
-              "letterSpacing"
-            ]
-          },
-          "paragraphSpacing": {
-            "value": "4",
-            "type": "paragraphSpacing",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{paragraphSpacing.1}",
-              "type": "paragraphSpacing"
-            },
-            "name": "mch_typography_editorial_headings_md_h1_paragraph_spacing",
-            "attributes": {
-              "category": "Typography",
-              "type": "Editorial Headings",
-              "item": "MD",
-              "subitem": "H1",
-              "state": "paragraphSpacing"
-            },
-            "path": [
-              "Typography",
-              "Editorial Headings",
-              "MD",
-              "H1",
-              "paragraphSpacing"
-            ]
-          },
-          "paragraphIndent": {
-            "value": 0,
-            "type": "paragraphIndent",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{paragraphIndent.0}",
-              "type": "paragraphIndent"
-            },
-            "name": "mch_typography_editorial_headings_md_h1_paragraph_indent",
-            "attributes": {
-              "category": "Typography",
-              "type": "Editorial Headings",
-              "item": "MD",
-              "subitem": "H1",
-              "state": "paragraphIndent"
-            },
-            "path": [
-              "Typography",
-              "Editorial Headings",
-              "MD",
-              "H1",
-              "paragraphIndent"
-            ]
-          },
-          "textCase": {
-            "value": "none",
-            "type": "textCase",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{textCase.none}",
-              "type": "textCase"
-            },
-            "name": "mch_typography_editorial_headings_md_h1_text_case",
-            "attributes": {
-              "category": "Typography",
-              "type": "Editorial Headings",
-              "item": "MD",
-              "subitem": "H1",
-              "state": "textCase"
-            },
-            "path": [
-              "Typography",
-              "Editorial Headings",
-              "MD",
-              "H1",
-              "textCase"
-            ]
-          },
-          "textDecoration": {
-            "value": "none",
-            "type": "textDecoration",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{textDecoration.none}",
-              "type": "textDecoration"
-            },
-            "name": "mch_typography_editorial_headings_md_h1_text_decoration",
-            "attributes": {
-              "category": "Typography",
-              "type": "Editorial Headings",
-              "item": "MD",
-              "subitem": "H1",
-              "state": "textDecoration"
-            },
-            "path": [
-              "Typography",
-              "Editorial Headings",
-              "MD",
-              "H1",
-              "textDecoration"
-            ]
-          }
-        },
-        "H2": {
-          "fontFamily": {
-            "value": "Ivar Display",
-            "type": "fontFamilies",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{fontFamilies.ivar-display}",
-              "type": "fontFamilies"
-            },
-            "name": "mch_typography_editorial_headings_md_h2_font_family",
-            "attributes": {
-              "category": "Typography",
-              "type": "Editorial Headings",
-              "item": "MD",
-              "subitem": "H2",
-              "state": "fontFamily"
-            },
-            "path": [
-              "Typography",
-              "Editorial Headings",
-              "MD",
-              "H2",
-              "fontFamily"
-            ]
-          },
-          "fontWeight": {
-            "value": "600",
-            "type": "fontWeights",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{fontWeights.ivar-display-3}",
-              "type": "fontWeights"
-            },
-            "name": "mch_typography_editorial_headings_md_h2_font_weight",
-            "attributes": {
-              "category": "Typography",
-              "type": "Editorial Headings",
-              "item": "MD",
-              "subitem": "H2",
-              "state": "fontWeight"
-            },
-            "path": [
-              "Typography",
-              "Editorial Headings",
-              "MD",
-              "H2",
-              "fontWeight"
-            ]
-          },
-          "lineHeight": {
-            "value": "2.625rem",
-            "type": "lineHeights",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{lineHeights.6}",
-              "type": "lineHeights"
-            },
-            "name": "mch_typography_editorial_headings_md_h2_line_height",
-            "attributes": {
-              "category": "Typography",
-              "type": "Editorial Headings",
-              "item": "MD",
-              "subitem": "H2",
-              "state": "lineHeight"
-            },
-            "path": [
-              "Typography",
-              "Editorial Headings",
-              "MD",
-              "H2",
-              "lineHeight"
-            ]
-          },
-          "fontSize": {
-            "value": "1.875rem",
-            "type": "fontSizes",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{fontSize.7}",
-              "type": "fontSizes"
-            },
-            "name": "mch_typography_editorial_headings_md_h2_font_size",
-            "attributes": {
-              "category": "Typography",
-              "type": "Editorial Headings",
-              "item": "MD",
-              "subitem": "H2",
-              "state": "fontSize"
-            },
-            "path": [
-              "Typography",
-              "Editorial Headings",
-              "MD",
-              "H2",
-              "fontSize"
-            ]
-          },
-          "letterSpacing": {
-            "value": "0%",
-            "type": "letterSpacing",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{letterSpacing.1}",
-              "type": "letterSpacing"
-            },
-            "name": "mch_typography_editorial_headings_md_h2_letter_spacing",
-            "attributes": {
-              "category": "Typography",
-              "type": "Editorial Headings",
-              "item": "MD",
-              "subitem": "H2",
-              "state": "letterSpacing"
-            },
-            "path": [
-              "Typography",
-              "Editorial Headings",
-              "MD",
-              "H2",
-              "letterSpacing"
-            ]
-          },
-          "paragraphSpacing": {
-            "value": "4",
-            "type": "paragraphSpacing",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{paragraphSpacing.1}",
-              "type": "paragraphSpacing"
-            },
-            "name": "mch_typography_editorial_headings_md_h2_paragraph_spacing",
-            "attributes": {
-              "category": "Typography",
-              "type": "Editorial Headings",
-              "item": "MD",
-              "subitem": "H2",
-              "state": "paragraphSpacing"
-            },
-            "path": [
-              "Typography",
-              "Editorial Headings",
-              "MD",
-              "H2",
-              "paragraphSpacing"
-            ]
-          },
-          "paragraphIndent": {
-            "value": 0,
-            "type": "paragraphIndent",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{paragraphIndent.0}",
-              "type": "paragraphIndent"
-            },
-            "name": "mch_typography_editorial_headings_md_h2_paragraph_indent",
-            "attributes": {
-              "category": "Typography",
-              "type": "Editorial Headings",
-              "item": "MD",
-              "subitem": "H2",
-              "state": "paragraphIndent"
-            },
-            "path": [
-              "Typography",
-              "Editorial Headings",
-              "MD",
-              "H2",
-              "paragraphIndent"
-            ]
-          },
-          "textCase": {
-            "value": "none",
-            "type": "textCase",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{textCase.none}",
-              "type": "textCase"
-            },
-            "name": "mch_typography_editorial_headings_md_h2_text_case",
-            "attributes": {
-              "category": "Typography",
-              "type": "Editorial Headings",
-              "item": "MD",
-              "subitem": "H2",
-              "state": "textCase"
-            },
-            "path": [
-              "Typography",
-              "Editorial Headings",
-              "MD",
-              "H2",
-              "textCase"
-            ]
-          },
-          "textDecoration": {
-            "value": "none",
-            "type": "textDecoration",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{textDecoration.none}",
-              "type": "textDecoration"
-            },
-            "name": "mch_typography_editorial_headings_md_h2_text_decoration",
-            "attributes": {
-              "category": "Typography",
-              "type": "Editorial Headings",
-              "item": "MD",
-              "subitem": "H2",
-              "state": "textDecoration"
-            },
-            "path": [
-              "Typography",
-              "Editorial Headings",
-              "MD",
-              "H2",
-              "textDecoration"
-            ]
-          }
-        },
-        "H3": {
-          "fontFamily": {
-            "value": "Ivar Display",
-            "type": "fontFamilies",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{fontFamilies.ivar-display}",
-              "type": "fontFamilies"
-            },
-            "name": "mch_typography_editorial_headings_md_h3_font_family",
-            "attributes": {
-              "category": "Typography",
-              "type": "Editorial Headings",
-              "item": "MD",
-              "subitem": "H3",
-              "state": "fontFamily"
-            },
-            "path": [
-              "Typography",
-              "Editorial Headings",
-              "MD",
-              "H3",
-              "fontFamily"
-            ]
-          },
-          "fontWeight": {
-            "value": "600",
-            "type": "fontWeights",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{fontWeights.ivar-display-3}",
-              "type": "fontWeights"
-            },
-            "name": "mch_typography_editorial_headings_md_h3_font_weight",
-            "attributes": {
-              "category": "Typography",
-              "type": "Editorial Headings",
-              "item": "MD",
-              "subitem": "H3",
-              "state": "fontWeight"
-            },
-            "path": [
-              "Typography",
-              "Editorial Headings",
-              "MD",
-              "H3",
-              "fontWeight"
-            ]
-          },
-          "lineHeight": {
-            "value": "2.25rem",
-            "type": "lineHeights",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{lineHeights.19}",
-              "type": "lineHeights"
-            },
-            "name": "mch_typography_editorial_headings_md_h3_line_height",
-            "attributes": {
-              "category": "Typography",
-              "type": "Editorial Headings",
-              "item": "MD",
-              "subitem": "H3",
-              "state": "lineHeight"
-            },
-            "path": [
-              "Typography",
-              "Editorial Headings",
-              "MD",
-              "H3",
-              "lineHeight"
-            ]
-          },
-          "fontSize": {
-            "value": "1.625rem",
-            "type": "fontSizes",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{fontSize.6}",
-              "type": "fontSizes"
-            },
-            "name": "mch_typography_editorial_headings_md_h3_font_size",
-            "attributes": {
-              "category": "Typography",
-              "type": "Editorial Headings",
-              "item": "MD",
-              "subitem": "H3",
-              "state": "fontSize"
-            },
-            "path": [
-              "Typography",
-              "Editorial Headings",
-              "MD",
-              "H3",
-              "fontSize"
-            ]
-          },
-          "letterSpacing": {
-            "value": "0%",
-            "type": "letterSpacing",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{letterSpacing.1}",
-              "type": "letterSpacing"
-            },
-            "name": "mch_typography_editorial_headings_md_h3_letter_spacing",
-            "attributes": {
-              "category": "Typography",
-              "type": "Editorial Headings",
-              "item": "MD",
-              "subitem": "H3",
-              "state": "letterSpacing"
-            },
-            "path": [
-              "Typography",
-              "Editorial Headings",
-              "MD",
-              "H3",
-              "letterSpacing"
-            ]
-          },
-          "paragraphSpacing": {
-            "value": "4",
-            "type": "paragraphSpacing",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{paragraphSpacing.1}",
-              "type": "paragraphSpacing"
-            },
-            "name": "mch_typography_editorial_headings_md_h3_paragraph_spacing",
-            "attributes": {
-              "category": "Typography",
-              "type": "Editorial Headings",
-              "item": "MD",
-              "subitem": "H3",
-              "state": "paragraphSpacing"
-            },
-            "path": [
-              "Typography",
-              "Editorial Headings",
-              "MD",
-              "H3",
-              "paragraphSpacing"
-            ]
-          },
-          "paragraphIndent": {
-            "value": 0,
-            "type": "paragraphIndent",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{paragraphIndent.0}",
-              "type": "paragraphIndent"
-            },
-            "name": "mch_typography_editorial_headings_md_h3_paragraph_indent",
-            "attributes": {
-              "category": "Typography",
-              "type": "Editorial Headings",
-              "item": "MD",
-              "subitem": "H3",
-              "state": "paragraphIndent"
-            },
-            "path": [
-              "Typography",
-              "Editorial Headings",
-              "MD",
-              "H3",
-              "paragraphIndent"
-            ]
-          },
-          "textCase": {
-            "value": "none",
-            "type": "textCase",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{textCase.none}",
-              "type": "textCase"
-            },
-            "name": "mch_typography_editorial_headings_md_h3_text_case",
-            "attributes": {
-              "category": "Typography",
-              "type": "Editorial Headings",
-              "item": "MD",
-              "subitem": "H3",
-              "state": "textCase"
-            },
-            "path": [
-              "Typography",
-              "Editorial Headings",
-              "MD",
-              "H3",
-              "textCase"
-            ]
-          },
-          "textDecoration": {
-            "value": "none",
-            "type": "textDecoration",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{textDecoration.none}",
-              "type": "textDecoration"
-            },
-            "name": "mch_typography_editorial_headings_md_h3_text_decoration",
-            "attributes": {
-              "category": "Typography",
-              "type": "Editorial Headings",
-              "item": "MD",
-              "subitem": "H3",
-              "state": "textDecoration"
-            },
-            "path": [
-              "Typography",
-              "Editorial Headings",
-              "MD",
-              "H3",
-              "textDecoration"
-            ]
-          }
-        },
-        "H4": {
-          "fontFamily": {
-            "value": "Ivar Display",
-            "type": "fontFamilies",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{fontFamilies.ivar-display}",
-              "type": "fontFamilies"
-            },
-            "name": "mch_typography_editorial_headings_md_h4_font_family",
-            "attributes": {
-              "category": "Typography",
-              "type": "Editorial Headings",
-              "item": "MD",
-              "subitem": "H4",
-              "state": "fontFamily"
-            },
-            "path": [
-              "Typography",
-              "Editorial Headings",
-              "MD",
-              "H4",
-              "fontFamily"
-            ]
-          },
-          "fontWeight": {
-            "value": "600",
-            "type": "fontWeights",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{fontWeights.ivar-display-3}",
-              "type": "fontWeights"
-            },
-            "name": "mch_typography_editorial_headings_md_h4_font_weight",
-            "attributes": {
-              "category": "Typography",
-              "type": "Editorial Headings",
-              "item": "MD",
-              "subitem": "H4",
-              "state": "fontWeight"
-            },
-            "path": [
-              "Typography",
-              "Editorial Headings",
-              "MD",
-              "H4",
-              "fontWeight"
-            ]
-          },
-          "lineHeight": {
-            "value": "2rem",
-            "type": "lineHeights",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{lineHeights.16}",
-              "type": "lineHeights"
-            },
-            "name": "mch_typography_editorial_headings_md_h4_line_height",
-            "attributes": {
-              "category": "Typography",
-              "type": "Editorial Headings",
-              "item": "MD",
-              "subitem": "H4",
-              "state": "lineHeight"
-            },
-            "path": [
-              "Typography",
-              "Editorial Headings",
-              "MD",
-              "H4",
-              "lineHeight"
-            ]
-          },
-          "fontSize": {
-            "value": "1.5rem",
-            "type": "fontSizes",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{fontSize.5}",
-              "type": "fontSizes"
-            },
-            "name": "mch_typography_editorial_headings_md_h4_font_size",
-            "attributes": {
-              "category": "Typography",
-              "type": "Editorial Headings",
-              "item": "MD",
-              "subitem": "H4",
-              "state": "fontSize"
-            },
-            "path": [
-              "Typography",
-              "Editorial Headings",
-              "MD",
-              "H4",
-              "fontSize"
-            ]
-          },
-          "letterSpacing": {
-            "value": "0%",
-            "type": "letterSpacing",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{letterSpacing.1}",
-              "type": "letterSpacing"
-            },
-            "name": "mch_typography_editorial_headings_md_h4_letter_spacing",
-            "attributes": {
-              "category": "Typography",
-              "type": "Editorial Headings",
-              "item": "MD",
-              "subitem": "H4",
-              "state": "letterSpacing"
-            },
-            "path": [
-              "Typography",
-              "Editorial Headings",
-              "MD",
-              "H4",
-              "letterSpacing"
-            ]
-          },
-          "paragraphSpacing": {
-            "value": "4",
-            "type": "paragraphSpacing",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{paragraphSpacing.1}",
-              "type": "paragraphSpacing"
-            },
-            "name": "mch_typography_editorial_headings_md_h4_paragraph_spacing",
-            "attributes": {
-              "category": "Typography",
-              "type": "Editorial Headings",
-              "item": "MD",
-              "subitem": "H4",
-              "state": "paragraphSpacing"
-            },
-            "path": [
-              "Typography",
-              "Editorial Headings",
-              "MD",
-              "H4",
-              "paragraphSpacing"
-            ]
-          },
-          "paragraphIndent": {
-            "value": 0,
-            "type": "paragraphIndent",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{paragraphIndent.0}",
-              "type": "paragraphIndent"
-            },
-            "name": "mch_typography_editorial_headings_md_h4_paragraph_indent",
-            "attributes": {
-              "category": "Typography",
-              "type": "Editorial Headings",
-              "item": "MD",
-              "subitem": "H4",
-              "state": "paragraphIndent"
-            },
-            "path": [
-              "Typography",
-              "Editorial Headings",
-              "MD",
-              "H4",
-              "paragraphIndent"
-            ]
-          },
-          "textCase": {
-            "value": "none",
-            "type": "textCase",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{textCase.none}",
-              "type": "textCase"
-            },
-            "name": "mch_typography_editorial_headings_md_h4_text_case",
-            "attributes": {
-              "category": "Typography",
-              "type": "Editorial Headings",
-              "item": "MD",
-              "subitem": "H4",
-              "state": "textCase"
-            },
-            "path": [
-              "Typography",
-              "Editorial Headings",
-              "MD",
-              "H4",
-              "textCase"
-            ]
-          },
-          "textDecoration": {
-            "value": "none",
-            "type": "textDecoration",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{textDecoration.none}",
-              "type": "textDecoration"
-            },
-            "name": "mch_typography_editorial_headings_md_h4_text_decoration",
-            "attributes": {
-              "category": "Typography",
-              "type": "Editorial Headings",
-              "item": "MD",
-              "subitem": "H4",
-              "state": "textDecoration"
-            },
-            "path": [
-              "Typography",
-              "Editorial Headings",
-              "MD",
-              "H4",
-              "textDecoration"
-            ]
-          }
-        },
-        "H5": {
-          "fontFamily": {
-            "value": "Ivar Display",
-            "type": "fontFamilies",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{fontFamilies.ivar-display}",
-              "type": "fontFamilies"
-            },
-            "name": "mch_typography_editorial_headings_md_h5_font_family",
-            "attributes": {
-              "category": "Typography",
-              "type": "Editorial Headings",
-              "item": "MD",
-              "subitem": "H5",
-              "state": "fontFamily"
-            },
-            "path": [
-              "Typography",
-              "Editorial Headings",
-              "MD",
-              "H5",
-              "fontFamily"
-            ]
-          },
-          "fontWeight": {
-            "value": "600",
-            "type": "fontWeights",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{fontWeights.ivar-display-3}",
-              "type": "fontWeights"
-            },
-            "name": "mch_typography_editorial_headings_md_h5_font_weight",
-            "attributes": {
-              "category": "Typography",
-              "type": "Editorial Headings",
-              "item": "MD",
-              "subitem": "H5",
-              "state": "fontWeight"
-            },
-            "path": [
-              "Typography",
-              "Editorial Headings",
-              "MD",
-              "H5",
-              "fontWeight"
-            ]
-          },
-          "lineHeight": {
-            "value": "1.5rem",
-            "type": "lineHeights",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{lineHeights.12}",
-              "type": "lineHeights"
-            },
-            "name": "mch_typography_editorial_headings_md_h5_line_height",
-            "attributes": {
-              "category": "Typography",
-              "type": "Editorial Headings",
-              "item": "MD",
-              "subitem": "H5",
-              "state": "lineHeight"
-            },
-            "path": [
-              "Typography",
-              "Editorial Headings",
-              "MD",
-              "H5",
-              "lineHeight"
-            ]
-          },
-          "fontSize": {
-            "value": "1.25rem",
-            "type": "fontSizes",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{fontSize.4}",
-              "type": "fontSizes"
-            },
-            "name": "mch_typography_editorial_headings_md_h5_font_size",
-            "attributes": {
-              "category": "Typography",
-              "type": "Editorial Headings",
-              "item": "MD",
-              "subitem": "H5",
-              "state": "fontSize"
-            },
-            "path": [
-              "Typography",
-              "Editorial Headings",
-              "MD",
-              "H5",
-              "fontSize"
-            ]
-          },
-          "letterSpacing": {
-            "value": "0%",
-            "type": "letterSpacing",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{letterSpacing.1}",
-              "type": "letterSpacing"
-            },
-            "name": "mch_typography_editorial_headings_md_h5_letter_spacing",
-            "attributes": {
-              "category": "Typography",
-              "type": "Editorial Headings",
-              "item": "MD",
-              "subitem": "H5",
-              "state": "letterSpacing"
-            },
-            "path": [
-              "Typography",
-              "Editorial Headings",
-              "MD",
-              "H5",
-              "letterSpacing"
-            ]
-          },
-          "paragraphSpacing": {
-            "value": "4",
-            "type": "paragraphSpacing",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{paragraphSpacing.1}",
-              "type": "paragraphSpacing"
-            },
-            "name": "mch_typography_editorial_headings_md_h5_paragraph_spacing",
-            "attributes": {
-              "category": "Typography",
-              "type": "Editorial Headings",
-              "item": "MD",
-              "subitem": "H5",
-              "state": "paragraphSpacing"
-            },
-            "path": [
-              "Typography",
-              "Editorial Headings",
-              "MD",
-              "H5",
-              "paragraphSpacing"
-            ]
-          },
-          "paragraphIndent": {
-            "value": 0,
-            "type": "paragraphIndent",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{paragraphIndent.0}",
-              "type": "paragraphIndent"
-            },
-            "name": "mch_typography_editorial_headings_md_h5_paragraph_indent",
-            "attributes": {
-              "category": "Typography",
-              "type": "Editorial Headings",
-              "item": "MD",
-              "subitem": "H5",
-              "state": "paragraphIndent"
-            },
-            "path": [
-              "Typography",
-              "Editorial Headings",
-              "MD",
-              "H5",
-              "paragraphIndent"
-            ]
-          },
-          "textCase": {
-            "value": "none",
-            "type": "textCase",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{textCase.none}",
-              "type": "textCase"
-            },
-            "name": "mch_typography_editorial_headings_md_h5_text_case",
-            "attributes": {
-              "category": "Typography",
-              "type": "Editorial Headings",
-              "item": "MD",
-              "subitem": "H5",
-              "state": "textCase"
-            },
-            "path": [
-              "Typography",
-              "Editorial Headings",
-              "MD",
-              "H5",
-              "textCase"
-            ]
-          },
-          "textDecoration": {
-            "value": "none",
-            "type": "textDecoration",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{textDecoration.none}",
-              "type": "textDecoration"
-            },
-            "name": "mch_typography_editorial_headings_md_h5_text_decoration",
-            "attributes": {
-              "category": "Typography",
-              "type": "Editorial Headings",
-              "item": "MD",
-              "subitem": "H5",
-              "state": "textDecoration"
-            },
-            "path": [
-              "Typography",
-              "Editorial Headings",
-              "MD",
-              "H5",
-              "textDecoration"
-            ]
-          }
-        }
-      },
-      "LG": {
-        "H1": {
-          "fontFamily": {
-            "value": "Ivar Display",
-            "type": "fontFamilies",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{fontFamilies.ivar-display}",
-              "type": "fontFamilies"
-            },
-            "name": "mch_typography_editorial_headings_lg_h1_font_family",
-            "attributes": {
-              "category": "Typography",
-              "type": "Editorial Headings",
-              "item": "LG",
-              "subitem": "H1",
-              "state": "fontFamily"
-            },
-            "path": [
-              "Typography",
-              "Editorial Headings",
-              "LG",
-              "H1",
-              "fontFamily"
-            ]
-          },
-          "fontWeight": {
-            "value": "600",
-            "type": "fontWeights",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{fontWeights.ivar-display-3}",
-              "type": "fontWeights"
-            },
-            "name": "mch_typography_editorial_headings_lg_h1_font_weight",
-            "attributes": {
-              "category": "Typography",
-              "type": "Editorial Headings",
-              "item": "LG",
-              "subitem": "H1",
-              "state": "fontWeight"
-            },
-            "path": [
-              "Typography",
-              "Editorial Headings",
-              "LG",
-              "H1",
-              "fontWeight"
-            ]
-          },
-          "lineHeight": {
-            "value": "3.375rem",
-            "type": "lineHeights",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{lineHeights.18}",
-              "type": "lineHeights"
-            },
-            "name": "mch_typography_editorial_headings_lg_h1_line_height",
-            "attributes": {
-              "category": "Typography",
-              "type": "Editorial Headings",
-              "item": "LG",
-              "subitem": "H1",
-              "state": "lineHeight"
-            },
-            "path": [
-              "Typography",
-              "Editorial Headings",
-              "LG",
-              "H1",
-              "lineHeight"
-            ]
-          },
-          "fontSize": {
-            "value": "2.625rem",
-            "type": "fontSizes",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{fontSize.13}",
-              "type": "fontSizes"
-            },
-            "name": "mch_typography_editorial_headings_lg_h1_font_size",
-            "attributes": {
-              "category": "Typography",
-              "type": "Editorial Headings",
-              "item": "LG",
-              "subitem": "H1",
-              "state": "fontSize"
-            },
-            "path": [
-              "Typography",
-              "Editorial Headings",
-              "LG",
-              "H1",
-              "fontSize"
-            ]
-          },
-          "letterSpacing": {
-            "value": "0%",
-            "type": "letterSpacing",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{letterSpacing.1}",
-              "type": "letterSpacing"
-            },
-            "name": "mch_typography_editorial_headings_lg_h1_letter_spacing",
-            "attributes": {
-              "category": "Typography",
-              "type": "Editorial Headings",
-              "item": "LG",
-              "subitem": "H1",
-              "state": "letterSpacing"
-            },
-            "path": [
-              "Typography",
-              "Editorial Headings",
-              "LG",
-              "H1",
-              "letterSpacing"
-            ]
-          },
-          "paragraphSpacing": {
-            "value": "4",
-            "type": "paragraphSpacing",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{paragraphSpacing.1}",
-              "type": "paragraphSpacing"
-            },
-            "name": "mch_typography_editorial_headings_lg_h1_paragraph_spacing",
-            "attributes": {
-              "category": "Typography",
-              "type": "Editorial Headings",
-              "item": "LG",
-              "subitem": "H1",
-              "state": "paragraphSpacing"
-            },
-            "path": [
-              "Typography",
-              "Editorial Headings",
-              "LG",
-              "H1",
-              "paragraphSpacing"
-            ]
-          },
-          "paragraphIndent": {
-            "value": 0,
-            "type": "paragraphIndent",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{paragraphIndent.0}",
-              "type": "paragraphIndent"
-            },
-            "name": "mch_typography_editorial_headings_lg_h1_paragraph_indent",
-            "attributes": {
-              "category": "Typography",
-              "type": "Editorial Headings",
-              "item": "LG",
-              "subitem": "H1",
-              "state": "paragraphIndent"
-            },
-            "path": [
-              "Typography",
-              "Editorial Headings",
-              "LG",
-              "H1",
-              "paragraphIndent"
-            ]
-          },
-          "textCase": {
-            "value": "none",
-            "type": "textCase",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{textCase.none}",
-              "type": "textCase"
-            },
-            "name": "mch_typography_editorial_headings_lg_h1_text_case",
-            "attributes": {
-              "category": "Typography",
-              "type": "Editorial Headings",
-              "item": "LG",
-              "subitem": "H1",
-              "state": "textCase"
-            },
-            "path": [
-              "Typography",
-              "Editorial Headings",
-              "LG",
-              "H1",
-              "textCase"
-            ]
-          },
-          "textDecoration": {
-            "value": "none",
-            "type": "textDecoration",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{textDecoration.none}",
-              "type": "textDecoration"
-            },
-            "name": "mch_typography_editorial_headings_lg_h1_text_decoration",
-            "attributes": {
-              "category": "Typography",
-              "type": "Editorial Headings",
-              "item": "LG",
-              "subitem": "H1",
-              "state": "textDecoration"
-            },
-            "path": [
-              "Typography",
-              "Editorial Headings",
-              "LG",
-              "H1",
-              "textDecoration"
-            ]
-          }
-        },
-        "H2": {
-          "fontFamily": {
-            "value": "Ivar Display",
-            "type": "fontFamilies",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{fontFamilies.ivar-display}",
-              "type": "fontFamilies"
-            },
-            "name": "mch_typography_editorial_headings_lg_h2_font_family",
-            "attributes": {
-              "category": "Typography",
-              "type": "Editorial Headings",
-              "item": "LG",
-              "subitem": "H2",
-              "state": "fontFamily"
-            },
-            "path": [
-              "Typography",
-              "Editorial Headings",
-              "LG",
-              "H2",
-              "fontFamily"
-            ]
-          },
-          "fontWeight": {
-            "value": "600",
-            "type": "fontWeights",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{fontWeights.ivar-display-3}",
-              "type": "fontWeights"
-            },
-            "name": "mch_typography_editorial_headings_lg_h2_font_weight",
-            "attributes": {
-              "category": "Typography",
-              "type": "Editorial Headings",
-              "item": "LG",
-              "subitem": "H2",
-              "state": "fontWeight"
-            },
-            "path": [
-              "Typography",
-              "Editorial Headings",
-              "LG",
-              "H2",
-              "fontWeight"
-            ]
-          },
-          "lineHeight": {
-            "value": "3rem",
-            "type": "lineHeights",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{lineHeights.5}",
-              "type": "lineHeights"
-            },
-            "name": "mch_typography_editorial_headings_lg_h2_line_height",
-            "attributes": {
-              "category": "Typography",
-              "type": "Editorial Headings",
-              "item": "LG",
-              "subitem": "H2",
-              "state": "lineHeight"
-            },
-            "path": [
-              "Typography",
-              "Editorial Headings",
-              "LG",
-              "H2",
-              "lineHeight"
-            ]
-          },
-          "fontSize": {
-            "value": "2.25rem",
-            "type": "fontSizes",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{fontSize.10}",
-              "type": "fontSizes"
-            },
-            "name": "mch_typography_editorial_headings_lg_h2_font_size",
-            "attributes": {
-              "category": "Typography",
-              "type": "Editorial Headings",
-              "item": "LG",
-              "subitem": "H2",
-              "state": "fontSize"
-            },
-            "path": [
-              "Typography",
-              "Editorial Headings",
-              "LG",
-              "H2",
-              "fontSize"
-            ]
-          },
-          "letterSpacing": {
-            "value": "0%",
-            "type": "letterSpacing",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{letterSpacing.1}",
-              "type": "letterSpacing"
-            },
-            "name": "mch_typography_editorial_headings_lg_h2_letter_spacing",
-            "attributes": {
-              "category": "Typography",
-              "type": "Editorial Headings",
-              "item": "LG",
-              "subitem": "H2",
-              "state": "letterSpacing"
-            },
-            "path": [
-              "Typography",
-              "Editorial Headings",
-              "LG",
-              "H2",
-              "letterSpacing"
-            ]
-          },
-          "paragraphSpacing": {
-            "value": "4",
-            "type": "paragraphSpacing",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{paragraphSpacing.1}",
-              "type": "paragraphSpacing"
-            },
-            "name": "mch_typography_editorial_headings_lg_h2_paragraph_spacing",
-            "attributes": {
-              "category": "Typography",
-              "type": "Editorial Headings",
-              "item": "LG",
-              "subitem": "H2",
-              "state": "paragraphSpacing"
-            },
-            "path": [
-              "Typography",
-              "Editorial Headings",
-              "LG",
-              "H2",
-              "paragraphSpacing"
-            ]
-          },
-          "paragraphIndent": {
-            "value": 0,
-            "type": "paragraphIndent",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{paragraphIndent.0}",
-              "type": "paragraphIndent"
-            },
-            "name": "mch_typography_editorial_headings_lg_h2_paragraph_indent",
-            "attributes": {
-              "category": "Typography",
-              "type": "Editorial Headings",
-              "item": "LG",
-              "subitem": "H2",
-              "state": "paragraphIndent"
-            },
-            "path": [
-              "Typography",
-              "Editorial Headings",
-              "LG",
-              "H2",
-              "paragraphIndent"
-            ]
-          },
-          "textCase": {
-            "value": "none",
-            "type": "textCase",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{textCase.none}",
-              "type": "textCase"
-            },
-            "name": "mch_typography_editorial_headings_lg_h2_text_case",
-            "attributes": {
-              "category": "Typography",
-              "type": "Editorial Headings",
-              "item": "LG",
-              "subitem": "H2",
-              "state": "textCase"
-            },
-            "path": [
-              "Typography",
-              "Editorial Headings",
-              "LG",
-              "H2",
-              "textCase"
-            ]
-          },
-          "textDecoration": {
-            "value": "none",
-            "type": "textDecoration",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{textDecoration.none}",
-              "type": "textDecoration"
-            },
-            "name": "mch_typography_editorial_headings_lg_h2_text_decoration",
-            "attributes": {
-              "category": "Typography",
-              "type": "Editorial Headings",
-              "item": "LG",
-              "subitem": "H2",
-              "state": "textDecoration"
-            },
-            "path": [
-              "Typography",
-              "Editorial Headings",
-              "LG",
-              "H2",
-              "textDecoration"
-            ]
-          }
-        },
-        "H3": {
-          "fontFamily": {
-            "value": "Ivar Display",
-            "type": "fontFamilies",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{fontFamilies.ivar-display}",
-              "type": "fontFamilies"
-            },
-            "name": "mch_typography_editorial_headings_lg_h3_font_family",
-            "attributes": {
-              "category": "Typography",
-              "type": "Editorial Headings",
-              "item": "LG",
-              "subitem": "H3",
-              "state": "fontFamily"
-            },
-            "path": [
-              "Typography",
-              "Editorial Headings",
-              "LG",
-              "H3",
-              "fontFamily"
-            ]
-          },
-          "fontWeight": {
-            "value": "600",
-            "type": "fontWeights",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{fontWeights.ivar-display-3}",
-              "type": "fontWeights"
-            },
-            "name": "mch_typography_editorial_headings_lg_h3_font_weight",
-            "attributes": {
-              "category": "Typography",
-              "type": "Editorial Headings",
-              "item": "LG",
-              "subitem": "H3",
-              "state": "fontWeight"
-            },
-            "path": [
-              "Typography",
-              "Editorial Headings",
-              "LG",
-              "H3",
-              "fontWeight"
-            ]
-          },
-          "lineHeight": {
-            "value": "2.625rem",
-            "type": "lineHeights",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{lineHeights.6}",
-              "type": "lineHeights"
-            },
-            "name": "mch_typography_editorial_headings_lg_h3_line_height",
-            "attributes": {
-              "category": "Typography",
-              "type": "Editorial Headings",
-              "item": "LG",
-              "subitem": "H3",
-              "state": "lineHeight"
-            },
-            "path": [
-              "Typography",
-              "Editorial Headings",
-              "LG",
-              "H3",
-              "lineHeight"
-            ]
-          },
-          "fontSize": {
-            "value": "1.875rem",
-            "type": "fontSizes",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{fontSize.7}",
-              "type": "fontSizes"
-            },
-            "name": "mch_typography_editorial_headings_lg_h3_font_size",
-            "attributes": {
-              "category": "Typography",
-              "type": "Editorial Headings",
-              "item": "LG",
-              "subitem": "H3",
-              "state": "fontSize"
-            },
-            "path": [
-              "Typography",
-              "Editorial Headings",
-              "LG",
-              "H3",
-              "fontSize"
-            ]
-          },
-          "letterSpacing": {
-            "value": "0%",
-            "type": "letterSpacing",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{letterSpacing.1}",
-              "type": "letterSpacing"
-            },
-            "name": "mch_typography_editorial_headings_lg_h3_letter_spacing",
-            "attributes": {
-              "category": "Typography",
-              "type": "Editorial Headings",
-              "item": "LG",
-              "subitem": "H3",
-              "state": "letterSpacing"
-            },
-            "path": [
-              "Typography",
-              "Editorial Headings",
-              "LG",
-              "H3",
-              "letterSpacing"
-            ]
-          },
-          "paragraphSpacing": {
-            "value": "4",
-            "type": "paragraphSpacing",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{paragraphSpacing.1}",
-              "type": "paragraphSpacing"
-            },
-            "name": "mch_typography_editorial_headings_lg_h3_paragraph_spacing",
-            "attributes": {
-              "category": "Typography",
-              "type": "Editorial Headings",
-              "item": "LG",
-              "subitem": "H3",
-              "state": "paragraphSpacing"
-            },
-            "path": [
-              "Typography",
-              "Editorial Headings",
-              "LG",
-              "H3",
-              "paragraphSpacing"
-            ]
-          },
-          "paragraphIndent": {
-            "value": 0,
-            "type": "paragraphIndent",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{paragraphIndent.0}",
-              "type": "paragraphIndent"
-            },
-            "name": "mch_typography_editorial_headings_lg_h3_paragraph_indent",
-            "attributes": {
-              "category": "Typography",
-              "type": "Editorial Headings",
-              "item": "LG",
-              "subitem": "H3",
-              "state": "paragraphIndent"
-            },
-            "path": [
-              "Typography",
-              "Editorial Headings",
-              "LG",
-              "H3",
-              "paragraphIndent"
-            ]
-          },
-          "textCase": {
-            "value": "none",
-            "type": "textCase",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{textCase.none}",
-              "type": "textCase"
-            },
-            "name": "mch_typography_editorial_headings_lg_h3_text_case",
-            "attributes": {
-              "category": "Typography",
-              "type": "Editorial Headings",
-              "item": "LG",
-              "subitem": "H3",
-              "state": "textCase"
-            },
-            "path": [
-              "Typography",
-              "Editorial Headings",
-              "LG",
-              "H3",
-              "textCase"
-            ]
-          },
-          "textDecoration": {
-            "value": "none",
-            "type": "textDecoration",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{textDecoration.none}",
-              "type": "textDecoration"
-            },
-            "name": "mch_typography_editorial_headings_lg_h3_text_decoration",
-            "attributes": {
-              "category": "Typography",
-              "type": "Editorial Headings",
-              "item": "LG",
-              "subitem": "H3",
-              "state": "textDecoration"
-            },
-            "path": [
-              "Typography",
-              "Editorial Headings",
-              "LG",
-              "H3",
-              "textDecoration"
-            ]
-          }
-        },
-        "H4": {
-          "fontFamily": {
-            "value": "Ivar Display",
-            "type": "fontFamilies",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{fontFamilies.ivar-display}",
-              "type": "fontFamilies"
-            },
-            "name": "mch_typography_editorial_headings_lg_h4_font_family",
-            "attributes": {
-              "category": "Typography",
-              "type": "Editorial Headings",
-              "item": "LG",
-              "subitem": "H4",
-              "state": "fontFamily"
-            },
-            "path": [
-              "Typography",
-              "Editorial Headings",
-              "LG",
-              "H4",
-              "fontFamily"
-            ]
-          },
-          "fontWeight": {
-            "value": "600",
-            "type": "fontWeights",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{fontWeights.ivar-display-3}",
-              "type": "fontWeights"
-            },
-            "name": "mch_typography_editorial_headings_lg_h4_font_weight",
-            "attributes": {
-              "category": "Typography",
-              "type": "Editorial Headings",
-              "item": "LG",
-              "subitem": "H4",
-              "state": "fontWeight"
-            },
-            "path": [
-              "Typography",
-              "Editorial Headings",
-              "LG",
-              "H4",
-              "fontWeight"
-            ]
-          },
-          "lineHeight": {
-            "value": "2.25rem",
-            "type": "lineHeights",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{lineHeights.19}",
-              "type": "lineHeights"
-            },
-            "name": "mch_typography_editorial_headings_lg_h4_line_height",
-            "attributes": {
-              "category": "Typography",
-              "type": "Editorial Headings",
-              "item": "LG",
-              "subitem": "H4",
-              "state": "lineHeight"
-            },
-            "path": [
-              "Typography",
-              "Editorial Headings",
-              "LG",
-              "H4",
-              "lineHeight"
-            ]
-          },
-          "fontSize": {
-            "value": "1.625rem",
-            "type": "fontSizes",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{fontSize.6}",
-              "type": "fontSizes"
-            },
-            "name": "mch_typography_editorial_headings_lg_h4_font_size",
-            "attributes": {
-              "category": "Typography",
-              "type": "Editorial Headings",
-              "item": "LG",
-              "subitem": "H4",
-              "state": "fontSize"
-            },
-            "path": [
-              "Typography",
-              "Editorial Headings",
-              "LG",
-              "H4",
-              "fontSize"
-            ]
-          },
-          "letterSpacing": {
-            "value": "0%",
-            "type": "letterSpacing",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{letterSpacing.1}",
-              "type": "letterSpacing"
-            },
-            "name": "mch_typography_editorial_headings_lg_h4_letter_spacing",
-            "attributes": {
-              "category": "Typography",
-              "type": "Editorial Headings",
-              "item": "LG",
-              "subitem": "H4",
-              "state": "letterSpacing"
-            },
-            "path": [
-              "Typography",
-              "Editorial Headings",
-              "LG",
-              "H4",
-              "letterSpacing"
-            ]
-          },
-          "paragraphSpacing": {
-            "value": "4",
-            "type": "paragraphSpacing",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{paragraphSpacing.1}",
-              "type": "paragraphSpacing"
-            },
-            "name": "mch_typography_editorial_headings_lg_h4_paragraph_spacing",
-            "attributes": {
-              "category": "Typography",
-              "type": "Editorial Headings",
-              "item": "LG",
-              "subitem": "H4",
-              "state": "paragraphSpacing"
-            },
-            "path": [
-              "Typography",
-              "Editorial Headings",
-              "LG",
-              "H4",
-              "paragraphSpacing"
-            ]
-          },
-          "paragraphIndent": {
-            "value": 0,
-            "type": "paragraphIndent",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{paragraphIndent.0}",
-              "type": "paragraphIndent"
-            },
-            "name": "mch_typography_editorial_headings_lg_h4_paragraph_indent",
-            "attributes": {
-              "category": "Typography",
-              "type": "Editorial Headings",
-              "item": "LG",
-              "subitem": "H4",
-              "state": "paragraphIndent"
-            },
-            "path": [
-              "Typography",
-              "Editorial Headings",
-              "LG",
-              "H4",
-              "paragraphIndent"
-            ]
-          },
-          "textCase": {
-            "value": "none",
-            "type": "textCase",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{textCase.none}",
-              "type": "textCase"
-            },
-            "name": "mch_typography_editorial_headings_lg_h4_text_case",
-            "attributes": {
-              "category": "Typography",
-              "type": "Editorial Headings",
-              "item": "LG",
-              "subitem": "H4",
-              "state": "textCase"
-            },
-            "path": [
-              "Typography",
-              "Editorial Headings",
-              "LG",
-              "H4",
-              "textCase"
-            ]
-          },
-          "textDecoration": {
-            "value": "none",
-            "type": "textDecoration",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{textDecoration.none}",
-              "type": "textDecoration"
-            },
-            "name": "mch_typography_editorial_headings_lg_h4_text_decoration",
-            "attributes": {
-              "category": "Typography",
-              "type": "Editorial Headings",
-              "item": "LG",
-              "subitem": "H4",
-              "state": "textDecoration"
-            },
-            "path": [
-              "Typography",
-              "Editorial Headings",
-              "LG",
-              "H4",
-              "textDecoration"
-            ]
-          }
-        },
-        "H5": {
-          "fontFamily": {
-            "value": "Ivar Display",
-            "type": "fontFamilies",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{fontFamilies.ivar-display}",
-              "type": "fontFamilies"
-            },
-            "name": "mch_typography_editorial_headings_lg_h5_font_family",
-            "attributes": {
-              "category": "Typography",
-              "type": "Editorial Headings",
-              "item": "LG",
-              "subitem": "H5",
-              "state": "fontFamily"
-            },
-            "path": [
-              "Typography",
-              "Editorial Headings",
-              "LG",
-              "H5",
-              "fontFamily"
-            ]
-          },
-          "fontWeight": {
-            "value": "600",
-            "type": "fontWeights",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{fontWeights.ivar-display-3}",
-              "type": "fontWeights"
-            },
-            "name": "mch_typography_editorial_headings_lg_h5_font_weight",
-            "attributes": {
-              "category": "Typography",
-              "type": "Editorial Headings",
-              "item": "LG",
-              "subitem": "H5",
-              "state": "fontWeight"
-            },
-            "path": [
-              "Typography",
-              "Editorial Headings",
-              "LG",
-              "H5",
-              "fontWeight"
-            ]
-          },
-          "lineHeight": {
-            "value": "2rem",
-            "type": "lineHeights",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{lineHeights.16}",
-              "type": "lineHeights"
-            },
-            "name": "mch_typography_editorial_headings_lg_h5_line_height",
-            "attributes": {
-              "category": "Typography",
-              "type": "Editorial Headings",
-              "item": "LG",
-              "subitem": "H5",
-              "state": "lineHeight"
-            },
-            "path": [
-              "Typography",
-              "Editorial Headings",
-              "LG",
-              "H5",
-              "lineHeight"
-            ]
-          },
-          "fontSize": {
-            "value": "1.5rem",
-            "type": "fontSizes",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{fontSize.5}",
-              "type": "fontSizes"
-            },
-            "name": "mch_typography_editorial_headings_lg_h5_font_size",
-            "attributes": {
-              "category": "Typography",
-              "type": "Editorial Headings",
-              "item": "LG",
-              "subitem": "H5",
-              "state": "fontSize"
-            },
-            "path": [
-              "Typography",
-              "Editorial Headings",
-              "LG",
-              "H5",
-              "fontSize"
-            ]
-          },
-          "letterSpacing": {
-            "value": "0%",
-            "type": "letterSpacing",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{letterSpacing.1}",
-              "type": "letterSpacing"
-            },
-            "name": "mch_typography_editorial_headings_lg_h5_letter_spacing",
-            "attributes": {
-              "category": "Typography",
-              "type": "Editorial Headings",
-              "item": "LG",
-              "subitem": "H5",
-              "state": "letterSpacing"
-            },
-            "path": [
-              "Typography",
-              "Editorial Headings",
-              "LG",
-              "H5",
-              "letterSpacing"
-            ]
-          },
-          "paragraphSpacing": {
-            "value": "4",
-            "type": "paragraphSpacing",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{paragraphSpacing.1}",
-              "type": "paragraphSpacing"
-            },
-            "name": "mch_typography_editorial_headings_lg_h5_paragraph_spacing",
-            "attributes": {
-              "category": "Typography",
-              "type": "Editorial Headings",
-              "item": "LG",
-              "subitem": "H5",
-              "state": "paragraphSpacing"
-            },
-            "path": [
-              "Typography",
-              "Editorial Headings",
-              "LG",
-              "H5",
-              "paragraphSpacing"
-            ]
-          },
-          "paragraphIndent": {
-            "value": 0,
-            "type": "paragraphIndent",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{paragraphIndent.0}",
-              "type": "paragraphIndent"
-            },
-            "name": "mch_typography_editorial_headings_lg_h5_paragraph_indent",
-            "attributes": {
-              "category": "Typography",
-              "type": "Editorial Headings",
-              "item": "LG",
-              "subitem": "H5",
-              "state": "paragraphIndent"
-            },
-            "path": [
-              "Typography",
-              "Editorial Headings",
-              "LG",
-              "H5",
-              "paragraphIndent"
-            ]
-          },
-          "textCase": {
-            "value": "none",
-            "type": "textCase",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{textCase.none}",
-              "type": "textCase"
-            },
-            "name": "mch_typography_editorial_headings_lg_h5_text_case",
-            "attributes": {
-              "category": "Typography",
-              "type": "Editorial Headings",
-              "item": "LG",
-              "subitem": "H5",
-              "state": "textCase"
-            },
-            "path": [
-              "Typography",
-              "Editorial Headings",
-              "LG",
-              "H5",
-              "textCase"
-            ]
-          },
-          "textDecoration": {
-            "value": "none",
-            "type": "textDecoration",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{textDecoration.none}",
-              "type": "textDecoration"
-            },
-            "name": "mch_typography_editorial_headings_lg_h5_text_decoration",
-            "attributes": {
-              "category": "Typography",
-              "type": "Editorial Headings",
-              "item": "LG",
-              "subitem": "H5",
-              "state": "textDecoration"
-            },
-            "path": [
-              "Typography",
-              "Editorial Headings",
-              "LG",
-              "H5",
-              "textDecoration"
-            ]
-          }
-        }
-      },
-      "2XL": {
-        "H1": {
-          "fontFamily": {
-            "value": "Ivar Display",
-            "type": "fontFamilies",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{fontFamilies.ivar-display}",
-              "type": "fontFamilies"
-            },
-            "name": "mch_typography_editorial_headings_2_xl_h1_font_family",
-            "attributes": {
-              "category": "Typography",
-              "type": "Editorial Headings",
+              "type": "CH Headings",
               "item": "2XL",
-              "subitem": "H1",
-              "state": "fontFamily"
+              "subitem": "H2",
+              "state": "lineHeight"
             },
             "path": [
               "Typography",
-              "Editorial Headings",
+              "CH Headings",
               "2XL",
-              "H1",
-              "fontFamily"
+              "H2",
+              "lineHeight"
             ]
           },
-          "fontWeight": {
-            "value": "600",
-            "type": "fontWeights",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{fontWeights.ivar-display-3}",
-              "type": "fontWeights"
-            },
-            "name": "mch_typography_editorial_headings_2_xl_h1_font_weight",
-            "attributes": {
-              "category": "Typography",
-              "type": "Editorial Headings",
-              "item": "2XL",
-              "subitem": "H1",
-              "state": "fontWeight"
-            },
-            "path": [
-              "Typography",
-              "Editorial Headings",
-              "2XL",
-              "H1",
-              "fontWeight"
-            ]
-          },
-          "lineHeight": {
+          "fontSize": {
             "value": "4rem",
-            "type": "lineHeights",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{lineHeights.17}",
-              "type": "lineHeights"
-            },
-            "name": "mch_typography_editorial_headings_2_xl_h1_line_height",
-            "attributes": {
-              "category": "Typography",
-              "type": "Editorial Headings",
-              "item": "2XL",
-              "subitem": "H1",
-              "state": "lineHeight"
-            },
-            "path": [
-              "Typography",
-              "Editorial Headings",
-              "2XL",
-              "H1",
-              "lineHeight"
-            ]
-          },
-          "fontSize": {
-            "value": "3rem",
             "type": "fontSizes",
             "filePath": "src/global.json",
             "isSource": true,
             "original": {
-              "value": "{fontSize.14}",
+              "value": "{fontSize.20}",
               "type": "fontSizes"
             },
-            "name": "mch_typography_editorial_headings_2_xl_h1_font_size",
+            "name": "xyz_typography_ch_headings_2_xl_h2_font_size",
             "attributes": {
               "category": "Typography",
-              "type": "Editorial Headings",
+              "type": "CH Headings",
               "item": "2XL",
-              "subitem": "H1",
+              "subitem": "H2",
               "state": "fontSize"
             },
             "path": [
               "Typography",
-              "Editorial Headings",
+              "CH Headings",
               "2XL",
-              "H1",
+              "H2",
               "fontSize"
             ]
           },
           "letterSpacing": {
-            "value": "0",
+            "value": "0rem",
             "type": "letterSpacing",
             "filePath": "src/global.json",
             "isSource": true,
@@ -18291,269 +18887,42 @@ module.exports = {
               "value": "{letterSpacing.0}",
               "type": "letterSpacing"
             },
-            "name": "mch_typography_editorial_headings_2_xl_h1_letter_spacing",
+            "name": "xyz_typography_ch_headings_2_xl_h2_letter_spacing",
             "attributes": {
               "category": "Typography",
-              "type": "Editorial Headings",
-              "item": "2XL",
-              "subitem": "H1",
-              "state": "letterSpacing"
-            },
-            "path": [
-              "Typography",
-              "Editorial Headings",
-              "2XL",
-              "H1",
-              "letterSpacing"
-            ]
-          },
-          "paragraphSpacing": {
-            "value": "4",
-            "type": "paragraphSpacing",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{paragraphSpacing.1}",
-              "type": "paragraphSpacing"
-            },
-            "name": "mch_typography_editorial_headings_2_xl_h1_paragraph_spacing",
-            "attributes": {
-              "category": "Typography",
-              "type": "Editorial Headings",
-              "item": "2XL",
-              "subitem": "H1",
-              "state": "paragraphSpacing"
-            },
-            "path": [
-              "Typography",
-              "Editorial Headings",
-              "2XL",
-              "H1",
-              "paragraphSpacing"
-            ]
-          },
-          "paragraphIndent": {
-            "value": 0,
-            "type": "paragraphIndent",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{paragraphIndent.0}",
-              "type": "paragraphIndent"
-            },
-            "name": "mch_typography_editorial_headings_2_xl_h1_paragraph_indent",
-            "attributes": {
-              "category": "Typography",
-              "type": "Editorial Headings",
-              "item": "2XL",
-              "subitem": "H1",
-              "state": "paragraphIndent"
-            },
-            "path": [
-              "Typography",
-              "Editorial Headings",
-              "2XL",
-              "H1",
-              "paragraphIndent"
-            ]
-          },
-          "textCase": {
-            "value": "none",
-            "type": "textCase",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{textCase.none}",
-              "type": "textCase"
-            },
-            "name": "mch_typography_editorial_headings_2_xl_h1_text_case",
-            "attributes": {
-              "category": "Typography",
-              "type": "Editorial Headings",
-              "item": "2XL",
-              "subitem": "H1",
-              "state": "textCase"
-            },
-            "path": [
-              "Typography",
-              "Editorial Headings",
-              "2XL",
-              "H1",
-              "textCase"
-            ]
-          },
-          "textDecoration": {
-            "value": "none",
-            "type": "textDecoration",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{textDecoration.none}",
-              "type": "textDecoration"
-            },
-            "name": "mch_typography_editorial_headings_2_xl_h1_text_decoration",
-            "attributes": {
-              "category": "Typography",
-              "type": "Editorial Headings",
-              "item": "2XL",
-              "subitem": "H1",
-              "state": "textDecoration"
-            },
-            "path": [
-              "Typography",
-              "Editorial Headings",
-              "2XL",
-              "H1",
-              "textDecoration"
-            ]
-          }
-        },
-        "H2": {
-          "fontFamily": {
-            "value": "Ivar Display",
-            "type": "fontFamilies",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{fontFamilies.ivar-display}",
-              "type": "fontFamilies"
-            },
-            "name": "mch_typography_editorial_headings_2_xl_h2_font_family",
-            "attributes": {
-              "category": "Typography",
-              "type": "Editorial Headings",
-              "item": "2XL",
-              "subitem": "H2",
-              "state": "fontFamily"
-            },
-            "path": [
-              "Typography",
-              "Editorial Headings",
-              "2XL",
-              "H2",
-              "fontFamily"
-            ]
-          },
-          "fontWeight": {
-            "value": "600",
-            "type": "fontWeights",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{fontWeights.ivar-display-3}",
-              "type": "fontWeights"
-            },
-            "name": "mch_typography_editorial_headings_2_xl_h2_font_weight",
-            "attributes": {
-              "category": "Typography",
-              "type": "Editorial Headings",
-              "item": "2XL",
-              "subitem": "H2",
-              "state": "fontWeight"
-            },
-            "path": [
-              "Typography",
-              "Editorial Headings",
-              "2XL",
-              "H2",
-              "fontWeight"
-            ]
-          },
-          "lineHeight": {
-            "value": "3.375rem",
-            "type": "lineHeights",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{lineHeights.18}",
-              "type": "lineHeights"
-            },
-            "name": "mch_typography_editorial_headings_2_xl_h2_line_height",
-            "attributes": {
-              "category": "Typography",
-              "type": "Editorial Headings",
-              "item": "2XL",
-              "subitem": "H2",
-              "state": "lineHeight"
-            },
-            "path": [
-              "Typography",
-              "Editorial Headings",
-              "2XL",
-              "H2",
-              "lineHeight"
-            ]
-          },
-          "fontSize": {
-            "value": "2.625rem",
-            "type": "fontSizes",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{fontSize.13}",
-              "type": "fontSizes"
-            },
-            "name": "mch_typography_editorial_headings_2_xl_h2_font_size",
-            "attributes": {
-              "category": "Typography",
-              "type": "Editorial Headings",
-              "item": "2XL",
-              "subitem": "H2",
-              "state": "fontSize"
-            },
-            "path": [
-              "Typography",
-              "Editorial Headings",
-              "2XL",
-              "H2",
-              "fontSize"
-            ]
-          },
-          "letterSpacing": {
-            "value": "0%",
-            "type": "letterSpacing",
-            "filePath": "src/global.json",
-            "isSource": true,
-            "original": {
-              "value": "{letterSpacing.1}",
-              "type": "letterSpacing"
-            },
-            "name": "mch_typography_editorial_headings_2_xl_h2_letter_spacing",
-            "attributes": {
-              "category": "Typography",
-              "type": "Editorial Headings",
+              "type": "CH Headings",
               "item": "2XL",
               "subitem": "H2",
               "state": "letterSpacing"
             },
             "path": [
               "Typography",
-              "Editorial Headings",
+              "CH Headings",
               "2XL",
               "H2",
               "letterSpacing"
             ]
           },
           "paragraphSpacing": {
-            "value": "4",
+            "value": "0",
             "type": "paragraphSpacing",
             "filePath": "src/global.json",
             "isSource": true,
             "original": {
-              "value": "{paragraphSpacing.1}",
+              "value": "{paragraphSpacing.0}",
               "type": "paragraphSpacing"
             },
-            "name": "mch_typography_editorial_headings_2_xl_h2_paragraph_spacing",
+            "name": "xyz_typography_ch_headings_2_xl_h2_paragraph_spacing",
             "attributes": {
               "category": "Typography",
-              "type": "Editorial Headings",
+              "type": "CH Headings",
               "item": "2XL",
               "subitem": "H2",
               "state": "paragraphSpacing"
             },
             "path": [
               "Typography",
-              "Editorial Headings",
+              "CH Headings",
               "2XL",
               "H2",
               "paragraphSpacing"
@@ -18568,17 +18937,17 @@ module.exports = {
               "value": "{paragraphIndent.0}",
               "type": "paragraphIndent"
             },
-            "name": "mch_typography_editorial_headings_2_xl_h2_paragraph_indent",
+            "name": "xyz_typography_ch_headings_2_xl_h2_paragraph_indent",
             "attributes": {
               "category": "Typography",
-              "type": "Editorial Headings",
+              "type": "CH Headings",
               "item": "2XL",
               "subitem": "H2",
               "state": "paragraphIndent"
             },
             "path": [
               "Typography",
-              "Editorial Headings",
+              "CH Headings",
               "2XL",
               "H2",
               "paragraphIndent"
@@ -18593,17 +18962,17 @@ module.exports = {
               "value": "{textCase.none}",
               "type": "textCase"
             },
-            "name": "mch_typography_editorial_headings_2_xl_h2_text_case",
+            "name": "xyz_typography_ch_headings_2_xl_h2_text_case",
             "attributes": {
               "category": "Typography",
-              "type": "Editorial Headings",
+              "type": "CH Headings",
               "item": "2XL",
               "subitem": "H2",
               "state": "textCase"
             },
             "path": [
               "Typography",
-              "Editorial Headings",
+              "CH Headings",
               "2XL",
               "H2",
               "textCase"
@@ -18618,24 +18987,24 @@ module.exports = {
               "value": "{textDecoration.none}",
               "type": "textDecoration"
             },
-            "name": "mch_typography_editorial_headings_2_xl_h2_text_decoration",
+            "name": "xyz_typography_ch_headings_2_xl_h2_text_decoration",
             "attributes": {
               "category": "Typography",
-              "type": "Editorial Headings",
+              "type": "CH Headings",
               "item": "2XL",
               "subitem": "H2",
               "state": "textDecoration"
             },
             "path": [
               "Typography",
-              "Editorial Headings",
+              "CH Headings",
               "2XL",
               "H2",
               "textDecoration"
             ]
           }
         },
-        "H3": {
+        "h3": {
           "fontFamily": {
             "value": "Ivar Display",
             "type": "fontFamilies",
@@ -18645,17 +19014,17 @@ module.exports = {
               "value": "{fontFamilies.ivar-display}",
               "type": "fontFamilies"
             },
-            "name": "mch_typography_editorial_headings_2_xl_h3_font_family",
+            "name": "xyz_typography_ch_headings_2_xl_h3_font_family",
             "attributes": {
               "category": "Typography",
-              "type": "Editorial Headings",
+              "type": "CH Headings",
               "item": "2XL",
               "subitem": "H3",
               "state": "fontFamily"
             },
             "path": [
               "Typography",
-              "Editorial Headings",
+              "CH Headings",
               "2XL",
               "H3",
               "fontFamily"
@@ -18670,117 +19039,117 @@ module.exports = {
               "value": "{fontWeights.ivar-display-3}",
               "type": "fontWeights"
             },
-            "name": "mch_typography_editorial_headings_2_xl_h3_font_weight",
+            "name": "xyz_typography_ch_headings_2_xl_h3_font_weight",
             "attributes": {
               "category": "Typography",
-              "type": "Editorial Headings",
+              "type": "CH Headings",
               "item": "2XL",
               "subitem": "H3",
               "state": "fontWeight"
             },
             "path": [
               "Typography",
-              "Editorial Headings",
+              "CH Headings",
               "2XL",
               "H3",
               "fontWeight"
             ]
           },
           "lineHeight": {
-            "value": "3rem",
+            "value": "2.875rem",
             "type": "lineHeights",
             "filePath": "src/global.json",
             "isSource": true,
             "original": {
-              "value": "{lineHeights.5}",
+              "value": "{lineHeights.9}",
               "type": "lineHeights"
             },
-            "name": "mch_typography_editorial_headings_2_xl_h3_line_height",
+            "name": "xyz_typography_ch_headings_2_xl_h3_line_height",
             "attributes": {
               "category": "Typography",
-              "type": "Editorial Headings",
+              "type": "CH Headings",
               "item": "2XL",
               "subitem": "H3",
               "state": "lineHeight"
             },
             "path": [
               "Typography",
-              "Editorial Headings",
+              "CH Headings",
               "2XL",
               "H3",
               "lineHeight"
             ]
           },
           "fontSize": {
-            "value": "2.25rem",
+            "value": "2.75rem",
             "type": "fontSizes",
             "filePath": "src/global.json",
             "isSource": true,
             "original": {
-              "value": "{fontSize.10}",
+              "value": "{fontSize.16}",
               "type": "fontSizes"
             },
-            "name": "mch_typography_editorial_headings_2_xl_h3_font_size",
+            "name": "xyz_typography_ch_headings_2_xl_h3_font_size",
             "attributes": {
               "category": "Typography",
-              "type": "Editorial Headings",
+              "type": "CH Headings",
               "item": "2XL",
               "subitem": "H3",
               "state": "fontSize"
             },
             "path": [
               "Typography",
-              "Editorial Headings",
+              "CH Headings",
               "2XL",
               "H3",
               "fontSize"
             ]
           },
           "letterSpacing": {
-            "value": "0%",
+            "value": "0rem",
             "type": "letterSpacing",
             "filePath": "src/global.json",
             "isSource": true,
             "original": {
-              "value": "{letterSpacing.1}",
+              "value": "{letterSpacing.0}",
               "type": "letterSpacing"
             },
-            "name": "mch_typography_editorial_headings_2_xl_h3_letter_spacing",
+            "name": "xyz_typography_ch_headings_2_xl_h3_letter_spacing",
             "attributes": {
               "category": "Typography",
-              "type": "Editorial Headings",
+              "type": "CH Headings",
               "item": "2XL",
               "subitem": "H3",
               "state": "letterSpacing"
             },
             "path": [
               "Typography",
-              "Editorial Headings",
+              "CH Headings",
               "2XL",
               "H3",
               "letterSpacing"
             ]
           },
           "paragraphSpacing": {
-            "value": "4",
+            "value": "0",
             "type": "paragraphSpacing",
             "filePath": "src/global.json",
             "isSource": true,
             "original": {
-              "value": "{paragraphSpacing.1}",
+              "value": "{paragraphSpacing.0}",
               "type": "paragraphSpacing"
             },
-            "name": "mch_typography_editorial_headings_2_xl_h3_paragraph_spacing",
+            "name": "xyz_typography_ch_headings_2_xl_h3_paragraph_spacing",
             "attributes": {
               "category": "Typography",
-              "type": "Editorial Headings",
+              "type": "CH Headings",
               "item": "2XL",
               "subitem": "H3",
               "state": "paragraphSpacing"
             },
             "path": [
               "Typography",
-              "Editorial Headings",
+              "CH Headings",
               "2XL",
               "H3",
               "paragraphSpacing"
@@ -18795,17 +19164,17 @@ module.exports = {
               "value": "{paragraphIndent.0}",
               "type": "paragraphIndent"
             },
-            "name": "mch_typography_editorial_headings_2_xl_h3_paragraph_indent",
+            "name": "xyz_typography_ch_headings_2_xl_h3_paragraph_indent",
             "attributes": {
               "category": "Typography",
-              "type": "Editorial Headings",
+              "type": "CH Headings",
               "item": "2XL",
               "subitem": "H3",
               "state": "paragraphIndent"
             },
             "path": [
               "Typography",
-              "Editorial Headings",
+              "CH Headings",
               "2XL",
               "H3",
               "paragraphIndent"
@@ -18820,17 +19189,17 @@ module.exports = {
               "value": "{textCase.none}",
               "type": "textCase"
             },
-            "name": "mch_typography_editorial_headings_2_xl_h3_text_case",
+            "name": "xyz_typography_ch_headings_2_xl_h3_text_case",
             "attributes": {
               "category": "Typography",
-              "type": "Editorial Headings",
+              "type": "CH Headings",
               "item": "2XL",
               "subitem": "H3",
               "state": "textCase"
             },
             "path": [
               "Typography",
-              "Editorial Headings",
+              "CH Headings",
               "2XL",
               "H3",
               "textCase"
@@ -18845,17 +19214,17 @@ module.exports = {
               "value": "{textDecoration.none}",
               "type": "textDecoration"
             },
-            "name": "mch_typography_editorial_headings_2_xl_h3_text_decoration",
+            "name": "xyz_typography_ch_headings_2_xl_h3_text_decoration",
             "attributes": {
               "category": "Typography",
-              "type": "Editorial Headings",
+              "type": "CH Headings",
               "item": "2XL",
               "subitem": "H3",
               "state": "textDecoration"
             },
             "path": [
               "Typography",
-              "Editorial Headings",
+              "CH Headings",
               "2XL",
               "H3",
               "textDecoration"
@@ -18872,19 +19241,19 @@ module.exports = {
               "value": "{fontFamilies.ivar-display}",
               "type": "fontFamilies"
             },
-            "name": "mch_typography_editorial_headings_2_xl_h4_font_family",
+            "name": "xyz_typography_ch_headings_2_xl_h4_font_family",
             "attributes": {
               "category": "Typography",
-              "type": "Editorial Headings",
+              "type": "CH Headings",
               "item": "2XL",
-              "subitem": "h4",
+              "subitem": "H4",
               "state": "fontFamily"
             },
             "path": [
               "Typography",
-              "Editorial Headings",
+              "CH Headings",
               "2XL",
-              "h4",
+              "H4",
               "fontFamily"
             ]
           },
@@ -18897,44 +19266,44 @@ module.exports = {
               "value": "{fontWeights.ivar-display-3}",
               "type": "fontWeights"
             },
-            "name": "mch_typography_editorial_headings_2_xl_h4_font_weight",
+            "name": "xyz_typography_ch_headings_2_xl_h4_font_weight",
             "attributes": {
               "category": "Typography",
-              "type": "Editorial Headings",
+              "type": "CH Headings",
               "item": "2XL",
-              "subitem": "h4",
+              "subitem": "H4",
               "state": "fontWeight"
             },
             "path": [
               "Typography",
-              "Editorial Headings",
+              "CH Headings",
               "2XL",
-              "h4",
+              "H4",
               "fontWeight"
             ]
           },
           "lineHeight": {
-            "value": "2.625rem",
+            "value": "2.125rem",
             "type": "lineHeights",
             "filePath": "src/global.json",
             "isSource": true,
             "original": {
-              "value": "{lineHeights.6}",
+              "value": "{lineHeights.7}",
               "type": "lineHeights"
             },
-            "name": "mch_typography_editorial_headings_2_xl_h4_line_height",
+            "name": "xyz_typography_ch_headings_2_xl_h4_line_height",
             "attributes": {
               "category": "Typography",
-              "type": "Editorial Headings",
+              "type": "CH Headings",
               "item": "2XL",
-              "subitem": "h4",
+              "subitem": "H4",
               "state": "lineHeight"
             },
             "path": [
               "Typography",
-              "Editorial Headings",
+              "CH Headings",
               "2XL",
-              "h4",
+              "H4",
               "lineHeight"
             ]
           },
@@ -18947,69 +19316,69 @@ module.exports = {
               "value": "{fontSize.7}",
               "type": "fontSizes"
             },
-            "name": "mch_typography_editorial_headings_2_xl_h4_font_size",
+            "name": "xyz_typography_ch_headings_2_xl_h4_font_size",
             "attributes": {
               "category": "Typography",
-              "type": "Editorial Headings",
+              "type": "CH Headings",
               "item": "2XL",
-              "subitem": "h4",
+              "subitem": "H4",
               "state": "fontSize"
             },
             "path": [
               "Typography",
-              "Editorial Headings",
+              "CH Headings",
               "2XL",
-              "h4",
+              "H4",
               "fontSize"
             ]
           },
           "letterSpacing": {
-            "value": "0%",
+            "value": "0rem",
             "type": "letterSpacing",
             "filePath": "src/global.json",
             "isSource": true,
             "original": {
-              "value": "{letterSpacing.1}",
+              "value": "{letterSpacing.0}",
               "type": "letterSpacing"
             },
-            "name": "mch_typography_editorial_headings_2_xl_h4_letter_spacing",
+            "name": "xyz_typography_ch_headings_2_xl_h4_letter_spacing",
             "attributes": {
               "category": "Typography",
-              "type": "Editorial Headings",
+              "type": "CH Headings",
               "item": "2XL",
-              "subitem": "h4",
+              "subitem": "H4",
               "state": "letterSpacing"
             },
             "path": [
               "Typography",
-              "Editorial Headings",
+              "CH Headings",
               "2XL",
-              "h4",
+              "H4",
               "letterSpacing"
             ]
           },
           "paragraphSpacing": {
-            "value": "4",
+            "value": "0",
             "type": "paragraphSpacing",
             "filePath": "src/global.json",
             "isSource": true,
             "original": {
-              "value": "{paragraphSpacing.1}",
+              "value": "{paragraphSpacing.0}",
               "type": "paragraphSpacing"
             },
-            "name": "mch_typography_editorial_headings_2_xl_h4_paragraph_spacing",
+            "name": "xyz_typography_ch_headings_2_xl_h4_paragraph_spacing",
             "attributes": {
               "category": "Typography",
-              "type": "Editorial Headings",
+              "type": "CH Headings",
               "item": "2XL",
-              "subitem": "h4",
+              "subitem": "H4",
               "state": "paragraphSpacing"
             },
             "path": [
               "Typography",
-              "Editorial Headings",
+              "CH Headings",
               "2XL",
-              "h4",
+              "H4",
               "paragraphSpacing"
             ]
           },
@@ -19022,19 +19391,19 @@ module.exports = {
               "value": "{paragraphIndent.0}",
               "type": "paragraphIndent"
             },
-            "name": "mch_typography_editorial_headings_2_xl_h4_paragraph_indent",
+            "name": "xyz_typography_ch_headings_2_xl_h4_paragraph_indent",
             "attributes": {
               "category": "Typography",
-              "type": "Editorial Headings",
+              "type": "CH Headings",
               "item": "2XL",
-              "subitem": "h4",
+              "subitem": "H4",
               "state": "paragraphIndent"
             },
             "path": [
               "Typography",
-              "Editorial Headings",
+              "CH Headings",
               "2XL",
-              "h4",
+              "H4",
               "paragraphIndent"
             ]
           },
@@ -19047,19 +19416,19 @@ module.exports = {
               "value": "{textCase.none}",
               "type": "textCase"
             },
-            "name": "mch_typography_editorial_headings_2_xl_h4_text_case",
+            "name": "xyz_typography_ch_headings_2_xl_h4_text_case",
             "attributes": {
               "category": "Typography",
-              "type": "Editorial Headings",
+              "type": "CH Headings",
               "item": "2XL",
-              "subitem": "h4",
+              "subitem": "H4",
               "state": "textCase"
             },
             "path": [
               "Typography",
-              "Editorial Headings",
+              "CH Headings",
               "2XL",
-              "h4",
+              "H4",
               "textCase"
             ]
           },
@@ -19072,24 +19441,24 @@ module.exports = {
               "value": "{textDecoration.none}",
               "type": "textDecoration"
             },
-            "name": "mch_typography_editorial_headings_2_xl_h4_text_decoration",
+            "name": "xyz_typography_ch_headings_2_xl_h4_text_decoration",
             "attributes": {
               "category": "Typography",
-              "type": "Editorial Headings",
+              "type": "CH Headings",
               "item": "2XL",
-              "subitem": "h4",
+              "subitem": "H4",
               "state": "textDecoration"
             },
             "path": [
               "Typography",
-              "Editorial Headings",
+              "CH Headings",
               "2XL",
-              "h4",
+              "H4",
               "textDecoration"
             ]
           }
         },
-        "H5": {
+        "h5": {
           "fontFamily": {
             "value": "Ivar Display",
             "type": "fontFamilies",
@@ -19099,17 +19468,17 @@ module.exports = {
               "value": "{fontFamilies.ivar-display}",
               "type": "fontFamilies"
             },
-            "name": "mch_typography_editorial_headings_2_xl_h5_font_family",
+            "name": "xyz_typography_ch_headings_2_xl_h5_font_family",
             "attributes": {
               "category": "Typography",
-              "type": "Editorial Headings",
+              "type": "CH Headings",
               "item": "2XL",
               "subitem": "H5",
               "state": "fontFamily"
             },
             "path": [
               "Typography",
-              "Editorial Headings",
+              "CH Headings",
               "2XL",
               "H5",
               "fontFamily"
@@ -19124,117 +19493,117 @@ module.exports = {
               "value": "{fontWeights.ivar-display-3}",
               "type": "fontWeights"
             },
-            "name": "mch_typography_editorial_headings_2_xl_h5_font_weight",
+            "name": "xyz_typography_ch_headings_2_xl_h5_font_weight",
             "attributes": {
               "category": "Typography",
-              "type": "Editorial Headings",
+              "type": "CH Headings",
               "item": "2XL",
               "subitem": "H5",
               "state": "fontWeight"
             },
             "path": [
               "Typography",
-              "Editorial Headings",
+              "CH Headings",
               "2XL",
               "H5",
               "fontWeight"
             ]
           },
           "lineHeight": {
-            "value": "2rem",
+            "value": "1.5rem",
             "type": "lineHeights",
             "filePath": "src/global.json",
             "isSource": true,
             "original": {
-              "value": "{lineHeights.16}",
+              "value": "{lineHeights.12}",
               "type": "lineHeights"
             },
-            "name": "mch_typography_editorial_headings_2_xl_h5_line_height",
+            "name": "xyz_typography_ch_headings_2_xl_h5_line_height",
             "attributes": {
               "category": "Typography",
-              "type": "Editorial Headings",
+              "type": "CH Headings",
               "item": "2XL",
               "subitem": "H5",
               "state": "lineHeight"
             },
             "path": [
               "Typography",
-              "Editorial Headings",
+              "CH Headings",
               "2XL",
               "H5",
               "lineHeight"
             ]
           },
           "fontSize": {
-            "value": "1.5rem",
+            "value": "1.25rem",
             "type": "fontSizes",
             "filePath": "src/global.json",
             "isSource": true,
             "original": {
-              "value": "{fontSize.5}",
+              "value": "{fontSize.4}",
               "type": "fontSizes"
             },
-            "name": "mch_typography_editorial_headings_2_xl_h5_font_size",
+            "name": "xyz_typography_ch_headings_2_xl_h5_font_size",
             "attributes": {
               "category": "Typography",
-              "type": "Editorial Headings",
+              "type": "CH Headings",
               "item": "2XL",
               "subitem": "H5",
               "state": "fontSize"
             },
             "path": [
               "Typography",
-              "Editorial Headings",
+              "CH Headings",
               "2XL",
               "H5",
               "fontSize"
             ]
           },
           "letterSpacing": {
-            "value": "0%",
+            "value": "0rem",
             "type": "letterSpacing",
             "filePath": "src/global.json",
             "isSource": true,
             "original": {
-              "value": "{letterSpacing.1}",
+              "value": "{letterSpacing.0}",
               "type": "letterSpacing"
             },
-            "name": "mch_typography_editorial_headings_2_xl_h5_letter_spacing",
+            "name": "xyz_typography_ch_headings_2_xl_h5_letter_spacing",
             "attributes": {
               "category": "Typography",
-              "type": "Editorial Headings",
+              "type": "CH Headings",
               "item": "2XL",
               "subitem": "H5",
               "state": "letterSpacing"
             },
             "path": [
               "Typography",
-              "Editorial Headings",
+              "CH Headings",
               "2XL",
               "H5",
               "letterSpacing"
             ]
           },
           "paragraphSpacing": {
-            "value": "4",
+            "value": "0",
             "type": "paragraphSpacing",
             "filePath": "src/global.json",
             "isSource": true,
             "original": {
-              "value": "{paragraphSpacing.1}",
+              "value": "{paragraphSpacing.0}",
               "type": "paragraphSpacing"
             },
-            "name": "mch_typography_editorial_headings_2_xl_h5_paragraph_spacing",
+            "name": "xyz_typography_ch_headings_2_xl_h5_paragraph_spacing",
             "attributes": {
               "category": "Typography",
-              "type": "Editorial Headings",
+              "type": "CH Headings",
               "item": "2XL",
               "subitem": "H5",
               "state": "paragraphSpacing"
             },
             "path": [
               "Typography",
-              "Editorial Headings",
+              "CH Headings",
               "2XL",
               "H5",
               "paragraphSpacing"
@@ -19249,17 +19618,17 @@ module.exports = {
               "value": "{paragraphIndent.0}",
               "type": "paragraphIndent"
             },
-            "name": "mch_typography_editorial_headings_2_xl_h5_paragraph_indent",
+            "name": "xyz_typography_ch_headings_2_xl_h5_paragraph_indent",
             "attributes": {
               "category": "Typography",
-              "type": "Editorial Headings",
+              "type": "CH Headings",
               "item": "2XL",
               "subitem": "H5",
               "state": "paragraphIndent"
             },
             "path": [
               "Typography",
-              "Editorial Headings",
+              "CH Headings",
               "2XL",
               "H5",
               "paragraphIndent"
@@ -19274,17 +19643,17 @@ module.exports = {
               "value": "{textCase.none}",
               "type": "textCase"
             },
-            "name": "mch_typography_editorial_headings_2_xl_h5_text_case",
+            "name": "xyz_typography_ch_headings_2_xl_h5_text_case",
             "attributes": {
               "category": "Typography",
-              "type": "Editorial Headings",
+              "type": "CH Headings",
               "item": "2XL",
               "subitem": "H5",
               "state": "textCase"
             },
             "path": [
               "Typography",
-              "Editorial Headings",
+              "CH Headings",
               "2XL",
               "H5",
               "textCase"
@@ -19299,1069 +19668,5478 @@ module.exports = {
               "value": "{textDecoration.none}",
               "type": "textDecoration"
             },
-            "name": "mch_typography_editorial_headings_2_xl_h5_text_decoration",
+            "name": "xyz_typography_ch_headings_2_xl_h5_text_decoration",
             "attributes": {
               "category": "Typography",
-              "type": "Editorial Headings",
+              "type": "CH Headings",
               "item": "2XL",
               "subitem": "H5",
               "state": "textDecoration"
             },
             "path": [
               "Typography",
-              "Editorial Headings",
+              "CH Headings",
               "2XL",
               "H5",
               "textDecoration"
             ]
           }
         }
-      }
-    },
-    "Editorial Quote": {
-      "Quote - 2XL": {
-        "fontFamily": {
-          "value": "Ivar Display",
-          "type": "fontFamilies",
-          "filePath": "src/global.json",
-          "isSource": true,
-          "original": {
-            "value": "{fontFamilies.ivar-display}",
-            "type": "fontFamilies"
+      },
+      "xl": {
+        "display": {
+          "fontFamily": {
+            "value": "Ivar Display",
+            "type": "fontFamilies",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{fontFamilies.ivar-display}",
+              "type": "fontFamilies"
+            },
+            "name": "xyz_typography_ch_headings_xl_display_font_family",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "XL",
+              "subitem": "Display",
+              "state": "fontFamily"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "XL",
+              "Display",
+              "fontFamily"
+            ]
           },
-          "name": "mch_typography_editorial_quote_quote_2_xl_font_family",
-          "attributes": {
-            "category": "Typography",
-            "type": "Editorial Quote",
-            "item": "Quote - 2XL",
-            "subitem": "fontFamily"
+          "fontWeight": {
+            "value": "600",
+            "type": "fontWeights",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{fontWeights.ivar-display-3}",
+              "type": "fontWeights"
+            },
+            "name": "xyz_typography_ch_headings_xl_display_font_weight",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "XL",
+              "subitem": "Display",
+              "state": "fontWeight"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "XL",
+              "Display",
+              "fontWeight"
+            ]
           },
-          "path": [
-            "Typography",
-            "Editorial Quote",
-            "Quote - 2XL",
-            "fontFamily"
-          ]
+          "lineHeight": {
+            "value": "8rem",
+            "type": "lineHeights",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{lineHeights.20}",
+              "type": "lineHeights"
+            },
+            "name": "xyz_typography_ch_headings_xl_display_line_height",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "XL",
+              "subitem": "Display",
+              "state": "lineHeight"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "XL",
+              "Display",
+              "lineHeight"
+            ]
+          },
+          "fontSize": {
+            "value": "8rem",
+            "type": "fontSizes",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{fontSize.26}",
+              "type": "fontSizes"
+            },
+            "name": "xyz_typography_ch_headings_xl_display_font_size",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "XL",
+              "subitem": "Display",
+              "state": "fontSize"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "XL",
+              "Display",
+              "fontSize"
+            ]
+          },
+          "letterSpacing": {
+            "value": "0rem",
+            "type": "letterSpacing",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{letterSpacing.0}",
+              "type": "letterSpacing"
+            },
+            "name": "xyz_typography_ch_headings_xl_display_letter_spacing",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "XL",
+              "subitem": "Display",
+              "state": "letterSpacing"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "XL",
+              "Display",
+              "letterSpacing"
+            ]
+          },
+          "paragraphSpacing": {
+            "value": "0",
+            "type": "paragraphSpacing",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{paragraphSpacing.0}",
+              "type": "paragraphSpacing"
+            },
+            "name": "xyz_typography_ch_headings_xl_display_paragraph_spacing",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "XL",
+              "subitem": "Display",
+              "state": "paragraphSpacing"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "XL",
+              "Display",
+              "paragraphSpacing"
+            ]
+          },
+          "paragraphIndent": {
+            "value": 0,
+            "type": "paragraphIndent",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{paragraphIndent.0}",
+              "type": "paragraphIndent"
+            },
+            "name": "xyz_typography_ch_headings_xl_display_paragraph_indent",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "XL",
+              "subitem": "Display",
+              "state": "paragraphIndent"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "XL",
+              "Display",
+              "paragraphIndent"
+            ]
+          },
+          "textCase": {
+            "value": "none",
+            "type": "textCase",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{textCase.none}",
+              "type": "textCase"
+            },
+            "name": "xyz_typography_ch_headings_xl_display_text_case",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "XL",
+              "subitem": "Display",
+              "state": "textCase"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "XL",
+              "Display",
+              "textCase"
+            ]
+          },
+          "textDecoration": {
+            "value": "none",
+            "type": "textDecoration",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{textDecoration.none}",
+              "type": "textDecoration"
+            },
+            "name": "xyz_typography_ch_headings_xl_display_text_decoration",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "XL",
+              "subitem": "Display",
+              "state": "textDecoration"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "XL",
+              "Display",
+              "textDecoration"
+            ]
+          }
         },
-        "fontWeight": {
-          "value": "400",
-          "type": "fontWeights",
-          "filePath": "src/global.json",
-          "isSource": true,
-          "original": {
-            "value": "{fontWeights.ivar-display-4}",
-            "type": "fontWeights"
+        "h1": {
+          "fontFamily": {
+            "value": "Ivar Display",
+            "type": "fontFamilies",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{fontFamilies.ivar-display}",
+              "type": "fontFamilies"
+            },
+            "name": "xyz_typography_ch_headings_xl_h1_font_family",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "XL",
+              "subitem": "H1",
+              "state": "fontFamily"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "XL",
+              "H1",
+              "fontFamily"
+            ]
           },
-          "name": "mch_typography_editorial_quote_quote_2_xl_font_weight",
-          "attributes": {
-            "category": "Typography",
-            "type": "Editorial Quote",
-            "item": "Quote - 2XL",
-            "subitem": "fontWeight"
+          "fontWeight": {
+            "value": "600",
+            "type": "fontWeights",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{fontWeights.ivar-display-3}",
+              "type": "fontWeights"
+            },
+            "name": "xyz_typography_ch_headings_xl_h1_font_weight",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "XL",
+              "subitem": "H1",
+              "state": "fontWeight"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "XL",
+              "H1",
+              "fontWeight"
+            ]
           },
-          "path": [
-            "Typography",
-            "Editorial Quote",
-            "Quote - 2XL",
-            "fontWeight"
-          ]
+          "lineHeight": {
+            "value": "5.25rem",
+            "type": "lineHeights",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{lineHeights.21}",
+              "type": "lineHeights"
+            },
+            "name": "xyz_typography_ch_headings_xl_h1_line_height",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "XL",
+              "subitem": "H1",
+              "state": "lineHeight"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "XL",
+              "H1",
+              "lineHeight"
+            ]
+          },
+          "fontSize": {
+            "value": "5.25rem",
+            "type": "fontSizes",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{fontSize.23}",
+              "type": "fontSizes"
+            },
+            "name": "xyz_typography_ch_headings_xl_h1_font_size",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "XL",
+              "subitem": "H1",
+              "state": "fontSize"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "XL",
+              "H1",
+              "fontSize"
+            ]
+          },
+          "letterSpacing": {
+            "value": "0rem",
+            "type": "letterSpacing",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{letterSpacing.0}",
+              "type": "letterSpacing"
+            },
+            "name": "xyz_typography_ch_headings_xl_h1_letter_spacing",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "XL",
+              "subitem": "H1",
+              "state": "letterSpacing"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "XL",
+              "H1",
+              "letterSpacing"
+            ]
+          },
+          "paragraphSpacing": {
+            "value": "0",
+            "type": "paragraphSpacing",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{paragraphSpacing.0}",
+              "type": "paragraphSpacing"
+            },
+            "name": "xyz_typography_ch_headings_xl_h1_paragraph_spacing",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "XL",
+              "subitem": "H1",
+              "state": "paragraphSpacing"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "XL",
+              "H1",
+              "paragraphSpacing"
+            ]
+          },
+          "paragraphIndent": {
+            "value": 0,
+            "type": "paragraphIndent",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{paragraphIndent.0}",
+              "type": "paragraphIndent"
+            },
+            "name": "xyz_typography_ch_headings_xl_h1_paragraph_indent",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "XL",
+              "subitem": "H1",
+              "state": "paragraphIndent"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "XL",
+              "H1",
+              "paragraphIndent"
+            ]
+          },
+          "textCase": {
+            "value": "none",
+            "type": "textCase",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{textCase.none}",
+              "type": "textCase"
+            },
+            "name": "xyz_typography_ch_headings_xl_h1_text_case",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "XL",
+              "subitem": "H1",
+              "state": "textCase"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "XL",
+              "H1",
+              "textCase"
+            ]
+          },
+          "textDecoration": {
+            "value": "none",
+            "type": "textDecoration",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{textDecoration.none}",
+              "type": "textDecoration"
+            },
+            "name": "xyz_typography_ch_headings_xl_h1_text_decoration",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "XL",
+              "subitem": "H1",
+              "state": "textDecoration"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "XL",
+              "H1",
+              "textDecoration"
+            ]
+          }
         },
-        "lineHeight": {
-          "value": "3.375rem",
-          "type": "lineHeights",
-          "filePath": "src/global.json",
-          "isSource": true,
-          "original": {
-            "value": "{lineHeights.18}",
-            "type": "lineHeights"
+        "h2": {
+          "fontFamily": {
+            "value": "Ivar Display",
+            "type": "fontFamilies",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{fontFamilies.ivar-display}",
+              "type": "fontFamilies"
+            },
+            "name": "xyz_typography_ch_headings_xl_h2_font_family",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "XL",
+              "subitem": "H2",
+              "state": "fontFamily"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "XL",
+              "H2",
+              "fontFamily"
+            ]
           },
-          "name": "mch_typography_editorial_quote_quote_2_xl_line_height",
-          "attributes": {
-            "category": "Typography",
-            "type": "Editorial Quote",
-            "item": "Quote - 2XL",
-            "subitem": "lineHeight"
+          "fontWeight": {
+            "value": "600",
+            "type": "fontWeights",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{fontWeights.ivar-display-3}",
+              "type": "fontWeights"
+            },
+            "name": "xyz_typography_ch_headings_xl_h2_font_weight",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "XL",
+              "subitem": "H2",
+              "state": "fontWeight"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "XL",
+              "H2",
+              "fontWeight"
+            ]
           },
-          "path": [
-            "Typography",
-            "Editorial Quote",
-            "Quote - 2XL",
-            "lineHeight"
-          ]
+          "lineHeight": {
+            "value": "4rem",
+            "type": "lineHeights",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{lineHeights.17}",
+              "type": "lineHeights"
+            },
+            "name": "xyz_typography_ch_headings_xl_h2_line_height",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "XL",
+              "subitem": "H2",
+              "state": "lineHeight"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "XL",
+              "H2",
+              "lineHeight"
+            ]
+          },
+          "fontSize": {
+            "value": "4rem",
+            "type": "fontSizes",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{fontSize.20}",
+              "type": "fontSizes"
+            },
+            "name": "xyz_typography_ch_headings_xl_h2_font_size",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "XL",
+              "subitem": "H2",
+              "state": "fontSize"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "XL",
+              "H2",
+              "fontSize"
+            ]
+          },
+          "letterSpacing": {
+            "value": "0rem",
+            "type": "letterSpacing",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{letterSpacing.0}",
+              "type": "letterSpacing"
+            },
+            "name": "xyz_typography_ch_headings_xl_h2_letter_spacing",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "XL",
+              "subitem": "H2",
+              "state": "letterSpacing"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "XL",
+              "H2",
+              "letterSpacing"
+            ]
+          },
+          "paragraphSpacing": {
+            "value": "0",
+            "type": "paragraphSpacing",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{paragraphSpacing.0}",
+              "type": "paragraphSpacing"
+            },
+            "name": "xyz_typography_ch_headings_xl_h2_paragraph_spacing",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "XL",
+              "subitem": "H2",
+              "state": "paragraphSpacing"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "XL",
+              "H2",
+              "paragraphSpacing"
+            ]
+          },
+          "paragraphIndent": {
+            "value": 0,
+            "type": "paragraphIndent",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{paragraphIndent.0}",
+              "type": "paragraphIndent"
+            },
+            "name": "xyz_typography_ch_headings_xl_h2_paragraph_indent",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "XL",
+              "subitem": "H2",
+              "state": "paragraphIndent"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "XL",
+              "H2",
+              "paragraphIndent"
+            ]
+          },
+          "textCase": {
+            "value": "none",
+            "type": "textCase",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{textCase.none}",
+              "type": "textCase"
+            },
+            "name": "xyz_typography_ch_headings_xl_h2_text_case",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "XL",
+              "subitem": "H2",
+              "state": "textCase"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "XL",
+              "H2",
+              "textCase"
+            ]
+          },
+          "textDecoration": {
+            "value": "none",
+            "type": "textDecoration",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{textDecoration.none}",
+              "type": "textDecoration"
+            },
+            "name": "xyz_typography_ch_headings_xl_h2_text_decoration",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "XL",
+              "subitem": "H2",
+              "state": "textDecoration"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "XL",
+              "H2",
+              "textDecoration"
+            ]
+          }
         },
-        "fontSize": {
-          "value": "2.625rem",
-          "type": "fontSizes",
-          "filePath": "src/global.json",
-          "isSource": true,
-          "original": {
-            "value": "{fontSize.13}",
-            "type": "fontSizes"
+        "h3": {
+          "fontFamily": {
+            "value": "Ivar Display",
+            "type": "fontFamilies",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{fontFamilies.ivar-display}",
+              "type": "fontFamilies"
+            },
+            "name": "xyz_typography_ch_headings_xl_h3_font_family",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "XL",
+              "subitem": "H3",
+              "state": "fontFamily"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "XL",
+              "H3",
+              "fontFamily"
+            ]
           },
-          "name": "mch_typography_editorial_quote_quote_2_xl_font_size",
-          "attributes": {
-            "category": "Typography",
-            "type": "Editorial Quote",
-            "item": "Quote - 2XL",
-            "subitem": "fontSize"
+          "fontWeight": {
+            "value": "600",
+            "type": "fontWeights",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{fontWeights.ivar-display-3}",
+              "type": "fontWeights"
+            },
+            "name": "xyz_typography_ch_headings_xl_h3_font_weight",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "XL",
+              "subitem": "H3",
+              "state": "fontWeight"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "XL",
+              "H3",
+              "fontWeight"
+            ]
           },
-          "path": [
-            "Typography",
-            "Editorial Quote",
-            "Quote - 2XL",
-            "fontSize"
-          ]
+          "lineHeight": {
+            "value": "2.875rem",
+            "type": "lineHeights",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{lineHeights.9}",
+              "type": "lineHeights"
+            },
+            "name": "xyz_typography_ch_headings_xl_h3_line_height",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "XL",
+              "subitem": "H3",
+              "state": "lineHeight"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "XL",
+              "H3",
+              "lineHeight"
+            ]
+          },
+          "fontSize": {
+            "value": "2.75rem",
+            "type": "fontSizes",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{fontSize.16}",
+              "type": "fontSizes"
+            },
+            "name": "xyz_typography_ch_headings_xl_h3_font_size",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "XL",
+              "subitem": "H3",
+              "state": "fontSize"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "XL",
+              "H3",
+              "fontSize"
+            ]
+          },
+          "letterSpacing": {
+            "value": "0rem",
+            "type": "letterSpacing",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{letterSpacing.0}",
+              "type": "letterSpacing"
+            },
+            "name": "xyz_typography_ch_headings_xl_h3_letter_spacing",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "XL",
+              "subitem": "H3",
+              "state": "letterSpacing"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "XL",
+              "H3",
+              "letterSpacing"
+            ]
+          },
+          "paragraphSpacing": {
+            "value": "0",
+            "type": "paragraphSpacing",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{paragraphSpacing.0}",
+              "type": "paragraphSpacing"
+            },
+            "name": "xyz_typography_ch_headings_xl_h3_paragraph_spacing",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "XL",
+              "subitem": "H3",
+              "state": "paragraphSpacing"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "XL",
+              "H3",
+              "paragraphSpacing"
+            ]
+          },
+          "paragraphIndent": {
+            "value": 0,
+            "type": "paragraphIndent",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{paragraphIndent.0}",
+              "type": "paragraphIndent"
+            },
+            "name": "xyz_typography_ch_headings_xl_h3_paragraph_indent",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "XL",
+              "subitem": "H3",
+              "state": "paragraphIndent"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "XL",
+              "H3",
+              "paragraphIndent"
+            ]
+          },
+          "textCase": {
+            "value": "none",
+            "type": "textCase",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{textCase.none}",
+              "type": "textCase"
+            },
+            "name": "xyz_typography_ch_headings_xl_h3_text_case",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "XL",
+              "subitem": "H3",
+              "state": "textCase"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "XL",
+              "H3",
+              "textCase"
+            ]
+          },
+          "textDecoration": {
+            "value": "none",
+            "type": "textDecoration",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{textDecoration.none}",
+              "type": "textDecoration"
+            },
+            "name": "xyz_typography_ch_headings_xl_h3_text_decoration",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "XL",
+              "subitem": "H3",
+              "state": "textDecoration"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "XL",
+              "H3",
+              "textDecoration"
+            ]
+          }
         },
-        "letterSpacing": {
-          "value": "0%",
-          "type": "letterSpacing",
-          "filePath": "src/global.json",
-          "isSource": true,
-          "original": {
-            "value": "{letterSpacing.1}",
-            "type": "letterSpacing"
+        "h4": {
+          "fontFamily": {
+            "value": "Ivar Display",
+            "type": "fontFamilies",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{fontFamilies.ivar-display}",
+              "type": "fontFamilies"
+            },
+            "name": "xyz_typography_ch_headings_xl_h4_font_family",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "XL",
+              "subitem": "H4",
+              "state": "fontFamily"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "XL",
+              "H4",
+              "fontFamily"
+            ]
           },
-          "name": "mch_typography_editorial_quote_quote_2_xl_letter_spacing",
-          "attributes": {
-            "category": "Typography",
-            "type": "Editorial Quote",
-            "item": "Quote - 2XL",
-            "subitem": "letterSpacing"
+          "fontWeight": {
+            "value": "600",
+            "type": "fontWeights",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{fontWeights.ivar-display-3}",
+              "type": "fontWeights"
+            },
+            "name": "xyz_typography_ch_headings_xl_h4_font_weight",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "XL",
+              "subitem": "H4",
+              "state": "fontWeight"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "XL",
+              "H4",
+              "fontWeight"
+            ]
           },
-          "path": [
-            "Typography",
-            "Editorial Quote",
-            "Quote - 2XL",
-            "letterSpacing"
-          ]
+          "lineHeight": {
+            "value": "2.125rem",
+            "type": "lineHeights",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{lineHeights.7}",
+              "type": "lineHeights"
+            },
+            "name": "xyz_typography_ch_headings_xl_h4_line_height",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "XL",
+              "subitem": "H4",
+              "state": "lineHeight"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "XL",
+              "H4",
+              "lineHeight"
+            ]
+          },
+          "fontSize": {
+            "value": "1.875rem",
+            "type": "fontSizes",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{fontSize.7}",
+              "type": "fontSizes"
+            },
+            "name": "xyz_typography_ch_headings_xl_h4_font_size",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "XL",
+              "subitem": "H4",
+              "state": "fontSize"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "XL",
+              "H4",
+              "fontSize"
+            ]
+          },
+          "letterSpacing": {
+            "value": "0rem",
+            "type": "letterSpacing",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{letterSpacing.0}",
+              "type": "letterSpacing"
+            },
+            "name": "xyz_typography_ch_headings_xl_h4_letter_spacing",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "XL",
+              "subitem": "H4",
+              "state": "letterSpacing"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "XL",
+              "H4",
+              "letterSpacing"
+            ]
+          },
+          "paragraphSpacing": {
+            "value": "0",
+            "type": "paragraphSpacing",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{paragraphSpacing.0}",
+              "type": "paragraphSpacing"
+            },
+            "name": "xyz_typography_ch_headings_xl_h4_paragraph_spacing",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "XL",
+              "subitem": "H4",
+              "state": "paragraphSpacing"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "XL",
+              "H4",
+              "paragraphSpacing"
+            ]
+          },
+          "paragraphIndent": {
+            "value": 0,
+            "type": "paragraphIndent",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{paragraphIndent.0}",
+              "type": "paragraphIndent"
+            },
+            "name": "xyz_typography_ch_headings_xl_h4_paragraph_indent",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "XL",
+              "subitem": "H4",
+              "state": "paragraphIndent"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "XL",
+              "H4",
+              "paragraphIndent"
+            ]
+          },
+          "textCase": {
+            "value": "none",
+            "type": "textCase",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{textCase.none}",
+              "type": "textCase"
+            },
+            "name": "xyz_typography_ch_headings_xl_h4_text_case",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "XL",
+              "subitem": "H4",
+              "state": "textCase"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "XL",
+              "H4",
+              "textCase"
+            ]
+          },
+          "textDecoration": {
+            "value": "none",
+            "type": "textDecoration",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{textDecoration.none}",
+              "type": "textDecoration"
+            },
+            "name": "xyz_typography_ch_headings_xl_h4_text_decoration",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "XL",
+              "subitem": "H4",
+              "state": "textDecoration"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "XL",
+              "H4",
+              "textDecoration"
+            ]
+          }
         },
-        "paragraphSpacing": {
-          "value": "4",
-          "type": "paragraphSpacing",
-          "filePath": "src/global.json",
-          "isSource": true,
-          "original": {
-            "value": "{paragraphSpacing.1}",
-            "type": "paragraphSpacing"
+        "h5": {
+          "fontFamily": {
+            "value": "Ivar Display",
+            "type": "fontFamilies",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{fontFamilies.ivar-display}",
+              "type": "fontFamilies"
+            },
+            "name": "xyz_typography_ch_headings_xl_h5_font_family",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "XL",
+              "subitem": "H5",
+              "state": "fontFamily"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "XL",
+              "H5",
+              "fontFamily"
+            ]
           },
-          "name": "mch_typography_editorial_quote_quote_2_xl_paragraph_spacing",
-          "attributes": {
-            "category": "Typography",
-            "type": "Editorial Quote",
-            "item": "Quote - 2XL",
-            "subitem": "paragraphSpacing"
+          "fontWeight": {
+            "value": "600",
+            "type": "fontWeights",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{fontWeights.ivar-display-3}",
+              "type": "fontWeights"
+            },
+            "name": "xyz_typography_ch_headings_xl_h5_font_weight",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "XL",
+              "subitem": "H5",
+              "state": "fontWeight"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "XL",
+              "H5",
+              "fontWeight"
+            ]
           },
-          "path": [
-            "Typography",
-            "Editorial Quote",
-            "Quote - 2XL",
-            "paragraphSpacing"
-          ]
-        },
-        "paragraphIndent": {
-          "value": 0,
-          "type": "paragraphIndent",
-          "filePath": "src/global.json",
-          "isSource": true,
-          "original": {
-            "value": "{paragraphIndent.0}",
-            "type": "paragraphIndent"
+          "lineHeight": {
+            "value": "1.5rem",
+            "type": "lineHeights",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{lineHeights.12}",
+              "type": "lineHeights"
+            },
+            "name": "xyz_typography_ch_headings_xl_h5_line_height",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "XL",
+              "subitem": "H5",
+              "state": "lineHeight"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "XL",
+              "H5",
+              "lineHeight"
+            ]
           },
-          "name": "mch_typography_editorial_quote_quote_2_xl_paragraph_indent",
-          "attributes": {
-            "category": "Typography",
-            "type": "Editorial Quote",
-            "item": "Quote - 2XL",
-            "subitem": "paragraphIndent"
+          "fontSize": {
+            "value": "1.25rem",
+            "type": "fontSizes",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{fontSize.4}",
+              "type": "fontSizes"
+            },
+            "name": "xyz_typography_ch_headings_xl_h5_font_size",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "XL",
+              "subitem": "H5",
+              "state": "fontSize"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "XL",
+              "H5",
+              "fontSize"
+            ]
           },
-          "path": [
-            "Typography",
-            "Editorial Quote",
-            "Quote - 2XL",
-            "paragraphIndent"
-          ]
-        },
-        "textCase": {
-          "value": "none",
-          "type": "textCase",
-          "filePath": "src/global.json",
-          "isSource": true,
-          "original": {
-            "value": "{textCase.none}",
-            "type": "textCase"
+          "letterSpacing": {
+            "value": "0rem",
+            "type": "letterSpacing",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{letterSpacing.0}",
+              "type": "letterSpacing"
+            },
+            "name": "xyz_typography_ch_headings_xl_h5_letter_spacing",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "XL",
+              "subitem": "H5",
+              "state": "letterSpacing"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "XL",
+              "H5",
+              "letterSpacing"
+            ]
           },
-          "name": "mch_typography_editorial_quote_quote_2_xl_text_case",
-          "attributes": {
-            "category": "Typography",
-            "type": "Editorial Quote",
-            "item": "Quote - 2XL",
-            "subitem": "textCase"
+          "paragraphSpacing": {
+            "value": "0",
+            "type": "paragraphSpacing",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{paragraphSpacing.0}",
+              "type": "paragraphSpacing"
+            },
+            "name": "xyz_typography_ch_headings_xl_h5_paragraph_spacing",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "XL",
+              "subitem": "H5",
+              "state": "paragraphSpacing"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "XL",
+              "H5",
+              "paragraphSpacing"
+            ]
           },
-          "path": [
-            "Typography",
-            "Editorial Quote",
-            "Quote - 2XL",
-            "textCase"
-          ]
-        },
-        "textDecoration": {
-          "value": "none",
-          "type": "textDecoration",
-          "filePath": "src/global.json",
-          "isSource": true,
-          "original": {
-            "value": "{textDecoration.none}",
-            "type": "textDecoration"
+          "paragraphIndent": {
+            "value": 0,
+            "type": "paragraphIndent",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{paragraphIndent.0}",
+              "type": "paragraphIndent"
+            },
+            "name": "xyz_typography_ch_headings_xl_h5_paragraph_indent",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "XL",
+              "subitem": "H5",
+              "state": "paragraphIndent"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "XL",
+              "H5",
+              "paragraphIndent"
+            ]
           },
-          "name": "mch_typography_editorial_quote_quote_2_xl_text_decoration",
-          "attributes": {
-            "category": "Typography",
-            "type": "Editorial Quote",
-            "item": "Quote - 2XL",
-            "subitem": "textDecoration"
+          "textCase": {
+            "value": "none",
+            "type": "textCase",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{textCase.none}",
+              "type": "textCase"
+            },
+            "name": "xyz_typography_ch_headings_xl_h5_text_case",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "XL",
+              "subitem": "H5",
+              "state": "textCase"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "XL",
+              "H5",
+              "textCase"
+            ]
           },
-          "path": [
-            "Typography",
-            "Editorial Quote",
-            "Quote - 2XL",
-            "textDecoration"
-          ]
+          "textDecoration": {
+            "value": "none",
+            "type": "textDecoration",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{textDecoration.none}",
+              "type": "textDecoration"
+            },
+            "name": "xyz_typography_ch_headings_xl_h5_text_decoration",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "XL",
+              "subitem": "H5",
+              "state": "textDecoration"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "XL",
+              "H5",
+              "textDecoration"
+            ]
+          }
         }
       },
-      "Quote - XL": {
-        "fontFamily": {
-          "value": "Ivar Display",
-          "type": "fontFamilies",
-          "filePath": "src/global.json",
-          "isSource": true,
-          "original": {
-            "value": "{fontFamilies.ivar-display}",
-            "type": "fontFamilies"
+      "lg": {
+        "display": {
+          "fontFamily": {
+            "value": "Ivar Display",
+            "type": "fontFamilies",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{fontFamilies.ivar-display}",
+              "type": "fontFamilies"
+            },
+            "name": "xyz_typography_ch_headings_lg_display_font_family",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "LG",
+              "subitem": "Display",
+              "state": "fontFamily"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "LG",
+              "Display",
+              "fontFamily"
+            ]
           },
-          "name": "mch_typography_editorial_quote_quote_xl_font_family",
-          "attributes": {
-            "category": "Typography",
-            "type": "Editorial Quote",
-            "item": "Quote - XL",
-            "subitem": "fontFamily"
+          "fontWeight": {
+            "value": "600",
+            "type": "fontWeights",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{fontWeights.ivar-display-3}",
+              "type": "fontWeights"
+            },
+            "name": "xyz_typography_ch_headings_lg_display_font_weight",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "LG",
+              "subitem": "Display",
+              "state": "fontWeight"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "LG",
+              "Display",
+              "fontWeight"
+            ]
           },
-          "path": [
-            "Typography",
-            "Editorial Quote",
-            "Quote - XL",
-            "fontFamily"
-          ]
+          "lineHeight": {
+            "value": "6.5rem",
+            "type": "lineHeights",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{lineHeights.22}",
+              "type": "lineHeights"
+            },
+            "name": "xyz_typography_ch_headings_lg_display_line_height",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "LG",
+              "subitem": "Display",
+              "state": "lineHeight"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "LG",
+              "Display",
+              "lineHeight"
+            ]
+          },
+          "fontSize": {
+            "value": "6.5rem",
+            "type": "fontSizes",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{fontSize.25}",
+              "type": "fontSizes"
+            },
+            "name": "xyz_typography_ch_headings_lg_display_font_size",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "LG",
+              "subitem": "Display",
+              "state": "fontSize"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "LG",
+              "Display",
+              "fontSize"
+            ]
+          },
+          "letterSpacing": {
+            "value": "0rem",
+            "type": "letterSpacing",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{letterSpacing.0}",
+              "type": "letterSpacing"
+            },
+            "name": "xyz_typography_ch_headings_lg_display_letter_spacing",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "LG",
+              "subitem": "Display",
+              "state": "letterSpacing"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "LG",
+              "Display",
+              "letterSpacing"
+            ]
+          },
+          "paragraphSpacing": {
+            "value": "0",
+            "type": "paragraphSpacing",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{paragraphSpacing.0}",
+              "type": "paragraphSpacing"
+            },
+            "name": "xyz_typography_ch_headings_lg_display_paragraph_spacing",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "LG",
+              "subitem": "Display",
+              "state": "paragraphSpacing"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "LG",
+              "Display",
+              "paragraphSpacing"
+            ]
+          },
+          "paragraphIndent": {
+            "value": 0,
+            "type": "paragraphIndent",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{paragraphIndent.0}",
+              "type": "paragraphIndent"
+            },
+            "name": "xyz_typography_ch_headings_lg_display_paragraph_indent",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "LG",
+              "subitem": "Display",
+              "state": "paragraphIndent"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "LG",
+              "Display",
+              "paragraphIndent"
+            ]
+          },
+          "textCase": {
+            "value": "none",
+            "type": "textCase",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{textCase.none}",
+              "type": "textCase"
+            },
+            "name": "xyz_typography_ch_headings_lg_display_text_case",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "LG",
+              "subitem": "Display",
+              "state": "textCase"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "LG",
+              "Display",
+              "textCase"
+            ]
+          },
+          "textDecoration": {
+            "value": "none",
+            "type": "textDecoration",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{textDecoration.none}",
+              "type": "textDecoration"
+            },
+            "name": "xyz_typography_ch_headings_lg_display_text_decoration",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "LG",
+              "subitem": "Display",
+              "state": "textDecoration"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "LG",
+              "Display",
+              "textDecoration"
+            ]
+          }
         },
-        "fontWeight": {
-          "value": "400",
-          "type": "fontWeights",
-          "filePath": "src/global.json",
-          "isSource": true,
-          "original": {
-            "value": "{fontWeights.ivar-display-4}",
-            "type": "fontWeights"
+        "h1": {
+          "fontFamily": {
+            "value": "Ivar Display",
+            "type": "fontFamilies",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{fontFamilies.ivar-display}",
+              "type": "fontFamilies"
+            },
+            "name": "xyz_typography_ch_headings_lg_h1_font_family",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "LG",
+              "subitem": "H1",
+              "state": "fontFamily"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "LG",
+              "H1",
+              "fontFamily"
+            ]
           },
-          "name": "mch_typography_editorial_quote_quote_xl_font_weight",
-          "attributes": {
-            "category": "Typography",
-            "type": "Editorial Quote",
-            "item": "Quote - XL",
-            "subitem": "fontWeight"
+          "fontWeight": {
+            "value": "600",
+            "type": "fontWeights",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{fontWeights.ivar-display-3}",
+              "type": "fontWeights"
+            },
+            "name": "xyz_typography_ch_headings_lg_h1_font_weight",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "LG",
+              "subitem": "H1",
+              "state": "fontWeight"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "LG",
+              "H1",
+              "fontWeight"
+            ]
           },
-          "path": [
-            "Typography",
-            "Editorial Quote",
-            "Quote - XL",
-            "fontWeight"
-          ]
+          "lineHeight": {
+            "value": "4.125rem",
+            "type": "lineHeights",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{lineHeights.23}",
+              "type": "lineHeights"
+            },
+            "name": "xyz_typography_ch_headings_lg_h1_line_height",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "LG",
+              "subitem": "H1",
+              "state": "lineHeight"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "LG",
+              "H1",
+              "lineHeight"
+            ]
+          },
+          "fontSize": {
+            "value": "4.125rem",
+            "type": "fontSizes",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{fontSize.21}",
+              "type": "fontSizes"
+            },
+            "name": "xyz_typography_ch_headings_lg_h1_font_size",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "LG",
+              "subitem": "H1",
+              "state": "fontSize"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "LG",
+              "H1",
+              "fontSize"
+            ]
+          },
+          "letterSpacing": {
+            "value": "0rem",
+            "type": "letterSpacing",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{letterSpacing.0}",
+              "type": "letterSpacing"
+            },
+            "name": "xyz_typography_ch_headings_lg_h1_letter_spacing",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "LG",
+              "subitem": "H1",
+              "state": "letterSpacing"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "LG",
+              "H1",
+              "letterSpacing"
+            ]
+          },
+          "paragraphSpacing": {
+            "value": "0",
+            "type": "paragraphSpacing",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{paragraphSpacing.0}",
+              "type": "paragraphSpacing"
+            },
+            "name": "xyz_typography_ch_headings_lg_h1_paragraph_spacing",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "LG",
+              "subitem": "H1",
+              "state": "paragraphSpacing"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "LG",
+              "H1",
+              "paragraphSpacing"
+            ]
+          },
+          "paragraphIndent": {
+            "value": 0,
+            "type": "paragraphIndent",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{paragraphIndent.0}",
+              "type": "paragraphIndent"
+            },
+            "name": "xyz_typography_ch_headings_lg_h1_paragraph_indent",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "LG",
+              "subitem": "H1",
+              "state": "paragraphIndent"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "LG",
+              "H1",
+              "paragraphIndent"
+            ]
+          },
+          "textCase": {
+            "value": "none",
+            "type": "textCase",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{textCase.none}",
+              "type": "textCase"
+            },
+            "name": "xyz_typography_ch_headings_lg_h1_text_case",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "LG",
+              "subitem": "H1",
+              "state": "textCase"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "LG",
+              "H1",
+              "textCase"
+            ]
+          },
+          "textDecoration": {
+            "value": "none",
+            "type": "textDecoration",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{textDecoration.none}",
+              "type": "textDecoration"
+            },
+            "name": "xyz_typography_ch_headings_lg_h1_text_decoration",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "LG",
+              "subitem": "H1",
+              "state": "textDecoration"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "LG",
+              "H1",
+              "textDecoration"
+            ]
+          }
         },
-        "lineHeight": {
-          "value": "3.125rem",
-          "type": "lineHeights",
-          "filePath": "src/global.json",
-          "isSource": true,
-          "original": {
-            "value": "{lineHeights.10}",
-            "type": "lineHeights"
+        "h2": {
+          "fontFamily": {
+            "value": "Ivar Display",
+            "type": "fontFamilies",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{fontFamilies.ivar-display}",
+              "type": "fontFamilies"
+            },
+            "name": "xyz_typography_ch_headings_lg_h2_font_family",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "LG",
+              "subitem": "H2",
+              "state": "fontFamily"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "LG",
+              "H2",
+              "fontFamily"
+            ]
           },
-          "name": "mch_typography_editorial_quote_quote_xl_line_height",
-          "attributes": {
-            "category": "Typography",
-            "type": "Editorial Quote",
-            "item": "Quote - XL",
-            "subitem": "lineHeight"
+          "fontWeight": {
+            "value": "600",
+            "type": "fontWeights",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{fontWeights.ivar-display-3}",
+              "type": "fontWeights"
+            },
+            "name": "xyz_typography_ch_headings_lg_h2_font_weight",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "LG",
+              "subitem": "H2",
+              "state": "fontWeight"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "LG",
+              "H2",
+              "fontWeight"
+            ]
           },
-          "path": [
-            "Typography",
-            "Editorial Quote",
-            "Quote - XL",
-            "lineHeight"
-          ]
+          "lineHeight": {
+            "value": "3.25rem",
+            "type": "lineHeights",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{lineHeights.24}",
+              "type": "lineHeights"
+            },
+            "name": "xyz_typography_ch_headings_lg_h2_line_height",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "LG",
+              "subitem": "H2",
+              "state": "lineHeight"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "LG",
+              "H2",
+              "lineHeight"
+            ]
+          },
+          "fontSize": {
+            "value": "3.25rem",
+            "type": "fontSizes",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{fontSize.18}",
+              "type": "fontSizes"
+            },
+            "name": "xyz_typography_ch_headings_lg_h2_font_size",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "LG",
+              "subitem": "H2",
+              "state": "fontSize"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "LG",
+              "H2",
+              "fontSize"
+            ]
+          },
+          "letterSpacing": {
+            "value": "0rem",
+            "type": "letterSpacing",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{letterSpacing.0}",
+              "type": "letterSpacing"
+            },
+            "name": "xyz_typography_ch_headings_lg_h2_letter_spacing",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "LG",
+              "subitem": "H2",
+              "state": "letterSpacing"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "LG",
+              "H2",
+              "letterSpacing"
+            ]
+          },
+          "paragraphSpacing": {
+            "value": "0",
+            "type": "paragraphSpacing",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{paragraphSpacing.0}",
+              "type": "paragraphSpacing"
+            },
+            "name": "xyz_typography_ch_headings_lg_h2_paragraph_spacing",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "LG",
+              "subitem": "H2",
+              "state": "paragraphSpacing"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "LG",
+              "H2",
+              "paragraphSpacing"
+            ]
+          },
+          "paragraphIndent": {
+            "value": 0,
+            "type": "paragraphIndent",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{paragraphIndent.0}",
+              "type": "paragraphIndent"
+            },
+            "name": "xyz_typography_ch_headings_lg_h2_paragraph_indent",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "LG",
+              "subitem": "H2",
+              "state": "paragraphIndent"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "LG",
+              "H2",
+              "paragraphIndent"
+            ]
+          },
+          "textCase": {
+            "value": "none",
+            "type": "textCase",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{textCase.none}",
+              "type": "textCase"
+            },
+            "name": "xyz_typography_ch_headings_lg_h2_text_case",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "LG",
+              "subitem": "H2",
+              "state": "textCase"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "LG",
+              "H2",
+              "textCase"
+            ]
+          },
+          "textDecoration": {
+            "value": "none",
+            "type": "textDecoration",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{textDecoration.none}",
+              "type": "textDecoration"
+            },
+            "name": "xyz_typography_ch_headings_lg_h2_text_decoration",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "LG",
+              "subitem": "H2",
+              "state": "textDecoration"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "LG",
+              "H2",
+              "textDecoration"
+            ]
+          }
         },
-        "fontSize": {
-          "value": "2.375rem",
-          "type": "fontSizes",
-          "filePath": "src/global.json",
-          "isSource": true,
-          "original": {
-            "value": "{fontSize.11}",
-            "type": "fontSizes"
+        "h3": {
+          "fontFamily": {
+            "value": "Ivar Display",
+            "type": "fontFamilies",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{fontFamilies.ivar-display}",
+              "type": "fontFamilies"
+            },
+            "name": "xyz_typography_ch_headings_lg_h3_font_family",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "LG",
+              "subitem": "H3",
+              "state": "fontFamily"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "LG",
+              "H3",
+              "fontFamily"
+            ]
           },
-          "name": "mch_typography_editorial_quote_quote_xl_font_size",
-          "attributes": {
-            "category": "Typography",
-            "type": "Editorial Quote",
-            "item": "Quote - XL",
-            "subitem": "fontSize"
+          "fontWeight": {
+            "value": "600",
+            "type": "fontWeights",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{fontWeights.ivar-display-3}",
+              "type": "fontWeights"
+            },
+            "name": "xyz_typography_ch_headings_lg_h3_font_weight",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "LG",
+              "subitem": "H3",
+              "state": "fontWeight"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "LG",
+              "H3",
+              "fontWeight"
+            ]
           },
-          "path": [
-            "Typography",
-            "Editorial Quote",
-            "Quote - XL",
-            "fontSize"
-          ]
+          "lineHeight": {
+            "value": "2.625rem",
+            "type": "lineHeights",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{lineHeights.6}",
+              "type": "lineHeights"
+            },
+            "name": "xyz_typography_ch_headings_lg_h3_line_height",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "LG",
+              "subitem": "H3",
+              "state": "lineHeight"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "LG",
+              "H3",
+              "lineHeight"
+            ]
+          },
+          "fontSize": {
+            "value": "2.5rem",
+            "type": "fontSizes",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{fontSize.12}",
+              "type": "fontSizes"
+            },
+            "name": "xyz_typography_ch_headings_lg_h3_font_size",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "LG",
+              "subitem": "H3",
+              "state": "fontSize"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "LG",
+              "H3",
+              "fontSize"
+            ]
+          },
+          "letterSpacing": {
+            "value": "0rem",
+            "type": "letterSpacing",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{letterSpacing.0}",
+              "type": "letterSpacing"
+            },
+            "name": "xyz_typography_ch_headings_lg_h3_letter_spacing",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "LG",
+              "subitem": "H3",
+              "state": "letterSpacing"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "LG",
+              "H3",
+              "letterSpacing"
+            ]
+          },
+          "paragraphSpacing": {
+            "value": "0",
+            "type": "paragraphSpacing",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{paragraphSpacing.0}",
+              "type": "paragraphSpacing"
+            },
+            "name": "xyz_typography_ch_headings_lg_h3_paragraph_spacing",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "LG",
+              "subitem": "H3",
+              "state": "paragraphSpacing"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "LG",
+              "H3",
+              "paragraphSpacing"
+            ]
+          },
+          "paragraphIndent": {
+            "value": 0,
+            "type": "paragraphIndent",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{paragraphIndent.0}",
+              "type": "paragraphIndent"
+            },
+            "name": "xyz_typography_ch_headings_lg_h3_paragraph_indent",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "LG",
+              "subitem": "H3",
+              "state": "paragraphIndent"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "LG",
+              "H3",
+              "paragraphIndent"
+            ]
+          },
+          "textCase": {
+            "value": "none",
+            "type": "textCase",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{textCase.none}",
+              "type": "textCase"
+            },
+            "name": "xyz_typography_ch_headings_lg_h3_text_case",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "LG",
+              "subitem": "H3",
+              "state": "textCase"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "LG",
+              "H3",
+              "textCase"
+            ]
+          },
+          "textDecoration": {
+            "value": "none",
+            "type": "textDecoration",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{textDecoration.none}",
+              "type": "textDecoration"
+            },
+            "name": "xyz_typography_ch_headings_lg_h3_text_decoration",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "LG",
+              "subitem": "H3",
+              "state": "textDecoration"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "LG",
+              "H3",
+              "textDecoration"
+            ]
+          }
         },
-        "letterSpacing": {
-          "value": "0.5%",
-          "type": "letterSpacing",
-          "filePath": "src/global.json",
-          "isSource": true,
-          "original": {
-            "value": "{letterSpacing.5}",
-            "type": "letterSpacing"
+        "h4": {
+          "fontFamily": {
+            "value": "Ivar Display",
+            "type": "fontFamilies",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{fontFamilies.ivar-display}",
+              "type": "fontFamilies"
+            },
+            "name": "xyz_typography_ch_headings_lg_h4_font_family",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "LG",
+              "subitem": "H4",
+              "state": "fontFamily"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "LG",
+              "H4",
+              "fontFamily"
+            ]
           },
-          "name": "mch_typography_editorial_quote_quote_xl_letter_spacing",
-          "attributes": {
-            "category": "Typography",
-            "type": "Editorial Quote",
-            "item": "Quote - XL",
-            "subitem": "letterSpacing"
+          "fontWeight": {
+            "value": "600",
+            "type": "fontWeights",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{fontWeights.ivar-display-3}",
+              "type": "fontWeights"
+            },
+            "name": "xyz_typography_ch_headings_lg_h4_font_weight",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "LG",
+              "subitem": "H4",
+              "state": "fontWeight"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "LG",
+              "H4",
+              "fontWeight"
+            ]
           },
-          "path": [
-            "Typography",
-            "Editorial Quote",
-            "Quote - XL",
-            "letterSpacing"
-          ]
+          "lineHeight": {
+            "value": "2rem",
+            "type": "lineHeights",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{lineHeights.16}",
+              "type": "lineHeights"
+            },
+            "name": "xyz_typography_ch_headings_lg_h4_line_height",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "LG",
+              "subitem": "H4",
+              "state": "lineHeight"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "LG",
+              "H4",
+              "lineHeight"
+            ]
+          },
+          "fontSize": {
+            "value": "1.75rem",
+            "type": "fontSizes",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{fontSize.15}",
+              "type": "fontSizes"
+            },
+            "name": "xyz_typography_ch_headings_lg_h4_font_size",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "LG",
+              "subitem": "H4",
+              "state": "fontSize"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "LG",
+              "H4",
+              "fontSize"
+            ]
+          },
+          "letterSpacing": {
+            "value": "0rem",
+            "type": "letterSpacing",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{letterSpacing.0}",
+              "type": "letterSpacing"
+            },
+            "name": "xyz_typography_ch_headings_lg_h4_letter_spacing",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "LG",
+              "subitem": "H4",
+              "state": "letterSpacing"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "LG",
+              "H4",
+              "letterSpacing"
+            ]
+          },
+          "paragraphSpacing": {
+            "value": "0",
+            "type": "paragraphSpacing",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{paragraphSpacing.0}",
+              "type": "paragraphSpacing"
+            },
+            "name": "xyz_typography_ch_headings_lg_h4_paragraph_spacing",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "LG",
+              "subitem": "H4",
+              "state": "paragraphSpacing"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "LG",
+              "H4",
+              "paragraphSpacing"
+            ]
+          },
+          "paragraphIndent": {
+            "value": 0,
+            "type": "paragraphIndent",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{paragraphIndent.0}",
+              "type": "paragraphIndent"
+            },
+            "name": "xyz_typography_ch_headings_lg_h4_paragraph_indent",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "LG",
+              "subitem": "H4",
+              "state": "paragraphIndent"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "LG",
+              "H4",
+              "paragraphIndent"
+            ]
+          },
+          "textCase": {
+            "value": "none",
+            "type": "textCase",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{textCase.none}",
+              "type": "textCase"
+            },
+            "name": "xyz_typography_ch_headings_lg_h4_text_case",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "LG",
+              "subitem": "H4",
+              "state": "textCase"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "LG",
+              "H4",
+              "textCase"
+            ]
+          },
+          "textDecoration": {
+            "value": "none",
+            "type": "textDecoration",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{textDecoration.none}",
+              "type": "textDecoration"
+            },
+            "name": "xyz_typography_ch_headings_lg_h4_text_decoration",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "LG",
+              "subitem": "H4",
+              "state": "textDecoration"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "LG",
+              "H4",
+              "textDecoration"
+            ]
+          }
         },
-        "paragraphSpacing": {
-          "value": "4",
-          "type": "paragraphSpacing",
-          "filePath": "src/global.json",
-          "isSource": true,
-          "original": {
-            "value": "{paragraphSpacing.1}",
-            "type": "paragraphSpacing"
+        "h5": {
+          "fontFamily": {
+            "value": "Ivar Display",
+            "type": "fontFamilies",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{fontFamilies.ivar-display}",
+              "type": "fontFamilies"
+            },
+            "name": "xyz_typography_ch_headings_lg_h5_font_family",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "LG",
+              "subitem": "H5",
+              "state": "fontFamily"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "LG",
+              "H5",
+              "fontFamily"
+            ]
           },
-          "name": "mch_typography_editorial_quote_quote_xl_paragraph_spacing",
-          "attributes": {
-            "category": "Typography",
-            "type": "Editorial Quote",
-            "item": "Quote - XL",
-            "subitem": "paragraphSpacing"
+          "fontWeight": {
+            "value": "600",
+            "type": "fontWeights",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{fontWeights.ivar-display-3}",
+              "type": "fontWeights"
+            },
+            "name": "xyz_typography_ch_headings_lg_h5_font_weight",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "LG",
+              "subitem": "H5",
+              "state": "fontWeight"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "LG",
+              "H5",
+              "fontWeight"
+            ]
           },
-          "path": [
-            "Typography",
-            "Editorial Quote",
-            "Quote - XL",
-            "paragraphSpacing"
-          ]
-        },
-        "paragraphIndent": {
-          "value": 0,
-          "type": "paragraphIndent",
-          "filePath": "src/global.json",
-          "isSource": true,
-          "original": {
-            "value": "{paragraphIndent.0}",
-            "type": "paragraphIndent"
+          "lineHeight": {
+            "value": "1.5rem",
+            "type": "lineHeights",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{lineHeights.12}",
+              "type": "lineHeights"
+            },
+            "name": "xyz_typography_ch_headings_lg_h5_line_height",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "LG",
+              "subitem": "H5",
+              "state": "lineHeight"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "LG",
+              "H5",
+              "lineHeight"
+            ]
           },
-          "name": "mch_typography_editorial_quote_quote_xl_paragraph_indent",
-          "attributes": {
-            "category": "Typography",
-            "type": "Editorial Quote",
-            "item": "Quote - XL",
-            "subitem": "paragraphIndent"
+          "fontSize": {
+            "value": "1.25rem",
+            "type": "fontSizes",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{fontSize.4}",
+              "type": "fontSizes"
+            },
+            "name": "xyz_typography_ch_headings_lg_h5_font_size",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "LG",
+              "subitem": "H5",
+              "state": "fontSize"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "LG",
+              "H5",
+              "fontSize"
+            ]
           },
-          "path": [
-            "Typography",
-            "Editorial Quote",
-            "Quote - XL",
-            "paragraphIndent"
-          ]
-        },
-        "textCase": {
-          "value": "none",
-          "type": "textCase",
-          "filePath": "src/global.json",
-          "isSource": true,
-          "original": {
-            "value": "{textCase.none}",
-            "type": "textCase"
+          "letterSpacing": {
+            "value": "0rem",
+            "type": "letterSpacing",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{letterSpacing.0}",
+              "type": "letterSpacing"
+            },
+            "name": "xyz_typography_ch_headings_lg_h5_letter_spacing",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "LG",
+              "subitem": "H5",
+              "state": "letterSpacing"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "LG",
+              "H5",
+              "letterSpacing"
+            ]
           },
-          "name": "mch_typography_editorial_quote_quote_xl_text_case",
-          "attributes": {
-            "category": "Typography",
-            "type": "Editorial Quote",
-            "item": "Quote - XL",
-            "subitem": "textCase"
+          "paragraphSpacing": {
+            "value": "0",
+            "type": "paragraphSpacing",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{paragraphSpacing.0}",
+              "type": "paragraphSpacing"
+            },
+            "name": "xyz_typography_ch_headings_lg_h5_paragraph_spacing",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "LG",
+              "subitem": "H5",
+              "state": "paragraphSpacing"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "LG",
+              "H5",
+              "paragraphSpacing"
+            ]
           },
-          "path": [
-            "Typography",
-            "Editorial Quote",
-            "Quote - XL",
-            "textCase"
-          ]
-        },
-        "textDecoration": {
-          "value": "none",
-          "type": "textDecoration",
-          "filePath": "src/global.json",
-          "isSource": true,
-          "original": {
-            "value": "{textDecoration.none}",
-            "type": "textDecoration"
+          "paragraphIndent": {
+            "value": 0,
+            "type": "paragraphIndent",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{paragraphIndent.0}",
+              "type": "paragraphIndent"
+            },
+            "name": "xyz_typography_ch_headings_lg_h5_paragraph_indent",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "LG",
+              "subitem": "H5",
+              "state": "paragraphIndent"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "LG",
+              "H5",
+              "paragraphIndent"
+            ]
           },
-          "name": "mch_typography_editorial_quote_quote_xl_text_decoration",
-          "attributes": {
-            "category": "Typography",
-            "type": "Editorial Quote",
-            "item": "Quote - XL",
-            "subitem": "textDecoration"
+          "textCase": {
+            "value": "none",
+            "type": "textCase",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{textCase.none}",
+              "type": "textCase"
+            },
+            "name": "xyz_typography_ch_headings_lg_h5_text_case",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "LG",
+              "subitem": "H5",
+              "state": "textCase"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "LG",
+              "H5",
+              "textCase"
+            ]
           },
-          "path": [
-            "Typography",
-            "Editorial Quote",
-            "Quote - XL",
-            "textDecoration"
-          ]
+          "textDecoration": {
+            "value": "none",
+            "type": "textDecoration",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{textDecoration.none}",
+              "type": "textDecoration"
+            },
+            "name": "xyz_typography_ch_headings_lg_h5_text_decoration",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "LG",
+              "subitem": "H5",
+              "state": "textDecoration"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "LG",
+              "H5",
+              "textDecoration"
+            ]
+          }
         }
       },
-      "Quote - LG": {
-        "fontFamily": {
-          "value": "Ivar Display",
-          "type": "fontFamilies",
-          "filePath": "src/global.json",
-          "isSource": true,
-          "original": {
-            "value": "{fontFamilies.ivar-display}",
-            "type": "fontFamilies"
+      "md": {
+        "display": {
+          "fontFamily": {
+            "value": "Ivar Display",
+            "type": "fontFamilies",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{fontFamilies.ivar-display}",
+              "type": "fontFamilies"
+            },
+            "name": "xyz_typography_ch_headings_md_display_font_family",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "MD",
+              "subitem": "Display",
+              "state": "fontFamily"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "MD",
+              "Display",
+              "fontFamily"
+            ]
           },
-          "name": "mch_typography_editorial_quote_quote_lg_font_family",
-          "attributes": {
-            "category": "Typography",
-            "type": "Editorial Quote",
-            "item": "Quote - LG",
-            "subitem": "fontFamily"
+          "fontWeight": {
+            "value": "600",
+            "type": "fontWeights",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{fontWeights.ivar-display-3}",
+              "type": "fontWeights"
+            },
+            "name": "xyz_typography_ch_headings_md_display_font_weight",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "MD",
+              "subitem": "Display",
+              "state": "fontWeight"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "MD",
+              "Display",
+              "fontWeight"
+            ]
           },
-          "path": [
-            "Typography",
-            "Editorial Quote",
-            "Quote - LG",
-            "fontFamily"
-          ]
+          "lineHeight": {
+            "value": "5.5rem",
+            "type": "lineHeights",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{lineHeights.25}",
+              "type": "lineHeights"
+            },
+            "name": "xyz_typography_ch_headings_md_display_line_height",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "MD",
+              "subitem": "Display",
+              "state": "lineHeight"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "MD",
+              "Display",
+              "lineHeight"
+            ]
+          },
+          "fontSize": {
+            "value": "5.5rem",
+            "type": "fontSizes",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{fontSize.24}",
+              "type": "fontSizes"
+            },
+            "name": "xyz_typography_ch_headings_md_display_font_size",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "MD",
+              "subitem": "Display",
+              "state": "fontSize"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "MD",
+              "Display",
+              "fontSize"
+            ]
+          },
+          "letterSpacing": {
+            "value": "0rem",
+            "type": "letterSpacing",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{letterSpacing.0}",
+              "type": "letterSpacing"
+            },
+            "name": "xyz_typography_ch_headings_md_display_letter_spacing",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "MD",
+              "subitem": "Display",
+              "state": "letterSpacing"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "MD",
+              "Display",
+              "letterSpacing"
+            ]
+          },
+          "paragraphSpacing": {
+            "value": "0",
+            "type": "paragraphSpacing",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{paragraphSpacing.0}",
+              "type": "paragraphSpacing"
+            },
+            "name": "xyz_typography_ch_headings_md_display_paragraph_spacing",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "MD",
+              "subitem": "Display",
+              "state": "paragraphSpacing"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "MD",
+              "Display",
+              "paragraphSpacing"
+            ]
+          },
+          "paragraphIndent": {
+            "value": 0,
+            "type": "paragraphIndent",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{paragraphIndent.0}",
+              "type": "paragraphIndent"
+            },
+            "name": "xyz_typography_ch_headings_md_display_paragraph_indent",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "MD",
+              "subitem": "Display",
+              "state": "paragraphIndent"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "MD",
+              "Display",
+              "paragraphIndent"
+            ]
+          },
+          "textCase": {
+            "value": "none",
+            "type": "textCase",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{textCase.none}",
+              "type": "textCase"
+            },
+            "name": "xyz_typography_ch_headings_md_display_text_case",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "MD",
+              "subitem": "Display",
+              "state": "textCase"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "MD",
+              "Display",
+              "textCase"
+            ]
+          },
+          "textDecoration": {
+            "value": "none",
+            "type": "textDecoration",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{textDecoration.none}",
+              "type": "textDecoration"
+            },
+            "name": "xyz_typography_ch_headings_md_display_text_decoration",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "MD",
+              "subitem": "Display",
+              "state": "textDecoration"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "MD",
+              "Display",
+              "textDecoration"
+            ]
+          }
         },
-        "fontWeight": {
-          "value": "400",
-          "type": "fontWeights",
-          "filePath": "src/global.json",
-          "isSource": true,
-          "original": {
-            "value": "{fontWeights.ivar-display-4}",
-            "type": "fontWeights"
+        "h1": {
+          "fontFamily": {
+            "value": "Ivar Display",
+            "type": "fontFamilies",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{fontFamilies.ivar-display}",
+              "type": "fontFamilies"
+            },
+            "name": "xyz_typography_ch_headings_md_h1_font_family",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "MD",
+              "subitem": "H1",
+              "state": "fontFamily"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "MD",
+              "H1",
+              "fontFamily"
+            ]
           },
-          "name": "mch_typography_editorial_quote_quote_lg_font_weight",
-          "attributes": {
-            "category": "Typography",
-            "type": "Editorial Quote",
-            "item": "Quote - LG",
-            "subitem": "fontWeight"
+          "fontWeight": {
+            "value": "600",
+            "type": "fontWeights",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{fontWeights.ivar-display-3}",
+              "type": "fontWeights"
+            },
+            "name": "xyz_typography_ch_headings_md_h1_font_weight",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "MD",
+              "subitem": "H1",
+              "state": "fontWeight"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "MD",
+              "H1",
+              "fontWeight"
+            ]
           },
-          "path": [
-            "Typography",
-            "Editorial Quote",
-            "Quote - LG",
-            "fontWeight"
-          ]
+          "lineHeight": {
+            "value": "3.625rem",
+            "type": "lineHeights",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{lineHeights.26}",
+              "type": "lineHeights"
+            },
+            "name": "xyz_typography_ch_headings_md_h1_line_height",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "MD",
+              "subitem": "H1",
+              "state": "lineHeight"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "MD",
+              "H1",
+              "lineHeight"
+            ]
+          },
+          "fontSize": {
+            "value": "3.625rem",
+            "type": "fontSizes",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{fontSize.19}",
+              "type": "fontSizes"
+            },
+            "name": "xyz_typography_ch_headings_md_h1_font_size",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "MD",
+              "subitem": "H1",
+              "state": "fontSize"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "MD",
+              "H1",
+              "fontSize"
+            ]
+          },
+          "letterSpacing": {
+            "value": "0rem",
+            "type": "letterSpacing",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{letterSpacing.0}",
+              "type": "letterSpacing"
+            },
+            "name": "xyz_typography_ch_headings_md_h1_letter_spacing",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "MD",
+              "subitem": "H1",
+              "state": "letterSpacing"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "MD",
+              "H1",
+              "letterSpacing"
+            ]
+          },
+          "paragraphSpacing": {
+            "value": "0",
+            "type": "paragraphSpacing",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{paragraphSpacing.0}",
+              "type": "paragraphSpacing"
+            },
+            "name": "xyz_typography_ch_headings_md_h1_paragraph_spacing",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "MD",
+              "subitem": "H1",
+              "state": "paragraphSpacing"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "MD",
+              "H1",
+              "paragraphSpacing"
+            ]
+          },
+          "paragraphIndent": {
+            "value": 0,
+            "type": "paragraphIndent",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{paragraphIndent.0}",
+              "type": "paragraphIndent"
+            },
+            "name": "xyz_typography_ch_headings_md_h1_paragraph_indent",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "MD",
+              "subitem": "H1",
+              "state": "paragraphIndent"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "MD",
+              "H1",
+              "paragraphIndent"
+            ]
+          },
+          "textCase": {
+            "value": "none",
+            "type": "textCase",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{textCase.none}",
+              "type": "textCase"
+            },
+            "name": "xyz_typography_ch_headings_md_h1_text_case",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "MD",
+              "subitem": "H1",
+              "state": "textCase"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "MD",
+              "H1",
+              "textCase"
+            ]
+          },
+          "textDecoration": {
+            "value": "none",
+            "type": "textDecoration",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{textDecoration.none}",
+              "type": "textDecoration"
+            },
+            "name": "xyz_typography_ch_headings_md_h1_text_decoration",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "MD",
+              "subitem": "H1",
+              "state": "textDecoration"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "MD",
+              "H1",
+              "textDecoration"
+            ]
+          }
         },
-        "lineHeight": {
-          "value": "3rem",
-          "type": "lineHeights",
-          "filePath": "src/global.json",
-          "isSource": true,
-          "original": {
-            "value": "{lineHeights.5}",
-            "type": "lineHeights"
+        "h2": {
+          "fontFamily": {
+            "value": "Ivar Display",
+            "type": "fontFamilies",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{fontFamilies.ivar-display}",
+              "type": "fontFamilies"
+            },
+            "name": "xyz_typography_ch_headings_md_h2_font_family",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "MD",
+              "subitem": "H2",
+              "state": "fontFamily"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "MD",
+              "H2",
+              "fontFamily"
+            ]
           },
-          "name": "mch_typography_editorial_quote_quote_lg_line_height",
-          "attributes": {
-            "category": "Typography",
-            "type": "Editorial Quote",
-            "item": "Quote - LG",
-            "subitem": "lineHeight"
+          "fontWeight": {
+            "value": "600",
+            "type": "fontWeights",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{fontWeights.ivar-display-3}",
+              "type": "fontWeights"
+            },
+            "name": "xyz_typography_ch_headings_md_h2_font_weight",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "MD",
+              "subitem": "H2",
+              "state": "fontWeight"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "MD",
+              "H2",
+              "fontWeight"
+            ]
           },
-          "path": [
-            "Typography",
-            "Editorial Quote",
-            "Quote - LG",
-            "lineHeight"
-          ]
+          "lineHeight": {
+            "value": "2.875rem",
+            "type": "lineHeights",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{lineHeights.9}",
+              "type": "lineHeights"
+            },
+            "name": "xyz_typography_ch_headings_md_h2_line_height",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "MD",
+              "subitem": "H2",
+              "state": "lineHeight"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "MD",
+              "H2",
+              "lineHeight"
+            ]
+          },
+          "fontSize": {
+            "value": "2.875rem",
+            "type": "fontSizes",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{fontSize.17}",
+              "type": "fontSizes"
+            },
+            "name": "xyz_typography_ch_headings_md_h2_font_size",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "MD",
+              "subitem": "H2",
+              "state": "fontSize"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "MD",
+              "H2",
+              "fontSize"
+            ]
+          },
+          "letterSpacing": {
+            "value": "0rem",
+            "type": "letterSpacing",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{letterSpacing.0}",
+              "type": "letterSpacing"
+            },
+            "name": "xyz_typography_ch_headings_md_h2_letter_spacing",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "MD",
+              "subitem": "H2",
+              "state": "letterSpacing"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "MD",
+              "H2",
+              "letterSpacing"
+            ]
+          },
+          "paragraphSpacing": {
+            "value": "0",
+            "type": "paragraphSpacing",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{paragraphSpacing.0}",
+              "type": "paragraphSpacing"
+            },
+            "name": "xyz_typography_ch_headings_md_h2_paragraph_spacing",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "MD",
+              "subitem": "H2",
+              "state": "paragraphSpacing"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "MD",
+              "H2",
+              "paragraphSpacing"
+            ]
+          },
+          "paragraphIndent": {
+            "value": 0,
+            "type": "paragraphIndent",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{paragraphIndent.0}",
+              "type": "paragraphIndent"
+            },
+            "name": "xyz_typography_ch_headings_md_h2_paragraph_indent",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "MD",
+              "subitem": "H2",
+              "state": "paragraphIndent"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "MD",
+              "H2",
+              "paragraphIndent"
+            ]
+          },
+          "textCase": {
+            "value": "none",
+            "type": "textCase",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{textCase.none}",
+              "type": "textCase"
+            },
+            "name": "xyz_typography_ch_headings_md_h2_text_case",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "MD",
+              "subitem": "H2",
+              "state": "textCase"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "MD",
+              "H2",
+              "textCase"
+            ]
+          },
+          "textDecoration": {
+            "value": "none",
+            "type": "textDecoration",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{textDecoration.none}",
+              "type": "textDecoration"
+            },
+            "name": "xyz_typography_ch_headings_md_h2_text_decoration",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "MD",
+              "subitem": "H2",
+              "state": "textDecoration"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "MD",
+              "H2",
+              "textDecoration"
+            ]
+          }
         },
-        "fontSize": {
-          "value": "2.25rem",
-          "type": "fontSizes",
-          "filePath": "src/global.json",
-          "isSource": true,
-          "original": {
-            "value": "{fontSize.10}",
-            "type": "fontSizes"
+        "h3": {
+          "fontFamily": {
+            "value": "Ivar Display",
+            "type": "fontFamilies",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{fontFamilies.ivar-display}",
+              "type": "fontFamilies"
+            },
+            "name": "xyz_typography_ch_headings_md_h3_font_family",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "MD",
+              "subitem": "H3",
+              "state": "fontFamily"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "MD",
+              "H3",
+              "fontFamily"
+            ]
           },
-          "name": "mch_typography_editorial_quote_quote_lg_font_size",
-          "attributes": {
-            "category": "Typography",
-            "type": "Editorial Quote",
-            "item": "Quote - LG",
-            "subitem": "fontSize"
+          "fontWeight": {
+            "value": "600",
+            "type": "fontWeights",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{fontWeights.ivar-display-3}",
+              "type": "fontWeights"
+            },
+            "name": "xyz_typography_ch_headings_md_h3_font_weight",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "MD",
+              "subitem": "H3",
+              "state": "fontWeight"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "MD",
+              "H3",
+              "fontWeight"
+            ]
           },
-          "path": [
-            "Typography",
-            "Editorial Quote",
-            "Quote - LG",
-            "fontSize"
-          ]
+          "lineHeight": {
+            "value": "2.25rem",
+            "type": "lineHeights",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{lineHeights.19}",
+              "type": "lineHeights"
+            },
+            "name": "xyz_typography_ch_headings_md_h3_line_height",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "MD",
+              "subitem": "H3",
+              "state": "lineHeight"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "MD",
+              "H3",
+              "lineHeight"
+            ]
+          },
+          "fontSize": {
+            "value": "2.125rem",
+            "type": "fontSizes",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{fontSize.9}",
+              "type": "fontSizes"
+            },
+            "name": "xyz_typography_ch_headings_md_h3_font_size",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "MD",
+              "subitem": "H3",
+              "state": "fontSize"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "MD",
+              "H3",
+              "fontSize"
+            ]
+          },
+          "letterSpacing": {
+            "value": "0rem",
+            "type": "letterSpacing",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{letterSpacing.0}",
+              "type": "letterSpacing"
+            },
+            "name": "xyz_typography_ch_headings_md_h3_letter_spacing",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "MD",
+              "subitem": "H3",
+              "state": "letterSpacing"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "MD",
+              "H3",
+              "letterSpacing"
+            ]
+          },
+          "paragraphSpacing": {
+            "value": "0",
+            "type": "paragraphSpacing",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{paragraphSpacing.0}",
+              "type": "paragraphSpacing"
+            },
+            "name": "xyz_typography_ch_headings_md_h3_paragraph_spacing",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "MD",
+              "subitem": "H3",
+              "state": "paragraphSpacing"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "MD",
+              "H3",
+              "paragraphSpacing"
+            ]
+          },
+          "paragraphIndent": {
+            "value": 0,
+            "type": "paragraphIndent",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{paragraphIndent.0}",
+              "type": "paragraphIndent"
+            },
+            "name": "xyz_typography_ch_headings_md_h3_paragraph_indent",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "MD",
+              "subitem": "H3",
+              "state": "paragraphIndent"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "MD",
+              "H3",
+              "paragraphIndent"
+            ]
+          },
+          "textCase": {
+            "value": "none",
+            "type": "textCase",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{textCase.none}",
+              "type": "textCase"
+            },
+            "name": "xyz_typography_ch_headings_md_h3_text_case",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "MD",
+              "subitem": "H3",
+              "state": "textCase"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "MD",
+              "H3",
+              "textCase"
+            ]
+          },
+          "textDecoration": {
+            "value": "none",
+            "type": "textDecoration",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{textDecoration.none}",
+              "type": "textDecoration"
+            },
+            "name": "xyz_typography_ch_headings_md_h3_text_decoration",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "MD",
+              "subitem": "H3",
+              "state": "textDecoration"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "MD",
+              "H3",
+              "textDecoration"
+            ]
+          }
         },
-        "letterSpacing": {
-          "value": "0%",
-          "type": "letterSpacing",
-          "filePath": "src/global.json",
-          "isSource": true,
-          "original": {
-            "value": "{letterSpacing.1}",
-            "type": "letterSpacing"
+        "h4": {
+          "fontFamily": {
+            "value": "Ivar Display",
+            "type": "fontFamilies",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{fontFamilies.ivar-display}",
+              "type": "fontFamilies"
+            },
+            "name": "xyz_typography_ch_headings_md_h4_font_family",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "MD",
+              "subitem": "H4",
+              "state": "fontFamily"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "MD",
+              "H4",
+              "fontFamily"
+            ]
           },
-          "name": "mch_typography_editorial_quote_quote_lg_letter_spacing",
-          "attributes": {
-            "category": "Typography",
-            "type": "Editorial Quote",
-            "item": "Quote - LG",
-            "subitem": "letterSpacing"
+          "fontWeight": {
+            "value": "600",
+            "type": "fontWeights",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{fontWeights.ivar-display-3}",
+              "type": "fontWeights"
+            },
+            "name": "xyz_typography_ch_headings_md_h4_font_weight",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "MD",
+              "subitem": "H4",
+              "state": "fontWeight"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "MD",
+              "H4",
+              "fontWeight"
+            ]
           },
-          "path": [
-            "Typography",
-            "Editorial Quote",
-            "Quote - LG",
-            "letterSpacing"
-          ]
+          "lineHeight": {
+            "value": "1.75rem",
+            "type": "lineHeights",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{lineHeights.2}",
+              "type": "lineHeights"
+            },
+            "name": "xyz_typography_ch_headings_md_h4_line_height",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "MD",
+              "subitem": "H4",
+              "state": "lineHeight"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "MD",
+              "H4",
+              "lineHeight"
+            ]
+          },
+          "fontSize": {
+            "value": "1.5rem",
+            "type": "fontSizes",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{fontSize.5}",
+              "type": "fontSizes"
+            },
+            "name": "xyz_typography_ch_headings_md_h4_font_size",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "MD",
+              "subitem": "H4",
+              "state": "fontSize"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "MD",
+              "H4",
+              "fontSize"
+            ]
+          },
+          "letterSpacing": {
+            "value": "0rem",
+            "type": "letterSpacing",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{letterSpacing.0}",
+              "type": "letterSpacing"
+            },
+            "name": "xyz_typography_ch_headings_md_h4_letter_spacing",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "MD",
+              "subitem": "H4",
+              "state": "letterSpacing"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "MD",
+              "H4",
+              "letterSpacing"
+            ]
+          },
+          "paragraphSpacing": {
+            "value": "0",
+            "type": "paragraphSpacing",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{paragraphSpacing.0}",
+              "type": "paragraphSpacing"
+            },
+            "name": "xyz_typography_ch_headings_md_h4_paragraph_spacing",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "MD",
+              "subitem": "H4",
+              "state": "paragraphSpacing"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "MD",
+              "H4",
+              "paragraphSpacing"
+            ]
+          },
+          "paragraphIndent": {
+            "value": 0,
+            "type": "paragraphIndent",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{paragraphIndent.0}",
+              "type": "paragraphIndent"
+            },
+            "name": "xyz_typography_ch_headings_md_h4_paragraph_indent",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "MD",
+              "subitem": "H4",
+              "state": "paragraphIndent"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "MD",
+              "H4",
+              "paragraphIndent"
+            ]
+          },
+          "textCase": {
+            "value": "none",
+            "type": "textCase",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{textCase.none}",
+              "type": "textCase"
+            },
+            "name": "xyz_typography_ch_headings_md_h4_text_case",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "MD",
+              "subitem": "H4",
+              "state": "textCase"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "MD",
+              "H4",
+              "textCase"
+            ]
+          },
+          "textDecoration": {
+            "value": "none",
+            "type": "textDecoration",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{textDecoration.none}",
+              "type": "textDecoration"
+            },
+            "name": "xyz_typography_ch_headings_md_h4_text_decoration",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "MD",
+              "subitem": "H4",
+              "state": "textDecoration"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "MD",
+              "H4",
+              "textDecoration"
+            ]
+          }
         },
-        "paragraphSpacing": {
-          "value": "0",
-          "type": "paragraphSpacing",
-          "filePath": "src/global.json",
-          "isSource": true,
-          "original": {
-            "value": "{paragraphSpacing.0}",
-            "type": "paragraphSpacing"
+        "h5": {
+          "fontFamily": {
+            "value": "Ivar Display",
+            "type": "fontFamilies",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{fontFamilies.ivar-display}",
+              "type": "fontFamilies"
+            },
+            "name": "xyz_typography_ch_headings_md_h5_font_family",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "MD",
+              "subitem": "H5",
+              "state": "fontFamily"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "MD",
+              "H5",
+              "fontFamily"
+            ]
           },
-          "name": "mch_typography_editorial_quote_quote_lg_paragraph_spacing",
-          "attributes": {
-            "category": "Typography",
-            "type": "Editorial Quote",
-            "item": "Quote - LG",
-            "subitem": "paragraphSpacing"
+          "fontWeight": {
+            "value": "600",
+            "type": "fontWeights",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{fontWeights.ivar-display-3}",
+              "type": "fontWeights"
+            },
+            "name": "xyz_typography_ch_headings_md_h5_font_weight",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "MD",
+              "subitem": "H5",
+              "state": "fontWeight"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "MD",
+              "H5",
+              "fontWeight"
+            ]
           },
-          "path": [
-            "Typography",
-            "Editorial Quote",
-            "Quote - LG",
-            "paragraphSpacing"
-          ]
-        },
-        "paragraphIndent": {
-          "value": 0,
-          "type": "paragraphIndent",
-          "filePath": "src/global.json",
-          "isSource": true,
-          "original": {
-            "value": "{paragraphIndent.0}",
-            "type": "paragraphIndent"
+          "lineHeight": {
+            "value": "1.375rem",
+            "type": "lineHeights",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{lineHeights.13}",
+              "type": "lineHeights"
+            },
+            "name": "xyz_typography_ch_headings_md_h5_line_height",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "MD",
+              "subitem": "H5",
+              "state": "lineHeight"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "MD",
+              "H5",
+              "lineHeight"
+            ]
           },
-          "name": "mch_typography_editorial_quote_quote_lg_paragraph_indent",
-          "attributes": {
-            "category": "Typography",
-            "type": "Editorial Quote",
-            "item": "Quote - LG",
-            "subitem": "paragraphIndent"
+          "fontSize": {
+            "value": "1.125rem",
+            "type": "fontSizes",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{fontSize.3}",
+              "type": "fontSizes"
+            },
+            "name": "xyz_typography_ch_headings_md_h5_font_size",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "MD",
+              "subitem": "H5",
+              "state": "fontSize"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "MD",
+              "H5",
+              "fontSize"
+            ]
           },
-          "path": [
-            "Typography",
-            "Editorial Quote",
-            "Quote - LG",
-            "paragraphIndent"
-          ]
-        },
-        "textCase": {
-          "value": "none",
-          "type": "textCase",
-          "filePath": "src/global.json",
-          "isSource": true,
-          "original": {
-            "value": "{textCase.none}",
-            "type": "textCase"
+          "letterSpacing": {
+            "value": "0rem",
+            "type": "letterSpacing",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{letterSpacing.0}",
+              "type": "letterSpacing"
+            },
+            "name": "xyz_typography_ch_headings_md_h5_letter_spacing",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "MD",
+              "subitem": "H5",
+              "state": "letterSpacing"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "MD",
+              "H5",
+              "letterSpacing"
+            ]
           },
-          "name": "mch_typography_editorial_quote_quote_lg_text_case",
-          "attributes": {
-            "category": "Typography",
-            "type": "Editorial Quote",
-            "item": "Quote - LG",
-            "subitem": "textCase"
+          "paragraphSpacing": {
+            "value": "0",
+            "type": "paragraphSpacing",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{paragraphSpacing.0}",
+              "type": "paragraphSpacing"
+            },
+            "name": "xyz_typography_ch_headings_md_h5_paragraph_spacing",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "MD",
+              "subitem": "H5",
+              "state": "paragraphSpacing"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "MD",
+              "H5",
+              "paragraphSpacing"
+            ]
           },
-          "path": [
-            "Typography",
-            "Editorial Quote",
-            "Quote - LG",
-            "textCase"
-          ]
-        },
-        "textDecoration": {
-          "value": "none",
-          "type": "textDecoration",
-          "filePath": "src/global.json",
-          "isSource": true,
-          "original": {
-            "value": "{textDecoration.none}",
-            "type": "textDecoration"
+          "paragraphIndent": {
+            "value": 0,
+            "type": "paragraphIndent",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{paragraphIndent.0}",
+              "type": "paragraphIndent"
+            },
+            "name": "xyz_typography_ch_headings_md_h5_paragraph_indent",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "MD",
+              "subitem": "H5",
+              "state": "paragraphIndent"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "MD",
+              "H5",
+              "paragraphIndent"
+            ]
           },
-          "name": "mch_typography_editorial_quote_quote_lg_text_decoration",
-          "attributes": {
-            "category": "Typography",
-            "type": "Editorial Quote",
-            "item": "Quote - LG",
-            "subitem": "textDecoration"
+          "textCase": {
+            "value": "none",
+            "type": "textCase",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{textCase.none}",
+              "type": "textCase"
+            },
+            "name": "xyz_typography_ch_headings_md_h5_text_case",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "MD",
+              "subitem": "H5",
+              "state": "textCase"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "MD",
+              "H5",
+              "textCase"
+            ]
           },
-          "path": [
-            "Typography",
-            "Editorial Quote",
-            "Quote - LG",
-            "textDecoration"
-          ]
+          "textDecoration": {
+            "value": "none",
+            "type": "textDecoration",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{textDecoration.none}",
+              "type": "textDecoration"
+            },
+            "name": "xyz_typography_ch_headings_md_h5_text_decoration",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "MD",
+              "subitem": "H5",
+              "state": "textDecoration"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "MD",
+              "H5",
+              "textDecoration"
+            ]
+          }
         }
       },
-      "Quote - MD": {
-        "fontFamily": {
-          "value": "Ivar Display",
-          "type": "fontFamilies",
-          "filePath": "src/global.json",
-          "isSource": true,
-          "original": {
-            "value": "{fontFamilies.ivar-display}",
-            "type": "fontFamilies"
+      "xsSm": {
+        "display": {
+          "fontFamily": {
+            "value": "Ivar Display",
+            "type": "fontFamilies",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{fontFamilies.ivar-display}",
+              "type": "fontFamilies"
+            },
+            "name": "xyz_typography_ch_headings_xs_sm_display_font_family",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "XS-SM",
+              "subitem": "Display",
+              "state": "fontFamily"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "XS-SM",
+              "Display",
+              "fontFamily"
+            ]
           },
-          "name": "mch_typography_editorial_quote_quote_md_font_family",
-          "attributes": {
-            "category": "Typography",
-            "type": "Editorial Quote",
-            "item": "Quote - MD",
-            "subitem": "fontFamily"
+          "fontWeight": {
+            "value": "600",
+            "type": "fontWeights",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{fontWeights.ivar-display-3}",
+              "type": "fontWeights"
+            },
+            "name": "xyz_typography_ch_headings_xs_sm_display_font_weight",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "XS-SM",
+              "subitem": "Display",
+              "state": "fontWeight"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "XS-SM",
+              "Display",
+              "fontWeight"
+            ]
           },
-          "path": [
-            "Typography",
-            "Editorial Quote",
-            "Quote - MD",
-            "fontFamily"
-          ]
+          "lineHeight": {
+            "value": "4.5rem",
+            "type": "lineHeights",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{lineHeights.27}",
+              "type": "lineHeights"
+            },
+            "name": "xyz_typography_ch_headings_xs_sm_display_line_height",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "XS-SM",
+              "subitem": "Display",
+              "state": "lineHeight"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "XS-SM",
+              "Display",
+              "lineHeight"
+            ]
+          },
+          "fontSize": {
+            "value": "4.5rem",
+            "type": "fontSizes",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{fontSize.22}",
+              "type": "fontSizes"
+            },
+            "name": "xyz_typography_ch_headings_xs_sm_display_font_size",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "XS-SM",
+              "subitem": "Display",
+              "state": "fontSize"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "XS-SM",
+              "Display",
+              "fontSize"
+            ]
+          },
+          "letterSpacing": {
+            "value": "0rem",
+            "type": "letterSpacing",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{letterSpacing.0}",
+              "type": "letterSpacing"
+            },
+            "name": "xyz_typography_ch_headings_xs_sm_display_letter_spacing",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "XS-SM",
+              "subitem": "Display",
+              "state": "letterSpacing"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "XS-SM",
+              "Display",
+              "letterSpacing"
+            ]
+          },
+          "paragraphSpacing": {
+            "value": "0",
+            "type": "paragraphSpacing",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{paragraphSpacing.0}",
+              "type": "paragraphSpacing"
+            },
+            "name": "xyz_typography_ch_headings_xs_sm_display_paragraph_spacing",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "XS-SM",
+              "subitem": "Display",
+              "state": "paragraphSpacing"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "XS-SM",
+              "Display",
+              "paragraphSpacing"
+            ]
+          },
+          "paragraphIndent": {
+            "value": 0,
+            "type": "paragraphIndent",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{paragraphIndent.0}",
+              "type": "paragraphIndent"
+            },
+            "name": "xyz_typography_ch_headings_xs_sm_display_paragraph_indent",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "XS-SM",
+              "subitem": "Display",
+              "state": "paragraphIndent"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "XS-SM",
+              "Display",
+              "paragraphIndent"
+            ]
+          },
+          "textCase": {
+            "value": "none",
+            "type": "textCase",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{textCase.none}",
+              "type": "textCase"
+            },
+            "name": "xyz_typography_ch_headings_xs_sm_display_text_case",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "XS-SM",
+              "subitem": "Display",
+              "state": "textCase"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "XS-SM",
+              "Display",
+              "textCase"
+            ]
+          },
+          "textDecoration": {
+            "value": "none",
+            "type": "textDecoration",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{textDecoration.none}",
+              "type": "textDecoration"
+            },
+            "name": "xyz_typography_ch_headings_xs_sm_display_text_decoration",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "XS-SM",
+              "subitem": "Display",
+              "state": "textDecoration"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "XS-SM",
+              "Display",
+              "textDecoration"
+            ]
+          }
         },
-        "fontWeight": {
-          "value": "400",
-          "type": "fontWeights",
-          "filePath": "src/global.json",
-          "isSource": true,
-          "original": {
-            "value": "{fontWeights.ivar-display-4}",
-            "type": "fontWeights"
+        "h1": {
+          "fontFamily": {
+            "value": "Ivar Display",
+            "type": "fontFamilies",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{fontFamilies.ivar-display}",
+              "type": "fontFamilies"
+            },
+            "name": "xyz_typography_ch_headings_xs_sm_h1_font_family",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "XS-SM",
+              "subitem": "H1",
+              "state": "fontFamily"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "XS-SM",
+              "H1",
+              "fontFamily"
+            ]
           },
-          "name": "mch_typography_editorial_quote_quote_md_font_weight",
-          "attributes": {
-            "category": "Typography",
-            "type": "Editorial Quote",
-            "item": "Quote - MD",
-            "subitem": "fontWeight"
+          "fontWeight": {
+            "value": "600",
+            "type": "fontWeights",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{fontWeights.ivar-display-3}",
+              "type": "fontWeights"
+            },
+            "name": "xyz_typography_ch_headings_xs_sm_h1_font_weight",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "XS-SM",
+              "subitem": "H1",
+              "state": "fontWeight"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "XS-SM",
+              "H1",
+              "fontWeight"
+            ]
           },
-          "path": [
-            "Typography",
-            "Editorial Quote",
-            "Quote - MD",
-            "fontWeight"
-          ]
+          "lineHeight": {
+            "value": "3rem",
+            "type": "lineHeights",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{lineHeights.5}",
+              "type": "lineHeights"
+            },
+            "name": "xyz_typography_ch_headings_xs_sm_h1_line_height",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "XS-SM",
+              "subitem": "H1",
+              "state": "lineHeight"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "XS-SM",
+              "H1",
+              "lineHeight"
+            ]
+          },
+          "fontSize": {
+            "value": "3rem",
+            "type": "fontSizes",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{fontSize.14}",
+              "type": "fontSizes"
+            },
+            "name": "xyz_typography_ch_headings_xs_sm_h1_font_size",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "XS-SM",
+              "subitem": "H1",
+              "state": "fontSize"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "XS-SM",
+              "H1",
+              "fontSize"
+            ]
+          },
+          "letterSpacing": {
+            "value": "0rem",
+            "type": "letterSpacing",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{letterSpacing.0}",
+              "type": "letterSpacing"
+            },
+            "name": "xyz_typography_ch_headings_xs_sm_h1_letter_spacing",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "XS-SM",
+              "subitem": "H1",
+              "state": "letterSpacing"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "XS-SM",
+              "H1",
+              "letterSpacing"
+            ]
+          },
+          "paragraphSpacing": {
+            "value": "0",
+            "type": "paragraphSpacing",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{paragraphSpacing.0}",
+              "type": "paragraphSpacing"
+            },
+            "name": "xyz_typography_ch_headings_xs_sm_h1_paragraph_spacing",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "XS-SM",
+              "subitem": "H1",
+              "state": "paragraphSpacing"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "XS-SM",
+              "H1",
+              "paragraphSpacing"
+            ]
+          },
+          "paragraphIndent": {
+            "value": 0,
+            "type": "paragraphIndent",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{paragraphIndent.0}",
+              "type": "paragraphIndent"
+            },
+            "name": "xyz_typography_ch_headings_xs_sm_h1_paragraph_indent",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "XS-SM",
+              "subitem": "H1",
+              "state": "paragraphIndent"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "XS-SM",
+              "H1",
+              "paragraphIndent"
+            ]
+          },
+          "textCase": {
+            "value": "none",
+            "type": "textCase",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{textCase.none}",
+              "type": "textCase"
+            },
+            "name": "xyz_typography_ch_headings_xs_sm_h1_text_case",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "XS-SM",
+              "subitem": "H1",
+              "state": "textCase"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "XS-SM",
+              "H1",
+              "textCase"
+            ]
+          },
+          "textDecoration": {
+            "value": "none",
+            "type": "textDecoration",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{textDecoration.none}",
+              "type": "textDecoration"
+            },
+            "name": "xyz_typography_ch_headings_xs_sm_h1_text_decoration",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "XS-SM",
+              "subitem": "H1",
+              "state": "textDecoration"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "XS-SM",
+              "H1",
+              "textDecoration"
+            ]
+          }
         },
-        "lineHeight": {
-          "value": "2.625rem",
-          "type": "lineHeights",
-          "filePath": "src/global.json",
-          "isSource": true,
-          "original": {
-            "value": "{lineHeights.6}",
-            "type": "lineHeights"
+        "h2": {
+          "fontFamily": {
+            "value": "Ivar Display",
+            "type": "fontFamilies",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{fontFamilies.ivar-display}",
+              "type": "fontFamilies"
+            },
+            "name": "xyz_typography_ch_headings_xs_sm_h2_font_family",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "XS-SM",
+              "subitem": "H2",
+              "state": "fontFamily"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "XS-SM",
+              "H2",
+              "fontFamily"
+            ]
           },
-          "name": "mch_typography_editorial_quote_quote_md_line_height",
-          "attributes": {
-            "category": "Typography",
-            "type": "Editorial Quote",
-            "item": "Quote - MD",
-            "subitem": "lineHeight"
+          "fontWeight": {
+            "value": "600",
+            "type": "fontWeights",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{fontWeights.ivar-display-3}",
+              "type": "fontWeights"
+            },
+            "name": "xyz_typography_ch_headings_xs_sm_h2_font_weight",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "XS-SM",
+              "subitem": "H2",
+              "state": "fontWeight"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "XS-SM",
+              "H2",
+              "fontWeight"
+            ]
           },
-          "path": [
-            "Typography",
-            "Editorial Quote",
-            "Quote - MD",
-            "lineHeight"
-          ]
+          "lineHeight": {
+            "value": "2.5rem",
+            "type": "lineHeights",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{lineHeights.28}",
+              "type": "lineHeights"
+            },
+            "name": "xyz_typography_ch_headings_xs_sm_h2_line_height",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "XS-SM",
+              "subitem": "H2",
+              "state": "lineHeight"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "XS-SM",
+              "H2",
+              "lineHeight"
+            ]
+          },
+          "fontSize": {
+            "value": "2.5rem",
+            "type": "fontSizes",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{fontSize.12}",
+              "type": "fontSizes"
+            },
+            "name": "xyz_typography_ch_headings_xs_sm_h2_font_size",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "XS-SM",
+              "subitem": "H2",
+              "state": "fontSize"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "XS-SM",
+              "H2",
+              "fontSize"
+            ]
+          },
+          "letterSpacing": {
+            "value": "0rem",
+            "type": "letterSpacing",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{letterSpacing.0}",
+              "type": "letterSpacing"
+            },
+            "name": "xyz_typography_ch_headings_xs_sm_h2_letter_spacing",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "XS-SM",
+              "subitem": "H2",
+              "state": "letterSpacing"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "XS-SM",
+              "H2",
+              "letterSpacing"
+            ]
+          },
+          "paragraphSpacing": {
+            "value": "0",
+            "type": "paragraphSpacing",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{paragraphSpacing.0}",
+              "type": "paragraphSpacing"
+            },
+            "name": "xyz_typography_ch_headings_xs_sm_h2_paragraph_spacing",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "XS-SM",
+              "subitem": "H2",
+              "state": "paragraphSpacing"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "XS-SM",
+              "H2",
+              "paragraphSpacing"
+            ]
+          },
+          "paragraphIndent": {
+            "value": 0,
+            "type": "paragraphIndent",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{paragraphIndent.0}",
+              "type": "paragraphIndent"
+            },
+            "name": "xyz_typography_ch_headings_xs_sm_h2_paragraph_indent",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "XS-SM",
+              "subitem": "H2",
+              "state": "paragraphIndent"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "XS-SM",
+              "H2",
+              "paragraphIndent"
+            ]
+          },
+          "textCase": {
+            "value": "none",
+            "type": "textCase",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{textCase.none}",
+              "type": "textCase"
+            },
+            "name": "xyz_typography_ch_headings_xs_sm_h2_text_case",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "XS-SM",
+              "subitem": "H2",
+              "state": "textCase"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "XS-SM",
+              "H2",
+              "textCase"
+            ]
+          },
+          "textDecoration": {
+            "value": "none",
+            "type": "textDecoration",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{textDecoration.none}",
+              "type": "textDecoration"
+            },
+            "name": "xyz_typography_ch_headings_xs_sm_h2_text_decoration",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "XS-SM",
+              "subitem": "H2",
+              "state": "textDecoration"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "XS-SM",
+              "H2",
+              "textDecoration"
+            ]
+          }
         },
-        "fontSize": {
-          "value": "2.125rem",
-          "type": "fontSizes",
-          "filePath": "src/global.json",
-          "isSource": true,
-          "original": {
-            "value": "{fontSize.9}",
-            "type": "fontSizes"
+        "h3": {
+          "fontFamily": {
+            "value": "Ivar Display",
+            "type": "fontFamilies",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{fontFamilies.ivar-display}",
+              "type": "fontFamilies"
+            },
+            "name": "xyz_typography_ch_headings_xs_sm_h3_font_family",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "XS-SM",
+              "subitem": "H3",
+              "state": "fontFamily"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "XS-SM",
+              "H3",
+              "fontFamily"
+            ]
           },
-          "name": "mch_typography_editorial_quote_quote_md_font_size",
-          "attributes": {
-            "category": "Typography",
-            "type": "Editorial Quote",
-            "item": "Quote - MD",
-            "subitem": "fontSize"
+          "fontWeight": {
+            "value": "600",
+            "type": "fontWeights",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{fontWeights.ivar-display-3}",
+              "type": "fontWeights"
+            },
+            "name": "xyz_typography_ch_headings_xs_sm_h3_font_weight",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "XS-SM",
+              "subitem": "H3",
+              "state": "fontWeight"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "XS-SM",
+              "H3",
+              "fontWeight"
+            ]
           },
-          "path": [
-            "Typography",
-            "Editorial Quote",
-            "Quote - MD",
-            "fontSize"
-          ]
+          "lineHeight": {
+            "value": "1.875rem",
+            "type": "lineHeights",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{lineHeights.1}",
+              "type": "lineHeights"
+            },
+            "name": "xyz_typography_ch_headings_xs_sm_h3_line_height",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "XS-SM",
+              "subitem": "H3",
+              "state": "lineHeight"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "XS-SM",
+              "H3",
+              "lineHeight"
+            ]
+          },
+          "fontSize": {
+            "value": "1.75rem",
+            "type": "fontSizes",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{fontSize.15}",
+              "type": "fontSizes"
+            },
+            "name": "xyz_typography_ch_headings_xs_sm_h3_font_size",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "XS-SM",
+              "subitem": "H3",
+              "state": "fontSize"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "XS-SM",
+              "H3",
+              "fontSize"
+            ]
+          },
+          "letterSpacing": {
+            "value": "0rem",
+            "type": "letterSpacing",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{letterSpacing.0}",
+              "type": "letterSpacing"
+            },
+            "name": "xyz_typography_ch_headings_xs_sm_h3_letter_spacing",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "XS-SM",
+              "subitem": "H3",
+              "state": "letterSpacing"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "XS-SM",
+              "H3",
+              "letterSpacing"
+            ]
+          },
+          "paragraphSpacing": {
+            "value": "0",
+            "type": "paragraphSpacing",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{paragraphSpacing.0}",
+              "type": "paragraphSpacing"
+            },
+            "name": "xyz_typography_ch_headings_xs_sm_h3_paragraph_spacing",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "XS-SM",
+              "subitem": "H3",
+              "state": "paragraphSpacing"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "XS-SM",
+              "H3",
+              "paragraphSpacing"
+            ]
+          },
+          "paragraphIndent": {
+            "value": 0,
+            "type": "paragraphIndent",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{paragraphIndent.0}",
+              "type": "paragraphIndent"
+            },
+            "name": "xyz_typography_ch_headings_xs_sm_h3_paragraph_indent",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "XS-SM",
+              "subitem": "H3",
+              "state": "paragraphIndent"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "XS-SM",
+              "H3",
+              "paragraphIndent"
+            ]
+          },
+          "textCase": {
+            "value": "none",
+            "type": "textCase",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{textCase.none}",
+              "type": "textCase"
+            },
+            "name": "xyz_typography_ch_headings_xs_sm_h3_text_case",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "XS-SM",
+              "subitem": "H3",
+              "state": "textCase"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "XS-SM",
+              "H3",
+              "textCase"
+            ]
+          },
+          "textDecoration": {
+            "value": "none",
+            "type": "textDecoration",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{textDecoration.none}",
+              "type": "textDecoration"
+            },
+            "name": "xyz_typography_ch_headings_xs_sm_h3_text_decoration",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "XS-SM",
+              "subitem": "H3",
+              "state": "textDecoration"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "XS-SM",
+              "H3",
+              "textDecoration"
+            ]
+          }
         },
-        "letterSpacing": {
-          "value": "0%",
-          "type": "letterSpacing",
-          "filePath": "src/global.json",
-          "isSource": true,
-          "original": {
-            "value": "{letterSpacing.1}",
-            "type": "letterSpacing"
+        "h4": {
+          "fontFamily": {
+            "value": "Ivar Display",
+            "type": "fontFamilies",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{fontFamilies.ivar-display}",
+              "type": "fontFamilies"
+            },
+            "name": "xyz_typography_ch_headings_xs_sm_h4_font_family",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "XS-SM",
+              "subitem": "H4",
+              "state": "fontFamily"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "XS-SM",
+              "H4",
+              "fontFamily"
+            ]
           },
-          "name": "mch_typography_editorial_quote_quote_md_letter_spacing",
-          "attributes": {
-            "category": "Typography",
-            "type": "Editorial Quote",
-            "item": "Quote - MD",
-            "subitem": "letterSpacing"
+          "fontWeight": {
+            "value": "600",
+            "type": "fontWeights",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{fontWeights.ivar-display-3}",
+              "type": "fontWeights"
+            },
+            "name": "xyz_typography_ch_headings_xs_sm_h4_font_weight",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "XS-SM",
+              "subitem": "H4",
+              "state": "fontWeight"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "XS-SM",
+              "H4",
+              "fontWeight"
+            ]
           },
-          "path": [
-            "Typography",
-            "Editorial Quote",
-            "Quote - MD",
-            "letterSpacing"
-          ]
+          "lineHeight": {
+            "value": "1.75rem",
+            "type": "lineHeights",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{lineHeights.2}",
+              "type": "lineHeights"
+            },
+            "name": "xyz_typography_ch_headings_xs_sm_h4_line_height",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "XS-SM",
+              "subitem": "H4",
+              "state": "lineHeight"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "XS-SM",
+              "H4",
+              "lineHeight"
+            ]
+          },
+          "fontSize": {
+            "value": "1.5rem",
+            "type": "fontSizes",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{fontSize.5}",
+              "type": "fontSizes"
+            },
+            "name": "xyz_typography_ch_headings_xs_sm_h4_font_size",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "XS-SM",
+              "subitem": "H4",
+              "state": "fontSize"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "XS-SM",
+              "H4",
+              "fontSize"
+            ]
+          },
+          "letterSpacing": {
+            "value": "0rem",
+            "type": "letterSpacing",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{letterSpacing.0}",
+              "type": "letterSpacing"
+            },
+            "name": "xyz_typography_ch_headings_xs_sm_h4_letter_spacing",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "XS-SM",
+              "subitem": "H4",
+              "state": "letterSpacing"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "XS-SM",
+              "H4",
+              "letterSpacing"
+            ]
+          },
+          "paragraphSpacing": {
+            "value": "0",
+            "type": "paragraphSpacing",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{paragraphSpacing.0}",
+              "type": "paragraphSpacing"
+            },
+            "name": "xyz_typography_ch_headings_xs_sm_h4_paragraph_spacing",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "XS-SM",
+              "subitem": "H4",
+              "state": "paragraphSpacing"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "XS-SM",
+              "H4",
+              "paragraphSpacing"
+            ]
+          },
+          "paragraphIndent": {
+            "value": 0,
+            "type": "paragraphIndent",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{paragraphIndent.0}",
+              "type": "paragraphIndent"
+            },
+            "name": "xyz_typography_ch_headings_xs_sm_h4_paragraph_indent",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "XS-SM",
+              "subitem": "H4",
+              "state": "paragraphIndent"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "XS-SM",
+              "H4",
+              "paragraphIndent"
+            ]
+          },
+          "textCase": {
+            "value": "none",
+            "type": "textCase",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{textCase.none}",
+              "type": "textCase"
+            },
+            "name": "xyz_typography_ch_headings_xs_sm_h4_text_case",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "XS-SM",
+              "subitem": "H4",
+              "state": "textCase"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "XS-SM",
+              "H4",
+              "textCase"
+            ]
+          },
+          "textDecoration": {
+            "value": "none",
+            "type": "textDecoration",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{textDecoration.none}",
+              "type": "textDecoration"
+            },
+            "name": "xyz_typography_ch_headings_xs_sm_h4_text_decoration",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "XS-SM",
+              "subitem": "H4",
+              "state": "textDecoration"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "XS-SM",
+              "H4",
+              "textDecoration"
+            ]
+          }
         },
-        "paragraphSpacing": {
-          "value": "0",
-          "type": "paragraphSpacing",
-          "filePath": "src/global.json",
-          "isSource": true,
-          "original": {
-            "value": "{paragraphSpacing.0}",
-            "type": "paragraphSpacing"
+        "h5": {
+          "fontFamily": {
+            "value": "Ivar Display",
+            "type": "fontFamilies",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{fontFamilies.ivar-display}",
+              "type": "fontFamilies"
+            },
+            "name": "xyz_typography_ch_headings_xs_sm_h5_font_family",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "XS-SM",
+              "subitem": "H5",
+              "state": "fontFamily"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "XS-SM",
+              "H5",
+              "fontFamily"
+            ]
           },
-          "name": "mch_typography_editorial_quote_quote_md_paragraph_spacing",
-          "attributes": {
-            "category": "Typography",
-            "type": "Editorial Quote",
-            "item": "Quote - MD",
-            "subitem": "paragraphSpacing"
+          "fontWeight": {
+            "value": "600",
+            "type": "fontWeights",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{fontWeights.ivar-display-3}",
+              "type": "fontWeights"
+            },
+            "name": "xyz_typography_ch_headings_xs_sm_h5_font_weight",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "XS-SM",
+              "subitem": "H5",
+              "state": "fontWeight"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "XS-SM",
+              "H5",
+              "fontWeight"
+            ]
           },
-          "path": [
-            "Typography",
-            "Editorial Quote",
-            "Quote - MD",
-            "paragraphSpacing"
-          ]
-        },
-        "paragraphIndent": {
-          "value": 0,
-          "type": "paragraphIndent",
-          "filePath": "src/global.json",
-          "isSource": true,
-          "original": {
-            "value": "{paragraphIndent.0}",
-            "type": "paragraphIndent"
+          "lineHeight": {
+            "value": "1.375rem",
+            "type": "lineHeights",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{lineHeights.13}",
+              "type": "lineHeights"
+            },
+            "name": "xyz_typography_ch_headings_xs_sm_h5_line_height",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "XS-SM",
+              "subitem": "H5",
+              "state": "lineHeight"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "XS-SM",
+              "H5",
+              "lineHeight"
+            ]
           },
-          "name": "mch_typography_editorial_quote_quote_md_paragraph_indent",
-          "attributes": {
-            "category": "Typography",
-            "type": "Editorial Quote",
-            "item": "Quote - MD",
-            "subitem": "paragraphIndent"
+          "fontSize": {
+            "value": "1.125rem",
+            "type": "fontSizes",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{fontSize.3}",
+              "type": "fontSizes"
+            },
+            "name": "xyz_typography_ch_headings_xs_sm_h5_font_size",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "XS-SM",
+              "subitem": "H5",
+              "state": "fontSize"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "XS-SM",
+              "H5",
+              "fontSize"
+            ]
           },
-          "path": [
-            "Typography",
-            "Editorial Quote",
-            "Quote - MD",
-            "paragraphIndent"
-          ]
-        },
-        "textCase": {
-          "value": "none",
-          "type": "textCase",
-          "filePath": "src/global.json",
-          "isSource": true,
-          "original": {
-            "value": "{textCase.none}",
-            "type": "textCase"
+          "letterSpacing": {
+            "value": "0rem",
+            "type": "letterSpacing",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{letterSpacing.0}",
+              "type": "letterSpacing"
+            },
+            "name": "xyz_typography_ch_headings_xs_sm_h5_letter_spacing",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "XS-SM",
+              "subitem": "H5",
+              "state": "letterSpacing"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "XS-SM",
+              "H5",
+              "letterSpacing"
+            ]
           },
-          "name": "mch_typography_editorial_quote_quote_md_text_case",
-          "attributes": {
-            "category": "Typography",
-            "type": "Editorial Quote",
-            "item": "Quote - MD",
-            "subitem": "textCase"
+          "paragraphSpacing": {
+            "value": "0",
+            "type": "paragraphSpacing",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{paragraphSpacing.0}",
+              "type": "paragraphSpacing"
+            },
+            "name": "xyz_typography_ch_headings_xs_sm_h5_paragraph_spacing",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "XS-SM",
+              "subitem": "H5",
+              "state": "paragraphSpacing"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "XS-SM",
+              "H5",
+              "paragraphSpacing"
+            ]
           },
-          "path": [
-            "Typography",
-            "Editorial Quote",
-            "Quote - MD",
-            "textCase"
-          ]
-        },
-        "textDecoration": {
-          "value": "none",
-          "type": "textDecoration",
-          "filePath": "src/global.json",
-          "isSource": true,
-          "original": {
-            "value": "{textDecoration.none}",
-            "type": "textDecoration"
+          "paragraphIndent": {
+            "value": 0,
+            "type": "paragraphIndent",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{paragraphIndent.0}",
+              "type": "paragraphIndent"
+            },
+            "name": "xyz_typography_ch_headings_xs_sm_h5_paragraph_indent",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "XS-SM",
+              "subitem": "H5",
+              "state": "paragraphIndent"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "XS-SM",
+              "H5",
+              "paragraphIndent"
+            ]
           },
-          "name": "mch_typography_editorial_quote_quote_md_text_decoration",
-          "attributes": {
-            "category": "Typography",
-            "type": "Editorial Quote",
-            "item": "Quote - MD",
-            "subitem": "textDecoration"
+          "textCase": {
+            "value": "none",
+            "type": "textCase",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{textCase.none}",
+              "type": "textCase"
+            },
+            "name": "xyz_typography_ch_headings_xs_sm_h5_text_case",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "XS-SM",
+              "subitem": "H5",
+              "state": "textCase"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "XS-SM",
+              "H5",
+              "textCase"
+            ]
           },
-          "path": [
-            "Typography",
-            "Editorial Quote",
-            "Quote - MD",
-            "textDecoration"
-          ]
-        }
-      },
-      "Quote - XS-SM": {
-        "fontFamily": {
-          "value": "Ivar Display",
-          "type": "fontFamilies",
-          "filePath": "src/global.json",
-          "isSource": true,
-          "original": {
-            "value": "{fontFamilies.ivar-display}",
-            "type": "fontFamilies"
-          },
-          "name": "mch_typography_editorial_quote_quote_xs_sm_font_family",
-          "attributes": {
-            "category": "Typography",
-            "type": "Editorial Quote",
-            "item": "Quote - XS-SM",
-            "subitem": "fontFamily"
-          },
-          "path": [
-            "Typography",
-            "Editorial Quote",
-            "Quote - XS-SM",
-            "fontFamily"
-          ]
-        },
-        "fontWeight": {
-          "value": "400",
-          "type": "fontWeights",
-          "filePath": "src/global.json",
-          "isSource": true,
-          "original": {
-            "value": "{fontWeights.ivar-display-4}",
-            "type": "fontWeights"
-          },
-          "name": "mch_typography_editorial_quote_quote_xs_sm_font_weight",
-          "attributes": {
-            "category": "Typography",
-            "type": "Editorial Quote",
-            "item": "Quote - XS-SM",
-            "subitem": "fontWeight"
-          },
-          "path": [
-            "Typography",
-            "Editorial Quote",
-            "Quote - XS-SM",
-            "fontWeight"
-          ]
-        },
-        "lineHeight": {
-          "value": "2.625rem",
-          "type": "lineHeights",
-          "filePath": "src/global.json",
-          "isSource": true,
-          "original": {
-            "value": "{lineHeights.6}",
-            "type": "lineHeights"
-          },
-          "name": "mch_typography_editorial_quote_quote_xs_sm_line_height",
-          "attributes": {
-            "category": "Typography",
-            "type": "Editorial Quote",
-            "item": "Quote - XS-SM",
-            "subitem": "lineHeight"
-          },
-          "path": [
-            "Typography",
-            "Editorial Quote",
-            "Quote - XS-SM",
-            "lineHeight"
-          ]
-        },
-        "fontSize": {
-          "value": "2rem",
-          "type": "fontSizes",
-          "filePath": "src/global.json",
-          "isSource": true,
-          "original": {
-            "value": "{fontSize.8}",
-            "type": "fontSizes"
-          },
-          "name": "mch_typography_editorial_quote_quote_xs_sm_font_size",
-          "attributes": {
-            "category": "Typography",
-            "type": "Editorial Quote",
-            "item": "Quote - XS-SM",
-            "subitem": "fontSize"
-          },
-          "path": [
-            "Typography",
-            "Editorial Quote",
-            "Quote - XS-SM",
-            "fontSize"
-          ]
-        },
-        "letterSpacing": {
-          "value": "0%",
-          "type": "letterSpacing",
-          "filePath": "src/global.json",
-          "isSource": true,
-          "original": {
-            "value": "{letterSpacing.1}",
-            "type": "letterSpacing"
-          },
-          "name": "mch_typography_editorial_quote_quote_xs_sm_letter_spacing",
-          "attributes": {
-            "category": "Typography",
-            "type": "Editorial Quote",
-            "item": "Quote - XS-SM",
-            "subitem": "letterSpacing"
-          },
-          "path": [
-            "Typography",
-            "Editorial Quote",
-            "Quote - XS-SM",
-            "letterSpacing"
-          ]
-        },
-        "paragraphSpacing": {
-          "value": "0",
-          "type": "paragraphSpacing",
-          "filePath": "src/global.json",
-          "isSource": true,
-          "original": {
-            "value": "{paragraphSpacing.0}",
-            "type": "paragraphSpacing"
-          },
-          "name": "mch_typography_editorial_quote_quote_xs_sm_paragraph_spacing",
-          "attributes": {
-            "category": "Typography",
-            "type": "Editorial Quote",
-            "item": "Quote - XS-SM",
-            "subitem": "paragraphSpacing"
-          },
-          "path": [
-            "Typography",
-            "Editorial Quote",
-            "Quote - XS-SM",
-            "paragraphSpacing"
-          ]
-        },
-        "paragraphIndent": {
-          "value": 0,
-          "type": "paragraphIndent",
-          "filePath": "src/global.json",
-          "isSource": true,
-          "original": {
-            "value": "{paragraphIndent.0}",
-            "type": "paragraphIndent"
-          },
-          "name": "mch_typography_editorial_quote_quote_xs_sm_paragraph_indent",
-          "attributes": {
-            "category": "Typography",
-            "type": "Editorial Quote",
-            "item": "Quote - XS-SM",
-            "subitem": "paragraphIndent"
-          },
-          "path": [
-            "Typography",
-            "Editorial Quote",
-            "Quote - XS-SM",
-            "paragraphIndent"
-          ]
-        },
-        "textCase": {
-          "value": "none",
-          "type": "textCase",
-          "filePath": "src/global.json",
-          "isSource": true,
-          "original": {
-            "value": "{textCase.none}",
-            "type": "textCase"
-          },
-          "name": "mch_typography_editorial_quote_quote_xs_sm_text_case",
-          "attributes": {
-            "category": "Typography",
-            "type": "Editorial Quote",
-            "item": "Quote - XS-SM",
-            "subitem": "textCase"
-          },
-          "path": [
-            "Typography",
-            "Editorial Quote",
-            "Quote - XS-SM",
-            "textCase"
-          ]
-        },
-        "textDecoration": {
-          "value": "none",
-          "type": "textDecoration",
-          "filePath": "src/global.json",
-          "isSource": true,
-          "original": {
-            "value": "{textDecoration.none}",
-            "type": "textDecoration"
-          },
-          "name": "mch_typography_editorial_quote_quote_xs_sm_text_decoration",
-          "attributes": {
-            "category": "Typography",
-            "type": "Editorial Quote",
-            "item": "Quote - XS-SM",
-            "subitem": "textDecoration"
-          },
-          "path": [
-            "Typography",
-            "Editorial Quote",
-            "Quote - XS-SM",
-            "textDecoration"
-          ]
+          "textDecoration": {
+            "value": "none",
+            "type": "textDecoration",
+            "filePath": "src/global.json",
+            "isSource": true,
+            "original": {
+              "value": "{textDecoration.none}",
+              "type": "textDecoration"
+            },
+            "name": "xyz_typography_ch_headings_xs_sm_h5_text_decoration",
+            "attributes": {
+              "category": "Typography",
+              "type": "CH Headings",
+              "item": "XS-SM",
+              "subitem": "H5",
+              "state": "textDecoration"
+            },
+            "path": [
+              "Typography",
+              "CH Headings",
+              "XS-SM",
+              "H5",
+              "textDecoration"
+            ]
+          }
         }
       }
     }
@@ -20376,7 +25154,7 @@ module.exports = {
         "value": "none",
         "type": "textCase"
       },
-      "name": "mch_text_case_none",
+      "name": "xyz_text_case_none",
       "attributes": {
         "category": "textCase",
         "type": "none"
@@ -20395,7 +25173,7 @@ module.exports = {
         "value": "uppercase",
         "type": "textCase"
       },
-      "name": "mch_text_case_uppercase",
+      "name": "xyz_text_case_uppercase",
       "attributes": {
         "category": "textCase",
         "type": "uppercase"
@@ -20416,7 +25194,7 @@ module.exports = {
         "value": "none",
         "type": "textDecoration"
       },
-      "name": "mch_text_decoration_none",
+      "name": "xyz_text_decoration_none",
       "attributes": {
         "category": "textDecoration",
         "type": "none"
@@ -20435,7 +25213,7 @@ module.exports = {
         "value": "underline",
         "type": "textDecoration"
       },
-      "name": "mch_text_decoration_underline",
+      "name": "xyz_text_decoration_underline",
       "attributes": {
         "category": "textDecoration",
         "type": "underline"
@@ -20456,7 +25234,7 @@ module.exports = {
         "value": "0px",
         "type": "dimension"
       },
-      "name": "mch_paragraph_indent_0",
+      "name": "xyz_paragraph_indent_0",
       "attributes": {
         "category": "paragraphIndent",
         "type": "0"
@@ -20477,7 +25255,7 @@ module.exports = {
         "value": "0",
         "type": "borderRadius"
       },
-      "name": "mch_border_radius_0",
+      "name": "xyz_border_radius_0",
       "attributes": {
         "category": "borderRadius",
         "type": "0"
@@ -20487,7 +25265,7 @@ module.exports = {
         "0"
       ]
     },
-    "1": {
+    "2": {
       "value": "2px",
       "type": "borderRadius",
       "filePath": "src/global.json",
@@ -20496,26 +25274,7 @@ module.exports = {
         "value": "2px",
         "type": "borderRadius"
       },
-      "name": "mch_border_radius_1",
-      "attributes": {
-        "category": "borderRadius",
-        "type": "1"
-      },
-      "path": [
-        "borderRadius",
-        "1"
-      ]
-    },
-    "2": {
-      "value": "4px",
-      "type": "borderRadius",
-      "filePath": "src/global.json",
-      "isSource": true,
-      "original": {
-        "value": "4px",
-        "type": "borderRadius"
-      },
-      "name": "mch_border_radius_2",
+      "name": "xyz_border_radius_2",
       "attributes": {
         "category": "borderRadius",
         "type": "2"
@@ -20525,35 +25284,16 @@ module.exports = {
         "2"
       ]
     },
-    "3": {
-      "value": "12px",
-      "type": "borderRadius",
-      "filePath": "src/global.json",
-      "isSource": true,
-      "original": {
-        "value": "12px",
-        "type": "borderRadius"
-      },
-      "name": "mch_border_radius_3",
-      "attributes": {
-        "category": "borderRadius",
-        "type": "3"
-      },
-      "path": [
-        "borderRadius",
-        "3"
-      ]
-    },
     "4": {
-      "value": "24px",
+      "value": "4px",
       "type": "borderRadius",
       "filePath": "src/global.json",
       "isSource": true,
       "original": {
-        "value": "24px",
+        "value": "4px",
         "type": "borderRadius"
       },
-      "name": "mch_border_radius_4",
+      "name": "xyz_border_radius_4",
       "attributes": {
         "category": "borderRadius",
         "type": "4"
@@ -20563,7 +25303,45 @@ module.exports = {
         "4"
       ]
     },
-    "5": {
+    "12": {
+      "value": "12px",
+      "type": "borderRadius",
+      "filePath": "src/global.json",
+      "isSource": true,
+      "original": {
+        "value": "12px",
+        "type": "borderRadius"
+      },
+      "name": "xyz_border_radius_12",
+      "attributes": {
+        "category": "borderRadius",
+        "type": "12"
+      },
+      "path": [
+        "borderRadius",
+        "12"
+      ]
+    },
+    "24": {
+      "value": "24px",
+      "type": "borderRadius",
+      "filePath": "src/global.json",
+      "isSource": true,
+      "original": {
+        "value": "24px",
+        "type": "borderRadius"
+      },
+      "name": "xyz_border_radius_24",
+      "attributes": {
+        "category": "borderRadius",
+        "type": "24"
+      },
+      "path": [
+        "borderRadius",
+        "24"
+      ]
+    },
+    "40": {
       "value": "40px",
       "type": "borderRadius",
       "filePath": "src/global.json",
@@ -20572,17 +25350,17 @@ module.exports = {
         "value": "40px",
         "type": "borderRadius"
       },
-      "name": "mch_border_radius_5",
+      "name": "xyz_border_radius_40",
       "attributes": {
         "category": "borderRadius",
-        "type": "5"
+        "type": "40"
       },
       "path": [
         "borderRadius",
-        "5"
+        "40"
       ]
     },
-    "6": {
+    "half": {
       "value": "50%",
       "type": "borderRadius",
       "filePath": "src/global.json",
@@ -20591,17 +25369,17 @@ module.exports = {
         "value": "50%",
         "type": "borderRadius"
       },
-      "name": "mch_border_radius_6",
+      "name": "xyz_border_radius_half",
       "attributes": {
         "category": "borderRadius",
-        "type": "6"
+        "type": "half"
       },
       "path": [
         "borderRadius",
-        "6"
+        "half"
       ]
     },
-    "7": {
+    "full": {
       "value": "100%",
       "type": "borderRadius",
       "filePath": "src/global.json",
@@ -20610,15 +25388,206 @@ module.exports = {
         "value": "100%",
         "type": "borderRadius"
       },
-      "name": "mch_border_radius_7",
+      "name": "xyz_border_radius_full",
       "attributes": {
         "category": "borderRadius",
-        "type": "7"
+        "type": "full"
       },
       "path": [
         "borderRadius",
-        "7"
+        "full"
       ]
+    }
+  },
+  "borderWidth": {
+    "0": {
+      "value": "0",
+      "type": "borderWidth",
+      "filePath": "src/global.json",
+      "isSource": true,
+      "original": {
+        "value": "0",
+        "type": "borderWidth"
+      },
+      "name": "xyz_border_width_0",
+      "attributes": {
+        "category": "borderWidth",
+        "type": "0"
+      },
+      "path": [
+        "borderWidth",
+        "0"
+      ]
+    },
+    "1": {
+      "value": "1",
+      "type": "borderWidth",
+      "filePath": "src/global.json",
+      "isSource": true,
+      "original": {
+        "value": "1",
+        "type": "borderWidth"
+      },
+      "name": "xyz_border_width_1",
+      "attributes": {
+        "category": "borderWidth",
+        "type": "1"
+      },
+      "path": [
+        "borderWidth",
+        "1"
+      ]
+    },
+    "2": {
+      "value": "2",
+      "type": "borderWidth",
+      "filePath": "src/global.json",
+      "isSource": true,
+      "original": {
+        "value": "2",
+        "type": "borderWidth"
+      },
+      "name": "xyz_border_width_2",
+      "attributes": {
+        "category": "borderWidth",
+        "type": "2"
+      },
+      "path": [
+        "borderWidth",
+        "2"
+      ]
+    }
+  },
+  "motion": {
+    "easings": {
+      "easeIn": {
+        "value": "0.76, 0.0, 1.0, 1.0",
+        "type": "other",
+        "filePath": "src/global.json",
+        "isSource": true,
+        "original": {
+          "value": "0.76, 0.0, 1.0, 1.0",
+          "type": "other"
+        },
+        "name": "xyz_motion_easings_ease_in",
+        "attributes": {
+          "category": "motion",
+          "type": "easings",
+          "item": "easeIn"
+        },
+        "path": [
+          "motion",
+          "easings",
+          "easeIn"
+        ]
+      },
+      "easeOut": {
+        "value": "0.0, 0.0, 0.24, 1.0",
+        "type": "other",
+        "filePath": "src/global.json",
+        "isSource": true,
+        "original": {
+          "value": "0.0, 0.0, 0.24, 1.0",
+          "type": "other"
+        },
+        "name": "xyz_motion_easings_ease_out",
+        "attributes": {
+          "category": "motion",
+          "type": "easings",
+          "item": "easeOut"
+        },
+        "path": [
+          "motion",
+          "easings",
+          "easeOut"
+        ]
+      },
+      "easeInOut": {
+        "value": "0.76, 0, 0.24, 1",
+        "type": "other",
+        "filePath": "src/global.json",
+        "isSource": true,
+        "original": {
+          "value": "0.76, 0, 0.24, 1",
+          "type": "other"
+        },
+        "name": "xyz_motion_easings_ease_in_out",
+        "attributes": {
+          "category": "motion",
+          "type": "easings",
+          "item": "easeInOut"
+        },
+        "path": [
+          "motion",
+          "easings",
+          "easeInOut"
+        ]
+      }
+    },
+    "durations": {
+      "direct": {
+        "value": "0.3",
+        "type": "other",
+        "filePath": "src/global.json",
+        "isSource": true,
+        "original": {
+          "value": "0.3",
+          "type": "other"
+        },
+        "name": "xyz_motion_durations_direct",
+        "attributes": {
+          "category": "motion",
+          "type": "durations",
+          "item": "direct"
+        },
+        "path": [
+          "motion",
+          "durations",
+          "direct"
+        ]
+      },
+      "moderate": {
+        "value": "0.6",
+        "type": "other",
+        "filePath": "src/global.json",
+        "isSource": true,
+        "original": {
+          "value": "0.6",
+          "type": "other"
+        },
+        "name": "xyz_motion_durations_moderate",
+        "attributes": {
+          "category": "motion",
+          "type": "durations",
+          "item": "moderate"
+        },
+        "path": [
+          "motion",
+          "durations",
+          "moderate"
+        ]
+      },
+      "relaxed": {
+        "value": "1.2",
+        "type": "other",
+        "filePath": "src/global.json",
+        "isSource": true,
+        "original": {
+          "value": "1.2",
+          "type": "other"
+        },
+        "name": "xyz_motion_durations_relaxed",
+        "attributes": {
+          "category": "motion",
+          "type": "durations",
+          "item": "relaxed"
+        },
+        "path": [
+          "motion",
+          "durations",
+          "relaxed"
+        ]
+      }
     }
   }
 };
