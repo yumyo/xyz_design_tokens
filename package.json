@@ -83,17 +83,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@bitbucket.org/mchappsrvcs/artbasel-design-tokens.git"
+    "url": "git+ssh://git@bitbucket.org/[Organisation]/xyz-design-tokens.git"
   },
   "keywords": [
     "design_tokens"
   ],
-  "author": "DMI",
+  "author": "Acme",
   "workspaces": [
     "packages/**"
   ],
   "bugs": {
-    "url": "https://bitbucket.org/mchappsrvcs/artbasel-design-tokens/issues"
+    "url": "https://bitbucket.org/[Organisation]/xyz-design-tokens/issues"
   },
-  "homepage": "https://bitbucket.org/mchappsrvcs/artbasel-design-tokens#readme"
+  "homepage": "https://bitbucket.org/[Organisation]/xyz-design-tokens#readme"
 }

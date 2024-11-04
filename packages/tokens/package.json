@@ -1,14 +1,14 @@
 {
-  "name": "@mch-group/design-tokens",
-  "description": "MCH Design Tokens",
+  "name": "@xyz-group/design-tokens",
+  "description": "XYZ Design Tokens",
   "version": "0.6.1",
-  "bugs": "https://bitbucket.org/mchappsrvcs/artbasel-design-tokens/issues",
+  "bugs": "https://bitbucket.org/[Org]/artbasel-design-tokens/issues",
   "repository": {
     "type": "git",
-    "url": "https://bitbucket.org/mchappsrvcs/artbasel-design-tokens.git",
+    "url": "https://bitbucket.org/[Org]/artbasel-design-tokens.git",
     "directory": "packages/themes"
   },
-  "homepage": "https://bitbucket.org/mchappsrvcs/artbasel-design-tokens",
+  "homepage": "https://bitbucket.org/[Org]/artbasel-design-tokens",
   "keywords": [
     "sass",
     "css",
@@ -16,7 +16,7 @@
     "tokens"
   ],
   "license": "ISC",
-  "author": "DMI",
+  "author": "Acme",
   "publishConfig": {
     "access": "restricted"
   },

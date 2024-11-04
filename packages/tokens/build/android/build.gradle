@@ -18,7 +18,7 @@ apply plugin: 'com.android.library'
 apply plugin: 'maven-publish'
 
 android {
-    namespace = 'com.mch_design_tokens.styledictionary'
+    namespace = 'com.xyz_design_tokens.styledictionary'
     compileSdkVersion 30
 
     defaultConfig {

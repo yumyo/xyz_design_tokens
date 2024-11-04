@@ -6,7 +6,7 @@
           "0": {
             "value": "#ffffff",
             "type": "color",
-            "description": "On Light Mode (default) this is the pure MCH White colour"
+            "description": "On Light Mode (default) this is the pure XYZ White colour"
           },
           "100": {
             "value": "#f8f8f8",
@@ -47,7 +47,7 @@
           "1000": {
             "value": "#121212",
             "type": "color",
-            "description": "On Light Mode (default), this is the MCH principal Black colour"
+            "description": "On Light Mode (default), this is the XYZ principal Black colour"
           }
         },
         "Alerts": {

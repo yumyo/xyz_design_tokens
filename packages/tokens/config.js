@@ -177,7 +177,7 @@ StyleDictionary.registerTransform({
   transitive: true,
   type: 'value',
   matcher: function(token) { 
-    return (token.type === 'paragraphIndent' || token.name === 'mch_paragraph_indent_0') || token.name === 'mchParagraphIndent0';
+    return (token.type === 'paragraphIndent' || token.name === 'xyz_paragraph_indent_0') || token.name === 'xyzParagraphIndent0';
   },
   transformer: function(token) {
     return (token.value === "0px" ? parseFloat(token.value.replace(/px$/g, '')) : token.value);
@@ -312,7 +312,7 @@ async function run() {
       iosSwift: {
         transforms: ["attribute/cti","name/cti/camel","custom-color/ColorSwiftUI","content/swift/literal","asset/swift/literal","size/swift/remToCGFloat","font/swift/literal","font-family/quote/fix",'ts/type/fontWeight',"text-decoration/quote","remove/space/px","remove/letterspacing/%", 'shadow/quote',"remove/pindent/px", "integerToFloat"],
         buildPath: "../swift/Sources/artbaseldesigntokens/",
-        prefix: "mch_",
+        prefix: "xyz_",
         files: [{
             filter: function(prop) {
               return ((prop.type === 'fontSizes' || 
@@ -341,7 +341,7 @@ async function run() {
       android: {
         transforms: ["attribute/cti", "name/cti/snake", "color/hexAndroid", "android-size/sp" , "size/remToDp", "android-size/dp"],
         buildPath: "build/android/src/main/res/values/",
-        prefix: "mch_",
+        prefix: "xyz_",
         files: [
           {
             filter: function(prop) {
@@ -385,7 +385,7 @@ async function run() {
           // transformGroup: 'js',
           transforms: ["attribute/cti", "name/cti/snake", "fontSize/pxToRem", "color/hex", 'ts/type/fontWeight', "remove/pindent/px", "convertUnit/letterspacing/%"],
           buildPath: 'build/js/',
-          prefix: "mch_",
+          prefix: "xyz_",
           files: [
             {
               format: 'javascript/es6',
@@ -397,7 +397,7 @@ async function run() {
           // transformGroup: 'js',
           transforms: ["attribute/cti", "name/cti/snake", "fontSize/pxToRem", "color/hex", 'ts/type/fontWeight', "remove/pindent/px", "convertUnit/letterspacing/%"],
           buildPath: 'build/js/',
-          prefix: "mch_",
+          prefix: "xyz_",
           files: [
             {
               format: 'jsModuleCamelCase',
@@ -413,7 +413,7 @@ async function run() {
           // transformGroup: "scss",
           transforms: ["attribute/cti","name/cti/snake", "time/seconds","content/icon","font-family/quote/fix","fontSize/pxToRem","color/css",'ts/type/fontWeight',"convertUnit/letterspacing/%","remove/pindent/px", "remove/maxWidth/px"],
           buildPath: "build/scss/",
-          prefix: "mch_",
+          prefix: "xyz_",
           files: [
           {
             destination: `_${designTokensFileName}.scss`,
@@ -440,7 +440,7 @@ async function run() {
             'font-family/quote/fix',
           ],
           buildPath: "build/css/",
-          prefix: "mch_",
+          prefix: "xyz_",
           files: [
             {
               destination: `${designTokensFileName}.css`,
@@ -463,7 +463,7 @@ async function run() {
           // transformGroup: "scss",
           transforms: ["attribute/cti","name/cti/snake", "time/seconds","content/icon","font-family/quote/fix","fontSize/pxToRem","color/css",'ts/type/fontWeight',"convertUnit/letterspacing/%","remove/pindent/px", "remove/maxWidth/px"],
           buildPath: "build/scss/",
-          prefix: "mch_",
+          prefix: "xyz_",
           files: [
           {
             destination: `_design_tokens_new_type.scss`,

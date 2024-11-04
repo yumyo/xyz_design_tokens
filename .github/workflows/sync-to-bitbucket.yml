@@ -1,43 +1,43 @@
-name: Build Tokens & Sync main branch to Bitbucket
+# name: Build Tokens & Sync main branch to Bitbucket
 
-on: [push, pull_request]
+# on: [push, pull_request]
 
-jobs:
-  generate_tokens-n-git_mirror:
-    runs-on: ubuntu-latest
+# jobs:
+#   generate_tokens-n-git_mirror:
+#     runs-on: ubuntu-latest
     
-    permissions:
-      contents: write
+#     permissions:
+#       contents: write
 
-    steps:
-    - uses: actions/checkout@v3
-      with:
-        fetch-depth: 0
-        ref: update-tokens
-    - uses: actions/setup-node@v3
-      with:
-        node-version: "16"
-    - name: Install Node Dependencies
-      run: yarn
-    - name: Build Style Dictionary
-      run: npm run build
-    - name: Commit Generated Platform Deliverables
-      id: auto-commit-action
-      uses: stefanzweifel/git-auto-commit-action@v4
-      with:
-        commit_message: Update design tokens (action) 
+#     steps:
+#     - uses: actions/checkout@v3
+#       with:
+#         fetch-depth: 0
+#         ref: update-tokens
+#     - uses: actions/setup-node@v3
+#       with:
+#         node-version: "16"
+#     - name: Install Node Dependencies
+#       run: yarn
+#     - name: Build Style Dictionary
+#       run: npm run build
+#     - name: Commit Generated Platform Deliverables
+#       id: auto-commit-action
+#       uses: stefanzweifel/git-auto-commit-action@v4
+#       with:
+#         commit_message: Update design tokens (action) 
 
-    - name: Checkout
-      uses: actions/checkout@v3
-      with:
-        fetch-depth: 0 # <-- clone with complete history
-        ref: update-tokens
+#     - name: Checkout
+#       uses: actions/checkout@v3
+#       with:
+#         fetch-depth: 0 # <-- clone with complete history
+#         ref: update-tokens
         
-    - name: Push
-      uses: heussd/mirror-to-bitbucket-github-action@v2
-      with:
-        spacename: ${{ secrets.BITBUCKET_SPACENAME }}
-        repository: ${{ secrets.BITBUCKET_REPONAME }}
-        password: ${{ secrets.BITBUCKET_APP_PASSWORD }}
-        username: ${{ secrets.BITBUCKET_USERNAME }}
+#     - name: Push
+#       uses: heussd/mirror-to-bitbucket-github-action@v2
+#       with:
+#         spacename: ${{ secrets.BITBUCKET_SPACENAME }}
+#         repository: ${{ secrets.BITBUCKET_REPONAME }}
+#         password: ${{ secrets.BITBUCKET_APP_PASSWORD }}
+#         username: ${{ secrets.BITBUCKET_USERNAME }}
         
